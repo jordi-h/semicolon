@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, type ReactNode } from 'react'
 import { Navigate, useNavigate } from 'react-router-dom'
 
 import { Button } from '@/components/ui/button'
@@ -6,11 +6,26 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Logo } from '@/components/Logo'
-import { useAuth } from '@/features/auth/AuthContext'
+import { GoogleIcon } from '@/components/icons/GoogleIcon'
+import { GithubIcon } from '@/components/icons/GithubIcon'
+import { FacebookIcon } from '@/components/icons/FacebookIcon'
+import { useAuth, type OAuthProvider } from '@/features/auth/AuthContext'
+
+const OAUTH_PROVIDERS: { id: OAuthProvider; label: string; icon: ReactNode }[] = [
+  { id: 'google', label: 'Google', icon: <GoogleIcon className="h-4 w-4" /> },
+  { id: 'github', label: 'GitHub', icon: <GithubIcon className="h-4 w-4" /> },
+  { id: 'facebook', label: 'Facebook', icon: <FacebookIcon className="h-4 w-4" /> },
+]
 
 export function AuthPage() {
-  const { user, authRequired, signInWithPassword, signUpWithPassword, signInWithMagicLink } =
-    useAuth()
+  const {
+    user,
+    authRequired,
+    signInWithPassword,
+    signUpWithPassword,
+    signInWithMagicLink,
+    signInWithOAuth,
+  } = useAuth()
   const navigate = useNavigate()
 
   const [email, setEmail] = useState('')
@@ -18,6 +33,7 @@ export function AuthPage() {
   const [error, setError] = useState<string | null>(null)
   const [magicLinkSent, setMagicLinkSent] = useState(false)
   const [submitting, setSubmitting] = useState(false)
+  const [oauthPending, setOauthPending] = useState<OAuthProvider | null>(null)
 
   if (!authRequired || user) {
     return <Navigate to="/feed" replace />
@@ -51,6 +67,18 @@ export function AuthPage() {
     setMagicLinkSent(true)
   }
 
+  async function handleOAuth(provider: OAuthProvider) {
+    setError(null)
+    setOauthPending(provider)
+    const result = await signInWithOAuth(provider)
+    // A successful call navigates the browser away immediately, so only
+    // reaching here with an error means it's worth resetting the button.
+    if (result.error) {
+      setError(result.error)
+      setOauthPending(null)
+    }
+  }
+
   return (
     <div className="mx-auto flex h-full max-w-sm flex-col justify-center gap-6 p-6">
       <div className="flex flex-col items-center gap-3 text-center">
@@ -59,6 +87,27 @@ export function AuthPage() {
           <h1 className="text-2xl font-bold">semicolon</h1>
           <p className="text-muted-foreground">Bite-sized knowledge, one card at a time.</p>
         </div>
+      </div>
+
+      <div className="space-y-2">
+        {OAUTH_PROVIDERS.map(({ id, label, icon }) => (
+          <Button
+            key={id}
+            variant="outline"
+            className="w-full gap-2"
+            disabled={oauthPending !== null}
+            onClick={() => handleOAuth(id)}
+          >
+            {icon}
+            {oauthPending === id ? 'Redirecting…' : `Continue with ${label}`}
+          </Button>
+        ))}
+      </div>
+
+      <div className="flex items-center gap-3">
+        <div className="h-px flex-1 bg-border" />
+        <span className="text-xs text-muted-foreground">or use email</span>
+        <div className="h-px flex-1 bg-border" />
       </div>
 
       <Tabs defaultValue="signin">
