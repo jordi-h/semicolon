@@ -3,6 +3,8 @@ import type { TranslationKey } from '@/lib/i18n/en'
 export const es: Record<TranslationKey, string> = {
   appTagline: 'Conocimiento en bocados pequeños, una tarjeta a la vez.',
 
+  'common.close': 'Cerrar',
+
   'auth.continueWithGoogle': 'Continuar con Google',
   'auth.redirecting': 'Redirigiendo…',
   'auth.orUseEmail': 'o usa tu email',
@@ -14,6 +16,13 @@ export const es: Record<TranslationKey, string> = {
   'auth.magicLinkCta': 'Enviarme un enlace mágico en su lugar',
   'auth.signInSubmit': 'Iniciar sesión',
   'auth.signUpSubmit': 'Crear cuenta',
+
+  'auth.error.invalidCredentials': 'Email o contraseña incorrectos.',
+  'auth.error.userExists': 'Ya existe una cuenta con este email.',
+  'auth.error.weakPassword': 'La contraseña es demasiado débil — prueba una más larga.',
+  'auth.error.rateLimited': 'Demasiados intentos — espera un momento e inténtalo de nuevo.',
+  'auth.error.emailNotConfirmed': 'Confirma tu email antes de iniciar sesión.',
+  'auth.error.generic': 'Algo salió mal — inténtalo de nuevo.',
 
   'onboarding.titleEdit': 'Actualiza tus intereses',
   'onboarding.titleNew': '¿Qué quieres aprender?',
@@ -27,7 +36,7 @@ export const es: Record<TranslationKey, string> = {
   'feed.emptyTitle': 'Aún no hay datos en los temas que elegiste.',
   'feed.emptyBefore': 'Añade más temas desde',
   'feed.emptyLink': 'ajustes',
-  'feed.scrollHint': 'Desliza, haz scroll o pulsa ↓ para el siguiente dato',
+  'feed.scrollHint': 'Desliza hacia arriba',
 
   'fact.rememberThis': '¿Te acuerdas?',
   'fact.whyItMatters': 'Por qué importa',

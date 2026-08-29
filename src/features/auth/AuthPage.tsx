@@ -8,6 +8,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Logo } from '@/components/Logo'
 import { GoogleIcon } from '@/components/icons/GoogleIcon'
 import { useAuth } from '@/features/auth/AuthContext'
+import { localizeAuthError } from '@/lib/i18n/authErrors'
 import { useLocale } from '@/lib/i18n/LocaleContext'
 
 export function AuthPage() {
@@ -42,8 +43,8 @@ export function AuthPage() {
         : await signUpWithPassword(email, password)
     setSubmitting(false)
 
-    if (result.error) {
-      setError(result.error)
+    if (result.errorCode) {
+      setError(localizeAuthError(result.errorCode, t))
       return
     }
     navigate('/onboarding')
@@ -54,8 +55,8 @@ export function AuthPage() {
     setSubmitting(true)
     const result = await signInWithMagicLink(email)
     setSubmitting(false)
-    if (result.error) {
-      setError(result.error)
+    if (result.errorCode) {
+      setError(localizeAuthError(result.errorCode, t))
       return
     }
     setMagicLinkSent(true)
@@ -67,8 +68,8 @@ export function AuthPage() {
     const result = await signInWithOAuth()
     // A successful call navigates the browser away immediately, so only
     // reaching here with an error means it's worth resetting the button.
-    if (result.error) {
-      setError(result.error)
+    if (result.errorCode) {
+      setError(localizeAuthError(result.errorCode, t))
       setOauthPending(false)
     }
   }

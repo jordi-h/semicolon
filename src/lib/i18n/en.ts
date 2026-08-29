@@ -6,6 +6,8 @@
 export const en = {
   appTagline: 'Bite-sized knowledge, one card at a time.',
 
+  'common.close': 'Close',
+
   'auth.continueWithGoogle': 'Continue with Google',
   'auth.redirecting': 'Redirecting…',
   'auth.orUseEmail': 'or use email',
@@ -17,6 +19,13 @@ export const en = {
   'auth.magicLinkCta': 'Email me a magic link instead',
   'auth.signInSubmit': 'Sign in',
   'auth.signUpSubmit': 'Create account',
+
+  'auth.error.invalidCredentials': 'Incorrect email or password.',
+  'auth.error.userExists': 'An account with this email already exists.',
+  'auth.error.weakPassword': 'Password is too weak — try a longer one.',
+  'auth.error.rateLimited': 'Too many attempts — please wait a moment and try again.',
+  'auth.error.emailNotConfirmed': 'Please confirm your email before signing in.',
+  'auth.error.generic': 'Something went wrong — please try again.',
 
   'onboarding.titleEdit': 'Update your interests',
   'onboarding.titleNew': 'What do you want to learn about?',
@@ -30,7 +39,7 @@ export const en = {
   'feed.emptyTitle': 'No facts yet in your chosen domains.',
   'feed.emptyBefore': 'Try adding more domains from',
   'feed.emptyLink': 'settings',
-  'feed.scrollHint': 'Scroll, swipe up, or press ↓ for the next fact',
+  'feed.scrollHint': 'Swipe up for more',
 
   'fact.rememberThis': 'Remember this?',
   'fact.whyItMatters': 'Why it matters',

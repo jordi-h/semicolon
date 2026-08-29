@@ -3,6 +3,8 @@ import type { TranslationKey } from '@/lib/i18n/en'
 export const fr: Record<TranslationKey, string> = {
   appTagline: 'Des connaissances en petites bouchées, une carte à la fois.',
 
+  'common.close': 'Fermer',
+
   'auth.continueWithGoogle': 'Continuer avec Google',
   'auth.redirecting': 'Redirection…',
   'auth.orUseEmail': 'ou utilisez votre email',
@@ -14,6 +16,13 @@ export const fr: Record<TranslationKey, string> = {
   'auth.magicLinkCta': "M'envoyer un lien de connexion à la place",
   'auth.signInSubmit': 'Se connecter',
   'auth.signUpSubmit': 'Créer un compte',
+
+  'auth.error.invalidCredentials': 'Email ou mot de passe incorrect.',
+  'auth.error.userExists': 'Un compte existe déjà avec cet email.',
+  'auth.error.weakPassword': 'Mot de passe trop faible — essayez-en un plus long.',
+  'auth.error.rateLimited': 'Trop de tentatives — veuillez patienter puis réessayer.',
+  'auth.error.emailNotConfirmed': 'Veuillez confirmer votre email avant de vous connecter.',
+  'auth.error.generic': 'Une erreur est survenue — veuillez réessayer.',
 
   'onboarding.titleEdit': 'Modifiez vos centres d\'intérêt',
   'onboarding.titleNew': 'Que voulez-vous apprendre ?',
@@ -27,7 +36,7 @@ export const fr: Record<TranslationKey, string> = {
   'feed.emptyTitle': 'Aucune information dans vos domaines choisis pour le moment.',
   'feed.emptyBefore': 'Ajoutez d\'autres domaines dans les',
   'feed.emptyLink': 'paramètres',
-  'feed.scrollHint': 'Faites défiler, glissez vers le haut, ou appuyez sur ↓ pour la suite',
+  'feed.scrollHint': 'Glissez vers le haut',
 
   'fact.rememberThis': 'Vous vous souvenez ?',
   'fact.whyItMatters': "Pourquoi c'est important",

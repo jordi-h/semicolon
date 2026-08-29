@@ -3,6 +3,8 @@ import type { TranslationKey } from '@/lib/i18n/en'
 export const nl: Record<TranslationKey, string> = {
   appTagline: 'Kennis in hapklare brokjes, één kaart per keer.',
 
+  'common.close': 'Sluiten',
+
   'auth.continueWithGoogle': 'Doorgaan met Google',
   'auth.redirecting': 'Doorverwijzen…',
   'auth.orUseEmail': 'of gebruik je e-mail',
@@ -14,6 +16,13 @@ export const nl: Record<TranslationKey, string> = {
   'auth.magicLinkCta': 'Stuur me in plaats daarvan een magische link',
   'auth.signInSubmit': 'Inloggen',
   'auth.signUpSubmit': 'Account aanmaken',
+
+  'auth.error.invalidCredentials': 'Onjuist e-mailadres of wachtwoord.',
+  'auth.error.userExists': 'Er bestaat al een account met dit e-mailadres.',
+  'auth.error.weakPassword': 'Wachtwoord is te zwak — probeer een langer wachtwoord.',
+  'auth.error.rateLimited': 'Te veel pogingen — wacht even en probeer het opnieuw.',
+  'auth.error.emailNotConfirmed': 'Bevestig je e-mailadres voordat je inlogt.',
+  'auth.error.generic': 'Er is iets misgegaan — probeer het opnieuw.',
 
   'onboarding.titleEdit': 'Werk je interesses bij',
   'onboarding.titleNew': 'Wat wil je leren?',
@@ -27,7 +36,7 @@ export const nl: Record<TranslationKey, string> = {
   'feed.emptyTitle': 'Nog geen feitjes in je gekozen onderwerpen.',
   'feed.emptyBefore': 'Voeg meer onderwerpen toe via',
   'feed.emptyLink': 'instellingen',
-  'feed.scrollHint': 'Scroll, swipe omhoog, of druk op ↓ voor het volgende feitje',
+  'feed.scrollHint': 'Swipe omhoog voor meer',
 
   'fact.rememberThis': 'Weet je het nog?',
   'fact.whyItMatters': 'Waarom het ertoe doet',

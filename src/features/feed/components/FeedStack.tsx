@@ -1,5 +1,11 @@
 import { useEffect, useRef, useState } from 'react'
-import { AnimatePresence, motion, useReducedMotion, type PanInfo, type Variants } from 'framer-motion'
+import {
+  AnimatePresence,
+  motion,
+  useReducedMotion,
+  type PanInfo,
+  type Variants,
+} from 'framer-motion'
 import { ChevronDown, ChevronUp } from 'lucide-react'
 
 import { ExhaustionNotice } from '@/features/feed/components/ExhaustionNotice'
@@ -202,9 +208,14 @@ export function FeedStack({
         <ExhaustionNotice onDismiss={onDismissExhaustionNotice} />
       )}
 
-      <div className="pointer-events-none absolute inset-x-0 bottom-2 z-10 flex flex-col items-center gap-0.5 text-white/50">
+      <div className="pointer-events-none absolute inset-x-0 bottom-2 z-10 flex flex-col items-center gap-0.5 px-8 text-white/50">
         <ChevronUp size={16} className="hidden sm:block" aria-hidden="true" />
-        <span className="text-label uppercase">{t('feed.scrollHint')}</span>
+        {/* Translations vary a lot in length — this must never force a
+         * single line off-screen. Wrap onto up to two balanced lines
+         * within a bounded width instead of overflowing horizontally. */}
+        <span className="block max-w-[220px] text-balance text-center text-[10px] uppercase leading-tight tracking-wide sm:text-label">
+          {t('feed.scrollHint')}
+        </span>
         <ChevronDown size={16} aria-hidden="true" />
       </div>
     </div>
