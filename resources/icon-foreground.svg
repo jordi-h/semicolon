@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g transform="translate(256 256) scale(0.68) translate(-256 -256)">
+    <circle cx="256" cy="196" r="54" fill="#ffffff" />
+    <path
+      d="M 210 306
+         a 54 54 0 1 1 76 46
+         q -4 46 -70 92
+         q -20 12 -30 4
+         q -8 -8 4 -22
+         q 44 -40 46 -78
+         a 54 54 0 0 1 -26 -42 Z"
+      fill="#ffffff"
+    />
+  </g>
+</svg>

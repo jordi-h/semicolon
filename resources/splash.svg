@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2732 2732">
+  <defs>
+    <linearGradient id="mark-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a78bfa" />
+      <stop offset="55%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#4c1d95" />
+    </linearGradient>
+  </defs>
+
+  <rect width="2732" height="2732" fill="#0a0a0f" />
+
+  <g transform="translate(1066 1066)">
+    <rect width="600" height="600" rx="132" fill="url(#mark-bg)" />
+    <circle cx="300" cy="229" r="63" fill="#ffffff" />
+    <path
+      d="M 246 358
+         a 63 63 0 1 1 89 54
+         q -5 54 -82 108
+         q -23 14 -35 5
+         q -9 -9 5 -26
+         q 51 -47 54 -91
+         a 63 63 0 0 1 -31 -50 Z"
+      fill="#ffffff"
+    />
+  </g>
+</svg>
