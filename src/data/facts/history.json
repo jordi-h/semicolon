@@ -4,11 +4,23 @@
     "domain": "history",
     "hook": "Cleopatra lived closer to the Moon landing than to the pyramids.",
     "fact": "The Great Pyramid of Giza was built around 2560 BCE, while Cleopatra ruled Egypt around 30 BCE — meaning more time separates the pyramid's construction from her reign than separates her from the 1969 Moon landing.",
-    "tags": ["ancient-egypt", "timelines"],
+    "tags": [
+      "ancient-egypt",
+      "timelines"
+    ],
     "translations": {
-      "fr": { "hook": "Cléopâtre a vécu plus proche du débarquement sur la Lune que des pyramides.", "fact": "La Grande Pyramide de Gizeh fut construite vers 2560 av. J.-C., tandis que Cléopâtre régna sur l'Égypte vers 30 av. J.-C. — ce qui signifie que plus de temps sépare la construction de la pyramide de son règne que son règne du débarquement sur la Lune en 1969." },
-      "nl": { "hook": "Cleopatra leefde dichter bij de maanlanding dan bij de piramides.", "fact": "De Grote Piramide van Gizeh werd rond 2560 v.Chr. gebouwd, terwijl Cleopatra rond 30 v.Chr. over Egypte regeerde — er zit dus meer tijd tussen de bouw van de piramide en haar heerschappij dan tussen haar heerschappij en de maanlanding van 1969." },
-      "es": { "hook": "Cleopatra vivió más cerca de la llegada a la Luna que de las pirámides.", "fact": "La Gran Pirámide de Guiza se construyó hacia el 2560 a.C., mientras que Cleopatra gobernó Egipto hacia el 30 a.C., lo que significa que pasó más tiempo entre la construcción de la pirámide y su reinado que entre su reinado y la llegada a la Luna en 1969." }
+      "fr": {
+        "hook": "Cléopâtre a vécu plus proche du débarquement sur la Lune que des pyramides.",
+        "fact": "La Grande Pyramide de Gizeh fut construite vers 2560 av. J.-C., tandis que Cléopâtre régna sur l'Égypte vers 30 av. J.-C. — ce qui signifie que plus de temps sépare la construction de la pyramide de son règne que son règne du débarquement sur la Lune en 1969."
+      },
+      "nl": {
+        "hook": "Cleopatra leefde dichter bij de maanlanding dan bij de piramides.",
+        "fact": "De Grote Piramide van Gizeh werd rond 2560 v.Chr. gebouwd, terwijl Cleopatra rond 30 v.Chr. over Egypte regeerde — er zit dus meer tijd tussen de bouw van de piramide en haar heerschappij dan tussen haar heerschappij en de maanlanding van 1969."
+      },
+      "es": {
+        "hook": "Cleopatra vivió más cerca de la llegada a la Luna que de las pirámides.",
+        "fact": "La Gran Pirámide de Guiza se construyó hacia el 2560 a.C., mientras que Cleopatra gobernó Egipto hacia el 30 a.C., lo que significa que pasó más tiempo entre la construcción de la pirámide y su reinado que entre su reinado y la llegada a la Luna en 1969."
+      }
     }
   },
   {
@@ -16,11 +28,23 @@
     "domain": "history",
     "hook": "The shortest war in history lasted under an hour.",
     "fact": "The Anglo-Zanzibar War of 1896 lasted approximately 38 to 45 minutes, making it the shortest recorded war in history.",
-    "tags": ["war", "records"],
+    "tags": [
+      "war",
+      "records"
+    ],
     "translations": {
-      "fr": { "hook": "La guerre la plus courte de l'histoire a duré moins d'une heure.", "fact": "La guerre anglo-zanzibarite de 1896 a duré environ 38 à 45 minutes, ce qui en fait la guerre la plus courte jamais enregistrée." },
-      "nl": { "hook": "De kortste oorlog ooit duurde minder dan een uur.", "fact": "De Engels-Zanzibarese Oorlog van 1896 duurde ongeveer 38 tot 45 minuten, wat er de kortst geregistreerde oorlog ooit van maakt." },
-      "es": { "hook": "La guerra más corta de la historia duró menos de una hora.", "fact": "La guerra anglo-zanzibariana de 1896 duró aproximadamente entre 38 y 45 minutos, lo que la convierte en la guerra más corta registrada en la historia." }
+      "fr": {
+        "hook": "La guerre la plus courte de l'histoire a duré moins d'une heure.",
+        "fact": "La guerre anglo-zanzibarite de 1896 a duré environ 38 à 45 minutes, ce qui en fait la guerre la plus courte jamais enregistrée."
+      },
+      "nl": {
+        "hook": "De kortste oorlog ooit duurde minder dan een uur.",
+        "fact": "De Engels-Zanzibarese Oorlog van 1896 duurde ongeveer 38 tot 45 minuten, wat er de kortst geregistreerde oorlog ooit van maakt."
+      },
+      "es": {
+        "hook": "La guerra más corta de la historia duró menos de una hora.",
+        "fact": "La guerra anglo-zanzibariana de 1896 duró aproximadamente entre 38 y 45 minutos, lo que la convierte en la guerra más corta registrada en la historia."
+      }
     }
   },
   {
@@ -28,11 +52,23 @@
     "domain": "history",
     "hook": "Oxford University is older than the Aztec Empire.",
     "fact": "Teaching at Oxford began as early as 1096, while the Aztec city of Tenochtitlan wasn't founded until 1325 — making Oxford roughly two centuries older.",
-    "tags": ["education", "timelines"],
+    "tags": [
+      "education",
+      "timelines"
+    ],
     "translations": {
-      "fr": { "hook": "L'université d'Oxford est plus ancienne que l'Empire aztèque.", "fact": "L'enseignement à Oxford a commencé dès 1096, alors que la ville aztèque de Tenochtitlan n'a été fondée qu'en 1325 — Oxford est donc plus ancienne d'environ deux siècles." },
-      "nl": { "hook": "De Universiteit van Oxford is ouder dan het Azteekse Rijk.", "fact": "Er werd al vanaf 1096 lesgegeven in Oxford, terwijl de Azteekse stad Tenochtitlan pas in 1325 werd gesticht — Oxford is dus zo'n twee eeuwen ouder." },
-      "es": { "hook": "La Universidad de Oxford es más antigua que el Imperio azteca.", "fact": "En Oxford ya se impartía enseñanza desde 1096, mientras que la ciudad azteca de Tenochtitlan no se fundó hasta 1325, lo que hace que Oxford sea unos dos siglos más antigua." }
+      "fr": {
+        "hook": "L'université d'Oxford est plus ancienne que l'Empire aztèque.",
+        "fact": "L'enseignement à Oxford a commencé dès 1096, alors que la ville aztèque de Tenochtitlan n'a été fondée qu'en 1325 — Oxford est donc plus ancienne d'environ deux siècles."
+      },
+      "nl": {
+        "hook": "De Universiteit van Oxford is ouder dan het Azteekse Rijk.",
+        "fact": "Er werd al vanaf 1096 lesgegeven in Oxford, terwijl de Azteekse stad Tenochtitlan pas in 1325 werd gesticht — Oxford is dus zo'n twee eeuwen ouder."
+      },
+      "es": {
+        "hook": "La Universidad de Oxford es más antigua que el Imperio azteca.",
+        "fact": "En Oxford ya se impartía enseñanza desde 1096, mientras que la ciudad azteca de Tenochtitlan no se fundó hasta 1325, lo que hace que Oxford sea unos dos siglos más antigua."
+      }
     }
   },
   {
@@ -40,11 +76,23 @@
     "domain": "history",
     "hook": "Napoleon wasn't actually short.",
     "fact": "Napoleon Bonaparte stood about 5'7\" (170cm), average for a Frenchman of his era — the 'short' myth likely came from British propaganda and a mix-up between French and English measurement units.",
-    "tags": ["myths", "europe"],
+    "tags": [
+      "myths",
+      "europe"
+    ],
     "translations": {
-      "fr": { "hook": "Napoléon n'était pas vraiment petit.", "fact": "Napoléon Bonaparte mesurait environ 1,70 m, une taille moyenne pour un Français de son époque — le mythe du « petit Napoléon » viendrait de la propagande britannique et d'une confusion entre unités de mesure françaises et anglaises." },
-      "nl": { "hook": "Napoleon was helemaal niet klein.", "fact": "Napoleon Bonaparte was ongeveer 1,70 m lang, gemiddeld voor een Fransman uit zijn tijd — de mythe dat hij klein was, komt waarschijnlijk van Britse propaganda en een verwarring tussen Franse en Engelse maateenheden." },
-      "es": { "hook": "Napoleón no era realmente bajo.", "fact": "Napoleón Bonaparte medía alrededor de 1,70 m, una estatura media para un francés de su época — el mito de que era bajito probablemente surgió de la propaganda británica y una confusión entre las unidades de medida francesas e inglesas." }
+      "fr": {
+        "hook": "Napoléon n'était pas vraiment petit.",
+        "fact": "Napoléon Bonaparte mesurait environ 1,70 m, une taille moyenne pour un Français de son époque — le mythe du « petit Napoléon » viendrait de la propagande britannique et d'une confusion entre unités de mesure françaises et anglaises."
+      },
+      "nl": {
+        "hook": "Napoleon was helemaal niet klein.",
+        "fact": "Napoleon Bonaparte was ongeveer 1,70 m lang, gemiddeld voor een Fransman uit zijn tijd — de mythe dat hij klein was, komt waarschijnlijk van Britse propaganda en een verwarring tussen Franse en Engelse maateenheden."
+      },
+      "es": {
+        "hook": "Napoleón no era realmente bajo.",
+        "fact": "Napoleón Bonaparte medía alrededor de 1,70 m, una estatura media para un francés de su época — el mito de que era bajito probablemente surgió de la propaganda británica y una confusión entre las unidades de medida francesas e inglesas."
+      }
     }
   },
   {
@@ -52,11 +100,23 @@
     "domain": "history",
     "hook": "The Great Wall of China wasn't built all at once.",
     "fact": "The wall is a patchwork of fortifications built and rebuilt by different dynasties over roughly 2,000 years, not a single continuous construction project.",
-    "tags": ["china", "architecture"],
+    "tags": [
+      "china",
+      "architecture"
+    ],
     "translations": {
-      "fr": { "hook": "La Grande Muraille de Chine n'a pas été construite en une seule fois.", "fact": "La muraille est un assemblage de fortifications construites et reconstruites par différentes dynasties sur environ 2000 ans, et non un projet de construction unique et continu." },
-      "nl": { "hook": "De Chinese Muur werd niet in één keer gebouwd.", "fact": "De muur is een lappendeken van vestingwerken die door verschillende dynastieën over zo'n 2000 jaar werden gebouwd en herbouwd, en geen enkel doorlopend bouwproject." },
-      "es": { "hook": "La Gran Muralla China no se construyó de una sola vez.", "fact": "La muralla es un mosaico de fortificaciones construidas y reconstruidas por distintas dinastías a lo largo de unos 2000 años, no un único proyecto de construcción continuo." }
+      "fr": {
+        "hook": "La Grande Muraille de Chine n'a pas été construite en une seule fois.",
+        "fact": "La muraille est un assemblage de fortifications construites et reconstruites par différentes dynasties sur environ 2000 ans, et non un projet de construction unique et continu."
+      },
+      "nl": {
+        "hook": "De Chinese Muur werd niet in één keer gebouwd.",
+        "fact": "De muur is een lappendeken van vestingwerken die door verschillende dynastieën over zo'n 2000 jaar werden gebouwd en herbouwd, en geen enkel doorlopend bouwproject."
+      },
+      "es": {
+        "hook": "La Gran Muralla China no se construyó de una sola vez.",
+        "fact": "La muralla es un mosaico de fortificaciones construidas y reconstruidas por distintas dinastías a lo largo de unos 2000 años, no un único proyecto de construcción continuo."
+      }
     }
   },
   {
@@ -64,11 +124,23 @@
     "domain": "history",
     "hook": "Vikings never actually wore horned helmets.",
     "fact": "No archaeological evidence supports horned Viking helmets — the image was largely popularized by 19th-century opera costume design, centuries after the Viking Age ended.",
-    "tags": ["myths", "vikings"],
+    "tags": [
+      "myths",
+      "vikings"
+    ],
     "translations": {
-      "fr": { "hook": "Les Vikings n'ont jamais porté de casques à cornes.", "fact": "Aucune preuve archéologique ne soutient l'existence de casques à cornes vikings — cette image a surtout été popularisée par les costumes d'opéra du XIXe siècle, des siècles après la fin de l'ère viking." },
-      "nl": { "hook": "Vikingen droegen nooit hoorns op hun helm.", "fact": "Er is geen archeologisch bewijs voor Vikinghelmen met hoorns — het beeld werd vooral gepopulariseerd door 19e-eeuwse operakostuums, eeuwen na het einde van het Vikingtijdperk." },
-      "es": { "hook": "Los vikingos nunca llevaron cascos con cuernos.", "fact": "No existe evidencia arqueológica que respalde los cascos vikingos con cuernos — esa imagen se popularizó sobre todo gracias al vestuario de ópera del siglo XIX, siglos después de que terminara la era vikinga." }
+      "fr": {
+        "hook": "Les Vikings n'ont jamais porté de casques à cornes.",
+        "fact": "Aucune preuve archéologique ne soutient l'existence de casques à cornes vikings — cette image a surtout été popularisée par les costumes d'opéra du XIXe siècle, des siècles après la fin de l'ère viking."
+      },
+      "nl": {
+        "hook": "Vikingen droegen nooit hoorns op hun helm.",
+        "fact": "Er is geen archeologisch bewijs voor Vikinghelmen met hoorns — het beeld werd vooral gepopulariseerd door 19e-eeuwse operakostuums, eeuwen na het einde van het Vikingtijdperk."
+      },
+      "es": {
+        "hook": "Los vikingos nunca llevaron cascos con cuernos.",
+        "fact": "No existe evidencia arqueológica que respalde los cascos vikingos con cuernos — esa imagen se popularizó sobre todo gracias al vestuario de ópera del siglo XIX, siglos después de que terminara la era vikinga."
+      }
     }
   },
   {
@@ -76,11 +148,23 @@
     "domain": "history",
     "hook": "A woman ruled Egypt as pharaoh for over 20 years.",
     "fact": "Hatshepsut, who reigned around 1479–1458 BCE, was one of the most successful pharaohs in Egyptian history, overseeing major building projects and trade expeditions while sometimes depicted with a false pharaonic beard.",
-    "tags": ["ancient-egypt", "leaders"],
+    "tags": [
+      "ancient-egypt",
+      "leaders"
+    ],
     "translations": {
-      "fr": { "hook": "Une femme a régné sur l'Égypte en tant que pharaon pendant plus de 20 ans.", "fact": "Hatchepsout, qui régna vers 1479-1458 av. J.-C., fut l'un des pharaons les plus accomplis de l'histoire égyptienne, supervisant d'importants projets de construction et expéditions commerciales, parfois représentée avec une fausse barbe pharaonique." },
-      "nl": { "hook": "Een vrouw regeerde meer dan 20 jaar als farao over Egypte.", "fact": "Hatsjepsoet, die rond 1479-1458 v.Chr. regeerde, was een van de succesvolste farao's uit de Egyptische geschiedenis en gaf leiding aan grote bouwprojecten en handelsexpedities, soms afgebeeld met een valse farao-baard." },
-      "es": { "hook": "Una mujer gobernó Egipto como faraón durante más de 20 años.", "fact": "Hatshepsut, que reinó hacia el 1479-1458 a.C., fue una de las faraonas más exitosas de la historia egipcia, al frente de grandes proyectos de construcción y expediciones comerciales, y en ocasiones se la representaba con una barba postiza faraónica." }
+      "fr": {
+        "hook": "Une femme a régné sur l'Égypte en tant que pharaon pendant plus de 20 ans.",
+        "fact": "Hatchepsout, qui régna vers 1479-1458 av. J.-C., fut l'un des pharaons les plus accomplis de l'histoire égyptienne, supervisant d'importants projets de construction et expéditions commerciales, parfois représentée avec une fausse barbe pharaonique."
+      },
+      "nl": {
+        "hook": "Een vrouw regeerde meer dan 20 jaar als farao over Egypte.",
+        "fact": "Hatsjepsoet, die rond 1479-1458 v.Chr. regeerde, was een van de succesvolste farao's uit de Egyptische geschiedenis en gaf leiding aan grote bouwprojecten en handelsexpedities, soms afgebeeld met een valse farao-baard."
+      },
+      "es": {
+        "hook": "Una mujer gobernó Egipto como faraón durante más de 20 años.",
+        "fact": "Hatshepsut, que reinó hacia el 1479-1458 a.C., fue una de las faraonas más exitosas de la historia egipcia, al frente de grandes proyectos de construcción y expediciones comerciales, y en ocasiones se la representaba con una barba postiza faraónica."
+      }
     }
   },
   {
@@ -88,11 +172,23 @@
     "domain": "history",
     "hook": "The Roman Empire's currency was debased into worthlessness.",
     "fact": "Roman emperors repeatedly reduced the silver content of coins to fund wars and spending, causing severe inflation that contributed to the empire's economic instability.",
-    "tags": ["rome", "economics"],
+    "tags": [
+      "rome",
+      "economics"
+    ],
     "translations": {
-      "fr": { "hook": "La monnaie romaine a été dévaluée jusqu'à ne plus rien valoir.", "fact": "Les empereurs romains ont réduit à plusieurs reprises la teneur en argent des pièces pour financer guerres et dépenses, provoquant une inflation sévère qui a contribué à l'instabilité économique de l'empire." },
-      "nl": { "hook": "De Romeinse munt werd ontwaard tot ze niets meer waard was.", "fact": "Romeinse keizers verlaagden herhaaldelijk het zilvergehalte van munten om oorlogen en uitgaven te financieren, wat tot ernstige inflatie leidde en bijdroeg aan de economische instabiliteit van het rijk." },
-      "es": { "hook": "La moneda del Imperio romano se devaluó hasta no valer casi nada.", "fact": "Los emperadores romanos redujeron repetidamente el contenido de plata de las monedas para financiar guerras y gastos, lo que provocó una inflación severa que contribuyó a la inestabilidad económica del imperio." }
+      "fr": {
+        "hook": "La monnaie romaine a été dévaluée jusqu'à ne plus rien valoir.",
+        "fact": "Les empereurs romains ont réduit à plusieurs reprises la teneur en argent des pièces pour financer guerres et dépenses, provoquant une inflation sévère qui a contribué à l'instabilité économique de l'empire."
+      },
+      "nl": {
+        "hook": "De Romeinse munt werd ontwaard tot ze niets meer waard was.",
+        "fact": "Romeinse keizers verlaagden herhaaldelijk het zilvergehalte van munten om oorlogen en uitgaven te financieren, wat tot ernstige inflatie leidde en bijdroeg aan de economische instabiliteit van het rijk."
+      },
+      "es": {
+        "hook": "La moneda del Imperio romano se devaluó hasta no valer casi nada.",
+        "fact": "Los emperadores romanos redujeron repetidamente el contenido de plata de las monedas para financiar guerras y gastos, lo que provocó una inflación severa que contribuyó a la inestabilidad económica del imperio."
+      }
     }
   },
   {
@@ -100,11 +196,23 @@
     "domain": "history",
     "hook": "The guillotine was used in France until 1977.",
     "fact": "France's last execution by guillotine took place in September 1977 — the same year Star Wars was released in theaters.",
-    "tags": ["france", "law"],
+    "tags": [
+      "france",
+      "law"
+    ],
     "translations": {
-      "fr": { "hook": "La guillotine a été utilisée en France jusqu'en 1977.", "fact": "La dernière exécution par guillotine en France a eu lieu en septembre 1977 — la même année que la sortie de Star Wars au cinéma." },
-      "nl": { "hook": "De guillotine werd in Frankrijk gebruikt tot 1977.", "fact": "De laatste terechtstelling met de guillotine in Frankrijk vond plaats in september 1977 — hetzelfde jaar waarin Star Wars in de bioscoop uitkwam." },
-      "es": { "hook": "La guillotina se usó en Francia hasta 1977.", "fact": "La última ejecución con guillotina en Francia tuvo lugar en septiembre de 1977, el mismo año en que se estrenó Star Wars en los cines." }
+      "fr": {
+        "hook": "La guillotine a été utilisée en France jusqu'en 1977.",
+        "fact": "La dernière exécution par guillotine en France a eu lieu en septembre 1977 — la même année que la sortie de Star Wars au cinéma."
+      },
+      "nl": {
+        "hook": "De guillotine werd in Frankrijk gebruikt tot 1977.",
+        "fact": "De laatste terechtstelling met de guillotine in Frankrijk vond plaats in september 1977 — hetzelfde jaar waarin Star Wars in de bioscoop uitkwam."
+      },
+      "es": {
+        "hook": "La guillotina se usó en Francia hasta 1977.",
+        "fact": "La última ejecución con guillotina en Francia tuvo lugar en septiembre de 1977, el mismo año en que se estrenó Star Wars en los cines."
+      }
     }
   },
   {
@@ -112,11 +220,23 @@
     "domain": "history",
     "hook": "The first known census dates back over 5,000 years.",
     "fact": "Ancient Babylonian records show population and resource counts dating to around 3800 BCE, making census-taking one of humanity's oldest administrative practices.",
-    "tags": ["ancient-history", "governance"],
+    "tags": [
+      "ancient-history",
+      "governance"
+    ],
     "translations": {
-      "fr": { "hook": "Le premier recensement connu remonte à plus de 5000 ans.", "fact": "Des archives babyloniennes anciennes montrent des comptages de population et de ressources datant d'environ 3800 av. J.-C., faisant du recensement l'une des plus anciennes pratiques administratives de l'humanité." },
-      "nl": { "hook": "De eerste bekende volkstelling dateert van meer dan 5000 jaar geleden.", "fact": "Oude Babylonische bronnen tonen tellingen van bevolking en hulpbronnen die teruggaan tot ongeveer 3800 v.Chr., waardoor volkstellingen een van de oudste bestuurlijke praktijken van de mensheid zijn." },
-      "es": { "hook": "El primer censo conocido se remonta a hace más de 5000 años.", "fact": "Antiguos registros babilónicos muestran recuentos de población y recursos que datan de alrededor del 3800 a.C., lo que convierte al censo en una de las prácticas administrativas más antiguas de la humanidad." }
+      "fr": {
+        "hook": "Le premier recensement connu remonte à plus de 5000 ans.",
+        "fact": "Des archives babyloniennes anciennes montrent des comptages de population et de ressources datant d'environ 3800 av. J.-C., faisant du recensement l'une des plus anciennes pratiques administratives de l'humanité."
+      },
+      "nl": {
+        "hook": "De eerste bekende volkstelling dateert van meer dan 5000 jaar geleden.",
+        "fact": "Oude Babylonische bronnen tonen tellingen van bevolking en hulpbronnen die teruggaan tot ongeveer 3800 v.Chr., waardoor volkstellingen een van de oudste bestuurlijke praktijken van de mensheid zijn."
+      },
+      "es": {
+        "hook": "El primer censo conocido se remonta a hace más de 5000 años.",
+        "fact": "Antiguos registros babilónicos muestran recuentos de población y recursos que datan de alrededor del 3800 a.C., lo que convierte al censo en una de las prácticas administrativas más antiguas de la humanidad."
+      }
     }
   },
   {
@@ -124,11 +244,23 @@
     "domain": "history",
     "hook": "World War I ended with soldiers who didn't know yet.",
     "fact": "News of the November 1918 armistice traveled slowly to some remote fronts, and isolated skirmishes reportedly continued for hours after the official ceasefire began.",
-    "tags": ["war", "20th-century"],
+    "tags": [
+      "war",
+      "20th-century"
+    ],
     "translations": {
-      "fr": { "hook": "La Première Guerre mondiale s'est achevée avec des soldats qui l'ignoraient encore.", "fact": "La nouvelle de l'armistice de novembre 1918 a mis du temps à atteindre certains fronts isolés, et des escarmouches auraient continué pendant des heures après le début officiel du cessez-le-feu." },
-      "nl": { "hook": "De Eerste Wereldoorlog eindigde met soldaten die het nog niet wisten.", "fact": "Het nieuws over de wapenstilstand van november 1918 bereikte sommige afgelegen fronten traag, en op enkele plaatsen gingen kleine schermutselingen naar verluidt nog uren door na de officiële start van het staakt-het-vuren." },
-      "es": { "hook": "La Primera Guerra Mundial terminó con soldados que aún no lo sabían.", "fact": "La noticia del armisticio de noviembre de 1918 tardó en llegar a algunos frentes remotos, y al parecer hubo escaramuzas aisladas que continuaron durante horas después de que comenzara oficialmente el alto el fuego." }
+      "fr": {
+        "hook": "La Première Guerre mondiale s'est achevée avec des soldats qui l'ignoraient encore.",
+        "fact": "La nouvelle de l'armistice de novembre 1918 a mis du temps à atteindre certains fronts isolés, et des escarmouches auraient continué pendant des heures après le début officiel du cessez-le-feu."
+      },
+      "nl": {
+        "hook": "De Eerste Wereldoorlog eindigde met soldaten die het nog niet wisten.",
+        "fact": "Het nieuws over de wapenstilstand van november 1918 bereikte sommige afgelegen fronten traag, en op enkele plaatsen gingen kleine schermutselingen naar verluidt nog uren door na de officiële start van het staakt-het-vuren."
+      },
+      "es": {
+        "hook": "La Primera Guerra Mundial terminó con soldados que aún no lo sabían.",
+        "fact": "La noticia del armisticio de noviembre de 1918 tardó en llegar a algunos frentes remotos, y al parecer hubo escaramuzas aisladas que continuaron durante horas después de que comenzara oficialmente el alto el fuego."
+      }
     }
   },
   {
@@ -136,11 +268,23 @@
     "domain": "history",
     "hook": "Ancient Rome had a version of fast food.",
     "fact": "Archaeologists have uncovered thermopolia — counter-service shops in Pompeii and elsewhere — where Romans bought hot ready-to-eat food, much like a modern takeout counter.",
-    "tags": ["rome", "daily-life"],
+    "tags": [
+      "rome",
+      "daily-life"
+    ],
     "translations": {
-      "fr": { "hook": "La Rome antique avait déjà sa version du fast-food.", "fact": "Les archéologues ont mis au jour des thermopolia — des comptoirs de vente à Pompéi et ailleurs — où les Romains achetaient des plats chauds prêts à consommer, un peu comme un comptoir à emporter moderne." },
-      "nl": { "hook": "Het oude Rome had al een soort fastfood.", "fact": "Archeologen hebben thermopolia opgegraven — toonbankwinkels in Pompeï en elders — waar Romeinen warme, kant-en-klare maaltijden kochten, vergelijkbaar met een moderne afhaalbalie." },
-      "es": { "hook": "La antigua Roma ya tenía su propia versión de la comida rápida.", "fact": "Los arqueólogos han descubierto termopolios — mostradores de venta en Pompeya y otros lugares — donde los romanos compraban comida caliente lista para comer, de forma muy parecida a un mostrador de comida para llevar actual." }
+      "fr": {
+        "hook": "La Rome antique avait déjà sa version du fast-food.",
+        "fact": "Les archéologues ont mis au jour des thermopolia — des comptoirs de vente à Pompéi et ailleurs — où les Romains achetaient des plats chauds prêts à consommer, un peu comme un comptoir à emporter moderne."
+      },
+      "nl": {
+        "hook": "Het oude Rome had al een soort fastfood.",
+        "fact": "Archeologen hebben thermopolia opgegraven — toonbankwinkels in Pompeï en elders — waar Romeinen warme, kant-en-klare maaltijden kochten, vergelijkbaar met een moderne afhaalbalie."
+      },
+      "es": {
+        "hook": "La antigua Roma ya tenía su propia versión de la comida rápida.",
+        "fact": "Los arqueólogos han descubierto termopolios — mostradores de venta en Pompeya y otros lugares — donde los romanos compraban comida caliente lista para comer, de forma muy parecida a un mostrador de comida para llevar actual."
+      }
     }
   },
   {
@@ -148,11 +292,23 @@
     "domain": "history",
     "hook": "The printing press transformed Europe within decades.",
     "fact": "After Johannes Gutenberg introduced movable-type printing around 1440, the number of books in Europe exploded from a few thousand hand-copied manuscripts to millions of printed copies within just 50 years.",
-    "tags": ["invention", "europe"],
+    "tags": [
+      "invention",
+      "europe"
+    ],
     "translations": {
-      "fr": { "hook": "L'imprimerie a transformé l'Europe en quelques décennies.", "fact": "Après l'introduction de l'imprimerie à caractères mobiles par Johannes Gutenberg vers 1440, le nombre de livres en Europe est passé de quelques milliers de manuscrits copiés à la main à des millions d'exemplaires imprimés en à peine 50 ans." },
-      "nl": { "hook": "De boekdrukkunst veranderde Europa binnen enkele decennia.", "fact": "Nadat Johannes Gutenberg rond 1440 het drukken met losse letters introduceerde, steeg het aantal boeken in Europa van enkele duizenden met de hand gekopieerde manuscripten tot miljoenen gedrukte exemplaren binnen slechts 50 jaar." },
-      "es": { "hook": "La imprenta transformó Europa en cuestión de décadas.", "fact": "Tras la introducción de la imprenta de tipos móviles por Johannes Gutenberg hacia 1440, el número de libros en Europa pasó de unos pocos miles de manuscritos copiados a mano a millones de ejemplares impresos en apenas 50 años." }
+      "fr": {
+        "hook": "L'imprimerie a transformé l'Europe en quelques décennies.",
+        "fact": "Après l'introduction de l'imprimerie à caractères mobiles par Johannes Gutenberg vers 1440, le nombre de livres en Europe est passé de quelques milliers de manuscrits copiés à la main à des millions d'exemplaires imprimés en à peine 50 ans."
+      },
+      "nl": {
+        "hook": "De boekdrukkunst veranderde Europa binnen enkele decennia.",
+        "fact": "Nadat Johannes Gutenberg rond 1440 het drukken met losse letters introduceerde, steeg het aantal boeken in Europa van enkele duizenden met de hand gekopieerde manuscripten tot miljoenen gedrukte exemplaren binnen slechts 50 jaar."
+      },
+      "es": {
+        "hook": "La imprenta transformó Europa en cuestión de décadas.",
+        "fact": "Tras la introducción de la imprenta de tipos móviles por Johannes Gutenberg hacia 1440, el número de libros en Europa pasó de unos pocos miles de manuscritos copiados a mano a millones de ejemplares impresos en apenas 50 años."
+      }
     }
   },
   {
@@ -160,11 +316,23 @@
     "domain": "history",
     "hook": "Ancient Sparta left almost no written history of its own.",
     "fact": "Much of what we know about Sparta comes from outside writers like Athenian historians, since Spartan culture prioritized military discipline over literature and record-keeping.",
-    "tags": ["greece", "ancient-history"],
+    "tags": [
+      "greece",
+      "ancient-history"
+    ],
     "translations": {
-      "fr": { "hook": "Sparte n'a laissé presque aucune trace écrite de sa propre histoire.", "fact": "L'essentiel de ce que l'on sait de Sparte provient d'auteurs extérieurs, comme les historiens athéniens, car la culture spartiate privilégiait la discipline militaire à la littérature et aux archives." },
-      "nl": { "hook": "Het oude Sparta liet zelf nauwelijks geschreven geschiedenis na.", "fact": "Het meeste dat we over Sparta weten, komt van buitenstaanders zoals Atheense historici, omdat de Spartaanse cultuur militaire discipline belangrijker vond dan literatuur en archivering." },
-      "es": { "hook": "La antigua Esparta apenas dejó constancia escrita de su propia historia.", "fact": "Gran parte de lo que sabemos sobre Esparta proviene de autores externos, como historiadores atenienses, ya que la cultura espartana priorizaba la disciplina militar por encima de la literatura y los registros escritos." }
+      "fr": {
+        "hook": "Sparte n'a laissé presque aucune trace écrite de sa propre histoire.",
+        "fact": "L'essentiel de ce que l'on sait de Sparte provient d'auteurs extérieurs, comme les historiens athéniens, car la culture spartiate privilégiait la discipline militaire à la littérature et aux archives."
+      },
+      "nl": {
+        "hook": "Het oude Sparta liet zelf nauwelijks geschreven geschiedenis na.",
+        "fact": "Het meeste dat we over Sparta weten, komt van buitenstaanders zoals Atheense historici, omdat de Spartaanse cultuur militaire discipline belangrijker vond dan literatuur en archivering."
+      },
+      "es": {
+        "hook": "La antigua Esparta apenas dejó constancia escrita de su propia historia.",
+        "fact": "Gran parte de lo que sabemos sobre Esparta proviene de autores externos, como historiadores atenienses, ya que la cultura espartana priorizaba la disciplina militar por encima de la literatura y los registros escritos."
+      }
     }
   },
   {
@@ -172,11 +340,23 @@
     "domain": "history",
     "hook": "The Berlin Wall fell almost by accident.",
     "fact": "In 1989, an East German official misspoke at a press conference, implying travel restrictions were lifted immediately rather than the next day — crowds rushed the checkpoints that same night, and the wall effectively fell.",
-    "tags": ["germany", "20th-century"],
+    "tags": [
+      "germany",
+      "20th-century"
+    ],
     "translations": {
-      "fr": { "hook": "Le mur de Berlin est tombé presque par accident.", "fact": "En 1989, un responsable est-allemand s'est trompé lors d'une conférence de presse, laissant entendre que les restrictions de voyage étaient levées immédiatement plutôt que le lendemain — la foule s'est précipitée aux points de contrôle dès le soir même, et le mur est tombé de fait." },
-      "nl": { "hook": "De Berlijnse Muur viel bijna per ongeluk.", "fact": "In 1989 versprak een Oost-Duitse functionaris zich tijdens een persconferentie en suggereerde dat reisbeperkingen onmiddellijk werden opgeheven in plaats van pas de volgende dag — nog diezelfde avond stormden mensenmassa's op de grensposten af, en zo viel de muur in feite." },
-      "es": { "hook": "El Muro de Berlín cayó casi por accidente.", "fact": "En 1989, un funcionario de Alemania del Este cometió un error en una rueda de prensa, dando a entender que las restricciones de viaje se levantaban de inmediato en lugar de al día siguiente — esa misma noche, la multitud se agolpó en los pasos fronterizos y el muro cayó de facto." }
+      "fr": {
+        "hook": "Le mur de Berlin est tombé presque par accident.",
+        "fact": "En 1989, un responsable est-allemand s'est trompé lors d'une conférence de presse, laissant entendre que les restrictions de voyage étaient levées immédiatement plutôt que le lendemain — la foule s'est précipitée aux points de contrôle dès le soir même, et le mur est tombé de fait."
+      },
+      "nl": {
+        "hook": "De Berlijnse Muur viel bijna per ongeluk.",
+        "fact": "In 1989 versprak een Oost-Duitse functionaris zich tijdens een persconferentie en suggereerde dat reisbeperkingen onmiddellijk werden opgeheven in plaats van pas de volgende dag — nog diezelfde avond stormden mensenmassa's op de grensposten af, en zo viel de muur in feite."
+      },
+      "es": {
+        "hook": "El Muro de Berlín cayó casi por accidente.",
+        "fact": "En 1989, un funcionario de Alemania del Este cometió un error en una rueda de prensa, dando a entender que las restricciones de viaje se levantaban de inmediato en lugar de al día siguiente — esa misma noche, la multitud se agolpó en los pasos fronterizos y el muro cayó de facto."
+      }
     }
   },
   {
@@ -184,11 +364,23 @@
     "domain": "history",
     "hook": "The Statue of Liberty wasn't always green.",
     "fact": "The statue's copper skin was originally a shiny brownish-orange, like a new penny. Over decades of exposure to the air, it oxidized into the green patina we see today.",
-    "tags": ["america", "monuments"],
+    "tags": [
+      "america",
+      "monuments"
+    ],
     "translations": {
-      "fr": { "hook": "La Statue de la Liberté n'a pas toujours été verte.", "fact": "La peau de cuivre de la statue était à l'origine d'un brun-orangé brillant, comme une pièce neuve. Au fil des décennies d'exposition à l'air, elle s'est oxydée pour former la patine verte que l'on connaît aujourd'hui." },
-      "nl": { "hook": "Het Vrijheidsbeeld was niet altijd groen.", "fact": "De koperen huid van het beeld was oorspronkelijk glanzend bruinoranje, zoals een nieuwe cent. Door decennia van blootstelling aan de lucht oxideerde het koper tot het groene patina dat we vandaag kennen." },
-      "es": { "hook": "La Estatua de la Libertad no siempre fue verde.", "fact": "La piel de cobre de la estatua era originalmente de un tono marrón anaranjado brillante, como una moneda nueva. Tras décadas expuesta al aire, se oxidó hasta formar la pátina verde que vemos hoy." }
+      "fr": {
+        "hook": "La Statue de la Liberté n'a pas toujours été verte.",
+        "fact": "La peau de cuivre de la statue était à l'origine d'un brun-orangé brillant, comme une pièce neuve. Au fil des décennies d'exposition à l'air, elle s'est oxydée pour former la patine verte que l'on connaît aujourd'hui."
+      },
+      "nl": {
+        "hook": "Het Vrijheidsbeeld was niet altijd groen.",
+        "fact": "De koperen huid van het beeld was oorspronkelijk glanzend bruinoranje, zoals een nieuwe cent. Door decennia van blootstelling aan de lucht oxideerde het koper tot het groene patina dat we vandaag kennen."
+      },
+      "es": {
+        "hook": "La Estatua de la Libertad no siempre fue verde.",
+        "fact": "La piel de cobre de la estatua era originalmente de un tono marrón anaranjado brillante, como una moneda nueva. Tras décadas expuesta al aire, se oxidó hasta formar la pátina verde que vemos hoy."
+      }
     }
   },
   {
@@ -196,11 +388,23 @@
     "domain": "history",
     "hook": "Egyptian embalmers removed the brain through the nose.",
     "fact": "During mummification, embalmers pulled the brain out through the nostrils and discarded it, since ancient Egyptians believed the heart, not the brain, was the seat of intelligence and the soul.",
-    "tags": ["ancient-egypt", "daily-life"],
+    "tags": [
+      "ancient-egypt",
+      "daily-life"
+    ],
     "translations": {
-      "fr": { "hook": "Les embaumeurs égyptiens retiraient le cerveau par le nez.", "fact": "Pendant la momification, les embaumeurs extrayaient le cerveau par les narines et le jetaient, car les anciens Égyptiens croyaient que le cœur, et non le cerveau, était le siège de l'intelligence et de l'âme." },
-      "nl": { "hook": "Egyptische balsemers verwijderden de hersenen via de neus.", "fact": "Tijdens de mummificatie haalden balsemers de hersenen via de neusgaten naar buiten en gooiden ze weg, omdat de oude Egyptenaren geloofden dat niet de hersenen maar het hart de zetel van intelligentie en de ziel was." },
-      "es": { "hook": "Los embalsamadores egipcios extraían el cerebro por la nariz.", "fact": "Durante la momificación, los embalsamadores retiraban el cerebro a través de las fosas nasales y lo desechaban, ya que los antiguos egipcios creían que el corazón, no el cerebro, era la sede de la inteligencia y del alma." }
+      "fr": {
+        "hook": "Les embaumeurs égyptiens retiraient le cerveau par le nez.",
+        "fact": "Pendant la momification, les embaumeurs extrayaient le cerveau par les narines et le jetaient, car les anciens Égyptiens croyaient que le cœur, et non le cerveau, était le siège de l'intelligence et de l'âme."
+      },
+      "nl": {
+        "hook": "Egyptische balsemers verwijderden de hersenen via de neus.",
+        "fact": "Tijdens de mummificatie haalden balsemers de hersenen via de neusgaten naar buiten en gooiden ze weg, omdat de oude Egyptenaren geloofden dat niet de hersenen maar het hart de zetel van intelligentie en de ziel was."
+      },
+      "es": {
+        "hook": "Los embalsamadores egipcios extraían el cerebro por la nariz.",
+        "fact": "Durante la momificación, los embalsamadores retiraban el cerebro a través de las fosas nasales y lo desechaban, ya que los antiguos egipcios creían que el corazón, no el cerebro, era la sede de la inteligencia y del alma."
+      }
     }
   },
   {
@@ -208,11 +412,23 @@
     "domain": "history",
     "hook": "The Library of Alexandria wasn't destroyed in one dramatic fire.",
     "fact": "Rather than a single catastrophic blaze, the famous library's decline happened gradually over centuries, through multiple smaller fires, funding cuts, and neglect.",
-    "tags": ["ancient-history", "myths"],
+    "tags": [
+      "ancient-history",
+      "myths"
+    ],
     "translations": {
-      "fr": { "hook": "La bibliothèque d'Alexandrie n'a pas été détruite par un seul grand incendie.", "fact": "Plutôt qu'un unique brasier catastrophique, le déclin de la célèbre bibliothèque s'est produit progressivement sur des siècles, à travers plusieurs incendies mineurs, des coupes budgétaires et la négligence." },
-      "nl": { "hook": "De bibliotheek van Alexandrië ging niet ten onder in één dramatische brand.", "fact": "In plaats van één catastrofale brand voltrok de neergang van de beroemde bibliotheek zich geleidelijk over eeuwen, door meerdere kleinere branden, bezuinigingen en verwaarlozing." },
-      "es": { "hook": "La Biblioteca de Alejandría no fue destruida por un único incendio dramático.", "fact": "En lugar de un incendio catastrófico único, el declive de la famosa biblioteca ocurrió gradualmente a lo largo de siglos, mediante varios incendios menores, recortes de financiación y negligencia." }
+      "fr": {
+        "hook": "La bibliothèque d'Alexandrie n'a pas été détruite par un seul grand incendie.",
+        "fact": "Plutôt qu'un unique brasier catastrophique, le déclin de la célèbre bibliothèque s'est produit progressivement sur des siècles, à travers plusieurs incendies mineurs, des coupes budgétaires et la négligence."
+      },
+      "nl": {
+        "hook": "De bibliotheek van Alexandrië ging niet ten onder in één dramatische brand.",
+        "fact": "In plaats van één catastrofale brand voltrok de neergang van de beroemde bibliotheek zich geleidelijk over eeuwen, door meerdere kleinere branden, bezuinigingen en verwaarlozing."
+      },
+      "es": {
+        "hook": "La Biblioteca de Alejandría no fue destruida por un único incendio dramático.",
+        "fact": "En lugar de un incendio catastrófico único, el declive de la famosa biblioteca ocurrió gradualmente a lo largo de siglos, mediante varios incendios menores, recortes de financiación y negligencia."
+      }
     }
   },
   {
@@ -220,11 +436,23 @@
     "domain": "history",
     "hook": "The Colosseum could be flooded for mock naval battles.",
     "fact": "In its early years, Rome's Colosseum was reportedly capable of being flooded to stage naumachiae — recreated naval battles — for public entertainment.",
-    "tags": ["rome", "entertainment"],
+    "tags": [
+      "rome",
+      "entertainment"
+    ],
     "translations": {
-      "fr": { "hook": "Le Colisée pouvait être inondé pour des batailles navales simulées.", "fact": "Dans ses premières années, le Colisée de Rome aurait pu être inondé pour organiser des naumachies — des batailles navales reconstituées — destinées au divertissement du public." },
-      "nl": { "hook": "Het Colosseum kon onder water gezet worden voor nagebootste zeeslagen.", "fact": "In zijn beginjaren kon het Colosseum in Rome naar verluidt onder water worden gezet om naumachiae te ensceneren — nagebootste zeeslagen — als publieksvermaak." },
-      "es": { "hook": "El Coliseo podía inundarse para representar batallas navales simuladas.", "fact": "En sus primeros años, el Coliseo de Roma podía, según los relatos, inundarse para escenificar naumaquias — recreaciones de batallas navales — como espectáculo público." }
+      "fr": {
+        "hook": "Le Colisée pouvait être inondé pour des batailles navales simulées.",
+        "fact": "Dans ses premières années, le Colisée de Rome aurait pu être inondé pour organiser des naumachies — des batailles navales reconstituées — destinées au divertissement du public."
+      },
+      "nl": {
+        "hook": "Het Colosseum kon onder water gezet worden voor nagebootste zeeslagen.",
+        "fact": "In zijn beginjaren kon het Colosseum in Rome naar verluidt onder water worden gezet om naumachiae te ensceneren — nagebootste zeeslagen — als publieksvermaak."
+      },
+      "es": {
+        "hook": "El Coliseo podía inundarse para representar batallas navales simuladas.",
+        "fact": "En sus primeros años, el Coliseo de Roma podía, según los relatos, inundarse para escenificar naumaquias — recreaciones de batallas navales — como espectáculo público."
+      }
     }
   },
   {
@@ -232,11 +460,23 @@
     "domain": "history",
     "hook": "The Hundred Years' War actually lasted 116 years.",
     "fact": "Fought between England and France on and off from 1337 to 1453, the conflict's traditional name undersells its real length by more than a decade.",
-    "tags": ["war", "europe"],
+    "tags": [
+      "war",
+      "europe"
+    ],
     "translations": {
-      "fr": { "hook": "La guerre de Cent Ans a en réalité duré 116 ans.", "fact": "Menée entre l'Angleterre et la France par intermittence de 1337 à 1453, ce conflit dure en réalité plus d'une décennie de plus que son nom traditionnel ne le laisse penser." },
-      "nl": { "hook": "De Honderdjarige Oorlog duurde in werkelijkheid 116 jaar.", "fact": "Dit conflict tussen Engeland en Frankrijk, met tussenpozen uitgevochten van 1337 tot 1453, duurde in werkelijkheid meer dan een decennium langer dan de traditionele naam doet vermoeden." },
-      "es": { "hook": "La Guerra de los Cien Años duró en realidad 116 años.", "fact": "Este conflicto entre Inglaterra y Francia, librado de forma intermitente entre 1337 y 1453, duró en realidad más de una década más de lo que su nombre tradicional sugiere." }
+      "fr": {
+        "hook": "La guerre de Cent Ans a en réalité duré 116 ans.",
+        "fact": "Menée entre l'Angleterre et la France par intermittence de 1337 à 1453, ce conflit dure en réalité plus d'une décennie de plus que son nom traditionnel ne le laisse penser."
+      },
+      "nl": {
+        "hook": "De Honderdjarige Oorlog duurde in werkelijkheid 116 jaar.",
+        "fact": "Dit conflict tussen Engeland en Frankrijk, met tussenpozen uitgevochten van 1337 tot 1453, duurde in werkelijkheid meer dan een decennium langer dan de traditionele naam doet vermoeden."
+      },
+      "es": {
+        "hook": "La Guerra de los Cien Años duró en realidad 116 años.",
+        "fact": "Este conflicto entre Inglaterra y Francia, librado de forma intermitente entre 1337 y 1453, duró en realidad más de una década más de lo que su nombre tradicional sugiere."
+      }
     }
   },
   {
@@ -244,11 +484,23 @@
     "domain": "history",
     "hook": "Genghis Khan's empire was bigger than Alexander the Great's and Rome's combined.",
     "fact": "At its height, the Mongol Empire founded by Genghis Khan covered more territory than the empires of Alexander the Great and ancient Rome added together.",
-    "tags": ["mongolia", "empires"],
+    "tags": [
+      "mongolia",
+      "empires"
+    ],
     "translations": {
-      "fr": { "hook": "L'empire de Gengis Khan était plus vaste que ceux d'Alexandre le Grand et de Rome réunis.", "fact": "À son apogée, l'Empire mongol fondé par Gengis Khan couvrait un territoire plus vaste que les empires d'Alexandre le Grand et de la Rome antique réunis." },
-      "nl": { "hook": "Het rijk van Genghis Khan was groter dan dat van Alexander de Grote en Rome samen.", "fact": "Op zijn hoogtepunt besloeg het Mongoolse Rijk van Genghis Khan een groter gebied dan de rijken van Alexander de Grote en het oude Rome samen." },
-      "es": { "hook": "El imperio de Gengis Kan fue más grande que los de Alejandro Magno y Roma juntos.", "fact": "En su apogeo, el Imperio mongol fundado por Gengis Kan abarcaba más territorio que los imperios de Alejandro Magno y la antigua Roma sumados." }
+      "fr": {
+        "hook": "L'empire de Gengis Khan était plus vaste que ceux d'Alexandre le Grand et de Rome réunis.",
+        "fact": "À son apogée, l'Empire mongol fondé par Gengis Khan couvrait un territoire plus vaste que les empires d'Alexandre le Grand et de la Rome antique réunis."
+      },
+      "nl": {
+        "hook": "Het rijk van Genghis Khan was groter dan dat van Alexander de Grote en Rome samen.",
+        "fact": "Op zijn hoogtepunt besloeg het Mongoolse Rijk van Genghis Khan een groter gebied dan de rijken van Alexander de Grote en het oude Rome samen."
+      },
+      "es": {
+        "hook": "El imperio de Gengis Kan fue más grande que los de Alejandro Magno y Roma juntos.",
+        "fact": "En su apogeo, el Imperio mongol fundado por Gengis Kan abarcaba más territorio que los imperios de Alejandro Magno y la antigua Roma sumados."
+      }
     }
   },
   {
@@ -256,11 +508,23 @@
     "domain": "history",
     "hook": "The guillotine was invented to make execution more humane.",
     "fact": "Proposed during the French Revolution, the guillotine was designed to kill instantly and painlessly, seen at the time as a more merciful alternative to the slower methods it replaced.",
-    "tags": ["france", "law"],
+    "tags": [
+      "france",
+      "law"
+    ],
     "translations": {
-      "fr": { "hook": "La guillotine a été inventée pour rendre l'exécution plus humaine.", "fact": "Proposée pendant la Révolution française, la guillotine a été conçue pour tuer instantanément et sans douleur, considérée à l'époque comme une alternative plus miséricordieuse aux méthodes plus lentes qu'elle remplaçait." },
-      "nl": { "hook": "De guillotine werd uitgevonden om terechtstellingen menselijker te maken.", "fact": "Voorgesteld tijdens de Franse Revolutie, was de guillotine ontworpen om ogenblikkelijk en pijnloos te doden, en werd destijds gezien als een barmhartiger alternatief voor de tragere methodes die ze verving." },
-      "es": { "hook": "La guillotina se inventó para hacer la ejecución más humana.", "fact": "Propuesta durante la Revolución francesa, la guillotina fue diseñada para matar de forma instantánea e indolora, y en su época se consideraba una alternativa más piadosa frente a los métodos más lentos que sustituía." }
+      "fr": {
+        "hook": "La guillotine a été inventée pour rendre l'exécution plus humaine.",
+        "fact": "Proposée pendant la Révolution française, la guillotine a été conçue pour tuer instantanément et sans douleur, considérée à l'époque comme une alternative plus miséricordieuse aux méthodes plus lentes qu'elle remplaçait."
+      },
+      "nl": {
+        "hook": "De guillotine werd uitgevonden om terechtstellingen menselijker te maken.",
+        "fact": "Voorgesteld tijdens de Franse Revolutie, was de guillotine ontworpen om ogenblikkelijk en pijnloos te doden, en werd destijds gezien als een barmhartiger alternatief voor de tragere methodes die ze verving."
+      },
+      "es": {
+        "hook": "La guillotina se inventó para hacer la ejecución más humana.",
+        "fact": "Propuesta durante la Revolución francesa, la guillotina fue diseñada para matar de forma instantánea e indolora, y en su época se consideraba una alternativa más piadosa frente a los métodos más lentos que sustituía."
+      }
     }
   },
   {
@@ -268,11 +532,23 @@
     "domain": "history",
     "hook": "Ancient Romans used urine to whiten their teeth.",
     "fact": "Because of its ammonia content, urine was used by Romans as a cleaning agent — including, according to historical accounts, as an ingredient in some teeth-whitening formulas.",
-    "tags": ["rome", "daily-life"],
+    "tags": [
+      "rome",
+      "daily-life"
+    ],
     "translations": {
-      "fr": { "hook": "Les Romains utilisaient de l'urine pour blanchir leurs dents.", "fact": "En raison de sa teneur en ammoniaque, l'urine était utilisée par les Romains comme agent nettoyant — y compris, selon des sources historiques, comme ingrédient de certaines formules de blanchiment dentaire." },
-      "nl": { "hook": "De oude Romeinen gebruikten urine om hun tanden te bleken.", "fact": "Vanwege het ammoniakgehalte gebruikten Romeinen urine als reinigingsmiddel — volgens historische bronnen zelfs als ingrediënt in sommige tandenbleekmiddelen." },
-      "es": { "hook": "Los antiguos romanos usaban orina para blanquear sus dientes.", "fact": "Debido a su contenido de amoníaco, los romanos utilizaban la orina como agente de limpieza, incluso, según relatos históricos, como ingrediente en algunas fórmulas para blanquear los dientes." }
+      "fr": {
+        "hook": "Les Romains utilisaient de l'urine pour blanchir leurs dents.",
+        "fact": "En raison de sa teneur en ammoniaque, l'urine était utilisée par les Romains comme agent nettoyant — y compris, selon des sources historiques, comme ingrédient de certaines formules de blanchiment dentaire."
+      },
+      "nl": {
+        "hook": "De oude Romeinen gebruikten urine om hun tanden te bleken.",
+        "fact": "Vanwege het ammoniakgehalte gebruikten Romeinen urine als reinigingsmiddel — volgens historische bronnen zelfs als ingrediënt in sommige tandenbleekmiddelen."
+      },
+      "es": {
+        "hook": "Los antiguos romanos usaban orina para blanquear sus dientes.",
+        "fact": "Debido a su contenido de amoníaco, los romanos utilizaban la orina como agente de limpieza, incluso, según relatos históricos, como ingrediente en algunas fórmulas para blanquear los dientes."
+      }
     }
   },
   {
@@ -280,11 +556,23 @@
     "domain": "history",
     "hook": "One French king reigned for only about 20 minutes.",
     "fact": "Louis XIX became King of France in 1830 but abdicated roughly 20 minutes later, making his reign one of the shortest of any monarch in recorded history.",
-    "tags": ["france", "leaders"],
+    "tags": [
+      "france",
+      "leaders"
+    ],
     "translations": {
-      "fr": { "hook": "Un roi de France n'a régné que pendant environ 20 minutes.", "fact": "Louis XIX devint roi de France en 1830 mais abdiqua environ 20 minutes plus tard, faisant de son règne l'un des plus courts de l'histoire des monarques." },
-      "nl": { "hook": "Een Franse koning regeerde slechts zo'n 20 minuten.", "fact": "Lodewijk XIX werd in 1830 koning van Frankrijk, maar deed ongeveer 20 minuten later al troonsafstand, wat zijn regering een van de kortste van elke vorst in de geschreven geschiedenis maakt." },
-      "es": { "hook": "Un rey francés reinó durante apenas unos 20 minutos.", "fact": "Luis XIX se convirtió en rey de Francia en 1830, pero abdicó unos 20 minutos después, lo que convierte su reinado en uno de los más cortos de cualquier monarca en la historia registrada." }
+      "fr": {
+        "hook": "Un roi de France n'a régné que pendant environ 20 minutes.",
+        "fact": "Louis XIX devint roi de France en 1830 mais abdiqua environ 20 minutes plus tard, faisant de son règne l'un des plus courts de l'histoire des monarques."
+      },
+      "nl": {
+        "hook": "Een Franse koning regeerde slechts zo'n 20 minuten.",
+        "fact": "Lodewijk XIX werd in 1830 koning van Frankrijk, maar deed ongeveer 20 minuten later al troonsafstand, wat zijn regering een van de kortste van elke vorst in de geschreven geschiedenis maakt."
+      },
+      "es": {
+        "hook": "Un rey francés reinó durante apenas unos 20 minutos.",
+        "fact": "Luis XIX se convirtió en rey de Francia en 1830, pero abdicó unos 20 minutos después, lo que convierte su reinado en uno de los más cortos de cualquier monarca en la historia registrada."
+      }
     }
   },
   {
@@ -292,11 +580,23 @@
     "domain": "history",
     "hook": "The Titanic's wreck wasn't found for over 70 years.",
     "fact": "The Titanic sank in 1912, but its wreckage on the ocean floor wasn't located until 1985, when oceanographer Robert Ballard's team finally found it.",
-    "tags": ["20th-century", "exploration"],
+    "tags": [
+      "20th-century",
+      "exploration"
+    ],
     "translations": {
-      "fr": { "hook": "L'épave du Titanic n'a été retrouvée que plus de 70 ans après.", "fact": "Le Titanic a coulé en 1912, mais son épave, au fond de l'océan, n'a été localisée qu'en 1985, lorsque l'équipe de l'océanographe Robert Ballard l'a enfin découverte." },
-      "nl": { "hook": "Het wrak van de Titanic werd pas meer dan 70 jaar later gevonden.", "fact": "De Titanic zonk in 1912, maar het wrak op de oceaanbodem werd pas in 1985 gelokaliseerd, toen het team van oceanograaf Robert Ballard het eindelijk vond." },
-      "es": { "hook": "Los restos del Titanic no se encontraron hasta más de 70 años después.", "fact": "El Titanic se hundió en 1912, pero sus restos en el fondo del océano no se localizaron hasta 1985, cuando el equipo del oceanógrafo Robert Ballard finalmente los encontró." }
+      "fr": {
+        "hook": "L'épave du Titanic n'a été retrouvée que plus de 70 ans après.",
+        "fact": "Le Titanic a coulé en 1912, mais son épave, au fond de l'océan, n'a été localisée qu'en 1985, lorsque l'équipe de l'océanographe Robert Ballard l'a enfin découverte."
+      },
+      "nl": {
+        "hook": "Het wrak van de Titanic werd pas meer dan 70 jaar later gevonden.",
+        "fact": "De Titanic zonk in 1912, maar het wrak op de oceaanbodem werd pas in 1985 gelokaliseerd, toen het team van oceanograaf Robert Ballard het eindelijk vond."
+      },
+      "es": {
+        "hook": "Los restos del Titanic no se encontraron hasta más de 70 años después.",
+        "fact": "El Titanic se hundió en 1912, pero sus restos en el fondo del océano no se localizaron hasta 1985, cuando el equipo del oceanógrafo Robert Ballard finalmente los encontró."
+      }
     }
   },
   {
@@ -304,11 +604,23 @@
     "domain": "history",
     "hook": "Paul Revere never finished his famous ride.",
     "fact": "Revere was one of several riders warning colonists of British troop movements in 1775, and was actually captured by British soldiers before he could complete the full route to Concord.",
-    "tags": ["america", "war"],
+    "tags": [
+      "america",
+      "war"
+    ],
     "translations": {
-      "fr": { "hook": "Paul Revere n'a jamais terminé sa fameuse chevauchée.", "fact": "Revere était l'un des nombreux cavaliers avertissant les colons des mouvements de troupes britanniques en 1775, et il fut en réalité capturé par des soldats britanniques avant d'avoir pu achever tout le trajet jusqu'à Concord." },
-      "nl": { "hook": "Paul Revere heeft zijn beroemde rit nooit afgemaakt.", "fact": "Revere was een van de meerdere ruiters die kolonisten in 1775 waarschuwden voor Britse troepenbewegingen, en werd zelf gevangengenomen door Britse soldaten voordat hij de volledige route naar Concord kon afleggen." },
-      "es": { "hook": "Paul Revere nunca terminó su famosa cabalgata.", "fact": "Revere fue uno de varios jinetes que avisaron a los colonos de los movimientos de tropas británicas en 1775, y fue capturado por soldados británicos antes de poder completar la ruta hasta Concord." }
+      "fr": {
+        "hook": "Paul Revere n'a jamais terminé sa fameuse chevauchée.",
+        "fact": "Revere était l'un des nombreux cavaliers avertissant les colons des mouvements de troupes britanniques en 1775, et il fut en réalité capturé par des soldats britanniques avant d'avoir pu achever tout le trajet jusqu'à Concord."
+      },
+      "nl": {
+        "hook": "Paul Revere heeft zijn beroemde rit nooit afgemaakt.",
+        "fact": "Revere was een van de meerdere ruiters die kolonisten in 1775 waarschuwden voor Britse troepenbewegingen, en werd zelf gevangengenomen door Britse soldaten voordat hij de volledige route naar Concord kon afleggen."
+      },
+      "es": {
+        "hook": "Paul Revere nunca terminó su famosa cabalgata.",
+        "fact": "Revere fue uno de varios jinetes que avisaron a los colonos de los movimientos de tropas británicas en 1775, y fue capturado por soldados británicos antes de poder completar la ruta hasta Concord."
+      }
     }
   },
   {
@@ -316,11 +628,23 @@
     "domain": "history",
     "hook": "The Wright brothers' first flight was shorter than a jumbo jet's wingspan.",
     "fact": "The Wright brothers' historic 1903 flight covered just 120 feet — less than the wingspan of a modern Boeing 747.",
-    "tags": ["invention", "america"],
+    "tags": [
+      "invention",
+      "america"
+    ],
     "translations": {
-      "fr": { "hook": "Le premier vol des frères Wright était plus court que l'envergure d'un jumbo jet.", "fact": "Le vol historique des frères Wright en 1903 n'a parcouru que 36 mètres — moins que l'envergure d'un Boeing 747 moderne." },
-      "nl": { "hook": "De eerste vlucht van de gebroeders Wright was korter dan de spanwijdte van een jumbojet.", "fact": "De historische vlucht van de gebroeders Wright in 1903 legde slechts zo'n 36 meter af — minder dan de spanwijdte van een moderne Boeing 747." },
-      "es": { "hook": "El primer vuelo de los hermanos Wright fue más corto que la envergadura de un jumbo.", "fact": "El histórico vuelo de los hermanos Wright en 1903 recorrió apenas 36 metros, menos que la envergadura de un Boeing 747 moderno." }
+      "fr": {
+        "hook": "Le premier vol des frères Wright était plus court que l'envergure d'un jumbo jet.",
+        "fact": "Le vol historique des frères Wright en 1903 n'a parcouru que 36 mètres — moins que l'envergure d'un Boeing 747 moderne."
+      },
+      "nl": {
+        "hook": "De eerste vlucht van de gebroeders Wright was korter dan de spanwijdte van een jumbojet.",
+        "fact": "De historische vlucht van de gebroeders Wright in 1903 legde slechts zo'n 36 meter af — minder dan de spanwijdte van een moderne Boeing 747."
+      },
+      "es": {
+        "hook": "El primer vuelo de los hermanos Wright fue más corto que la envergadura de un jumbo.",
+        "fact": "El histórico vuelo de los hermanos Wright en 1903 recorrió apenas 36 metros, menos que la envergadura de un Boeing 747 moderno."
+      }
     }
   },
   {
@@ -328,11 +652,23 @@
     "domain": "history",
     "hook": "China gave the world paper, gunpowder, the compass, and printing.",
     "fact": "These four innovations, often called China's 'Four Great Inventions,' reshaped communication, navigation, and warfare across the ancient and medieval world.",
-    "tags": ["china", "invention"],
+    "tags": [
+      "china",
+      "invention"
+    ],
     "translations": {
-      "fr": { "hook": "La Chine a offert au monde le papier, la poudre à canon, la boussole et l'imprimerie.", "fact": "Ces quatre innovations, souvent appelées les « quatre grandes inventions » de la Chine, ont transformé la communication, la navigation et la guerre dans le monde antique et médiéval." },
-      "nl": { "hook": "China gaf de wereld papier, buskruit, het kompas en het drukken.", "fact": "Deze vier innovaties, vaak de 'vier grote uitvindingen' van China genoemd, veranderden communicatie, navigatie en oorlogsvoering in de oude en middeleeuwse wereld." },
-      "es": { "hook": "China le dio al mundo el papel, la pólvora, la brújula y la imprenta.", "fact": "Estas cuatro innovaciones, conocidas a menudo como los 'cuatro grandes inventos' de China, transformaron la comunicación, la navegación y la guerra en el mundo antiguo y medieval." }
+      "fr": {
+        "hook": "La Chine a offert au monde le papier, la poudre à canon, la boussole et l'imprimerie.",
+        "fact": "Ces quatre innovations, souvent appelées les « quatre grandes inventions » de la Chine, ont transformé la communication, la navigation et la guerre dans le monde antique et médiéval."
+      },
+      "nl": {
+        "hook": "China gaf de wereld papier, buskruit, het kompas en het drukken.",
+        "fact": "Deze vier innovaties, vaak de 'vier grote uitvindingen' van China genoemd, veranderden communicatie, navigatie en oorlogsvoering in de oude en middeleeuwse wereld."
+      },
+      "es": {
+        "hook": "China le dio al mundo el papel, la pólvora, la brújula y la imprenta.",
+        "fact": "Estas cuatro innovaciones, conocidas a menudo como los 'cuatro grandes inventos' de China, transformaron la comunicación, la navegación y la guerra en el mundo antiguo y medieval."
+      }
     }
   },
   {
@@ -340,11 +676,23 @@
     "domain": "history",
     "hook": "Pilots kept West Berlin fed and fueled entirely by air for nearly a year.",
     "fact": "After Soviet forces blocked land access to West Berlin in 1948, Allied pilots flew in food, coal, and supplies around the clock for almost a year in what became known as the Berlin Airlift.",
-    "tags": ["germany", "20th-century"],
+    "tags": [
+      "germany",
+      "20th-century"
+    ],
     "translations": {
-      "fr": { "hook": "Des pilotes ont ravitaillé Berlin-Ouest en nourriture et en carburant par les airs pendant près d'un an.", "fact": "Après que les forces soviétiques eurent bloqué l'accès terrestre à Berlin-Ouest en 1948, des pilotes alliés ont acheminé nourriture, charbon et fournitures jour et nuit pendant près d'un an, dans ce qui est devenu le pont aérien de Berlin." },
-      "nl": { "hook": "Piloten hielden West-Berlijn bijna een jaar lang volledig via de lucht van eten en brandstof voorzien.", "fact": "Nadat Sovjettroepen in 1948 de landtoegang tot West-Berlijn blokkeerden, vlogen geallieerde piloten dag en nacht bijna een jaar lang voedsel, kolen en voorraden in, in wat bekend werd als de Berlijnse Luchtbrug." },
-      "es": { "hook": "Los pilotos abastecieron a Berlín Occidental de comida y combustible enteramente por aire durante casi un año.", "fact": "Después de que las fuerzas soviéticas bloquearan el acceso terrestre a Berlín Occidental en 1948, los pilotos aliados transportaron comida, carbón y suministros día y noche durante casi un año, en lo que se conoció como el Puente Aéreo de Berlín." }
+      "fr": {
+        "hook": "Des pilotes ont ravitaillé Berlin-Ouest en nourriture et en carburant par les airs pendant près d'un an.",
+        "fact": "Après que les forces soviétiques eurent bloqué l'accès terrestre à Berlin-Ouest en 1948, des pilotes alliés ont acheminé nourriture, charbon et fournitures jour et nuit pendant près d'un an, dans ce qui est devenu le pont aérien de Berlin."
+      },
+      "nl": {
+        "hook": "Piloten hielden West-Berlijn bijna een jaar lang volledig via de lucht van eten en brandstof voorzien.",
+        "fact": "Nadat Sovjettroepen in 1948 de landtoegang tot West-Berlijn blokkeerden, vlogen geallieerde piloten dag en nacht bijna een jaar lang voedsel, kolen en voorraden in, in wat bekend werd als de Berlijnse Luchtbrug."
+      },
+      "es": {
+        "hook": "Los pilotos abastecieron a Berlín Occidental de comida y combustible enteramente por aire durante casi un año.",
+        "fact": "Después de que las fuerzas soviéticas bloquearan el acceso terrestre a Berlín Occidental en 1948, los pilotos aliados transportaron comida, carbón y suministros día y noche durante casi un año, en lo que se conoció como el Puente Aéreo de Berlín."
+      }
     }
   },
   {
@@ -352,11 +700,23 @@
     "domain": "history",
     "hook": "Cleopatra wasn't ethnically Egyptian.",
     "fact": "Cleopatra descended from the Ptolemaic dynasty, a Greek Macedonian family that ruled Egypt after Alexander the Great's conquest — making her Greek by ancestry despite ruling Egypt.",
-    "tags": ["ancient-egypt", "leaders"],
+    "tags": [
+      "ancient-egypt",
+      "leaders"
+    ],
     "translations": {
-      "fr": { "hook": "Cléopâtre n'était pas d'origine égyptienne.", "fact": "Cléopâtre descendait de la dynastie ptolémaïque, une famille gréco-macédonienne qui régna sur l'Égypte après la conquête d'Alexandre le Grand — la rendant grecque par ascendance malgré son règne sur l'Égypte." },
-      "nl": { "hook": "Cleopatra was etnisch gezien geen Egyptische.", "fact": "Cleopatra stamde af van de Ptolemaeïsche dynastie, een Grieks-Macedonische familie die na de verovering door Alexander de Grote over Egypte regeerde — waardoor ze afstammingsgewijs Grieks was, ondanks dat ze over Egypte heerste." },
-      "es": { "hook": "Cleopatra no era étnicamente egipcia.", "fact": "Cleopatra descendía de la dinastía ptolemaica, una familia grecomacedonia que gobernó Egipto tras la conquista de Alejandro Magno, lo que la convertía en griega de ascendencia pese a reinar sobre Egipto." }
+      "fr": {
+        "hook": "Cléopâtre n'était pas d'origine égyptienne.",
+        "fact": "Cléopâtre descendait de la dynastie ptolémaïque, une famille gréco-macédonienne qui régna sur l'Égypte après la conquête d'Alexandre le Grand — la rendant grecque par ascendance malgré son règne sur l'Égypte."
+      },
+      "nl": {
+        "hook": "Cleopatra was etnisch gezien geen Egyptische.",
+        "fact": "Cleopatra stamde af van de Ptolemaeïsche dynastie, een Grieks-Macedonische familie die na de verovering door Alexander de Grote over Egypte regeerde — waardoor ze afstammingsgewijs Grieks was, ondanks dat ze over Egypte heerste."
+      },
+      "es": {
+        "hook": "Cleopatra no era étnicamente egipcia.",
+        "fact": "Cleopatra descendía de la dinastía ptolemaica, una familia grecomacedonia que gobernó Egipto tras la conquista de Alejandro Magno, lo que la convertía en griega de ascendencia pese a reinar sobre Egipto."
+      }
     }
   },
   {
@@ -364,11 +724,23 @@
     "domain": "history",
     "hook": "The first recorded labor strike happened in ancient Egypt.",
     "fact": "Around 1157 BCE, royal tomb workers in Egypt stopped working over unpaid wages — an event documented on papyrus and considered the earliest known labor strike in history.",
-    "tags": ["ancient-egypt", "labor"],
+    "tags": [
+      "ancient-egypt",
+      "labor"
+    ],
     "translations": {
-      "fr": { "hook": "La première grève ouvrière enregistrée a eu lieu dans l'Égypte antique.", "fact": "Vers 1157 av. J.-C., des ouvriers des tombes royales égyptiennes ont cessé le travail à cause de salaires impayés — un événement consigné sur papyrus et considéré comme la plus ancienne grève ouvrière connue de l'histoire." },
-      "nl": { "hook": "De eerste geregistreerde arbeidersstaking vond plaats in het oude Egypte.", "fact": "Rond 1157 v.Chr. legden arbeiders aan koninklijke graftombes in Egypte het werk neer wegens onbetaalde lonen — een gebeurtenis vastgelegd op papyrus en beschouwd als de vroegst bekende arbeidersstaking in de geschiedenis." },
-      "es": { "hook": "La primera huelga laboral registrada ocurrió en el antiguo Egipto.", "fact": "Hacia el 1157 a.C., los trabajadores de las tumbas reales egipcias dejaron de trabajar por salarios impagados — un suceso documentado en papiro y considerado la huelga laboral más antigua conocida de la historia." }
+      "fr": {
+        "hook": "La première grève ouvrière enregistrée a eu lieu dans l'Égypte antique.",
+        "fact": "Vers 1157 av. J.-C., des ouvriers des tombes royales égyptiennes ont cessé le travail à cause de salaires impayés — un événement consigné sur papyrus et considéré comme la plus ancienne grève ouvrière connue de l'histoire."
+      },
+      "nl": {
+        "hook": "De eerste geregistreerde arbeidersstaking vond plaats in het oude Egypte.",
+        "fact": "Rond 1157 v.Chr. legden arbeiders aan koninklijke graftombes in Egypte het werk neer wegens onbetaalde lonen — een gebeurtenis vastgelegd op papyrus en beschouwd als de vroegst bekende arbeidersstaking in de geschiedenis."
+      },
+      "es": {
+        "hook": "La primera huelga laboral registrada ocurrió en el antiguo Egipto.",
+        "fact": "Hacia el 1157 a.C., los trabajadores de las tumbas reales egipcias dejaron de trabajar por salarios impagados — un suceso documentado en papiro y considerado la huelga laboral más antigua conocida de la historia."
+      }
     }
   },
   {
@@ -376,11 +748,1720 @@
     "domain": "history",
     "hook": "Medieval knights' armor wasn't as heavy or clumsy as movies suggest.",
     "fact": "A full suit of plate armor was carefully balanced and distributed across the body, letting knights run, climb, and mount a horse unassisted — nothing like the immobilizing weight often shown on screen.",
-    "tags": ["europe", "myths"],
+    "tags": [
+      "europe",
+      "myths"
+    ],
     "translations": {
-      "fr": { "hook": "L'armure des chevaliers médiévaux n'était pas aussi lourde ni encombrante que le montrent les films.", "fact": "Une armure de plates complète était soigneusement équilibrée et répartie sur tout le corps, permettant aux chevaliers de courir, grimper et monter à cheval sans aide — rien à voir avec le poids immobilisant souvent montré à l'écran." },
-      "nl": { "hook": "De harnassen van middeleeuwse ridders waren niet zo zwaar en onhandig als in films.", "fact": "Een volledige harnas was zorgvuldig in balans gebracht en over het hele lichaam verdeeld, waardoor ridders zelfstandig konden rennen, klimmen en te paard stijgen — niets zoals het verlammende gewicht dat vaak op het scherm te zien is." },
-      "es": { "hook": "La armadura de los caballeros medievales no era tan pesada ni torpe como muestran las películas.", "fact": "Una armadura de placas completa estaba cuidadosamente equilibrada y distribuida por todo el cuerpo, lo que permitía a los caballeros correr, trepar y montar a caballo sin ayuda, nada que ver con el peso inmovilizador que a menudo se muestra en pantalla." }
+      "fr": {
+        "hook": "L'armure des chevaliers médiévaux n'était pas aussi lourde ni encombrante que le montrent les films.",
+        "fact": "Une armure de plates complète était soigneusement équilibrée et répartie sur tout le corps, permettant aux chevaliers de courir, grimper et monter à cheval sans aide — rien à voir avec le poids immobilisant souvent montré à l'écran."
+      },
+      "nl": {
+        "hook": "De harnassen van middeleeuwse ridders waren niet zo zwaar en onhandig als in films.",
+        "fact": "Een volledige harnas was zorgvuldig in balans gebracht en over het hele lichaam verdeeld, waardoor ridders zelfstandig konden rennen, klimmen en te paard stijgen — niets zoals het verlammende gewicht dat vaak op het scherm te zien is."
+      },
+      "es": {
+        "hook": "La armadura de los caballeros medievales no era tan pesada ni torpe como muestran las películas.",
+        "fact": "Una armadura de placas completa estaba cuidadosamente equilibrada y distribuida por todo el cuerpo, lo que permitía a los caballeros correr, trepar y montar a caballo sin ayuda, nada que ver con el peso inmovilizador que a menudo se muestra en pantalla."
+      }
     }
+  },
+  {
+    "id": "history-033",
+    "domain": "history",
+    "hook": "The pyramid builders weren't slaves.",
+    "fact": "Excavated worker villages near Giza show that the pyramids were built largely by paid laborers — skilled workers and seasonal farmers — who received rations of bread and beer, not by enslaved masses as long assumed.",
+    "whyItMatters": "It reshapes a popular image of ancient Egypt that persisted for centuries in art and film.",
+    "tags": [
+      "ancient-egypt",
+      "myths"
+    ]
+  },
+  {
+    "id": "history-034",
+    "domain": "history",
+    "hook": "Hieroglyphs stayed unreadable for over 1,400 years.",
+    "fact": "After Egyptian writing fell out of use in the 4th century CE, no one could read hieroglyphs until the Rosetta Stone, found in 1799, gave scholar Jean-François Champollion the key to decipher them in 1822.",
+    "tags": [
+      "ancient-egypt",
+      "language"
+    ]
+  },
+  {
+    "id": "history-035",
+    "domain": "history",
+    "hook": "The oldest known board game was found buried with pharaohs.",
+    "fact": "Senet, a race game played on a grid of 30 squares, appears in Egyptian tomb paintings and burial goods dating back to around 3100 BCE, making it one of humanity's oldest known games.",
+    "tags": [
+      "ancient-egypt",
+      "games"
+    ]
+  },
+  {
+    "id": "history-036",
+    "domain": "history",
+    "hook": "Egyptians mummified their cats too.",
+    "fact": "Cats were sacred to the goddess Bastet in ancient Egypt, and archaeologists have found vast catacombs holding millions of mummified cats offered to her as votive gifts.",
+    "tags": [
+      "ancient-egypt",
+      "animals"
+    ]
+  },
+  {
+    "id": "history-037",
+    "domain": "history",
+    "hook": "One pharaoh tried to invent monotheism — and it didn't survive him.",
+    "fact": "Akhenaten briefly replaced Egypt's traditional pantheon with worship of a single sun god, Aten, around 1350 BCE. After his death, priests restored the old gods and worked to erase his name from history.",
+    "tags": [
+      "ancient-egypt",
+      "religion"
+    ]
+  },
+  {
+    "id": "history-038",
+    "domain": "history",
+    "hook": "The Great Pyramid held a world record for almost 3,800 years.",
+    "fact": "Completed around 2560 BCE, the Great Pyramid of Giza was the tallest man-made structure on Earth until England's Lincoln Cathedral surpassed it in 1311 CE.",
+    "tags": [
+      "ancient-egypt",
+      "records"
+    ]
+  },
+  {
+    "id": "history-039",
+    "domain": "history",
+    "hook": "Ancient Egyptian doctors were performing surgery 3,600 years ago.",
+    "fact": "The Edwin Smith Papyrus, dated to around 1600 BCE, is the oldest known surgical text in the world, describing 48 case studies of trauma treatment with remarkably clinical, non-magical reasoning.",
+    "tags": [
+      "ancient-egypt",
+      "medicine"
+    ]
+  },
+  {
+    "id": "history-040",
+    "domain": "history",
+    "hook": "The most famous face of ancient Egypt might not even be accurate.",
+    "fact": "The iconic bust of Queen Nefertiti, discovered in 1912 and now in Berlin, has become one of the most reproduced images from the ancient world — yet almost nothing is known for certain about how her life or reign actually ended.",
+    "tags": [
+      "ancient-egypt",
+      "art"
+    ]
+  },
+  {
+    "id": "history-041",
+    "domain": "history",
+    "hook": "The world's oldest surviving epic includes a flood story older than Noah's.",
+    "fact": "The Epic of Gilgamesh, a Mesopotamian poem written down over 4,000 years ago, contains a great-flood narrative strikingly similar to the biblical story of Noah, but predating it by centuries.",
+    "tags": [
+      "mesopotamia",
+      "literature"
+    ]
+  },
+  {
+    "id": "history-042",
+    "domain": "history",
+    "hook": "'An eye for an eye' comes from a nearly 4,000-year-old legal code.",
+    "fact": "The Code of Hammurabi, inscribed around 1754 BCE in Babylon, is one of the earliest and most complete written legal codes, publicly displaying 282 laws so subjects could know exactly what was expected of them.",
+    "tags": [
+      "mesopotamia",
+      "law"
+    ]
+  },
+  {
+    "id": "history-043",
+    "domain": "history",
+    "hook": "Writing was invented for bookkeeping, not poetry.",
+    "fact": "The Sumerians developed cuneiform script around 3200 BCE, and the earliest known tablets record grain shipments, tax accounts, and trade transactions rather than literature or history.",
+    "tags": [
+      "mesopotamia",
+      "writing"
+    ]
+  },
+  {
+    "id": "history-044",
+    "domain": "history",
+    "hook": "The reason a clock has 60 minutes traces back to ancient Iraq.",
+    "fact": "The Sumerians used a base-60 (sexagesimal) counting system, which is why modern clocks divide hours into 60 minutes and circles into 360 degrees, over 4,000 years later.",
+    "whyItMatters": "A number system from Bronze Age Mesopotamia still quietly structures how the entire world tells time today.",
+    "tags": [
+      "mesopotamia",
+      "math"
+    ]
+  },
+  {
+    "id": "history-045",
+    "domain": "history",
+    "hook": "Beer might be older than the wheel.",
+    "fact": "Sumerians were brewing beer by around 4000 BCE and even wrote a hymn to Ninkasi, their goddess of beer, that doubled as one of the oldest known beer recipes.",
+    "tags": [
+      "mesopotamia",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "history-046",
+    "domain": "history",
+    "hook": "Mesopotamian temples were built to reach toward the sky, one platform at a time.",
+    "fact": "Ziggurats were massive stepped temple towers built by Sumerians, Babylonians, and Assyrians, with the god's shrine placed at the summit — a design later echoed in the biblical Tower of Babel story.",
+    "tags": [
+      "mesopotamia",
+      "architecture"
+    ]
+  },
+  {
+    "id": "history-047",
+    "domain": "history",
+    "hook": "The wheel wasn't invented for transportation.",
+    "fact": "The earliest wheels in Mesopotamia, dating to around 3500 BCE, were used by potters to shape clay — it took several more centuries before anyone thought to attach wheels to a cart.",
+    "tags": [
+      "mesopotamia",
+      "invention"
+    ]
+  },
+  {
+    "id": "history-048",
+    "domain": "history",
+    "hook": "A 2,000-year-old shipwreck contained an ancient computer.",
+    "fact": "The Antikythera mechanism, recovered from a Greek shipwreck in 1901, is a bronze geared device from around 100 BCE that could predict eclipses and track astronomical cycles — technology not matched again for over a thousand years.",
+    "tags": [
+      "ancient-greece",
+      "invention"
+    ]
+  },
+  {
+    "id": "history-049",
+    "domain": "history",
+    "hook": "The ancient Olympics paused wars and required athletes to compete naked.",
+    "fact": "A sacred truce called the ekecheiria allowed athletes and spectators to travel safely to Olympia even during wartime, and competitors traditionally performed events completely nude, a tradition tied to Greek ideals about the body.",
+    "tags": [
+      "ancient-greece",
+      "sports"
+    ]
+  },
+  {
+    "id": "history-050",
+    "domain": "history",
+    "hook": "Archimedes was killed while doing math, mid-siege.",
+    "fact": "When Roman forces sacked Syracuse in 212 BCE, the general had ordered Archimedes spared — but a soldier killed him anyway, reportedly after the mathematician refused to stop working on a geometry problem in the sand.",
+    "tags": [
+      "ancient-greece",
+      "science"
+    ]
+  },
+  {
+    "id": "history-051",
+    "domain": "history",
+    "hook": "Athens sentenced its most famous philosopher to death by poison.",
+    "fact": "In 399 BCE, Socrates was tried and convicted of corrupting the youth and impiety by an Athenian jury, and was executed by drinking hemlock, a method he reportedly faced with calm philosophical resolve.",
+    "tags": [
+      "ancient-greece",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "history-052",
+    "domain": "history",
+    "hook": "Ancient Greeks traveled to a mountainside to hear a woman speak for the gods.",
+    "fact": "At the Temple of Apollo in Delphi, a priestess called the Pythia delivered cryptic prophecies believed to come directly from the god — some modern geologists suspect she may have been affected by naturally occurring gases seeping from underground faults.",
+    "tags": [
+      "ancient-greece",
+      "religion"
+    ]
+  },
+  {
+    "id": "history-053",
+    "domain": "history",
+    "hook": "The marathon race is named after a runner who, legend says, died delivering the news.",
+    "fact": "According to later Greek tradition, a messenger named Pheidippides ran roughly 26 miles from the battlefield of Marathon to Athens to announce a victory over the Persians in 490 BCE, then collapsed and died — inspiring the modern marathon distance.",
+    "tags": [
+      "ancient-greece",
+      "sports"
+    ]
+  },
+  {
+    "id": "history-054",
+    "domain": "history",
+    "hook": "'The birthplace of democracy' didn't let most people vote.",
+    "fact": "In ancient Athens, only free adult male citizens could participate in the assembly — women, enslaved people, and foreign residents, likely the majority of the population, were excluded entirely.",
+    "whyItMatters": "It's a useful check on the idea that ancient Athenian democracy resembled anything close to universal representation.",
+    "tags": [
+      "ancient-greece",
+      "governance"
+    ]
+  },
+  {
+    "id": "history-055",
+    "domain": "history",
+    "hook": "Alexander the Great named roughly 20 cities after himself.",
+    "fact": "As Alexander's empire expanded across Asia, he founded a string of cities called Alexandria, the most famous being the one in Egypt, which became a major center of learning for centuries afterward.",
+    "tags": [
+      "ancient-greece",
+      "empires"
+    ]
+  },
+  {
+    "id": "history-056",
+    "domain": "history",
+    "hook": "One Roman building's concrete dome has outlasted every empire that built it.",
+    "fact": "The Pantheon's dome in Rome, completed around 125 CE under Hadrian, is still the world's largest unreinforced concrete dome nearly 1,900 years later, thanks to a volcanic-ash concrete mixture the Romans perfected.",
+    "whyItMatters": "Modern engineers are still studying Roman concrete chemistry to build more durable, longer-lasting structures.",
+    "tags": [
+      "rome",
+      "architecture"
+    ]
+  },
+  {
+    "id": "history-057",
+    "domain": "history",
+    "hook": "Rome's first law code was carved in stone and put on public display.",
+    "fact": "The Twelve Tables, created around 450 BCE, were Rome's earliest written legal code, posted in the Forum so that ordinary citizens — not just aristocrats — could know their legal rights.",
+    "tags": [
+      "rome",
+      "law"
+    ]
+  },
+  {
+    "id": "history-058",
+    "domain": "history",
+    "hook": "The calendar most of the world uses started as a fix ordered by Julius Caesar.",
+    "fact": "In 46 BCE, Caesar overhauled Rome's chaotic calendar with help from the astronomer Sosigenes, introducing a 365-day year with leap years — the direct ancestor of the Gregorian calendar still used worldwide today.",
+    "tags": [
+      "rome",
+      "calendar"
+    ]
+  },
+  {
+    "id": "history-059",
+    "domain": "history",
+    "hook": "Rome's most sacred priestesses could be buried alive for breaking their vows.",
+    "fact": "The Vestal Virgins tended Rome's eternal sacred flame and took 30-year vows of chastity; a Vestal who broke that vow could be entombed alive as punishment, since Romans considered it forbidden to shed her blood directly.",
+    "tags": [
+      "rome",
+      "religion"
+    ]
+  },
+  {
+    "id": "history-060",
+    "domain": "history",
+    "hook": "Rome's chariot-racing stadium dwarfed any sports venue built since.",
+    "fact": "The Circus Maximus could reportedly hold up to around 150,000 spectators or more, making it larger than any modern stadium in the world.",
+    "tags": [
+      "rome",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "history-061",
+    "domain": "history",
+    "hook": "The Roman Empire was once literally auctioned off to the highest bidder.",
+    "fact": "In 193 CE, after the Praetorian Guard killed Emperor Pertinax, they held a public auction for the throne itself — a wealthy senator named Didius Julianus won, and was killed just 66 days into his reign.",
+    "tags": [
+      "rome",
+      "leaders"
+    ]
+  },
+  {
+    "id": "history-062",
+    "domain": "history",
+    "hook": "Ancient Rome ran an empire without ever writing the number zero.",
+    "fact": "Roman numerals had no symbol for zero, so Romans relied on separate tools like the abacus for calculations that modern math handles easily using a zero placeholder.",
+    "tags": [
+      "rome",
+      "math"
+    ]
+  },
+  {
+    "id": "history-063",
+    "domain": "history",
+    "hook": "A gladiator nearly brought down the Roman Republic.",
+    "fact": "Spartacus, an enslaved gladiator, led a massive uprising known as the Third Servile War from 73 to 71 BCE, defeating several Roman armies before being crushed — thousands of survivors were crucified along the Appian Way as a warning.",
+    "tags": [
+      "rome",
+      "rebellion"
+    ]
+  },
+  {
+    "id": "history-064",
+    "domain": "history",
+    "hook": "China's first emperor built an army of 8,000 life-size clay soldiers to guard him in death.",
+    "fact": "The Terracotta Army, buried with Qin Shi Huang around 210 BCE, remained hidden for over two millennia until farmers digging a well accidentally discovered it in 1974.",
+    "tags": [
+      "china",
+      "archaeology"
+    ]
+  },
+  {
+    "id": "history-065",
+    "domain": "history",
+    "hook": "China's first emperor may have poisoned himself searching for immortality.",
+    "fact": "Qin Shi Huang employed alchemists to develop elixirs of eternal life, many containing mercury — historians believe his death in 210 BCE was likely caused by the very potions meant to keep him alive forever.",
+    "tags": [
+      "china",
+      "leaders"
+    ]
+  },
+  {
+    "id": "history-066",
+    "domain": "history",
+    "hook": "One philosopher's sayings shaped Chinese government for over 2,000 years.",
+    "fact": "Confucius, who lived in the 6th and 5th centuries BCE, never held lasting political power in his lifetime, yet his teachings on ethics and social order, compiled in the Analects, became the foundation of Chinese governance and education for millennia.",
+    "tags": [
+      "china",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "history-067",
+    "domain": "history",
+    "hook": "Imperial China ran the world's first large-scale meritocracy.",
+    "fact": "China's imperial examination system, formalized by the 7th century CE, allowed men to earn government positions through rigorous testing rather than noble birth, and remained in use until it was abolished in 1905.",
+    "whyItMatters": "It's an early, large-scale precursor to the meritocratic ideals many modern civil service systems still claim to pursue.",
+    "tags": [
+      "china",
+      "governance"
+    ]
+  },
+  {
+    "id": "history-068",
+    "domain": "history",
+    "hook": "A 'new star' visible in daylight for weeks was recorded by Chinese astronomers a thousand years ago.",
+    "fact": "In 1054 CE, Chinese court astronomers documented a brilliant 'guest star' bright enough to see in daytime for about three weeks — modern astronomers identify this as the supernova that created the Crab Nebula.",
+    "tags": [
+      "china",
+      "astronomy"
+    ]
+  },
+  {
+    "id": "history-069",
+    "domain": "history",
+    "hook": "A 2,500-year-old military manual is still assigned reading in business schools.",
+    "fact": "Sun Tzu's The Art of War, written around the 5th century BCE, laid out strategic principles on deception, positioning, and adaptability that are still studied today far beyond military contexts.",
+    "tags": [
+      "china",
+      "military"
+    ]
+  },
+  {
+    "id": "history-070",
+    "domain": "history",
+    "hook": "Paper money was a Chinese invention centuries before Europe caught on.",
+    "fact": "The Song dynasty issued jiaozi, the world's first government-backed paper currency, around the 11th century CE — Europe wouldn't adopt widespread paper money until hundreds of years later.",
+    "tags": [
+      "china",
+      "economics"
+    ]
+  },
+  {
+    "id": "history-071",
+    "domain": "history",
+    "hook": "One ancient Indian university housed thousands of monks from across Asia.",
+    "fact": "Nalanda, founded in India around the 5th century CE, is considered one of the world's first great residential universities, drawing scholars from as far as China and Central Asia before it was destroyed in 1193.",
+    "whyItMatters": "It's a striking precedent for the international, residential university model long before Europe's oldest universities existed.",
+    "tags": [
+      "india",
+      "education"
+    ]
+  },
+  {
+    "id": "history-072",
+    "domain": "history",
+    "hook": "A Bronze Age civilization had indoor plumbing before almost anyone else.",
+    "fact": "Cities of the Indus Valley Civilization, such as Mohenjo-daro, featured covered drainage systems and standardized brick sewage channels as early as 2500 BCE, among the most advanced urban sanitation of the ancient world.",
+    "tags": [
+      "india",
+      "engineering"
+    ]
+  },
+  {
+    "id": "history-073",
+    "domain": "history",
+    "hook": "The number zero as we use it was formalized by an Indian mathematician.",
+    "fact": "While placeholder symbols existed earlier elsewhere, Indian mathematician Brahmagupta was the first to define zero as a number with its own mathematical rules, in a text from 628 CE.",
+    "whyItMatters": "That formalization underpins virtually all of modern mathematics, science, and computing.",
+    "tags": [
+      "india",
+      "math"
+    ]
+  },
+  {
+    "id": "history-074",
+    "domain": "history",
+    "hook": "An emperor was so horrified by his own war that he renounced violence entirely.",
+    "fact": "After the brutally bloody Kalinga War around 261 BCE, the Mauryan emperor Ashoka converted to Buddhism and had edicts promoting nonviolence and moral governance carved onto pillars and rock faces across his empire.",
+    "tags": [
+      "india",
+      "leaders"
+    ]
+  },
+  {
+    "id": "history-075",
+    "domain": "history",
+    "hook": "Chess started out as a battlefield simulation in India.",
+    "fact": "The game of chaturanga emerged in India around the 6th century CE, representing four divisions of an ancient army; it later spread through Persia and the Islamic world before evolving into modern chess.",
+    "tags": [
+      "india",
+      "games"
+    ]
+  },
+  {
+    "id": "history-076",
+    "domain": "history",
+    "hook": "'Damascus steel' actually started out as Indian steel.",
+    "fact": "Wootz steel, produced in southern India and Sri Lanka from around 300 BCE, was exported to the Middle East, where smiths forged it into blades so renowned they became known worldwide as Damascus steel.",
+    "tags": [
+      "india",
+      "invention"
+    ]
+  },
+  {
+    "id": "history-077",
+    "domain": "history",
+    "hook": "The Maya tracked the planet Venus with remarkable precision — without telescopes.",
+    "fact": "Maya astronomers developed a Long Count calendar and closely observed Venus's cycles, recording its movements in the Dresden Codex with an accuracy that impresses astronomers even today.",
+    "tags": [
+      "maya",
+      "astronomy"
+    ]
+  },
+  {
+    "id": "history-078",
+    "domain": "history",
+    "hook": "The Inca ran a continent-spanning empire without a written language.",
+    "fact": "Instead of writing, the Inca recorded numerical and administrative information using quipu — elaborate systems of knotted, colored cords — to manage everything from census data to tax records.",
+    "tags": [
+      "inca",
+      "administration"
+    ]
+  },
+  {
+    "id": "history-079",
+    "domain": "history",
+    "hook": "Machu Picchu's stones fit together without a drop of mortar.",
+    "fact": "Inca builders shaped Machu Picchu's stone blocks so precisely that many walls hold together purely through interlocking joints, some famously tight enough that a knife blade can't slide between them.",
+    "tags": [
+      "inca",
+      "architecture"
+    ]
+  },
+  {
+    "id": "history-080",
+    "domain": "history",
+    "hook": "The Aztecs grew crops on artificial floating islands.",
+    "fact": "Chinampas were human-made plots built up from mud and vegetation on the shallow lakes around Tenochtitlan, forming one of the most productive agricultural systems in the pre-industrial world.",
+    "tags": [
+      "aztec",
+      "agriculture"
+    ]
+  },
+  {
+    "id": "history-081",
+    "domain": "history",
+    "hook": "The Maya invented the number zero independently, without any contact with India.",
+    "fact": "Using a base-20 counting system, Maya mathematicians developed their own concept of zero centuries before the idea reached Europe from Asia — a parallel invention that arose entirely on its own.",
+    "tags": [
+      "maya",
+      "math"
+    ]
+  },
+  {
+    "id": "history-082",
+    "domain": "history",
+    "hook": "A pre-Columbian American city near St. Louis rivaled London in size.",
+    "fact": "Cahokia, near present-day St. Louis, was the largest settlement north of Mexico around 1100 CE, with a population that may have rivaled contemporary London's, built around massive earthen mounds.",
+    "whyItMatters": "It overturns the assumption that pre-Columbian North America had no large urban centers.",
+    "tags": [
+      "pre-columbian",
+      "cities"
+    ]
+  },
+  {
+    "id": "history-083",
+    "domain": "history",
+    "hook": "The Inca built tens of thousands of kilometers of roads without ever using the wheel.",
+    "fact": "The Qhapaq Ñan road network stretched an estimated 25,000 to 40,000 kilometers across the Andes, built and maintained without draft animals or wheeled carts, relying instead on relay runners called chasquis to carry messages.",
+    "tags": [
+      "inca",
+      "engineering"
+    ]
+  },
+  {
+    "id": "history-084",
+    "domain": "history",
+    "hook": "Mesoamericans were playing a ritual ball sport with rubber balls 3,000 years before rubber reached Europe.",
+    "fact": "The Mesoamerican ballgame, played across the region from the Olmecs onward, used solid rubber balls in a stone court and, in some cultures, carried deep ritual significance that could end in the sacrifice of players.",
+    "tags": [
+      "pre-columbian",
+      "sports"
+    ]
+  },
+  {
+    "id": "history-085",
+    "domain": "history",
+    "hook": "One African king gave away so much gold he crashed an entire regional economy.",
+    "fact": "Mansa Musa of the Mali Empire, often cited as history's wealthiest individual, distributed such vast quantities of gold during his 1324 pilgrimage to Mecca that he reportedly depressed gold prices in Cairo for years afterward.",
+    "whyItMatters": "It's one of the earliest documented examples of a single person's spending visibly moving international markets.",
+    "tags": [
+      "africa",
+      "mali-empire"
+    ]
+  },
+  {
+    "id": "history-086",
+    "domain": "history",
+    "hook": "An African kingdom built massive stone walls without a drop of mortar.",
+    "fact": "Great Zimbabwe, capital of a powerful medieval African kingdom, featured dry-stone walls over 11 meters tall, precisely fitted without any binding material, standing for centuries.",
+    "tags": [
+      "africa",
+      "architecture"
+    ]
+  },
+  {
+    "id": "history-087",
+    "domain": "history",
+    "hook": "A West African city held one of the ancient world's great libraries.",
+    "fact": "Timbuktu, part of the Mali Empire, was home to centers of scholarship like Sankore that housed hundreds of thousands of manuscripts covering astronomy, law, medicine, and theology.",
+    "tags": [
+      "africa",
+      "education"
+    ]
+  },
+  {
+    "id": "history-088",
+    "domain": "history",
+    "hook": "An ancient East African kingdom minted its own currency and raised skyscraper-sized stone monuments.",
+    "fact": "The Kingdom of Aksum, in what is now Ethiopia and Eritrea, issued its own gold, silver, and bronze coinage and carved towering granite obelisks, some over 20 meters tall, as royal funerary monuments.",
+    "tags": [
+      "africa",
+      "aksum"
+    ]
+  },
+  {
+    "id": "history-089",
+    "domain": "history",
+    "hook": "There are more pyramids in Sudan than in Egypt.",
+    "fact": "The ancient Kingdom of Kush, centered in what is now Sudan, built over 200 pyramids — more than twice as many as Egypt — though smaller in scale and built with steeper sides.",
+    "tags": [
+      "africa",
+      "kush"
+    ]
+  },
+  {
+    "id": "history-090",
+    "domain": "history",
+    "hook": "An entire church was carved downward out of a single block of rock.",
+    "fact": "Ethiopia's rock-hewn churches at Lalibela were excavated directly out of volcanic bedrock in the 12th and 13th centuries, with each structure — walls, roof, windows, and interior — chiseled from one continuous piece of stone.",
+    "tags": [
+      "africa",
+      "architecture"
+    ]
+  },
+  {
+    "id": "history-091",
+    "domain": "history",
+    "hook": "One West African empire grew rich trading gold for salt, ounce for ounce.",
+    "fact": "The Ghana Empire, flourishing from around the 6th to 13th centuries, controlled key trans-Saharan trade routes and grew enormously wealthy taxing the exchange of gold from the south for salt from the Sahara.",
+    "tags": [
+      "africa",
+      "trade"
+    ]
+  },
+  {
+    "id": "history-092",
+    "domain": "history",
+    "hook": "European visitors in the 1500s were stunned by African metalwork more advanced than their own.",
+    "fact": "The Benin Bronzes — intricate brass and bronze plaques and sculptures from the Kingdom of Benin in what is now Nigeria — displayed a casting technique that Portuguese and Dutch traders reportedly considered superior to European craftsmanship of the time.",
+    "tags": [
+      "africa",
+      "art"
+    ]
+  },
+  {
+    "id": "history-093",
+    "domain": "history",
+    "hook": "One plague may have killed more than half of Europe's population in under five years.",
+    "fact": "The Black Death, which swept across Europe from 1347 to 1351, is estimated to have killed somewhere between 30 and 60 percent of the continent's population.",
+    "tags": [
+      "medieval-europe",
+      "plague"
+    ]
+  },
+  {
+    "id": "history-094",
+    "domain": "history",
+    "hook": "The emperor who revived education in Europe reportedly couldn't write his own name.",
+    "fact": "Charlemagne, crowned Holy Roman Emperor in 800 CE, championed schools and literacy across his empire, yet his biographer Einhard wrote that Charlemagne himself never fully mastered writing, despite trying to learn late in life.",
+    "tags": [
+      "medieval-europe",
+      "leaders"
+    ]
+  },
+  {
+    "id": "history-095",
+    "domain": "history",
+    "hook": "One 1215 document established that even kings answer to the law.",
+    "fact": "The Magna Carta, forced upon King John of England in 1215, established the principle that the monarch was not above the law — a foundational idea that later influenced constitutional government worldwide.",
+    "tags": [
+      "medieval-europe",
+      "law"
+    ]
+  },
+  {
+    "id": "history-096",
+    "domain": "history",
+    "hook": "The world's oldest continuously running university predates Oxford.",
+    "fact": "The University of Bologna, founded in 1088, is generally considered the oldest university in continuous operation in the world.",
+    "tags": [
+      "medieval-europe",
+      "education"
+    ]
+  },
+  {
+    "id": "history-097",
+    "domain": "history",
+    "hook": "Vikings landed in North America about 500 years before Columbus.",
+    "fact": "Norse explorers established a settlement at L'Anse aux Meadows in Newfoundland around 1000 CE, making it the earliest confirmed European presence in the Americas, centuries before Columbus's 1492 voyage.",
+    "tags": [
+      "medieval-europe",
+      "vikings"
+    ]
+  },
+  {
+    "id": "history-098",
+    "domain": "history",
+    "hook": "The Roman Empire didn't actually end in 476 CE.",
+    "fact": "While the western Roman Empire fell in 476 CE, its eastern half survived as the Byzantine Empire for nearly another thousand years, until Constantinople finally fell in 1453.",
+    "tags": [
+      "byzantine-empire",
+      "rome"
+    ]
+  },
+  {
+    "id": "history-099",
+    "domain": "history",
+    "hook": "One of history's greatest cathedrals was built in under six years.",
+    "fact": "Constantinople's Hagia Sophia was constructed between 532 and 537 CE under Emperor Justinian and remained the largest cathedral in the world for nearly a thousand years.",
+    "tags": [
+      "byzantine-empire",
+      "architecture"
+    ]
+  },
+  {
+    "id": "history-100",
+    "domain": "history",
+    "hook": "A 900-year-old survey of England is still occasionally cited in court.",
+    "fact": "The Domesday Book, commissioned by William the Conqueror in 1086 to catalogue land and property across England, was so meticulous that it has occasionally been referenced in British legal disputes centuries later.",
+    "tags": [
+      "medieval-europe",
+      "administration"
+    ]
+  },
+  {
+    "id": "history-101",
+    "domain": "history",
+    "hook": "Baghdad once housed a research institute dedicated to saving the ancient world's knowledge.",
+    "fact": "The House of Wisdom in Baghdad became a major center of scholarship where translators rendered Greek, Persian, and Indian texts into Arabic, preserving works that might otherwise have been lost to history.",
+    "tags": [
+      "islamic-golden-age",
+      "scholarship"
+    ]
+  },
+  {
+    "id": "history-102",
+    "domain": "history",
+    "hook": "Two everyday math words come from the same medieval Baghdad scholar.",
+    "fact": "The word 'algebra' derives from the title of a book by the mathematician al-Khwarizmi, while 'algorithm' comes from a Latinized version of his own name.",
+    "whyItMatters": "Two of the most fundamental concepts in modern computing trace directly back to one 9th-century scholar's work.",
+    "tags": [
+      "islamic-golden-age",
+      "math"
+    ]
+  },
+  {
+    "id": "history-103",
+    "domain": "history",
+    "hook": "One medical textbook stayed in use in European universities for over 600 years.",
+    "fact": "Ibn Sina's Canon of Medicine, written in the 11th century, was translated into Latin and remained a standard reference in European medical schools well into the 17th century.",
+    "tags": [
+      "islamic-golden-age",
+      "medicine"
+    ]
+  },
+  {
+    "id": "history-104",
+    "domain": "history",
+    "hook": "Medieval Islamic hospitals treated patients for free, regardless of wealth.",
+    "fact": "Hospitals known as bimaristans, found across the medieval Islamic world, provided care to patients regardless of their ability to pay and included some of the earliest wards specifically for treating mental illness.",
+    "tags": [
+      "islamic-golden-age",
+      "medicine"
+    ]
+  },
+  {
+    "id": "history-105",
+    "domain": "history",
+    "hook": "One medieval Spanish city had street lighting while much of Europe barely had books.",
+    "fact": "In the 10th century, Cordoba under Islamic rule featured paved, lit streets and libraries holding hundreds of thousands of volumes, at a time when many European monasteries owned only a few dozen books each.",
+    "tags": [
+      "islamic-golden-age",
+      "cities"
+    ]
+  },
+  {
+    "id": "history-106",
+    "domain": "history",
+    "hook": "A 14th-century traveler covered more ground than the far more famous Marco Polo.",
+    "fact": "Ibn Battuta journeyed an estimated 75,000 miles across Africa, the Middle East, and Asia over roughly three decades, visiting significantly more territory than his better-known contemporary Marco Polo.",
+    "tags": [
+      "islamic-golden-age",
+      "exploration"
+    ]
+  },
+  {
+    "id": "history-107",
+    "domain": "history",
+    "hook": "Coffee's origin story starts with monks trying to stay awake for prayer.",
+    "fact": "Coffee is believed to have first been consumed by Sufi monks in Yemen and the Horn of Africa, who drank it to remain alert during nighttime devotions, before it spread across the Islamic world and eventually into Europe.",
+    "tags": [
+      "islamic-golden-age",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "history-108",
+    "domain": "history",
+    "hook": "A device for navigating by the stars was perfected by medieval Islamic astronomers.",
+    "fact": "Islamic scholars significantly refined the astrolabe, using it for navigation, timekeeping, and calculating the direction of Mecca for daily prayers.",
+    "tags": [
+      "islamic-golden-age",
+      "astronomy"
+    ]
+  },
+  {
+    "id": "history-109",
+    "domain": "history",
+    "hook": "The Mongol conquests, for all their brutality, made trade across Asia dramatically safer.",
+    "fact": "The stability of the Mongol Empire created what historians call the 'Pax Mongolica,' allowing goods, ideas, and travelers to move along the Silk Road with far less risk than before — though the same open routes are also thought to have helped spread the Black Death westward.",
+    "tags": [
+      "medieval-asia",
+      "mongol-empire"
+    ]
+  },
+  {
+    "id": "history-110",
+    "domain": "history",
+    "hook": "Japan's warrior class lived by a code that was never actually written down until much later.",
+    "fact": "Medieval Japanese samurai followed unwritten codes of loyalty, honor, and discipline that were only later formalized and named bushido, becoming central to Japan's cultural identity.",
+    "tags": [
+      "medieval-asia",
+      "japan"
+    ]
+  },
+  {
+    "id": "history-111",
+    "domain": "history",
+    "hook": "The largest religious monument on Earth isn't in Europe or the Middle East.",
+    "fact": "Cambodia's Angkor Wat, built in the early 12th century by the Khmer Empire, is the largest religious monument in the world, originally constructed as a Hindu temple before later becoming a Buddhist site.",
+    "tags": [
+      "medieval-asia",
+      "khmer-empire"
+    ]
+  },
+  {
+    "id": "history-112",
+    "domain": "history",
+    "hook": "The world's oldest surviving book printed with movable metal type isn't Gutenberg's Bible.",
+    "fact": "Korea's Jikji, printed in 1377 using movable metal type, predates Gutenberg's famous Bible by roughly 78 years and is the oldest known surviving book produced this way.",
+    "whyItMatters": "It challenges the common assumption that Gutenberg's press marked the true origin of movable-type printing.",
+    "tags": [
+      "medieval-asia",
+      "korea"
+    ]
+  },
+  {
+    "id": "history-113",
+    "domain": "history",
+    "hook": "The world's first novel was written by a Japanese noblewoman a thousand years ago.",
+    "fact": "Murasaki Shikibu wrote The Tale of Genji around 1000 CE in the Japanese imperial court, and it is widely regarded by scholars as the world's first novel.",
+    "tags": [
+      "medieval-asia",
+      "japan"
+    ]
+  },
+  {
+    "id": "history-114",
+    "domain": "history",
+    "hook": "A sultanate blended Persian, Turkic, and Indian cultures into a distinct new civilization.",
+    "fact": "The Delhi Sultanate, which ruled large parts of the Indian subcontinent from the 13th to 16th centuries, fused Persian and Central Asian traditions with local Indian culture in its art, architecture, and administration.",
+    "tags": [
+      "medieval-asia",
+      "india"
+    ]
+  },
+  {
+    "id": "history-115",
+    "domain": "history",
+    "hook": "One island empire taxed nearly all trade passing between China and India for centuries.",
+    "fact": "The Srivijaya Empire, based on the island of Sumatra, controlled the strategic Strait of Malacca from around the 7th to 13th centuries, profiting from taxing the maritime trade that flowed between East and South Asia.",
+    "tags": [
+      "medieval-asia",
+      "trade"
+    ]
+  },
+  {
+    "id": "history-116",
+    "domain": "history",
+    "hook": "One medieval Chinese city may have housed over a million residents from across Asia.",
+    "fact": "Chang'an, the capital of Tang dynasty China, was one of the most cosmopolitan cities in the world, with a population possibly exceeding one million and communities of foreign merchants, monks, and diplomats.",
+    "tags": [
+      "medieval-asia",
+      "china"
+    ]
+  },
+  {
+    "id": "history-117",
+    "domain": "history",
+    "hook": "Zheng He's 15th-century treasure fleet dwarfed Columbus's ships.",
+    "fact": "Chinese admiral Zheng He commanded fleets of hundreds of ships on seven voyages between 1405 and 1433, decades before Columbus, with flagship 'treasure ships' reportedly several times longer than the Santa Maria.",
+    "tags": [
+      "china",
+      "exploration"
+    ]
+  },
+  {
+    "id": "history-118",
+    "domain": "history",
+    "hook": "Columbus died convinced he had reached Asia.",
+    "fact": "Christopher Columbus made four voyages across the Atlantic between 1492 and 1504 and never accepted that he had found a previously unknown continent, insisting until his death that he had reached the outskirts of Asia.",
+    "tags": [
+      "exploration",
+      "myths"
+    ]
+  },
+  {
+    "id": "history-119",
+    "domain": "history",
+    "hook": "The first expedition to circle the globe lost its own captain along the way.",
+    "fact": "Ferdinand Magellan set out in 1519 to find a westward route to Asia but was killed in the Philippines in 1521; only one of his five ships and a fraction of the crew completed the first circumnavigation of the globe.",
+    "tags": [
+      "exploration"
+    ]
+  },
+  {
+    "id": "history-120",
+    "domain": "history",
+    "hook": "One sea route ended Venice's centuries-long grip on the spice trade.",
+    "fact": "When Vasco da Gama reached India by sailing around Africa in 1498, Portugal gained a direct sea route to Asian spices, bypassing the overland and Mediterranean networks that had made Venetian and Arab traders wealthy middlemen for centuries.",
+    "tags": [
+      "exploration",
+      "trade"
+    ]
+  },
+  {
+    "id": "history-121",
+    "domain": "history",
+    "hook": "A mountain of silver in Bolivia helped reshape trade with China.",
+    "fact": "The silver mines of Potosi, discovered in the 1540s, produced so much silver that much of it was shipped across the Pacific via Manila to China, where it became the backbone of the Ming dynasty's currency system.",
+    "whyItMatters": "The Potosi-Manila-China silver flow effectively created the first truly global economy, linking the Americas, Europe, and Asia through a single commodity.",
+    "tags": [
+      "latin-america",
+      "trade"
+    ]
+  },
+  {
+    "id": "history-122",
+    "domain": "history",
+    "hook": "The potato was once considered dangerous, even satanic, in parts of Europe.",
+    "fact": "When the potato arrived from the Americas in the 16th century, many Europeans were suspicious of it, associating it with leprosy or witchcraft since it wasn't mentioned in the Bible; it took over a century to become a dietary staple.",
+    "tags": [
+      "food",
+      "europe"
+    ]
+  },
+  {
+    "id": "history-123",
+    "domain": "history",
+    "hook": "A single company once fielded an army bigger than Britain's own.",
+    "fact": "By the late 18th century, the British East India Company maintained a private army of roughly 200,000 soldiers, about twice the size of the British Army, to enforce its trading monopoly and control over Indian territory.",
+    "tags": [
+      "india",
+      "colonialism"
+    ]
+  },
+  {
+    "id": "history-124",
+    "domain": "history",
+    "hook": "The Dutch East India Company was arguably the first modern corporation.",
+    "fact": "Founded in 1602, the VOC was the first company to issue tradable shares to the public on a formal stock exchange, and at its height it commanded its own army, navy, and the power to wage war and mint currency.",
+    "tags": [
+      "trade",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "history-125",
+    "domain": "history",
+    "hook": "The only successful large-scale slave revolt in history created a nation.",
+    "fact": "Enslaved people in the French colony of Saint-Domingue rose up in 1791, defeated Napoleon's army, and declared independence in 1804 as Haiti, becoming the first nation founded by a successful slave rebellion.",
+    "whyItMatters": "Haiti's revolution terrified slaveholding powers worldwide and is often credited as a factor in Napoleon's decision to sell the Louisiana Territory to the United States.",
+    "tags": [
+      "haiti",
+      "revolution"
+    ]
+  },
+  {
+    "id": "history-126",
+    "domain": "history",
+    "hook": "A Belgian king ran an entire colony as his personal property.",
+    "fact": "King Leopold II of Belgium personally owned the Congo Free State from 1885 to 1908, forcing Congolese laborers to harvest rubber under threat of mutilation; the resulting death toll is estimated in the millions.",
+    "tags": [
+      "africa",
+      "colonialism"
+    ]
+  },
+  {
+    "id": "history-127",
+    "domain": "history",
+    "hook": "Britain fought two wars to keep selling opium to China.",
+    "fact": "When Qing China tried to ban the opium trade that British merchants had built through India, Britain went to war twice, in 1839-1842 and 1856-1860, forcing China to open its ports and cede Hong Kong.",
+    "tags": [
+      "china",
+      "war"
+    ]
+  },
+  {
+    "id": "history-128",
+    "domain": "history",
+    "hook": "The deadliest civil war in history wasn't the American Civil War.",
+    "fact": "China's Taiping Rebellion, from 1850 to 1864, led by a man who believed he was the younger brother of Jesus Christ, killed an estimated 20 to 30 million people, making it the bloodiest civil conflict in recorded history.",
+    "tags": [
+      "china",
+      "war"
+    ]
+  },
+  {
+    "id": "history-129",
+    "domain": "history",
+    "hook": "An 1857 uprising ended a corporation's rule over India.",
+    "fact": "After the Indian Rebellion of 1857 against East India Company rule was suppressed, the British government dissolved the company's political power and placed India under direct Crown control.",
+    "tags": [
+      "india",
+      "colonialism"
+    ]
+  },
+  {
+    "id": "history-130",
+    "domain": "history",
+    "hook": "Japan went from feudal isolation to industrial power in a single generation.",
+    "fact": "The Meiji Restoration of 1868 dismantled Japan's feudal shogunate and launched rapid industrialization, military modernization, and Western-style institutions, turning Japan into a major power within decades.",
+    "tags": [
+      "japan",
+      "modernization"
+    ]
+  },
+  {
+    "id": "history-131",
+    "domain": "history",
+    "hook": "European powers carved up Africa at a conference with no African delegates.",
+    "fact": "At the 1884-85 Berlin Conference, European leaders divided Africa into colonial territories using maps and negotiations that involved not a single African representative.",
+    "whyItMatters": "Many of today's African national borders still trace the arbitrary lines drawn at that conference, cutting across ethnic and linguistic communities.",
+    "tags": [
+      "africa",
+      "colonialism"
+    ]
+  },
+  {
+    "id": "history-132",
+    "domain": "history",
+    "hook": "By 1900, only two African nations remained fully independent.",
+    "fact": "After the Scramble for Africa, Ethiopia and Liberia were the only African states to retain their sovereignty, while nearly the entire rest of the continent had fallen under European colonial rule.",
+    "tags": [
+      "africa",
+      "colonialism"
+    ]
+  },
+  {
+    "id": "history-133",
+    "domain": "history",
+    "hook": "Ethiopia handed a European army a stunning defeat.",
+    "fact": "At the Battle of Adwa in 1896, Ethiopian forces under Emperor Menelik II decisively defeated an invading Italian army, securing Ethiopia's independence and becoming a rare African military victory over a colonial power.",
+    "tags": [
+      "africa",
+      "war"
+    ]
+  },
+  {
+    "id": "history-134",
+    "domain": "history",
+    "hook": "Germany committed what many historians call the 20th century's first genocide.",
+    "fact": "Between 1904 and 1908, German colonial forces in what is now Namibia killed tens of thousands of Herero and Nama people through massacres, forced labor, and concentration camps after they resisted colonial rule.",
+    "tags": [
+      "africa",
+      "colonialism"
+    ]
+  },
+  {
+    "id": "history-135",
+    "domain": "history",
+    "hook": "Britain used concentration camps at scale during a war in South Africa.",
+    "fact": "During the Second Boer War of 1899-1902, British forces herded Boer civilians and Black African laborers into camps where poor conditions and disease killed tens of thousands, an early large-scale use of the concentration camp.",
+    "tags": [
+      "africa",
+      "war"
+    ]
+  },
+  {
+    "id": "history-136",
+    "domain": "history",
+    "hook": "Thousands of Native Americans died on a forced march ordered by the U.S. government.",
+    "fact": "Under the Indian Removal Act of 1830, the U.S. government forced the Cherokee and other Native nations to march hundreds of miles to designated territory; thousands died of cold, disease, and starvation along routes now known as the Trail of Tears.",
+    "tags": [
+      "america",
+      "colonialism"
+    ]
+  },
+  {
+    "id": "history-137",
+    "domain": "history",
+    "hook": "A canal cut the sea voyage from Europe to India by thousands of miles.",
+    "fact": "The Suez Canal opened in 1869, connecting the Mediterranean and Red Seas and allowing ships to bypass the long route around Africa, dramatically shortening the journey between Europe and Asia.",
+    "tags": [
+      "egypt",
+      "trade"
+    ]
+  },
+  {
+    "id": "history-138",
+    "domain": "history",
+    "hook": "One man liberated six South American countries from Spanish rule.",
+    "fact": "Simon Bolivar led independence campaigns across what are now Venezuela, Colombia, Ecuador, Peru, Panama, and Bolivia, the last of which was named after him, helping end Spanish colonial rule in South America in the early 1800s.",
+    "tags": [
+      "latin-america",
+      "revolution"
+    ]
+  },
+  {
+    "id": "history-139",
+    "domain": "history",
+    "hook": "Mexico's independence movement began with a priest's late-night speech.",
+    "fact": "In 1810, Catholic priest Miguel Hidalgo issued the 'Grito de Dolores,' a call to arms against Spanish rule that launched Mexico's eleven-year war of independence.",
+    "tags": [
+      "mexico",
+      "revolution"
+    ]
+  },
+  {
+    "id": "history-140",
+    "domain": "history",
+    "hook": "Brazil was the last country in the Americas to abolish slavery.",
+    "fact": "Brazil didn't formally end slavery until 1888, decades after most other nations in the Western Hemisphere, following the 'Golden Law' signed by Princess Isabel.",
+    "tags": [
+      "brazil",
+      "slavery"
+    ]
+  },
+  {
+    "id": "history-141",
+    "domain": "history",
+    "hook": "A war over nitrates left Bolivia permanently landlocked.",
+    "fact": "The War of the Pacific, fought from 1879 to 1884 between Chile and the allied forces of Peru and Bolivia, ended with Chile annexing valuable nitrate-rich coastal territory, cutting Bolivia off from the sea for good.",
+    "tags": [
+      "latin-america",
+      "war"
+    ]
+  },
+  {
+    "id": "history-142",
+    "domain": "history",
+    "hook": "Asia's first modern defeat of a European power came from Japan.",
+    "fact": "In the Russo-Japanese War of 1904-1905, Japan defeated Russia on both land and sea, marking the first time in the modern era that an Asian nation decisively beat a major European power in war.",
+    "whyItMatters": "The victory shattered assumptions of European invincibility and inspired anti-colonial and nationalist movements across Asia and Africa.",
+    "tags": [
+      "japan",
+      "war"
+    ]
+  },
+  {
+    "id": "history-143",
+    "domain": "history",
+    "hook": "The Ottoman Sultan's elite soldiers started out as enslaved Christian boys.",
+    "fact": "The Janissaries, the Ottoman Sultan's elite infantry corps, were originally recruited through the devshirme system, which conscripted Christian boys from the Balkans, converted them to Islam, and trained them for military and administrative service.",
+    "tags": [
+      "ottoman-empire",
+      "military"
+    ]
+  },
+  {
+    "id": "history-144",
+    "domain": "history",
+    "hook": "A war fought largely over religion killed a huge share of Central Europe's population.",
+    "fact": "The Thirty Years' War, from 1618 to 1648, fought primarily across the Holy Roman Empire, killed an estimated 20 to 40 percent of the German population through combat, famine, and disease.",
+    "tags": [
+      "europe",
+      "war"
+    ]
+  },
+  {
+    "id": "history-145",
+    "domain": "history",
+    "hook": "A 1648 peace treaty created the modern idea of the nation-state.",
+    "fact": "The Peace of Westphalia, which ended the Thirty Years' War in 1648, established the principle that states have sovereign authority within their own borders, a concept still foundational to international law today.",
+    "tags": [
+      "europe",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "history-146",
+    "domain": "history",
+    "hook": "England executed its own king in the 17th century.",
+    "fact": "After the English Civil War, King Charles I was tried for treason and publicly beheaded in 1649, a shocking act that briefly turned England into a republic under Oliver Cromwell.",
+    "tags": [
+      "england",
+      "monarchy"
+    ]
+  },
+  {
+    "id": "history-147",
+    "domain": "history",
+    "hook": "England swapped kings in a coup with almost no bloodshed.",
+    "fact": "In the Glorious Revolution of 1688, the English Parliament invited William of Orange to invade and take the throne from James II, who fled largely without a fight, permanently shifting power from the monarchy toward Parliament.",
+    "tags": [
+      "england",
+      "revolution"
+    ]
+  },
+  {
+    "id": "history-148",
+    "domain": "history",
+    "hook": "The emperor who built the Taj Mahal died imprisoned by his own son.",
+    "fact": "Shah Jahan commissioned the Taj Mahal in the 1630s as a mausoleum for his wife, but was later deposed and held under house arrest by his son Aurangzeb, reportedly spending his final years gazing at the monument from a nearby fort.",
+    "tags": [
+      "india",
+      "architecture"
+    ]
+  },
+  {
+    "id": "history-149",
+    "domain": "history",
+    "hook": "A Persian dynasty made Shia Islam the official religion of what is now Iran.",
+    "fact": "The Safavid dynasty, which rose to power in 1501, established Twelver Shia Islam as Iran's state religion, a decision that still shapes the region's religious identity today.",
+    "tags": [
+      "iran",
+      "religion"
+    ]
+  },
+  {
+    "id": "history-150",
+    "domain": "history",
+    "hook": "The Industrial Revolution began in textile mills, not steel factories.",
+    "fact": "Britain's Industrial Revolution took off in the late 18th century with mechanized spinning and weaving in cotton mills, before steam power and heavy industry spread to other sectors of the economy.",
+    "tags": [
+      "industrial-revolution",
+      "britain"
+    ]
+  },
+  {
+    "id": "history-151",
+    "domain": "history",
+    "hook": "Workers once smashed machinery to protest the Industrial Revolution.",
+    "fact": "Beginning around 1811, English textile workers known as Luddites destroyed mechanized looms and knitting frames they blamed for undercutting their wages and jobs, giving rise to the modern term 'Luddite.'",
+    "tags": [
+      "industrial-revolution",
+      "labor"
+    ]
+  },
+  {
+    "id": "history-152",
+    "domain": "history",
+    "hook": "Young children once worked long shifts in coal mines and mills.",
+    "fact": "During the early Industrial Revolution, children as young as five or six worked long shifts in British coal mines and textile factories, a practice only gradually restricted by a series of Factory Acts starting in the 1830s.",
+    "tags": [
+      "industrial-revolution",
+      "labor"
+    ]
+  },
+  {
+    "id": "history-153",
+    "domain": "history",
+    "hook": "A famine drove roughly a million people to flee Ireland.",
+    "fact": "The Irish Potato Famine of 1845-1852, caused by a blight that destroyed the potato crop, killed roughly a million people and forced another million or more to emigrate, permanently reshaping Ireland's population.",
+    "tags": [
+      "ireland",
+      "famine"
+    ]
+  },
+  {
+    "id": "history-154",
+    "domain": "history",
+    "hook": "A revolutionary pamphlet was published the same year uprisings swept Europe.",
+    "fact": "Karl Marx and Friedrich Engels published The Communist Manifesto in early 1848, the same year that revolutions and uprisings against monarchies broke out in France, the German states, Austria, Italy, and beyond.",
+    "tags": [
+      "europe",
+      "revolution"
+    ]
+  },
+  {
+    "id": "history-155",
+    "domain": "history",
+    "hook": "Germany didn't exist as a unified country until 1871.",
+    "fact": "Germany was unified into a single empire only after Prussia's victory in the Franco-Prussian War, with King Wilhelm I proclaimed German Emperor at the Palace of Versailles in 1871.",
+    "tags": [
+      "germany",
+      "unification"
+    ]
+  },
+  {
+    "id": "history-156",
+    "domain": "history",
+    "hook": "Italy was stitched together from a patchwork of separate states.",
+    "fact": "Modern Italy wasn't unified until 1861, when the Kingdom of Italy was proclaimed after decades of campaigns led by figures like Giuseppe Garibaldi and Count Cavour merged separate kingdoms and papal territories.",
+    "tags": [
+      "italy",
+      "unification"
+    ]
+  },
+  {
+    "id": "history-157",
+    "domain": "history",
+    "hook": "A nurse's work in a war zone helped invent modern nursing.",
+    "fact": "During the Crimean War, from 1853 to 1856, Florence Nightingale dramatically reduced death rates among wounded British soldiers by improving hospital sanitation, laying the groundwork for modern nursing practices.",
+    "tags": [
+      "war",
+      "medicine"
+    ]
+  },
+  {
+    "id": "history-158",
+    "domain": "history",
+    "hook": "America's deadliest war was fought against itself.",
+    "fact": "The American Civil War, from 1861 to 1865, killed an estimated 620,000 to 750,000 soldiers, more American deaths than nearly every other U.S. war combined up to that point.",
+    "tags": [
+      "america",
+      "war"
+    ]
+  },
+  {
+    "id": "history-159",
+    "domain": "history",
+    "hook": "Chinese laborers blasted the tunnels that connected America coast to coast.",
+    "fact": "Thousands of Chinese immigrant workers did much of the most dangerous work, blasting tunnels through the Sierra Nevada, to complete the American transcontinental railroad, finished in 1869.",
+    "tags": [
+      "america",
+      "labor"
+    ]
+  },
+  {
+    "id": "history-160",
+    "domain": "history",
+    "hook": "The first attempt to build the Panama Canal collapsed because of mosquitoes.",
+    "fact": "A French effort to build the Panama Canal in the 1880s failed after yellow fever and malaria killed thousands of workers; only after the U.S. took over and controlled disease-carrying mosquitoes did the canal finally open in 1914.",
+    "tags": [
+      "panama",
+      "engineering"
+    ]
+  },
+  {
+    "id": "history-161",
+    "domain": "history",
+    "hook": "Panama exists as a separate country partly because of a canal deal.",
+    "fact": "In 1903, Panama seceded from Colombia with U.S. military backing, and the newly independent nation shortly afterward granted the United States rights to build and control the Panama Canal Zone.",
+    "tags": [
+      "panama",
+      "colonialism"
+    ]
+  },
+  {
+    "id": "history-162",
+    "domain": "history",
+    "hook": "A brief war over Cuba left the U.S. with an overseas empire.",
+    "fact": "After the Spanish-American War of 1898, which lasted only a few months, the United States gained control of the Philippines, Puerto Rico, and Guam, and effectively controlled Cuba, becoming a colonial power in its own right.",
+    "tags": [
+      "america",
+      "war"
+    ]
+  },
+  {
+    "id": "history-163",
+    "domain": "history",
+    "hook": "Filipino revolutionaries fought a second war for independence, against the country that had just 'liberated' them.",
+    "fact": "After Spain ceded the Philippines to the United States in 1898, Filipino revolutionaries who had fought for independence turned against their new occupiers in the Philippine-American War of 1899-1902, which killed hundreds of thousands.",
+    "tags": [
+      "philippines",
+      "war"
+    ]
+  },
+  {
+    "id": "history-164",
+    "domain": "history",
+    "hook": "A Zulu army destroyed a British force in one of colonial history's biggest upsets.",
+    "fact": "At the Battle of Isandlwana in 1879, Zulu warriors armed largely with spears overwhelmed and killed over 1,300 British and colonial troops, one of the worst defeats the British Empire suffered against an African army.",
+    "tags": [
+      "africa",
+      "war"
+    ]
+  },
+  {
+    "id": "history-165",
+    "domain": "history",
+    "hook": "A British raid on a West African kingdom filled European museums with looted art.",
+    "fact": "In 1897, British forces destroyed the Kingdom of Benin, in present-day Nigeria, and looted thousands of bronze and ivory artworks, many of which remain in European museums and are the subject of ongoing restitution disputes.",
+    "tags": [
+      "africa",
+      "art"
+    ]
+  },
+  {
+    "id": "history-166",
+    "domain": "history",
+    "hook": "Sudan's fight against British-Egyptian rule killed a famous general.",
+    "fact": "In 1885, forces of the Mahdist State besieged and captured Khartoum, killing British general Charles Gordon, a defeat that shocked Victorian Britain and delayed British control of Sudan by over a decade.",
+    "tags": [
+      "africa",
+      "war"
+    ]
+  },
+  {
+    "id": "history-167",
+    "domain": "history",
+    "hook": "The First World War started with a single assassination in the Balkans.",
+    "fact": "The June 1914 assassination of Archduke Franz Ferdinand of Austria-Hungary by a Bosnian Serb nationalist triggered a chain of alliance obligations that escalated into a war involving dozens of countries within weeks.",
+    "tags": [
+      "wwi",
+      "europe"
+    ]
+  },
+  {
+    "id": "history-168",
+    "domain": "history",
+    "hook": "Soldiers on opposing sides of WWI briefly stopped fighting to celebrate Christmas together.",
+    "fact": "In December 1914, German and British troops along parts of the Western Front declared unofficial truces, singing carols, exchanging gifts, and even playing football in no-man's-land before returning to combat.",
+    "tags": [
+      "wwi"
+    ]
+  },
+  {
+    "id": "history-169",
+    "domain": "history",
+    "hook": "Two European powers secretly agreed to carve up the Middle East before WWI even ended.",
+    "fact": "The 1916 Sykes-Picot Agreement, negotiated secretly between Britain and France, divided Ottoman territories in the Middle East into spheres of influence, shaping borders that still fuel conflict today.",
+    "tags": [
+      "middle-east",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "history-170",
+    "domain": "history",
+    "hook": "Britain made overlapping wartime promises about the same land to different peoples.",
+    "fact": "The 1917 Balfour Declaration expressed British support for a Jewish homeland in Palestine, even as Britain had also made separate wartime promises of Arab independence, laying groundwork for decades of conflict.",
+    "tags": [
+      "middle-east",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "history-171",
+    "domain": "history",
+    "hook": "Up to 1.5 million Armenians were killed in a systematic campaign during WWI.",
+    "fact": "Starting in 1915, the Ottoman government carried out mass killings and death marches against its Armenian population, an event widely recognized by historians and many governments as genocide.",
+    "tags": [
+      "ottoman-empire",
+      "genocide"
+    ]
+  },
+  {
+    "id": "history-172",
+    "domain": "history",
+    "hook": "An Arab revolt against the Ottomans was aided by a British officer who became a legend.",
+    "fact": "T.E. Lawrence, later known as 'Lawrence of Arabia,' helped coordinate the Arab Revolt against Ottoman rule during World War I, working alongside Arab leaders such as Faisal bin Hussein.",
+    "tags": [
+      "middle-east",
+      "wwi"
+    ]
+  },
+  {
+    "id": "history-173",
+    "domain": "history",
+    "hook": "The flu that followed WWI killed more people than the war itself.",
+    "fact": "The 1918-1919 influenza pandemic killed an estimated 50 million people or more worldwide, far surpassing the roughly 17 million military and civilian deaths of World War I.",
+    "tags": [
+      "pandemic",
+      "wwi"
+    ]
+  },
+  {
+    "id": "history-174",
+    "domain": "history",
+    "hook": "A modern secular Turkey rose from the ashes of the Ottoman Empire.",
+    "fact": "After the Ottoman Empire collapsed following WWI, military officer Mustafa Kemal Ataturk founded the Republic of Turkey in 1923 and pushed through sweeping secularizing reforms, including replacing the Arabic script with a Latin alphabet.",
+    "tags": [
+      "turkey",
+      "modernization"
+    ]
+  },
+  {
+    "id": "history-175",
+    "domain": "history",
+    "hook": "A Russian tsar's family trusted a mystic healer whose scandal helped bring down the monarchy.",
+    "fact": "Grigori Rasputin gained enormous influence over Tsar Nicholas II's family by claiming to ease the suffering of the hemophiliac heir, and his scandalous reputation helped erode public confidence in the monarchy before its 1917 collapse.",
+    "tags": [
+      "russia",
+      "monarchy"
+    ]
+  },
+  {
+    "id": "history-176",
+    "domain": "history",
+    "hook": "Russia's last tsar abdicated within days of a revolution he didn't see coming.",
+    "fact": "In February 1917, mass strikes and mutinies in Petrograd forced Tsar Nicholas II to abdicate within about a week, ending three centuries of Romanov rule before the Bolsheviks seized power later that year.",
+    "tags": [
+      "russia",
+      "revolution"
+    ]
+  },
+  {
+    "id": "history-177",
+    "domain": "history",
+    "hook": "Gandhi walked 240 miles to protest a tax on salt.",
+    "fact": "In 1930, Mohandas Gandhi walked roughly 240 miles to the Arabian Sea to make salt by hand, defying a British colonial monopoly and tax on salt production in a landmark act of nonviolent civil disobedience.",
+    "tags": [
+      "india",
+      "independence"
+    ]
+  },
+  {
+    "id": "history-178",
+    "domain": "history",
+    "hook": "China's Communist Party nearly collapsed before a year-long retreat saved it.",
+    "fact": "Facing encirclement by Nationalist forces, Mao Zedong's Communist army undertook the Long March in 1934-1935, a roughly 6,000-mile retreat across China that cemented Mao's leadership despite catastrophic losses along the way.",
+    "tags": [
+      "china",
+      "revolution"
+    ]
+  },
+  {
+    "id": "history-179",
+    "domain": "history",
+    "hook": "Japan's capture of a Chinese city led to one of the war's worst massacres.",
+    "fact": "After capturing Nanjing in December 1937, Japanese troops killed an estimated 200,000 to 300,000 Chinese civilians and soldiers and committed widespread sexual violence over the following weeks, an atrocity known as the Nanjing Massacre.",
+    "tags": [
+      "china",
+      "wwii"
+    ]
+  },
+  {
+    "id": "history-180",
+    "domain": "history",
+    "hook": "A wartime famine in British-ruled India killed millions while grain went elsewhere.",
+    "fact": "The 1943 Bengal Famine killed an estimated 2 to 3 million people, worsened by British wartime policies that prioritized military and other needs over famine relief in the region.",
+    "tags": [
+      "india",
+      "famine"
+    ]
+  },
+  {
+    "id": "history-181",
+    "domain": "history",
+    "hook": "One surprise attack pulled a reluctant superpower into a world war.",
+    "fact": "Japan's surprise attack on the U.S. naval base at Pearl Harbor on December 7, 1941, killed over 2,400 Americans and led the United States to declare war the very next day, ending its policy of non-intervention.",
+    "tags": [
+      "wwii",
+      "america"
+    ]
+  },
+  {
+    "id": "history-182",
+    "domain": "history",
+    "hook": "The first-ever nuclear test had a code name borrowed from a poem.",
+    "fact": "The first-ever nuclear weapon test, conducted by the U.S. in the New Mexico desert in July 1945, was code-named 'Trinity,' reportedly chosen by physicist J. Robert Oppenheimer with a nod to English poetry.",
+    "tags": [
+      "wwii",
+      "science"
+    ]
+  },
+  {
+    "id": "history-183",
+    "domain": "history",
+    "hook": "Japan's WWII military forced tens of thousands of women into sexual slavery.",
+    "fact": "During WWII, the Japanese military established a system of forced sexual slavery involving an estimated tens of thousands of women, euphemistically called 'comfort women,' recruited or coerced from Korea, China, and other occupied territories.",
+    "tags": [
+      "wwii",
+      "japan"
+    ]
+  },
+  {
+    "id": "history-184",
+    "domain": "history",
+    "hook": "The Soviet Union lost more people in WWII than any other country by far.",
+    "fact": "The Soviet Union suffered an estimated 24 to 27 million deaths during World War II, both military and civilian, far more than any other nation, with the Eastern Front consuming the bulk of Nazi Germany's military resources.",
+    "whyItMatters": "The staggering scale of Soviet losses is a major reason historians consider the Eastern Front, not Western Europe, the primary theater that broke Nazi Germany's army.",
+    "tags": [
+      "wwii",
+      "soviet-union"
+    ]
+  },
+  {
+    "id": "history-185",
+    "domain": "history",
+    "hook": "India and Pakistan's split triggered the largest mass migration in human history.",
+    "fact": "The 1947 Partition of British India into India and Pakistan displaced an estimated 15 million people along religious lines and was accompanied by horrific violence that killed hundreds of thousands to over a million.",
+    "whyItMatters": "The rushed, poorly planned border-drawing left disputes, like Kashmir, that still drive tension between India and Pakistan today.",
+    "tags": [
+      "india",
+      "independence"
+    ]
+  },
+  {
+    "id": "history-186",
+    "domain": "history",
+    "hook": "China's push to leap into industrial power caused the deadliest famine ever recorded.",
+    "fact": "Mao Zedong's Great Leap Forward, from 1958 to 1962, forced rapid collectivization and unrealistic industrial targets, leading to a famine estimated to have killed between 15 and 45 million people.",
+    "tags": [
+      "china",
+      "famine"
+    ]
+  },
+  {
+    "id": "history-187",
+    "domain": "history",
+    "hook": "Ghana's independence kicked off a wave that swept across Africa.",
+    "fact": "In 1957, Ghana became the first sub-Saharan African colony to gain independence from European rule, with leader Kwame Nkrumah's success inspiring independence movements across the rest of the continent over the following decade.",
+    "tags": [
+      "africa",
+      "independence"
+    ]
+  },
+  {
+    "id": "history-188",
+    "domain": "history",
+    "hook": "Congo's first prime minister was assassinated within months of independence.",
+    "fact": "Patrice Lumumba became the Congo's first democratically elected prime minister after independence from Belgium in 1960, but was ousted within months and assassinated in 1961 amid Cold War-era political intervention.",
+    "tags": [
+      "africa",
+      "independence"
+    ]
+  },
+  {
+    "id": "history-189",
+    "domain": "history",
+    "hook": "France fought an eight-year war trying to keep Algeria as part of France.",
+    "fact": "The Algerian War of Independence, from 1954 to 1962, was marked by brutal tactics on both sides, including widespread torture by French forces, before Algeria won its independence in 1962.",
+    "tags": [
+      "africa",
+      "independence"
+    ]
+  },
+  {
+    "id": "history-190",
+    "domain": "history",
+    "hook": "Kenyans fighting British colonial rule were held in camps decades later found to involve systematic abuse.",
+    "fact": "During the Mau Mau uprising against British colonial rule in the 1950s, British authorities detained tens of thousands of Kenyans in camps where many were subjected to abuse; Britain later paid compensation to victims after decades of legal battles.",
+    "tags": [
+      "africa",
+      "independence"
+    ]
+  },
+  {
+    "id": "history-191",
+    "domain": "history",
+    "hook": "A 1955 conference of newly independent nations helped launch a global movement.",
+    "fact": "The 1955 Bandung Conference brought together leaders from 29 Asian and African nations to promote solidarity against colonialism, laying groundwork for the Non-Aligned Movement that emerged during the Cold War.",
+    "tags": [
+      "asia",
+      "africa"
+    ]
+  },
+  {
+    "id": "history-192",
+    "domain": "history",
+    "hook": "Vietnam's independence declaration borrowed its opening line from America's.",
+    "fact": "When Ho Chi Minh declared Vietnamese independence from France in 1945, he opened his speech by quoting the U.S. Declaration of Independence's line about all men being created equal.",
+    "tags": [
+      "vietnam",
+      "independence"
+    ]
+  },
+  {
+    "id": "history-193",
+    "domain": "history",
+    "hook": "The Korean War never officially ended.",
+    "fact": "The Korean War, from 1950 to 1953, concluded with an armistice, not a peace treaty, meaning North and South Korea have technically remained in a state of war for over seven decades.",
+    "whyItMatters": "The unresolved war is why the Korean Demilitarized Zone remains one of the most heavily fortified borders on Earth.",
+    "tags": [
+      "korea",
+      "cold-war"
+    ]
+  },
+  {
+    "id": "history-194",
+    "domain": "history",
+    "hook": "The world came closer to nuclear war over missiles 90 miles from Florida.",
+    "fact": "During the 1962 Cuban Missile Crisis, the discovery of Soviet nuclear missiles in Cuba brought the U.S. and USSR to the brink of nuclear conflict for thirteen tense days before a diplomatic resolution was reached.",
+    "tags": [
+      "cold-war",
+      "cuba"
+    ]
+  },
+  {
+    "id": "history-195",
+    "domain": "history",
+    "hook": "A covert coup toppled Iran's democratically elected prime minister in 1953.",
+    "fact": "In 1953, a coup orchestrated with U.S. and British intelligence support removed Iranian Prime Minister Mohammad Mossadegh after he nationalized the country's oil industry, reinstalling the Shah with greater power.",
+    "whyItMatters": "Many historians point to the resentment from this coup as a key factor that fueled the 1979 Iranian Revolution decades later.",
+    "tags": [
+      "iran",
+      "cold-war"
+    ]
+  },
+  {
+    "id": "history-196",
+    "domain": "history",
+    "hook": "The satellite that started the Space Race was smaller than a beach ball.",
+    "fact": "The Soviet Union's Sputnik 1, launched in October 1957, was the first artificial satellite in orbit, about 23 inches across, and its launch triggered a surge of American anxiety and investment that became the Space Race.",
+    "tags": [
+      "space",
+      "cold-war"
+    ]
+  },
+  {
+    "id": "history-197",
+    "domain": "history",
+    "hook": "The first human in space orbited Earth in under two hours.",
+    "fact": "Soviet cosmonaut Yuri Gagarin became the first human to travel into space in April 1961, completing a single orbit of the Earth in about 108 minutes aboard Vostok 1.",
+    "tags": [
+      "space",
+      "soviet-union"
+    ]
+  },
+  {
+    "id": "history-198",
+    "domain": "history",
+    "hook": "Apartheid South Africa jailed its future president for 27 years.",
+    "fact": "Nelson Mandela was imprisoned in 1962 and spent 27 years behind bars, most of it on Robben Island, for his role opposing South Africa's apartheid system before his release in 1990 and eventual election as president in 1994.",
+    "tags": [
+      "south-africa",
+      "apartheid"
+    ]
+  },
+  {
+    "id": "history-199",
+    "domain": "history",
+    "hook": "South African police killed dozens of peaceful protesters at a single 1960 rally.",
+    "fact": "In the Sharpeville Massacre of March 1960, South African police opened fire on a crowd protesting apartheid pass laws, killing 69 people and drawing international condemnation of the apartheid regime.",
+    "tags": [
+      "south-africa",
+      "apartheid"
+    ]
+  },
+  {
+    "id": "history-200",
+    "domain": "history",
+    "hook": "Cambodia's ruling regime tried to empty its own capital city overnight.",
+    "fact": "After seizing power in 1975, the Khmer Rouge forced the entire population of Phnom Penh into the countryside within days as part of a radical agrarian revolution that led to the deaths of roughly 1.5 to 2 million Cambodians.",
+    "tags": [
+      "cambodia",
+      "genocide"
+    ]
   }
 ]

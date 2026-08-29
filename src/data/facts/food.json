@@ -1,0 +1,2047 @@
+[
+  {
+    "id": "food-001",
+    "domain": "food",
+    "hook": "Pizza Margherita was designed like a flag.",
+    "fact": "In 1889, Naples pizzaiolo Raffaele Esposito reportedly topped a pizza with tomato, mozzarella, and basil to mirror the red, white, and green of the Italian flag, naming it for Queen Margherita of Savoy.",
+    "tags": [
+      "dish-origins",
+      "italy"
+    ]
+  },
+  {
+    "id": "food-002",
+    "domain": "food",
+    "hook": "Sushi began as a way to preserve fish, not eat it fresh.",
+    "fact": "The earliest form of sushi, narezushi, packed fish in fermented rice for months to preserve it; the rice was originally discarded and only the fish eaten. Vinegared rice meant to be eaten together came much later in Japan.",
+    "tags": [
+      "dish-origins",
+      "japan",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-003",
+    "domain": "food",
+    "hook": "Kimchi existed for centuries before it was ever spicy.",
+    "fact": "Fermented vegetable dishes have been made on the Korean peninsula for over a thousand years, but chili peppers only arrived after being introduced from the Americas in the 16th-17th century, so red, spicy kimchi is a relatively recent development.",
+    "tags": [
+      "dish-origins",
+      "korea",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-004",
+    "domain": "food",
+    "hook": "Pad Thai was a government marketing campaign.",
+    "fact": "In the 1930s-40s, Thai Prime Minister Plaek Phibunsongkhram promoted stir-fried rice noodles as a nationalist dish to reduce rice consumption and build a unified Thai identity, effectively launching pad thai as we know it today.",
+    "tags": [
+      "dish-origins",
+      "thailand"
+    ]
+  },
+  {
+    "id": "food-005",
+    "domain": "food",
+    "hook": "Tempura was brought to Japan by Portuguese missionaries.",
+    "fact": "The technique of battering and deep-frying food arrived in 16th-century Japan with Portuguese traders and missionaries, who fried fish and vegetables during Lenten fasting periods called 'tempora' in Latin.",
+    "tags": [
+      "dish-origins",
+      "japan"
+    ]
+  },
+  {
+    "id": "food-006",
+    "domain": "food",
+    "hook": "A Goan curry's name is actually Portuguese.",
+    "fact": "Vindaloo derives from the Portuguese dish carne de vinha d'alhos, meat marinated in wine and garlic. Portuguese colonizers brought it to Goa, India, where vinegar replaced wine and local chilies were added.",
+    "tags": [
+      "dish-origins",
+      "india"
+    ]
+  },
+  {
+    "id": "food-007",
+    "domain": "food",
+    "hook": "Chili peppers are newcomers to nearly every cuisine famous for spice.",
+    "fact": "Chili peppers were domesticated in Mexico and were unknown outside the Americas until European contact after 1492. Within a few centuries they transformed Indian, Thai, Korean, Sichuan, and Hungarian cooking.",
+    "whyItMatters": "Many dishes considered ancient national symbols of 'heat' are actually only a few hundred years old.",
+    "tags": [
+      "ingredient-history",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-008",
+    "domain": "food",
+    "hook": "Tomatoes weren't part of Italian cooking until the 1800s.",
+    "fact": "Tomatoes originated in the Americas and were viewed with suspicion in Europe for centuries after their arrival. They didn't become central to Italian sauces and pizza until the 18th and 19th centuries.",
+    "tags": [
+      "ingredient-history",
+      "italy"
+    ]
+  },
+  {
+    "id": "food-009",
+    "domain": "food",
+    "hook": "The fortune cookie isn't Chinese.",
+    "fact": "Fortune cookies were most likely created by Japanese immigrants in early 20th-century California, adapted from a Japanese cracker tradition called tsujiura senbei. They're largely unknown in China itself.",
+    "tags": [
+      "dish-origins",
+      "united-states"
+    ]
+  },
+  {
+    "id": "food-010",
+    "domain": "food",
+    "hook": "General Tso's chicken is barely known in Hunan.",
+    "fact": "The dish was created by chef Peng Chang-kuei, who fled mainland China for Taiwan and developed it there in the 1950s before bringing a version to New York in the 1970s. It remains virtually unknown in Hunan province.",
+    "tags": [
+      "dish-origins",
+      "china",
+      "united-states"
+    ]
+  },
+  {
+    "id": "food-011",
+    "domain": "food",
+    "hook": "Chicken tikka masala may have been born in Scotland.",
+    "fact": "One widely cited account credits a Glasgow restaurant, Shish Mahal, with creating chicken tikka masala in the 1970s by adding a creamy tomato sauce to satisfy a customer who found grilled chicken too dry.",
+    "tags": [
+      "dish-origins",
+      "united-kingdom"
+    ]
+  },
+  {
+    "id": "food-012",
+    "domain": "food",
+    "hook": "Ramen started out as a Chinese import.",
+    "fact": "Wheat noodle soups arrived in Japan from China and were originally sold as 'Shina soba.' Japanese cooks adapted the broths and toppings through the 20th century into the ramen recognized worldwide today.",
+    "tags": [
+      "dish-origins",
+      "japan",
+      "china"
+    ]
+  },
+  {
+    "id": "food-013",
+    "domain": "food",
+    "hook": "There is no single dish called 'curry' in India.",
+    "fact": "The word curry comes from the Tamil term kari and was popularized by British colonizers as a catch-all label for varied regional gravy-based dishes across South Asia that have no unified name or recipe.",
+    "tags": [
+      "dish-origins",
+      "india"
+    ]
+  },
+  {
+    "id": "food-014",
+    "domain": "food",
+    "hook": "Brazil's national dish likely has enslaved cooks to thank for its existence.",
+    "fact": "Feijoada, a black bean and pork stew, is often traced to Portuguese stewing traditions blended with cooking practices developed by enslaved Africans in Brazil, who made use of cheap pork cuts.",
+    "tags": [
+      "dish-origins",
+      "brazil"
+    ]
+  },
+  {
+    "id": "food-015",
+    "domain": "food",
+    "hook": "Poutine is barely older than the moon landing generation.",
+    "fact": "Fries topped with cheese curds and gravy emerged in rural Quebec in the late 1950s, with several small towns disputing which diner served it first.",
+    "tags": [
+      "dish-origins",
+      "canada"
+    ]
+  },
+  {
+    "id": "food-016",
+    "domain": "food",
+    "hook": "Bibimbap may have started as a way to use up leftovers.",
+    "fact": "The Korean mixed rice dish is thought to have origins in combining rice with leftover banchan side dishes, and some trace a version of the practice to food offerings mixed together after ancestral rites.",
+    "tags": [
+      "dish-origins",
+      "korea"
+    ]
+  },
+  {
+    "id": "food-017",
+    "domain": "food",
+    "hook": "Baklava's layered pastry may trace back to ancient Mesopotamia.",
+    "fact": "Versions of thin, layered dough with nuts and sweetener appear across the Assyrian, Byzantine, and Ottoman worlds, with the Ottoman Empire generally credited for refining and spreading the baklava recipe known today.",
+    "tags": [
+      "dish-origins",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "food-018",
+    "domain": "food",
+    "hook": "Hummus has a written recipe from over 700 years ago.",
+    "fact": "Chickpea and tahini spreads are ancient in the Levant, but one of the earliest known written recipes resembling hummus appears in a 13th-century Egyptian cookbook.",
+    "tags": [
+      "dish-origins",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "food-019",
+    "domain": "food",
+    "hook": "Ethiopia's spongy flatbread ferments for days before it's cooked.",
+    "fact": "Injera is made from teff flour batter left to ferment for several days, developing wild yeast and bacteria that give it a characteristic sour taste and spongy, bubbled texture.",
+    "tags": [
+      "dish-origins",
+      "ethiopia",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-020",
+    "domain": "food",
+    "hook": "Jollof rice takes its name from a West African empire.",
+    "fact": "Jollof rice is traced to the Wolof Empire in the Senegambia region of West Africa, and variations of the tomato-based rice dish are now claimed proudly across many West African nations.",
+    "tags": [
+      "dish-origins",
+      "west-africa"
+    ]
+  },
+  {
+    "id": "food-021",
+    "domain": "food",
+    "hook": "Peruvian ceviche predates the limes it's known for.",
+    "fact": "Pre-Hispanic peoples in coastal Peru marinated fish in fermented local juices long before Spanish colonization. Spanish colonizers introduced citrus fruits, which transformed the dish into the lime-marinated ceviche eaten today.",
+    "tags": [
+      "dish-origins",
+      "peru"
+    ]
+  },
+  {
+    "id": "food-022",
+    "domain": "food",
+    "hook": "Mexico's beloved street taco has Lebanese roots.",
+    "fact": "Tacos al pastor descend from shawarma, brought to Mexico by Lebanese immigrants in the early-to-mid 20th century. Mexican cooks adapted the vertical spit technique, swapping in achiote marinade and pineapple.",
+    "tags": [
+      "dish-origins",
+      "mexico"
+    ]
+  },
+  {
+    "id": "food-023",
+    "domain": "food",
+    "hook": "Spaghetti and meatballs is an American invention.",
+    "fact": "Italian cuisine rarely serves large meatballs piled on top of pasta with sauce; the combination was popularized by Italian immigrants in the United States in the early 20th century, not in Italy.",
+    "tags": [
+      "dish-origins",
+      "united-states",
+      "italy"
+    ]
+  },
+  {
+    "id": "food-024",
+    "domain": "food",
+    "hook": "Fettuccine Alfredo started as three ingredients, not cream.",
+    "fact": "Roman restaurateur Alfredo di Lelio created the dish around 1908 using only butter, parmesan, and pasta water. The rich cream-based version served internationally today is largely an American adaptation.",
+    "tags": [
+      "dish-origins",
+      "italy",
+      "united-states"
+    ]
+  },
+  {
+    "id": "food-025",
+    "domain": "food",
+    "hook": "The word 'naan' isn't South Asian at all.",
+    "fact": "Naan comes from the Persian word for bread and spread to South Asia largely through Persian-influenced Mughal court cuisine, becoming a staple across the region over centuries.",
+    "tags": [
+      "ingredient-history",
+      "india",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "food-026",
+    "domain": "food",
+    "hook": "Peking duck was already centuries old when Europeans first heard of it.",
+    "fact": "Roast duck prepared for Chinese imperial courts dates back to at least the Ming Dynasty in the 14th century, with the dish evolving into the crispy-skinned Peking duck served today.",
+    "tags": [
+      "dish-origins",
+      "china"
+    ]
+  },
+  {
+    "id": "food-027",
+    "domain": "food",
+    "hook": "Paella's name may just mean 'pan.'",
+    "fact": "Most etymologists trace the word paella to the Latin patella, meaning pan, referring to the wide shallow pan the Valencian rice dish is traditionally cooked and served in.",
+    "tags": [
+      "dish-origins",
+      "spain"
+    ]
+  },
+  {
+    "id": "food-028",
+    "domain": "food",
+    "hook": "Hungary's national stew predates its signature spice by centuries.",
+    "fact": "Goulash began as a simple stew made by Magyar herders, whose name gulyás means 'herdsman.' Paprika, now central to the dish, wasn't added until peppers from the Americas were cultivated in Hungary generations later.",
+    "tags": [
+      "dish-origins",
+      "hungary",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-029",
+    "domain": "food",
+    "hook": "Currywurst was invented from leftover Allied army rations.",
+    "fact": "In 1949 Berlin, Herta Heuwer combined ketchup and curry powder she obtained from British soldiers with grilled sausage, creating currywurst, now a fixture of German street food.",
+    "tags": [
+      "dish-origins",
+      "germany"
+    ]
+  },
+  {
+    "id": "food-030",
+    "domain": "food",
+    "hook": "Tamales were feeding armies before Europeans ever reached the Americas.",
+    "fact": "Tamales were a staple of Maya and Aztec civilizations for thousands of years before Spanish contact, valued as portable, easily stored food for travelers, workers, and warriors.",
+    "tags": [
+      "dish-origins",
+      "mexico"
+    ]
+  },
+  {
+    "id": "food-031",
+    "domain": "food",
+    "hook": "Vietnam's famous noodle soup is a fusion of three cultures.",
+    "fact": "Pho emerged in early 20th-century northern Vietnam, blending Vietnamese rice noodles and herbs with French beef-stewing traditions like pot-au-feu, itself shaped by earlier Chinese culinary influence.",
+    "tags": [
+      "dish-origins",
+      "vietnam"
+    ]
+  },
+  {
+    "id": "food-032",
+    "domain": "food",
+    "hook": "The banh mi sandwich runs on colonial leftovers.",
+    "fact": "Banh mi combines the French baguette, introduced during colonial rule in Vietnam, with distinctly Vietnamese fillings like pickled daikon and carrot, cilantro, and pate.",
+    "tags": [
+      "dish-origins",
+      "vietnam"
+    ]
+  },
+  {
+    "id": "food-033",
+    "domain": "food",
+    "hook": "Jamaican jerk seasoning was born from resistance, not recipe books.",
+    "fact": "Jerk cooking is credited to the Maroons, formerly enslaved Africans who escaped into Jamaica's mountains and combined West African seasoning traditions with Indigenous Taino pit-cooking methods and native allspice.",
+    "tags": [
+      "dish-origins",
+      "jamaica"
+    ]
+  },
+  {
+    "id": "food-034",
+    "domain": "food",
+    "hook": "A Greek classic got its modern form from a French cookbook technique.",
+    "fact": "Moussaka existed in various forms across the Ottoman and Balkan world, but the now-iconic Greek version topped with béchamel sauce was created by chef Nikolaos Tselementes in the 1920s, drawing on French cuisine.",
+    "tags": [
+      "dish-origins",
+      "greece"
+    ]
+  },
+  {
+    "id": "food-035",
+    "domain": "food",
+    "hook": "Chili con carne is a Texas dish, not a Mexican one.",
+    "fact": "Chili con carne developed in the Texas-northern Mexico borderlands in the 19th century and is not part of traditional central or southern Mexican cuisine, despite common assumptions.",
+    "tags": [
+      "dish-origins",
+      "united-states",
+      "mexico"
+    ]
+  },
+  {
+    "id": "food-036",
+    "domain": "food",
+    "hook": "The doner kebab's rotating spit was a 19th-century Ottoman invention.",
+    "fact": "The technique of stacking meat and roasting it vertically on a rotating spit developed in 19th-century Ottoman Turkey, later giving rise to related dishes like the Greek gyro and the sandwich form popular in Germany.",
+    "tags": [
+      "dish-origins",
+      "turkey"
+    ]
+  },
+  {
+    "id": "food-037",
+    "domain": "food",
+    "hook": "Chop suey is an American dish wearing a Chinese name.",
+    "fact": "Chop suey was likely developed by Chinese immigrants, largely from Taishan, in 19th-century America, and is largely unrecognized as a traditional dish in China itself.",
+    "tags": [
+      "dish-origins",
+      "united-states",
+      "china"
+    ]
+  },
+  {
+    "id": "food-038",
+    "domain": "food",
+    "hook": "The samosa traveled thousands of miles before reaching India.",
+    "fact": "The samosa likely originated in Central Asia or Persia as sanbosag and reached South Asia via traders along the Silk Road by around the 13th-14th century, centuries before it typically contained potatoes.",
+    "tags": [
+      "dish-origins",
+      "india",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "food-039",
+    "domain": "food",
+    "hook": "Biryani's name is a clue to its Persian ancestry.",
+    "fact": "Biryani's name is thought to derive from the Persian word birian, meaning fried before cooking, and the layered rice dish was popularized in South Asia through royal Mughal-era kitchens.",
+    "tags": [
+      "dish-origins",
+      "india"
+    ]
+  },
+  {
+    "id": "food-040",
+    "domain": "food",
+    "hook": "Real wasabi almost never leaves Japan.",
+    "fact": "The true wasabi plant grows in cold mountain streambeds in Japan and is notoriously difficult to cultivate. Most wasabi served around the world, and even much served within Japan, is actually dyed horseradish and mustard.",
+    "tags": [
+      "ingredient-history",
+      "japan"
+    ]
+  },
+  {
+    "id": "food-041",
+    "domain": "food",
+    "hook": "A pockmarked restaurateur gave Sichuan cuisine one of its icons.",
+    "fact": "Mapo tofu is said to have been invented in the 19th century by a woman known as 'Chen Mapo,' who ran a small restaurant near Chengdu and combined tofu with fermented broad bean paste and Sichuan peppercorns.",
+    "tags": [
+      "dish-origins",
+      "china"
+    ]
+  },
+  {
+    "id": "food-042",
+    "domain": "food",
+    "hook": "Some Chinese eggs are cured for weeks without any refrigeration.",
+    "fact": "Century eggs, or pidan, are preserved by curing raw eggs for weeks in a mixture of clay, ash, salt, and quicklime, which raises the pH high enough to break down proteins and turn the yolk dark and creamy.",
+    "tags": [
+      "dish-origins",
+      "china",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-043",
+    "domain": "food",
+    "hook": "A Portuguese colonial condiment was actually made from African chilies.",
+    "fact": "Piri piri sauce developed when Portuguese traders combined chili peppers, originally domesticated in the Americas, with African bird's eye chilies grown in colonies like Mozambique and Angola, creating a distinct Lusophone-African fusion.",
+    "tags": [
+      "dish-origins",
+      "africa",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-044",
+    "domain": "food",
+    "hook": "One of Ethiopia's defining spice blends contains an ingredient that's only 500 years old there.",
+    "fact": "Berbere, the fiery spice blend central to dishes like doro wat, relies on chili peppers, which were only introduced to Ethiopia after the Columbian Exchange, despite feeling like an ancient staple today.",
+    "tags": [
+      "ingredient-history",
+      "ethiopia",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-045",
+    "domain": "food",
+    "hook": "Falafel's origin is claimed by two different regions.",
+    "fact": "Falafel is often traced to Egypt, where Coptic Christians are thought to have eaten fried chickpea or fava bean fritters as a meat substitute during Lent, though the Levant also claims deep historical ties to the dish.",
+    "tags": [
+      "dish-origins",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "food-046",
+    "domain": "food",
+    "hook": "Medieval Europeans sometimes paid their rent in peppercorns.",
+    "fact": "Black pepper was so valuable in medieval Europe that it was occasionally used as a form of currency or to pay rents and dowries, and the spice trade in pepper helped drive the Age of Exploration.",
+    "whyItMatters": "The hunt for direct spice trade routes reshaped global exploration, colonization, and trade networks for centuries.",
+    "tags": [
+      "ingredient-history",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-047",
+    "domain": "food",
+    "hook": "Manhattan was once traded away for a nutmeg-producing island.",
+    "fact": "Nutmeg originally grew only on Indonesia's tiny Banda Islands. In the 1667 Treaty of Breda, the Dutch traded their claim to Manhattan Island to the English in exchange for full control of Run, one of the Banda Islands.",
+    "whyItMatters": "The deal helped hand New York to English control while securing the Dutch a monopoly on one of the era's most valuable spices.",
+    "tags": [
+      "ingredient-history",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-048",
+    "domain": "food",
+    "hook": "It takes about 150 flowers to make a single gram of saffron.",
+    "fact": "Saffron comes from the hand-harvested stigmas of the crocus flower, and each flower yields only three tiny threads, making it by weight one of the most expensive spices in the world.",
+    "tags": [
+      "ingredient-history",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-049",
+    "domain": "food",
+    "hook": "A 12-year-old enslaved boy made the global vanilla industry possible.",
+    "fact": "Vanilla orchids were originally pollinated only by native Mexican bees, limiting cultivation elsewhere. In 1841, a 12-year-old enslaved boy named Edmond Albius, on the island of Réunion, invented a hand-pollination method that enabled vanilla farming worldwide.",
+    "whyItMatters": "Albius's technique, still used today, is the reason vanilla can be commercially grown far outside its native Mexico.",
+    "tags": [
+      "ingredient-history",
+      "vanilla"
+    ]
+  },
+  {
+    "id": "food-050",
+    "domain": "food",
+    "hook": "Arab traders invented tall tales to protect their cinnamon monopoly.",
+    "fact": "For centuries, Arab spice merchants spread elaborate and false stories about cinnamon being guarded by giant birds or gathered from dangerous ravines, obscuring its true source in South Asia to keep prices high and rivals away.",
+    "tags": [
+      "ingredient-history",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-051",
+    "domain": "food",
+    "hook": "The potato has thousands of relatives still growing in its Andean homeland.",
+    "fact": "Potatoes were domesticated in the Andes of Peru and Bolivia thousands of years ago, and thousands of native varieties are still cultivated there. Spanish colonizers brought potatoes to Europe in the 16th century.",
+    "tags": [
+      "ingredient-history",
+      "peru"
+    ]
+  },
+  {
+    "id": "food-052",
+    "domain": "food",
+    "hook": "Corn's wild ancestor barely looks like an ear of corn.",
+    "fact": "Maize was domesticated from a wild grass called teosinte in southern Mexico roughly 9,000 years ago, a transformation so dramatic that early teosinte cobs bear little resemblance to modern corn.",
+    "tags": [
+      "ingredient-history",
+      "mexico"
+    ]
+  },
+  {
+    "id": "food-053",
+    "domain": "food",
+    "hook": "Sugar's spread across the world helped fuel the transatlantic slave trade.",
+    "fact": "Sugarcane was first domesticated in New Guinea and spread through Asia before Arab traders brought refining techniques to the Mediterranean. Growing European demand later drove the expansion of slave-labor plantations across the Caribbean.",
+    "whyItMatters": "Sugar cultivation became one of the primary economic engines behind the transatlantic slave trade.",
+    "tags": [
+      "ingredient-history",
+      "sugar"
+    ]
+  },
+  {
+    "id": "food-054",
+    "domain": "food",
+    "hook": "Chocolate started out bitter, spicy, and unsweetened.",
+    "fact": "The Aztec and Maya drank cacao as a bitter beverage often mixed with chili peppers and spices, not sugar. Sweetened chocolate as it's known today only developed after Europeans brought cacao back and began adding sugar and milk.",
+    "tags": [
+      "ingredient-history",
+      "mesoamerica"
+    ]
+  },
+  {
+    "id": "food-055",
+    "domain": "food",
+    "hook": "Coffee's discovery is tied to a legend about dancing goats.",
+    "fact": "Coffee is believed to have originated in Ethiopia, where legend credits a goatherd named Kaldi noticing his goats' energy after eating coffee cherries. Cultivation first took hold in Yemen before spreading through Ottoman trade routes.",
+    "tags": [
+      "ingredient-history",
+      "ethiopia"
+    ]
+  },
+  {
+    "id": "food-056",
+    "domain": "food",
+    "hook": "Tea's global spread was driven by one company's trade with China.",
+    "fact": "Tea originated in China, with legends dating its discovery to around 2737 BCE. It became a global commodity centuries later largely through the British East India Company's extensive trade relationship with China.",
+    "tags": [
+      "ingredient-history",
+      "china"
+    ]
+  },
+  {
+    "id": "food-057",
+    "domain": "food",
+    "hook": "Soy sauce started as a byproduct nobody wanted to waste.",
+    "fact": "Soy sauce originated in China over 2,000 years ago as a way to use the liquid byproduct of fermenting soybean paste, and the technique later spread to Japan through Buddhist monks.",
+    "tags": [
+      "ingredient-history",
+      "china",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-058",
+    "domain": "food",
+    "hook": "The Inca called quinoa the 'mother grain.'",
+    "fact": "Quinoa was domesticated by Andean peoples thousands of years ago and held sacred status among the Inca, who referred to it as chisiya mama, or mother grain.",
+    "tags": [
+      "ingredient-history",
+      "peru"
+    ]
+  },
+  {
+    "id": "food-059",
+    "domain": "food",
+    "hook": "Wheat is one of the crops that launched agriculture itself.",
+    "fact": "Wheat was domesticated in the Fertile Crescent of the Middle East around 10,000 years ago, making it one of the founding crops of the agricultural revolution.",
+    "tags": [
+      "ingredient-history",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "food-060",
+    "domain": "food",
+    "hook": "Rice feeds more than half the planet, and it started in one river basin.",
+    "fact": "Rice was domesticated independently in the Yangtze River basin of China roughly 9,000 years ago and has become a staple food for more than half of the world's population.",
+    "tags": [
+      "ingredient-history",
+      "china"
+    ]
+  },
+  {
+    "id": "food-061",
+    "domain": "food",
+    "hook": "The banana you're eating almost went extinct once already.",
+    "fact": "The Gros Michel banana dominated global export markets until a fungal disease called Panama disease devastated plantations mid-20th century, forcing the industry to switch to the now-dominant Cavendish variety.",
+    "whyItMatters": "A related fungal strain, Tropical Race 4, is now spreading through Cavendish plantations worldwide, threatening a repeat collapse.",
+    "tags": [
+      "ingredient-history",
+      "bananas"
+    ]
+  },
+  {
+    "id": "food-062",
+    "domain": "food",
+    "hook": "Peanuts crossed the Atlantic twice before becoming a West African staple.",
+    "fact": "Peanuts were domesticated in South America and carried to Africa by Portuguese and Spanish traders. They became deeply embedded in West African cuisine, in dishes like groundnut stew, within a few centuries.",
+    "tags": [
+      "ingredient-history",
+      "west-africa"
+    ]
+  },
+  {
+    "id": "food-063",
+    "domain": "food",
+    "hook": "A South American root crop became a lifeline across Africa.",
+    "fact": "Cassava, native to South America, was introduced to Africa by Portuguese traders in the 16th century. Its drought tolerance made it a crucial staple crop for food security across the continent.",
+    "whyItMatters": "Cassava remains a primary calorie source for hundreds of millions of people today, largely because of its resilience to drought.",
+    "tags": [
+      "ingredient-history",
+      "africa"
+    ]
+  },
+  {
+    "id": "food-064",
+    "domain": "food",
+    "hook": "Turmeric has been dyeing hands and flavoring food in India for millennia.",
+    "fact": "Turmeric is native to South Asia and has been used there for thousands of years as a spice, a dye, and a component of Ayurvedic medicine.",
+    "tags": [
+      "ingredient-history",
+      "india"
+    ]
+  },
+  {
+    "id": "food-065",
+    "domain": "food",
+    "hook": "Ginger was one of the first Asian spices to reach ancient Rome.",
+    "fact": "Ginger is native to Southeast Asia and was among the earliest spices exported westward, becoming a valuable commodity in ancient Roman and Mediterranean trade.",
+    "tags": [
+      "ingredient-history",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-066",
+    "domain": "food",
+    "hook": "The Dutch once controlled the entire global supply of cloves from a handful of tiny islands.",
+    "fact": "Cloves originally grew only on a small number of islands in Indonesia's Maluku archipelago, historically called the Spice Islands. The Dutch East India Company violently seized control of production there in the 17th century to monopolize the trade.",
+    "tags": [
+      "ingredient-history",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-067",
+    "domain": "food",
+    "hook": "Olive oil has lit lamps and anointed kings, not just dressed salads.",
+    "fact": "Olives were domesticated in the Levant roughly 6,000 years ago. Ancient Greeks used olive oil not only for cooking but for lighting lamps and in religious anointing ceremonies.",
+    "tags": [
+      "ingredient-history",
+      "mediterranean"
+    ]
+  },
+  {
+    "id": "food-068",
+    "domain": "food",
+    "hook": "The word 'salary' comes from a food preservative.",
+    "fact": "Salt was so valuable in ancient Rome that soldiers were sometimes paid an allowance for it, giving rise to the Latin word salarium, the root of the modern English word salary.",
+    "tags": [
+      "ingredient-history",
+      "salt"
+    ]
+  },
+  {
+    "id": "food-069",
+    "domain": "food",
+    "hook": "Hungary's signature spice is a relatively recent arrival.",
+    "fact": "Paprika is made from ground dried peppers native to the Americas. It only became central to Hungarian cuisine after peppers were cultivated in the region starting in the 16th to 18th centuries.",
+    "tags": [
+      "ingredient-history",
+      "hungary"
+    ]
+  },
+  {
+    "id": "food-070",
+    "domain": "food",
+    "hook": "Allspice got its name from a case of mistaken identity.",
+    "fact": "Allspice is native to the Caribbean and Central America. Early European traders named it allspice because they thought its flavor combined cinnamon, nutmeg, and cloves, even though it comes from a single dried berry.",
+    "tags": [
+      "ingredient-history",
+      "caribbean"
+    ]
+  },
+  {
+    "id": "food-071",
+    "domain": "food",
+    "hook": "Cardamom earned the nickname 'queen of spices.'",
+    "fact": "Cardamom is native to the forests of India's Western Ghats and remains one of the most expensive spices in the world by weight, prized in both South Asian and Middle Eastern cooking.",
+    "tags": [
+      "ingredient-history",
+      "india"
+    ]
+  },
+  {
+    "id": "food-072",
+    "domain": "food",
+    "hook": "One spice used in Chinese five-spice powder is also key to making Tamiflu.",
+    "fact": "Star anise, native to China and Vietnam, is a staple of five-spice powder, but it's also the primary industrial source of shikimic acid, a compound used to manufacture the antiviral drug Tamiflu.",
+    "whyItMatters": "Global supply of a common kitchen spice has directly affected the production capacity of an important flu medication.",
+    "tags": [
+      "ingredient-history",
+      "food-science"
+    ]
+  },
+  {
+    "id": "food-073",
+    "domain": "food",
+    "hook": "Indigenous North American farmers figured out companion planting long before the term existed.",
+    "fact": "The Three Sisters method planted corn, beans, and squash together: corn stalks gave beans something to climb, beans fixed nitrogen into the soil, and squash's broad leaves shaded out competing weeds.",
+    "tags": [
+      "ingredient-history",
+      "north-america"
+    ]
+  },
+  {
+    "id": "food-074",
+    "domain": "food",
+    "hook": "Hawaii's traditional starch is fermented and pounded, not boiled and mashed.",
+    "fact": "Poi is made by cooking and pounding taro root into a paste, then allowing it to ferment slightly, making it one of the oldest fermented starch staples in the Pacific.",
+    "tags": [
+      "ingredient-history",
+      "hawaii",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-075",
+    "domain": "food",
+    "hook": "Fermentation preserves food without any need for a refrigerator.",
+    "fact": "Fermentation uses bacteria, yeast, or mold to convert sugars in food into acids, gases, or alcohol, often without oxygen. The resulting acidity or alcohol content makes the food inhospitable to spoilage organisms.",
+    "tags": [
+      "food-science",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-076",
+    "domain": "food",
+    "hook": "The browning on a seared steak has a name and a French chemist behind it.",
+    "fact": "The Maillard reaction is a chemical reaction between amino acids and reducing sugars, triggered by heat, that produces the browning and complex flavors in seared meat, toasted bread, and roasted coffee. It was described in 1912 by French chemist Louis-Camille Maillard.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-077",
+    "domain": "food",
+    "hook": "Caramelizing sugar and browning meat are two completely different reactions.",
+    "fact": "Caramelization is the breakdown and browning of sugar alone under heat, requiring no protein, and typically happens at higher temperatures than the Maillard reaction, which needs both sugars and amino acids.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-078",
+    "domain": "food",
+    "hook": "Bread rises because a fungus is exhaling.",
+    "fact": "Yeast is a living, single-celled fungus that ferments sugars in dough, releasing carbon dioxide gas and alcohol. The trapped carbon dioxide is what causes bread dough to expand and rise.",
+    "tags": [
+      "food-science",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-079",
+    "domain": "food",
+    "hook": "Sourdough's tang comes from wild microbes, not a packet of yeast.",
+    "fact": "Sourdough bread relies on wild yeast and lactic acid bacteria naturally present in flour and the surrounding air, rather than commercial baker's yeast, which is what gives it its distinctive tangy flavor.",
+    "tags": [
+      "food-science",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-080",
+    "domain": "food",
+    "hook": "Salt preserves meat by pulling water out of it.",
+    "fact": "Salting food draws water out of both the food and any microbial cells present through osmosis, creating an environment too dry to support the bacteria that cause spoilage.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-081",
+    "domain": "food",
+    "hook": "Pickles are preserved two very different ways.",
+    "fact": "Pickling can preserve food either by submerging it in an acidic liquid like vinegar, or through lacto-fermentation in a saltwater brine, both of which lower the food's pH enough to stop harmful bacteria from growing.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-082",
+    "domain": "food",
+    "hook": "Pasteurization was invented for wine, not milk.",
+    "fact": "Louis Pasteur developed the heat-treatment process that bears his name in the 1860s to prevent French wine and beer from spoiling. It was only later widely applied to milk and other beverages.",
+    "whyItMatters": "Pasteurization remains one of the most important public health interventions in the modern food supply, dramatically reducing foodborne illness.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-083",
+    "domain": "food",
+    "hook": "Mayonnaise is a chemistry trick disguised as a condiment.",
+    "fact": "Emulsification combines two liquids that don't normally mix, like oil and water. In mayonnaise, lecithin in egg yolk acts as an emulsifier, stabilizing tiny droplets of oil suspended in the liquid.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-084",
+    "domain": "food",
+    "hook": "Bread's chewiness comes from a protein network you build with your hands.",
+    "fact": "Gluten forms when two proteins in wheat flour, glutenin and gliadin, combine after mixing with water. Kneading strengthens this elastic network, giving bread dough its structure and chew.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-085",
+    "domain": "food",
+    "hook": "The fifth basic taste was identified by studying seaweed broth.",
+    "fact": "Umami was identified in 1908 by Japanese chemist Kikunae Ikeda, who traced the savory taste of kombu broth to glutamate, establishing it alongside sweet, sour, salty, and bitter as a basic taste.",
+    "tags": [
+      "food-science",
+      "japan"
+    ]
+  },
+  {
+    "id": "food-086",
+    "domain": "food",
+    "hook": "Freeze-dried food skips liquid water entirely.",
+    "fact": "Freeze-drying removes water from food through sublimation, where ice turns directly into vapor under a vacuum, preserving the food's structure and most of its nutrients far better than heat-drying.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-087",
+    "domain": "food",
+    "hook": "Smoking food does more than add flavor.",
+    "fact": "Smoking preserves food by drying it out and depositing antimicrobial and antioxidant compounds from wood smoke onto its surface, helping slow spoilage in addition to changing the taste.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-088",
+    "domain": "food",
+    "hook": "A cut apple turns brown because of a reaction between an enzyme and the air.",
+    "fact": "Enzymatic browning happens when an enzyme called polyphenol oxidase, exposed by cutting, reacts with oxygen in the air. Adding an acid like lemon juice or applying heat can slow or stop this reaction.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-089",
+    "domain": "food",
+    "hook": "A quick dunk in boiling water can keep vegetables green for months.",
+    "fact": "Blanching briefly boils vegetables and then shocks them in ice water, which halts the enzyme activity that would otherwise cause loss of color, flavor, and nutrients during freezing or storage.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-090",
+    "domain": "food",
+    "hook": "Miso and soy sauce owe their flavor to the same mold.",
+    "fact": "Both miso and soy sauce fermentation rely on a mold called Aspergillus oryzae, known as koji, which breaks down proteins and starches in soybeans and grains into flavorful amino acids and sugars.",
+    "tags": [
+      "food-science",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-091",
+    "domain": "food",
+    "hook": "Yogurt thickens because bacteria are quietly souring the milk.",
+    "fact": "Yogurt forms when lactic acid bacteria ferment the lactose in milk into lactic acid. The resulting acidity causes milk proteins called caseins to coagulate, thickening the liquid into yogurt's characteristic texture.",
+    "tags": [
+      "food-science",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-092",
+    "domain": "food",
+    "hook": "Cheese-making traditionally relies on an enzyme from a calf's stomach.",
+    "fact": "Cheese-making uses an enzyme called rennet, traditionally sourced from calf stomachs, to coagulate milk proteins into solid curds, which are then separated from the leftover liquid whey.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-093",
+    "domain": "food",
+    "hook": "Baking soda and baking powder aren't interchangeable, even though they look alike.",
+    "fact": "Baking soda is pure sodium bicarbonate and needs an added acid to react and release carbon dioxide. Baking powder already contains its own acid and base, so it activates with just liquid and heat.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-094",
+    "domain": "food",
+    "hook": "Water boils at a lower temperature the higher you climb.",
+    "fact": "Water's boiling point drops by roughly 1 degree Celsius for every 300 meters gained in elevation, which is why high-altitude cooking often requires longer cooking times or a pressure cooker.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-095",
+    "domain": "food",
+    "hook": "Water won't put out the burn of a hot pepper, but milk will.",
+    "fact": "Capsaicin, the compound that makes chili peppers spicy, is fat-soluble rather than water-soluble. That's why drinking water does little to relieve the burn, while milk or other fats can help dissolve it away.",
+    "whyItMatters": "Reaching for dairy instead of water is a genuinely more effective way to cool down after eating something too spicy.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-096",
+    "domain": "food",
+    "hook": "Bananas quietly speed up the ripening of everything around them.",
+    "fact": "Ripening bananas release ethylene gas, a plant hormone that also accelerates ripening in nearby fruit, which is why produce sections often keep bananas separate from more delicate fruits.",
+    "whyItMatters": "Understanding ethylene sensitivity can help prevent other fruit from spoiling faster in home kitchens.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-097",
+    "domain": "food",
+    "hook": "Home canning can turn deadly without enough heat.",
+    "fact": "Clostridium botulinum, the bacterium that causes botulism, thrives in low-oxygen, low-acid environments like improperly sealed canned goods. Pressure canning is required for low-acid foods because it reaches temperatures high enough to destroy its spores.",
+    "whyItMatters": "Following pressure-canning guidelines for low-acid foods is a genuine matter of food safety, not just tradition.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-098",
+    "domain": "food",
+    "hook": "Archaeologists have found edible honey in 3,000-year-old Egyptian tombs.",
+    "fact": "Honey's very low moisture content and natural acidity, along with trace hydrogen peroxide production, make it extremely resistant to spoilage, allowing pots of honey sealed in ancient Egyptian tombs to remain edible millennia later.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-099",
+    "domain": "food",
+    "hook": "Jam is preserved with sugar the same way meat is preserved with salt.",
+    "fact": "Jam and jelly making relies on a high concentration of sugar to draw water out of microbial cells through osmosis, creating conditions where spoilage organisms can't survive even without refrigeration.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-100",
+    "domain": "food",
+    "hook": "The bird's eye chili in your favorite hot sauce isn't originally African at all.",
+    "fact": "Bird's eye chilies used widely across African and Southeast Asian cooking today trace their genetic origins to chili peppers domesticated in the Americas, spread globally after the Columbian Exchange.",
+    "tags": [
+      "ingredient-history",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-101",
+    "domain": "food",
+    "hook": "Cassava must be processed carefully or it can be toxic.",
+    "fact": "Bitter varieties of cassava contain naturally occurring cyanide-producing compounds that must be removed through soaking, fermenting, or cooking before the root is safe to eat, a practice long refined by cultures that adopted it.",
+    "whyItMatters": "Improper preparation of bitter cassava remains a real cause of cyanide poisoning in some regions today.",
+    "tags": [
+      "food-science",
+      "africa"
+    ]
+  },
+  {
+    "id": "food-102",
+    "domain": "food",
+    "hook": "Tofu's texture comes from the same coagulation trick as cheese.",
+    "fact": "Tofu is made by coagulating soy milk with a mineral or acidic coagulant, such as calcium sulfate or nigari, causing the proteins to bind into curds that are then pressed into blocks.",
+    "tags": [
+      "food-science",
+      "cooking-chemistry"
+    ]
+  },
+  {
+    "id": "food-103",
+    "domain": "food",
+    "hook": "A Persian sour soup gave its name to a whole global cuisine.",
+    "fact": "The word 'sherbet,' and later 'sorbet' and 'syrup,' trace back to Persian and Arabic words for a chilled, sweetened drink, showing how far Persian culinary vocabulary spread through Islamic trade networks into Europe.",
+    "tags": [
+      "ingredient-history",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "food-104",
+    "domain": "food",
+    "hook": "Couscous developed as a way to stretch scarce grain.",
+    "fact": "Couscous, made from steamed semolina wheat granules, developed among Berber communities in North Africa and became a staple across the Maghreb region long before spreading to the wider Mediterranean.",
+    "tags": [
+      "dish-origins",
+      "north-africa"
+    ]
+  },
+  {
+    "id": "food-105",
+    "domain": "food",
+    "hook": "South Africa's bunny chow has nothing to do with rabbits.",
+    "fact": "Bunny chow is a hollowed-out loaf of bread filled with curry, created by South Africa's Indian community in Durban, likely in the early-to-mid 20th century, as a portable way to serve curry without utensils.",
+    "tags": [
+      "dish-origins",
+      "south-africa"
+    ]
+  },
+  {
+    "id": "food-106",
+    "domain": "food",
+    "hook": "Nigeria's popular grilled skewers carry a legacy of Hausa trade routes.",
+    "fact": "Suya, spiced and grilled meat skewers coated in a ground peanut spice mix, is closely associated with Hausa traders in northern Nigeria and has since spread across West Africa as popular street food.",
+    "tags": [
+      "dish-origins",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "food-107",
+    "domain": "food",
+    "hook": "Cinnamon has two very different plants sold under one name.",
+    "fact": "True cinnamon, or Ceylon cinnamon, comes from a tree native to Sri Lanka, while most cinnamon sold in the United States is actually cassia, a related but distinct and stronger-flavored bark from Southeast Asia and China.",
+    "tags": [
+      "ingredient-history",
+      "spice-trade"
+    ]
+  },
+  {
+    "id": "food-108",
+    "domain": "food",
+    "hook": "Ketchup started out as a fermented fish sauce in Southeast Asia.",
+    "fact": "The word ketchup likely derives from a fermented fish sauce called kê-tsiap in a Chinese dialect, used in Southeast Asia. British traders encountered it and brought the idea back to Europe, where it eventually evolved into the tomato-based condiment known today.",
+    "tags": [
+      "ingredient-history",
+      "southeast-asia"
+    ]
+  },
+  {
+    "id": "food-109",
+    "domain": "food",
+    "hook": "The osmosis that ruins a salted salad also keeps meat from rotting.",
+    "fact": "The same osmotic principle that wilts salted lettuce by drawing water out of its cells is used deliberately in meat curing, where high salt concentrations dehydrate the tissue and prevent microbial growth.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-110",
+    "domain": "food",
+    "hook": "Papua New Guinea, not Southeast Asia, is where the world's bananas began.",
+    "fact": "Bananas were first domesticated from wild species in Southeast Asia and the New Guinea region thousands of years ago, later spreading to Africa via trade routes and eventually to the Americas.",
+    "tags": [
+      "ingredient-history",
+      "oceania"
+    ]
+  },
+  {
+    "id": "food-111",
+    "domain": "food",
+    "hook": "Chinese five-spice powder isn't just about flavor, it's about balance.",
+    "fact": "Five-spice powder, typically a mix of star anise, cloves, cinnamon, Sichuan pepper, and fennel seed, was traditionally formulated to represent the five fundamental flavors recognized in Chinese food philosophy: sweet, sour, bitter, salty, and umami.",
+    "tags": [
+      "ingredient-history",
+      "china"
+    ]
+  },
+  {
+    "id": "food-112",
+    "domain": "food",
+    "hook": "Coconut migrated across oceans long before humans mapped them.",
+    "fact": "Coconut palms are believed to have spread across the Indian and Pacific Oceans partly through ocean currents carrying buoyant, salt-resistant seeds, in addition to being deliberately transported by seafaring peoples.",
+    "tags": [
+      "ingredient-history",
+      "oceania"
+    ]
+  },
+  {
+    "id": "food-113",
+    "domain": "food",
+    "hook": "A single dried fruit gave the word 'raisin' to French and English alike.",
+    "fact": "Grapes have been dried into raisins since antiquity in the Middle East and the Mediterranean, and the practice of sun-drying was one of the earliest simple methods of long-term food preservation available to ancient traders.",
+    "tags": [
+      "food-science",
+      "preservation"
+    ]
+  },
+  {
+    "id": "food-114",
+    "domain": "food",
+    "hook": "In Ethiopia, feeding a stranger by hand is the highest compliment you can pay them.",
+    "fact": "The gursha tradition involves placing a hand-rolled piece of injera and stew directly into another diner's mouth. It signals deep respect, friendship, or love, and refusing a gursha can be seen as rude.",
+    "tags": [
+      "ethiopia",
+      "dining-etiquette"
+    ]
+  },
+  {
+    "id": "food-115",
+    "domain": "food",
+    "hook": "Slurping your noodles loudly in Japan isn't rude, it's a compliment to the chef.",
+    "fact": "Audibly slurping ramen or soba is considered a sign that the diner is enjoying the meal, and it's believed to also cool the noodles and enhance their aroma as air mixes with the broth.",
+    "tags": [
+      "japan",
+      "dining-etiquette"
+    ]
+  },
+  {
+    "id": "food-116",
+    "domain": "food",
+    "hook": "French meals end with cheese before dessert, not after.",
+    "fact": "In traditional French dining, the cheese course is served after the main dish but before the sweet dessert, giving diners a chance to finish any remaining red wine before it's cleared.",
+    "tags": [
+      "france",
+      "meal-tradition"
+    ]
+  },
+  {
+    "id": "food-117",
+    "domain": "food",
+    "hook": "Tapping two fingers on the table in China is a silent way of saying thank you.",
+    "fact": "When someone pours your tea, lightly tapping the table with two bent fingers shows gratitude without interrupting conversation. Legend traces the gesture to an emperor who traveled incognito and whose servants bowed with their fingers instead of kneeling to avoid revealing his identity.",
+    "tags": [
+      "china",
+      "tea",
+      "etiquette"
+    ]
+  },
+  {
+    "id": "food-118",
+    "domain": "food",
+    "hook": "Eating with your left hand is taboo across much of the Middle East, North Africa, and South Asia.",
+    "fact": "The right hand is traditionally reserved for eating and greeting, while the left hand is considered unclean because it's historically associated with personal hygiene tasks. The custom persists at shared meals even where cutlery is used.",
+    "tags": [
+      "dining-etiquette",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "food-119",
+    "domain": "food",
+    "hook": "Spaniards have a word for lingering at the table just to talk.",
+    "fact": "Sobremesa refers to the time spent chatting around the table after a meal has finished, sometimes lasting longer than the meal itself. It's treated as an essential, unhurried part of Spanish social life.",
+    "tags": [
+      "spain",
+      "meal-tradition"
+    ]
+  },
+  {
+    "id": "food-120",
+    "domain": "food",
+    "hook": "In Korea, you let your elders pick up their chopsticks first.",
+    "fact": "Traditional Korean dining etiquette holds that the eldest or most senior person at the table begins eating first, and diners typically leave the rice and soup bowls on the table rather than lifting them while eating.",
+    "tags": [
+      "korea",
+      "dining-etiquette"
+    ]
+  },
+  {
+    "id": "food-121",
+    "domain": "food",
+    "hook": "Lifting your rice bowl off the table is polite in Japan and impolite in Korea.",
+    "fact": "In Japan, diners are expected to hold small bowls close to the mouth while eating. In Korea, the opposite custom applies, and bowls are meant to stay on the table throughout the meal.",
+    "tags": [
+      "japan",
+      "korea",
+      "dining-etiquette"
+    ]
+  },
+  {
+    "id": "food-122",
+    "domain": "food",
+    "hook": "Refusing a toast in Georgia can bring an entire feast to a halt.",
+    "fact": "At a traditional Georgian supra, a toastmaster called the tamada leads a long sequence of formal toasts covering everything from ancestors to peace. Declining to drink to a toast is considered a serious breach of etiquette.",
+    "tags": [
+      "georgia",
+      "toasting-tradition"
+    ]
+  },
+  {
+    "id": "food-123",
+    "domain": "food",
+    "hook": "Ordering a cappuccino after noon in Italy will get you some funny looks.",
+    "fact": "Italians generally drink cappuccino only in the morning, viewing milky coffee drinks as too heavy to follow a meal. Espresso is the standard order after lunch or dinner instead.",
+    "tags": [
+      "italy",
+      "coffee-culture"
+    ]
+  },
+  {
+    "id": "food-124",
+    "domain": "food",
+    "hook": "In France, bread goes straight on the tablecloth, not on your plate.",
+    "fact": "It's standard French table etiquette to place a piece of baguette directly on the table beside your plate rather than on it, a habit rooted in the bread's role as a utensil for pushing food.",
+    "tags": [
+      "france",
+      "dining-etiquette"
+    ]
+  },
+  {
+    "id": "food-125",
+    "domain": "food",
+    "hook": "Sticking your chopsticks upright in a bowl of rice is a serious faux pas across East Asia.",
+    "fact": "Standing chopsticks vertically in rice resembles the incense sticks burned at funerals and altars for the dead, so the gesture is avoided at the dinner table as it evokes death and bad luck.",
+    "tags": [
+      "east-asia",
+      "chopstick-etiquette"
+    ]
+  },
+  {
+    "id": "food-126",
+    "domain": "food",
+    "hook": "In Thailand, forks are for pushing food, not for eating it.",
+    "fact": "Traditional Thai table setting pairs a fork with a spoon, and the fork's job is to guide food onto the spoon rather than to carry it directly to the mouth, since the spoon does most of the actual eating.",
+    "tags": [
+      "thailand",
+      "dining-etiquette"
+    ]
+  },
+  {
+    "id": "food-127",
+    "domain": "food",
+    "hook": "The British have argued for generations about whether milk goes in the cup first or last.",
+    "fact": "The 'milk in first' versus 'milk in after' debate over tea originated partly from a practical concern: pouring hot tea into cheap, thin porcelain could crack it, so milk was added first to protect the cup.",
+    "tags": [
+      "uk",
+      "tea-culture"
+    ]
+  },
+  {
+    "id": "food-128",
+    "domain": "food",
+    "hook": "Leaving food on your plate means very different things depending on where you're eating.",
+    "fact": "In parts of China, leaving a small amount of food signals that the host provided more than enough, honoring their generosity. In Japan, finishing every last grain of rice is the polite way to show appreciation for the meal.",
+    "tags": [
+      "dining-etiquette",
+      "china",
+      "japan"
+    ]
+  },
+  {
+    "id": "food-129",
+    "domain": "food",
+    "hook": "A traditional kaiseki dinner in Japan can stretch across more than a dozen tiny courses.",
+    "fact": "Kaiseki is a multi-course haute cuisine tradition built around seasonality, with each small, precisely arranged dish meant to be eaten in a specific order that balances flavor, texture, and presentation.",
+    "tags": [
+      "japan",
+      "meal-tradition"
+    ]
+  },
+  {
+    "id": "food-130",
+    "domain": "food",
+    "hook": "Chinese New Year dinners are built around foods chosen for what their names sound like.",
+    "fact": "Whole fish is served because the word for fish sounds like the word for surplus, and long uncut noodles are eaten to symbolize a long life. Cutting the noodles before serving is considered bad luck.",
+    "tags": [
+      "china",
+      "meal-tradition"
+    ]
+  },
+  {
+    "id": "food-131",
+    "domain": "food",
+    "hook": "Muslims around the world traditionally break their Ramadan fast with a date, not a full meal.",
+    "fact": "Iftar customarily begins with eating a few dates and drinking water, a practice attributed to the Prophet Muhammad, before moving on to prayer and a larger meal.",
+    "tags": [
+      "ramadan",
+      "meal-tradition"
+    ]
+  },
+  {
+    "id": "food-132",
+    "domain": "food",
+    "hook": "Every US president since 1989 has formally pardoned a Thanksgiving turkey.",
+    "fact": "While earlier presidents occasionally spared a turkey informally, George H. W. Bush established the annual White House turkey pardon as an official tradition in 1989.",
+    "tags": [
+      "united-states",
+      "food-tradition"
+    ]
+  },
+  {
+    "id": "food-133",
+    "domain": "food",
+    "hook": "The Passover seder plate turns a meal into a history lesson you eat.",
+    "fact": "Each item on the seder plate is symbolic: bitter herbs represent the harshness of slavery in Egypt, a sweet fruit-and-nut paste called charoset represents the mortar used by enslaved laborers, and a roasted bone recalls the ancient Temple's sacrifice.",
+    "tags": [
+      "jewish-tradition",
+      "meal-tradition"
+    ]
+  },
+  {
+    "id": "food-134",
+    "domain": "food",
+    "hook": "In Ethiopia, the plate is also the tablecloth, the utensil, and eventually part of the meal itself.",
+    "fact": "Injera, a spongy sourdough flatbread, is spread flat to hold stews and vegetables. Diners tear off pieces to scoop up food, and the bread underneath soaks up the sauces and gets eaten last.",
+    "tags": [
+      "ethiopia",
+      "meal-tradition"
+    ]
+  },
+  {
+    "id": "food-135",
+    "domain": "food",
+    "hook": "Norway built an entire cold buffet tradition around preserved and pickled foods.",
+    "fact": "Koldtbord, a lavish spread of cold dishes like cured fish, cheeses, and cold meats, developed as a practical way to serve large groups using foods that kept well before modern refrigeration.",
+    "tags": [
+      "norway",
+      "meal-tradition"
+    ]
+  },
+  {
+    "id": "food-136",
+    "domain": "food",
+    "hook": "In much of South India, a meal isn't finished until the banana leaf is folded a certain way.",
+    "fact": "After eating a traditional meal off a banana leaf, folding the leaf toward you signals that the food was satisfying, while folding it away signals dissatisfaction, a subtle nonverbal review of the host's cooking.",
+    "tags": [
+      "india",
+      "dining-etiquette"
+    ]
+  },
+  {
+    "id": "food-137",
+    "domain": "food",
+    "hook": "Not clinking glasses with an empty one is a real superstition in Russia.",
+    "fact": "Russian toasting customs discourage drinking from an empty glass during a toast, tapping glasses without alcohol in them, or setting a bottle down empty on the table, all considered bad luck or disrespectful to the occasion.",
+    "tags": [
+      "russia",
+      "toasting-tradition"
+    ]
+  },
+  {
+    "id": "food-138",
+    "domain": "food",
+    "hook": "In much of the Arab world, an empty plate is a cue to refill it, not a sign you're done.",
+    "fact": "Because leaving a completely empty plate can be read as a hint the host didn't serve enough, guests in many Arab households traditionally leave a small amount of food to signal they've had plenty.",
+    "tags": [
+      "dining-etiquette",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "food-139",
+    "domain": "food",
+    "hook": "A goat herder chasing after unusually energetic goats may be the reason humans discovered coffee.",
+    "fact": "According to Ethiopian legend, a herder named Kaldi noticed his goats became lively after eating berries from a certain shrub. He reported it to a local monastery, and coffee's stimulating effects were said to have been discovered from there.",
+    "tags": [
+      "coffee",
+      "history"
+    ]
+  },
+  {
+    "id": "food-140",
+    "domain": "food",
+    "hook": "The espresso machine was patented years before most Italians had ever tasted espresso.",
+    "fact": "Turin inventor Angelo Moriondo patented an early steam-driven coffee machine in 1884, but it was Luigi Bezzera's improvements in the early 1900s that made commercial espresso machines practical for cafés.",
+    "tags": [
+      "coffee",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-141",
+    "domain": "food",
+    "hook": "Turkish coffee is the only coffee you're supposed to drink and then read.",
+    "fact": "Brewed unfiltered in a small pot called a cezve, Turkish coffee leaves thick grounds at the bottom of the cup. After drinking, some traditions involve turning the cup over and reading the patterns left by the settled grounds as a form of fortune telling.",
+    "tags": [
+      "turkey",
+      "coffee"
+    ]
+  },
+  {
+    "id": "food-142",
+    "domain": "food",
+    "hook": "Legend says tea was invented when leaves accidentally blew into an emperor's boiling water.",
+    "fact": "Chinese legend credits the mythical Emperor Shen Nong with discovering tea around 2700 BCE, after leaves from a nearby bush drifted into water he was boiling and produced a fragrant infusion.",
+    "tags": [
+      "tea",
+      "china",
+      "history"
+    ]
+  },
+  {
+    "id": "food-143",
+    "domain": "food",
+    "hook": "Afternoon tea was invented by a bored duchess trying to survive the gap before dinner.",
+    "fact": "Anna, the 7th Duchess of Bedford, is credited with starting the custom of afternoon tea in the 1840s to stave off hunger during the long stretch between lunch and a late evening dinner among the English aristocracy.",
+    "tags": [
+      "uk",
+      "tea",
+      "history"
+    ]
+  },
+  {
+    "id": "food-144",
+    "domain": "food",
+    "hook": "Real Champagne gets its bubbles from a second fermentation that happens inside the sealed bottle.",
+    "fact": "In the traditional method, still wine is bottled with added yeast and sugar, triggering a second fermentation that traps carbon dioxide in the bottle. The dead yeast cells, or lees, are later removed through a process involving freezing and disgorging the neck.",
+    "tags": [
+      "champagne",
+      "wine"
+    ]
+  },
+  {
+    "id": "food-145",
+    "domain": "food",
+    "hook": "That dimple in the bottom of a wine bottle isn't just for looks.",
+    "fact": "The indentation, called a punt, helps the bottle withstand internal pressure, particularly in sparkling wines, and historically made the glass base sturdier and easier to manufacture evenly.",
+    "tags": [
+      "wine",
+      "bottle-design"
+    ]
+  },
+  {
+    "id": "food-146",
+    "domain": "food",
+    "hook": "A 500-year-old German law still shapes how much of the world's beer is brewed.",
+    "fact": "The Reinheitsgebot, issued in Bavaria in 1516, originally limited beer ingredients to water, barley, and hops (yeast's role wasn't understood yet). Versions of the purity law still influence brewing regulations in Germany today.",
+    "tags": [
+      "beer",
+      "germany",
+      "history"
+    ]
+  },
+  {
+    "id": "food-147",
+    "domain": "food",
+    "hook": "Guinness put a tiny plastic ball inside its cans just to recreate a pub-poured pint at home.",
+    "fact": "The widget is a small nitrogen-filled ball that releases gas when the can is opened, agitating the beer to create Guinness's signature cascading bubbles and creamy head outside of a pressurized tap system.",
+    "tags": [
+      "beer",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-148",
+    "domain": "food",
+    "hook": "The same drink is spelled two different ways depending on which country made it.",
+    "fact": "Scotland, Canada, and Japan spell it 'whisky,' while Ireland and the United States spell it 'whiskey.' The difference traces back to translation choices from Gaelic distillers in the 1800s and has stuck as a regional convention ever since.",
+    "tags": [
+      "whisky",
+      "spirits"
+    ]
+  },
+  {
+    "id": "food-149",
+    "domain": "food",
+    "hook": "Tequila can legally only be made in a handful of specific regions of Mexico.",
+    "fact": "By Mexican law, authentic tequila must be produced from blue agave grown in designated areas, primarily the state of Jalisco, similar to how Champagne is protected as a regional name in France.",
+    "tags": [
+      "tequila",
+      "mexico"
+    ]
+  },
+  {
+    "id": "food-150",
+    "domain": "food",
+    "hook": "Sake brewing runs two fermentation processes at the same time in the same vat.",
+    "fact": "Unlike beer, where starches are converted to sugar before fermentation begins, sake brewing uses a mold called koji to convert rice starch into sugar while yeast simultaneously ferments that sugar into alcohol, a technique called multiple parallel fermentation.",
+    "tags": [
+      "sake",
+      "japan",
+      "brewing"
+    ]
+  },
+  {
+    "id": "food-151",
+    "domain": "food",
+    "hook": "Only sparkling wine from one specific region of France is legally allowed to be called Champagne.",
+    "fact": "The name is protected under French and EU law and reserved for sparkling wine produced in the Champagne region using approved grapes and methods. Sparkling wine made elsewhere, even using the identical process, must be called something else, like cava or prosecco.",
+    "tags": [
+      "champagne",
+      "wine"
+    ]
+  },
+  {
+    "id": "food-152",
+    "domain": "food",
+    "hook": "Coffee plants evolved caffeine as a built-in pesticide.",
+    "fact": "Caffeine is toxic to many insects and fungi at high concentrations, and researchers believe the coffee plant developed it partly as a natural defense mechanism, alongside its now-famous effect on the human nervous system.",
+    "tags": [
+      "coffee",
+      "plant-biology"
+    ]
+  },
+  {
+    "id": "food-153",
+    "domain": "food",
+    "hook": "Kombucha's fizz comes from a living culture that looks a bit like a pancake.",
+    "fact": "The drink is fermented using a SCOBY, a symbiotic colony of bacteria and yeast, which converts sweetened tea into a tangy, lightly carbonated beverage over one to two weeks of fermentation.",
+    "tags": [
+      "kombucha",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-154",
+    "domain": "food",
+    "hook": "Mead may be one of the oldest alcoholic drinks humans ever made.",
+    "fact": "Made by fermenting honey with water, mead's origins likely predate both beer and wine in many regions, since wild yeast could ferment naturally diluted honey with minimal processing.",
+    "tags": [
+      "mead",
+      "history"
+    ]
+  },
+  {
+    "id": "food-155",
+    "domain": "food",
+    "hook": "The cork in your wine bottle came from a tree that's still alive.",
+    "fact": "Wine corks are harvested from the bark of cork oak trees, which can be stripped roughly every nine years without killing the tree. A single cork oak can be harvested for well over a century.",
+    "tags": [
+      "wine",
+      "cork"
+    ]
+  },
+  {
+    "id": "food-156",
+    "domain": "food",
+    "hook": "Weak beer used to be safer to drink than water in much of pre-modern Europe.",
+    "fact": "Low-alcohol 'small beer' was commonly consumed by adults and children alike, since the brewing process involved boiling water, which helped kill pathogens that untreated water supplies often carried.",
+    "tags": [
+      "beer",
+      "history"
+    ]
+  },
+  {
+    "id": "food-157",
+    "domain": "food",
+    "hook": "Coca-Cola's original recipe really did contain a small amount of cocaine.",
+    "fact": "The drink's inventor, John Pemberton, included coca leaf extract in the 1880s formula. The company removed cocaine from the recipe by around 1929, though it still uses a cocaine-free coca leaf extract for flavoring today.",
+    "tags": [
+      "coca-cola",
+      "history"
+    ]
+  },
+  {
+    "id": "food-158",
+    "domain": "food",
+    "hook": "Absinthe was banned across much of the world over an ingredient that turned out to be mostly harmless.",
+    "fact": "Early 20th-century bans blamed thujone, a compound in wormwood, for causing hallucinations and madness. Modern research suggests the drink's genuinely dangerous quality was simply its very high alcohol content, not thujone.",
+    "whyItMatters": "Absinthe's century-long ban, largely based on a since-debunked scientific scare, shows how public panic can outlast the evidence behind it.",
+    "tags": [
+      "absinthe",
+      "history"
+    ]
+  },
+  {
+    "id": "food-159",
+    "domain": "food",
+    "hook": "Rum exists because sugar producers needed something to do with their leftover sludge.",
+    "fact": "Rum was developed in the Caribbean as a way to use molasses, a byproduct of refining sugar cane into sugar, turning what was essentially waste material into a valuable distilled spirit.",
+    "tags": [
+      "rum",
+      "history"
+    ]
+  },
+  {
+    "id": "food-160",
+    "domain": "food",
+    "hook": "Irish coffee was invented to warm up exhausted, storm-battered airline passengers.",
+    "fact": "Chef Joe Sheridan created the drink in the 1940s at the Foynes flying-boat terminal in Ireland, adding whiskey to coffee for travelers who had turned back mid-Atlantic due to bad weather and needed something to take the chill off.",
+    "tags": [
+      "irish-coffee",
+      "history"
+    ]
+  },
+  {
+    "id": "food-161",
+    "domain": "food",
+    "hook": "Gin started out as a medicine, not a cocktail ingredient.",
+    "fact": "Gin traces back to Dutch genever, originally flavored with juniper for its supposed medicinal properties. English soldiers fighting in the Netherlands are credited with bringing the spirit and the phrase 'Dutch courage' back home.",
+    "tags": [
+      "gin",
+      "history"
+    ]
+  },
+  {
+    "id": "food-162",
+    "domain": "food",
+    "hook": "No one fully agrees on which country actually invented vodka.",
+    "fact": "Both Russia and Poland claim to have originated vodka, with historical records of grain and potato-based spirit distillation in both regions dating back centuries, and the dispute over its true birthplace remains unresolved.",
+    "tags": [
+      "vodka",
+      "history"
+    ]
+  },
+  {
+    "id": "food-163",
+    "domain": "food",
+    "hook": "Opening a Champagne bottle with a saber is an actual technique, not a party trick.",
+    "fact": "Sabrage involves striking the bottle's neck with the flat of a saber blade to snap it cleanly off, sending the cork and glass ring flying with the pressure inside. The practice is often linked to Napoleon's officers celebrating victories.",
+    "tags": [
+      "champagne",
+      "sabrage"
+    ]
+  },
+  {
+    "id": "food-164",
+    "domain": "food",
+    "hook": "Tea bags were invented by accident by a merchant who never meant to create them.",
+    "fact": "New York tea merchant Thomas Sullivan sent samples in small silk sachets in the early 1900s. Customers, assuming the bags were meant to be steeped whole rather than opened, brewed the tea inside them, and the tea bag was born.",
+    "tags": [
+      "tea",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-165",
+    "domain": "food",
+    "hook": "Bourbon has to meet strict rules before it can even use the name.",
+    "fact": "To be legally called bourbon in the US, the spirit must be made from at least 51 percent corn and aged in new, charred oak barrels, among other requirements. It doesn't, contrary to popular belief, have to be made in Kentucky.",
+    "tags": [
+      "bourbon",
+      "spirits"
+    ]
+  },
+  {
+    "id": "food-166",
+    "domain": "food",
+    "hook": "Cognac is distilled twice in copper pots before it ever touches an oak barrel.",
+    "fact": "Made in the Cognac region of France, the brandy undergoes double distillation in traditional copper pot stills, then ages for years in French oak barrels that shape much of its final flavor.",
+    "tags": [
+      "cognac",
+      "spirits"
+    ]
+  },
+  {
+    "id": "food-167",
+    "domain": "food",
+    "hook": "Matcha is the only common tea where you actually drink the whole leaf.",
+    "fact": "Unlike steeped teas where leaves are discarded after brewing, matcha is made by stone-grinding shade-grown tea leaves into a fine powder that's whisked directly into hot water, so the entire leaf is consumed.",
+    "tags": [
+      "matcha",
+      "tea",
+      "japan"
+    ]
+  },
+  {
+    "id": "food-168",
+    "domain": "food",
+    "hook": "Stouts and lagers get their different bubble textures from two entirely different gases.",
+    "fact": "Most beers are carbonated with carbon dioxide, producing sharp, larger bubbles. Nitrogen-poured stouts like Guinness use nitrogen gas instead, creating a smoother, creamier, finer-bubbled head.",
+    "tags": [
+      "beer",
+      "brewing"
+    ]
+  },
+  {
+    "id": "food-169",
+    "domain": "food",
+    "hook": "For 13 years, it was illegal to legally buy a drink almost anywhere in the United States.",
+    "fact": "Prohibition, enacted by the 18th Amendment in 1920 and repealed in 1933, banned the manufacture and sale of alcoholic beverages nationwide, fueling the rise of underground speakeasies and organized bootlegging operations.",
+    "tags": [
+      "prohibition",
+      "united-states",
+      "history"
+    ]
+  },
+  {
+    "id": "food-170",
+    "domain": "food",
+    "hook": "Port wine gets its sweetness from having its fermentation deliberately interrupted.",
+    "fact": "Grape brandy is added partway through fermentation, killing off the yeast before all the sugar converts to alcohol. This leaves residual sweetness and boosts the alcohol content, a technique called fortification, named after the city of Porto, Portugal.",
+    "tags": [
+      "port-wine",
+      "portugal"
+    ]
+  },
+  {
+    "id": "food-171",
+    "domain": "food",
+    "hook": "The word 'brut' on a Champagne label tells you almost nothing about the grapes and everything about the sugar.",
+    "fact": "After the second fermentation, winemakers add a sugar-and-wine mixture called dosage to fine-tune sweetness. The amount added determines whether the final bottle is labeled brut, extra brut, sec, or demi-sec.",
+    "tags": [
+      "champagne",
+      "wine"
+    ]
+  },
+  {
+    "id": "food-172",
+    "domain": "food",
+    "hook": "Professional coffee tasters slurp loudly on purpose, just like sommeliers swirl wine.",
+    "fact": "In a practice called cupping, tasters aerate a spoonful of coffee with a sharp slurp to spray it across the palate, evaluating aroma, acidity, body, and flavor in a standardized way similar to formal wine tasting.",
+    "tags": [
+      "coffee",
+      "cupping"
+    ]
+  },
+  {
+    "id": "food-173",
+    "domain": "food",
+    "hook": "A cooking method born in French fine dining now works quietly inside home appliances everywhere.",
+    "fact": "Sous vide involves sealing food in an airtight bag and cooking it in a precisely controlled water bath, often for hours, to achieve consistent doneness edge to edge. French and American chefs began developing it for restaurant use in the 1970s.",
+    "tags": [
+      "sous-vide",
+      "cooking-technique"
+    ]
+  },
+  {
+    "id": "food-174",
+    "domain": "food",
+    "hook": "The microwave oven exists because a candy bar melted in an engineer's pocket.",
+    "fact": "While testing a radar magnetron in 1945, Raytheon engineer Percy Spencer noticed a chocolate bar in his pocket had melted. His curiosity about the effect led directly to the development of the first microwave ovens.",
+    "whyItMatters": "One of the most common kitchen appliances in the world exists purely because an engineer paid attention to an odd accident instead of ignoring it.",
+    "tags": [
+      "microwave",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-175",
+    "domain": "food",
+    "hook": "The pressure cooker is over 300 years old.",
+    "fact": "French physicist Denis Papin invented an early version called the 'steam digester' in 1679, using trapped steam pressure to raise the boiling point of water and cook food faster, the same principle modern pressure cookers use today.",
+    "tags": [
+      "pressure-cooker",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-176",
+    "domain": "food",
+    "hook": "Canned food was invented before anyone understood why it worked.",
+    "fact": "French confectioner Nicolas Appert developed a method of sealing food in glass jars and heating it to preserve it, winning a prize from Napoleon's government for feeding his armies in the field. This happened decades before germ theory explained why the process actually prevented spoilage.",
+    "tags": [
+      "canning",
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "food-177",
+    "domain": "food",
+    "hook": "Julienne, brunoise, and chiffonade are all just fancy French names for cutting things smaller.",
+    "fact": "French culinary vocabulary standardized precise knife cuts: julienne produces thin matchsticks, brunoise dices those matchsticks into tiny cubes, and chiffonade slices leafy herbs or greens into fine ribbons.",
+    "tags": [
+      "knife-skills",
+      "culinary-technique"
+    ]
+  },
+  {
+    "id": "food-178",
+    "domain": "food",
+    "hook": "The browning on a seared steak is named after the chemist who figured out why it happens.",
+    "fact": "The Maillard reaction, named for French chemist Louis-Camille Maillard, describes the chemical reaction between amino acids and sugars that occurs at high heat, producing the complex flavors and brown color in seared, roasted, or baked foods.",
+    "tags": [
+      "maillard-reaction",
+      "cooking-technique"
+    ]
+  },
+  {
+    "id": "food-179",
+    "domain": "food",
+    "hook": "Plunging vegetables into ice water right after boiling them isn't just for looks.",
+    "fact": "Blanching briefly cooks vegetables in boiling water before shocking them in ice water, halting the cooking process instantly. This locks in bright color and crisp texture while still partially cooking the food.",
+    "tags": [
+      "blanching",
+      "cooking-technique"
+    ]
+  },
+  {
+    "id": "food-180",
+    "domain": "food",
+    "hook": "Setting a pan on fire on purpose is a legitimate cooking technique, not a kitchen accident.",
+    "fact": "Flambéing involves igniting alcohol, often brandy or rum, added to a hot pan. The flame burns off much of the alcohol's harshness while intensifying flavor, and it doubles as tableside theater in classic restaurant service.",
+    "tags": [
+      "flambe",
+      "cooking-technique"
+    ]
+  },
+  {
+    "id": "food-181",
+    "domain": "food",
+    "hook": "A well-cared-for cast iron skillet can outlive the person who bought it.",
+    "fact": "Properly seasoned cast iron builds up a layer of polymerized oil that acts as a natural non-stick surface. With regular use and care, cast iron pans can remain functional for generations, and vintage pieces are often prized over new ones.",
+    "tags": [
+      "cast-iron",
+      "cookware"
+    ]
+  },
+  {
+    "id": "food-182",
+    "domain": "food",
+    "hook": "The material behind non-stick pans was discovered by accident during research that had nothing to do with cooking.",
+    "fact": "Chemist Roy Plunkett stumbled on polytetrafluoroethylene, later branded Teflon, in 1938 while working on refrigerant gases. It took until the 1950s for French engineer Marc Grégoire to apply the slick coating to cookware.",
+    "tags": [
+      "non-stick",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-183",
+    "domain": "food",
+    "hook": "Professional kitchens have a broiler named after a lizard.",
+    "fact": "The salamander is a small overhead broiler used to deliver intense, direct top heat for browning, melting cheese, or finishing dishes quickly, named after the mythical fire-dwelling creature.",
+    "tags": [
+      "salamander",
+      "kitchen-equipment"
+    ]
+  },
+  {
+    "id": "food-184",
+    "domain": "food",
+    "hook": "One 19th-century French chef basically standardized the sauce vocabulary the entire culinary world still uses.",
+    "fact": "Auguste Escoffier codified the five French mother sauces, béchamel, velouté, espagnole, hollandaise, and tomato, as the foundational building blocks from which countless other sauces are derived.",
+    "tags": [
+      "escoffier",
+      "sauces",
+      "culinary-technique"
+    ]
+  },
+  {
+    "id": "food-185",
+    "domain": "food",
+    "hook": "The handheld immersion blender was invented specifically to make soup-making less messy.",
+    "fact": "Swiss engineer Roger Perrinjaquet developed the first stick blender around 1950, allowing cooks to blend soups and sauces directly in the pot instead of transferring hot liquid to a stand blender.",
+    "tags": [
+      "immersion-blender",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-186",
+    "domain": "food",
+    "hook": "The food processor that changed American home cooking started out as a French restaurant machine.",
+    "fact": "Engineer Carl Sontheimer adapted the French commercial Robot-Coupe into a smaller home appliance, introducing the Cuisinart to American kitchens in the 1970s and helping popularize processed, restaurant-style techniques at home.",
+    "tags": [
+      "food-processor",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-187",
+    "domain": "food",
+    "hook": "Some sourdough starters bakers use today are claimed to be over a century old.",
+    "fact": "A sourdough starter is a living culture of wild yeast and bacteria maintained through regular feeding. Because it can theoretically be kept alive indefinitely, some bakeries and families pass down starters they claim have been continuously fed for generations.",
+    "tags": [
+      "sourdough",
+      "fermentation"
+    ]
+  },
+  {
+    "id": "food-188",
+    "domain": "food",
+    "hook": "The tandoor oven can hit temperatures hot enough to cook bread against its inner walls in seconds.",
+    "fact": "A tandoor is a cylindrical clay oven that reaches extremely high temperatures, traditionally fueled by wood or charcoal. It's been used across South and Central Asia for thousands of years to bake bread and cook skewered meats quickly.",
+    "tags": [
+      "tandoor",
+      "cooking-technique"
+    ]
+  },
+  {
+    "id": "food-189",
+    "domain": "food",
+    "hook": "A wok's curved shape isn't just tradition, it's engineered for a specific style of cooking.",
+    "fact": "The rounded bottom concentrates intense heat at the center while the sloped sides provide cooler zones, letting cooks stir-fry ingredients quickly at high heat with minimal oil while still controlling doneness.",
+    "tags": [
+      "wok",
+      "cooking-technique"
+    ]
+  },
+  {
+    "id": "food-190",
+    "domain": "food",
+    "hook": "An electric appliance now does the job of three separate pieces of cookware from a generation ago.",
+    "fact": "Multi-cookers combine functions like pressure cooking, slow cooking, rice cooking, and sautéing into a single electric appliance, streamlining tasks that traditionally required several different pots and stovetop techniques.",
+    "tags": [
+      "multi-cooker",
+      "kitchen-appliance"
+    ]
+  },
+  {
+    "id": "food-191",
+    "domain": "food",
+    "hook": "Turning liquid into little edible spheres is a real cooking technique, not a special effect.",
+    "fact": "Spherification, a hallmark of molecular gastronomy, uses sodium alginate and calcium chloride to form a thin gel membrane around a liquid, creating caviar-like beads or larger orbs that burst with flavor when eaten.",
+    "tags": [
+      "molecular-gastronomy",
+      "spherification"
+    ]
+  },
+  {
+    "id": "food-192",
+    "domain": "food",
+    "hook": "The pop-up toaster is barely a century old.",
+    "fact": "Charles Strite patented the automatic pop-up toaster in 1919 after growing frustrated with burnt cafeteria toast, adding a spring mechanism and timer that ejected bread once it reached the desired doneness.",
+    "tags": [
+      "toaster",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-193",
+    "domain": "food",
+    "hook": "The dishwasher was invented by a woman tired of her fine china getting chipped by careless servants.",
+    "fact": "Josephine Cochrane, a wealthy socialite, designed and patented a mechanical dishwasher in 1886 after noticing her hand-washed china kept getting damaged. Her design used water pressure rather than scrubbing to clean dishes.",
+    "whyItMatters": "Cochrane's invention eventually became a fixture in most modern kitchens, transforming a tedious daily chore, though it took decades to be marketed toward home use rather than hotels and restaurants.",
+    "tags": [
+      "dishwasher",
+      "invention"
+    ]
+  },
+  {
+    "id": "food-194",
+    "domain": "food",
+    "hook": "Canned food existed for decades before there was an easy way to open the can.",
+    "fact": "Early canned goods came with instructions to open them using a hammer and chisel, since the dedicated can opener wasn't widely available until the mid-1800s, roughly 50 years after canning itself was invented.",
+    "tags": [
+      "can-opener",
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "food-195",
+    "domain": "food",
+    "hook": "Long before refrigerators existed, cultures around the world were already preserving food by controlled rotting.",
+    "fact": "Fermentation techniques like kimchi in Korea, sauerkraut in Central Europe, and pickled vegetables across many cuisines relied on beneficial bacteria to preserve food and develop flavor, predating mechanical refrigeration by thousands of years.",
+    "tags": [
+      "fermentation",
+      "food-preservation"
+    ]
+  },
+  {
+    "id": "food-196",
+    "domain": "food",
+    "hook": "Smoking meat does double duty as both a cooking method and a preservative.",
+    "fact": "Smoking dehydrates food while depositing compounds from the smoke that have antimicrobial properties, historically allowing meat and fish to be stored safely for extended periods before refrigeration existed.",
+    "tags": [
+      "smoking",
+      "food-preservation"
+    ]
+  },
+  {
+    "id": "food-197",
+    "domain": "food",
+    "hook": "Cooks judged deep-frying temperatures with bread cubes long before thermometers were common in kitchens.",
+    "fact": "Before reliable kitchen thermometers, cooks would drop a cube of bread into hot oil and time how quickly it browned to estimate whether the oil had reached the right temperature for frying.",
+    "tags": [
+      "deep-frying",
+      "cooking-technique"
+    ]
+  },
+  {
+    "id": "food-198",
+    "domain": "food",
+    "hook": "A wire whisk's balloon shape exists for one specific reason: trapping air.",
+    "fact": "The rounded, looped wires of a balloon whisk are designed to fold air into ingredients like egg whites or cream as efficiently as possible, which is why it's the preferred shape for whipping rather than stirring.",
+    "tags": [
+      "whisk",
+      "kitchen-tool"
+    ]
+  },
+  {
+    "id": "food-199",
+    "domain": "food",
+    "hook": "A proper wood-fired pizza oven can cook a pizza in about 90 seconds.",
+    "fact": "Traditional Neapolitan pizza ovens reach temperatures around 800 to 900 degrees Fahrenheit, hot enough to char and cook a thin pizza crust in under two minutes while keeping the toppings fresh.",
+    "tags": [
+      "pizza-oven",
+      "cooking-technique"
+    ]
+  },
+  {
+    "id": "food-200",
+    "domain": "food",
+    "hook": "The most expensive coffee in the world has passed through a civet's digestive system first.",
+    "fact": "Kopi luwak is made from coffee cherries eaten and excreted by Asian palm civets. Enzymes in the animal's gut are said to alter the beans' flavor, and the labor-intensive collection process makes it one of the priciest coffees sold.",
+    "tags": [
+      "coffee",
+      "oddity"
+    ]
+  }
+]

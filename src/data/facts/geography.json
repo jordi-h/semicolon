@@ -4,7 +4,10 @@
     "domain": "geography",
     "hook": "Russia spans 11 time zones.",
     "fact": "Russia is so vast that when it's morning in Kaliningrad on its western edge, it's already the middle of the night in Kamchatka on its eastern edge.",
-    "tags": ["countries", "time"],
+    "tags": [
+      "countries",
+      "time"
+    ],
     "translations": {
       "fr": {
         "hook": "La Russie s'étend sur 11 fuseaux horaires.",
@@ -25,7 +28,10 @@
     "domain": "geography",
     "hook": "Africa is bigger than most maps show.",
     "fact": "Because the standard Mercator map projection distorts size near the poles, Africa is actually large enough to fit the United States, China, India, and much of Europe inside it.",
-    "tags": ["maps", "africa"],
+    "tags": [
+      "maps",
+      "africa"
+    ],
     "translations": {
       "fr": {
         "hook": "L'Afrique est plus grande que ce que montrent la plupart des cartes.",
@@ -46,7 +52,10 @@
     "domain": "geography",
     "hook": "There's a desert made of ice.",
     "fact": "Antarctica is technically the largest desert in the world — deserts are defined by low precipitation, not heat, and Antarctica receives very little snowfall in its driest regions.",
-    "tags": ["climate", "antarctica"],
+    "tags": [
+      "climate",
+      "antarctica"
+    ],
     "translations": {
       "fr": {
         "hook": "Il existe un désert entièrement fait de glace.",
@@ -67,7 +76,10 @@
     "domain": "geography",
     "hook": "Canada has more lakes than the rest of the world combined.",
     "fact": "Canada contains an estimated 2 million lakes, accounting for roughly 60% of the world's total — a legacy of glaciers carving the landscape during the last ice age.",
-    "tags": ["water", "north-america"],
+    "tags": [
+      "water",
+      "north-america"
+    ],
     "translations": {
       "fr": {
         "hook": "Le Canada compte plus de lacs que le reste du monde réuni.",
@@ -88,7 +100,10 @@
     "domain": "geography",
     "hook": "Some countries are entirely surrounded by just one other country.",
     "fact": "Lesotho is completely enclosed within South Africa, and San Marino and Vatican City are entirely surrounded by Italy — a rare geographic setup called an 'enclave.'",
-    "tags": ["countries", "borders"],
+    "tags": [
+      "countries",
+      "borders"
+    ],
     "translations": {
       "fr": {
         "hook": "Certains pays sont entièrement enclavés dans un seul autre pays.",
@@ -110,7 +125,10 @@
     "hook": "The Amazon rainforest produces a huge share of the world's oxygen.",
     "fact": "The Amazon generates an estimated 6–9% of the planet's oxygen and absorbs vast amounts of carbon dioxide, earning it the nickname 'the lungs of the Earth.'",
     "whyItMatters": "Deforestation there directly affects global climate regulation.",
-    "tags": ["environment", "south-america"],
+    "tags": [
+      "environment",
+      "south-america"
+    ],
     "translations": {
       "fr": {
         "hook": "La forêt amazonienne produit une part énorme de l'oxygène mondial.",
@@ -134,7 +152,10 @@
     "domain": "geography",
     "hook": "Mount Everest isn't the tallest mountain on Earth.",
     "fact": "Measured from base to peak rather than sea level, Hawaii's Mauna Kea is taller than Everest — most of it is just hidden underwater.",
-    "tags": ["mountains", "records"],
+    "tags": [
+      "mountains",
+      "records"
+    ],
     "translations": {
       "fr": {
         "hook": "L'Everest n'est pas la plus haute montagne de la Terre.",
@@ -155,7 +176,10 @@
     "domain": "geography",
     "hook": "A river can flow in two different oceans.",
     "fact": "At Peru's Pasco region, a natural drainage divide splits water so closely that rain falling meters apart can end up flowing into either the Atlantic or Pacific Ocean.",
-    "tags": ["rivers", "south-america"],
+    "tags": [
+      "rivers",
+      "south-america"
+    ],
     "translations": {
       "fr": {
         "hook": "Une rivière peut se jeter dans deux océans différents.",
@@ -176,7 +200,10 @@
     "domain": "geography",
     "hook": "The Sahara wasn't always a desert.",
     "fact": "Around 6,000 years ago, the Sahara was a green savanna with lakes, rivers, and abundant wildlife, before a shift in Earth's orbit dried the region out over centuries.",
-    "tags": ["climate", "africa"],
+    "tags": [
+      "climate",
+      "africa"
+    ],
     "translations": {
       "fr": {
         "hook": "Le Sahara n'a pas toujours été un désert.",
@@ -197,7 +224,10 @@
     "domain": "geography",
     "hook": "There's a country with no rivers at all.",
     "fact": "Saudi Arabia has no permanent rivers or lakes, relying instead on groundwater, desalination, and seasonal wadis that only fill after rare rainfall.",
-    "tags": ["water", "middle-east"],
+    "tags": [
+      "water",
+      "middle-east"
+    ],
     "translations": {
       "fr": {
         "hook": "Il existe un pays sans le moindre fleuve.",
@@ -218,7 +248,10 @@
     "domain": "geography",
     "hook": "Indonesia is made up of over 17,000 islands.",
     "fact": "Indonesia's archipelago spans more than 17,000 islands, though only about 6,000 of them are inhabited.",
-    "tags": ["islands", "asia"],
+    "tags": [
+      "islands",
+      "asia"
+    ],
     "translations": {
       "fr": {
         "hook": "L'Indonésie compte plus de 17 000 îles.",
@@ -239,7 +272,10 @@
     "domain": "geography",
     "hook": "Chicago moved its entire downtown upward in the 1800s.",
     "fact": "In the 1850s–60s, engineers physically jacked up buildings in Chicago several feet using thousands of screw jacks to install proper sewage drainage below street level.",
-    "tags": ["cities", "engineering"],
+    "tags": [
+      "cities",
+      "engineering"
+    ],
     "translations": {
       "fr": {
         "hook": "Chicago a soulevé tout son centre-ville au XIXe siècle.",
@@ -260,7 +296,10 @@
     "domain": "geography",
     "hook": "The Dead Sea is dropping about a meter a year.",
     "fact": "Reduced inflow from the Jordan River and heavy mineral extraction cause the Dead Sea's water level to fall roughly one meter annually, shrinking its shoreline dramatically.",
-    "tags": ["water", "middle-east"],
+    "tags": [
+      "water",
+      "middle-east"
+    ],
     "translations": {
       "fr": {
         "hook": "La mer Morte baisse d'environ un mètre par an.",
@@ -281,7 +320,10 @@
     "domain": "geography",
     "hook": "There's a spot where four countries almost meet.",
     "fact": "Southern Africa's 'Four Corners' near Zambia, Zimbabwe, Botswana, and Namibia comes remarkably close to a true quadripoint, though surveys confirm they meet at two very close tripoints rather than one exact point.",
-    "tags": ["borders", "africa"],
+    "tags": [
+      "borders",
+      "africa"
+    ],
     "translations": {
       "fr": {
         "hook": "Il existe un endroit où quatre pays se touchent presque.",
@@ -302,7 +344,10 @@
     "domain": "geography",
     "hook": "Mount Everest's official height changed by 86 centimeters in 2020.",
     "fact": "Nepal and China jointly re-measured Mount Everest using modern GPS technology and set its new official height at 8,848.86 meters — about 86 centimeters taller than the previously accepted figure.",
-    "tags": ["mountains", "asia"],
+    "tags": [
+      "mountains",
+      "asia"
+    ],
     "translations": {
       "fr": {
         "hook": "L'altitude officielle de l'Everest a changé de 86 centimètres en 2020.",
@@ -323,7 +368,10 @@
     "domain": "geography",
     "hook": "Australia's longest fence stretches over 5,600 kilometers.",
     "fact": "The Dingo Fence was built to keep dingoes away from sheep grazing land in southeastern Australia, and remains one of the longest structures ever built by humans.",
-    "tags": ["australia", "records"],
+    "tags": [
+      "australia",
+      "records"
+    ],
     "translations": {
       "fr": {
         "hook": "La plus longue clôture d'Australie s'étend sur plus de 5 600 kilomètres.",
@@ -344,7 +392,10 @@
     "domain": "geography",
     "hook": "New Zealand was one of the last places on Earth settled by humans.",
     "fact": "Polynesian voyagers first reached New Zealand around 1250–1300 CE, making it one of the final major landmasses to be settled — thousands of years after most of the world.",
-    "tags": ["islands", "oceania"],
+    "tags": [
+      "islands",
+      "oceania"
+    ],
     "translations": {
       "fr": {
         "hook": "La Nouvelle-Zélande a été l'un des derniers endroits du monde peuplés par l'homme.",
@@ -365,7 +416,10 @@
     "domain": "geography",
     "hook": "South America has only two landlocked countries.",
     "fact": "Bolivia and Paraguay are the only two countries in South America without direct ocean access, despite the continent's long coastlines.",
-    "tags": ["countries", "south-america"],
+    "tags": [
+      "countries",
+      "south-america"
+    ],
     "translations": {
       "fr": {
         "hook": "L'Amérique du Sud ne compte que deux pays enclavés.",
@@ -386,7 +440,10 @@
     "domain": "geography",
     "hook": "The Amazon carries more water than the next seven biggest rivers combined.",
     "fact": "The Amazon River's flow into the Atlantic Ocean is so massive that it outpaces the combined discharge of the next seven largest rivers on Earth.",
-    "tags": ["rivers", "south-america"],
+    "tags": [
+      "rivers",
+      "south-america"
+    ],
     "translations": {
       "fr": {
         "hook": "L'Amazone transporte plus d'eau que les sept plus grands fleuves suivants réunis.",
@@ -407,7 +464,10 @@
     "domain": "geography",
     "hook": "Singapore has grown its land area by over 20% since independence.",
     "fact": "Through decades of land reclamation projects, Singapore has expanded its total land area by more than a fifth since becoming independent in 1965.",
-    "tags": ["cities", "asia"],
+    "tags": [
+      "cities",
+      "asia"
+    ],
     "translations": {
       "fr": {
         "hook": "Singapour a agrandi sa superficie de plus de 20% depuis son indépendance.",
@@ -428,7 +488,10 @@
     "domain": "geography",
     "hook": "There's a point on Earth more than 2,600 km from any ocean.",
     "fact": "Located in northwestern China, the 'Eurasian pole of inaccessibility' is the spot on Earth's surface farthest from any coastline in every direction.",
-    "tags": ["asia", "trivia"],
+    "tags": [
+      "asia",
+      "trivia"
+    ],
     "translations": {
       "fr": {
         "hook": "Il existe un point sur Terre à plus de 2 600 km de tout océan.",
@@ -449,7 +512,10 @@
     "domain": "geography",
     "hook": "Iceland is icier in name than in reality — and Greenland is the opposite.",
     "fact": "Iceland is only about 10% covered in glaciers, while much of Greenland's southern coast is comparatively green — a naming mismatch that traces back to medieval Norse settlers.",
-    "tags": ["climate", "trivia"],
+    "tags": [
+      "climate",
+      "trivia"
+    ],
     "translations": {
       "fr": {
         "hook": "L'Islande est plus glacée de nom que de fait — et le Groenland, c'est l'inverse.",
@@ -470,7 +536,10 @@
     "domain": "geography",
     "hook": "The Nile might not be the longest river after all.",
     "fact": "The Nile has long been considered the world's longest river, but some modern measurements suggest the Amazon could actually be longer, depending on exactly where its source is defined.",
-    "tags": ["rivers", "records"],
+    "tags": [
+      "rivers",
+      "records"
+    ],
     "translations": {
       "fr": {
         "hook": "Le Nil n'est peut-être pas le plus long fleuve du monde, finalement.",
@@ -491,7 +560,10 @@
     "domain": "geography",
     "hook": "There's a patch of desert no country wants to claim.",
     "fact": "Bir Tawil, a strip of land between Egypt and Sudan, is unclaimed by either country — claiming it would weaken each nation's position in a separate, more valuable border dispute nearby.",
-    "tags": ["borders", "africa"],
+    "tags": [
+      "borders",
+      "africa"
+    ],
     "translations": {
       "fr": {
         "hook": "Il existe un morceau de désert qu'aucun pays ne veut revendiquer.",
@@ -512,7 +584,10 @@
     "domain": "geography",
     "hook": "Japan has more than double the islands it was once thought to have.",
     "fact": "A 2023 government recount using precise digital mapping revised Japan's official island count from 6,852 to 14,125.",
-    "tags": ["islands", "asia"],
+    "tags": [
+      "islands",
+      "asia"
+    ],
     "translations": {
       "fr": {
         "hook": "Le Japon compte plus du double des îles qu'on lui attribuait autrefois.",
@@ -533,7 +608,10 @@
     "domain": "geography",
     "hook": "Parts of Chile's Atacama Desert have never recorded rain.",
     "fact": "The Atacama is considered the driest inhabited place on Earth — some of its weather stations have no recorded rainfall in their entire history of operation.",
-    "tags": ["climate", "south-america"],
+    "tags": [
+      "climate",
+      "south-america"
+    ],
     "translations": {
       "fr": {
         "hook": "Certaines parties du désert d'Atacama, au Chili, n'ont jamais enregistré de pluie.",
@@ -554,7 +632,10 @@
     "domain": "geography",
     "hook": "Vatican City is smaller than most golf courses.",
     "fact": "The world's smallest country covers just 0.49 square kilometers, making it tinier than the average 18-hole golf course.",
-    "tags": ["countries", "records"],
+    "tags": [
+      "countries",
+      "records"
+    ],
     "translations": {
       "fr": {
         "hook": "Le Vatican est plus petit que la plupart des terrains de golf.",
@@ -575,7 +656,10 @@
     "domain": "geography",
     "hook": "Australia is the only continent-spanning country with no land borders.",
     "fact": "Because it's surrounded entirely by ocean, Australia is the sole country that covers an entire continent while sharing a land border with absolutely no other nation.",
-    "tags": ["australia", "borders"],
+    "tags": [
+      "australia",
+      "borders"
+    ],
     "translations": {
       "fr": {
         "hook": "L'Australie est le seul pays-continent sans aucune frontière terrestre.",
@@ -596,7 +680,10 @@
     "domain": "geography",
     "hook": "Geographers still argue about whether the Caspian is a sea or a lake.",
     "fact": "The Caspian Sea is the largest inland body of water on Earth, and whether it technically counts as a sea or the world's biggest lake remains a genuine debate among geographers.",
-    "tags": ["water", "trivia"],
+    "tags": [
+      "water",
+      "trivia"
+    ],
     "translations": {
       "fr": {
         "hook": "Les géographes se disputent encore pour savoir si la mer Caspienne est une mer ou un lac.",
@@ -617,7 +704,10 @@
     "domain": "geography",
     "hook": "Kilimanjaro is the tallest mountain that isn't part of a range.",
     "fact": "Mount Kilimanjaro in Tanzania is the world's tallest freestanding mountain, rising on its own rather than as part of a larger mountain chain.",
-    "tags": ["mountains", "africa"],
+    "tags": [
+      "mountains",
+      "africa"
+    ],
     "translations": {
       "fr": {
         "hook": "Le Kilimandjaro est la plus haute montagne qui ne fasse partie d'aucune chaîne.",
@@ -638,7 +728,10 @@
     "domain": "geography",
     "hook": "The Chile–Argentina border runs over 5,300 kilometers along the Andes.",
     "fact": "One of the longest international borders on Earth follows the spine of the Andes mountains between Chile and Argentina, stretching more than 5,300 kilometers.",
-    "tags": ["borders", "south-america"],
+    "tags": [
+      "borders",
+      "south-america"
+    ],
     "translations": {
       "fr": {
         "hook": "La frontière entre le Chili et l'Argentine s'étend sur plus de 5 300 kilomètres le long des Andes.",
@@ -653,5 +746,1716 @@
         "fact": "Una de las fronteras internacionales más largas del mundo sigue la cordillera de los Andes entre Chile y Argentina, extendiéndose a lo largo de más de 5.300 kilómetros."
       }
     }
+  },
+  {
+    "id": "geography-032",
+    "domain": "geography",
+    "hook": "Africa is slowly tearing itself in two.",
+    "fact": "The East African Rift is a 6,000-kilometer crack where the African continent is splitting apart at roughly the speed fingernails grow. In millions of years, the region will likely become a new ocean basin, separating a new landmass from the rest of Africa.",
+    "tags": [
+      "africa",
+      "tectonics"
+    ]
+  },
+  {
+    "id": "geography-033",
+    "domain": "geography",
+    "hook": "One lake holds a fifth of the world's unfrozen fresh water.",
+    "fact": "Siberia's Lake Baikal is both the deepest (over 1,600 meters) and oldest (roughly 25 million years) freshwater lake on Earth, and it alone contains about 20% of the planet's unfrozen surface fresh water.",
+    "tags": [
+      "asia",
+      "lakes"
+    ]
+  },
+  {
+    "id": "geography-034",
+    "domain": "geography",
+    "hook": "Water falls nearly a kilometer before it hits anything.",
+    "fact": "Venezuela's Angel Falls drops 979 meters in a single uninterrupted plunge from the edge of a flat-topped tepui mountain, making it the tallest waterfall on Earth. Much of the water evaporates or scatters into mist before reaching the bottom.",
+    "tags": [
+      "south-america",
+      "waterfalls"
+    ]
+  },
+  {
+    "id": "geography-035",
+    "domain": "geography",
+    "hook": "People live in one of the hottest places on the planet, on purpose.",
+    "fact": "Ethiopia's Danakil Depression regularly sees average temperatures among the highest recorded anywhere on Earth, yet Afar salt miners still work its blistering, sulfur-streaked salt flats near active volcanic vents.",
+    "tags": [
+      "africa",
+      "climate"
+    ]
+  },
+  {
+    "id": "geography-036",
+    "domain": "geography",
+    "hook": "Yellowstone Park sits on top of one giant volcano.",
+    "fact": "The geysers and hot springs of Yellowstone are powered by a supervolcano whose caldera spans roughly 70 kilometers across, formed by eruptions so massive they buried much of North America in ash.",
+    "tags": [
+      "north-america",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-037",
+    "domain": "geography",
+    "hook": "The Grand Canyon's walls are a time machine.",
+    "fact": "Erosion by the Colorado River has cut so deep that rock at the canyon's base dates back nearly 2 billion years — close to half the age of Earth itself.",
+    "tags": [
+      "north-america",
+      "mountains"
+    ]
+  },
+  {
+    "id": "geography-038",
+    "domain": "geography",
+    "hook": "Most of the Sahara isn't actually covered in sand dunes.",
+    "fact": "Only about 15% of the Sahara is the rolling sand seas people picture. The rest is rocky plateaus, gravel plains, and mountains — a much starker, harder landscape than the postcard image.",
+    "tags": [
+      "africa",
+      "deserts"
+    ]
+  },
+  {
+    "id": "geography-039",
+    "domain": "geography",
+    "hook": "There's a point in the ocean where the pressure could crush a car.",
+    "fact": "At the bottom of the Mariana Trench's Challenger Deep, nearly 11 kilometers down, water pressure exceeds a thousand times what it is at the surface — yet specialized submersibles have still reached the bottom and found life.",
+    "tags": [
+      "asia",
+      "oceans"
+    ]
+  },
+  {
+    "id": "geography-040",
+    "domain": "geography",
+    "hook": "A sea in Central Asia lost most of itself in a few decades.",
+    "fact": "The Aral Sea was once the world's fourth-largest lake, but Soviet-era irrigation projects diverted the rivers that fed it, shrinking it to a fraction of its original size and leaving rusting fishing boats stranded in desert.",
+    "whyItMatters": "The collapse devastated regional fisheries and left toxic, salt-laden dust storms that still affect public health across Central Asia.",
+    "tags": [
+      "asia",
+      "environment"
+    ]
+  },
+  {
+    "id": "geography-041",
+    "domain": "geography",
+    "hook": "One reef is big enough to see from space.",
+    "fact": "Australia's Great Barrier Reef stretches over 2,300 kilometers and is built entirely by tiny coral organisms, making it the largest structure on Earth constructed by living creatures.",
+    "tags": [
+      "oceania",
+      "oceans"
+    ]
+  },
+  {
+    "id": "geography-042",
+    "domain": "geography",
+    "hook": "A giant rock in the desert changes color at sunset.",
+    "fact": "Uluru, the massive sandstone monolith in central Australia, appears to glow deep red at dawn and dusk because iron minerals on its surface have oxidized, essentially rusting the rock's outer layer.",
+    "tags": [
+      "oceania",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-043",
+    "domain": "geography",
+    "hook": "Japan's most iconic mountain is still technically active.",
+    "fact": "Mount Fuji's perfectly symmetrical cone last erupted in 1707–08, and volcanologists still classify it as an active volcano rather than dormant or extinct.",
+    "tags": [
+      "asia",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-044",
+    "domain": "geography",
+    "hook": "One horseshoe-shaped zone holds most of Earth's volcanoes.",
+    "fact": "The Pacific 'Ring of Fire' is home to roughly 75% of the world's active and dormant volcanoes and around 90% of its earthquakes, tracing the edges of the tectonic plates that ring the Pacific Ocean.",
+    "tags": [
+      "tectonics",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-045",
+    "domain": "geography",
+    "hook": "The Appalachian Mountains are older than the ocean next to them.",
+    "fact": "The Appalachians formed roughly 480 million years ago and were once part of the same range as mountains now found in Scotland and Scandinavia — long before the Atlantic Ocean, which is only about 180 million years old, ever existed.",
+    "tags": [
+      "north-america",
+      "mountains"
+    ]
+  },
+  {
+    "id": "geography-046",
+    "domain": "geography",
+    "hook": "The Himalayas are getting taller every year.",
+    "fact": "The Indian tectonic plate is still colliding with the Eurasian plate, pushing the Himalayas upward by a few millimeters annually — a slow-motion collision that has been happening for tens of millions of years.",
+    "whyItMatters": "That same ongoing collision is why the region is one of the most earthquake-prone on Earth.",
+    "tags": [
+      "asia",
+      "mountains"
+    ]
+  },
+  {
+    "id": "geography-047",
+    "domain": "geography",
+    "hook": "Scientists call one plateau the 'Third Pole.'",
+    "fact": "The Tibetan Plateau holds the largest store of ice outside the Arctic and Antarctic, feeding the headwaters of major rivers that supply water to nearly two billion people across Asia.",
+    "tags": [
+      "asia",
+      "glaciers"
+    ]
+  },
+  {
+    "id": "geography-048",
+    "domain": "geography",
+    "hook": "There's a lake in the Andes boats can sail on at 3,800 meters up.",
+    "fact": "Lake Titicaca, straddling the border of Peru and Bolivia, is the highest lake in the world navigable by large vessels, sitting so high that the air holds noticeably less oxygen than at sea level.",
+    "tags": [
+      "south-america",
+      "lakes"
+    ]
+  },
+  {
+    "id": "geography-049",
+    "domain": "geography",
+    "hook": "One waterfall is actually about 275 waterfalls.",
+    "fact": "Iguazu Falls, on the border of Argentina and Brazil, isn't a single cascade but a horseshoe-shaped system of roughly 275 individual falls and cataracts, making it significantly wider than Niagara Falls.",
+    "tags": [
+      "south-america",
+      "waterfalls"
+    ]
+  },
+  {
+    "id": "geography-050",
+    "domain": "geography",
+    "hook": "One desert has been dry for tens of millions of years.",
+    "fact": "Namibia's Namib Desert is considered the oldest desert on Earth, having remained arid for at least 55 to 80 million years — long enough to predate most mammal species alive today.",
+    "tags": [
+      "africa",
+      "deserts"
+    ]
+  },
+  {
+    "id": "geography-051",
+    "domain": "geography",
+    "hook": "A river delta in Africa never actually reaches the ocean.",
+    "fact": "Botswana's Okavango Delta forms where a river flowing out of Angola's highlands spreads across the Kalahari Desert and simply evaporates or soaks into the sand, rather than draining into any sea.",
+    "tags": [
+      "africa",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography-052",
+    "domain": "geography",
+    "hook": "Locals call it 'the smoke that thunders.'",
+    "fact": "Victoria Falls, on the Zambia–Zimbabwe border, produces a curtain of spray visible from kilometers away and is classified as the largest single sheet of falling water on Earth by combined height and width.",
+    "tags": [
+      "africa",
+      "waterfalls"
+    ]
+  },
+  {
+    "id": "geography-053",
+    "domain": "geography",
+    "hook": "One river crosses the equator not once, but twice.",
+    "fact": "The Congo River loops so dramatically through central Africa that it crosses the equator twice, and it plunges to depths over 220 meters in places, making it the deepest river in the world.",
+    "tags": [
+      "africa",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography-054",
+    "domain": "geography",
+    "hook": "The hottest air temperature ever reliably recorded was in a valley below sea level.",
+    "fact": "Death Valley, California, hit 56.7°C (134°F) at Furnace Creek in 1913 — the highest air temperature officially recorded on Earth's surface.",
+    "tags": [
+      "north-america",
+      "climate"
+    ]
+  },
+  {
+    "id": "geography-055",
+    "domain": "geography",
+    "hook": "One cave system has more mapped passages than any other on Earth.",
+    "fact": "Mammoth Cave in Kentucky has over 675 kilometers of surveyed passageways, and explorers keep finding more, connecting it to nearby cave systems as mapping continues.",
+    "tags": [
+      "north-america",
+      "caves"
+    ]
+  },
+  {
+    "id": "geography-056",
+    "domain": "geography",
+    "hook": "Niagara Falls didn't start where it is today.",
+    "fact": "Erosion has caused Niagara Falls to retreat several kilometers upstream from its original location near Lake Ontario over the past 12,000 years, as the rushing water wears away the rock beneath it.",
+    "tags": [
+      "north-america",
+      "waterfalls"
+    ]
+  },
+  {
+    "id": "geography-057",
+    "domain": "geography",
+    "hook": "Five lakes hold about a fifth of the world's surface fresh water.",
+    "fact": "North America's Great Lakes — Superior, Michigan, Huron, Erie, and Ontario — together contain roughly 20% of all the fresh surface water on the planet.",
+    "whyItMatters": "They supply drinking water to tens of millions of people across the US and Canada.",
+    "tags": [
+      "north-america",
+      "lakes"
+    ]
+  },
+  {
+    "id": "geography-058",
+    "domain": "geography",
+    "hook": "There's a sea with no coastline at all.",
+    "fact": "The Sargasso Sea in the North Atlantic is defined not by any shore but by the swirling ocean currents around it, making it the only sea on Earth bordered entirely by water rather than land.",
+    "tags": [
+      "oceans",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-059",
+    "domain": "geography",
+    "hook": "A single ocean current keeps entire countries warmer than they should be.",
+    "fact": "The Gulf Stream carries warm water from the Gulf of Mexico across the Atlantic toward Western Europe, which is why London stays far milder in winter than places at similar latitudes in North America.",
+    "whyItMatters": "Some climate models suggest this circulation could slow down as polar ice melts, which would sharply cool parts of Europe.",
+    "tags": [
+      "oceans",
+      "climate"
+    ]
+  },
+  {
+    "id": "geography-060",
+    "domain": "geography",
+    "hook": "One Siberian village regularly hits temperatures cold enough to freeze exposed skin in minutes.",
+    "fact": "Oymyakon, in northeastern Siberia, is widely considered the coldest permanently inhabited place on Earth, with temperatures having dropped as low as -67.7°C.",
+    "tags": [
+      "asia",
+      "climate"
+    ]
+  },
+  {
+    "id": "geography-061",
+    "domain": "geography",
+    "hook": "Almost all the world's ice sits on one continent.",
+    "fact": "Antarctica holds roughly 90% of Earth's ice and about 70% of its fresh water, locked in an ice sheet that in places is several kilometers thick.",
+    "whyItMatters": "If it all melted, global sea levels would rise by tens of meters, reshaping coastlines worldwide.",
+    "tags": [
+      "antarctica",
+      "glaciers"
+    ]
+  },
+  {
+    "id": "geography-062",
+    "domain": "geography",
+    "hook": "There's a lake that hasn't seen sunlight in millions of years.",
+    "fact": "Lake Vostok lies buried under nearly 4 kilometers of Antarctic ice, sealed off from the surface for possibly millions of years, giving scientists a rare window into an isolated ancient ecosystem.",
+    "tags": [
+      "antarctica",
+      "lakes"
+    ]
+  },
+  {
+    "id": "geography-063",
+    "domain": "geography",
+    "hook": "The world's second-highest mountain is also its deadliest to climb.",
+    "fact": "K2 stands just shy of Everest in height, but its steep terrain, unpredictable weather, and technical climbing routes give it a far higher fatality rate, earning it the nickname 'the Savage Mountain.'",
+    "tags": [
+      "asia",
+      "mountains"
+    ]
+  },
+  {
+    "id": "geography-064",
+    "domain": "geography",
+    "hook": "One peninsula has one of the densest clusters of volcanoes on Earth.",
+    "fact": "Russia's Kamchatka Peninsula is home to dozens of active volcanoes packed into a relatively small area, part of the Pacific Ring of Fire and recognized as a UNESCO World Heritage site.",
+    "tags": [
+      "asia",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-065",
+    "domain": "geography",
+    "hook": "Europe's most active volcano has been erupting for centuries.",
+    "fact": "Mount Etna in Sicily is Europe's most active volcano, with a documented history of eruptions stretching back thousands of years and activity that continues to this day.",
+    "tags": [
+      "europe",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-066",
+    "domain": "geography",
+    "hook": "Earth's longest mountain range is almost entirely underwater.",
+    "fact": "The global mid-ocean ridge system stretches roughly 65,000 kilometers around the planet, making it the longest continuous mountain range on Earth — yet it's almost completely submerged beneath the oceans.",
+    "tags": [
+      "oceans",
+      "tectonics"
+    ]
+  },
+  {
+    "id": "geography-067",
+    "domain": "geography",
+    "hook": "One mountain range runs the entire length of a continent.",
+    "fact": "The Andes stretch about 7,000 kilometers along the western edge of South America, making them the longest continental mountain range in the world.",
+    "tags": [
+      "south-america",
+      "mountains"
+    ]
+  },
+  {
+    "id": "geography-068",
+    "domain": "geography",
+    "hook": "One forest holds roughly a tenth of all known species on Earth.",
+    "fact": "The Amazon rainforest is estimated to harbor around 10% of the world's documented species, packed into an area covering less than 1% of Earth's surface.",
+    "tags": [
+      "south-america",
+      "biomes"
+    ]
+  },
+  {
+    "id": "geography-069",
+    "domain": "geography",
+    "hook": "The world's largest tropical wetland isn't the Amazon.",
+    "fact": "Brazil's Pantanal, extending into Bolivia and Paraguay, is the largest tropical wetland on Earth, spanning an area roughly the size of a small country and supporting extraordinary concentrations of wildlife.",
+    "tags": [
+      "south-america",
+      "wetlands"
+    ]
+  },
+  {
+    "id": "geography-070",
+    "domain": "geography",
+    "hook": "Outside the poles, one place holds more ice than anywhere else in the Southern Hemisphere.",
+    "fact": "The Patagonian Ice Fields, spanning parts of Chile and Argentina, form the largest contiguous mass of ice in the Southern Hemisphere outside of Antarctica itself.",
+    "tags": [
+      "south-america",
+      "glaciers"
+    ]
+  },
+  {
+    "id": "geography-071",
+    "domain": "geography",
+    "hook": "An island chain that inspired evolutionary theory was never attached to any continent.",
+    "fact": "The Galápagos Islands are entirely volcanic in origin, rising from a hotspot in the Pacific Ocean floor, and were never connected to mainland South America — which is why their wildlife evolved in such striking isolation.",
+    "tags": [
+      "south-america",
+      "islands"
+    ]
+  },
+  {
+    "id": "geography-072",
+    "domain": "geography",
+    "hook": "One river delta is the largest on the planet.",
+    "fact": "The Ganges-Brahmaputra Delta, shared by India and Bangladesh, is the largest river delta in the world, formed where sediment from the Himalayas spreads across a vast low-lying floodplain before reaching the Bay of Bengal.",
+    "whyItMatters": "Tens of millions of people live on this delta, making it one of the most flood-vulnerable regions on Earth as sea levels rise.",
+    "tags": [
+      "asia",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography-073",
+    "domain": "geography",
+    "hook": "Asia's longest river starts as glacial meltwater on a remote plateau.",
+    "fact": "The Yangtze River stretches about 6,300 kilometers from its source on the Tibetan Plateau to the East China Sea, making it the longest river in Asia and the third-longest in the world.",
+    "tags": [
+      "asia",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography-074",
+    "domain": "geography",
+    "hook": "One river flows through six different countries before reaching the sea.",
+    "fact": "The Mekong River begins on the Tibetan Plateau and winds through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam, sustaining fisheries and farmland for tens of millions of people along the way.",
+    "tags": [
+      "asia",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography-075",
+    "domain": "geography",
+    "hook": "Not every desert is hot.",
+    "fact": "Mongolia and northern China's Gobi Desert is classified as a cold desert, where winter temperatures regularly plunge well below freezing despite it receiving so little precipitation that it technically qualifies as arid.",
+    "tags": [
+      "asia",
+      "deserts"
+    ]
+  },
+  {
+    "id": "geography-076",
+    "domain": "geography",
+    "hook": "Some sand dunes stretch over 200 kilometers in a single line.",
+    "fact": "Australia's Simpson Desert contains some of the longest parallel sand dunes on Earth, with individual dune ridges running for over 200 kilometers across the outback.",
+    "tags": [
+      "oceania",
+      "deserts"
+    ]
+  },
+  {
+    "id": "geography-077",
+    "domain": "geography",
+    "hook": "A fifth of a continent sits above one giant underground water reserve.",
+    "fact": "The Great Artesian Basin underlies about 22% of Australia, forming one of the largest and deepest freshwater aquifer systems on Earth and supplying water to remote communities across the arid interior.",
+    "tags": [
+      "oceania",
+      "water"
+    ]
+  },
+  {
+    "id": "geography-078",
+    "domain": "geography",
+    "hook": "The line dividing Europe from Asia runs through a worn-down mountain range.",
+    "fact": "The Ural Mountains, stretching through Russia, are conventionally treated as the physical boundary between Europe and Asia — and at roughly 250 to 300 million years old, they're far more eroded and gentle than younger ranges like the Alps.",
+    "tags": [
+      "europe",
+      "mountains"
+    ]
+  },
+  {
+    "id": "geography-079",
+    "domain": "geography",
+    "hook": "One Norwegian fjord plunges deeper than most skyscrapers are tall.",
+    "fact": "Sognefjord, Norway's longest and deepest fjord, stretches about 205 kilometers inland and reaches depths over 1,300 meters, carved by glaciers during past ice ages.",
+    "tags": [
+      "europe",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-080",
+    "domain": "geography",
+    "hook": "Mainland Europe has exactly one active volcano.",
+    "fact": "Mount Vesuvius, near Naples, Italy, is the only active volcano on the European mainland, infamous for the 79 CE eruption that buried the Roman cities of Pompeii and Herculaneum.",
+    "tags": [
+      "europe",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-081",
+    "domain": "geography",
+    "hook": "The Alps' tallest peak doesn't have a fixed height.",
+    "fact": "Mont Blanc's elevation shifts slightly from year to year because its summit is capped by snow and ice whose thickness changes with the seasons, so surveyors periodically remeasure it.",
+    "tags": [
+      "europe",
+      "mountains"
+    ]
+  },
+  {
+    "id": "geography-082",
+    "domain": "geography",
+    "hook": "One river touches more countries than any other on Earth.",
+    "fact": "The Danube flows through roughly ten countries on its way from Germany's Black Forest to the Black Sea, more than any other river in the world.",
+    "tags": [
+      "europe",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography-083",
+    "domain": "geography",
+    "hook": "No bridge crosses the world's second-longest river along its entire length.",
+    "fact": "Despite stretching thousands of kilometers through dense rainforest, the Amazon River has no bridges spanning it anywhere along its course — settlements along its banks rely on boats and ferries instead.",
+    "tags": [
+      "south-america",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography-084",
+    "domain": "geography",
+    "hook": "Two rivers with different colors meet in one African capital.",
+    "fact": "The Blue Nile and White Nile visibly merge at Khartoum, Sudan, flowing side by side for a stretch before their waters — carrying different sediment loads — fully mix into a single Nile River.",
+    "tags": [
+      "africa",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography-085",
+    "domain": "geography",
+    "hook": "One African lake is both the world's second-deepest and one of its oldest.",
+    "fact": "Lake Tanganyika plunges to depths over 1,400 meters and formed roughly 9 to 12 million years ago as part of the East African Rift system, making it both remarkably deep and remarkably old.",
+    "tags": [
+      "africa",
+      "lakes"
+    ]
+  },
+  {
+    "id": "geography-086",
+    "domain": "geography",
+    "hook": "Africa's largest lake by area feeds the world's longest river.",
+    "fact": "Lake Victoria, shared by Uganda, Kenya, and Tanzania, is the largest lake in Africa by surface area and serves as one of the primary sources feeding the Nile River.",
+    "tags": [
+      "africa",
+      "lakes"
+    ]
+  },
+  {
+    "id": "geography-087",
+    "domain": "geography",
+    "hook": "One volcano has had a bubbling lava lake for over a century.",
+    "fact": "Ethiopia's Erta Ale is one of only a handful of volcanoes on Earth with a persistent, long-lived lava lake in its summit crater, glowing continuously rather than erupting in a single burst.",
+    "tags": [
+      "africa",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-088",
+    "domain": "geography",
+    "hook": "One mountain rises higher above its own base than almost any other on land.",
+    "fact": "Alaska's Denali gains roughly 5,500 meters of vertical relief from its surrounding base to summit, entirely above sea level — giving it one of the greatest base-to-peak rises of any mountain on land.",
+    "tags": [
+      "north-america",
+      "mountains"
+    ]
+  },
+  {
+    "id": "geography-089",
+    "domain": "geography",
+    "hook": "A single crack in California's crust can move an entire city.",
+    "fact": "The San Andreas Fault marks where the Pacific and North American tectonic plates grind past each other, and its sudden slips have produced some of the most destructive earthquakes in US history.",
+    "whyItMatters": "Millions of Californians live along the fault line, and geologists warn a major rupture is a matter of when, not if.",
+    "tags": [
+      "north-america",
+      "tectonics"
+    ]
+  },
+  {
+    "id": "geography-090",
+    "domain": "geography",
+    "hook": "One eruption blew off the top of a mountain in seconds.",
+    "fact": "The 1980 eruption of Mount St. Helens in Washington State collapsed the volcano's north face and blasted away roughly 400 meters of its summit, in one of the most closely studied volcanic events in modern history.",
+    "tags": [
+      "north-america",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-091",
+    "domain": "geography",
+    "hook": "One geyser has been putting on a show for over a century, right on schedule.",
+    "fact": "Old Faithful in Yellowstone National Park erupts fairly predictably, roughly every hour or two, powered by heat from the supervolcano lurking beneath the park.",
+    "tags": [
+      "north-america",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-092",
+    "domain": "geography",
+    "hook": "North America's two great mountain ranges are millions of years apart in age.",
+    "fact": "The Rocky Mountains formed only about 55 to 80 million years ago, making them far younger than the Appalachians on the continent's other coast, which are more than five times older.",
+    "tags": [
+      "north-america",
+      "mountains"
+    ]
+  },
+  {
+    "id": "geography-093",
+    "domain": "geography",
+    "hook": "One river system drains nearly a third of the United States.",
+    "fact": "The Mississippi River's watershed covers all or part of 31 US states, plus small portions of Canada, making it one of the largest drainage basins on Earth.",
+    "tags": [
+      "north-america",
+      "rivers"
+    ]
+  },
+  {
+    "id": "geography-094",
+    "domain": "geography",
+    "hook": "One of Florida's defining features isn't a swamp — it's a river.",
+    "fact": "The Everglades is technically a slow-moving, wide, shallow river, often called a 'river of grass,' flowing almost imperceptibly across a vast limestone shelf toward the sea.",
+    "tags": [
+      "north-america",
+      "wetlands"
+    ]
+  },
+  {
+    "id": "geography-095",
+    "domain": "geography",
+    "hook": "A quarter of the Northern Hemisphere's land sits on ground that never fully thaws.",
+    "fact": "Permafrost underlies roughly a quarter of land in the Northern Hemisphere and locks away vast stores of ancient carbon that has been frozen for thousands of years.",
+    "whyItMatters": "As permafrost thaws with rising temperatures, it can release that stored carbon as greenhouse gases, accelerating global warming further.",
+    "tags": [
+      "climate",
+      "environment"
+    ]
+  },
+  {
+    "id": "geography-096",
+    "domain": "geography",
+    "hook": "Earth's largest land biome isn't a rainforest or a desert.",
+    "fact": "The taiga, or boreal forest, forms a nearly unbroken band of coniferous trees across Russia, Scandinavia, Canada, and Alaska, making it the largest land biome on the planet by area.",
+    "tags": [
+      "biomes",
+      "climate"
+    ]
+  },
+  {
+    "id": "geography-097",
+    "domain": "geography",
+    "hook": "One biome covers both the Arctic and the tops of tropical mountains.",
+    "fact": "Tundra, defined by permafrost and short growing seasons, isn't limited to polar regions — alpine tundra appears on high mountain slopes worldwide, wherever elevation mimics the cold of the far north.",
+    "tags": [
+      "biomes",
+      "climate"
+    ]
+  },
+  {
+    "id": "geography-098",
+    "domain": "geography",
+    "hook": "One grassland hosts the largest land mammal migration on Earth.",
+    "fact": "East Africa's Serengeti ecosystem is a classic savanna biome, and each year roughly two million wildebeest, zebra, and gazelle migrate across it in search of fresh grazing and water.",
+    "tags": [
+      "africa",
+      "biomes"
+    ]
+  },
+  {
+    "id": "geography-099",
+    "domain": "geography",
+    "hook": "Some regions get almost all their yearly rainfall in just a few months.",
+    "fact": "The South Asian monsoon is a seasonal reversal of wind patterns that delivers the vast majority of the region's annual rainfall in a concentrated summer window, shaping agriculture for over a billion people.",
+    "tags": [
+      "asia",
+      "climate"
+    ]
+  },
+  {
+    "id": "geography-100",
+    "domain": "geography",
+    "hook": "Warmer water in one patch of the Pacific can shift weather worldwide.",
+    "fact": "El Niño is a periodic warming of surface waters in the central and eastern Pacific Ocean that disrupts atmospheric circulation patterns, triggering droughts, floods, and temperature swings across multiple continents.",
+    "whyItMatters": "El Niño events can devastate crop yields and fisheries in affected regions, making them a major factor in global food prices.",
+    "tags": [
+      "oceans",
+      "climate"
+    ]
+  },
+  {
+    "id": "geography-101",
+    "domain": "geography",
+    "hook": "Coral turns white when it's under stress, not when it dies.",
+    "fact": "Coral bleaching happens when heat-stressed corals expel the colorful algae living in their tissue, leaving behind a stark white skeleton — the coral isn't dead yet, but it's starving and vulnerable.",
+    "whyItMatters": "Repeated bleaching events, driven by warming oceans, threaten reef ecosystems that support roughly a quarter of all marine species.",
+    "tags": [
+      "oceans",
+      "environment"
+    ]
+  },
+  {
+    "id": "geography-102",
+    "domain": "geography",
+    "hook": "All of today's continents were once fused into a single landmass.",
+    "fact": "Around 200 million years ago, the supercontinent Pangaea began splitting apart, and the pieces have been drifting into their current configuration ever since — a process that continues today.",
+    "tags": [
+      "tectonics",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-103",
+    "domain": "geography",
+    "hook": "The ground beneath your feet is riding on a moving plate.",
+    "fact": "Earth's outer shell is broken into large tectonic plates that drift atop the semi-molten mantle below, and their collisions, separations, and sideways grinding are what cause most earthquakes, volcanoes, and mountain-building on the planet.",
+    "tags": [
+      "tectonics"
+    ]
+  },
+  {
+    "id": "geography-104",
+    "domain": "geography",
+    "hook": "We've mapped more of Mars than the bottom of our own oceans.",
+    "fact": "The world's oceans average about 3,700 meters deep, and a large majority of the ocean floor remains unmapped in detail, even though satellite imagery has charted the surface of Mars far more thoroughly.",
+    "tags": [
+      "oceans",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-105",
+    "domain": "geography",
+    "hook": "One bay has the most extreme tides on the planet.",
+    "fact": "Canada's Bay of Fundy experiences the highest tidal range in the world, with water levels differing by as much as 16 meters between high and low tide.",
+    "tags": [
+      "north-america",
+      "oceans"
+    ]
+  },
+  {
+    "id": "geography-106",
+    "domain": "geography",
+    "hook": "There's a perfectly round hole in the ocean visible from a plane.",
+    "fact": "The Great Blue Hole off the coast of Belize is a giant marine sinkhole about 300 meters across and over 120 meters deep, formed as a limestone cave that collapsed and flooded during past ice ages.",
+    "tags": [
+      "water",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-107",
+    "domain": "geography",
+    "hook": "One island is so isolated that a third of its plants exist nowhere else.",
+    "fact": "Yemen's Socotra Island has been separated from the mainland for millions of years, allowing roughly a third of its plant species — including the umbrella-shaped dragon's blood tree — to evolve in complete isolation.",
+    "tags": [
+      "asia",
+      "biomes"
+    ]
+  },
+  {
+    "id": "geography-108",
+    "domain": "geography",
+    "hook": "One country is slowly ripping itself in half.",
+    "fact": "Iceland sits directly on top of the Mid-Atlantic Ridge, the only place where this underwater mountain range rises above sea level, and the island is gradually splitting apart as the North American and Eurasian plates pull away from each other by a couple of centimeters a year.",
+    "tags": [
+      "europe",
+      "tectonics"
+    ]
+  },
+  {
+    "id": "geography-109",
+    "domain": "geography",
+    "hook": "Most glaciers are shrinking. This one is growing.",
+    "fact": "Patagonia's Perito Moreno Glacier is one of the few glaciers on Earth that has remained broadly stable or advancing in recent decades, even as the vast majority of the world's glaciers retreat.",
+    "tags": [
+      "south-america",
+      "glaciers"
+    ]
+  },
+  {
+    "id": "geography-110",
+    "domain": "geography",
+    "hook": "One lake holds more surface area than any other on Earth.",
+    "fact": "Lake Superior, bordering the US and Canada, is the largest freshwater lake in the world by surface area, covering roughly 82,000 square kilometers.",
+    "tags": [
+      "north-america",
+      "lakes"
+    ]
+  },
+  {
+    "id": "geography-111",
+    "domain": "geography",
+    "hook": "Astronauts use one desert landmark to help orient themselves from orbit.",
+    "fact": "Mauritania's Richat Structure, nicknamed the 'Eye of the Sahara,' is a roughly 40-kilometer-wide circular rock formation so distinct it's visible from space — once thought to be an impact crater, it's now understood to be an eroded geological dome.",
+    "tags": [
+      "africa",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-112",
+    "domain": "geography",
+    "hook": "Thousands of limestone towers rise straight out of the sea in one bay.",
+    "fact": "Vietnam's Ha Long Bay contains thousands of limestone karst islands and pillars, sculpted over millions of years by water erosion, creating a landscape of steep, forested spires rising from emerald water.",
+    "tags": [
+      "asia",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-113",
+    "domain": "geography",
+    "hook": "One salt flat turns into the world's largest mirror after it rains.",
+    "fact": "Bolivia's Salar de Uyuni is the largest salt flat on Earth, and when a thin layer of rainwater covers its surface, it reflects the sky so perfectly that the horizon seems to disappear.",
+    "tags": [
+      "south-america",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-114",
+    "domain": "geography",
+    "hook": "A forest of stone pillars in China inspired a fictional floating mountain range.",
+    "fact": "Zhangjiajie National Forest Park in China features thousands of tall, narrow sandstone pillars carved out over millions of years by erosion, and its otherworldly scenery served as visual inspiration for the floating mountains in the film Avatar.",
+    "tags": [
+      "asia",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-115",
+    "domain": "geography",
+    "hook": "Some crystals in one Mexican cave are longer than a school bus.",
+    "fact": "The Cave of Crystals in Naica, Mexico, contains some of the largest natural crystals ever discovered — translucent selenite beams up to around 12 meters long, grown over hundreds of thousands of years in a naturally superheated, mineral-saturated chamber.",
+    "tags": [
+      "north-america",
+      "caves"
+    ]
+  },
+  {
+    "id": "geography-116",
+    "domain": "geography",
+    "hook": "A volcano was born in a cornfield and scientists watched the whole thing.",
+    "fact": "In 1943, a Mexican farmer watched a fissure open in his cornfield and begin spewing ash and lava; within a year it had grown into the 336-meter Paricutin volcano, giving researchers a rare, fully documented record of a volcano's entire life cycle.",
+    "tags": [
+      "north-america",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "geography-117",
+    "domain": "geography",
+    "hook": "Bolivia has two capital cities.",
+    "fact": "Sucre is Bolivia's constitutional and judicial capital, while La Paz — sitting nearly 4,000 meters up in the Andes — serves as the seat of government, hosting the executive and legislative branches.",
+    "tags": [
+      "capitals",
+      "south-america"
+    ]
+  },
+  {
+    "id": "geography-118",
+    "domain": "geography",
+    "hook": "South Africa runs on three capital cities at once.",
+    "fact": "Pretoria handles the executive branch, Cape Town hosts parliament, and Bloemfontein is home to the highest court of appeal — a split dating back to a 1910 compromise between rival colonies.",
+    "tags": [
+      "capitals",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-119",
+    "domain": "geography",
+    "hook": "A country's government moved into a brand-new capital almost overnight.",
+    "fact": "Myanmar's military rulers relocated the capital from Yangon to the purpose-built city of Naypyidaw in 2005, reportedly transferring ministries with little public announcement beforehand.",
+    "tags": [
+      "capitals",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-120",
+    "domain": "geography",
+    "hook": "Nigeria's capital used to be its biggest coastal city.",
+    "fact": "Nigeria officially moved its capital from Lagos to the newly constructed Abuja in 1991, choosing a more centrally located site meant to feel neutral among the country's many ethnic groups.",
+    "tags": [
+      "capitals",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-121",
+    "domain": "geography",
+    "hook": "Brazil's capital was built from scratch on empty savanna.",
+    "fact": "Brasília was constructed in under four years and inaugurated in 1960; planner Lúcio Costa laid the city out in a shape often described as resembling an airplane or a bird in flight.",
+    "tags": [
+      "capitals",
+      "south-america"
+    ]
+  },
+  {
+    "id": "geography-122",
+    "domain": "geography",
+    "hook": "Pakistan swapped its capital for a city built specifically for the job.",
+    "fact": "Islamabad was constructed in the 1960s to replace Karachi as Pakistan's capital, chosen for its proximity to the military headquarters in nearby Rawalpindi.",
+    "tags": [
+      "capitals",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-123",
+    "domain": "geography",
+    "hook": "Canberra exists because two cities couldn't agree who deserved to be capital.",
+    "fact": "When Australia federated, Sydney and Melbourne both wanted to be the capital, so the government built Canberra as a compromise city roughly halfway between them.",
+    "tags": [
+      "capitals",
+      "australia"
+    ]
+  },
+  {
+    "id": "geography-124",
+    "domain": "geography",
+    "hook": "Sri Lanka's official capital isn't the city everyone's heard of.",
+    "fact": "Sri Jayawardenepura Kotte, a suburb of Colombo, has been Sri Lanka's official capital since 1982, even though Colombo remains the country's largest city and commercial center.",
+    "tags": [
+      "capitals",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-125",
+    "domain": "geography",
+    "hook": "Ivory Coast's capital isn't its biggest or best-known city.",
+    "fact": "Yamoussoukro, the birthplace of the country's first president, has been Ivory Coast's official capital since 1983, while Abidjan remains the far larger economic hub.",
+    "tags": [
+      "capitals",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-126",
+    "domain": "geography",
+    "hook": "Tanzania's capital on paper isn't where most of the government actually works.",
+    "fact": "Dodoma was designated Tanzania's official capital in 1973, but many ministries and embassies remained in Dar es Salaam, the country's largest city, for decades afterward.",
+    "tags": [
+      "capitals",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-127",
+    "domain": "geography",
+    "hook": "Switzerland technically has no official capital.",
+    "fact": "Bern is only Switzerland's 'federal city' by long-standing custom — the Swiss constitution never formally designates a national capital.",
+    "tags": [
+      "capitals",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-128",
+    "domain": "geography",
+    "hook": "One country's capital has changed its name three times since the 1990s.",
+    "fact": "Kazakhstan's capital was renamed from Akmola to Astana in 1998, to Nur-Sultan in 2019 in honor of former president Nursultan Nazarbayev, and back to Astana in 2022 after his fall from favor.",
+    "tags": [
+      "capitals",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-129",
+    "domain": "geography",
+    "hook": "A chunk of Russia is completely cut off from the rest of Russia.",
+    "fact": "Kaliningrad, a Russian region on the Baltic Sea, is separated from the Russian mainland by Poland and Lithuania, making it one of the world's most geopolitically sensitive exclaves.",
+    "tags": [
+      "exclaves",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-130",
+    "domain": "geography",
+    "hook": "One of Angola's provinces isn't attached to Angola.",
+    "fact": "Cabinda, an oil-rich Angolan province, is physically separated from the rest of the country by a strip of the Democratic Republic of the Congo.",
+    "tags": [
+      "exclaves",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-131",
+    "domain": "geography",
+    "hook": "Part of Azerbaijan can only be reached by crossing another country.",
+    "fact": "Nakhchivan, an Azerbaijani exclave, is cut off from the rest of Azerbaijan by Armenian territory, with only narrow borders touching Turkey and Iran.",
+    "tags": [
+      "exclaves",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-132",
+    "domain": "geography",
+    "hook": "A Spanish town sits entirely inside France.",
+    "fact": "Llívia, a small Spanish municipality in the Pyrenees, has been surrounded completely by French territory since a 17th-century treaty accidentally left it out of the land ceded to France.",
+    "tags": [
+      "exclaves",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-133",
+    "domain": "geography",
+    "hook": "One border runs straight through people's living rooms.",
+    "fact": "The Dutch-Belgian border town of Baarle is split into dozens of interlocking enclaves — some buildings have the international boundary marked right across the floor, determining which country's laws apply to which room.",
+    "tags": [
+      "borders",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-134",
+    "domain": "geography",
+    "hook": "A piece of the United States can only be reached by driving through Canada.",
+    "fact": "Point Roberts, Washington, sits on a peninsula that dips below the 49th parallel, so the only way to drive there from the rest of the US is through British Columbia.",
+    "tags": [
+      "exclaves",
+      "north-america"
+    ]
+  },
+  {
+    "id": "geography-135",
+    "domain": "geography",
+    "hook": "Part of Oman is walled off from Oman by the UAE.",
+    "fact": "The Musandam Peninsula, an Omani exclave overlooking the Strait of Hormuz, is separated from the rest of the country by a stretch of United Arab Emirates territory.",
+    "tags": [
+      "exclaves",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-136",
+    "domain": "geography",
+    "hook": "The world's most heavily fortified border is also an accidental wildlife sanctuary.",
+    "fact": "The Korean Demilitarized Zone has seen almost no human development since 1953, letting rare species like cranes and Asiatic black bears thrive in the buffer strip between North and South Korea.",
+    "tags": [
+      "borders",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-137",
+    "domain": "geography",
+    "hook": "The world's longest international border isn't in Asia or Africa.",
+    "fact": "The US-Canada border stretches about 8,891 kilometers, including the Alaska section, making it the longest shared land border between any two countries.",
+    "tags": [
+      "borders",
+      "north-america"
+    ]
+  },
+  {
+    "id": "geography-138",
+    "domain": "geography",
+    "hook": "Many African borders are perfectly straight lines for a troubling reason.",
+    "fact": "European colonial powers carved up much of Africa with rulers at conferences like the 1884-85 Berlin Conference, drawing borders that ignored existing ethnic, linguistic, and geographic boundaries entirely.",
+    "tags": [
+      "borders",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-139",
+    "domain": "geography",
+    "hook": "One capital city is still split in two by an international border.",
+    "fact": "Nicosia, Cyprus's capital, has remained divided between the internationally recognized Republic of Cyprus and Turkish-controlled Northern Cyprus since 1974, making it the world's last divided capital.",
+    "tags": [
+      "capitals",
+      "borders",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-140",
+    "domain": "geography",
+    "hook": "A narrow channel almost triggered a war between two South American neighbors.",
+    "fact": "Argentina and Chile came close to armed conflict in 1978 over three islands in the Beagle Channel before Pope John Paul II mediated a resolution in 1984.",
+    "tags": [
+      "borders",
+      "south-america"
+    ]
+  },
+  {
+    "id": "geography-141",
+    "domain": "geography",
+    "hook": "China runs entirely on a single time zone despite its size.",
+    "fact": "China spans a longitude that would naturally cover five geographic time zones, but the whole country officially uses just one: Beijing Time.",
+    "tags": [
+      "time",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-142",
+    "domain": "geography",
+    "hook": "One country claims more time zones than any other.",
+    "fact": "France technically covers 12 time zones once its scattered overseas territories are counted, from French Polynesia in the Pacific to French Guiana in South America.",
+    "whyItMatters": "It's a living reminder of how far colonial-era territory still shapes a modern country's global footprint.",
+    "tags": [
+      "time",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-143",
+    "domain": "geography",
+    "hook": "A country moved the International Date Line just to keep its own calendar in sync.",
+    "fact": "Kiribati shifted its portion of the date line eastward in 1995 so its far-flung islands could share the same date, positioning itself among the first places on Earth to greet each new day.",
+    "tags": [
+      "time",
+      "oceania"
+    ]
+  },
+  {
+    "id": "geography-144",
+    "domain": "geography",
+    "hook": "One country's clocks are set 45 minutes off standard time.",
+    "fact": "Nepal runs on UTC+5:45, one of only a small handful of places in the world using a time zone offset in 45-minute increments rather than the usual 30 or 60.",
+    "tags": [
+      "time",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-145",
+    "domain": "geography",
+    "hook": "The world's most densely packed country is barely bigger than a park.",
+    "fact": "Monaco is the most densely populated sovereign country on Earth, squeezing tens of thousands of residents onto roughly two square kilometers along the Mediterranean coast.",
+    "tags": [
+      "population",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-146",
+    "domain": "geography",
+    "hook": "One country has more empty space per person than almost anywhere else.",
+    "fact": "Mongolia is the least densely populated sovereign country in the world, with vast stretches of steppe holding only a handful of people per square kilometer.",
+    "tags": [
+      "population",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-147",
+    "domain": "geography",
+    "hook": "There's a country believed to have essentially no native-born citizens.",
+    "fact": "Vatican City has no maternity facilities and almost no permanent families — its population is made up mostly of clergy, Swiss Guards, and officials, so it's believed to have never recorded a birth in its modern history.",
+    "tags": [
+      "population",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-148",
+    "domain": "geography",
+    "hook": "One metropolitan area is home to more people than most entire countries.",
+    "fact": "Greater Tokyo is the largest metropolitan area in the world by population, home to well over 30 million people across its urban sprawl.",
+    "tags": [
+      "cities",
+      "population",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-149",
+    "domain": "geography",
+    "hook": "Lagos is on track to become one of the largest cities on Earth.",
+    "fact": "Nigeria's largest city has grown explosively from a modest port town decades ago into one of Africa's biggest megacities, and demographers expect it to keep expanding faster than almost any other major city worldwide.",
+    "tags": [
+      "cities",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-150",
+    "domain": "geography",
+    "hook": "One territory is more crowded than anywhere else on the planet.",
+    "fact": "Macau has the highest population density of any territory in the world, packing an enormous number of residents into a strip of land smaller than most cities' downtown districts.",
+    "tags": [
+      "population",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-151",
+    "domain": "geography",
+    "hook": "The world's largest island has a population smaller than many small towns.",
+    "fact": "Greenland covers over two million square kilometers but is home to only around 56,000 people, most of them living along the ice-free southwestern coast.",
+    "tags": [
+      "population",
+      "north-america"
+    ]
+  },
+  {
+    "id": "geography-152",
+    "domain": "geography",
+    "hook": "One island's political status remains one of the world's touchiest geopolitical questions.",
+    "fact": "Taiwan governs itself with its own military, currency, and elected government, but most countries avoid formally recognizing it as independent to maintain relations with China.",
+    "whyItMatters": "The ambiguity underpins one of the most closely watched flashpoints in global politics, tied to everything from military alliances to the global semiconductor supply chain.",
+    "tags": [
+      "geopolitics",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-153",
+    "domain": "geography",
+    "hook": "A country declared independence in 2008 and still isn't fully recognized.",
+    "fact": "Kosovo declared independence from Serbia in 2008; more than 100 countries recognize it, but Serbia, Russia, China, and several EU members, including Spain, still do not.",
+    "tags": [
+      "geopolitics",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-154",
+    "domain": "geography",
+    "hook": "Africa's last unresolved colonial-era territorial dispute is still unsettled.",
+    "fact": "Western Sahara remains disputed between Morocco, which controls most of it, and the Polisario Front, which seeks independence for the Sahrawi people — a standoff that has lasted since Spain withdrew in 1975.",
+    "whyItMatters": "The dispute has stalled development of valuable phosphate deposits and fishing waters and keeps thousands of Sahrawi refugees in camps in Algeria.",
+    "tags": [
+      "disputes",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-155",
+    "domain": "geography",
+    "hook": "There's an entire continent that no country owns.",
+    "fact": "The 1959 Antarctic Treaty set the continent aside for peaceful scientific research and froze all existing territorial claims, meaning no nation legally owns any part of Antarctica.",
+    "whyItMatters": "As melting ice exposes potential mineral and fishing resources, pressure on that decades-old freeze is expected to grow.",
+    "tags": [
+      "geopolitics",
+      "antarctica"
+    ]
+  },
+  {
+    "id": "geography-156",
+    "domain": "geography",
+    "hook": "One remote archipelago lets citizens of dozens of countries live there visa-free.",
+    "fact": "Under the 1920 Svalbard Treaty, citizens of any signatory nation can live and work on the Norwegian-administered archipelago without a visa, a rare arrangement in international law.",
+    "tags": [
+      "geopolitics",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-157",
+    "domain": "geography",
+    "hook": "Two islands just 3.8 kilometers apart can be nearly a day apart in time.",
+    "fact": "Big Diomede belongs to Russia and Little Diomede to the United States, separated by a narrow strait — but because the International Date Line runs between them, the islands are often 21 hours apart.",
+    "tags": [
+      "borders",
+      "time"
+    ]
+  },
+  {
+    "id": "geography-158",
+    "domain": "geography",
+    "hook": "The EU's only land border with Africa runs through two small Spanish cities.",
+    "fact": "Ceuta and Melilla, Spanish autonomous cities on Morocco's coast, give the European Union its only land borders with the African continent, fenced and heavily patrolled.",
+    "tags": [
+      "borders",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-159",
+    "domain": "geography",
+    "hook": "Only one national flag isn't a rectangle.",
+    "fact": "Nepal's flag is made of two stacked triangular pennants, the only national flag in the world with a non-rectangular shape.",
+    "tags": [
+      "flags",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-160",
+    "domain": "geography",
+    "hook": "One national flag used to be a single solid color with no design at all.",
+    "fact": "From 1977 to 2011, Libya's flag under Muammar Gaddafi was plain green with no emblem, stripe, or symbol — the only national flag in modern history to feature just one solid color.",
+    "tags": [
+      "flags",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-161",
+    "domain": "geography",
+    "hook": "One European country is landlocked by other landlocked countries.",
+    "fact": "Liechtenstein is one of only two 'doubly landlocked' countries in the world — it's entirely surrounded by Switzerland and Austria, both of which are themselves landlocked.",
+    "tags": [
+      "countries",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-162",
+    "domain": "geography",
+    "hook": "There's only one other doubly landlocked country besides Liechtenstein.",
+    "fact": "Uzbekistan is the world's other doubly landlocked country, bordered exclusively by Kazakhstan, Turkmenistan, Tajikistan, Kyrgyzstan, and Afghanistan.",
+    "tags": [
+      "countries",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-163",
+    "domain": "geography",
+    "hook": "One country has two foreign heads of state as its co-rulers.",
+    "fact": "Andorra is jointly ruled by two co-princes: the President of France and the Bishop of Urgell in Spain, a leftover from a medieval feudal agreement that's still technically in force.",
+    "tags": [
+      "countries",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-164",
+    "domain": "geography",
+    "hook": "One country claims to be the oldest republic still in existence.",
+    "fact": "San Marino traces its founding to 301 CE, and the tiny microstate maintains it has been continuously self-governing ever since, making it one of the world's oldest surviving states.",
+    "tags": [
+      "countries",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-165",
+    "domain": "geography",
+    "hook": "One country has had no army for over 75 years.",
+    "fact": "Costa Rica abolished its military entirely in 1948, redirecting the funds toward education and healthcare, and has had no standing armed forces since.",
+    "tags": [
+      "countries",
+      "geopolitics"
+    ]
+  },
+  {
+    "id": "geography-166",
+    "domain": "geography",
+    "hook": "The world's smallest country has one of its oldest active armies.",
+    "fact": "The Vatican's Swiss Guard has protected the pope since 1506, making it one of the oldest continuously operating military units still in service anywhere in the world.",
+    "tags": [
+      "countries",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-167",
+    "domain": "geography",
+    "hook": "There's a country most of the world doesn't officially recognize but functions like one anyway.",
+    "fact": "Transnistria, a strip of land between Moldova and Ukraine, has run its own government, currency, and army since the early 1990s despite no UN member state recognizing it as independent.",
+    "whyItMatters": "It remains one of Europe's most enduring 'frozen conflicts,' with Russian troops still stationed there decades after the ceasefire.",
+    "tags": [
+      "disputes",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-168",
+    "domain": "geography",
+    "hook": "One breakaway territory has run its own affairs for over 30 years without recognition.",
+    "fact": "Somaliland has functioned as a self-governing, de facto independent state since 1991, with its own currency, passport, and elections, yet it's still officially considered part of Somalia by the international community.",
+    "whyItMatters": "Its stability and strategic location on the Gulf of Aden have drawn quiet foreign investment despite the lack of formal recognition.",
+    "tags": [
+      "disputes",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-169",
+    "domain": "geography",
+    "hook": "The world's most populous country title changed hands recently.",
+    "fact": "India overtook China to become the world's most populous country around 2023, ending decades of China holding the top spot.",
+    "tags": [
+      "population",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-170",
+    "domain": "geography",
+    "hook": "The world's newest widely recognized country is barely a teenager.",
+    "fact": "South Sudan became independent from Sudan in 2011 after decades of civil war, making it the youngest country recognized by the United Nations.",
+    "tags": [
+      "countries",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-171",
+    "domain": "geography",
+    "hook": "One Southeast Asian nation only became independent in this century.",
+    "fact": "East Timor gained full independence from Indonesia in 2002, following a long Portuguese colonial period and a brutal Indonesian occupation, making it one of Asia's newest nations.",
+    "tags": [
+      "countries",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-172",
+    "domain": "geography",
+    "hook": "A country changed its name to end a decades-long dispute with a neighbor.",
+    "fact": "Macedonia officially renamed itself North Macedonia in 2019 under the Prespa Agreement, resolving a long-running naming dispute with Greece that had blocked its path to EU and NATO membership.",
+    "tags": [
+      "countries",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-173",
+    "domain": "geography",
+    "hook": "One country was renamed by royal decree to avoid confusion with Switzerland.",
+    "fact": "Swaziland was officially renamed Eswatini in 2018 by King Mswati III, partly to shed a name frequently mixed up with Switzerland on the world stage.",
+    "tags": [
+      "countries",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-174",
+    "domain": "geography",
+    "hook": "One country split peacefully into two nations in a single year.",
+    "fact": "Czechoslovakia dissolved into the Czech Republic and Slovakia in 1993 without violence, an event so amicable it's often called the 'Velvet Divorce.'",
+    "tags": [
+      "countries",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-175",
+    "domain": "geography",
+    "hook": "One country's breakup eventually produced seven new nations.",
+    "fact": "The former Yugoslavia splintered through the 1990s and 2000s into Slovenia, Croatia, Bosnia and Herzegovina, Serbia, Montenegro, North Macedonia, and Kosovo.",
+    "tags": [
+      "countries",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-176",
+    "domain": "geography",
+    "hook": "One country's collapse in 1991 created 15 new nations overnight.",
+    "fact": "The dissolution of the Soviet Union produced 15 newly independent countries, from the Baltic states to the Central Asian republics, reshaping the map of Europe and Asia almost instantly.",
+    "tags": [
+      "countries",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-177",
+    "domain": "geography",
+    "hook": "Millions of US citizens can't vote for president while living in their own country.",
+    "fact": "Puerto Ricans are US citizens, but residents of the island cannot vote in presidential elections and have no voting representation in Congress.",
+    "whyItMatters": "The arrangement fuels an ongoing political debate over statehood, independence, or the territory's current commonwealth status.",
+    "tags": [
+      "geopolitics",
+      "north-america"
+    ]
+  },
+  {
+    "id": "geography-178",
+    "domain": "geography",
+    "hook": "Not everyone born under the US flag is a full US citizen.",
+    "fact": "People born in American Samoa are classified as US nationals rather than full citizens, a unique legal status among all US territories.",
+    "tags": [
+      "geopolitics",
+      "oceania"
+    ]
+  },
+  {
+    "id": "geography-179",
+    "domain": "geography",
+    "hook": "Two Danish territories sit outside the European Union.",
+    "fact": "The Faroe Islands and Greenland are both part of the Kingdom of Denmark, but each has opted to remain outside the European Union even though Denmark itself is a member.",
+    "tags": [
+      "geopolitics",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-180",
+    "domain": "geography",
+    "hook": "One region has been legally forbidden from having an army for over 150 years.",
+    "fact": "Åland, an autonomous, Swedish-speaking region of Finland, has been demilitarized under international treaty since the 19th century, a status reaffirmed multiple times since.",
+    "tags": [
+      "geopolitics",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-181",
+    "domain": "geography",
+    "hook": "Two countries still dispute a set of islands that sparked a war in 1982.",
+    "fact": "The Falkland Islands are a British Overseas Territory in the South Atlantic that Argentina claims as the Islas Malvinas, a dispute that escalated into armed conflict in 1982.",
+    "tags": [
+      "disputes",
+      "south-america"
+    ]
+  },
+  {
+    "id": "geography-182",
+    "domain": "geography",
+    "hook": "One airport's runway is crossed by the main road into town.",
+    "fact": "Gibraltar's airport runway intersects Winston Churchill Avenue, the territory's principal road, so traffic barriers stop cars whenever a plane needs to take off or land.",
+    "tags": [
+      "borders",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-183",
+    "domain": "geography",
+    "hook": "Two Chinese cities run on entirely different legal and economic systems than the mainland.",
+    "fact": "Hong Kong and Macau operate under a 'one country, two systems' framework, retaining their own currencies, legal systems, and border controls separate from mainland China.",
+    "tags": [
+      "geopolitics",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-184",
+    "domain": "geography",
+    "hook": "One island is legally off-limits to outsiders to protect its residents.",
+    "fact": "North Sentinel Island in India's Andaman chain is home to the Sentinelese, an isolated tribe that has resisted outside contact for thousands of years; Indian law bans anyone from approaching the island.",
+    "whyItMatters": "The restriction exists largely to protect the tribe from diseases they have no immunity to, which could wipe out the population on contact.",
+    "tags": [
+      "islands",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-185",
+    "domain": "geography",
+    "hook": "One British territory has one of the smallest populations of any place on Earth.",
+    "fact": "The Pitcairn Islands, settled originally by mutineers from HMS Bounty, are home to only around 40 people today, making it one of the least populated jurisdictions in the world.",
+    "tags": [
+      "islands",
+      "oceania"
+    ]
+  },
+  {
+    "id": "geography-186",
+    "domain": "geography",
+    "hook": "The most remote inhabited place on Earth is a tiny volcanic archipelago.",
+    "fact": "Tristan da Cunha, a British territory in the South Atlantic, sits more than 2,400 kilometers from the nearest inhabited land, making it the most isolated permanently inhabited archipelago on the planet.",
+    "tags": [
+      "islands"
+    ]
+  },
+  {
+    "id": "geography-187",
+    "domain": "geography",
+    "hook": "A WWII sea fort declared itself an independent country.",
+    "fact": "Sealand, a former anti-aircraft platform built off the English coast during World War II, has operated as a self-declared micronation since 1967, complete with its own flag, currency, and passports — though no country recognizes it.",
+    "tags": [
+      "micronations",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-188",
+    "domain": "geography",
+    "hook": "One organization issues its own passports and license plates without owning any territory.",
+    "fact": "The Sovereign Military Order of Malta holds permanent observer status at the United Nations and issues its own diplomatic passports and vehicle plates from its headquarters in Rome, despite having no territory of its own.",
+    "tags": [
+      "geopolitics",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-189",
+    "domain": "geography",
+    "hook": "One country has never bothered to name an official capital.",
+    "fact": "Nauru, the world's third-smallest country, has no officially designated capital; government offices are simply clustered in the district of Yaren.",
+    "tags": [
+      "countries",
+      "oceania"
+    ]
+  },
+  {
+    "id": "geography-190",
+    "domain": "geography",
+    "hook": "One tiny Pacific nation makes real money off its internet domain.",
+    "fact": "Tuvalu licenses its country-code domain, .tv, to media and streaming companies worldwide, generating a meaningful stream of national revenue for one of the smallest economies on Earth.",
+    "whyItMatters": "With rising seas threatening to submerge much of the low-lying nation, digital revenue like this has become an unusually important lifeline.",
+    "tags": [
+      "countries",
+      "oceania"
+    ]
+  },
+  {
+    "id": "geography-191",
+    "domain": "geography",
+    "hook": "One country formally asked the world to stop calling it by its English name.",
+    "fact": "Turkey requested in 2022 that the United Nations and other bodies use 'Türkiye' instead of 'Turkey' in official contexts, partly to distance the name from the English word for the bird.",
+    "tags": [
+      "countries",
+      "geopolitics"
+    ]
+  },
+  {
+    "id": "geography-192",
+    "domain": "geography",
+    "hook": "Thousands of people once lived in pockets of one country stranded inside another.",
+    "fact": "Until 2015, India and Bangladesh shared the world's most complex enclave system, with over 100 tiny pockets of each country's territory scattered inside the other, some containing enclaves of their own within enclaves.",
+    "whyItMatters": "A 2015 land-swap agreement finally exchanged the territories, ending decades in which many residents lived effectively without full access to citizenship, schools, or utilities.",
+    "tags": [
+      "borders",
+      "exclaves",
+      "asia"
+    ]
+  },
+  {
+    "id": "geography-193",
+    "domain": "geography",
+    "hook": "Two cities compete for the title of the world's southernmost city.",
+    "fact": "Argentina's Ushuaia has long marketed itself as the southernmost city on Earth, but Chile's Puerto Williams, reclassified from a town to a city in 2019, actually sits farther south.",
+    "tags": [
+      "cities",
+      "south-america"
+    ]
+  },
+  {
+    "id": "geography-194",
+    "domain": "geography",
+    "hook": "The world's northernmost town with year-round residents is deep in the Arctic.",
+    "fact": "Longyearbyen, on Norway's Svalbard archipelago, is home to roughly 2,400 people and is the northernmost settlement on Earth with a permanent civilian population.",
+    "tags": [
+      "cities",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-195",
+    "domain": "geography",
+    "hook": "There's a fictional island at the exact center of the world map.",
+    "fact": "Null Island is a joke placeholder for coordinates 0° latitude, 0° longitude — a point in the Atlantic Ocean where mapping software often dumps broken location data, prompting NOAA to actually anchor a monitoring buoy there.",
+    "tags": [
+      "maps",
+      "trivia"
+    ]
+  },
+  {
+    "id": "geography-196",
+    "domain": "geography",
+    "hook": "'Holland' isn't actually the name of the whole country.",
+    "fact": "Holland technically refers to just two of the Netherlands' twelve provinces, North Holland and South Holland; the Dutch government even launched a campaign in 2020 to retire 'Holland' as a nickname for the whole country.",
+    "tags": [
+      "countries",
+      "europe"
+    ]
+  },
+  {
+    "id": "geography-197",
+    "domain": "geography",
+    "hook": "One country is literally named after its location on the globe.",
+    "fact": "Ecuador is the Spanish word for 'equator,' and the line itself runs just north of the capital, Quito, where a monument marks the crossing.",
+    "tags": [
+      "countries",
+      "south-america"
+    ]
+  },
+  {
+    "id": "geography-198",
+    "domain": "geography",
+    "hook": "One landlocked country has six different neighbors.",
+    "fact": "Chad, entirely landlocked in central Africa, shares borders with Libya, Sudan, the Central African Republic, Cameroon, Nigeria, and Niger.",
+    "tags": [
+      "countries",
+      "africa"
+    ]
+  },
+  {
+    "id": "geography-199",
+    "domain": "geography",
+    "hook": "Two countries are tied for having the most land neighbors on Earth.",
+    "fact": "China and Russia each border 14 other countries, more than any other nation, a reflection of their sheer size and sprawling frontiers.",
+    "tags": [
+      "countries",
+      "borders"
+    ]
+  },
+  {
+    "id": "geography-200",
+    "domain": "geography",
+    "hook": "The world's smallest country has its own tiny railway.",
+    "fact": "Vatican City is connected to Italy's rail network by a short spur of track roughly 300 meters long, often cited as one of the shortest state railways in the world.",
+    "tags": [
+      "countries",
+      "europe"
+    ]
   }
 ]

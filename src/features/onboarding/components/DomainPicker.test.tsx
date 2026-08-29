@@ -6,7 +6,7 @@ import { renderWithProviders } from '@/test/renderWithProviders'
 import { DomainPicker } from './DomainPicker'
 
 describe('DomainPicker', () => {
-  it('renders all six broad domains', () => {
+  it('renders all eleven broad domains', () => {
     renderWithProviders(<DomainPicker selected={[]} onChange={vi.fn()} />)
     for (const label of [
       'Science',
@@ -15,6 +15,11 @@ describe('DomainPicker', () => {
       'Geography',
       'Culture & Society',
       'Space & Universe',
+      'Language & Etymology',
+      'Psychology & the Mind',
+      'Art & Design',
+      'Food & Cuisine',
+      'Sports & Fitness',
     ]) {
       expect(screen.getByText(label)).toBeInTheDocument()
     }

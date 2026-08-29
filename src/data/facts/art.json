@@ -1,0 +1,2043 @@
+[
+  {
+    "id": "art-001",
+    "domain": "art",
+    "hook": "The Mona Lisa has no eyebrows.",
+    "fact": "Scholars believe Leonardo da Vinci either never painted them, or that they've faded over centuries due to cleaning and aging varnish. Eyebrow-plucking was also fashionable among Florentine women at the time.",
+    "tags": [
+      "renaissance",
+      "leonardo-da-vinci"
+    ]
+  },
+  {
+    "id": "art-002",
+    "domain": "art",
+    "hook": "Van Gogh sold just one painting while he was alive.",
+    "fact": "\"The Red Vineyard\" was purchased in 1890, months before his death, by a Belgian art patron named Anna Boch. He created over 2,000 artworks in his lifetime.",
+    "tags": [
+      "post-impressionism",
+      "van-gogh"
+    ]
+  },
+  {
+    "id": "art-003",
+    "domain": "art",
+    "hook": "Picasso painted Guernica in response to a bombing raid, not a battle.",
+    "fact": "The 1937 mural depicts the aerial bombing of the Basque town of Guernica by German and Italian forces backing Francisco Franco during the Spanish Civil War. Picasso completed the massive canvas in under a month.",
+    "whyItMatters": "Guernica became one of the most enduring anti-war images in history, still invoked in protests and diplomacy today.",
+    "tags": [
+      "cubism",
+      "picasso",
+      "war-art"
+    ]
+  },
+  {
+    "id": "art-004",
+    "domain": "art",
+    "hook": "Michelangelo didn't lie on his back to paint the Sistine Chapel ceiling.",
+    "fact": "He designed custom scaffolding that let him stand upright, tilting his head back to reach the surface above him. The awkward posture still left him with lasting neck and eye strain, which he complained about in his letters.",
+    "tags": [
+      "renaissance",
+      "michelangelo",
+      "sistine-chapel"
+    ]
+  },
+  {
+    "id": "art-005",
+    "domain": "art",
+    "hook": "Edvard Munch's The Scream has been stolen twice.",
+    "fact": "A version was stolen from Norway's National Gallery in 1994 and recovered within months. A second version was stolen at gunpoint from the Munch Museum in 2004 and not recovered until 2006.",
+    "tags": [
+      "expressionism",
+      "munch",
+      "art-theft"
+    ]
+  },
+  {
+    "id": "art-006",
+    "domain": "art",
+    "hook": "Leonardo da Vinci finished almost nothing he started.",
+    "fact": "Perpetually distracted by science, engineering, and anatomy, he left the majority of his commissioned paintings incomplete, including works like Saint Jerome in the Wilderness and the Adoration of the Magi.",
+    "tags": [
+      "renaissance",
+      "leonardo-da-vinci"
+    ]
+  },
+  {
+    "id": "art-007",
+    "domain": "art",
+    "hook": "Rembrandt's \"Night Watch\" isn't actually set at night.",
+    "fact": "The painting's real title is \"Militia Company of District II under the Command of Captain Frans Banning Cocq.\" Centuries of darkened varnish made it look nocturnal, earning it the nickname that stuck.",
+    "tags": [
+      "baroque",
+      "rembrandt"
+    ]
+  },
+  {
+    "id": "art-008",
+    "domain": "art",
+    "hook": "Fewer than 40 paintings by Vermeer are known to exist.",
+    "fact": "Johannes Vermeer worked slowly and meticulously, and his small output combined with a lack of documentation left him largely forgotten for two centuries after his death, until a 19th-century art critic revived interest in his work.",
+    "tags": [
+      "baroque",
+      "vermeer"
+    ]
+  },
+  {
+    "id": "art-009",
+    "domain": "art",
+    "hook": "Caravaggio painted masterpieces while on the run for murder.",
+    "fact": "After killing a man in a brawl in Rome in 1606, Caravaggio fled across Italy, continuing to paint under a death sentence. He died in 1610 under still-unclear circumstances near Porto Ercole, possibly from fever or infection.",
+    "tags": [
+      "baroque",
+      "caravaggio"
+    ]
+  },
+  {
+    "id": "art-010",
+    "domain": "art",
+    "hook": "Michelangelo's David wasn't originally meant to stand in a piazza.",
+    "fact": "The marble giant was commissioned to be placed high on a buttress of Florence Cathedral. A committee of artists, including Leonardo da Vinci, instead decided it deserved a prominent public spot in the Piazza della Signoria.",
+    "tags": [
+      "renaissance",
+      "michelangelo",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-011",
+    "domain": "art",
+    "hook": "The Venus de Milo was found by a farmer digging in a field.",
+    "fact": "A Greek peasant unearthed the statue on the island of Milos in 1820. Her arms were already missing, and no one has definitively determined what she was originally holding.",
+    "tags": [
+      "ancient-greek",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-012",
+    "domain": "art",
+    "hook": "China's Terracotta Army was discovered by accident in 1974.",
+    "fact": "Farmers digging a well near Xi'an struck fragments of the buried army of over 8,000 life-sized clay soldiers, built to guard the tomb of China's first emperor, Qin Shi Huang. Excavation is still ongoing today.",
+    "tags": [
+      "ancient-china",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-013",
+    "domain": "art",
+    "hook": "Egypt has spent decades trying to get a 3,300-year-old bust back from Germany.",
+    "fact": "The painted limestone bust of Queen Nefertiti was excavated by German archaeologists in 1912 and has remained in Berlin's Neues Museum ever since, despite repeated Egyptian requests for its return.",
+    "whyItMatters": "The Nefertiti dispute is one of the longest-running cultural repatriation battles in the world, echoed in similar fights over artifacts held by Western museums.",
+    "tags": [
+      "ancient-egypt",
+      "repatriation"
+    ]
+  },
+  {
+    "id": "art-014",
+    "domain": "art",
+    "hook": "\"Girl with a Pearl Earring\" isn't a portrait of a real, named person.",
+    "fact": "Vermeer's painting is a \"tronie,\" a study of an imagined or idealized face rather than a commissioned portrait. Its dreamlike quality earned it the nickname \"the Mona Lisa of the North.\"",
+    "tags": [
+      "baroque",
+      "vermeer"
+    ]
+  },
+  {
+    "id": "art-015",
+    "domain": "art",
+    "hook": "\"Whistler's Mother\" isn't actually its title.",
+    "fact": "James McNeill Whistler called the 1871 painting \"Arrangement in Grey and Black No. 1: Portrait of the Artist's Mother,\" emphasizing tonal composition over sentimental subject matter.",
+    "tags": [
+      "american-art",
+      "whistler"
+    ]
+  },
+  {
+    "id": "art-016",
+    "domain": "art",
+    "hook": "The couple in American Gothic aren't a couple at all.",
+    "fact": "Grant Wood's models were his sister Nan and his dentist, Dr. Byron McKeeby, posed to represent a father and daughter rather than spouses.",
+    "tags": [
+      "american-art",
+      "regionalism"
+    ]
+  },
+  {
+    "id": "art-017",
+    "domain": "art",
+    "hook": "Frida Kahlo painted herself more than almost any artist in history.",
+    "fact": "Roughly a third of her known works are self-portraits, many produced while bedridden after a near-fatal bus accident at age 18 left her in chronic pain for the rest of her life.",
+    "tags": [
+      "mexican-art",
+      "frida-kahlo"
+    ]
+  },
+  {
+    "id": "art-018",
+    "domain": "art",
+    "hook": "A Rockefeller had a Diego Rivera mural destroyed over a portrait of Lenin.",
+    "fact": "Rivera included a likeness of Vladimir Lenin in his 1933 mural for Rockefeller Center. When he refused to remove it, the Rockefellers had the unfinished mural chiseled off the wall and destroyed.",
+    "whyItMatters": "The incident remains a landmark case in debates over artistic freedom versus patron control.",
+    "tags": [
+      "muralism",
+      "diego-rivera"
+    ]
+  },
+  {
+    "id": "art-019",
+    "domain": "art",
+    "hook": "Jackson Pollock never touched a brush to canvas.",
+    "fact": "His signature technique involved laying canvas flat on the floor and dripping, flinging, and pouring paint onto it from above, moving around all four sides as he worked.",
+    "tags": [
+      "abstract-expressionism",
+      "pollock"
+    ]
+  },
+  {
+    "id": "art-020",
+    "domain": "art",
+    "hook": "Andy Warhol painted 32 soup cans because Campbell's sold 32 varieties.",
+    "fact": "His 1962 series \"Campbell's Soup Cans\" depicted every flavor the company sold at the time, turning mundane supermarket packaging into fine art.",
+    "tags": [
+      "pop-art",
+      "warhol"
+    ]
+  },
+  {
+    "id": "art-021",
+    "domain": "art",
+    "hook": "Salvador Dalí's melting clocks were reportedly inspired by cheese.",
+    "fact": "Dalí said the soft, drooping timepieces in \"The Persistence of Memory\" (1931) came to him while contemplating a runny wheel of Camembert left out in the sun.",
+    "tags": [
+      "surrealism",
+      "dali"
+    ]
+  },
+  {
+    "id": "art-022",
+    "domain": "art",
+    "hook": "The Mona Lisa wasn't famous until someone stole it.",
+    "fact": "In 1911, Louvre employee Vincenzo Peruggia hid the painting under his coat and walked out with it. The theft made headlines worldwide and the painting became a global icon after its recovery in Florence two years later.",
+    "tags": [
+      "renaissance",
+      "art-theft"
+    ]
+  },
+  {
+    "id": "art-023",
+    "domain": "art",
+    "hook": "The largest unsolved art theft in history left 13 empty frames still hanging on museum walls.",
+    "fact": "In 1990, thieves disguised as police officers stole works by Vermeer, Rembrandt, and Degas worth an estimated $500 million from Boston's Isabella Stewart Gardner Museum. Per the founder's will, the empty frames remain displayed, and the crime is still unsolved.",
+    "whyItMatters": "The FBI still offers a $10 million reward for information leading to the works' recovery, the largest bounty ever offered for stolen art.",
+    "tags": [
+      "art-theft",
+      "gardner-museum"
+    ]
+  },
+  {
+    "id": "art-024",
+    "domain": "art",
+    "hook": "A forger fooled Nazi leader Hermann Göring with a fake Vermeer.",
+    "fact": "Dutch painter Han van Meegeren sold Göring a forged \"Vermeer\" during World War II. After the war, facing treason charges for collaborating with Nazis, van Meegeren confessed to forgery instead and proved it by painting a new fake Vermeer while under guard.",
+    "tags": [
+      "forgery",
+      "vermeer"
+    ]
+  },
+  {
+    "id": "art-025",
+    "domain": "art",
+    "hook": "One of the 20th century's most notorious art forgers inspired an Orson Welles documentary.",
+    "fact": "Elmyr de Hory forged thousands of paintings in the styles of Picasso, Matisse, and Modigliani, deceiving galleries and collectors for decades before his story became the basis for Welles' 1973 film \"F for Fake.\"",
+    "tags": [
+      "forgery"
+    ]
+  },
+  {
+    "id": "art-026",
+    "domain": "art",
+    "hook": "A painting once sold for £45 sold again for $450 million.",
+    "fact": "\"Salvator Mundi,\" attributed to Leonardo da Vinci, sold at a London auction for a modest sum in 1958 before being rediscovered and authenticated decades later. It sold at Christie's in 2017 for $450.3 million, the highest price ever paid for a painting at auction.",
+    "whyItMatters": "Some scholars still dispute how much of the painting was actually executed by Leonardo's own hand, making it one of art history's most expensive open questions.",
+    "tags": [
+      "renaissance",
+      "auction-record"
+    ]
+  },
+  {
+    "id": "art-027",
+    "domain": "art",
+    "hook": "A Klimt portrait was returned to its rightful owner after a decades-long legal fight.",
+    "fact": "Gustav Klimt's \"Portrait of Adele Bloch-Bauer I\" was looted by the Nazis from an Austrian Jewish family. Adele's niece, Maria Altmann, won a landmark case against the Austrian government in the 2000s to reclaim it.",
+    "whyItMatters": "The case reshaped international law on Nazi-looted art restitution and inspired the film 'Woman in Gold.'",
+    "tags": [
+      "restitution",
+      "klimt"
+    ]
+  },
+  {
+    "id": "art-028",
+    "domain": "art",
+    "hook": "Cubism began with a painting that shocked even Picasso's friends.",
+    "fact": "\"Les Demoiselles d'Avignon\" (1907), with its fractured, angular nude figures influenced by African masks, is considered the proto-Cubist work that launched the movement Picasso developed with Georges Braque.",
+    "tags": [
+      "cubism",
+      "picasso"
+    ]
+  },
+  {
+    "id": "art-029",
+    "domain": "art",
+    "hook": "Marcel Duchamp turned a urinal into one of the most influential artworks of the 20th century.",
+    "fact": "In 1917, Duchamp submitted a porcelain urinal signed \"R. Mutt\" titled \"Fountain\" to a New York exhibition. Its rejection and the ensuing debate helped define conceptual art and the Dada movement.",
+    "tags": [
+      "dada",
+      "duchamp"
+    ]
+  },
+  {
+    "id": "art-030",
+    "domain": "art",
+    "hook": "Roy Lichtenstein blew up comic book panels into gallery-sized paintings.",
+    "fact": "Works like \"Whaam!\" and \"Drowning Girl\" recreated the look of mass-printed comics, complete with painstakingly hand-rendered Ben-Day dots, questioning the line between high art and popular culture.",
+    "tags": [
+      "pop-art",
+      "lichtenstein"
+    ]
+  },
+  {
+    "id": "art-031",
+    "domain": "art",
+    "hook": "Mark Rothko wanted his paintings to make viewers cry.",
+    "fact": "Rothko's large color field paintings, glowing rectangles of layered pigment, were designed to be experienced up close and at scale, and he reportedly said he had made some viewers weep in front of them.",
+    "tags": [
+      "abstract-expressionism",
+      "rothko"
+    ]
+  },
+  {
+    "id": "art-032",
+    "domain": "art",
+    "hook": "Hagia Sophia's Christian mosaics were hidden for nearly 500 years.",
+    "fact": "When the Byzantine cathedral in Constantinople became an Ottoman mosque in 1453, its figurative mosaics were plastered over in accordance with Islamic tradition, preserving them until they were uncovered in the 20th century.",
+    "tags": [
+      "byzantine-art",
+      "mosaics"
+    ]
+  },
+  {
+    "id": "art-033",
+    "domain": "art",
+    "hook": "Much of Islamic art avoids depicting people entirely.",
+    "fact": "Many Islamic artistic traditions favor intricate geometric patterns, calligraphy, and arabesque foliage over figurative imagery, especially in religious contexts, turning mathematical repetition into a spiritual visual language.",
+    "tags": [
+      "islamic-art",
+      "geometric-pattern"
+    ]
+  },
+  {
+    "id": "art-034",
+    "domain": "art",
+    "hook": "Chinese landscape painters weren't trying to record what a place looked like.",
+    "fact": "The shan shui (\"mountain-water\") tradition prioritized capturing the spirit and rhythm of nature through brushwork and empty space over realistic depiction, closely tied to poetry and philosophy.",
+    "tags": [
+      "chinese-art",
+      "landscape-painting"
+    ]
+  },
+  {
+    "id": "art-035",
+    "domain": "art",
+    "hook": "Hokusai's \"Great Wave\" is only one print from a series of 36.",
+    "fact": "\"Under the Wave off Kanagawa\" belongs to Hokusai's woodblock print series \"Thirty-six Views of Mount Fuji,\" created in the early 1830s when the artist was already in his seventies.",
+    "tags": [
+      "ukiyo-e",
+      "hokusai",
+      "japanese-art"
+    ]
+  },
+  {
+    "id": "art-036",
+    "domain": "art",
+    "hook": "Mughal miniature painting fused three artistic worlds into one.",
+    "fact": "Court painters under India's Mughal emperors blended Persian manuscript traditions with Indian color sensibilities and, later, European techniques like perspective introduced through Jesuit missionaries.",
+    "tags": [
+      "mughal-art",
+      "miniature-painting"
+    ]
+  },
+  {
+    "id": "art-037",
+    "domain": "art",
+    "hook": "Thousands of looted bronze plaques sit scattered across museums worldwide.",
+    "fact": "British forces looted the Benin Bronzes, intricate brass and bronze plaques and sculptures from the Kingdom of Benin (in present-day Nigeria), during a punitive military expedition in 1897. Many remain in European and American museum collections despite growing restitution efforts.",
+    "whyItMatters": "The Benin Bronzes have become a central case study in the global movement to return colonial-era looted African art.",
+    "tags": [
+      "african-art",
+      "repatriation"
+    ]
+  },
+  {
+    "id": "art-038",
+    "domain": "art",
+    "hook": "Aboriginal dot painting as we know it is only about 50 years old.",
+    "fact": "The now-iconic style emerged in the early 1970s in the community of Papunya, Australia, when Aboriginal artists began translating traditional sand and body-painting designs onto canvas and board.",
+    "tags": [
+      "aboriginal-art",
+      "australia"
+    ]
+  },
+  {
+    "id": "art-039",
+    "domain": "art",
+    "hook": "True fresco painting has to be finished before the wall dries.",
+    "fact": "In buon fresco technique, pigment is applied directly onto wet plaster so it chemically bonds as the wall cures. Artists like Michelangelo had to plan each day's work, called a giornata, since unfinished sections couldn't be touched up later.",
+    "tags": [
+      "technique",
+      "fresco"
+    ]
+  },
+  {
+    "id": "art-040",
+    "domain": "art",
+    "hook": "Caravaggio didn't just use shadow, he used it as a weapon.",
+    "fact": "Chiaroscuro, the dramatic contrast of light and dark, was pushed to its extreme by Caravaggio in a style later called tenebrism, plunging most of a scene into near-total darkness except for a sharp beam of light.",
+    "tags": [
+      "technique",
+      "caravaggio",
+      "baroque"
+    ]
+  },
+  {
+    "id": "art-041",
+    "domain": "art",
+    "hook": "Leonardo da Vinci invented a technique to erase hard edges entirely.",
+    "fact": "Sfumato, from the Italian for \"smoky,\" involves blending tones so gradually that no visible outline separates them, giving the Mona Lisa's face its soft, almost hazy quality.",
+    "tags": [
+      "technique",
+      "leonardo-da-vinci"
+    ]
+  },
+  {
+    "id": "art-042",
+    "domain": "art",
+    "hook": "Georges Seurat painted with thousands of tiny dots instead of brushstrokes.",
+    "fact": "His technique, pointillism, applied small dabs of pure color that blend optically in the viewer's eye. His most famous example, \"A Sunday Afternoon on the Island of La Grande Jatte,\" took him about two years to complete.",
+    "tags": [
+      "technique",
+      "post-impressionism",
+      "seurat"
+    ]
+  },
+  {
+    "id": "art-043",
+    "domain": "art",
+    "hook": "Matisse and his circle were mocked as \"wild beasts.\"",
+    "fact": "A critic dubbed Henri Matisse, André Derain, and their fellow painters \"les fauves\" (wild beasts) in 1905 after seeing their exhibition of paintings using shockingly bold, unnatural colors. The insult stuck as the movement's name: Fauvism.",
+    "tags": [
+      "fauvism",
+      "matisse"
+    ]
+  },
+  {
+    "id": "art-044",
+    "domain": "art",
+    "hook": "Piet Mondrian reduced painting to horizontal lines, vertical lines, and primary colors.",
+    "fact": "His mature style, developed as part of the Neoplasticism movement and the De Stijl group, stripped away all representational content in pursuit of pure visual harmony using only black grids and blocks of red, yellow, and blue.",
+    "tags": [
+      "neoplasticism",
+      "mondrian"
+    ]
+  },
+  {
+    "id": "art-045",
+    "domain": "art",
+    "hook": "Gustav Klimt covered a couple in real gold leaf.",
+    "fact": "\"The Kiss\" (1908), from Klimt's so-called Golden Phase, incorporates actual gold leaf into the canvas, a technique influenced by his travels to see Byzantine mosaics in Ravenna, Italy.",
+    "tags": [
+      "symbolism",
+      "klimt"
+    ]
+  },
+  {
+    "id": "art-046",
+    "domain": "art",
+    "hook": "An artist and his wife died within days of each other during the 1918 flu pandemic.",
+    "fact": "Egon Schiele, the Austrian Expressionist known for raw, angular figure studies, died of the Spanish flu at 28, just three days after his pregnant wife Edith succumbed to the same pandemic.",
+    "tags": [
+      "expressionism",
+      "egon-schiele"
+    ]
+  },
+  {
+    "id": "art-047",
+    "domain": "art",
+    "hook": "Paul Gauguin abandoned his stockbroker career to paint in the South Pacific.",
+    "fact": "Gauguin left France for Tahiti in 1891, seeking what he saw as an unspoiled, \"primitive\" way of life, and produced many of his best-known works there, though his romanticized colonial view of the islands remains widely criticized today.",
+    "tags": [
+      "post-impressionism",
+      "gauguin"
+    ]
+  },
+  {
+    "id": "art-048",
+    "domain": "art",
+    "hook": "One of France's most celebrated painters was a self-taught customs officer.",
+    "fact": "Henri Rousseau worked as a Parisian toll collector and never received formal art training, yet his dreamlike jungle scenes, painted using botanical gardens and picture books as reference, made him a major influence on 20th-century modernism.",
+    "tags": [
+      "naive-art",
+      "rousseau"
+    ]
+  },
+  {
+    "id": "art-049",
+    "domain": "art",
+    "hook": "Norman Rockwell painted small-town America for nearly 50 years on one magazine's cover.",
+    "fact": "Rockwell created 323 covers for The Saturday Evening Post between 1916 and 1963, becoming one of the most widely recognized visual chroniclers of 20th-century American life.",
+    "tags": [
+      "american-art",
+      "illustration"
+    ]
+  },
+  {
+    "id": "art-050",
+    "domain": "art",
+    "hook": "A painting shredded itself the moment it sold at auction.",
+    "fact": "Immediately after Banksy's \"Girl with Balloon\" sold for over £1 million at Sotheby's in 2018, a hidden shredder built into the frame destroyed half the canvas. The stunt increased the work's value, and it was later retitled \"Love is in the Bin.\"",
+    "whyItMatters": "The stunt became a viral commentary on the art market itself, and the half-shredded piece later resold for over £18 million.",
+    "tags": [
+      "street-art",
+      "banksy"
+    ]
+  },
+  {
+    "id": "art-051",
+    "domain": "art",
+    "hook": "Basquiat was a graffiti tagger before he was a gallery star.",
+    "fact": "In the late 1970s, Jean-Michel Basquiat and collaborator Al Diaz spray-painted cryptic aphorisms around Lower Manhattan under the tag SAMO before Basquiat transitioned to painting on canvas and rose to art-world fame in his early twenties.",
+    "tags": [
+      "street-art",
+      "basquiat"
+    ]
+  },
+  {
+    "id": "art-052",
+    "domain": "art",
+    "hook": "Keith Haring's career started with subway chalk drawings.",
+    "fact": "In the early 1980s, Haring drew simple, energetic figures in chalk on blank black advertising panels in New York City subway stations, creating hundreds of unofficial public artworks before achieving mainstream recognition.",
+    "tags": [
+      "street-art",
+      "keith-haring"
+    ]
+  },
+  {
+    "id": "art-053",
+    "domain": "art",
+    "hook": "Georgia O'Keeffe's flower paintings were bigger than life, on purpose.",
+    "fact": "O'Keeffe painted magnified close-ups of flowers so viewers would be forced to actually look at them, later settling in New Mexico where the desert landscape and bleached animal bones became recurring subjects.",
+    "tags": [
+      "american-modernism",
+      "okeeffe"
+    ]
+  },
+  {
+    "id": "art-054",
+    "domain": "art",
+    "hook": "A giant bronze spider has been installed on nearly every continent.",
+    "fact": "Louise Bourgeois's sculpture \"Maman,\" standing over 30 feet tall, exists in multiple bronze, steel, and marble casts displayed at museums worldwide, conceived as a tribute to the artist's mother, who worked as a weaver.",
+    "tags": [
+      "sculpture",
+      "louise-bourgeois"
+    ]
+  },
+  {
+    "id": "art-055",
+    "domain": "art",
+    "hook": "Rodin's \"The Thinker\" was originally meant to be much smaller and anonymous.",
+    "fact": "The figure began as a small part of Rodin's monumental, never-completed door commission \"The Gates of Hell,\" representing the poet Dante contemplating the scene below him, before being enlarged into an independent, standalone sculpture.",
+    "tags": [
+      "sculpture",
+      "rodin"
+    ]
+  },
+  {
+    "id": "art-056",
+    "domain": "art",
+    "hook": "Michelangelo only ever signed one sculpture in his entire career.",
+    "fact": "After overhearing someone credit his newly finished Pietà to a different sculptor, Michelangelo reportedly snuck back at night and carved his name across the sash on the Virgin Mary's chest, the only work he ever signed.",
+    "tags": [
+      "renaissance",
+      "michelangelo",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-057",
+    "domain": "art",
+    "hook": "The first freestanding nude statue since antiquity depicted a biblical teenager.",
+    "fact": "Donatello's bronze \"David,\" cast around the 1440s, was the first freestanding nude male sculpture created in Europe since ancient Roman times, a radical statement at the height of the early Renaissance.",
+    "tags": [
+      "renaissance",
+      "donatello",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-058",
+    "domain": "art",
+    "hook": "Bernini carved marble to look like it was breathing.",
+    "fact": "His sculpture \"The Ecstasy of Saint Teresa\" (1652) in Rome's Cornaro Chapel used dramatic lighting, billowing drapery, and dynamic poses to make solid marble appear weightless and alive, a hallmark of Baroque sculpture.",
+    "tags": [
+      "baroque",
+      "bernini",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-059",
+    "domain": "art",
+    "hook": "Raphael hid portraits of his rivals inside a fresco of ancient philosophers.",
+    "fact": "In \"The School of Athens,\" painted for the Vatican, Raphael modeled the figure of Plato on Leonardo da Vinci and the brooding philosopher Heraclitus on Michelangelo, while tucking a self-portrait into the crowd's edge.",
+    "tags": [
+      "renaissance",
+      "raphael"
+    ]
+  },
+  {
+    "id": "art-060",
+    "domain": "art",
+    "hook": "Titian's brushwork got looser the older he got.",
+    "fact": "The Venetian master, celebrated for his rich use of color, developed an increasingly free, almost impressionistic technique in his later decades, applying paint with fingers as well as brushes, a style that influenced painters centuries later.",
+    "tags": [
+      "renaissance",
+      "titian"
+    ]
+  },
+  {
+    "id": "art-061",
+    "domain": "art",
+    "hook": "One of Spain's greatest painters was actually born on the Greek island of Crete.",
+    "fact": "El Greco trained in Byzantine icon painting before moving through Venice and Rome and finally settling in Toledo, Spain, where he developed his signature style of elongated, flame-like figures.",
+    "tags": [
+      "mannerism",
+      "el-greco"
+    ]
+  },
+  {
+    "id": "art-062",
+    "domain": "art",
+    "hook": "Goya painted his darkest works directly on the walls of his own house.",
+    "fact": "Deaf, aging, and disillusioned after Spain's political turmoil, Goya covered the walls of his home with haunting, nightmarish murals known as the \"Black Paintings,\" never intended for public display.",
+    "tags": [
+      "romanticism",
+      "goya"
+    ]
+  },
+  {
+    "id": "art-063",
+    "domain": "art",
+    "hook": "Velázquez painted himself into a royal family portrait.",
+    "fact": "\"Las Meninas\" (1656) shows the artist at his easel alongside the Spanish royal family, with a mirror reflecting the king and queen as if they, and the viewer, are standing where the scene is being observed.",
+    "tags": [
+      "baroque",
+      "velazquez"
+    ]
+  },
+  {
+    "id": "art-064",
+    "domain": "art",
+    "hook": "Some historians think Vermeer used an optical device to help paint his interiors.",
+    "fact": "The uncanny realism and unusual focus effects in Vermeer's paintings have led some art historians to theorize he used a camera obscura as a compositional aid, though this remains debated rather than confirmed.",
+    "tags": [
+      "baroque",
+      "vermeer",
+      "technique"
+    ]
+  },
+  {
+    "id": "art-065",
+    "domain": "art",
+    "hook": "Rembrandt painted, etched, and drew himself more than almost any other Old Master.",
+    "fact": "Across his lifetime, Rembrandt produced dozens of self-portraits, effectively charting his own aging face and shifting fortunes from confident young painter to weathered old man.",
+    "tags": [
+      "baroque",
+      "rembrandt"
+    ]
+  },
+  {
+    "id": "art-066",
+    "domain": "art",
+    "hook": "One Northern European painter helped make oil paint the standard for centuries.",
+    "fact": "Jan van Eyck didn't invent oil painting, but his refinement of the technique in works like the \"Arnolfini Portrait\" (1434) demonstrated a level of detail and luminous color that made oil the dominant medium across Europe.",
+    "tags": [
+      "northern-renaissance",
+      "van-eyck"
+    ]
+  },
+  {
+    "id": "art-067",
+    "domain": "art",
+    "hook": "One 500-year-old painting is packed with more bizarre creatures than a fever dream.",
+    "fact": "Hieronymus Bosch's triptych \"The Garden of Earthly Delights\" teems with fantastical hybrid creatures and surreal imagery whose exact symbolic meaning still divides art historians.",
+    "tags": [
+      "northern-renaissance",
+      "bosch"
+    ]
+  },
+  {
+    "id": "art-068",
+    "domain": "art",
+    "hook": "Pieter Bruegel the Elder painted peasants when most artists painted saints and nobles.",
+    "fact": "Bruegel's scenes of village life, harvests, and winter landscapes, like \"Hunters in the Snow,\" gave ordinary Flemish rural life the same visual weight typically reserved for religious or aristocratic subjects.",
+    "tags": [
+      "northern-renaissance",
+      "bruegel"
+    ]
+  },
+  {
+    "id": "art-069",
+    "domain": "art",
+    "hook": "Botticelli's most famous goddess was painted for a wealthy banking family.",
+    "fact": "\"The Birth of Venus\" was likely commissioned by a member of the Medici family, Florence's dominant political and banking dynasty, who funded much of the era's greatest art.",
+    "tags": [
+      "renaissance",
+      "botticelli"
+    ]
+  },
+  {
+    "id": "art-070",
+    "domain": "art",
+    "hook": "One painter's frescoes are often credited with ending the Middle Ages in art.",
+    "fact": "Giotto di Bondone's early 14th-century frescoes in Padua's Scrovegni Chapel broke from the flat, stylized Byzantine tradition, introducing believable weight, emotion, and spatial depth that laid groundwork for the Renaissance.",
+    "tags": [
+      "proto-renaissance",
+      "giotto"
+    ]
+  },
+  {
+    "id": "art-071",
+    "domain": "art",
+    "hook": "Ancient Greek sculptors figured out how to make stone look like it was actually standing.",
+    "fact": "Contrapposto, a pose where a figure's weight rests on one leg, creates a naturalistic S-curve through the body. Its development in Greek sculpture, exemplified by works like Polykleitos's Doryphoros, marked a major leap from rigid earlier statuary.",
+    "tags": [
+      "ancient-greek",
+      "sculpture",
+      "technique"
+    ]
+  },
+  {
+    "id": "art-072",
+    "domain": "art",
+    "hook": "Ancient Egyptian painters didn't try to show what a body actually looks like from one angle.",
+    "fact": "Egyptian art convention combined a profile view of the head and legs with a frontal view of the torso and eye, a stylized composite meant to represent each body part from its clearest angle rather than a single realistic viewpoint.",
+    "tags": [
+      "ancient-egypt",
+      "painting"
+    ]
+  },
+  {
+    "id": "art-073",
+    "domain": "art",
+    "hook": "Some of sub-Saharan Africa's oldest known sculptures are over 2,000 years old.",
+    "fact": "The Nok culture of present-day Nigeria produced sophisticated terracotta figures dating back roughly to 1500 BCE through 500 CE, among the earliest known sculptural traditions in the region.",
+    "tags": [
+      "african-art",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-074",
+    "domain": "art",
+    "hook": "The Maya painted vivid, full-color murals more than a thousand years ago.",
+    "fact": "The murals at Bonampak, Mexico, painted around 800 CE, preserve richly detailed scenes of Maya court life, ritual, and warfare in pigments that have survived over a millennium in the jungle climate.",
+    "tags": [
+      "maya-art",
+      "mural"
+    ]
+  },
+  {
+    "id": "art-075",
+    "domain": "art",
+    "hook": "Easter Island's massive stone heads actually have full bodies buried beneath them.",
+    "fact": "The moai statues of Rapa Nui (Easter Island) were carved with complete torsos, many of which are now buried up to the shoulders under centuries of accumulated soil and erosion.",
+    "tags": [
+      "oceanic-art",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-076",
+    "domain": "art",
+    "hook": "Humans were painting recognizable animals on cave walls tens of thousands of years ago.",
+    "fact": "The Lascaux caves in France, painted roughly 17,000 years ago, depict horses, deer, and aurochs in dynamic detail. The Chauvet cave, discovered nearby, contains paintings even older, dating back over 30,000 years.",
+    "tags": [
+      "prehistoric-art",
+      "cave-painting"
+    ]
+  },
+  {
+    "id": "art-077",
+    "domain": "art",
+    "hook": "One of the oldest known sculptures of the human form predates writing by over 20,000 years.",
+    "fact": "The Venus of Willendorf, a small limestone figurine found in Austria, is estimated to be around 25,000 to 30,000 years old, making it one of the earliest known examples of figurative art.",
+    "tags": [
+      "prehistoric-art",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-078",
+    "domain": "art",
+    "hook": "Ancient Greek pottery painters switched their entire color scheme around 530 BCE.",
+    "fact": "Early black-figure pottery painted silhouetted figures onto the natural red clay. Athenian artists then developed red-figure technique, reversing the process to leave figures in the natural clay color against a painted black background, allowing far more anatomical detail.",
+    "tags": [
+      "ancient-greek",
+      "pottery"
+    ]
+  },
+  {
+    "id": "art-079",
+    "domain": "art",
+    "hook": "Many famous \"Greek\" bronze statues you've seen are actually Roman.",
+    "fact": "Countless celebrated Greek bronze originals were melted down for their metal over the centuries, and survive today only as marble copies commissioned by wealthy Romans centuries later.",
+    "tags": [
+      "ancient-greek",
+      "ancient-rome",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "art-080",
+    "domain": "art",
+    "hook": "A 1980s cleaning project revealed the Sistine Chapel had been the wrong colors for centuries.",
+    "fact": "A major restoration completed in 1994 removed centuries of soot, grime, and old varnish from Michelangelo's ceiling, revealing surprisingly bright, vivid original colors that sparked heated debate among art historians over whether the cleaning had gone too far.",
+    "whyItMatters": "The controversy reshaped how museums approach the risks and ethics of restoring masterworks.",
+    "tags": [
+      "restoration",
+      "sistine-chapel"
+    ]
+  },
+  {
+    "id": "art-081",
+    "domain": "art",
+    "hook": "The Last Supper started falling apart almost as soon as Leonardo finished it.",
+    "fact": "Instead of using true fresco technique, Leonardo experimented with tempera and oil on dry plaster, a method that allowed for more detail but proved unstable. The painting began flaking within decades and has required repeated restoration efforts ever since.",
+    "tags": [
+      "renaissance",
+      "leonardo-da-vinci",
+      "restoration"
+    ]
+  },
+  {
+    "id": "art-082",
+    "domain": "art",
+    "hook": "Picasso's paintings turned almost entirely blue for four years straight.",
+    "fact": "Grieving the suicide of his close friend Carlos Casagemas, Picasso painted somber, melancholic works dominated by shades of blue between roughly 1901 and 1904, before transitioning into the warmer, circus-themed Rose Period.",
+    "tags": [
+      "picasso",
+      "blue-period"
+    ]
+  },
+  {
+    "id": "art-083",
+    "domain": "art",
+    "hook": "Marc Chagall painted floating cows and upside-down villages from memory.",
+    "fact": "Chagall's dreamlike canvases frequently return to the Jewish shtetl of his Belarusian childhood, blending folklore, memory, and fantasy in defiance of any single artistic movement's rules.",
+    "tags": [
+      "modernism",
+      "chagall"
+    ]
+  },
+  {
+    "id": "art-084",
+    "domain": "art",
+    "hook": "One of the world's most famous living artists has lived in a psychiatric hospital by choice for decades.",
+    "fact": "Yayoi Kusama, known for her polka-dot patterns and immersive Infinity Mirror Rooms, voluntarily checked into a Tokyo psychiatric institution in 1977 and has continued working from a nearby studio there ever since.",
+    "tags": [
+      "contemporary-art",
+      "kusama"
+    ]
+  },
+  {
+    "id": "art-085",
+    "domain": "art",
+    "hook": "An artist filled Tate Modern's turbine hall with 100 million porcelain seeds.",
+    "fact": "Chinese artist Ai Weiwei's 2010 installation \"Sunflower Seeds\" consisted of millions of individually hand-sculpted and hand-painted porcelain seeds, made by artisans in the Chinese city of Jingdezhen.",
+    "tags": [
+      "contemporary-art",
+      "ai-weiwei"
+    ]
+  },
+  {
+    "id": "art-086",
+    "domain": "art",
+    "hook": "Frida Kahlo's childhood home became a museum entirely painted the same striking shade of blue.",
+    "fact": "La Casa Azul in Coyoacán, Mexico City, where Kahlo was born and later lived with Diego Rivera, opened as a museum in 1958 and remains one of the most visited art museums in Mexico.",
+    "tags": [
+      "mexican-art",
+      "frida-kahlo"
+    ]
+  },
+  {
+    "id": "art-087",
+    "domain": "art",
+    "hook": "A 17th-century painter survived a public assault trial to become one of the era's most successful artists.",
+    "fact": "Artemisia Gentileschi endured a humiliating trial after being assaulted by a fellow painter, then went on to become one of the most accomplished Baroque painters in Europe, known for powerful works like \"Judith Slaying Holofernes.\"",
+    "tags": [
+      "baroque",
+      "artemisia-gentileschi"
+    ]
+  },
+  {
+    "id": "art-088",
+    "domain": "art",
+    "hook": "Only one American was ever a core member of the French Impressionist circle.",
+    "fact": "Mary Cassatt, a Pennsylvania-born painter who settled in Paris, exhibited regularly alongside Monet, Degas, and Renoir, becoming the sole American, and one of only a few women, embedded in the movement's inner group.",
+    "tags": [
+      "impressionism",
+      "mary-cassatt"
+    ]
+  },
+  {
+    "id": "art-089",
+    "domain": "art",
+    "hook": "A woman helped found Impressionism, not just join it later.",
+    "fact": "Berthe Morisot exhibited in the first Impressionist exhibition in 1874 as one of the movement's founding members, producing luminous domestic scenes at a time when women were largely barred from formal art academies.",
+    "tags": [
+      "impressionism",
+      "berthe-morisot"
+    ]
+  },
+  {
+    "id": "art-090",
+    "domain": "art",
+    "hook": "The famous spread-eagled figure in a circle wasn't painted, it was a notebook sketch.",
+    "fact": "Leonardo da Vinci's \"Vitruvian Man\" is a pen-and-ink drawing in one of his notebooks, illustrating ideal human body proportions described by the ancient Roman architect Vitruvius.",
+    "tags": [
+      "renaissance",
+      "leonardo-da-vinci"
+    ]
+  },
+  {
+    "id": "art-091",
+    "domain": "art",
+    "hook": "An abstract painter beat Kandinsky to pure abstraction by years and nobody knew it.",
+    "fact": "Swedish artist Hilma af Klint created large-scale, non-representational abstract paintings starting around 1906, years before Kandinsky's commonly cited breakthroughs. She stipulated her work not be shown publicly until decades after her death, delaying her recognition until the 21st century.",
+    "whyItMatters": "Her rediscovery forced a rewrite of the accepted timeline of who actually invented abstract art.",
+    "tags": [
+      "abstract-art",
+      "hilma-af-klint"
+    ]
+  },
+  {
+    "id": "art-092",
+    "domain": "art",
+    "hook": "Greece has been asking for its most famous sculptures back for over 200 years.",
+    "fact": "The Parthenon Marbles, often called the Elgin Marbles, were removed from the Acropolis in Athens by Lord Elgin in the early 1800s and sold to the British Museum, where they remain despite Greece's long-running campaign for their return.",
+    "whyItMatters": "The dispute is one of the most closely watched cultural repatriation cases in the world and could set precedent for other contested museum holdings.",
+    "tags": [
+      "ancient-greek",
+      "repatriation"
+    ]
+  },
+  {
+    "id": "art-093",
+    "domain": "art",
+    "hook": "Korean potters perfected a jade-green glaze that took secrets to their graves.",
+    "fact": "Celadon ceramics of Korea's Goryeo dynasty, roughly the 10th to 14th centuries, were prized for a distinctive blue-green glaze and intricate inlay technique that has never been fully replicated by modern potters.",
+    "tags": [
+      "korean-art",
+      "ceramics"
+    ]
+  },
+  {
+    "id": "art-094",
+    "domain": "art",
+    "hook": "Jean-François Millet painted farm laborers as if they were saints.",
+    "fact": "His 1857 painting \"The Gleaners,\" depicting peasant women collecting leftover grain, elevated humble rural labor to the scale and dignity usually reserved for religious or historical scenes, and later influenced Van Gogh.",
+    "tags": [
+      "realism",
+      "millet"
+    ]
+  },
+  {
+    "id": "art-095",
+    "domain": "art",
+    "hook": "One nude painting caused a full-blown scandal at the Paris Salon.",
+    "fact": "Édouard Manet's \"Olympia\" (1865) depicted a nude woman staring directly and unapologetically at the viewer, coded by contemporaries as a courtesan rather than a mythological figure, provoking public outrage when it was exhibited.",
+    "tags": [
+      "realism",
+      "manet"
+    ]
+  },
+  {
+    "id": "art-096",
+    "domain": "art",
+    "hook": "A British painter was capturing blurry motion and light decades before Impressionism had a name.",
+    "fact": "J.M.W. Turner's atmospheric works, like \"Rain, Steam and Speed\" (1844), dissolved solid forms into swirling light and color, anticipating techniques that French Impressionist painters would develop later in the century.",
+    "tags": [
+      "romanticism",
+      "turner"
+    ]
+  },
+  {
+    "id": "art-097",
+    "domain": "art",
+    "hook": "The artist behind \"The Great Wave\" changed his name around 30 times.",
+    "fact": "Katsushika Hokusai used dozens of different pseudonyms throughout his career, a common practice among Japanese artists of the era to mark shifts in style or artistic period. He lived to about 90, unusually long for his time.",
+    "tags": [
+      "ukiyo-e",
+      "hokusai"
+    ]
+  },
+  {
+    "id": "art-098",
+    "domain": "art",
+    "hook": "Frida Kahlo and Diego Rivera divorced, then remarried within a year.",
+    "fact": "The two artists, both celebrated and famously tempestuous, split in 1939 after years of mutual infidelity, only to remarry in 1940, remaining together, in their own turbulent way, until Kahlo's death in 1954.",
+    "tags": [
+      "mexican-art",
+      "frida-kahlo"
+    ]
+  },
+  {
+    "id": "art-099",
+    "domain": "art",
+    "hook": "A painter's model became a celebrated artist in her own right, with no formal training.",
+    "fact": "Suzanne Valadon posed for painters like Renoir and Toulouse-Lautrec in late 19th-century Paris before teaching herself to paint, eventually becoming the first woman admitted to the Société Nationale des Beaux-Arts. Her son, Maurice Utrillo, also became a noted painter.",
+    "tags": [
+      "post-impressionism",
+      "suzanne-valadon"
+    ]
+  },
+  {
+    "id": "art-100",
+    "domain": "art",
+    "hook": "One painting is often credited as the first fully abstract work exhibited in Russia.",
+    "fact": "Kazimir Malevich's \"Black Square\" (1915), a plain black square on a white ground, was created as the founding image of Suprematism, a radical movement aiming to strip painting down to pure geometric feeling, free of any real-world reference.",
+    "tags": [
+      "suprematism",
+      "malevich"
+    ]
+  },
+  {
+    "id": "art-101",
+    "domain": "art",
+    "hook": "The Sydney Opera House's shells took 14 years to build and cost 14 times the original budget.",
+    "fact": "Danish architect Jørn Utzon won the 1957 design competition with sketches of sail-like shells, but engineers spent years figuring out how to actually build the curved concrete roof. Utzon resigned before completion and never saw the finished building in person.",
+    "tags": [
+      "architecture",
+      "sydney-opera-house"
+    ]
+  },
+  {
+    "id": "art-102",
+    "domain": "art",
+    "hook": "Fallingwater was built directly over a working waterfall instead of facing it.",
+    "fact": "Frank Lloyd Wright designed the 1935 house so the Kaufmann family's living room cantilevers out above Bear Run creek, letting them hear the falls beneath their feet rather than just view them from a distance.",
+    "tags": [
+      "architecture",
+      "frank-lloyd-wright"
+    ]
+  },
+  {
+    "id": "art-103",
+    "domain": "art",
+    "hook": "Gaudí's Sagrada Família has been under construction for over 140 years and still isn't finished.",
+    "fact": "Antoni Gaudí took over the Barcelona basilica project in 1883 and worked on it until his death in 1926. Construction has continued ever since, funded almost entirely by ticket sales and donations rather than public money.",
+    "whyItMatters": "It's one of the only major monuments in history funded by tourism itself, essentially building a cathedral with entrance fees instead of royal or church treasuries.",
+    "tags": [
+      "architecture",
+      "gaudi"
+    ]
+  },
+  {
+    "id": "art-104",
+    "domain": "art",
+    "hook": "The Chrysler Building's spire was secretly assembled inside the building and raised in 90 minutes.",
+    "fact": "Architect William Van Alen had the stainless steel spire built in pieces inside the fire shaft, then hoisted it into place in under two hours in 1930, instantly making the Chrysler Building taller than its rival, 40 Wall Street, and briefly the tallest building on Earth.",
+    "tags": [
+      "architecture",
+      "art-deco",
+      "skyscrapers"
+    ]
+  },
+  {
+    "id": "art-105",
+    "domain": "art",
+    "hook": "The Eiffel Tower was built to be torn down after 20 years.",
+    "fact": "Constructed for the 1889 Paris World's Fair, the tower had a permit that expired in 1909, at which point Paris was supposed to demolish it. It survived because engineers realized its height made it ideal for radio antennas.",
+    "whyItMatters": "A last-minute technological use case is the only reason one of the world's most recognized landmarks still exists today.",
+    "tags": [
+      "architecture",
+      "eiffel-tower"
+    ]
+  },
+  {
+    "id": "art-106",
+    "domain": "art",
+    "hook": "Hagia Sophia has been a church, a mosque, a museum, and a mosque again.",
+    "fact": "Built in 537 AD in Constantinople, its massive dome was an engineering marvel for its era. It served as a Byzantine cathedral, an Ottoman mosque after 1453, a secular museum from 1935, and was reconverted to a mosque in 2020.",
+    "tags": [
+      "architecture",
+      "hagia-sophia"
+    ]
+  },
+  {
+    "id": "art-107",
+    "domain": "art",
+    "hook": "The world's tallest building is shaped like a desert flower.",
+    "fact": "Burj Khalifa in Dubai reaches 828 meters using a Y-shaped 'buttressed core' structural system, and its tapering silhouette was inspired by the Hymenocallis, a regional desert flower with narrow, spiraling petals.",
+    "tags": [
+      "architecture",
+      "skyscrapers"
+    ]
+  },
+  {
+    "id": "art-108",
+    "domain": "art",
+    "hook": "Le Corbusier once distilled all of modern architecture into five rules.",
+    "fact": "His 'five points of architecture'—pilotis (supporting columns), a free facade, an open floor plan, ribbon windows, and a roof garden—were fully realized in the Villa Savoye near Paris, completed in 1931.",
+    "tags": [
+      "architecture",
+      "le-corbusier",
+      "modernism"
+    ]
+  },
+  {
+    "id": "art-109",
+    "domain": "art",
+    "hook": "A glass house built for one architect's peace of mind ended up in a lawsuit.",
+    "fact": "Mies van der Rohe's Farnsworth House (1951) is a minimal steel-and-glass box with almost no interior walls. Its client, Dr. Edith Farnsworth, sued him over massive cost overruns and later called living in it like being on 'a glass box on stilts.'",
+    "tags": [
+      "architecture",
+      "mies-van-der-rohe"
+    ]
+  },
+  {
+    "id": "art-110",
+    "domain": "art",
+    "hook": "Malaysia's Petronas Towers are connected by a bridge that doesn't actually touch either tower.",
+    "fact": "The 1998 skyscrapers by Cesar Pelli are linked by a double-decker skybridge on rollers that lets it slide slightly as the towers sway independently in wind. The towers' floor plan is based on an Islamic geometric star pattern.",
+    "tags": [
+      "architecture",
+      "skyscrapers"
+    ]
+  },
+  {
+    "id": "art-111",
+    "domain": "art",
+    "hook": "A New York skyscraper is shaped like a wedge because of its street corner.",
+    "fact": "The Flatiron Building (1902) takes its triangular form from the narrow lot where Fifth Avenue crosses Broadway at an angle, and its odd shape made it one of the city's first true architectural celebrities.",
+    "tags": [
+      "architecture",
+      "new-york"
+    ]
+  },
+  {
+    "id": "art-112",
+    "domain": "art",
+    "hook": "One museum in a struggling Spanish port city triggered a global building boom.",
+    "fact": "Frank Gehry's titanium-clad Guggenheim Bilbao opened in 1997 and turned a declining industrial city into a major tourist destination almost overnight, a phenomenon urban planners now call the 'Bilbao Effect.'",
+    "whyItMatters": "Cities worldwide have since commissioned signature buildings by star architects hoping to replicate Bilbao's tourism and investment surge, not always successfully.",
+    "tags": [
+      "architecture",
+      "frank-gehry",
+      "urban-design"
+    ]
+  },
+  {
+    "id": "art-113",
+    "domain": "art",
+    "hook": "The Pompidou Centre wears its plumbing on the outside.",
+    "fact": "Renzo Piano and Richard Rogers' 1977 Paris museum puts structural beams, air ducts, escalators, and pipes on the exterior, color-coded by function—blue for air, green for water, yellow for electricity, red for movement.",
+    "tags": [
+      "architecture",
+      "brutalism"
+    ]
+  },
+  {
+    "id": "art-114",
+    "domain": "art",
+    "hook": "Gothic cathedrals grew taller because of a single structural trick.",
+    "fact": "Flying buttresses transfer the outward thrust of a stone roof to external supports, letting builders push walls higher and replace them with huge stained-glass windows instead of thick load-bearing stone.",
+    "tags": [
+      "architecture",
+      "gothic"
+    ]
+  },
+  {
+    "id": "art-115",
+    "domain": "art",
+    "hook": "Rome's Pantheon still holds a 2,000-year-old concrete record.",
+    "fact": "Completed around 128 AD, the Pantheon's dome remains the largest unreinforced concrete dome in the world. Its central oculus is open to the sky and is the building's only light source.",
+    "tags": [
+      "architecture",
+      "ancient-rome"
+    ]
+  },
+  {
+    "id": "art-116",
+    "domain": "art",
+    "hook": "The Taj Mahal's minarets were built to fall away from the tomb.",
+    "fact": "Shah Jahan's 17th-century mausoleum for his wife Mumtaz Mahal has four minarets that lean very slightly outward, so that in the event of an earthquake or collapse they would fall away from the central dome rather than onto it.",
+    "tags": [
+      "architecture",
+      "taj-mahal"
+    ]
+  },
+  {
+    "id": "art-117",
+    "domain": "art",
+    "hook": "One Barcelona apartment building has no straight lines at all.",
+    "fact": "Gaudí's Casa Batlló (1906) features skeletal balconies, a scaly, dragon-back roofline, and undulating facades, avoiding conventional straight walls and right angles almost entirely.",
+    "tags": [
+      "architecture",
+      "gaudi"
+    ]
+  },
+  {
+    "id": "art-118",
+    "domain": "art",
+    "hook": "The Bauhaus school building itself was designed to teach the Bauhaus philosophy.",
+    "fact": "Walter Gropius designed the school's Dessau campus in 1925 with an all-glass curtain wall and asymmetrical, function-first layout, turning the building into a working demonstration of the movement's design principles.",
+    "tags": [
+      "architecture",
+      "bauhaus"
+    ]
+  },
+  {
+    "id": "art-119",
+    "domain": "art",
+    "hook": "Brutalist architecture has nothing to do with the word 'brutal.'",
+    "fact": "The term comes from the French phrase béton brut, meaning 'raw concrete,' describing the material's unfinished, exposed surfaces rather than any intent to look harsh or aggressive.",
+    "tags": [
+      "architecture",
+      "brutalism"
+    ]
+  },
+  {
+    "id": "art-120",
+    "domain": "art",
+    "hook": "The first skyscraper wasn't especially tall by today's standards.",
+    "fact": "Chicago's Home Insurance Building, completed in 1885 by William Le Baron Jenney, is widely considered the first skyscraper because it used a load-bearing steel frame instead of thick masonry walls, at just 10 stories.",
+    "tags": [
+      "architecture",
+      "skyscrapers"
+    ]
+  },
+  {
+    "id": "art-121",
+    "domain": "art",
+    "hook": "A dome shape can be both incredibly light and incredibly strong.",
+    "fact": "Buckminster Fuller popularized the geodesic dome in the mid-20th century, a structure that distributes stress evenly across a lattice of triangles, allowing large enclosed spaces with minimal material, as seen in Montreal's Biosphère.",
+    "tags": [
+      "architecture",
+      "buckminster-fuller"
+    ]
+  },
+  {
+    "id": "art-122",
+    "domain": "art",
+    "hook": "The phrase 'form follows function' came from an architect, not an engineer.",
+    "fact": "Louis Sullivan, mentor to Frank Lloyd Wright and a key figure of the Chicago School, coined the phrase in an 1896 essay, arguing that a building's shape should be dictated by its purpose.",
+    "tags": [
+      "architecture",
+      "louis-sullivan"
+    ]
+  },
+  {
+    "id": "art-123",
+    "domain": "art",
+    "hook": "The Empire State Building went up in just 410 days.",
+    "fact": "Constructed during the Great Depression and completed in 1931, the Art Deco skyscraper's fast timeline was aided by cheap labor and materials, and it stood as the world's tallest building for nearly 40 years.",
+    "tags": [
+      "architecture",
+      "art-deco",
+      "skyscrapers"
+    ]
+  },
+  {
+    "id": "art-124",
+    "domain": "art",
+    "hook": "One Taipei skyscraper has a giant steel ball you can go look at.",
+    "fact": "Taipei 101 houses a 660-ton tuned mass damper, a massive suspended sphere visible to visitors, that sways opposite the building's motion to counteract wind and earthquake forces.",
+    "whyItMatters": "The damper is one of the largest of its kind in the world and lets the tower remain safely habitable in a region prone to both typhoons and earthquakes.",
+    "tags": [
+      "architecture",
+      "engineering",
+      "skyscrapers"
+    ]
+  },
+  {
+    "id": "art-125",
+    "domain": "art",
+    "hook": "China's Forbidden City was built without a single nail.",
+    "fact": "The 15th-century imperial palace complex relies on interlocking wooden joinery, including elaborate bracket systems called dougong, to hold its wooden structures together without metal fasteners.",
+    "tags": [
+      "architecture",
+      "forbidden-city"
+    ]
+  },
+  {
+    "id": "art-126",
+    "domain": "art",
+    "hook": "A 14th-century Spanish palace inspired one of the 20th century's most famous artists.",
+    "fact": "The Alhambra in Granada is covered in intricate Islamic geometric tilework and muqarnas (stalactite-like ceiling ornamentation), patterns that later fascinated M.C. Escher and shaped his tessellation prints.",
+    "tags": [
+      "architecture",
+      "islamic-design"
+    ]
+  },
+  {
+    "id": "art-127",
+    "domain": "art",
+    "hook": "One architect responded to 'less is more' with 'less is a bore.'",
+    "fact": "Robert Venturi's 1966 book Complexity and Contradiction in Architecture pushed back against Mies van der Rohe's modernist minimalism, helping launch postmodern architecture's return to ornament, symbolism, and historical reference.",
+    "tags": [
+      "architecture",
+      "postmodernism"
+    ]
+  },
+  {
+    "id": "art-128",
+    "domain": "art",
+    "hook": "A Beijing skyscraper's nickname translates to 'big pants.'",
+    "fact": "Rem Koolhaas's CCTV Headquarters, completed in 2012, forms a continuous loop of leaning towers connected at the top and bottom, and locals immediately nicknamed it for its trouser-like silhouette.",
+    "tags": [
+      "architecture",
+      "modern-architecture"
+    ]
+  },
+  {
+    "id": "art-129",
+    "domain": "art",
+    "hook": "The largest religious monument on Earth predates most European cathedrals.",
+    "fact": "Angkor Wat in Cambodia was built in the early 12th century by the Khmer Empire, originally as a Hindu temple dedicated to Vishnu before later becoming a Buddhist site.",
+    "tags": [
+      "architecture",
+      "angkor-wat"
+    ]
+  },
+  {
+    "id": "art-130",
+    "domain": "art",
+    "hook": "A subway map that ignores real geography became a design icon.",
+    "fact": "Harry Beck's 1931 London Underground map abandoned accurate geographic distances and curves in favor of a schematic, circuit-diagram style with straight lines and evenly spaced stops, prioritizing clarity over accuracy.",
+    "tags": [
+      "graphic-design",
+      "maps"
+    ]
+  },
+  {
+    "id": "art-131",
+    "domain": "art",
+    "hook": "The Coca-Cola bottle was shaped so people could recognize it in the dark.",
+    "fact": "Designed in 1915, the contour bottle's ridged, curvy silhouette was meant to be identifiable by touch alone, or even by feel of a broken shard, distinguishing it from imitators on crowded store shelves.",
+    "tags": [
+      "product-design",
+      "branding"
+    ]
+  },
+  {
+    "id": "art-132",
+    "domain": "art",
+    "hook": "A chair was designed to look like it had already been sat in.",
+    "fact": "Charles and Ray Eames designed their 1956 Lounge Chair using molded plywood and leather with the explicit goal of achieving 'the warm, receptive look of a well-used first baseman's mitt.'",
+    "tags": [
+      "product-design",
+      "eames"
+    ]
+  },
+  {
+    "id": "art-133",
+    "domain": "art",
+    "hook": "One designer's ten rules for good design still guide Apple products today.",
+    "fact": "Dieter Rams, chief designer at Braun for decades, published his 'Ten Principles for Good Design' emphasizing simplicity and honesty in form. His minimalist products directly influenced Apple's Jony Ive.",
+    "tags": [
+      "product-design",
+      "dieter-rams"
+    ]
+  },
+  {
+    "id": "art-134",
+    "domain": "art",
+    "hook": "The Sony Walkman created an entirely new way of experiencing music in public.",
+    "fact": "Released in 1979, the portable cassette player let people listen to music privately while walking around, a radical shift from earlier boomboxes and home stereos, and its minimalist design became instantly recognizable.",
+    "tags": [
+      "product-design",
+      "sony"
+    ]
+  },
+  {
+    "id": "art-135",
+    "domain": "art",
+    "hook": "Post-it Notes exist because of a failed glue.",
+    "fact": "3M scientist Spencer Silver developed a weak, reusable adhesive in 1968 that seemed useless. Colleague Art Fry realized in 1974 it was perfect for bookmarks that wouldn't damage pages, and the Post-it Note launched in 1980.",
+    "whyItMatters": "It's one of the most cited examples in innovation theory of a 'failed' invention finding unexpected commercial success once paired with the right problem.",
+    "tags": [
+      "product-design",
+      "3m"
+    ]
+  },
+  {
+    "id": "art-136",
+    "domain": "art",
+    "hook": "The Swiss Army Knife's red handle wasn't just a style choice.",
+    "fact": "Victorinox chose bright red for the handle specifically so a dropped knife would be easy to spot on the ground, alongside the now-famous white cross emblem.",
+    "tags": [
+      "product-design",
+      "swiss-army-knife"
+    ]
+  },
+  {
+    "id": "art-137",
+    "domain": "art",
+    "hook": "IKEA's entire business model started with one missing table leg.",
+    "fact": "In 1956, IKEA designer Gillis Lundgren struggled to fit a table into his car and decided to simply remove the legs and pack them alongside the tabletop, inventing the flat-pack furniture concept that defined the company.",
+    "whyItMatters": "Flat-pack design dramatically cuts shipping volume and cost, which is part of why IKEA could scale globally while keeping prices low.",
+    "tags": [
+      "product-design",
+      "ikea"
+    ]
+  },
+  {
+    "id": "art-138",
+    "domain": "art",
+    "hook": "One of the most famous modern chairs was designed for a German pavilion demolished a year later.",
+    "fact": "Mies van der Rohe and Lilly Reich designed the Barcelona Chair for the 1929 Barcelona International Exposition's German Pavilion. The pavilion was torn down after the fair, but the chair went into lasting production.",
+    "tags": [
+      "product-design",
+      "mies-van-der-rohe"
+    ]
+  },
+  {
+    "id": "art-139",
+    "domain": "art",
+    "hook": "Tupperware parties were a marketing strategy born from a slow start in stores.",
+    "fact": "Earl Tupper invented his airtight plastic containers in 1946, but sales only took off after Brownie Wise pioneered in-home 'Tupperware parties' in the early 1950s, a direct-sales model that became hugely influential.",
+    "tags": [
+      "product-design",
+      "tupperware"
+    ]
+  },
+  {
+    "id": "art-140",
+    "domain": "art",
+    "hook": "The Vespa scooter borrowed its structural idea from airplanes.",
+    "fact": "Piaggio's 1946 Vespa used a monocoque body, where the outer shell itself bears structural load rather than a separate frame, a technique adapted from aircraft manufacturing that made the scooter lighter and cleaner-looking.",
+    "tags": [
+      "product-design",
+      "vespa"
+    ]
+  },
+  {
+    "id": "art-141",
+    "domain": "art",
+    "hook": "A desk lamp's bendy arm is modeled on the geometry of a human arm.",
+    "fact": "George Carwardine's 1932 Anglepoise lamp uses a constant-tension spring mechanism inspired by the mechanics of a human limb, letting the lamp hold any position without clamps or screws.",
+    "tags": [
+      "product-design",
+      "lighting"
+    ]
+  },
+  {
+    "id": "art-142",
+    "domain": "art",
+    "hook": "A puzzle invented to teach engineering became the best-selling toy in history.",
+    "fact": "Hungarian professor Ernő Rubik created the Rubik's Cube in 1974 to help his students understand 3D structural movement. The cube has over 43 quintillion possible configurations.",
+    "whyItMatters": "It remains a widely used tool for teaching spatial reasoning and algorithmic thinking, well beyond its original classroom purpose.",
+    "tags": [
+      "product-design",
+      "rubiks-cube"
+    ]
+  },
+  {
+    "id": "art-143",
+    "domain": "art",
+    "hook": "Almost every LEGO brick made since 1958 still fits together with bricks made today.",
+    "fact": "LEGO patented its stud-and-tube coupling system in 1958, and the company has maintained strict compatibility across generations of sets, meaning a brick from decades ago still clicks into a brand-new one.",
+    "tags": [
+      "product-design",
+      "lego"
+    ]
+  },
+  {
+    "id": "art-144",
+    "domain": "art",
+    "hook": "A bentwood chair from the 1850s became one of the best-selling chairs ever made.",
+    "fact": "Michael Thonet's No. 14 chair used steam-bent solid wood to create curved forms cheaply, and it shipped disassembled in flat crates to save shipping space, a precursor to modern flat-pack furniture.",
+    "tags": [
+      "product-design",
+      "furniture"
+    ]
+  },
+  {
+    "id": "art-145",
+    "domain": "art",
+    "hook": "Britain's iconic red phone box was inspired by a tomb.",
+    "fact": "Giles Gilbert Scott's 1924 K2 telephone kiosk design drew from the domed roof of Sir John Soane's own mausoleum at St Pancras Old Church in London.",
+    "tags": [
+      "product-design",
+      "britain"
+    ]
+  },
+  {
+    "id": "art-146",
+    "domain": "art",
+    "hook": "One lighter comes with a promise to fix it for free, forever.",
+    "fact": "George Blaisdell's 1932 Zippo lighter was designed with a windproof case, and the company has honored a lifetime repair guarantee ever since, regardless of the lighter's age or condition.",
+    "tags": [
+      "product-design",
+      "zippo"
+    ]
+  },
+  {
+    "id": "art-147",
+    "domain": "art",
+    "hook": "The Volkswagen Beetle put its engine in the back to save cost and space.",
+    "fact": "Designed under Ferdinand Porsche in the 1930s, the Beetle used an air-cooled rear engine and rounded, aerodynamic bodywork, becoming one of the best-selling car designs in automotive history.",
+    "tags": [
+      "product-design",
+      "automotive"
+    ]
+  },
+  {
+    "id": "art-148",
+    "domain": "art",
+    "hook": "The first iPhone's design team obsessed over a single seamless piece of metal.",
+    "fact": "Jony Ive's design team at Apple pushed for a unibody construction and multi-touch glass interface for the 2007 iPhone, eliminating the physical keyboard that had defined smartphones until then.",
+    "tags": [
+      "product-design",
+      "apple"
+    ]
+  },
+  {
+    "id": "art-149",
+    "domain": "art",
+    "hook": "The standard paperclip design has barely changed since the 1890s.",
+    "fact": "The familiar 'Gem' style paperclip was never patented, and its simple double-loop wire shape has remained essentially unchanged for well over a century because no redesign has meaningfully improved on it.",
+    "tags": [
+      "product-design",
+      "everyday-objects"
+    ]
+  },
+  {
+    "id": "art-150",
+    "domain": "art",
+    "hook": "The Concorde's nose could physically droop downward.",
+    "fact": "The supersonic airliner's needle-like nose caused poor visibility during takeoff and landing, so engineers designed it to tilt down up to 12.5 degrees, giving pilots a clear view before returning to its aerodynamic position in flight.",
+    "tags": [
+      "product-design",
+      "aviation"
+    ]
+  },
+  {
+    "id": "art-151",
+    "domain": "art",
+    "hook": "Sputnik's design was kept deliberately simple so it couldn't fail.",
+    "fact": "The 1957 satellite was a polished metal sphere with four external antennas, a shape chosen partly for aerodynamic stability during launch and partly because a simple design meant fewer things that could go wrong.",
+    "tags": [
+      "product-design",
+      "space"
+    ]
+  },
+  {
+    "id": "art-152",
+    "domain": "art",
+    "hook": "One plastic pen sold in the billions is in a design museum's permanent collection.",
+    "fact": "The Bic Cristal, with its hexagonal barrel and simple exposed cap, has been in continuous production since 1950 and is held in the Museum of Modern Art's design collection as an example of functional simplicity.",
+    "tags": [
+      "product-design",
+      "everyday-objects"
+    ]
+  },
+  {
+    "id": "art-153",
+    "domain": "art",
+    "hook": "A Bauhaus chair got its curved steel tubing from bicycle handlebars.",
+    "fact": "Marcel Breuer designed the Wassily Chair in 1925 after being inspired by the bent tubular steel frame of his bicycle, becoming one of the first furniture pieces to use tubular steel construction.",
+    "tags": [
+      "product-design",
+      "bauhaus"
+    ]
+  },
+  {
+    "id": "art-154",
+    "domain": "art",
+    "hook": "One standardized steel box reshaped the entire global economy.",
+    "fact": "Trucking entrepreneur Malcolm McLean helped standardize shipping container dimensions in the 1950s, allowing goods to move seamlessly between ships, trains, and trucks without being unpacked and repacked.",
+    "whyItMatters": "Container standardization is widely credited with slashing global shipping costs and enabling the rise of modern international manufacturing and trade.",
+    "tags": [
+      "product-design",
+      "logistics"
+    ]
+  },
+  {
+    "id": "art-155",
+    "domain": "art",
+    "hook": "The Bible was one of the first products of mass-produced type.",
+    "fact": "Johannes Gutenberg's mid-15th-century printing press used cast metal movable type, and his 42-line Bible, printed around 1455, dramatically sped up the spread of texts across Europe.",
+    "tags": [
+      "typography",
+      "printing"
+    ]
+  },
+  {
+    "id": "art-156",
+    "domain": "art",
+    "hook": "Movable type existed in China centuries before Gutenberg, but never took off the same way.",
+    "fact": "Bi Sheng invented a movable type system using fired clay characters around 1040 in China, but the thousands of characters in the Chinese writing system made it far less efficient than alphabetic movable type would later prove in Europe.",
+    "tags": [
+      "typography",
+      "printing"
+    ]
+  },
+  {
+    "id": "art-157",
+    "domain": "art",
+    "hook": "One typeface is used in more logos and signs than almost any other.",
+    "fact": "Helvetica was designed in 1957 by Swiss typeface designer Max Miedinger, and its clean, neutral letterforms have since been adopted by countless corporate logos, transit systems, and government signage worldwide.",
+    "tags": [
+      "typography",
+      "helvetica"
+    ]
+  },
+  {
+    "id": "art-158",
+    "domain": "art",
+    "hook": "The internet's most mocked font was designed for talking cartoon dogs.",
+    "fact": "Vincent Connare created Comic Sans in 1994 for Microsoft Bob, a friendly assistant software featuring a cartoon dog, modeling the letterforms on comic book speech balloons. It's been widely criticized in professional design ever since.",
+    "tags": [
+      "typography",
+      "comic-sans"
+    ]
+  },
+  {
+    "id": "art-159",
+    "domain": "art",
+    "hook": "There's a typeface sitting on the Moon.",
+    "fact": "Futura, a geometric sans-serif designed by Paul Renner in 1927, was used on the plaque left on the lunar surface by the Apollo 11 astronauts in 1969.",
+    "tags": [
+      "typography",
+      "futura"
+    ]
+  },
+  {
+    "id": "art-160",
+    "domain": "art",
+    "hook": "London's subway typeface was one of the first custom corporate fonts ever made.",
+    "fact": "Edward Johnston designed the Johnston typeface for the London Underground in 1916, and it's considered one of the earliest examples of a bespoke sans-serif typeface commissioned specifically for a brand.",
+    "tags": [
+      "typography",
+      "london-underground"
+    ]
+  },
+  {
+    "id": "art-161",
+    "domain": "art",
+    "hook": "FedEx's logo hides an arrow that most people never notice.",
+    "fact": "Designer Lindon Leader created the negative space between the 'E' and 'X' in the FedEx wordmark to form a forward-pointing arrow, symbolizing speed and precision, in his 1994 redesign.",
+    "tags": [
+      "typography",
+      "logo-design"
+    ]
+  },
+  {
+    "id": "art-162",
+    "domain": "art",
+    "hook": "A widely used newspaper typeface was created out of frustration.",
+    "fact": "Times New Roman was commissioned by The Times of London after a 1929 critique accused the paper of poor typography. Stanley Morison led its design, and it debuted in the paper in 1932.",
+    "tags": [
+      "typography",
+      "times-new-roman"
+    ]
+  },
+  {
+    "id": "art-163",
+    "domain": "art",
+    "hook": "A 500-year-old typeface is still one of the most widely used fonts in publishing.",
+    "fact": "Garamond, named after 16th-century French type designer Claude Garamond, remains popular for its readability and elegant proportions, and variations of it are still bundled with modern word processors.",
+    "tags": [
+      "typography",
+      "garamond"
+    ]
+  },
+  {
+    "id": "art-164",
+    "domain": "art",
+    "hook": "Printers had a saying: when in doubt, use this one typeface.",
+    "fact": "'When in doubt, use Caslon' became a common adage among printers because William Caslon's 18th-century English typeface was considered a dependable, versatile default. It was even used to print the U.S. Declaration of Independence.",
+    "tags": [
+      "typography",
+      "caslon"
+    ]
+  },
+  {
+    "id": "art-165",
+    "domain": "art",
+    "hook": "One typeface shaped how the BBC and Penguin Books looked for decades.",
+    "fact": "Eric Gill's 1928 Gill Sans became closely associated with British institutional identity, used extensively by the BBC and as the standard typeface on Penguin paperback covers for years.",
+    "tags": [
+      "typography",
+      "gill-sans"
+    ]
+  },
+  {
+    "id": "art-166",
+    "domain": "art",
+    "hook": "IBM's logo got its stripes to look faster and more modern.",
+    "fact": "Designer Paul Rand created IBM's blocky lettermark logo in 1956, then in 1972 introduced the eight-bar striped version, meant to evoke speed, dynamism, and scan lines on early televisions.",
+    "tags": [
+      "typography",
+      "logo-design"
+    ]
+  },
+  {
+    "id": "art-167",
+    "domain": "art",
+    "hook": "NASA briefly ditched its classic logo for a sleek red wordmark.",
+    "fact": "Between 1975 and 1992, NASA used a minimalist red typographic logo nicknamed 'the worm,' replacing the older circular 'meatball' insignia. The worm logo was later revived for select missions starting in 2020.",
+    "tags": [
+      "typography",
+      "nasa"
+    ]
+  },
+  {
+    "id": "art-168",
+    "domain": "art",
+    "hook": "A dingbat font became the subject of an internet conspiracy theory.",
+    "fact": "Wingdings, a Microsoft symbol font from 1990, sparked online rumors in the 1990s that certain letter combinations spelled out hidden offensive messages when converted, a claim mostly attributed to coincidence and misreading.",
+    "tags": [
+      "typography",
+      "wingdings"
+    ]
+  },
+  {
+    "id": "art-169",
+    "domain": "art",
+    "hook": "One 18th-century typeface was considered controversially 'too perfect' when it launched.",
+    "fact": "John Baskerville's mid-1700s typeface used sharper contrast between thick and thin strokes than earlier fonts, and some contemporaries claimed the crispness strained readers' eyes. It went on to heavily influence modern serif design.",
+    "tags": [
+      "typography",
+      "baskerville"
+    ]
+  },
+  {
+    "id": "art-170",
+    "domain": "art",
+    "hook": "An artist patented his own specific shade of blue.",
+    "fact": "Yves Klein worked with a chemist to develop International Klein Blue in 1960, a matte ultramarine pigment suspended in a synthetic resin binder that preserved the pigment's raw intensity better than traditional oil-based binders.",
+    "tags": [
+      "color-theory",
+      "pigments"
+    ]
+  },
+  {
+    "id": "art-171",
+    "domain": "art",
+    "hook": "The first synthetic dye was discovered by accident while trying to cure malaria.",
+    "fact": "In 1856, 18-year-old chemist William Perkin was attempting to synthesize quinine when he instead produced mauveine, the first synthetic aniline dye, launching the modern synthetic dye and chemical industry.",
+    "whyItMatters": "Perkin's accidental discovery kicked off an entire branch of industrial chemistry, eventually leading to synthetic pharmaceuticals as well as dyes.",
+    "tags": [
+      "color-theory",
+      "pigments"
+    ]
+  },
+  {
+    "id": "art-172",
+    "domain": "art",
+    "hook": "A vivid blue pigment was discovered by accident in the early 1700s.",
+    "fact": "Prussian blue was created around 1706 by a Berlin pigment maker who was actually trying to produce a red dye. It became one of the first modern synthetic pigments and later underpinned the cyanotype photographic process.",
+    "tags": [
+      "color-theory",
+      "pigments"
+    ]
+  },
+  {
+    "id": "art-173",
+    "domain": "art",
+    "hook": "Purple used to cost more than gold because of thousands of crushed sea snails.",
+    "fact": "Tyrian purple was extracted from the mucus of murex sea snails in the ancient Mediterranean, and producing even a small amount of dye required thousands of snails, making the color a symbol reserved for royalty and high status.",
+    "tags": [
+      "color-theory",
+      "dye-history"
+    ]
+  },
+  {
+    "id": "art-174",
+    "domain": "art",
+    "hook": "Your screen and your printer don't actually use the same colors.",
+    "fact": "Screens create color additively by combining red, green, and blue light (RGB), while printers create color subtractively using cyan, magenta, yellow, and black ink (CMYK), which is why on-screen colors can shift when printed.",
+    "tags": [
+      "color-theory",
+      "print-design"
+    ]
+  },
+  {
+    "id": "art-175",
+    "domain": "art",
+    "hook": "One company's numbered color system became the universal language of color matching.",
+    "fact": "Lawrence Herbert developed the Pantone Matching System in 1963, assigning standardized numeric codes to colors so that manufacturers, printers, and designers anywhere in the world could reproduce an exact color consistently.",
+    "whyItMatters": "Pantone codes let a brand's exact color stay consistent across totally different materials and factories, from packaging to fabric to plastic.",
+    "tags": [
+      "color-theory",
+      "pantone"
+    ]
+  },
+  {
+    "id": "art-176",
+    "domain": "art",
+    "hook": "Isaac Newton was the first to arrange colors in a circle.",
+    "fact": "In his 1704 book Opticks, Newton mapped the visible spectrum onto a circular diagram, creating what's considered the first color wheel and establishing a framework for understanding relationships between colors.",
+    "tags": [
+      "color-theory",
+      "newton"
+    ]
+  },
+  {
+    "id": "art-177",
+    "domain": "art",
+    "hook": "Goethe wrote an entire book arguing against Newton's theory of color.",
+    "fact": "In his 1810 Theory of Colours, poet and scientist Johann Wolfgang von Goethe rejected Newton's purely physical explanation of color, focusing instead on the psychological and perceptual experience of how humans see and feel color.",
+    "tags": [
+      "color-theory",
+      "goethe"
+    ]
+  },
+  {
+    "id": "art-178",
+    "domain": "art",
+    "hook": "There's a specific orange engineered purely to catch your eye.",
+    "fact": "Safety orange is formulated to stand out sharply against most natural backdrops like foliage, sky, and pavement, which is why it's the standard color for traffic cones, life jackets, and high-visibility work gear.",
+    "whyItMatters": "Choosing a color scientifically for maximum visibility rather than aesthetics has measurably reduced accidents in traffic and industrial safety settings.",
+    "tags": [
+      "color-theory",
+      "safety-design"
+    ]
+  },
+  {
+    "id": "art-179",
+    "domain": "art",
+    "hook": "Medieval painters sometimes used a blue pigment worth more than gold, ounce for ounce.",
+    "fact": "Ultramarine pigment was made by grinding lapis lazuli, a semi-precious stone mined almost exclusively in what is now Afghanistan, making it one of the most expensive materials available to European artisans and patrons.",
+    "tags": [
+      "color-theory",
+      "pigments"
+    ]
+  },
+  {
+    "id": "art-180",
+    "domain": "art",
+    "hook": "The earliest 'camera' had no lens, no film, and no way to save an image.",
+    "fact": "The camera obscura, described as early as Aristotle, projects an inverted image of the outside world through a small hole into a darkened room or box. Artists used it for centuries as a drawing aid long before photography existed.",
+    "tags": [
+      "photography",
+      "camera-history"
+    ]
+  },
+  {
+    "id": "art-181",
+    "domain": "art",
+    "hook": "The oldest surviving photograph took over eight hours to capture.",
+    "fact": "Nicéphore Niépce's View from the Window at Le Gras, made around 1826-27, required an extremely long exposure on a pewter plate coated with bitumen, making it the earliest known surviving camera photograph.",
+    "tags": [
+      "photography",
+      "history"
+    ]
+  },
+  {
+    "id": "art-182",
+    "domain": "art",
+    "hook": "The first commercial photographs couldn't be copied at all.",
+    "fact": "Louis Daguerre's 1839 daguerreotype process created a unique image directly on a silvered copper plate, with no negative involved, meaning every daguerreotype was a one-of-a-kind original.",
+    "tags": [
+      "photography",
+      "daguerreotype"
+    ]
+  },
+  {
+    "id": "art-183",
+    "domain": "art",
+    "hook": "One camera's slogan promised total simplicity: 'you press the button, we do the rest.'",
+    "fact": "Kodak's Brownie camera, released in 1900, was cheap and easy enough for ordinary people to operate, helping shift photography from a technical specialty into a mass-market hobby.",
+    "tags": [
+      "photography",
+      "kodak"
+    ]
+  },
+  {
+    "id": "art-184",
+    "domain": "art",
+    "hook": "A camera that develops its own photos in minutes was invented by a single scientist.",
+    "fact": "Edwin Land introduced the Polaroid instant camera in 1948, using a self-developing chemical process built into the film itself so a finished photo emerged from the camera within minutes of being taken.",
+    "tags": [
+      "photography",
+      "polaroid"
+    ]
+  },
+  {
+    "id": "art-185",
+    "domain": "art",
+    "hook": "The first digital camera ever built weighed eight pounds and took 23 seconds per photo.",
+    "fact": "Kodak engineer Steven Sasson built the first digital camera in 1975. It captured images at 0.01 megapixels onto a cassette tape and had no viewfinder screen to review the shot.",
+    "whyItMatters": "Kodak shelved the technology for years to protect its film business, a decision often cited as a textbook case of a company failing to disrupt itself before competitors did it for them.",
+    "tags": [
+      "photography",
+      "kodak"
+    ]
+  },
+  {
+    "id": "art-186",
+    "domain": "art",
+    "hook": "A camera designed to be small changed what kind of photos were possible.",
+    "fact": "Oskar Barnack developed the compact 35mm Leica camera in the early 20th century, and its portability made fast, candid, unposed photography practical for the first time, fueling the rise of modern photojournalism.",
+    "tags": [
+      "photography",
+      "leica"
+    ]
+  },
+  {
+    "id": "art-187",
+    "domain": "art",
+    "hook": "Ansel Adams treated exposure like a musical scale.",
+    "fact": "Adams and Fred Archer developed the Zone System in the 1930s and 40s, a method of mapping perceived light levels onto a scale of print tones, giving photographers precise control over contrast and detail in black-and-white prints.",
+    "tags": [
+      "photography",
+      "ansel-adams"
+    ]
+  },
+  {
+    "id": "art-188",
+    "domain": "art",
+    "hook": "Early color photographs got their color from dyed potato starch.",
+    "fact": "The Lumière brothers' 1907 Autochrome process used microscopic grains of potato starch dyed red, green, and blue as color filters over a photographic plate, becoming the first commercially successful color photography method.",
+    "tags": [
+      "photography",
+      "color-photography"
+    ]
+  },
+  {
+    "id": "art-189",
+    "domain": "art",
+    "hook": "The first X-ray image ever taken was of the scientist's own wife's hand.",
+    "fact": "Wilhelm Röntgen discovered X-rays in 1895 and produced the first X-ray photograph shortly after, an image of his wife Anna's hand showing her bones and wedding ring, launching the field of medical imaging.",
+    "tags": [
+      "photography",
+      "x-ray"
+    ]
+  },
+  {
+    "id": "art-190",
+    "domain": "art",
+    "hook": "The first aerial photograph was taken from a hot air balloon over Paris.",
+    "fact": "Photographer and balloonist Nadar captured the earliest surviving aerial photograph in 1858, rigging a portable darkroom into his balloon basket to develop the image while airborne.",
+    "tags": [
+      "photography",
+      "aerial-photography"
+    ]
+  },
+  {
+    "id": "art-191",
+    "domain": "art",
+    "hook": "You can build a working camera with no lens at all.",
+    "fact": "A pinhole camera uses a tiny aperture instead of a lens to project an image onto light-sensitive material, a principle understood for centuries and still used today in photography education and experimental art.",
+    "tags": [
+      "photography",
+      "pinhole-camera"
+    ]
+  },
+  {
+    "id": "art-192",
+    "domain": "art",
+    "hook": "One designer basically invented the modern movie opening credits sequence.",
+    "fact": "Saul Bass transformed film title sequences from static text into cinematic mini-films with his work on Vertigo, Psycho, and The Man with the Golden Arm, and he also designed corporate logos for AT&T and Quaker Oats.",
+    "tags": [
+      "film-design",
+      "saul-bass"
+    ]
+  },
+  {
+    "id": "art-193",
+    "domain": "art",
+    "hook": "The Star Wars logo almost looked completely different.",
+    "fact": "The bold, blocky Star Wars logo is commonly credited to designer Suzy Rice in 1976, with the film's title treatment later refined by title designer Dan Perri before the 1977 release.",
+    "tags": [
+      "film-design",
+      "logo-design"
+    ]
+  },
+  {
+    "id": "art-194",
+    "domain": "art",
+    "hook": "Pixar's mascot started life as a seven-minute student-style short film.",
+    "fact": "Luxo Jr., the bouncing desk lamp, debuted in a 1986 short film that became one of the earliest fully computer-animated films to earn an Academy Award nomination, and the lamp became Pixar's permanent studio logo.",
+    "tags": [
+      "film-design",
+      "pixar"
+    ]
+  },
+  {
+    "id": "art-195",
+    "domain": "art",
+    "hook": "Old Hollywood's vivid colors came from combining three separate film strips.",
+    "fact": "The three-strip Technicolor process, refined in the late 1920s and 1930s, captured red, green, and blue color information on three separate film negatives that were combined into one vividly saturated print, as seen in The Wizard of Oz.",
+    "tags": [
+      "film-design",
+      "technicolor"
+    ]
+  },
+  {
+    "id": "art-196",
+    "domain": "art",
+    "hook": "One concept artist's vision of a rainy neon future shaped decades of science fiction films.",
+    "fact": "Syd Mead's production design for Blade Runner (1982) established a 'retrofitted' cyberpunk look combining decaying old buildings with high-tech neon advertising, an aesthetic that influenced countless sci-fi films afterward.",
+    "tags": [
+      "film-design",
+      "blade-runner"
+    ]
+  },
+  {
+    "id": "art-197",
+    "domain": "art",
+    "hook": "IMAX film frames are roughly ten times larger than standard movie film.",
+    "fact": "The IMAX format uses much larger film frames than conventional 35mm cinema, allowing dramatically higher image resolution and detail when projected onto massive screens.",
+    "tags": [
+      "film-design",
+      "imax"
+    ]
+  },
+  {
+    "id": "art-198",
+    "domain": "art",
+    "hook": "Storyboards were pioneered so studios could catch expensive mistakes before filming even began.",
+    "fact": "Walt Disney Studios popularized storyboarding in the early 1930s, pinning up sequential sketches of scenes to plan animation before committing to costly hand-drawn production, and the practice spread to live-action filmmaking soon after.",
+    "tags": [
+      "film-design",
+      "storyboarding"
+    ]
+  },
+  {
+    "id": "art-199",
+    "domain": "art",
+    "hook": "Widescreen movies exist partly because studios were panicking about television.",
+    "fact": "20th Century Fox introduced the CinemaScope widescreen format in 1953, using anamorphic lenses to capture a much wider aspect ratio, partly as a strategy to offer moviegoers a scale of spectacle television couldn't replicate.",
+    "tags": [
+      "film-design",
+      "cinematography"
+    ]
+  },
+  {
+    "id": "art-200",
+    "domain": "art",
+    "hook": "The Mona Lisa has no eyebrows or eyelashes.",
+    "fact": "Leonardo da Vinci's famous portrait is missing eyebrows and eyelashes, most likely because plucking them was a fashionable beauty trend among Florentine women of the era, though some restoration and aging effects may have played a role too.",
+    "tags": [
+      "painting",
+      "renaissance"
+    ]
+  }
+]

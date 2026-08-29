@@ -4,7 +4,10 @@
     "domain": "culture",
     "hook": "The 'OK' hand gesture isn't universally positive.",
     "fact": "While it signals approval in much of the English-speaking world, the same gesture is considered offensive or vulgar in parts of Brazil, Germany, and the Middle East.",
-    "tags": ["gestures", "customs"],
+    "tags": [
+      "gestures",
+      "customs"
+    ],
     "translations": {
       "fr": {
         "hook": "Le geste « OK » n'est pas positif partout.",
@@ -25,7 +28,10 @@
     "domain": "culture",
     "hook": "Chess originated in India, not Europe.",
     "fact": "Chess evolved from a game called chaturanga in India around the 6th century CE, later spreading through Persia and the Islamic world before reaching Europe.",
-    "tags": ["games", "history-of-culture"],
+    "tags": [
+      "games",
+      "history-of-culture"
+    ],
     "translations": {
       "fr": {
         "hook": "Les échecs sont nés en Inde, pas en Europe.",
@@ -46,7 +52,10 @@
     "domain": "culture",
     "hook": "Tipping isn't a global custom.",
     "fact": "In Japan and South Korea, tipping can actually be seen as confusing or even rude, since excellent service is considered a standard part of the job rather than something to reward extra.",
-    "tags": ["customs", "food"],
+    "tags": [
+      "customs",
+      "food"
+    ],
     "translations": {
       "fr": {
         "hook": "Le pourboire n'est pas une coutume universelle.",
@@ -67,7 +76,9 @@
     "domain": "culture",
     "hook": "The world's most spoken native language isn't English.",
     "fact": "Mandarin Chinese has the most native speakers of any language in the world, followed by Spanish — English ranks third for native speakers, though it leads for total speakers including second-language learners.",
-    "tags": ["language"],
+    "tags": [
+      "language"
+    ],
     "translations": {
       "fr": {
         "hook": "La langue maternelle la plus parlée au monde n'est pas l'anglais.",
@@ -88,7 +99,10 @@
     "domain": "culture",
     "hook": "Handshakes may have started as a trust gesture.",
     "fact": "One theory traces the handshake to ancient Greece, where extending an empty right hand showed you weren't concealing a weapon.",
-    "tags": ["gestures", "ancient-history"],
+    "tags": [
+      "gestures",
+      "ancient-history"
+    ],
     "translations": {
       "fr": {
         "hook": "La poignée de main serait née d'un geste de confiance.",
@@ -109,7 +123,10 @@
     "domain": "culture",
     "hook": "There are more Lego figures than people on Earth.",
     "fact": "Lego produces so many minifigures each year that estimates suggest their total population has long since surpassed the human population of the planet.",
-    "tags": ["toys", "trivia"],
+    "tags": [
+      "toys",
+      "trivia"
+    ],
     "translations": {
       "fr": {
         "hook": "Il y a plus de figurines Lego que d'humains sur Terre.",
@@ -130,7 +147,10 @@
     "domain": "culture",
     "hook": "Sushi wasn't originally eaten fresh.",
     "fact": "Early forms of sushi in Southeast Asia and Japan used fermented rice as a preservative to store fish for months — eating the rice alongside the fish came much later.",
-    "tags": ["food", "japan"],
+    "tags": [
+      "food",
+      "japan"
+    ],
     "translations": {
       "fr": {
         "hook": "Le sushi n'était pas mangé frais à l'origine.",
@@ -151,7 +171,10 @@
     "domain": "culture",
     "hook": "Some cultures count age differently.",
     "fact": "Traditional Korean age counting considered a baby one year old at birth, adding another year every New Year's Day rather than on the individual's birthday — South Korea officially switched to international age counting in 2023.",
-    "tags": ["customs", "korea"],
+    "tags": [
+      "customs",
+      "korea"
+    ],
     "translations": {
       "fr": {
         "hook": "Certaines cultures ne calculent pas l'âge de la même façon.",
@@ -172,7 +195,10 @@
     "domain": "culture",
     "hook": "The white wedding dress is a relatively modern trend.",
     "fact": "Brides wore all kinds of colors for centuries; the white wedding dress became fashionable largely after Queen Victoria wore one for her 1840 wedding.",
-    "tags": ["customs", "weddings"],
+    "tags": [
+      "customs",
+      "weddings"
+    ],
     "translations": {
       "fr": {
         "hook": "La robe de mariée blanche est une tendance assez récente.",
@@ -193,7 +219,10 @@
     "domain": "culture",
     "hook": "Emoji started as a way to save space on pagers.",
     "fact": "Emoji were created in 1999 by Shigetaka Kurita for Japanese mobile carriers, partly to convey information — like weather or emotion — in far less space than text.",
-    "tags": ["language", "technology"],
+    "tags": [
+      "language",
+      "technology"
+    ],
     "translations": {
       "fr": {
         "hook": "Les emojis sont nés pour économiser de la place sur les pagers.",
@@ -214,7 +243,10 @@
     "domain": "culture",
     "hook": "Not all cultures nod for 'yes.'",
     "fact": "In Bulgaria and parts of Greece and Albania, a nod can traditionally mean 'no' while shaking the head side to side can mean 'yes' — the reverse of common Western convention.",
-    "tags": ["gestures", "customs"],
+    "tags": [
+      "gestures",
+      "customs"
+    ],
     "translations": {
       "fr": {
         "hook": "Hocher la tête ne veut pas dire « oui » partout.",
@@ -236,7 +268,10 @@
     "hook": "The number of languages spoken today is shrinking fast.",
     "fact": "Linguists estimate around 7,000 languages are spoken worldwide today, but as many as 40% are considered endangered and could disappear within generations.",
     "whyItMatters": "Each language loss can mean losing unique knowledge, stories, and ways of understanding the world.",
-    "tags": ["language", "society"],
+    "tags": [
+      "language",
+      "society"
+    ],
     "translations": {
       "fr": {
         "hook": "Le nombre de langues parlées aujourd'hui diminue rapidement.",
@@ -260,7 +295,10 @@
     "domain": "culture",
     "hook": "Fortune cookies aren't actually from China.",
     "fact": "Fortune cookies are widely believed to have originated with Japanese immigrants in California in the early 1900s and were later popularized by Chinese-American restaurants — they're largely unknown in China itself.",
-    "tags": ["food", "myths"],
+    "tags": [
+      "food",
+      "myths"
+    ],
     "translations": {
       "fr": {
         "hook": "Les biscuits chinois ne viennent pas vraiment de Chine.",
@@ -281,7 +319,10 @@
     "domain": "culture",
     "hook": "Chopsticks were originally cooking tools, not eating utensils.",
     "fact": "Chopsticks have been used in China for more than 3,000 years, but were first used mainly for cooking and serving food from communal pots before becoming common eating utensils.",
-    "tags": ["food", "china"],
+    "tags": [
+      "food",
+      "china"
+    ],
     "translations": {
       "fr": {
         "hook": "Les baguettes étaient à l'origine des ustensiles de cuisine, pas pour manger.",
@@ -302,7 +343,10 @@
     "domain": "culture",
     "hook": "A thumbs up isn't a friendly gesture everywhere.",
     "fact": "While it signals approval across much of the West, the thumbs up gesture is considered offensive in parts of the Middle East and West Africa.",
-    "tags": ["gestures", "customs"],
+    "tags": [
+      "gestures",
+      "customs"
+    ],
     "translations": {
       "fr": {
         "hook": "Le pouce levé n'est pas un geste amical partout.",
@@ -323,7 +367,10 @@
     "domain": "culture",
     "hook": "The Bible is the most translated book in the world.",
     "fact": "It's been translated, at least in part, into over 3,000 languages — far more than any other written work in history.",
-    "tags": ["language", "history-of-culture"],
+    "tags": [
+      "language",
+      "history-of-culture"
+    ],
     "translations": {
       "fr": {
         "hook": "La Bible est le livre le plus traduit au monde.",
@@ -344,7 +391,10 @@
     "domain": "culture",
     "hook": "Slurping your noodles loudly is a compliment in Japan.",
     "fact": "In Japan, audibly slurping noodles like ramen or soba is considered a sign that you're enjoying the meal, not bad manners.",
-    "tags": ["food", "japan"],
+    "tags": [
+      "food",
+      "japan"
+    ],
     "translations": {
       "fr": {
         "hook": "Aspirer bruyamment ses nouilles est un compliment au Japon.",
@@ -365,7 +415,10 @@
     "domain": "culture",
     "hook": "Piñatas didn't originate in Mexico.",
     "fact": "The piñata tradition is believed to have started in China, later spread to Europe, and was eventually brought to Mexico by Spanish colonizers, where it took on its modern form.",
-    "tags": ["customs", "history-of-culture"],
+    "tags": [
+      "customs",
+      "history-of-culture"
+    ],
     "translations": {
       "fr": {
         "hook": "Les piñatas ne viennent pas du Mexique à l'origine.",
@@ -386,7 +439,10 @@
     "domain": "culture",
     "hook": "Valentine's Day has roots in an ancient Roman festival.",
     "fact": "Valentine's Day traces back to Lupercalia, an ancient Roman fertility festival, which was later Christianized and renamed after a martyred saint.",
-    "tags": ["customs", "rome"],
+    "tags": [
+      "customs",
+      "rome"
+    ],
     "translations": {
       "fr": {
         "hook": "La Saint-Valentin trouve ses racines dans une fête romaine antique.",
@@ -407,7 +463,10 @@
     "domain": "culture",
     "hook": "Using your left hand to eat is considered rude in many cultures.",
     "fact": "In much of South Asia and the Middle East, the left hand is traditionally reserved for hygiene tasks, so eating or handing something to someone with it is seen as impolite.",
-    "tags": ["customs", "food"],
+    "tags": [
+      "customs",
+      "food"
+    ],
     "translations": {
       "fr": {
         "hook": "Manger avec la main gauche est mal vu dans de nombreuses cultures.",
@@ -428,7 +487,10 @@
     "domain": "culture",
     "hook": "Origami came to Japan from China, along with paper itself.",
     "fact": "The art of paper folding developed in Japan around the 6th century, after papermaking techniques were introduced from China.",
-    "tags": ["japan", "art"],
+    "tags": [
+      "japan",
+      "art"
+    ],
     "translations": {
       "fr": {
         "hook": "L'origami est arrivé au Japon depuis la Chine, en même temps que le papier.",
@@ -449,7 +511,9 @@
     "domain": "culture",
     "hook": "Clinking glasses during a toast may have started as superstition.",
     "fact": "One popular theory holds that the custom of clinking glasses began from a belief that the sound would scare away evil spirits lurking nearby.",
-    "tags": ["customs"],
+    "tags": [
+      "customs"
+    ],
     "translations": {
       "fr": {
         "hook": "Trinquer serait né d'une superstition.",
@@ -470,7 +534,10 @@
     "domain": "culture",
     "hook": "Yoga is thousands of years older than most people realize.",
     "fact": "Yoga originated in ancient India more than 5,000 years ago as a spiritual and philosophical discipline, long before it became associated primarily with physical exercise.",
-    "tags": ["india", "history-of-culture"],
+    "tags": [
+      "india",
+      "history-of-culture"
+    ],
     "translations": {
       "fr": {
         "hook": "Le yoga est bien plus ancien qu'on ne le pense généralement.",
@@ -491,7 +558,10 @@
     "domain": "culture",
     "hook": "In Russia, an even number of flowers is for funerals only.",
     "fact": "Russian custom reserves even-numbered flower bouquets for funerals and mourning — bouquets given for celebrations should always have an odd number of stems.",
-    "tags": ["customs", "russia"],
+    "tags": [
+      "customs",
+      "russia"
+    ],
     "translations": {
       "fr": {
         "hook": "En Russie, un nombre pair de fleurs est réservé aux enterrements.",
@@ -512,7 +582,10 @@
     "domain": "culture",
     "hook": "Saying 'bless you' after a sneeze may date back to a 6th-century plague.",
     "fact": "One popular account credits Pope Gregory I with urging people to say a blessing after sneezing during a deadly outbreak, since a sneeze was feared to be an early plague symptom.",
-    "tags": ["customs", "history-of-culture"],
+    "tags": [
+      "customs",
+      "history-of-culture"
+    ],
     "translations": {
       "fr": {
         "hook": "Dire « à tes souhaits » après un éternuement remonterait à une peste du 6e siècle.",
@@ -533,7 +606,10 @@
     "domain": "culture",
     "hook": "Carnival celebrations predate Christianity.",
     "fact": "Festivals like Brazil's Carnival, held before the Christian season of Lent, trace back to pre-Christian spring celebrations that were later absorbed into the Christian calendar.",
-    "tags": ["customs", "south-america"],
+    "tags": [
+      "customs",
+      "south-america"
+    ],
     "translations": {
       "fr": {
         "hook": "Le Carnaval est antérieur au christianisme.",
@@ -554,7 +630,10 @@
     "domain": "culture",
     "hook": "Flamenco blends far more cultures than just Spanish ones.",
     "fact": "Though closely associated with Spain, flamenco developed from a mix of Romani, Andalusian, Jewish, and Moorish influences that mingled in southern Spain over centuries.",
-    "tags": ["art", "spain"],
+    "tags": [
+      "art",
+      "spain"
+    ],
     "translations": {
       "fr": {
         "hook": "Le flamenco mélange bien plus de cultures que la seule culture espagnole.",
@@ -575,7 +654,10 @@
     "domain": "culture",
     "hook": "White wedding cakes once symbolized wealth, not just purity.",
     "fact": "In earlier centuries, refined white sugar was expensive and difficult to produce, so a pure-white wedding cake was also a visible display of a family's wealth.",
-    "tags": ["customs", "weddings"],
+    "tags": [
+      "customs",
+      "weddings"
+    ],
     "translations": {
       "fr": {
         "hook": "Le gâteau de mariage blanc symbolisait autrefois la richesse, pas seulement la pureté.",
@@ -596,7 +678,10 @@
     "domain": "culture",
     "hook": "The high five is a fairly recent invention.",
     "fact": "Unlike older gestures such as the handshake or bow, the high five is widely credited to American baseball players in the late 1970s.",
-    "tags": ["gestures", "america"],
+    "tags": [
+      "gestures",
+      "america"
+    ],
     "translations": {
       "fr": {
         "hook": "Le high five est une invention assez récente.",
@@ -611,5 +696,1757 @@
         "fact": "A diferencia de gestos más antiguos como el apretón de manos o la reverencia, el choca esos cinco se atribuye ampliamente a jugadores de béisbol estadounidenses de finales de los años 70."
       }
     }
+  },
+  {
+    "id": "culture-030",
+    "domain": "culture",
+    "hook": "Diwali lights lamps to guide a legendary king home.",
+    "fact": "Diwali, the Hindu festival of lights, traditionally celebrates the return of Lord Rama to Ayodhya after 14 years of exile. Families light rows of oil lamps called diyas, and the festival also honors Lakshmi, goddess of prosperity.",
+    "tags": [
+      "hinduism",
+      "festivals",
+      "india"
+    ]
+  },
+  {
+    "id": "culture-031",
+    "domain": "culture",
+    "hook": "Holi's colors mark the arrival of spring, not just a paint fight.",
+    "fact": "Holi is a Hindu festival celebrating the arrival of spring and the triumph of good over evil, tied to the legend of Prahlada and the demoness Holika. Throwing colored powder became one of its most recognizable traditions.",
+    "tags": [
+      "hinduism",
+      "festivals",
+      "india"
+    ]
+  },
+  {
+    "id": "culture-032",
+    "domain": "culture",
+    "hook": "One Hindu festival spans nine nights of dance and devotion.",
+    "fact": "Navratri, meaning 'nine nights,' honors the goddess Durga in her many forms. Different regions of India mark it with fasting, dance styles like garba and dandiya raas, and elaborate shrine displays.",
+    "tags": [
+      "hinduism",
+      "festivals",
+      "india"
+    ]
+  },
+  {
+    "id": "culture-033",
+    "domain": "culture",
+    "hook": "The largest peaceful gathering on Earth happens at a river in India.",
+    "fact": "The Kumbh Mela, a Hindu pilgrimage held at four rotating river sites in India, draws tens of millions of pilgrims who bathe in waters believed to cleanse sin.",
+    "whyItMatters": "The 2013 Kumbh Mela in Allahabad drew an estimated 120 million visitors over about two months, making it one of the largest human gatherings in recorded history.",
+    "tags": [
+      "hinduism",
+      "festivals",
+      "india"
+    ]
+  },
+  {
+    "id": "culture-034",
+    "domain": "culture",
+    "hook": "A spring harvest festival became the birthday of a religion.",
+    "fact": "Vaisakhi marks both the Punjabi spring harvest and the 1699 founding of the Khalsa, the community of initiated Sikhs, by Guru Gobind Singh.",
+    "tags": [
+      "sikhism",
+      "festivals"
+    ]
+  },
+  {
+    "id": "culture-035",
+    "domain": "culture",
+    "hook": "Devout Sikhs carry five articles of faith at all times.",
+    "fact": "Baptized Sikhs traditionally wear the Five Ks: uncut hair (kesh), a wooden comb (kangha), a steel bracelet (kara), a small dagger (kirpan), and specific undergarments (kachera), as visible symbols of their commitment.",
+    "tags": [
+      "sikhism",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-036",
+    "domain": "culture",
+    "hook": "Obon welcomes ancestral spirits home for a few days each summer.",
+    "fact": "Obon is a Japanese Buddhist festival held in summer to honor deceased ancestors, marked by family gatherings, grave visits, and the Bon Odori folk dance. Many regions close the festival by floating lanterns on rivers to guide spirits back.",
+    "tags": [
+      "festivals",
+      "japan",
+      "buddhism"
+    ]
+  },
+  {
+    "id": "culture-037",
+    "domain": "culture",
+    "hook": "Some monks sweep the ground in front of them so they don't step on an insect.",
+    "fact": "Jain monks and nuns practice extreme forms of ahimsa, or nonviolence, sometimes carrying a soft broom to gently clear their path and wearing a cloth over the mouth to avoid inhaling small insects.",
+    "tags": [
+      "jainism",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-038",
+    "domain": "culture",
+    "hook": "Kerala's biggest festival welcomes back a mythical king once a year.",
+    "fact": "Onam commemorates the annual homecoming of the legendary King Mahabali in Hindu tradition, celebrated in Kerala, India, with elaborate flower carpets called pookalam and traditional snake boat races.",
+    "tags": [
+      "hinduism",
+      "festivals",
+      "india"
+    ]
+  },
+  {
+    "id": "culture-039",
+    "domain": "culture",
+    "hook": "There's no single way to wear a sari.",
+    "fact": "The sari, a single piece of unstitched cloth, can be draped in more than 100 documented regional styles across South Asia, each with different pleating, tucking, and shoulder arrangements.",
+    "tags": [
+      "customs",
+      "india"
+    ]
+  },
+  {
+    "id": "culture-040",
+    "domain": "culture",
+    "hook": "A month of fasting ends with one of Islam's biggest celebrations.",
+    "fact": "During Ramadan, observant Muslims fast from dawn to sunset for a lunar month as an act of spiritual discipline. The fast ends with Eid al-Fitr, a festival of communal prayer, feasting, and charity.",
+    "tags": [
+      "islam",
+      "festivals"
+    ]
+  },
+  {
+    "id": "culture-041",
+    "domain": "culture",
+    "hook": "Islam's other major Eid honors a father's willingness to sacrifice.",
+    "fact": "Eid al-Adha commemorates the account of Ibrahim's willingness to sacrifice his son in obedience to God, before God provided a ram instead. Many families mark it by sacrificing an animal and sharing the meat with those in need.",
+    "tags": [
+      "islam",
+      "festivals"
+    ]
+  },
+  {
+    "id": "culture-042",
+    "domain": "culture",
+    "hook": "Islam is built on five core obligations.",
+    "fact": "The Five Pillars of Islam are the declaration of faith (shahada), five daily prayers (salah), charitable giving (zakat), fasting during Ramadan (sawm), and pilgrimage to Mecca (hajj) for those who are able.",
+    "tags": [
+      "islam",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-043",
+    "domain": "culture",
+    "hook": "Millions circle the same small building every year.",
+    "fact": "During the hajj pilgrimage to Mecca, Muslims walk seven times counterclockwise around the Kaaba, a cube-shaped structure at the center of the Great Mosque believed to have been built by Ibrahim and Ismail.",
+    "tags": [
+      "islam",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-044",
+    "domain": "culture",
+    "hook": "Hanukkah's eight nights commemorate a lamp that shouldn't have lasted.",
+    "fact": "Hanukkah commemorates the rededication of the Second Temple in Jerusalem. Its eight nights of candle-lighting recall a legend that a one-day supply of oil for the temple's menorah burned for eight.",
+    "tags": [
+      "judaism",
+      "festivals"
+    ]
+  },
+  {
+    "id": "culture-045",
+    "domain": "culture",
+    "hook": "One Jewish meal is built entirely around telling a story.",
+    "fact": "The Passover Seder retells the biblical Exodus of the Israelites from slavery in Egypt through a structured meal featuring symbolic foods like matzah, unleavened bread eaten to recall the hurried flight from Egypt.",
+    "tags": [
+      "judaism",
+      "festivals"
+    ]
+  },
+  {
+    "id": "culture-046",
+    "domain": "culture",
+    "hook": "Turning 13 comes with new religious responsibility in Judaism.",
+    "fact": "A bar mitzvah (traditionally for boys at 13) or bat mitzvah (traditionally for girls at 12 or 13) marks a Jewish child's coming of age, after which they are considered accountable for observing religious commandments.",
+    "tags": [
+      "judaism",
+      "customs"
+    ]
+  },
+  {
+    "id": "culture-047",
+    "domain": "culture",
+    "hook": "Persian New Year predates Islam by thousands of years.",
+    "fact": "Nowruz, marking the spring equinox, has roots in ancient Zoroastrian tradition and has been celebrated in Iran and Central Asia for more than 3,000 years, continuing today across many countries regardless of religion.",
+    "tags": [
+      "festivals",
+      "zoroastrianism"
+    ]
+  },
+  {
+    "id": "culture-048",
+    "domain": "culture",
+    "hook": "Some Sufi Muslims spin in circles as an act of worship.",
+    "fact": "The whirling dance of the Mevlevi Sufi order, associated with followers of the poet Rumi, is a meditative ritual called sema meant to symbolize the soul's spiritual ascent toward divine love.",
+    "tags": [
+      "islam",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-049",
+    "domain": "culture",
+    "hook": "One of the world's oldest monotheistic religions still tends sacred fires.",
+    "fact": "Zoroastrianism, founded in ancient Persia possibly over 3,000 years ago on the teachings of the prophet Zoroaster, maintains fire temples where a flame is kept perpetually burning as a symbol of purity.",
+    "whyItMatters": "Zoroastrianism now has only a few hundred thousand adherents worldwide, mostly Parsis in India and Iranian Zoroastrians, making it one of the smallest surviving ancient religions.",
+    "tags": [
+      "zoroastrianism",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-050",
+    "domain": "culture",
+    "hook": "Ethiopia re-creates a baptism in the streets every January.",
+    "fact": "Timkat is the Ethiopian Orthodox celebration of Epiphany, commemorating the baptism of Jesus, marked by colorful processions carrying replicas of the Ark of the Covenant and ritual blessing of water.",
+    "tags": [
+      "christianity",
+      "festivals",
+      "ethiopia"
+    ]
+  },
+  {
+    "id": "culture-051",
+    "domain": "culture",
+    "hook": "A Maasai coming-of-age ceremony features warriors jumping as high as they can.",
+    "fact": "The adumu, often called the 'jumping dance,' is performed by Maasai warriors in East Africa as part of coming-of-age ceremonies, with height and grace serving as displays of strength.",
+    "tags": [
+      "customs",
+      "africa"
+    ]
+  },
+  {
+    "id": "culture-052",
+    "domain": "culture",
+    "hook": "Yoruba tradition dresses the spirits of ancestors in elaborate cloth.",
+    "fact": "In Yoruba culture of West Africa, the Egungun masquerade features elaborately costumed dancers believed to embody the spirits of ancestors, performed during festivals to honor the dead and bless the living.",
+    "tags": [
+      "religion",
+      "africa"
+    ]
+  },
+  {
+    "id": "culture-053",
+    "domain": "culture",
+    "hook": "One African philosophy defines a person through community, not individuality.",
+    "fact": "Ubuntu, a concept from Southern African Nguni languages, is often summarized as 'I am because we are,' holding that a person's humanity is bound up in their relationships with others.",
+    "tags": [
+      "philosophy",
+      "africa"
+    ]
+  },
+  {
+    "id": "culture-054",
+    "domain": "culture",
+    "hook": "Every pattern in kente cloth is meant to say something.",
+    "fact": "Kente cloth, woven by the Akan people of Ghana including the Ashanti, uses specific colors and geometric patterns that traditionally carry symbolic meanings tied to proverbs, history, or social status.",
+    "tags": [
+      "africa",
+      "art"
+    ]
+  },
+  {
+    "id": "culture-055",
+    "domain": "culture",
+    "hook": "Voodoo has a real religious home far from Hollywood depictions.",
+    "fact": "Vodun originated among the Fon and Ewe peoples of West Africa, particularly in present-day Benin, as a structured religion centered on spirits that mediate between humans and a supreme creator. It later spread to the Americas through the transatlantic slave trade.",
+    "whyItMatters": "Benin officially recognizes Vodun as a religion and holds a National Vodun Day each January 10th, drawing practitioners and visitors from around the world.",
+    "tags": [
+      "religion",
+      "africa"
+    ]
+  },
+  {
+    "id": "culture-056",
+    "domain": "culture",
+    "hook": "St. Nicholas has a horned companion who punishes the naughty.",
+    "fact": "In Alpine folklore, Krampus is a horned, demonic figure said to accompany St. Nicholas each December, frightening or punishing misbehaving children rather than rewarding good ones.",
+    "tags": [
+      "folklore",
+      "europe"
+    ]
+  },
+  {
+    "id": "culture-057",
+    "domain": "culture",
+    "hook": "Scotland burns a Viking longship every winter.",
+    "fact": "Up Helly Aa is a fire festival held in Shetland, Scotland, each January, culminating in torch-bearing participants burning a replica Viking galley to celebrate the islands' Norse heritage.",
+    "tags": [
+      "festivals",
+      "europe"
+    ]
+  },
+  {
+    "id": "culture-058",
+    "domain": "culture",
+    "hook": "One Spanish town's biggest festival is an all-out tomato fight.",
+    "fact": "La Tomatina, held annually in the town of Buñol, Spain, involves tens of thousands of participants throwing over-ripe tomatoes at each other in the streets, with origins traced to a spontaneous food fight in 1945.",
+    "tags": [
+      "festivals",
+      "spain"
+    ]
+  },
+  {
+    "id": "culture-059",
+    "domain": "culture",
+    "hook": "Spain's Holy Week processions can take hours to pass a single street.",
+    "fact": "During Semana Santa, cities across Spain hold elaborate processions in which religious brotherhoods carry ornate floats depicting the Passion of Christ, some accompanied by penitents wearing tall pointed hoods, a centuries-old Spanish tradition unrelated to any other group that later adopted similar robes.",
+    "tags": [
+      "christianity",
+      "spain",
+      "festivals"
+    ]
+  },
+  {
+    "id": "culture-060",
+    "domain": "culture",
+    "hook": "Sweden's biggest party of the year happens around a giant pole.",
+    "fact": "Midsummer, celebrated around the summer solstice, is one of Sweden's most important holidays, marked by dancing around a flower-decked maypole, folk songs, and feasting on herring and new potatoes.",
+    "tags": [
+      "festivals",
+      "sweden"
+    ]
+  },
+  {
+    "id": "culture-061",
+    "domain": "culture",
+    "hook": "Sweden celebrates a Sicilian saint by wearing candles on your head.",
+    "fact": "On St. Lucia Day each December, a girl is traditionally chosen to wear a crown of candles and lead a procession in white, honoring a 4th-century Christian martyr from Sicily — a tradition especially strong in Sweden and other Nordic countries.",
+    "tags": [
+      "christianity",
+      "sweden",
+      "festivals"
+    ]
+  },
+  {
+    "id": "culture-062",
+    "domain": "culture",
+    "hook": "Oktoberfest began as a wedding party, not a beer festival.",
+    "fact": "Oktoberfest traces back to 1810, when the citizens of Munich were invited to celebrate the marriage of Bavarian Crown Prince Ludwig. The horse races held for the occasion were so popular that the festival became an annual tradition.",
+    "tags": [
+      "festivals",
+      "germany"
+    ]
+  },
+  {
+    "id": "culture-063",
+    "domain": "culture",
+    "hook": "Pamplona's most famous tradition began as a practical way to move cattle.",
+    "fact": "The Running of the Bulls during Spain's San Fermín festival grew out of the practical need to drive bulls from holding pens to the bullring, with young men running alongside them; it later evolved into the event's central spectacle.",
+    "tags": [
+      "festivals",
+      "spain"
+    ]
+  },
+  {
+    "id": "culture-064",
+    "domain": "culture",
+    "hook": "Greek mythology's ruling gods all lived on one mountain.",
+    "fact": "The Twelve Olympians, including Zeus, Hera, Poseidon, and Athena, were the principal deities of ancient Greek religion, believed to reside atop Mount Olympus, the highest peak in Greece.",
+    "tags": [
+      "mythology",
+      "greece"
+    ]
+  },
+  {
+    "id": "culture-065",
+    "domain": "culture",
+    "hook": "Norse mythology's universe hangs on a single enormous tree.",
+    "fact": "In Norse mythology, Yggdrasil is an immense ash tree said to connect the nine worlds, including the realms of gods, giants, and humans. Its fate is tied to Ragnarök, the prophesied end of the world.",
+    "tags": [
+      "mythology",
+      "norse"
+    ]
+  },
+  {
+    "id": "culture-066",
+    "domain": "culture",
+    "hook": "The UK still burns effigies to remember a failed 1605 plot.",
+    "fact": "Guy Fawkes Night, held every November 5th in the UK, commemorates the foiling of the 1605 Gunpowder Plot to blow up Parliament, traditionally marked with bonfires, fireworks, and burning effigies of the plot's namesake conspirator.",
+    "tags": [
+      "festivals",
+      "uk"
+    ]
+  },
+  {
+    "id": "culture-067",
+    "domain": "culture",
+    "hook": "Ireland's original royal color wasn't green.",
+    "fact": "Blue was historically associated with Irish royalty and early depictions of St. Patrick. Green became linked to Ireland later, through the shamrock's association with St. Patrick's teaching and 18th-century Irish nationalist symbolism.",
+    "tags": [
+      "customs",
+      "ireland"
+    ]
+  },
+  {
+    "id": "culture-068",
+    "domain": "culture",
+    "hook": "Most Icelanders don't share a surname with their parents.",
+    "fact": "Iceland largely uses a patronymic, or matronymic, naming system, where a person's last name is formed from a parent's first name plus '-son' or '-dóttir,' rather than an inherited family surname.",
+    "whyItMatters": "Because so many Icelanders effectively share 'surnames' formed this way, the country's phone directories are traditionally sorted by first name rather than last name.",
+    "tags": [
+      "customs",
+      "iceland"
+    ]
+  },
+  {
+    "id": "culture-069",
+    "domain": "culture",
+    "hook": "Día de los Muertos isn't a Mexican Halloween.",
+    "fact": "Día de los Muertos is a Mexican tradition honoring deceased loved ones with home altars called ofrendas, marigold flowers, and the departed's favorite foods, rooted in a blend of Indigenous Mesoamerican beliefs and Catholic observance.",
+    "whyItMatters": "UNESCO added Día de los Muertos to its list of Intangible Cultural Heritage in 2008, recognizing it as a distinct tradition rather than a Mexican version of Halloween.",
+    "tags": [
+      "festivals",
+      "mexico"
+    ]
+  },
+  {
+    "id": "culture-070",
+    "domain": "culture",
+    "hook": "Turning 15 gets its own elaborate celebration across Latin America.",
+    "fact": "A quinceañera marks a girl's 15th birthday in many Latin American cultures with a religious ceremony and a large celebration, traditionally symbolizing her transition from childhood to womanhood.",
+    "tags": [
+      "customs",
+      "latin-america"
+    ]
+  },
+  {
+    "id": "culture-071",
+    "domain": "culture",
+    "hook": "The Indigenous farming behind the first Thanksgiving still shapes cuisine today.",
+    "fact": "The Wampanoag people, who shared a harvest feast with English colonists in 1621, cultivated corn, beans, and squash together using a companion-planting method known as the Three Sisters, in which each crop supports the others' growth.",
+    "tags": [
+      "customs",
+      "indigenous",
+      "america"
+    ]
+  },
+  {
+    "id": "culture-072",
+    "domain": "culture",
+    "hook": "The Inca held their biggest festival for the sun itself.",
+    "fact": "Inti Raymi, the Inca festival honoring the sun god Inti, was traditionally held at the winter solstice in the Southern Hemisphere. It's still reenacted today in Cusco, Peru, drawing on historical accounts of the original ceremony.",
+    "tags": [
+      "festivals",
+      "peru"
+    ]
+  },
+  {
+    "id": "culture-073",
+    "domain": "culture",
+    "hook": "A Bahamian street parade traces back to enslaved Africans' one holiday.",
+    "fact": "Junkanoo, a vibrant costumed parade held in the Bahamas around Christmas and New Year's, is believed to have roots in celebrations enslaved Africans held on the few days of the year they were permitted time off.",
+    "tags": [
+      "festivals",
+      "caribbean"
+    ]
+  },
+  {
+    "id": "culture-074",
+    "domain": "culture",
+    "hook": "One Indigenous ceremony was once illegal simply for giving away too much.",
+    "fact": "The potlatch, practiced by Indigenous peoples of the Pacific Northwest Coast, is a ceremonial feast where hosts distribute gifts and wealth to affirm social status and mark important events.",
+    "whyItMatters": "Canada banned the potlatch from 1885 to 1951, and the U.S. restricted it too, as part of broader policies aimed at suppressing Indigenous cultural practices.",
+    "tags": [
+      "customs",
+      "indigenous"
+    ]
+  },
+  {
+    "id": "culture-075",
+    "domain": "culture",
+    "hook": "A powwow is a living tradition, not a historical reenactment.",
+    "fact": "Powwows are social gatherings held by Native American and First Nations communities featuring dancing, drumming, and regalia. Customs vary by nation, but powwows continue today as vibrant expressions of Indigenous culture.",
+    "tags": [
+      "customs",
+      "indigenous"
+    ]
+  },
+  {
+    "id": "culture-076",
+    "domain": "culture",
+    "hook": "The haka isn't just a rugby pre-game ritual.",
+    "fact": "The haka is a ceremonial dance of the Māori people of New Zealand, traditionally performed to mark important events, welcome guests, or express strength and unity, not solely as a war dance, as it's often portrayed internationally.",
+    "tags": [
+      "customs",
+      "new-zealand"
+    ]
+  },
+  {
+    "id": "culture-077",
+    "domain": "culture",
+    "hook": "Giving a lei carries deeper meaning than a tourist souvenir.",
+    "fact": "In Hawaiian culture, giving a lei, a garland typically made of flowers, leaves, or shells, traditionally expresses affection, respect, or celebration, and is often accompanied by a kiss on the cheek.",
+    "tags": [
+      "customs",
+      "hawaii"
+    ]
+  },
+  {
+    "id": "culture-078",
+    "domain": "culture",
+    "hook": "One of the world's oldest belief systems explains creation through 'the Dreaming.'",
+    "fact": "In Aboriginal Australian traditions, the Dreaming describes the ancestral period when spirit beings shaped the land and established laws and customs. It's understood not just as a past event but as an ongoing spiritual reality tied to specific places.",
+    "tags": [
+      "religion",
+      "australia"
+    ]
+  },
+  {
+    "id": "culture-079",
+    "domain": "culture",
+    "hook": "Some Aboriginal Australians can navigate vast distances using songs.",
+    "fact": "Songlines are Aboriginal Australian oral traditions that encode paths across the landscape through song, story, and ceremony, passing down knowledge of navigation, water sources, and land features across generations.",
+    "whyItMatters": "Songlines have been presented as evidence of continuous connection to land in Australian native title legal cases, giving them legal as well as cultural significance.",
+    "tags": [
+      "customs",
+      "australia"
+    ]
+  },
+  {
+    "id": "culture-080",
+    "domain": "culture",
+    "hook": "One of the world's oldest wind instruments has strict traditional rules on who plays it.",
+    "fact": "The didgeridoo, developed by Aboriginal peoples of northern Australia at least 1,000 years ago, was traditionally reserved for men to play in many communities, though customs vary across different Aboriginal groups.",
+    "tags": [
+      "customs",
+      "australia"
+    ]
+  },
+  {
+    "id": "culture-081",
+    "domain": "culture",
+    "hook": "Cash gifts in China come with strict rules about the amount.",
+    "fact": "Hongbao, red envelopes containing money given during Lunar New Year and other celebrations in Chinese culture, traditionally hold an even amount, except for four, which is avoided because it sounds like the word for 'death' in Mandarin.",
+    "tags": [
+      "customs",
+      "china"
+    ]
+  },
+  {
+    "id": "culture-082",
+    "domain": "culture",
+    "hook": "Some East Asian buildings skip the fourth floor entirely.",
+    "fact": "In China, Japan, and Korea, the number four is often avoided in addresses, floor numbers, and gifts because it sounds similar to the word for 'death' in Mandarin, Japanese, and Korean respectively, a superstition known as tetraphobia.",
+    "whyItMatters": "Many hotels, hospitals, and apartment buildings across East Asia genuinely skip labeling a fourth floor, similar to how some Western buildings skip a 13th floor.",
+    "tags": [
+      "customs",
+      "china",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-083",
+    "domain": "culture",
+    "hook": "One festival gets its name from a full moon and a moon goddess.",
+    "fact": "The Mid-Autumn Festival, celebrated across China and other parts of East Asia, honors the full moon with mooncakes and family reunions, and is traditionally linked to the legend of Chang'e, a goddess said to live on the moon.",
+    "tags": [
+      "festivals",
+      "china"
+    ]
+  },
+  {
+    "id": "culture-084",
+    "domain": "culture",
+    "hook": "One Chinese holiday is dedicated to tidying up ancestors' graves.",
+    "fact": "Qingming, or Tomb-Sweeping Day, is a traditional Chinese festival where families visit and clean ancestral graves, make offerings, and pay respects, a practice rooted in Confucian values of honoring one's forebears.",
+    "tags": [
+      "festivals",
+      "china"
+    ]
+  },
+  {
+    "id": "culture-085",
+    "domain": "culture",
+    "hook": "Japan's New Year traditions run deeper than a countdown.",
+    "fact": "Japanese New Year traditions include eating mochi, sending New Year's postcards, and making the year's first shrine visit, called hatsumode, to pray for good fortune.",
+    "tags": [
+      "festivals",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-086",
+    "domain": "culture",
+    "hook": "A Japanese tea ceremony can take hours to prepare a single cup.",
+    "fact": "The traditional Japanese tea ceremony, or chanoyu, is a ritualized preparation and serving of matcha rooted in Zen Buddhist principles, emphasizing mindfulness and simplicity embodied in the aesthetic philosophy of wabi-sabi.",
+    "tags": [
+      "japan",
+      "customs"
+    ]
+  },
+  {
+    "id": "culture-087",
+    "domain": "culture",
+    "hook": "In Japan, opening a gift in front of the giver can seem impolite.",
+    "fact": "Traditional Japanese gift-giving etiquette often calls for setting a gift aside to open later in private, rather than unwrapping it immediately in front of the person who gave it.",
+    "tags": [
+      "etiquette",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-088",
+    "domain": "culture",
+    "hook": "Exchanging a business card in Japan follows an unspoken ritual.",
+    "fact": "In Japanese business etiquette, a business card, or meishi, is traditionally presented and received with both hands, examined respectfully, and never immediately pocketed or written on in front of the giver.",
+    "tags": [
+      "etiquette",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-089",
+    "domain": "culture",
+    "hook": "Sticking your chopsticks upright in a bowl of rice can be deeply unsettling to some.",
+    "fact": "In China, Japan, and other East Asian cultures, standing chopsticks upright in a bowl of rice is traditionally avoided because it visually resembles incense sticks burned as an offering to the dead at funerals.",
+    "tags": [
+      "etiquette",
+      "food"
+    ]
+  },
+  {
+    "id": "culture-090",
+    "domain": "culture",
+    "hook": "Japan sets out ornate dolls each spring to wish for girls' well-being.",
+    "fact": "Hina Matsuri, or Girls' Day, is a Japanese festival held each March 3rd in which families display tiered platforms of ornamental dolls representing the imperial court, traditionally to pray for daughters' health and happiness.",
+    "tags": [
+      "festivals",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-091",
+    "domain": "culture",
+    "hook": "Reaching adulthood in Japan comes with a citywide celebration.",
+    "fact": "Coming of Age Day, or Seijin no Hi, is a Japanese holiday honoring young people who have reached adulthood, marked by ceremonies where many wear traditional furisode kimono or formal suits.",
+    "tags": [
+      "customs",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-092",
+    "domain": "culture",
+    "hook": "Korea's biggest holiday is essentially a harvest thanksgiving for ancestors.",
+    "fact": "Chuseok is a major Korean harvest festival during which families gather, prepare traditional foods like songpyeon rice cakes, and perform ancestral memorial rites called charye.",
+    "tags": [
+      "festivals",
+      "korea"
+    ]
+  },
+  {
+    "id": "culture-093",
+    "domain": "culture",
+    "hook": "Thailand's new year celebration turns entire streets into water fights.",
+    "fact": "Songkran, the traditional Thai New Year, is celebrated with water-throwing festivities symbolizing washing away the previous year's bad luck, alongside more solemn traditions like pouring water over Buddha statues and elders' hands.",
+    "tags": [
+      "festivals",
+      "thailand"
+    ]
+  },
+  {
+    "id": "culture-094",
+    "domain": "culture",
+    "hook": "Thousands of floating baskets light up Thailand's rivers each November.",
+    "fact": "Loy Krathong is a Thai festival in which people float small decorated baskets, often made of banana leaves and containing candles and flowers, on rivers to pay respects to the water and let go of misfortune.",
+    "tags": [
+      "festivals",
+      "thailand"
+    ]
+  },
+  {
+    "id": "culture-095",
+    "domain": "culture",
+    "hook": "Pointing your feet at someone is a serious faux pas in Thailand.",
+    "fact": "In Thai culture, the feet are traditionally considered the lowest and least respectful part of the body, so pointing them at a person, a Buddha image, or using them to touch objects is generally seen as disrespectful.",
+    "tags": [
+      "etiquette",
+      "thailand"
+    ]
+  },
+  {
+    "id": "culture-096",
+    "domain": "culture",
+    "hook": "Touching a stranger's head is taboo across many Buddhist cultures.",
+    "fact": "In Thailand and other Buddhist-majority cultures in Southeast Asia, the head is traditionally considered the most sacred part of the body, so touching someone else's head, even a child's in a friendly gesture, is generally considered inappropriate.",
+    "tags": [
+      "etiquette",
+      "thailand"
+    ]
+  },
+  {
+    "id": "culture-097",
+    "domain": "culture",
+    "hook": "Buddhists mark three major life events with a single holiday.",
+    "fact": "Vesak, observed by Buddhists across much of Asia, commemorates the birth, enlightenment, and death of the Buddha, traditionally believed to have all occurred on the same day of the lunar calendar.",
+    "tags": [
+      "buddhism",
+      "festivals"
+    ]
+  },
+  {
+    "id": "culture-098",
+    "domain": "culture",
+    "hook": "Buddhism outlines a specific eight-step path to end suffering.",
+    "fact": "The Noble Eightfold Path in Buddhism outlines eight practices, including right view, right speech, and right mindfulness, considered the way to end suffering and achieve liberation.",
+    "tags": [
+      "buddhism",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-099",
+    "domain": "culture",
+    "hook": "Tibetan prayer flags aren't meant to be read — they're meant to be blown.",
+    "fact": "Tibetan Buddhist prayer flags are inscribed with mantras and prayers, and are hung outdoors so the wind can carry their blessings across the surrounding land, rather than being read by people.",
+    "tags": [
+      "buddhism",
+      "customs"
+    ]
+  },
+  {
+    "id": "culture-100",
+    "domain": "culture",
+    "hook": "Mongolia's national festival centers on three ancient sports.",
+    "fact": "Naadam, Mongolia's most important festival, showcases the 'three manly games' of wrestling, horse racing, and archery, with roots tracing back to skills valued among nomadic warriors in the era of the Mongol Empire.",
+    "tags": [
+      "festivals",
+      "mongolia"
+    ]
+  },
+  {
+    "id": "culture-101",
+    "domain": "culture",
+    "hook": "A simple gate marks the boundary between the ordinary and the sacred in Japan.",
+    "fact": "In Shinto, Japan's indigenous religion, torii gates mark the entrance to sacred spaces where kami, or spirits, are believed to dwell, symbolically separating the mundane world from the sacred.",
+    "tags": [
+      "shinto",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-102",
+    "domain": "culture",
+    "hook": "Hinduism has a trio of gods for creation, preservation, and destruction.",
+    "fact": "The Trimurti in Hinduism refers to three primary aspects of the divine: Brahma the creator, Vishnu the preserver, and Shiva the destroyer, though many Hindus worship other deities as supreme depending on their tradition.",
+    "tags": [
+      "hinduism",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-103",
+    "domain": "culture",
+    "hook": "Yin and yang aren't opposites so much as a single balanced whole.",
+    "fact": "In Taoist philosophy, yin and yang represent complementary forces, such as dark and light or passive and active, believed to be interdependent and constantly transforming into one another rather than fixed opposites.",
+    "tags": [
+      "taoism",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "culture-104",
+    "domain": "culture",
+    "hook": "One ancient Chinese philosophy built an ethical system around respecting your parents.",
+    "fact": "Filial piety, a central value in Confucian thought, holds that respect and care for one's parents and ancestors is a foundation of social harmony and moral character.",
+    "whyItMatters": "This principle still shapes multigenerational family structures and eldercare expectations across much of East Asia today.",
+    "tags": [
+      "confucianism",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "culture-105",
+    "domain": "culture",
+    "hook": "Ancient Egyptians believed your heart was weighed after death.",
+    "fact": "In ancient Egyptian mythology, the god Anubis was believed to weigh a person's heart against the feather of Ma'at, representing truth and justice, in the afterlife. A heart heavier than the feather meant the soul would be denied eternal life.",
+    "tags": [
+      "mythology",
+      "egypt"
+    ]
+  },
+  {
+    "id": "culture-106",
+    "domain": "culture",
+    "hook": "One religion was founded on the idea that all major faiths share the same source.",
+    "fact": "The Baha'i Faith, founded in 19th-century Persia by Baha'u'llah, teaches the essential unity of all major world religions and of humanity, viewing figures like Moses, Jesus, Muhammad, and Buddha as successive messengers of the same God.",
+    "whyItMatters": "Baha'is have faced significant persecution in Iran, where the faith originated, because it is not recognized as a protected religion under the country's constitution.",
+    "tags": [
+      "bahai",
+      "religion"
+    ]
+  },
+  {
+    "id": "culture-107",
+    "domain": "culture",
+    "hook": "A religious movement in Jamaica looks to a 20th-century Ethiopian emperor as a spiritual figure.",
+    "fact": "Rastafari, which emerged in Jamaica in the 1930s, holds Emperor Haile Selassie I of Ethiopia as a significant spiritual figure, drawing on Old Testament scripture and African identity as core elements of its belief system.",
+    "tags": [
+      "religion",
+      "jamaica"
+    ]
+  },
+  {
+    "id": "culture-108",
+    "domain": "culture",
+    "hook": "Many of the world's belief systems hold that everything has a spirit.",
+    "fact": "Animism, found across many Indigenous belief systems worldwide, holds that not just humans and animals but also plants, rivers, mountains, and objects can possess a spirit or life force.",
+    "tags": [
+      "religion",
+      "indigenous"
+    ]
+  },
+  {
+    "id": "culture-109",
+    "domain": "culture",
+    "hook": "Japan throws beans at 'demons' every February to usher in spring.",
+    "fact": "Setsubun marks the day before the start of spring in the traditional Japanese calendar, celebrated by throwing roasted soybeans while shouting 'Oni wa soto, fuku wa uchi' — 'Demons out, luck in' — to drive away evil spirits.",
+    "tags": [
+      "festivals",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-110",
+    "domain": "culture",
+    "hook": "Steady eye contact isn't always read as confidence.",
+    "fact": "While direct eye contact is often prized as a sign of honesty or confidence in much of the West, in parts of East Asia, Indigenous cultures, and the Middle East, prolonged eye contact, especially with elders or authority figures, can be seen as disrespectful.",
+    "tags": [
+      "etiquette",
+      "gestures"
+    ]
+  },
+  {
+    "id": "culture-111",
+    "domain": "culture",
+    "hook": "Turning down a second helping can be an insult in some cultures.",
+    "fact": "In many cultures across the Middle East, South Asia, and parts of Africa, refusing food offered by a host is traditionally considered impolite, and guests are often expected to accept at least a small portion even if not hungry.",
+    "tags": [
+      "etiquette",
+      "food"
+    ]
+  },
+  {
+    "id": "culture-112",
+    "domain": "culture",
+    "hook": "Pointing at someone with a single finger is rude in more places than you'd think.",
+    "fact": "In many cultures, including parts of Asia, Latin America, and the Middle East, pointing directly at a person with a single index finger is considered rude; gesturing with an open hand or a nod is often preferred instead.",
+    "tags": [
+      "etiquette",
+      "gestures"
+    ]
+  },
+  {
+    "id": "culture-113",
+    "domain": "culture",
+    "hook": "Wearing shoes indoors is considered unclean in much of the world.",
+    "fact": "In Japan, Korea, many Muslim-majority countries, and elsewhere, removing shoes before entering a home is standard practice, rooted in ideas about keeping outside dirt, and sometimes impurity, out of living and sacred spaces.",
+    "tags": [
+      "etiquette",
+      "customs"
+    ]
+  },
+  {
+    "id": "culture-114",
+    "domain": "culture",
+    "hook": "Giving someone a clock in China can sound like a death wish.",
+    "fact": "In Chinese culture, gifting a clock is traditionally avoided because the phrase for 'giving a clock' sounds identical to a phrase meaning 'attending a funeral' or 'the end of life.'",
+    "tags": [
+      "customs",
+      "china"
+    ]
+  },
+  {
+    "id": "culture-115",
+    "domain": "culture",
+    "hook": "One Hindu festival ends by ceremonially dissolving its own centerpiece in water.",
+    "fact": "Ganesh Chaturthi honors the elephant-headed deity Ganesha, and celebrations traditionally culminate in visarjan, where clay idols of the god are immersed in rivers or the sea as a symbol of his return to his celestial abode.",
+    "tags": [
+      "hinduism",
+      "festivals"
+    ]
+  },
+  {
+    "id": "culture-116",
+    "domain": "culture",
+    "hook": "New Zealand was the first self-governing country where women could vote in national elections.",
+    "fact": "In 1893, New Zealand granted all women the right to vote in parliamentary elections, decades before most Western nations followed.",
+    "tags": [
+      "social-movements",
+      "suffrage"
+    ]
+  },
+  {
+    "id": "culture-117",
+    "domain": "culture",
+    "hook": "The suffragette slogan was 'Deeds, not words.'",
+    "fact": "Emmeline Pankhurst founded the Women's Social and Political Union in 1903, and its militant members carried out hunger strikes, window-smashing campaigns, and arson to push for British women's voting rights.",
+    "tags": [
+      "social-movements",
+      "suffrage",
+      "uk"
+    ]
+  },
+  {
+    "id": "culture-118",
+    "domain": "culture",
+    "hook": "US women didn't win a constitutional right to vote until 1920.",
+    "fact": "The 19th Amendment, ratified in August 1920 after over 70 years of organizing, prohibited denying the vote on the basis of sex — though many women of color still faced voting barriers for decades after.",
+    "tags": [
+      "social-movements",
+      "suffrage",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-119",
+    "domain": "culture",
+    "hook": "The Montgomery Bus Boycott lasted more than a year.",
+    "fact": "After Rosa Parks was arrested in December 1955 for refusing to give up her bus seat, Black residents of Montgomery, Alabama boycotted the city's buses for 381 days until segregated seating was ruled unconstitutional.",
+    "tags": [
+      "civil-rights",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-120",
+    "domain": "culture",
+    "hook": "A quarter of a million people gathered to hear Martin Luther King Jr. speak in 1963.",
+    "fact": "The March on Washington for Jobs and Freedom drew roughly 250,000 people to the National Mall, where King delivered his 'I Have a Dream' speech calling for civil and economic rights.",
+    "tags": [
+      "civil-rights",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-121",
+    "domain": "culture",
+    "hook": "The first Pride march happened exactly one year after the Stonewall riots.",
+    "fact": "Police raids on New York's Stonewall Inn in June 1969 sparked days of resistance from LGBTQ+ patrons; on the first anniversary in 1970, activists organized what's considered the first Pride march.",
+    "whyItMatters": "Pride events are now held annually in cities across the world, making Stonewall one of the most consequential single nights in LGBTQ+ history.",
+    "tags": [
+      "lgbtq-rights",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-122",
+    "domain": "culture",
+    "hook": "South African students risked their lives over a language policy.",
+    "fact": "On June 16, 1976, thousands of Black students in Soweto marched to protest a government mandate forcing instruction in Afrikaans; police opened fire, killing students, and the day became a turning point in the anti-apartheid struggle.",
+    "tags": [
+      "social-movements",
+      "south-africa"
+    ]
+  },
+  {
+    "id": "culture-123",
+    "domain": "culture",
+    "hook": "Czechoslovakia's communist government fell in a matter of weeks.",
+    "fact": "Mass student-led protests in November and December 1989 — later called the Velvet Revolution — ended over four decades of one-party rule without a single fatality, and playwright Václav Havel became president within weeks.",
+    "tags": [
+      "social-movements",
+      "czechoslovakia"
+    ]
+  },
+  {
+    "id": "culture-124",
+    "domain": "culture",
+    "hook": "A shipyard strike gave rise to the Soviet bloc's first independent trade union.",
+    "fact": "Workers at the Gdańsk Shipyard in Poland walked out in 1980, founding Solidarity under electrician Lech Wałęsa — a movement that helped set off the eventual collapse of communist rule across Eastern Europe.",
+    "tags": [
+      "labor",
+      "poland"
+    ]
+  },
+  {
+    "id": "culture-125",
+    "domain": "culture",
+    "hook": "Gandhi walked roughly 240 miles to make a political point about salt.",
+    "fact": "In 1930, Mohandas Gandhi led a 24-day march to the coastal village of Dandi to illegally produce salt, defying a British colonial tax and igniting a mass civil disobedience campaign across India.",
+    "tags": [
+      "social-movements",
+      "india"
+    ]
+  },
+  {
+    "id": "culture-126",
+    "domain": "culture",
+    "hook": "Some of the largest Vietnam War protests happened on American college campuses.",
+    "fact": "Opposition to the US draft and the Vietnam War fueled sit-ins, draft-card burnings, and mass marches through the late 1960s; National Guard troops killed four students during a 1970 protest at Kent State University.",
+    "tags": [
+      "protest",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-127",
+    "domain": "culture",
+    "hook": "'Silence = Death' became a rallying cry during the AIDS crisis.",
+    "fact": "Founded in New York in 1987, the activist group ACT UP used direct-action protests and provocative slogans to demand faster drug approvals and government action on the AIDS epidemic.",
+    "tags": [
+      "lgbtq-rights",
+      "activism",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-128",
+    "domain": "culture",
+    "hook": "Activists abandoned their wheelchairs to crawl up the US Capitol steps.",
+    "fact": "In March 1990, dozens of disability rights protesters left their mobility devices behind to physically climb the Capitol's steps, dramatizing the lack of accessibility — months before the Americans with Disabilities Act passed.",
+    "whyItMatters": "The protest is widely credited with helping push the ADA, a landmark accessibility law, through Congress.",
+    "tags": [
+      "disability-rights",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-129",
+    "domain": "culture",
+    "hook": "The first Earth Day drew an estimated 20 million participants.",
+    "fact": "On April 22, 1970, Americans across the country held rallies, teach-ins, and cleanups for the first Earth Day, a mobilization that helped lead to the creation of the US Environmental Protection Agency later that year.",
+    "tags": [
+      "environment",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-130",
+    "domain": "culture",
+    "hook": "Villagers in the Himalayas stopped loggers by hugging trees.",
+    "fact": "Starting in the 1970s, the Chipko movement saw rural communities — often led by women — physically embrace trees in Uttarakhand, India to block commercial logging, becoming an early symbol of grassroots environmentalism.",
+    "whyItMatters": "The tactic and its name inspired 'tree-hugger' environmental protests worldwide.",
+    "tags": [
+      "environment",
+      "india"
+    ]
+  },
+  {
+    "id": "culture-131",
+    "domain": "culture",
+    "hook": "A street vendor's protest in Tunisia set off uprisings across an entire region.",
+    "fact": "After Mohamed Bouazizi set himself on fire in December 2010 to protest official harassment, demonstrations spread from Tunisia to Egypt, Libya, Syria, and beyond in what became known as the Arab Spring.",
+    "whyItMatters": "The uprisings toppled several long-standing governments, though outcomes varied widely — from a fragile democratic transition in Tunisia to prolonged conflict elsewhere.",
+    "tags": [
+      "social-movements",
+      "tunisia"
+    ]
+  },
+  {
+    "id": "culture-132",
+    "domain": "culture",
+    "hook": "One anonymous man blocking tanks became a global symbol of protest.",
+    "fact": "During the 1989 Tiananmen Square demonstrations in Beijing, a lone, unidentified man stood in front of a column of tanks — the photograph became one of the most recognizable protest images of the 20th century.",
+    "tags": [
+      "protest",
+      "china"
+    ]
+  },
+  {
+    "id": "culture-133",
+    "domain": "culture",
+    "hook": "The Berlin Wall fell almost by accident.",
+    "fact": "On November 9, 1989, an East German official misspoke at a press conference, implying travel restrictions were lifting immediately; crowds rushed the checkpoints that night, and the Wall that had divided the city since 1961 was breached.",
+    "tags": [
+      "social-movements",
+      "germany"
+    ]
+  },
+  {
+    "id": "culture-134",
+    "domain": "culture",
+    "hook": "The phrase '#MeToo' existed over a decade before it went viral.",
+    "fact": "Activist Tarana Burke began using 'Me Too' in 2006 to support survivors of sexual violence; the phrase exploded into a global hashtag movement in 2017 after allegations against film producer Harvey Weinstein.",
+    "tags": [
+      "social-movements",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-135",
+    "domain": "culture",
+    "hook": "Black Lives Matter began as a hashtag after an acquittal.",
+    "fact": "Organizers Alicia Garza, Patrisse Cullors, and Opal Tometi coined #BlackLivesMatter in 2013 following George Zimmerman's acquittal in the shooting death of Trayvon Martin, growing into an international movement against police violence.",
+    "tags": [
+      "civil-rights",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-136",
+    "domain": "culture",
+    "hook": "Ninety percent of Iceland's women once refused to work for a day.",
+    "fact": "On October 24, 1975, an estimated 90% of Icelandic women stayed home from paid and unpaid labor alike to demonstrate their economic importance — banks, schools, and factories ground to a halt.",
+    "whyItMatters": "Five years later, Iceland elected Vigdís Finnbogadóttir as the world's first female president chosen in a democratic election.",
+    "tags": [
+      "social-movements",
+      "iceland"
+    ]
+  },
+  {
+    "id": "culture-137",
+    "domain": "culture",
+    "hook": "May Day's origins trace back to a bombing at a labor rally in Chicago.",
+    "fact": "A rally for the eight-hour workday in Chicago's Haymarket Square turned deadly in 1886 after a bomb was thrown at police; the incident became a rallying point that later inspired International Workers' Day, observed on May 1 in many countries.",
+    "whyItMatters": "May Day is now a public holiday honoring workers in dozens of countries, though the US instead observes Labor Day in September.",
+    "tags": [
+      "labor",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-138",
+    "domain": "culture",
+    "hook": "Activists deliberately rode buses into the segregated South to get arrested.",
+    "fact": "In 1961, mixed-race groups of 'Freedom Riders' boarded interstate buses through the American South to test a Supreme Court ruling banning segregated bus terminals, facing mob violence and mass arrests along the way.",
+    "tags": [
+      "civil-rights",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-139",
+    "domain": "culture",
+    "hook": "Marchers were beaten crossing a bridge on what became 'Bloody Sunday.'",
+    "fact": "On March 7, 1965, state troopers attacked peaceful voting-rights marchers as they crossed the Edmund Pettus Bridge in Selma, Alabama; televised footage of the violence built support for landmark federal legislation passed months later.",
+    "whyItMatters": "Congress passed the Voting Rights Act of 1965 just months later, banning many discriminatory voting practices.",
+    "tags": [
+      "civil-rights",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-140",
+    "domain": "culture",
+    "hook": "A group of German students printed anti-Nazi leaflets from a university basement.",
+    "fact": "The White Rose, led by siblings Hans and Sophie Scholl, secretly distributed leaflets denouncing the Nazi regime at the University of Munich; the group was discovered in 1943 and its core members were executed.",
+    "tags": [
+      "protest",
+      "germany"
+    ]
+  },
+  {
+    "id": "culture-141",
+    "domain": "culture",
+    "hook": "A UK city's night marches against violence against women began in 1977.",
+    "fact": "Reclaim the Night marches started in Leeds, England, after women were advised to stay indoors during a series of attacks — protesters argued the streets, not their freedom, should be restricted. Similar marches are now held worldwide.",
+    "tags": [
+      "social-movements",
+      "uk"
+    ]
+  },
+  {
+    "id": "culture-142",
+    "domain": "culture",
+    "hook": "An indigenous uprising in southern Mexico was timed to a trade deal.",
+    "fact": "The Zapatista Army of National Liberation seized towns in Chiapas on January 1, 1994 — the same day NAFTA took effect — demanding land and indigenous rights, and has maintained autonomous territories ever since.",
+    "tags": [
+      "social-movements",
+      "mexico"
+    ]
+  },
+  {
+    "id": "culture-143",
+    "domain": "culture",
+    "hook": "MTV's very first music video was about radio's obsolescence.",
+    "fact": "When MTV launched on August 1, 1981, the first video it aired was The Buggles' 'Video Killed the Radio Star' — a fittingly self-aware choice for a channel about to reshape the music industry.",
+    "tags": [
+      "music",
+      "media",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-144",
+    "domain": "culture",
+    "hook": "Seventy-three million Americans watched the Beatles' US TV debut.",
+    "fact": "The Beatles' February 1964 appearance on The Ed Sullivan Show drew an estimated 73 million viewers and is credited with launching the 'British Invasion' of American pop culture.",
+    "tags": [
+      "music",
+      "uk",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-145",
+    "domain": "culture",
+    "hook": "Woodstock drew roughly ten times its expected crowd.",
+    "fact": "Organizers of the August 1969 festival in rural New York expected tens of thousands of attendees; an estimated 400,000 people showed up, overwhelming the site and turning it into a defining moment of 1960s counterculture.",
+    "tags": [
+      "music",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-146",
+    "domain": "culture",
+    "hook": "A New York club and a London boutique gave punk rock its two hometowns.",
+    "fact": "In the mid-1970s, bands like the Ramones built the scene at CBGB in New York while Vivienne Westwood and Malcolm McLaren's London boutique shaped the look and attitude that spread with acts like the Sex Pistols.",
+    "tags": [
+      "music",
+      "fashion",
+      "uk",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-147",
+    "domain": "culture",
+    "hook": "Modern K-pop is often dated to a single 1992 talent show performance.",
+    "fact": "When the group Seo Taiji and Boys debuted on Korean television in 1992 blending rap and rock with Korean lyrics, judges scored them low — but the sound reshaped Korean pop music and is widely seen as the starting point of modern K-pop.",
+    "tags": [
+      "music",
+      "korea"
+    ]
+  },
+  {
+    "id": "culture-148",
+    "domain": "culture",
+    "hook": "One Jamaican musician turned a local genre into a global sound.",
+    "fact": "Bob Marley's international tours and albums in the 1970s carried reggae, born in Jamaica in the late 1960s, to audiences across Africa, Europe, and the Americas.",
+    "tags": [
+      "music",
+      "jamaica"
+    ]
+  },
+  {
+    "id": "culture-149",
+    "domain": "culture",
+    "hook": "Blue jeans were workwear for miners before they were a fashion statement.",
+    "fact": "Levi Strauss patented riveted denim trousers in 1873 for laborers; jeans only became mainstream youth fashion after World War II, boosted by Hollywood stars like Marlon Brando and James Dean in the 1950s.",
+    "tags": [
+      "fashion",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-150",
+    "domain": "culture",
+    "hook": "Bobbed hair and short skirts were a political statement in the 1920s.",
+    "fact": "The 'flapper' look — cropped hair, shorter hemlines, looser silhouettes — visibly broke with Victorian-era dress codes and became associated with the new social and political freedoms women had gained after World War I.",
+    "tags": [
+      "fashion",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-151",
+    "domain": "culture",
+    "hook": "One New York nightclub became shorthand for an entire decade's excess.",
+    "fact": "Studio 54, open in Manhattan from 1977, became the epicenter of disco-era celebrity culture, famous for its velvet-rope door policy and star-studded, hedonistic parties.",
+    "tags": [
+      "music",
+      "fashion",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-152",
+    "domain": "culture",
+    "hook": "A Seattle band's second album turned an underground scene mainstream overnight.",
+    "fact": "Nirvana's 'Nevermind,' released in 1991, unexpectedly topped the charts and pulled the Pacific Northwest grunge scene — and its thrift-store fashion — into the global spotlight.",
+    "tags": [
+      "music",
+      "fashion",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-153",
+    "domain": "culture",
+    "hook": "Japan's first hit TV cartoon aired in black and white in 1963.",
+    "fact": "Osamu Tezuka's 'Astro Boy' became the first serialized Japanese animated TV show to find wide popularity, establishing production techniques and a visual style that shaped the anime industry for decades.",
+    "tags": [
+      "cinema",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-154",
+    "domain": "culture",
+    "hook": "A Detroit record label built out of a converted house changed American music.",
+    "fact": "Berry Gordy founded Motown Records in Detroit in 1959; from a modest home studio nicknamed 'Hitsville U.S.A.,' it launched stars like Diana Ross and Stevie Wonder and brought Black American music into the pop mainstream.",
+    "tags": [
+      "music",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-155",
+    "domain": "culture",
+    "hook": "French filmmakers threw out the rulebook in the late 1950s.",
+    "fact": "Directors like Jean-Luc Godard and François Truffaut launched the French New Wave, using handheld cameras, jump cuts, and location shooting to break from the polished conventions of studio filmmaking.",
+    "tags": [
+      "cinema",
+      "france"
+    ]
+  },
+  {
+    "id": "culture-156",
+    "domain": "culture",
+    "hook": "Low-budget films by and for Black audiences reshaped 1970s Hollywood.",
+    "fact": "The blaxploitation genre, including films like 'Shaft' and 'Super Fly' in the early 1970s, centered Black protagonists and urban stories that mainstream studios had largely ignored, despite later criticism over stereotyping.",
+    "tags": [
+      "cinema",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-157",
+    "domain": "culture",
+    "hook": "Hip hop is often traced to a single house party in the Bronx.",
+    "fact": "DJ Kool Herc's back-to-school party in August 1973, where he extended the instrumental 'breaks' of funk records for dancers, is widely credited as a founding moment of hip hop culture.",
+    "tags": [
+      "music",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-158",
+    "domain": "culture",
+    "hook": "Charlie Chaplin became a global star without ever saying a word on screen.",
+    "fact": "Chaplin's Little Tramp character became one of the most recognized figures in the world during the silent film era, since physical comedy needed no translation and could travel across every language and border.",
+    "tags": [
+      "cinema"
+    ]
+  },
+  {
+    "id": "culture-159",
+    "domain": "culture",
+    "hook": "Nigeria's film industry now produces more films per year than Hollywood.",
+    "fact": "Nollywood, Nigeria's fast, low-budget film industry that took off in the 1990s, is regularly cited as one of the world's largest by volume of films produced, employing hundreds of thousands of people.",
+    "whyItMatters": "It's become a major economic engine and cultural export across Africa and its diaspora.",
+    "tags": [
+      "cinema",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "culture-160",
+    "domain": "culture",
+    "hook": "A Latin American TV format became one of the world's most-watched entertainment genres.",
+    "fact": "Telenovelas — serialized, often melodramatic dramas pioneered in countries like Mexico and Brazil — have been exported and adapted across Latin America, Europe, Asia, and Africa since the mid-20th century.",
+    "tags": [
+      "media",
+      "latin-america"
+    ]
+  },
+  {
+    "id": "culture-161",
+    "domain": "culture",
+    "hook": "A dance craze from 1960 got an entire generation moving without a partner.",
+    "fact": "Chubby Checker's song 'The Twist' sparked a dance craze in 1960 that broke from traditional partnered ballroom steps, letting people dance independently — a shift that reshaped social dancing for decades after.",
+    "tags": [
+      "music",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-162",
+    "domain": "culture",
+    "hook": "A 1938 radio drama's 'panic' was mostly exaggerated by newspapers.",
+    "fact": "Orson Welles' Halloween-eve radio adaptation of 'The War of the Worlds' alarmed some listeners who tuned in mid-broadcast, but later research found reports of mass nationwide panic were largely inflated by print media eager to discredit radio as a news source.",
+    "tags": [
+      "media",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-163",
+    "domain": "culture",
+    "hook": "A Japanese stationery character became a billion-dollar global icon.",
+    "fact": "Sanrio introduced Hello Kitty in 1974 on a coin purse; the character became a defining symbol of Japan's 'kawaii' (cute) aesthetic and one of the best-selling media franchises in history.",
+    "tags": [
+      "media",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-164",
+    "domain": "culture",
+    "hook": "Elvis Presley's early fame rode on sounds pioneered by Black musicians.",
+    "fact": "Presley's rise in the 1950s brought rhythm-and-blues and rock-and-roll styles, long popular in Black American music, to a mainstream white audience largely shut out from those artists' original recordings by segregated radio and retail.",
+    "tags": [
+      "music",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-165",
+    "domain": "culture",
+    "hook": "A dance style born in Harlem ballrooms hit the mainstream via a 1990 pop song.",
+    "fact": "Vogueing developed within Black and Latino LGBTQ+ ballroom culture in 1980s Harlem as a stylized, model-inspired dance form; Madonna's 1990 song 'Vogue' introduced the style to a mass audience.",
+    "tags": [
+      "music",
+      "lgbtq-rights",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-166",
+    "domain": "culture",
+    "hook": "Wearing a baggy suit could get you attacked on the streets of 1943 Los Angeles.",
+    "fact": "During the Zoot Suit Riots of June 1943, US servicemen and civilians attacked young Latino and Black men for wearing the era's flashy, fabric-heavy zoot suits, which the military viewed as wasteful amid wartime rationing.",
+    "tags": [
+      "fashion",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-167",
+    "domain": "culture",
+    "hook": "Two British youth subcultures fought pitched battles at seaside resorts.",
+    "fact": "Mods, known for scooters and tailored suits, and Rockers, associated with motorcycles and leather jackets, clashed at English beach towns like Brighton and Margate throughout the mid-1960s, feeding a wave of media panic about youth culture.",
+    "tags": [
+      "fashion",
+      "uk"
+    ]
+  },
+  {
+    "id": "culture-168",
+    "domain": "culture",
+    "hook": "Brazilian directors made poverty and politics into a cinematic movement.",
+    "fact": "Cinema Novo emerged in Brazil in the 1960s, with directors like Glauber Rocha rejecting big studio polish for stark, socially engaged films about inequality and daily life.",
+    "tags": [
+      "cinema",
+      "brazil"
+    ]
+  },
+  {
+    "id": "culture-169",
+    "domain": "culture",
+    "hook": "Reggaeton's roots trace to Panama before it became a Puerto Rican sound.",
+    "fact": "In the 1980s and 90s, Panamanian artists translated Jamaican dancehall into Spanish; the style was then reshaped in Puerto Rico through the 1990s into the reggaeton genre that later went global.",
+    "tags": [
+      "music",
+      "panama",
+      "puerto-rico"
+    ]
+  },
+  {
+    "id": "culture-170",
+    "domain": "culture",
+    "hook": "One Nigerian musician invented a genre by fusing jazz, funk, and highlife.",
+    "fact": "Fela Kuti pioneered Afrobeat in Lagos in the late 1960s and 70s, blending Nigerian highlife with American jazz and funk into extended, politically charged compositions that also made him a target of the government.",
+    "tags": [
+      "music",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "culture-171",
+    "domain": "culture",
+    "hook": "A Sony gadget the size of a paperback changed how people listened to music.",
+    "fact": "The Walkman, released by Sony in 1979, was among the first devices to make music portable and private, letting listeners carry a personal soundtrack anywhere for the first time.",
+    "tags": [
+      "technology",
+      "music",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-172",
+    "domain": "culture",
+    "hook": "Denim didn't reach high fashion runways until decades after it became workwear.",
+    "fact": "Designers began sending grunge- and denim-inspired looks down couture runways in the early 1990s — including Marc Jacobs' controversial 1992 grunge collection for Perry Ellis — cementing what had been thrift-store style as luxury fashion.",
+    "tags": [
+      "fashion",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-173",
+    "domain": "culture",
+    "hook": "In France, skipping 'bon appétit' before a meal can seem oddly abrupt.",
+    "fact": "It's customary in France to wish others 'bon appétit' before eating begins, even among strangers seated nearby in a restaurant; not saying it can come across as unusually curt.",
+    "tags": [
+      "customs",
+      "france"
+    ]
+  },
+  {
+    "id": "culture-174",
+    "domain": "culture",
+    "hook": "Jaywalking on an empty street can still draw disapproving looks in Germany.",
+    "fact": "Crossing against a red pedestrian light in Germany, even with no cars in sight, is widely frowned upon and can carry a fine — many Germans avoid it partly to set an example for children.",
+    "tags": [
+      "customs",
+      "germany"
+    ]
+  },
+  {
+    "id": "culture-175",
+    "domain": "culture",
+    "hook": "Dutch homes are famous for leaving their curtains wide open at night.",
+    "fact": "In much of the Netherlands, it's common for households to leave curtains and blinds open after dark, a habit often traced to a cultural value placed on transparency and having 'nothing to hide.'",
+    "tags": [
+      "customs",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "culture-176",
+    "domain": "culture",
+    "hook": "Showing someone the sole of your shoe is a serious insult across much of the Middle East.",
+    "fact": "In many Middle Eastern and South Asian cultures, feet are considered the least clean part of the body, so pointing the sole of a shoe at someone, or resting a foot so it faces them, is regarded as disrespectful.",
+    "whyItMatters": "The gesture's weight was on global display in 2008, when an Iraqi journalist threw his shoes at US President George W. Bush as a calculated insult.",
+    "tags": [
+      "customs",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "culture-177",
+    "domain": "culture",
+    "hook": "Cutting in line is treated as a near-moral offense in the UK.",
+    "fact": "Queueing is taken unusually seriously in British culture — jumping a queue is widely viewed as one of the ruder things a person can do in public, even for something as minor as a bus stop.",
+    "tags": [
+      "customs",
+      "uk"
+    ]
+  },
+  {
+    "id": "culture-178",
+    "domain": "culture",
+    "hook": "Arriving five minutes late to a Swiss meeting can be read as disrespect.",
+    "fact": "Punctuality is highly valued in Switzerland, where even brief lateness to business or social appointments is often interpreted as a lack of consideration for the other person's time.",
+    "tags": [
+      "customs",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "culture-179",
+    "domain": "culture",
+    "hook": "Showing up right on time to a party in much of Latin America can seem overeager.",
+    "fact": "In many Latin American countries, guests commonly arrive 30 minutes to an hour after the stated start time for social gatherings, and arriving exactly on time can catch hosts still preparing.",
+    "tags": [
+      "customs",
+      "latin-america"
+    ]
+  },
+  {
+    "id": "culture-180",
+    "domain": "culture",
+    "hook": "Whistling indoors is believed to cost you money in Russia.",
+    "fact": "A long-standing Russian superstition holds that whistling inside a house will 'whistle away' your money or invite financial misfortune, so it's commonly discouraged indoors.",
+    "tags": [
+      "customs",
+      "russia"
+    ]
+  },
+  {
+    "id": "culture-181",
+    "domain": "culture",
+    "hook": "Politely refusing tea in parts of the Middle East is often just the first step to accepting it.",
+    "fact": "In Bedouin and broader Middle Eastern hospitality traditions, it's customary to decline an offered coffee or tea once or twice before accepting, as an act of humility rather than genuine refusal.",
+    "tags": [
+      "customs",
+      "middle-east"
+    ]
+  },
+  {
+    "id": "culture-182",
+    "domain": "culture",
+    "hook": "Pouring your own drink at the table is bad form in South Korea.",
+    "fact": "Korean dining etiquette traditionally holds that you shouldn't fill your own glass; instead, diners pour for each other, often using both hands as a sign of respect, especially toward elders.",
+    "tags": [
+      "customs",
+      "korea"
+    ]
+  },
+  {
+    "id": "culture-183",
+    "domain": "culture",
+    "hook": "Patting a child on the head is deeply offensive in Thailand.",
+    "fact": "In Thai culture, the head is considered the most sacred part of the body and the feet the lowest, so touching someone's head or pointing your feet at a person or a Buddha image is considered highly disrespectful.",
+    "tags": [
+      "customs",
+      "thailand"
+    ]
+  },
+  {
+    "id": "culture-184",
+    "domain": "culture",
+    "hook": "Long silences during conversation don't make Finns uncomfortable.",
+    "fact": "Comfortable silence is a normal, even valued, part of everyday conversation in Finland, in contrast to cultures where a pause is quickly filled with small talk.",
+    "tags": [
+      "customs",
+      "finland"
+    ]
+  },
+  {
+    "id": "culture-185",
+    "domain": "culture",
+    "hook": "Business cards in Japan are treated almost like an extension of the person.",
+    "fact": "Exchanging a meishi, or business card, in Japan traditionally involves presenting and receiving it with both hands and a slight bow, followed by carefully studying it rather than pocketing it immediately.",
+    "tags": [
+      "customs",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-186",
+    "domain": "culture",
+    "hook": "How many cheek kisses you give in France depends on which region you're in.",
+    "fact": "The traditional greeting kiss, or 'bise,' varies by French region from a single kiss to as many as four, and mismatched expectations between locals from different areas are a common source of awkward fumbling.",
+    "tags": [
+      "customs",
+      "france"
+    ]
+  },
+  {
+    "id": "culture-187",
+    "domain": "culture",
+    "hook": "A Scandinavian social code discourages bragging about your own success.",
+    "fact": "The 'Law of Jante,' a set of informal norms widespread across Nordic countries, discourages individuals from claiming to be better than others — favoring modesty and collective equality over overt personal achievement.",
+    "tags": [
+      "customs",
+      "scandinavia"
+    ]
+  },
+  {
+    "id": "culture-188",
+    "domain": "culture",
+    "hook": "Asking for salt at a restaurant can be read as a jab at the chef in Portugal.",
+    "fact": "In Portugal, requesting extra salt or pepper before tasting your food is sometimes seen as implying the dish was under-seasoned, which can come across as an unintended insult to the cook.",
+    "tags": [
+      "customs",
+      "portugal"
+    ]
+  },
+  {
+    "id": "culture-189",
+    "domain": "culture",
+    "hook": "Ordering a cappuccino after dinner is a dead giveaway for tourists in Italy.",
+    "fact": "Italians typically drink cappuccino only in the morning, often before or with breakfast; ordering one after a meal, especially dinner, is considered unusual and marks a diner as a visitor.",
+    "tags": [
+      "customs",
+      "italy"
+    ]
+  },
+  {
+    "id": "culture-190",
+    "domain": "culture",
+    "hook": "'How are you?' usually isn't really a question in English-speaking countries.",
+    "fact": "In much of the English-speaking world, 'How are you?' functions as a greeting rather than a genuine inquiry, and answering with a detailed, honest account of your day can catch people off guard.",
+    "tags": [
+      "customs",
+      "uk",
+      "usa"
+    ]
+  },
+  {
+    "id": "culture-191",
+    "domain": "culture",
+    "hook": "Norwegians tend to leave noticeable gaps between themselves and strangers.",
+    "fact": "Personal space at bus stops and in public queues tends to be larger in Norway than in many other cultures, with people often standing well apart from anyone they don't know.",
+    "tags": [
+      "customs",
+      "norway"
+    ]
+  },
+  {
+    "id": "culture-192",
+    "domain": "culture",
+    "hook": "Which side you stand on an escalator can flip within the same country.",
+    "fact": "In Japan, the informal rule is to stand on the left and walk on the right in Tokyo, but the convention reverses in Osaka, where standers keep to the right.",
+    "tags": [
+      "customs",
+      "japan"
+    ]
+  },
+  {
+    "id": "culture-193",
+    "domain": "culture",
+    "hook": "Sharing a single straw among a whole group is standard when drinking mate.",
+    "fact": "In Argentina, Uruguay, Paraguay, and southern Brazil, the herbal drink mate is traditionally passed around a group in one shared gourd with a single metal straw, refilled by whoever is serving.",
+    "tags": [
+      "customs",
+      "argentina"
+    ]
+  },
+  {
+    "id": "culture-194",
+    "domain": "culture",
+    "hook": "Finishing every last bite on your plate in China can unintentionally signal you're still hungry.",
+    "fact": "Traditional Chinese dining etiquette holds that leaving a small amount of food on your plate shows the host provided more than enough, while an empty plate can suggest the meal wasn't sufficient.",
+    "tags": [
+      "customs",
+      "china"
+    ]
+  },
+  {
+    "id": "culture-195",
+    "domain": "culture",
+    "hook": "There's a specific hand gesture to signal you've had enough coffee in the Gulf.",
+    "fact": "When drinking traditional Arabic coffee in Gulf countries, guests signal they're finished by gently shaking their small cup side to side when handing it back — otherwise it's customarily refilled.",
+    "tags": [
+      "customs",
+      "gulf-states"
+    ]
+  },
+  {
+    "id": "culture-196",
+    "domain": "culture",
+    "hook": "A side-to-side head wobble in India can mean yes, no, or 'I hear you.'",
+    "fact": "The Indian head wobble is a versatile gesture whose meaning shifts with context and tone — it can signal agreement, acknowledgment, or polite uncertainty, often puzzling visitors expecting a clear yes or no.",
+    "tags": [
+      "gestures",
+      "india"
+    ]
+  },
+  {
+    "id": "culture-197",
+    "domain": "culture",
+    "hook": "Calling a colleague about work after hours is often considered inappropriate in Germany.",
+    "fact": "German workplace culture places strong value on 'Feierabend,' the clear boundary between work and personal time, and reaching out to coworkers about non-urgent matters outside office hours can be seen as poor etiquette.",
+    "tags": [
+      "customs",
+      "germany"
+    ]
+  },
+  {
+    "id": "culture-198",
+    "domain": "culture",
+    "hook": "In much of the Gulf, you greet the oldest person in the room first.",
+    "fact": "Social etiquette across many Gulf Arab cultures places strong emphasis on greeting the eldest or most senior person present before others, reflecting broader norms around respect for age and hierarchy.",
+    "tags": [
+      "customs",
+      "gulf-states"
+    ]
+  },
+  {
+    "id": "culture-199",
+    "domain": "culture",
+    "hook": "Stepping on the threshold of a traditional Mongolian tent is considered bad luck.",
+    "fact": "When entering a ger, the traditional round tent used by Mongolian nomads, visitors are expected to step over the threshold rather than on it, a custom rooted in beliefs about luck and respect for the household.",
+    "tags": [
+      "customs",
+      "mongolia"
+    ]
+  },
+  {
+    "id": "culture-200",
+    "domain": "culture",
+    "hook": "Leaving a sleeping baby outside a cafe is completely normal in parts of Scandinavia.",
+    "fact": "In Denmark and other Nordic countries, it's common for parents to leave infants napping in strollers outside shops or cafes while they step inside, reflecting high public trust and a belief that fresh air benefits sleep.",
+    "tags": [
+      "customs",
+      "denmark"
+    ]
   }
 ]

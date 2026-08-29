@@ -4,11 +4,23 @@
     "domain": "technology",
     "hook": "The first computer 'bug' was an actual bug.",
     "fact": "In 1947, engineers working on the Harvard Mark II computer found a moth trapped in a relay causing a malfunction — they taped it into their logbook, popularizing the term 'debugging.'",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le premier « bug » informatique était un vrai insecte.", "fact": "En 1947, des ingénieurs travaillant sur l'ordinateur Harvard Mark II ont trouvé un papillon de nuit coincé dans un relais, provoquant une panne — ils l'ont collé dans leur carnet de bord, popularisant le terme « debugging »." },
-      "nl": { "hook": "De eerste computer 'bug' was een echt insect.", "fact": "In 1947 vonden ingenieurs die aan de Harvard Mark II-computer werkten een mot vast in een relais, wat een storing veroorzaakte — ze plakten hem in hun logboek, waardoor de term 'debuggen' populair werd." },
-      "es": { "hook": "El primer \"bug\" informático era un insecto de verdad.", "fact": "En 1947, unos ingenieros que trabajaban en el ordenador Harvard Mark II encontraron una polilla atrapada en un relé que causaba un fallo — la pegaron en su cuaderno de registro, popularizando el término \"debugging\"." }
+      "fr": {
+        "hook": "Le premier « bug » informatique était un vrai insecte.",
+        "fact": "En 1947, des ingénieurs travaillant sur l'ordinateur Harvard Mark II ont trouvé un papillon de nuit coincé dans un relais, provoquant une panne — ils l'ont collé dans leur carnet de bord, popularisant le terme « debugging »."
+      },
+      "nl": {
+        "hook": "De eerste computer 'bug' was een echt insect.",
+        "fact": "In 1947 vonden ingenieurs die aan de Harvard Mark II-computer werkten een mot vast in een relais, wat een storing veroorzaakte — ze plakten hem in hun logboek, waardoor de term 'debuggen' populair werd."
+      },
+      "es": {
+        "hook": "El primer \"bug\" informático era un insecto de verdad.",
+        "fact": "En 1947, unos ingenieros que trabajaban en el ordenador Harvard Mark II encontraron una polilla atrapada en un relé que causaba un fallo — la pegaron en su cuaderno de registro, popularizando el término \"debugging\"."
+      }
     }
   },
   {
@@ -16,11 +28,23 @@
     "domain": "technology",
     "hook": "QWERTY was designed to slow you down.",
     "fact": "The QWERTY keyboard layout was arranged in the 1870s partly to reduce jamming in mechanical typewriters by separating commonly paired letters, not to maximize typing speed.",
-    "tags": ["design", "history"],
+    "tags": [
+      "design",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le clavier QWERTY a été conçu pour vous ralentir.", "fact": "La disposition QWERTY a été mise au point dans les années 1870, en partie pour réduire les blocages des machines à écrire mécaniques en séparant les lettres souvent utilisées ensemble, et non pour maximiser la vitesse de frappe." },
-      "nl": { "hook": "QWERTY werd ontworpen om je te vertragen.", "fact": "De QWERTY-toetsenbordindeling werd in de jaren 1870 deels bedacht om vastlopen bij mechanische typemachines te verminderen door vaak gecombineerde letters uit elkaar te plaatsen, niet om de typesnelheid te maximaliseren." },
-      "es": { "hook": "El teclado QWERTY se diseñó para hacerte escribir más lento.", "fact": "La distribución QWERTY se ideó en la década de 1870, en parte para reducir los atascos de las máquinas de escribir mecánicas separando las letras que se combinaban con frecuencia, no para maximizar la velocidad de escritura." }
+      "fr": {
+        "hook": "Le clavier QWERTY a été conçu pour vous ralentir.",
+        "fact": "La disposition QWERTY a été mise au point dans les années 1870, en partie pour réduire les blocages des machines à écrire mécaniques en séparant les lettres souvent utilisées ensemble, et non pour maximiser la vitesse de frappe."
+      },
+      "nl": {
+        "hook": "QWERTY werd ontworpen om je te vertragen.",
+        "fact": "De QWERTY-toetsenbordindeling werd in de jaren 1870 deels bedacht om vastlopen bij mechanische typemachines te verminderen door vaak gecombineerde letters uit elkaar te plaatsen, niet om de typesnelheid te maximaliseren."
+      },
+      "es": {
+        "hook": "El teclado QWERTY se diseñó para hacerte escribir más lento.",
+        "fact": "La distribución QWERTY se ideó en la década de 1870, en parte para reducir los atascos de las máquinas de escribir mecánicas separando las letras que se combinaban con frecuencia, no para maximizar la velocidad de escritura."
+      }
     }
   },
   {
@@ -28,11 +52,23 @@
     "domain": "technology",
     "hook": "The first 1GB hard drive weighed over 500 pounds.",
     "fact": "The 1980 IBM 3380 was the first hard drive to store a gigabyte, was roughly the size of a large refrigerator, and cost around $40,000.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le premier disque dur de 1 Go pesait plus de 225 kg.", "fact": "L'IBM 3380, sorti en 1980, fut le premier disque dur capable de stocker un gigaoctet ; il avait à peu près la taille d'un grand réfrigérateur et coûtait environ 40 000 dollars." },
-      "nl": { "hook": "De eerste harde schijf van 1GB woog meer dan 225 kilo.", "fact": "De IBM 3380 uit 1980 was de eerste harde schijf die een gigabyte kon opslaan, had ongeveer de omvang van een grote koelkast en kostte zo'n 40.000 dollar." },
-      "es": { "hook": "El primer disco duro de 1GB pesaba más de 225 kilos.", "fact": "El IBM 3380 de 1980 fue el primer disco duro capaz de almacenar un gigabyte; tenía aproximadamente el tamaño de un frigorífico grande y costaba unos 40.000 dólares." }
+      "fr": {
+        "hook": "Le premier disque dur de 1 Go pesait plus de 225 kg.",
+        "fact": "L'IBM 3380, sorti en 1980, fut le premier disque dur capable de stocker un gigaoctet ; il avait à peu près la taille d'un grand réfrigérateur et coûtait environ 40 000 dollars."
+      },
+      "nl": {
+        "hook": "De eerste harde schijf van 1GB woog meer dan 225 kilo.",
+        "fact": "De IBM 3380 uit 1980 was de eerste harde schijf die een gigabyte kon opslaan, had ongeveer de omvang van een grote koelkast en kostte zo'n 40.000 dollar."
+      },
+      "es": {
+        "hook": "El primer disco duro de 1GB pesaba más de 225 kilos.",
+        "fact": "El IBM 3380 de 1980 fue el primer disco duro capaz de almacenar un gigabyte; tenía aproximadamente el tamaño de un frigorífico grande y costaba unos 40.000 dólares."
+      }
     }
   },
   {
@@ -40,11 +76,23 @@
     "domain": "technology",
     "hook": "Wi-Fi doesn't stand for anything.",
     "fact": "Despite popular belief it means 'Wireless Fidelity,' Wi-Fi is actually just a trademarked brand name coined by a marketing firm — it has no technical expansion.",
-    "tags": ["computing", "trivia"],
+    "tags": [
+      "computing",
+      "trivia"
+    ],
     "translations": {
-      "fr": { "hook": "Wi-Fi ne veut rien dire.", "fact": "Contrairement à la croyance populaire selon laquelle cela signifierait « Wireless Fidelity », Wi-Fi n'est en réalité qu'une marque déposée inventée par une agence de marketing — le sigle n'a aucune signification technique." },
-      "nl": { "hook": "Wifi staat eigenlijk nergens voor.", "fact": "Ondanks de wijdverspreide gedachte dat het 'Wireless Fidelity' betekent, is wifi in werkelijkheid gewoon een gedeponeerde merknaam bedacht door een marketingbureau — het heeft geen technische betekenis." },
-      "es": { "hook": "Wi-Fi no significa nada en realidad.", "fact": "A pesar de la creencia popular de que significa \"Wireless Fidelity\", Wi-Fi es en realidad solo una marca registrada inventada por una agencia de marketing — no tiene ningún significado técnico." }
+      "fr": {
+        "hook": "Wi-Fi ne veut rien dire.",
+        "fact": "Contrairement à la croyance populaire selon laquelle cela signifierait « Wireless Fidelity », Wi-Fi n'est en réalité qu'une marque déposée inventée par une agence de marketing — le sigle n'a aucune signification technique."
+      },
+      "nl": {
+        "hook": "Wifi staat eigenlijk nergens voor.",
+        "fact": "Ondanks de wijdverspreide gedachte dat het 'Wireless Fidelity' betekent, is wifi in werkelijkheid gewoon een gedeponeerde merknaam bedacht door een marketingbureau — het heeft geen technische betekenis."
+      },
+      "es": {
+        "hook": "Wi-Fi no significa nada en realidad.",
+        "fact": "A pesar de la creencia popular de que significa \"Wireless Fidelity\", Wi-Fi es en realidad solo una marca registrada inventada por una agencia de marketing — no tiene ningún significado técnico."
+      }
     }
   },
   {
@@ -52,11 +100,23 @@
     "domain": "technology",
     "hook": "The @ symbol predates email by centuries.",
     "fact": "The @ symbol appeared in merchant ledgers as far back as the 16th century meaning 'at the rate of,' long before Ray Tomlinson repurposed it for email addresses in 1971.",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le symbole @ existait bien avant l'e-mail.", "fact": "Le symbole @ apparaissait déjà dans les registres commerciaux au 16e siècle avec le sens de « au taux de », bien avant que Ray Tomlinson ne le réutilise pour les adresses e-mail en 1971." },
-      "nl": { "hook": "Het @-symbool bestond eeuwen voor e-mail.", "fact": "Het @-symbool verscheen al in de 16e eeuw in koopmansboeken met de betekenis 'tegen de prijs van', lang voordat Ray Tomlinson het in 1971 hergebruikte voor e-mailadressen." },
-      "es": { "hook": "El símbolo @ existía siglos antes que el correo electrónico.", "fact": "El símbolo @ ya aparecía en los libros de cuentas de los comerciantes en el siglo XVI con el significado de \"al precio de\", mucho antes de que Ray Tomlinson lo reutilizara para las direcciones de correo electrónico en 1971." }
+      "fr": {
+        "hook": "Le symbole @ existait bien avant l'e-mail.",
+        "fact": "Le symbole @ apparaissait déjà dans les registres commerciaux au 16e siècle avec le sens de « au taux de », bien avant que Ray Tomlinson ne le réutilise pour les adresses e-mail en 1971."
+      },
+      "nl": {
+        "hook": "Het @-symbool bestond eeuwen voor e-mail.",
+        "fact": "Het @-symbool verscheen al in de 16e eeuw in koopmansboeken met de betekenis 'tegen de prijs van', lang voordat Ray Tomlinson het in 1971 hergebruikte voor e-mailadressen."
+      },
+      "es": {
+        "hook": "El símbolo @ existía siglos antes que el correo electrónico.",
+        "fact": "El símbolo @ ya aparecía en los libros de cuentas de los comerciantes en el siglo XVI con el significado de \"al precio de\", mucho antes de que Ray Tomlinson lo reutilizara para las direcciones de correo electrónico en 1971."
+      }
     }
   },
   {
@@ -64,11 +124,23 @@
     "domain": "technology",
     "hook": "More computing power than the moon landing sits in your pocket.",
     "fact": "The guidance computer for Apollo 11 had roughly 4KB of RAM and a processor running at about 0.043 MHz — a modern smartphone is many millions of times more powerful.",
-    "tags": ["computing", "space"],
+    "tags": [
+      "computing",
+      "space"
+    ],
     "translations": {
-      "fr": { "hook": "Votre poche contient plus de puissance de calcul que la mission Apollo 11.", "fact": "L'ordinateur de guidage d'Apollo 11 disposait d'environ 4 Ko de RAM et d'un processeur cadencé à environ 0,043 MHz — un smartphone moderne est des millions de fois plus puissant." },
-      "nl": { "hook": "Je zak bevat meer rekenkracht dan de maanlanding.", "fact": "De navigatiecomputer van Apollo 11 had ongeveer 4KB RAM en een processor die op zo'n 0,043 MHz draaide — een moderne smartphone is vele miljoenen keren krachtiger." },
-      "es": { "hook": "Tu bolsillo tiene más potencia de cálculo que el alunizaje.", "fact": "El ordenador de guiado del Apolo 11 tenía unos 4KB de RAM y un procesador que funcionaba a unos 0,043 MHz — un smartphone moderno es muchos millones de veces más potente." }
+      "fr": {
+        "hook": "Votre poche contient plus de puissance de calcul que la mission Apollo 11.",
+        "fact": "L'ordinateur de guidage d'Apollo 11 disposait d'environ 4 Ko de RAM et d'un processeur cadencé à environ 0,043 MHz — un smartphone moderne est des millions de fois plus puissant."
+      },
+      "nl": {
+        "hook": "Je zak bevat meer rekenkracht dan de maanlanding.",
+        "fact": "De navigatiecomputer van Apollo 11 had ongeveer 4KB RAM en een processor die op zo'n 0,043 MHz draaide — een moderne smartphone is vele miljoenen keren krachtiger."
+      },
+      "es": {
+        "hook": "Tu bolsillo tiene más potencia de cálculo que el alunizaje.",
+        "fact": "El ordenador de guiado del Apolo 11 tenía unos 4KB de RAM y un procesador que funcionaba a unos 0,043 MHz — un smartphone moderno es muchos millones de veces más potente."
+      }
     }
   },
   {
@@ -76,11 +148,23 @@
     "domain": "technology",
     "hook": "The first webcam watched a coffee pot.",
     "fact": "Researchers at Cambridge University in 1991 pointed a camera at their office coffee pot and streamed the feed online so they wouldn't waste trips checking if it was empty.",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "La première webcam surveillait une cafetière.", "fact": "En 1991, des chercheurs de l'université de Cambridge ont pointé une caméra vers la cafetière de leur bureau et diffusé les images en ligne pour éviter de se déplacer inutilement afin de vérifier si elle était vide." },
-      "nl": { "hook": "De eerste webcam hield een koffiepot in de gaten.", "fact": "Onderzoekers aan de universiteit van Cambridge richtten in 1991 een camera op de koffiepot van hun kantoor en streamden de beelden online, zodat ze niet voor niets hoefden te lopen om te checken of hij leeg was." },
-      "es": { "hook": "La primera webcam vigilaba una cafetera.", "fact": "En 1991, unos investigadores de la Universidad de Cambridge apuntaron una cámara a la cafetera de su oficina y transmitieron las imágenes en directo por internet para no tener que ir a comprobar si estaba vacía." }
+      "fr": {
+        "hook": "La première webcam surveillait une cafetière.",
+        "fact": "En 1991, des chercheurs de l'université de Cambridge ont pointé une caméra vers la cafetière de leur bureau et diffusé les images en ligne pour éviter de se déplacer inutilement afin de vérifier si elle était vide."
+      },
+      "nl": {
+        "hook": "De eerste webcam hield een koffiepot in de gaten.",
+        "fact": "Onderzoekers aan de universiteit van Cambridge richtten in 1991 een camera op de koffiepot van hun kantoor en streamden de beelden online, zodat ze niet voor niets hoefden te lopen om te checken of hij leeg was."
+      },
+      "es": {
+        "hook": "La primera webcam vigilaba una cafetera.",
+        "fact": "En 1991, unos investigadores de la Universidad de Cambridge apuntaron una cámara a la cafetera de su oficina y transmitieron las imágenes en directo por internet para no tener que ir a comprobar si estaba vacía."
+      }
     }
   },
   {
@@ -88,11 +172,23 @@
     "domain": "technology",
     "hook": "The first message sent over the internet crashed the system.",
     "fact": "In 1969, researchers tried to transmit the word 'LOGIN' between two computers on ARPANET, but the system crashed after just the letters 'L' and 'O' went through.",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le premier message envoyé sur Internet a fait planter le système.", "fact": "En 1969, des chercheurs ont tenté de transmettre le mot « LOGIN » entre deux ordinateurs sur ARPANET, mais le système a planté après le passage des seules lettres « L » et « O »." },
-      "nl": { "hook": "Het eerste bericht ooit via internet deed het systeem crashen.", "fact": "In 1969 probeerden onderzoekers het woord 'LOGIN' te versturen tussen twee computers op ARPANET, maar het systeem crashte nadat slechts de letters 'L' en 'O' waren doorgekomen." },
-      "es": { "hook": "El primer mensaje enviado por internet colapsó el sistema.", "fact": "En 1969, unos investigadores intentaron transmitir la palabra \"LOGIN\" entre dos ordenadores de ARPANET, pero el sistema se colapsó después de que solo pasaran las letras \"L\" y \"O\"." }
+      "fr": {
+        "hook": "Le premier message envoyé sur Internet a fait planter le système.",
+        "fact": "En 1969, des chercheurs ont tenté de transmettre le mot « LOGIN » entre deux ordinateurs sur ARPANET, mais le système a planté après le passage des seules lettres « L » et « O »."
+      },
+      "nl": {
+        "hook": "Het eerste bericht ooit via internet deed het systeem crashen.",
+        "fact": "In 1969 probeerden onderzoekers het woord 'LOGIN' te versturen tussen twee computers op ARPANET, maar het systeem crashte nadat slechts de letters 'L' en 'O' waren doorgekomen."
+      },
+      "es": {
+        "hook": "El primer mensaje enviado por internet colapsó el sistema.",
+        "fact": "En 1969, unos investigadores intentaron transmitir la palabra \"LOGIN\" entre dos ordenadores de ARPANET, pero el sistema se colapsó después de que solo pasaran las letras \"L\" y \"O\"."
+      }
     }
   },
   {
@@ -100,11 +196,23 @@
     "domain": "technology",
     "hook": "USB connectors are deliberately '50/50' in a bad way.",
     "fact": "The original USB-A connector's asymmetric design meant users had roughly even odds of plugging it in wrong on the first try, a design quirk widely mocked before USB-C fixed it with a reversible shape.",
-    "tags": ["design", "computing"],
+    "tags": [
+      "design",
+      "computing"
+    ],
     "translations": {
-      "fr": { "hook": "Les connecteurs USB avaient une chance sur deux d'être branchés dans le mauvais sens.", "fact": "La forme asymétrique du connecteur USB-A original faisait qu'on avait à peu près une chance sur deux de le brancher à l'envers du premier coup, un défaut de conception largement moqué avant que l'USB-C ne le corrige avec une forme réversible." },
-      "nl": { "hook": "USB-stekkers hadden altijd 50% kans om verkeerd te zitten.", "fact": "Het asymmetrische ontwerp van de originele USB-A-stekker zorgde ervoor dat gebruikers ongeveer fifty-fifty kans hadden om hem de eerste keer verkeerd om in te pluggen — een veelbespot ontwerpprobleem tot USB-C het oploste met een omkeerbare vorm." },
-      "es": { "hook": "Los conectores USB tenían un 50% de probabilidades de ir mal a la primera.", "fact": "El diseño asimétrico del conector USB-A original hacía que los usuarios tuvieran más o menos las mismas probabilidades de enchufarlo al revés en el primer intento, un defecto muy criticado hasta que el USB-C lo solucionó con una forma reversible." }
+      "fr": {
+        "hook": "Les connecteurs USB avaient une chance sur deux d'être branchés dans le mauvais sens.",
+        "fact": "La forme asymétrique du connecteur USB-A original faisait qu'on avait à peu près une chance sur deux de le brancher à l'envers du premier coup, un défaut de conception largement moqué avant que l'USB-C ne le corrige avec une forme réversible."
+      },
+      "nl": {
+        "hook": "USB-stekkers hadden altijd 50% kans om verkeerd te zitten.",
+        "fact": "Het asymmetrische ontwerp van de originele USB-A-stekker zorgde ervoor dat gebruikers ongeveer fifty-fifty kans hadden om hem de eerste keer verkeerd om in te pluggen — een veelbespot ontwerpprobleem tot USB-C het oploste met een omkeerbare vorm."
+      },
+      "es": {
+        "hook": "Los conectores USB tenían un 50% de probabilidades de ir mal a la primera.",
+        "fact": "El diseño asimétrico del conector USB-A original hacía que los usuarios tuvieran más o menos las mismas probabilidades de enchufarlo al revés en el primer intento, un defecto muy criticado hasta que el USB-C lo solucionó con una forma reversible."
+      }
     }
   },
   {
@@ -112,11 +220,23 @@
     "domain": "technology",
     "hook": "The first computer mouse was made of wood.",
     "fact": "Douglas Engelbart's 1964 prototype mouse had a carved wooden shell with two metal wheels underneath to track movement on a surface.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "La première souris d'ordinateur était en bois.", "fact": "Le prototype de souris de Douglas Engelbart, créé en 1964, avait une coque en bois sculpté avec deux roues métalliques en dessous pour suivre les mouvements sur une surface." },
-      "nl": { "hook": "De eerste computermuis was van hout gemaakt.", "fact": "Het muisprototype dat Douglas Engelbart in 1964 bouwde, had een uit hout gesneden behuizing met twee metalen wieltjes eronder om beweging over een oppervlak te registreren." },
-      "es": { "hook": "El primer ratón de ordenador estaba hecho de madera.", "fact": "El prototipo de ratón de Douglas Engelbart de 1964 tenía una carcasa de madera tallada con dos ruedas metálicas debajo para seguir el movimiento sobre una superficie." }
+      "fr": {
+        "hook": "La première souris d'ordinateur était en bois.",
+        "fact": "Le prototype de souris de Douglas Engelbart, créé en 1964, avait une coque en bois sculpté avec deux roues métalliques en dessous pour suivre les mouvements sur une surface."
+      },
+      "nl": {
+        "hook": "De eerste computermuis was van hout gemaakt.",
+        "fact": "Het muisprototype dat Douglas Engelbart in 1964 bouwde, had een uit hout gesneden behuizing met twee metalen wieltjes eronder om beweging over een oppervlak te registreren."
+      },
+      "es": {
+        "hook": "El primer ratón de ordenador estaba hecho de madera.",
+        "fact": "El prototipo de ratón de Douglas Engelbart de 1964 tenía una carcasa de madera tallada con dos ruedas metálicas debajo para seguir el movimiento sobre una superficie."
+      }
     }
   },
   {
@@ -124,11 +244,23 @@
     "domain": "technology",
     "hook": "Email predates the World Wide Web by over 20 years.",
     "fact": "Basic electronic messaging between users on the same computer existed by the early 1960s, and networked email arrived in 1971 — the web wasn't invented until 1989.",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "L'e-mail existait plus de 20 ans avant le World Wide Web.", "fact": "La messagerie électronique de base entre utilisateurs d'un même ordinateur existait déjà au début des années 1960, et l'e-mail en réseau est arrivé en 1971 — le web, lui, n'a été inventé qu'en 1989." },
-      "nl": { "hook": "E-mail bestond meer dan 20 jaar voor het World Wide Web.", "fact": "Eenvoudige elektronische berichten tussen gebruikers van dezelfde computer bestonden al begin jaren 1960, en netwerk-e-mail kwam er in 1971 — het web werd pas in 1989 uitgevonden." },
-      "es": { "hook": "El correo electrónico existía más de 20 años antes que la World Wide Web.", "fact": "La mensajería electrónica básica entre usuarios de un mismo ordenador ya existía a principios de los años sesenta, y el correo electrónico en red llegó en 1971 — la web no se inventó hasta 1989." }
+      "fr": {
+        "hook": "L'e-mail existait plus de 20 ans avant le World Wide Web.",
+        "fact": "La messagerie électronique de base entre utilisateurs d'un même ordinateur existait déjà au début des années 1960, et l'e-mail en réseau est arrivé en 1971 — le web, lui, n'a été inventé qu'en 1989."
+      },
+      "nl": {
+        "hook": "E-mail bestond meer dan 20 jaar voor het World Wide Web.",
+        "fact": "Eenvoudige elektronische berichten tussen gebruikers van dezelfde computer bestonden al begin jaren 1960, en netwerk-e-mail kwam er in 1971 — het web werd pas in 1989 uitgevonden."
+      },
+      "es": {
+        "hook": "El correo electrónico existía más de 20 años antes que la World Wide Web.",
+        "fact": "La mensajería electrónica básica entre usuarios de un mismo ordenador ya existía a principios de los años sesenta, y el correo electrónico en red llegó en 1971 — la web no se inventó hasta 1989."
+      }
     }
   },
   {
@@ -136,11 +268,23 @@
     "domain": "technology",
     "hook": "A single Google search uses very little energy — but billions add up.",
     "fact": "One typical search query is estimated to use a small fraction of a watt-hour of energy, but multiplied by billions of searches per day, data centers consume enormous amounts of electricity worldwide.",
-    "tags": ["internet", "sustainability"],
+    "tags": [
+      "internet",
+      "sustainability"
+    ],
     "translations": {
-      "fr": { "hook": "Une recherche Google consomme très peu d'énergie — mais des milliards s'accumulent.", "fact": "Une recherche typique consommerait à peine une fraction de wattheure, mais multipliée par les milliards de recherches effectuées chaque jour, les centres de données consomment des quantités d'électricité colossales dans le monde entier." },
-      "nl": { "hook": "Eén Google-zoekopdracht kost bijna geen energie — maar miljarden tellen op.", "fact": "Eén typische zoekopdracht verbruikt naar schatting slechts een fractie van een wattuur, maar vermenigvuldigd met de miljarden zoekopdrachten per dag verbruiken datacenters wereldwijd enorme hoeveelheden elektriciteit." },
-      "es": { "hook": "Una sola búsqueda en Google consume muy poca energía, pero miles de millones se acumulan.", "fact": "Se calcula que una búsqueda típica consume apenas una fracción de vatio-hora, pero multiplicado por los miles de millones de búsquedas diarias, los centros de datos consumen cantidades enormes de electricidad en todo el mundo." }
+      "fr": {
+        "hook": "Une recherche Google consomme très peu d'énergie — mais des milliards s'accumulent.",
+        "fact": "Une recherche typique consommerait à peine une fraction de wattheure, mais multipliée par les milliards de recherches effectuées chaque jour, les centres de données consomment des quantités d'électricité colossales dans le monde entier."
+      },
+      "nl": {
+        "hook": "Eén Google-zoekopdracht kost bijna geen energie — maar miljarden tellen op.",
+        "fact": "Eén typische zoekopdracht verbruikt naar schatting slechts een fractie van een wattuur, maar vermenigvuldigd met de miljarden zoekopdrachten per dag verbruiken datacenters wereldwijd enorme hoeveelheden elektriciteit."
+      },
+      "es": {
+        "hook": "Una sola búsqueda en Google consume muy poca energía, pero miles de millones se acumulan.",
+        "fact": "Se calcula que una búsqueda típica consume apenas una fracción de vatio-hora, pero multiplicado por los miles de millones de búsquedas diarias, los centros de datos consumen cantidades enormes de electricidad en todo el mundo."
+      }
     }
   },
   {
@@ -148,11 +292,23 @@
     "domain": "technology",
     "hook": "The floppy disk save icon outlived the floppy disk by decades.",
     "fact": "Floppy disks were largely obsolete by the early 2000s, yet the 3.5-inch disk icon remains the universal symbol for 'save' in software used by people who've never touched one.",
-    "tags": ["design", "computing"],
+    "tags": [
+      "design",
+      "computing"
+    ],
     "translations": {
-      "fr": { "hook": "L'icône de la disquette a survécu des décennies à la disquette elle-même.", "fact": "Les disquettes étaient largement obsolètes dès le début des années 2000, mais l'icône de la disquette 3,5 pouces reste le symbole universel du bouton « enregistrer », utilisé par des gens qui n'en ont jamais touché une." },
-      "nl": { "hook": "Het floppy-disk-opslaanicoontje overleefde de floppy disk met tientallen jaren.", "fact": "Floppy disks waren begin jaren 2000 al grotendeels overbodig, maar het icoontje van de 3,5-inch schijf blijft het universele symbool voor 'opslaan' in software, gebruikt door mensen die er nog nooit een hebben aangeraakt." },
-      "es": { "hook": "El icono del disquete sobrevivió al disquete real durante décadas.", "fact": "Los disquetes ya eran prácticamente obsoletos a principios de la década de 2000, pero el icono del disquete de 3,5 pulgadas sigue siendo el símbolo universal de \"guardar\" en programas usados por personas que nunca han tocado uno." }
+      "fr": {
+        "hook": "L'icône de la disquette a survécu des décennies à la disquette elle-même.",
+        "fact": "Les disquettes étaient largement obsolètes dès le début des années 2000, mais l'icône de la disquette 3,5 pouces reste le symbole universel du bouton « enregistrer », utilisé par des gens qui n'en ont jamais touché une."
+      },
+      "nl": {
+        "hook": "Het floppy-disk-opslaanicoontje overleefde de floppy disk met tientallen jaren.",
+        "fact": "Floppy disks waren begin jaren 2000 al grotendeels overbodig, maar het icoontje van de 3,5-inch schijf blijft het universele symbool voor 'opslaan' in software, gebruikt door mensen die er nog nooit een hebben aangeraakt."
+      },
+      "es": {
+        "hook": "El icono del disquete sobrevivió al disquete real durante décadas.",
+        "fact": "Los disquetes ya eran prácticamente obsoletos a principios de la década de 2000, pero el icono del disquete de 3,5 pulgadas sigue siendo el símbolo universal de \"guardar\" en programas usados por personas que nunca han tocado uno."
+      }
     }
   },
   {
@@ -160,11 +316,23 @@
     "domain": "technology",
     "hook": "Bluetooth is named after a Viking king.",
     "fact": "Bluetooth technology is named after Harald 'Bluetooth' Gormsson, a 10th-century Scandinavian king known for uniting Danish tribes — the logo even merges the runes for his initials.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le Bluetooth doit son nom à un roi viking.", "fact": "La technologie Bluetooth tient son nom de Harald « Dent bleue » Gormsson, un roi scandinave du 10e siècle connu pour avoir uni les tribus danoises — le logo fusionne même les runes de ses initiales." },
-      "nl": { "hook": "Bluetooth is vernoemd naar een Vikingkoning.", "fact": "De technologie Bluetooth is genoemd naar Harald 'Blauwtand' Gormsson, een Scandinavische koning uit de 10e eeuw die bekendstond om het verenigen van Deense stammen — het logo combineert zelfs de runen van zijn initialen." },
-      "es": { "hook": "Bluetooth debe su nombre a un rey vikingo.", "fact": "La tecnología Bluetooth recibe su nombre de Harald \"Diente Azul\" Gormsson, un rey escandinavo del siglo X conocido por unificar las tribus danesas — el logotipo incluso combina las runas de sus iniciales." }
+      "fr": {
+        "hook": "Le Bluetooth doit son nom à un roi viking.",
+        "fact": "La technologie Bluetooth tient son nom de Harald « Dent bleue » Gormsson, un roi scandinave du 10e siècle connu pour avoir uni les tribus danoises — le logo fusionne même les runes de ses initiales."
+      },
+      "nl": {
+        "hook": "Bluetooth is vernoemd naar een Vikingkoning.",
+        "fact": "De technologie Bluetooth is genoemd naar Harald 'Blauwtand' Gormsson, een Scandinavische koning uit de 10e eeuw die bekendstond om het verenigen van Deense stammen — het logo combineert zelfs de runen van zijn initialen."
+      },
+      "es": {
+        "hook": "Bluetooth debe su nombre a un rey vikingo.",
+        "fact": "La tecnología Bluetooth recibe su nombre de Harald \"Diente Azul\" Gormsson, un rey escandinavo del siglo X conocido por unificar las tribus danesas — el logotipo incluso combina las runas de sus iniciales."
+      }
     }
   },
   {
@@ -172,11 +340,23 @@
     "domain": "technology",
     "hook": "The first YouTube video was about an elephant.",
     "fact": "Uploaded in April 2005, 'Me at the zoo' shows YouTube co-founder Jawed Karim standing in front of elephants at the San Diego Zoo — it remains on the platform today.",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "La première vidéo YouTube parlait d'éléphants.", "fact": "Mise en ligne en avril 2005, « Me at the zoo » montre le cofondateur de YouTube Jawed Karim se tenant devant des éléphants au zoo de San Diego — elle est toujours visible sur la plateforme aujourd'hui." },
-      "nl": { "hook": "De eerste YouTube-video ging over een olifant.", "fact": "De video 'Me at the zoo', geüpload in april 2005, toont YouTube-medeoprichter Jawed Karim voor de olifanten in de dierentuin van San Diego — hij staat vandaag nog altijd op het platform." },
-      "es": { "hook": "El primer vídeo de YouTube trataba sobre un elefante.", "fact": "Subido en abril de 2005, \"Me at the zoo\" muestra al cofundador de YouTube Jawed Karim frente a los elefantes del zoo de San Diego — todavía sigue disponible en la plataforma." }
+      "fr": {
+        "hook": "La première vidéo YouTube parlait d'éléphants.",
+        "fact": "Mise en ligne en avril 2005, « Me at the zoo » montre le cofondateur de YouTube Jawed Karim se tenant devant des éléphants au zoo de San Diego — elle est toujours visible sur la plateforme aujourd'hui."
+      },
+      "nl": {
+        "hook": "De eerste YouTube-video ging over een olifant.",
+        "fact": "De video 'Me at the zoo', geüpload in april 2005, toont YouTube-medeoprichter Jawed Karim voor de olifanten in de dierentuin van San Diego — hij staat vandaag nog altijd op het platform."
+      },
+      "es": {
+        "hook": "El primer vídeo de YouTube trataba sobre un elefante.",
+        "fact": "Subido en abril de 2005, \"Me at the zoo\" muestra al cofundador de YouTube Jawed Karim frente a los elefantes del zoo de San Diego — todavía sigue disponible en la plataforma."
+      }
     }
   },
   {
@@ -184,11 +364,23 @@
     "domain": "technology",
     "hook": "Early computers were literally people.",
     "fact": "Before electronic machines, 'computer' was a job title for people, often women, who performed complex calculations by hand for scientific and engineering projects.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Les premiers « ordinateurs » étaient littéralement des personnes.", "fact": "Avant les machines électroniques, « computer » (calculateur) était un métier exercé par des personnes, souvent des femmes, qui effectuaient à la main des calculs complexes pour des projets scientifiques et techniques." },
-      "nl": { "hook": "De eerste 'computers' waren letterlijk mensen.", "fact": "Voordat elektronische machines bestonden, was 'computer' een beroep voor mensen, vaak vrouwen, die met de hand complexe berekeningen uitvoerden voor wetenschappelijke en technische projecten." },
-      "es": { "hook": "Los primeros \"ordenadores\" eran literalmente personas.", "fact": "Antes de las máquinas electrónicas, \"computer\" (calculador/a) era un puesto de trabajo desempeñado por personas, a menudo mujeres, que realizaban a mano cálculos complejos para proyectos científicos y de ingeniería." }
+      "fr": {
+        "hook": "Les premiers « ordinateurs » étaient littéralement des personnes.",
+        "fact": "Avant les machines électroniques, « computer » (calculateur) était un métier exercé par des personnes, souvent des femmes, qui effectuaient à la main des calculs complexes pour des projets scientifiques et techniques."
+      },
+      "nl": {
+        "hook": "De eerste 'computers' waren letterlijk mensen.",
+        "fact": "Voordat elektronische machines bestonden, was 'computer' een beroep voor mensen, vaak vrouwen, die met de hand complexe berekeningen uitvoerden voor wetenschappelijke en technische projecten."
+      },
+      "es": {
+        "hook": "Los primeros \"ordenadores\" eran literalmente personas.",
+        "fact": "Antes de las máquinas electrónicas, \"computer\" (calculador/a) era un puesto de trabajo desempeñado por personas, a menudo mujeres, que realizaban a mano cálculos complejos para proyectos científicos y de ingeniería."
+      }
     }
   },
   {
@@ -196,11 +388,23 @@
     "domain": "technology",
     "hook": "The first computer virus to spread in the wild was a 1982 prank.",
     "fact": "'Elk Cloner,' written by a 15-year-old, spread between Apple II computers via floppy disks and displayed a short poem on every 50th boot — one of the earliest examples of malware spreading outside a lab.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le premier virus informatique à s'être propagé dans la nature était une blague de 1982.", "fact": "« Elk Cloner », écrit par un adolescent de 15 ans, se propageait entre ordinateurs Apple II via des disquettes et affichait un court poème tous les 50 démarrages — l'un des premiers exemples de logiciel malveillant à se répandre hors d'un laboratoire." },
-      "nl": { "hook": "Het eerste computervirus dat zich in het wild verspreidde, was een grap uit 1982.", "fact": "'Elk Cloner', geschreven door een 15-jarige, verspreidde zich tussen Apple II-computers via floppy disks en toonde bij elke 50e opstart een kort gedicht — een van de vroegste voorbeelden van malware die zich buiten een lab verspreidde." },
-      "es": { "hook": "El primer virus informático que se propagó fuera de un laboratorio fue una broma de 1982.", "fact": "\"Elk Cloner\", escrito por un chico de 15 años, se propagaba entre ordenadores Apple II a través de disquetes y mostraba un breve poema cada 50 arranques — uno de los primeros ejemplos de malware que se propagó fuera de un laboratorio." }
+      "fr": {
+        "hook": "Le premier virus informatique à s'être propagé dans la nature était une blague de 1982.",
+        "fact": "« Elk Cloner », écrit par un adolescent de 15 ans, se propageait entre ordinateurs Apple II via des disquettes et affichait un court poème tous les 50 démarrages — l'un des premiers exemples de logiciel malveillant à se répandre hors d'un laboratoire."
+      },
+      "nl": {
+        "hook": "Het eerste computervirus dat zich in het wild verspreidde, was een grap uit 1982.",
+        "fact": "'Elk Cloner', geschreven door een 15-jarige, verspreidde zich tussen Apple II-computers via floppy disks en toonde bij elke 50e opstart een kort gedicht — een van de vroegste voorbeelden van malware die zich buiten een lab verspreidde."
+      },
+      "es": {
+        "hook": "El primer virus informático que se propagó fuera de un laboratorio fue una broma de 1982.",
+        "fact": "\"Elk Cloner\", escrito por un chico de 15 años, se propagaba entre ordenadores Apple II a través de disquetes y mostraba un breve poema cada 50 arranques — uno de los primeros ejemplos de malware que se propagó fuera de un laboratorio."
+      }
     }
   },
   {
@@ -208,11 +412,23 @@
     "domain": "technology",
     "hook": "The word 'bug' predates computers by decades.",
     "fact": "Engineers used 'bug' to describe mechanical glitches long before software existed — Thomas Edison used the term in his notes as early as the 1870s.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le mot « bug » existait des décennies avant les ordinateurs.", "fact": "Les ingénieurs utilisaient le mot « bug » pour décrire des dysfonctionnements mécaniques bien avant l'existence des logiciels — Thomas Edison employait déjà ce terme dans ses notes dès les années 1870." },
-      "nl": { "hook": "Het woord 'bug' bestond al tientallen jaren voor de computer.", "fact": "Ingenieurs gebruikten 'bug' om mechanische storingen te beschrijven lang voordat software bestond — Thomas Edison gebruikte de term al in zijn notities in de jaren 1870." },
-      "es": { "hook": "La palabra \"bug\" existía décadas antes que los ordenadores.", "fact": "Los ingenieros usaban la palabra \"bug\" para describir fallos mecánicos mucho antes de que existiera el software — Thomas Edison ya empleaba el término en sus notas en la década de 1870." }
+      "fr": {
+        "hook": "Le mot « bug » existait des décennies avant les ordinateurs.",
+        "fact": "Les ingénieurs utilisaient le mot « bug » pour décrire des dysfonctionnements mécaniques bien avant l'existence des logiciels — Thomas Edison employait déjà ce terme dans ses notes dès les années 1870."
+      },
+      "nl": {
+        "hook": "Het woord 'bug' bestond al tientallen jaren voor de computer.",
+        "fact": "Ingenieurs gebruikten 'bug' om mechanische storingen te beschrijven lang voordat software bestond — Thomas Edison gebruikte de term al in zijn notities in de jaren 1870."
+      },
+      "es": {
+        "hook": "La palabra \"bug\" existía décadas antes que los ordenadores.",
+        "fact": "Los ingenieros usaban la palabra \"bug\" para describir fallos mecánicos mucho antes de que existiera el software — Thomas Edison ya empleaba el término en sus notas en la década de 1870."
+      }
     }
   },
   {
@@ -220,11 +436,23 @@
     "domain": "technology",
     "hook": "The first text message ever sent just said 'Merry Christmas.'",
     "fact": "In December 1992, engineer Neil Papworth sent the first SMS text message from a computer to a mobile phone on the Vodafone network, reading simply 'Merry Christmas.'",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le tout premier SMS disait simplement « Joyeux Noël ».", "fact": "En décembre 1992, l'ingénieur Neil Papworth a envoyé le tout premier SMS, d'un ordinateur vers un téléphone mobile sur le réseau Vodafone, avec pour seul contenu « Merry Christmas »." },
-      "nl": { "hook": "Het allereerste sms'je zei gewoon 'Merry Christmas'.", "fact": "In december 1992 stuurde ingenieur Neil Papworth het eerste sms-bericht ooit, van een computer naar een mobiele telefoon op het Vodafone-netwerk, met simpelweg de tekst 'Merry Christmas'." },
-      "es": { "hook": "El primer SMS de la historia solo decía \"Feliz Navidad\".", "fact": "En diciembre de 1992, el ingeniero Neil Papworth envió el primer mensaje SMS de la historia, desde un ordenador a un teléfono móvil de la red Vodafone, con el simple texto \"Merry Christmas\"." }
+      "fr": {
+        "hook": "Le tout premier SMS disait simplement « Joyeux Noël ».",
+        "fact": "En décembre 1992, l'ingénieur Neil Papworth a envoyé le tout premier SMS, d'un ordinateur vers un téléphone mobile sur le réseau Vodafone, avec pour seul contenu « Merry Christmas »."
+      },
+      "nl": {
+        "hook": "Het allereerste sms'je zei gewoon 'Merry Christmas'.",
+        "fact": "In december 1992 stuurde ingenieur Neil Papworth het eerste sms-bericht ooit, van een computer naar een mobiele telefoon op het Vodafone-netwerk, met simpelweg de tekst 'Merry Christmas'."
+      },
+      "es": {
+        "hook": "El primer SMS de la historia solo decía \"Feliz Navidad\".",
+        "fact": "En diciembre de 1992, el ingeniero Neil Papworth envió el primer mensaje SMS de la historia, desde un ordenador a un teléfono móvil de la red Vodafone, con el simple texto \"Merry Christmas\"."
+      }
     }
   },
   {
@@ -232,11 +460,23 @@
     "domain": "technology",
     "hook": "The PlayStation started as a joint project with Nintendo.",
     "fact": "Sony was originally developing a CD-ROM add-on for the Super Nintendo. When that partnership collapsed, Sony built its own console instead — which became the PlayStation.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "La PlayStation devait à l'origine être un projet commun avec Nintendo.", "fact": "Sony développait à l'origine un accessoire CD-ROM pour la Super Nintendo. Quand ce partenariat a échoué, Sony a construit sa propre console à la place — qui est devenue la PlayStation." },
-      "nl": { "hook": "De PlayStation begon als een gezamenlijk project met Nintendo.", "fact": "Sony ontwikkelde oorspronkelijk een cd-rom-uitbreiding voor de Super Nintendo. Toen die samenwerking mislukte, bouwde Sony in plaats daarvan zijn eigen console — die de PlayStation werd." },
-      "es": { "hook": "La PlayStation empezó como un proyecto conjunto con Nintendo.", "fact": "Sony estaba desarrollando originalmente un complemento de CD-ROM para la Super Nintendo. Cuando esa colaboración se rompió, Sony construyó su propia consola — que se convirtió en la PlayStation." }
+      "fr": {
+        "hook": "La PlayStation devait à l'origine être un projet commun avec Nintendo.",
+        "fact": "Sony développait à l'origine un accessoire CD-ROM pour la Super Nintendo. Quand ce partenariat a échoué, Sony a construit sa propre console à la place — qui est devenue la PlayStation."
+      },
+      "nl": {
+        "hook": "De PlayStation begon als een gezamenlijk project met Nintendo.",
+        "fact": "Sony ontwikkelde oorspronkelijk een cd-rom-uitbreiding voor de Super Nintendo. Toen die samenwerking mislukte, bouwde Sony in plaats daarvan zijn eigen console — die de PlayStation werd."
+      },
+      "es": {
+        "hook": "La PlayStation empezó como un proyecto conjunto con Nintendo.",
+        "fact": "Sony estaba desarrollando originalmente un complemento de CD-ROM para la Super Nintendo. Cuando esa colaboración se rompió, Sony construyó su propia consola — que se convirtió en la PlayStation."
+      }
     }
   },
   {
@@ -244,11 +484,23 @@
     "domain": "technology",
     "hook": "The word 'spam' for junk email comes from a Monty Python sketch.",
     "fact": "A 1970 sketch featured a cafe where every dish came with Spam, and the word was repeated so relentlessly it became internet slang for unwanted, repetitive messages.",
-    "tags": ["internet", "language"],
+    "tags": [
+      "internet",
+      "language"
+    ],
     "translations": {
-      "fr": { "hook": "Le mot « spam » vient d'un sketch des Monty Python.", "fact": "Un sketch de 1970 mettait en scène un café où chaque plat était servi avec du Spam, et le mot était répété si inlassablement qu'il est devenu l'argot internet désignant les messages indésirables et répétitifs." },
-      "nl": { "hook": "Het woord 'spam' komt uit een Monty Python-sketch.", "fact": "In een sketch uit 1970 stond een café waar bij elk gerecht Spam werd geserveerd, en het woord werd zo onophoudelijk herhaald dat het internetjargon werd voor ongewenste, herhaaldelijke berichten." },
-      "es": { "hook": "La palabra \"spam\" viene de un sketch de Monty Python.", "fact": "Un sketch de 1970 mostraba una cafetería donde todos los platos venían con Spam, y la palabra se repetía tan incesantemente que se convirtió en jerga de internet para referirse a los mensajes no deseados y repetitivos." }
+      "fr": {
+        "hook": "Le mot « spam » vient d'un sketch des Monty Python.",
+        "fact": "Un sketch de 1970 mettait en scène un café où chaque plat était servi avec du Spam, et le mot était répété si inlassablement qu'il est devenu l'argot internet désignant les messages indésirables et répétitifs."
+      },
+      "nl": {
+        "hook": "Het woord 'spam' komt uit een Monty Python-sketch.",
+        "fact": "In een sketch uit 1970 stond een café waar bij elk gerecht Spam werd geserveerd, en het woord werd zo onophoudelijk herhaald dat het internetjargon werd voor ongewenste, herhaaldelijke berichten."
+      },
+      "es": {
+        "hook": "La palabra \"spam\" viene de un sketch de Monty Python.",
+        "fact": "Un sketch de 1970 mostraba una cafetería donde todos los platos venían con Spam, y la palabra se repetía tan incesantemente que se convirtió en jerga de internet para referirse a los mensajes no deseados y repetitivos."
+      }
     }
   },
   {
@@ -256,11 +508,23 @@
     "domain": "technology",
     "hook": "The first domain name ever registered was symbolics.com.",
     "fact": "Registered in March 1985 by a computer manufacturer, symbolics.com was the very first .com domain — years before the web as we know it existed.",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le tout premier nom de domaine enregistré était symbolics.com.", "fact": "Enregistré en mars 1985 par un fabricant d'ordinateurs, symbolics.com fut le tout premier domaine en .com — des années avant l'existence du web tel qu'on le connaît." },
-      "nl": { "hook": "De allereerste geregistreerde domeinnaam was symbolics.com.", "fact": "Symbolics.com, geregistreerd in maart 1985 door een computerfabrikant, was het allereerste .com-domein — jaren voordat het web zoals we het kennen bestond." },
-      "es": { "hook": "El primer dominio jamás registrado fue symbolics.com.", "fact": "Registrado en marzo de 1985 por un fabricante de ordenadores, symbolics.com fue el primerísimo dominio .com — años antes de que existiera la web tal como la conocemos." }
+      "fr": {
+        "hook": "Le tout premier nom de domaine enregistré était symbolics.com.",
+        "fact": "Enregistré en mars 1985 par un fabricant d'ordinateurs, symbolics.com fut le tout premier domaine en .com — des années avant l'existence du web tel qu'on le connaît."
+      },
+      "nl": {
+        "hook": "De allereerste geregistreerde domeinnaam was symbolics.com.",
+        "fact": "Symbolics.com, geregistreerd in maart 1985 door een computerfabrikant, was het allereerste .com-domein — jaren voordat het web zoals we het kennen bestond."
+      },
+      "es": {
+        "hook": "El primer dominio jamás registrado fue symbolics.com.",
+        "fact": "Registrado en marzo de 1985 por un fabricante de ordenadores, symbolics.com fue el primerísimo dominio .com — años antes de que existiera la web tal como la conocemos."
+      }
     }
   },
   {
@@ -268,11 +532,23 @@
     "domain": "technology",
     "hook": "Most of the world's money doesn't physically exist.",
     "fact": "More than 90% of the world's currency exists only as digital records in banking systems, rather than as physical cash or coins.",
-    "tags": ["computing", "economics"],
+    "tags": [
+      "computing",
+      "economics"
+    ],
     "translations": {
-      "fr": { "hook": "La majeure partie de l'argent mondial n'existe pas physiquement.", "fact": "Plus de 90 % de la monnaie mondiale n'existe que sous forme d'enregistrements numériques dans les systèmes bancaires, et non sous forme d'argent liquide ou de pièces." },
-      "nl": { "hook": "Het meeste geld ter wereld bestaat niet fysiek.", "fact": "Meer dan 90% van het geld in de wereld bestaat alleen als digitale gegevens in bankensystemen, in plaats van als fysiek contant geld of munten." },
-      "es": { "hook": "La mayor parte del dinero del mundo no existe físicamente.", "fact": "Más del 90% de la moneda mundial existe únicamente como registros digitales en los sistemas bancarios, en lugar de como efectivo o monedas físicas." }
+      "fr": {
+        "hook": "La majeure partie de l'argent mondial n'existe pas physiquement.",
+        "fact": "Plus de 90 % de la monnaie mondiale n'existe que sous forme d'enregistrements numériques dans les systèmes bancaires, et non sous forme d'argent liquide ou de pièces."
+      },
+      "nl": {
+        "hook": "Het meeste geld ter wereld bestaat niet fysiek.",
+        "fact": "Meer dan 90% van het geld in de wereld bestaat alleen als digitale gegevens in bankensystemen, in plaats van als fysiek contant geld of munten."
+      },
+      "es": {
+        "hook": "La mayor parte del dinero del mundo no existe físicamente.",
+        "fact": "Más del 90% de la moneda mundial existe únicamente como registros digitales en los sistemas bancarios, en lugar de como efectivo o monedas físicas."
+      }
     }
   },
   {
@@ -280,11 +556,23 @@
     "domain": "technology",
     "hook": "The first web banner ad had a 44% click-through rate.",
     "fact": "AT&T's 1994 'You Will' banner ad on HotWired is considered the first of its kind — and reportedly saw about 44% of viewers click it, an almost unthinkable rate by today's standards.",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "La première bannière publicitaire du web affichait un taux de clic de 44 %.", "fact": "La bannière « You Will » d'AT&T, diffusée en 1994 sur HotWired, est considérée comme la première du genre — et aurait été cliquée par environ 44 % des visiteurs, un taux presque impensable selon les standards actuels." },
-      "nl": { "hook": "De eerste bannerreclame op het web had een klikpercentage van 44%.", "fact": "AT&T's 'You Will'-banner uit 1994 op HotWired wordt beschouwd als de eerste in zijn soort — en zou door ongeveer 44% van de kijkers zijn aangeklikt, een percentage dat naar huidige maatstaven bijna ondenkbaar is." },
-      "es": { "hook": "El primer banner publicitario de la web tuvo una tasa de clics del 44%.", "fact": "El banner \"You Will\" de AT&T, publicado en 1994 en HotWired, se considera el primero de su tipo — y según se dice, alrededor del 44% de los visitantes hizo clic en él, una tasa casi impensable según los estándares actuales." }
+      "fr": {
+        "hook": "La première bannière publicitaire du web affichait un taux de clic de 44 %.",
+        "fact": "La bannière « You Will » d'AT&T, diffusée en 1994 sur HotWired, est considérée comme la première du genre — et aurait été cliquée par environ 44 % des visiteurs, un taux presque impensable selon les standards actuels."
+      },
+      "nl": {
+        "hook": "De eerste bannerreclame op het web had een klikpercentage van 44%.",
+        "fact": "AT&T's 'You Will'-banner uit 1994 op HotWired wordt beschouwd als de eerste in zijn soort — en zou door ongeveer 44% van de kijkers zijn aangeklikt, een percentage dat naar huidige maatstaven bijna ondenkbaar is."
+      },
+      "es": {
+        "hook": "El primer banner publicitario de la web tuvo una tasa de clics del 44%.",
+        "fact": "El banner \"You Will\" de AT&T, publicado en 1994 en HotWired, se considera el primero de su tipo — y según se dice, alrededor del 44% de los visitantes hizo clic en él, una tasa casi impensable según los estándares actuales."
+      }
     }
   },
   {
@@ -292,11 +580,23 @@
     "domain": "technology",
     "hook": "CAPTCHA is actually an acronym.",
     "fact": "CAPTCHA stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart' — the little puzzles designed to block bots from web forms.",
-    "tags": ["internet", "computing"],
+    "tags": [
+      "internet",
+      "computing"
+    ],
     "translations": {
-      "fr": { "hook": "CAPTCHA est en réalité un acronyme.", "fact": "CAPTCHA signifie « Completely Automated Public Turing test to tell Computers and Humans Apart » (test de Turing public entièrement automatisé pour différencier les humains des ordinateurs) — ces petites énigmes conçues pour empêcher les robots d'accéder aux formulaires web." },
-      "nl": { "hook": "CAPTCHA is eigenlijk een afkorting.", "fact": "CAPTCHA staat voor 'Completely Automated Public Turing test to tell Computers and Humans Apart' — de kleine puzzeltjes die bots moeten weren van webformulieren." },
-      "es": { "hook": "CAPTCHA es en realidad un acrónimo.", "fact": "CAPTCHA significa \"Completely Automated Public Turing test to tell Computers and Humans Apart\" (prueba de Turing pública y completamente automatizada para diferenciar ordenadores de humanos) — esos pequeños rompecabezas diseñados para bloquear a los bots en los formularios web." }
+      "fr": {
+        "hook": "CAPTCHA est en réalité un acronyme.",
+        "fact": "CAPTCHA signifie « Completely Automated Public Turing test to tell Computers and Humans Apart » (test de Turing public entièrement automatisé pour différencier les humains des ordinateurs) — ces petites énigmes conçues pour empêcher les robots d'accéder aux formulaires web."
+      },
+      "nl": {
+        "hook": "CAPTCHA is eigenlijk een afkorting.",
+        "fact": "CAPTCHA staat voor 'Completely Automated Public Turing test to tell Computers and Humans Apart' — de kleine puzzeltjes die bots moeten weren van webformulieren."
+      },
+      "es": {
+        "hook": "CAPTCHA es en realidad un acrónimo.",
+        "fact": "CAPTCHA significa \"Completely Automated Public Turing test to tell Computers and Humans Apart\" (prueba de Turing pública y completamente automatizada para diferenciar ordenadores de humanos) — esos pequeños rompecabezas diseñados para bloquear a los bots en los formularios web."
+      }
     }
   },
   {
@@ -304,11 +604,23 @@
     "domain": "technology",
     "hook": "The first tweet was about setting up Twitter itself.",
     "fact": "Twitter co-founder Jack Dorsey posted the platform's first-ever tweet in 2006: 'just setting up my twttr.'",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Le tout premier tweet parlait de la création de Twitter lui-même.", "fact": "Le cofondateur de Twitter, Jack Dorsey, a publié le tout premier tweet de la plateforme en 2006 : « just setting up my twttr »." },
-      "nl": { "hook": "De eerste tweet ging over het opzetten van Twitter zelf.", "fact": "Twitter-medeoprichter Jack Dorsey plaatste in 2006 de allereerste tweet van het platform: 'just setting up my twttr.'" },
-      "es": { "hook": "El primer tuit trataba sobre la creación de Twitter mismo.", "fact": "El cofundador de Twitter, Jack Dorsey, publicó el primer tuit de la historia de la plataforma en 2006: \"just setting up my twttr\"." }
+      "fr": {
+        "hook": "Le tout premier tweet parlait de la création de Twitter lui-même.",
+        "fact": "Le cofondateur de Twitter, Jack Dorsey, a publié le tout premier tweet de la plateforme en 2006 : « just setting up my twttr »."
+      },
+      "nl": {
+        "hook": "De eerste tweet ging over het opzetten van Twitter zelf.",
+        "fact": "Twitter-medeoprichter Jack Dorsey plaatste in 2006 de allereerste tweet van het platform: 'just setting up my twttr.'"
+      },
+      "es": {
+        "hook": "El primer tuit trataba sobre la creación de Twitter mismo.",
+        "fact": "El cofundador de Twitter, Jack Dorsey, publicó el primer tuit de la historia de la plataforma en 2006: \"just setting up my twttr\"."
+      }
     }
   },
   {
@@ -316,11 +628,23 @@
     "domain": "technology",
     "hook": "QR codes were invented to track car parts, not for marketing.",
     "fact": "A Japanese company called Denso Wave created QR codes in 1994 to track automotive components during manufacturing — decades before they became a staple of restaurant menus and ads.",
-    "tags": ["technology", "history"],
+    "tags": [
+      "technology",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Les codes QR ont été inventés pour suivre des pièces automobiles, pas pour le marketing.", "fact": "L'entreprise japonaise Denso Wave a créé les codes QR en 1994 pour suivre les pièces automobiles pendant la fabrication — des décennies avant qu'ils ne deviennent incontournables sur les menus de restaurants et les publicités." },
-      "nl": { "hook": "QR-codes zijn uitgevonden om auto-onderdelen te volgen, niet voor marketing.", "fact": "Het Japanse bedrijf Denso Wave creëerde QR-codes in 1994 om auto-onderdelen tijdens de productie te volgen — decennia voordat ze een vast onderdeel werden van restaurantmenu's en advertenties." },
-      "es": { "hook": "Los códigos QR se inventaron para rastrear piezas de coches, no para marketing.", "fact": "La empresa japonesa Denso Wave creó los códigos QR en 1994 para rastrear componentes automotrices durante la fabricación — décadas antes de convertirse en un elemento habitual de los menús de restaurantes y la publicidad." }
+      "fr": {
+        "hook": "Les codes QR ont été inventés pour suivre des pièces automobiles, pas pour le marketing.",
+        "fact": "L'entreprise japonaise Denso Wave a créé les codes QR en 1994 pour suivre les pièces automobiles pendant la fabrication — des décennies avant qu'ils ne deviennent incontournables sur les menus de restaurants et les publicités."
+      },
+      "nl": {
+        "hook": "QR-codes zijn uitgevonden om auto-onderdelen te volgen, niet voor marketing.",
+        "fact": "Het Japanse bedrijf Denso Wave creëerde QR-codes in 1994 om auto-onderdelen tijdens de productie te volgen — decennia voordat ze een vast onderdeel werden van restaurantmenu's en advertenties."
+      },
+      "es": {
+        "hook": "Los códigos QR se inventaron para rastrear piezas de coches, no para marketing.",
+        "fact": "La empresa japonesa Denso Wave creó los códigos QR en 1994 para rastrear componentes automotrices durante la fabricación — décadas antes de convertirse en un elemento habitual de los menús de restaurantes y la publicidad."
+      }
     }
   },
   {
@@ -328,11 +652,23 @@
     "domain": "technology",
     "hook": "The @ symbol has some fun nicknames around the world.",
     "fact": "While English just calls it 'at,' other languages have their own names for the @ symbol — it's often called 'little dog' or 'monkey tail' in Slavic languages, among other nicknames.",
-    "tags": ["internet", "language"],
+    "tags": [
+      "internet",
+      "language"
+    ],
     "translations": {
-      "fr": { "hook": "Le symbole @ a des surnoms amusants dans le monde entier.", "fact": "Alors qu'en anglais on l'appelle simplement « at », d'autres langues ont leurs propres noms pour le symbole @ — dans les langues slaves, on l'appelle souvent « petit chien » ou « queue de singe », parmi d'autres surnoms." },
-      "nl": { "hook": "Het @-symbool heeft grappige bijnamen over de hele wereld.", "fact": "Terwijl het Engels het gewoon 'at' noemt, hebben andere talen hun eigen namen voor het @-symbool — in Slavische talen wordt het vaak 'hondje' of 'apenstaartje' genoemd, naast andere bijnamen." },
-      "es": { "hook": "El símbolo @ tiene apodos muy curiosos por todo el mundo.", "fact": "Mientras que en inglés simplemente se llama \"at\", otros idiomas tienen sus propios nombres para el símbolo @ — en las lenguas eslavas suele llamarse \"perrito\" o \"cola de mono\", entre otros apodos." }
+      "fr": {
+        "hook": "Le symbole @ a des surnoms amusants dans le monde entier.",
+        "fact": "Alors qu'en anglais on l'appelle simplement « at », d'autres langues ont leurs propres noms pour le symbole @ — dans les langues slaves, on l'appelle souvent « petit chien » ou « queue de singe », parmi d'autres surnoms."
+      },
+      "nl": {
+        "hook": "Het @-symbool heeft grappige bijnamen over de hele wereld.",
+        "fact": "Terwijl het Engels het gewoon 'at' noemt, hebben andere talen hun eigen namen voor het @-symbool — in Slavische talen wordt het vaak 'hondje' of 'apenstaartje' genoemd, naast andere bijnamen."
+      },
+      "es": {
+        "hook": "El símbolo @ tiene apodos muy curiosos por todo el mundo.",
+        "fact": "Mientras que en inglés simplemente se llama \"at\", otros idiomas tienen sus propios nombres para el símbolo @ — en las lenguas eslavas suele llamarse \"perrito\" o \"cola de mono\", entre otros apodos."
+      }
     }
   },
   {
@@ -340,11 +676,23 @@
     "domain": "technology",
     "hook": "Nintendo is over 130 years old.",
     "fact": "Nintendo was founded in 1889, originally making handcrafted Japanese playing cards called hanafuda — more than a century before it ever made a video game.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Nintendo a plus de 130 ans.", "fact": "Nintendo a été fondée en 1889 et fabriquait à l'origine des cartes à jouer japonaises artisanales appelées hanafuda — plus d'un siècle avant de créer son premier jeu vidéo." },
-      "nl": { "hook": "Nintendo bestaat al meer dan 130 jaar.", "fact": "Nintendo werd opgericht in 1889 en maakte oorspronkelijk met de hand vervaardigde Japanse speelkaarten genaamd hanafuda — meer dan een eeuw voordat het ooit een videogame maakte." },
-      "es": { "hook": "Nintendo tiene más de 130 años.", "fact": "Nintendo se fundó en 1889 y originalmente fabricaba a mano cartas de juego japonesas llamadas hanafuda — más de un siglo antes de crear su primer videojuego." }
+      "fr": {
+        "hook": "Nintendo a plus de 130 ans.",
+        "fact": "Nintendo a été fondée en 1889 et fabriquait à l'origine des cartes à jouer japonaises artisanales appelées hanafuda — plus d'un siècle avant de créer son premier jeu vidéo."
+      },
+      "nl": {
+        "hook": "Nintendo bestaat al meer dan 130 jaar.",
+        "fact": "Nintendo werd opgericht in 1889 en maakte oorspronkelijk met de hand vervaardigde Japanse speelkaarten genaamd hanafuda — meer dan een eeuw voordat het ooit een videogame maakte."
+      },
+      "es": {
+        "hook": "Nintendo tiene más de 130 años.",
+        "fact": "Nintendo se fundó en 1889 y originalmente fabricaba a mano cartas de juego japonesas llamadas hanafuda — más de un siglo antes de crear su primer videojuego."
+      }
     }
   },
   {
@@ -352,11 +700,23 @@
     "domain": "technology",
     "hook": "It took 27 years to go from the first 1GB hard drive to the first 1TB one.",
     "fact": "The first gigabyte hard drive shipped in 1980; the first consumer terabyte drive didn't arrive until 2007 — a thousandfold jump in capacity in under three decades.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Il a fallu 27 ans pour passer du premier disque dur de 1 Go au premier de 1 To.", "fact": "Le premier disque dur d'un gigaoctet est sorti en 1980 ; le premier disque dur grand public d'un téraoctet n'est arrivé qu'en 2007 — un bond de capacité par mille en moins de trois décennies." },
-      "nl": { "hook": "Het duurde 27 jaar om van de eerste harde schijf van 1GB naar de eerste van 1TB te gaan.", "fact": "De eerste harde schijf van een gigabyte kwam in 1980 op de markt; de eerste harde schijf van een terabyte voor consumenten verscheen pas in 2007 — een duizendvoudige capaciteitssprong in minder dan drie decennia." },
-      "es": { "hook": "Se tardaron 27 años en pasar del primer disco duro de 1GB al primero de 1TB.", "fact": "El primer disco duro de un gigabyte salió a la venta en 1980; el primer disco duro de un terabyte para consumidores no llegó hasta 2007 — un salto de capacidad de mil veces en menos de tres décadas." }
+      "fr": {
+        "hook": "Il a fallu 27 ans pour passer du premier disque dur de 1 Go au premier de 1 To.",
+        "fact": "Le premier disque dur d'un gigaoctet est sorti en 1980 ; le premier disque dur grand public d'un téraoctet n'est arrivé qu'en 2007 — un bond de capacité par mille en moins de trois décennies."
+      },
+      "nl": {
+        "hook": "Het duurde 27 jaar om van de eerste harde schijf van 1GB naar de eerste van 1TB te gaan.",
+        "fact": "De eerste harde schijf van een gigabyte kwam in 1980 op de markt; de eerste harde schijf van een terabyte voor consumenten verscheen pas in 2007 — een duizendvoudige capaciteitssprong in minder dan drie decennia."
+      },
+      "es": {
+        "hook": "Se tardaron 27 años en pasar del primer disco duro de 1GB al primero de 1TB.",
+        "fact": "El primer disco duro de un gigabyte salió a la venta en 1980; el primer disco duro de un terabyte para consumidores no llegó hasta 2007 — un salto de capacidad de mil veces en menos de tres décadas."
+      }
     }
   },
   {
@@ -364,11 +724,23 @@
     "domain": "technology",
     "hook": "Text messages were capped at 160 characters for a very specific reason.",
     "fact": "Engineer Friedhelm Hillebrand found that most postcards and Telex messages naturally stayed under 160 characters, and used that research to help set the original SMS length limit.",
-    "tags": ["internet", "history"],
+    "tags": [
+      "internet",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "Les SMS étaient limités à 160 caractères pour une raison bien précise.", "fact": "L'ingénieur Friedhelm Hillebrand a constaté que la plupart des cartes postales et messages Télex faisaient naturellement moins de 160 caractères, et s'est appuyé sur cette observation pour fixer la limite de longueur originale des SMS." },
-      "nl": { "hook": "Sms'jes waren om een heel specifieke reden beperkt tot 160 tekens.", "fact": "Ingenieur Friedhelm Hillebrand ontdekte dat de meeste briefkaarten en telexberichten van nature onder de 160 tekens bleven, en gebruikte dat onderzoek om de oorspronkelijke lengtelimiet van sms vast te stellen." },
-      "es": { "hook": "Los SMS se limitaron a 160 caracteres por una razón muy concreta.", "fact": "El ingeniero Friedhelm Hillebrand descubrió que la mayoría de las postales y los mensajes de télex se quedaban de forma natural por debajo de los 160 caracteres, y usó esa investigación para ayudar a fijar el límite de longitud original de los SMS." }
+      "fr": {
+        "hook": "Les SMS étaient limités à 160 caractères pour une raison bien précise.",
+        "fact": "L'ingénieur Friedhelm Hillebrand a constaté que la plupart des cartes postales et messages Télex faisaient naturellement moins de 160 caractères, et s'est appuyé sur cette observation pour fixer la limite de longueur originale des SMS."
+      },
+      "nl": {
+        "hook": "Sms'jes waren om een heel specifieke reden beperkt tot 160 tekens.",
+        "fact": "Ingenieur Friedhelm Hillebrand ontdekte dat de meeste briefkaarten en telexberichten van nature onder de 160 tekens bleven, en gebruikte dat onderzoek om de oorspronkelijke lengtelimiet van sms vast te stellen."
+      },
+      "es": {
+        "hook": "Los SMS se limitaron a 160 caracteres por una razón muy concreta.",
+        "fact": "El ingeniero Friedhelm Hillebrand descubrió que la mayoría de las postales y los mensajes de télex se quedaban de forma natural por debajo de los 160 caracteres, y usó esa investigación para ayudar a fijar el límite de longitud original de los SMS."
+      }
     }
   },
   {
@@ -376,11 +748,23 @@
     "domain": "technology",
     "hook": "The trash bin icon is almost as old as the modern computer interface.",
     "fact": "The trash/recycle bin icon for deleting files was introduced with the original Apple Macintosh in 1984, and its basic look has barely changed since.",
-    "tags": ["design", "computing"],
+    "tags": [
+      "design",
+      "computing"
+    ],
     "translations": {
-      "fr": { "hook": "L'icône de la corbeille est presque aussi vieille que l'interface informatique moderne.", "fact": "L'icône de la corbeille pour supprimer des fichiers a été introduite avec le premier Macintosh d'Apple en 1984, et son apparence de base a à peine changé depuis." },
-      "nl": { "hook": "Het prullenbakicoontje is bijna net zo oud als de moderne computerinterface.", "fact": "Het prullenbak-icoon voor het verwijderen van bestanden werd in 1984 geïntroduceerd met de originele Apple Macintosh, en het basisuiterlijk is sindsdien nauwelijks veranderd." },
-      "es": { "hook": "El icono de la papelera es casi tan antiguo como la interfaz informática moderna.", "fact": "El icono de la papelera para eliminar archivos se introdujo con el Macintosh original de Apple en 1984, y su aspecto básico apenas ha cambiado desde entonces." }
+      "fr": {
+        "hook": "L'icône de la corbeille est presque aussi vieille que l'interface informatique moderne.",
+        "fact": "L'icône de la corbeille pour supprimer des fichiers a été introduite avec le premier Macintosh d'Apple en 1984, et son apparence de base a à peine changé depuis."
+      },
+      "nl": {
+        "hook": "Het prullenbakicoontje is bijna net zo oud als de moderne computerinterface.",
+        "fact": "Het prullenbak-icoon voor het verwijderen van bestanden werd in 1984 geïntroduceerd met de originele Apple Macintosh, en het basisuiterlijk is sindsdien nauwelijks veranderd."
+      },
+      "es": {
+        "hook": "El icono de la papelera es casi tan antiguo como la interfaz informática moderna.",
+        "fact": "El icono de la papelera para eliminar archivos se introdujo con el Macintosh original de Apple en 1984, y su aspecto básico apenas ha cambiado desde entonces."
+      }
     }
   },
   {
@@ -388,11 +772,1719 @@
     "domain": "technology",
     "hook": "One of the first mobile games was Snake, preloaded on Nokia phones.",
     "fact": "Nokia included the game Snake on its phones starting with the Nokia 6110 in 1997, introducing millions of people to mobile gaming years before app stores existed.",
-    "tags": ["computing", "history"],
+    "tags": [
+      "computing",
+      "history"
+    ],
     "translations": {
-      "fr": { "hook": "L'un des premiers jeux mobiles était Snake, préinstallé sur les téléphones Nokia.", "fact": "Nokia a inclus le jeu Snake sur ses téléphones à partir du Nokia 6110 en 1997, initiant des millions de personnes au jeu mobile des années avant l'existence des boutiques d'applications." },
-      "nl": { "hook": "Een van de eerste mobiele spelletjes was Snake, standaard op Nokia-telefoons.", "fact": "Nokia voegde het spel Snake toe aan zijn telefoons vanaf de Nokia 6110 in 1997, waardoor miljoenen mensen kennismaakten met mobiel gamen jaren voordat app stores bestonden." },
-      "es": { "hook": "Uno de los primeros videojuegos móviles fue Snake, preinstalado en los teléfonos Nokia.", "fact": "Nokia incluyó el juego Snake en sus teléfonos a partir del Nokia 6110 en 1997, introduciendo a millones de personas en los videojuegos móviles años antes de que existieran las tiendas de aplicaciones." }
+      "fr": {
+        "hook": "L'un des premiers jeux mobiles était Snake, préinstallé sur les téléphones Nokia.",
+        "fact": "Nokia a inclus le jeu Snake sur ses téléphones à partir du Nokia 6110 en 1997, initiant des millions de personnes au jeu mobile des années avant l'existence des boutiques d'applications."
+      },
+      "nl": {
+        "hook": "Een van de eerste mobiele spelletjes was Snake, standaard op Nokia-telefoons.",
+        "fact": "Nokia voegde het spel Snake toe aan zijn telefoons vanaf de Nokia 6110 in 1997, waardoor miljoenen mensen kennismaakten met mobiel gamen jaren voordat app stores bestonden."
+      },
+      "es": {
+        "hook": "Uno de los primeros videojuegos móviles fue Snake, preinstalado en los teléfonos Nokia.",
+        "fact": "Nokia incluyó el juego Snake en sus teléfonos a partir del Nokia 6110 en 1997, introduciendo a millones de personas en los videojuegos móviles años antes de que existieran las tiendas de aplicaciones."
+      }
     }
+  },
+  {
+    "id": "technology-034",
+    "domain": "technology",
+    "hook": "ENIAC weighed as much as a school bus.",
+    "fact": "Completed in 1945, ENIAC used about 17,468 vacuum tubes, weighed roughly 30 tons, and filled a large room — yet it was the first general-purpose electronic computer, and it was largely programmed by six women who reconfigured its wiring and switches by hand.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-035",
+    "domain": "technology",
+    "hook": "Britain hid its first electronic computer for 30 years.",
+    "fact": "Colossus, built in 1943 to help crack German codes at Bletchley Park, was one of the first programmable electronic digital computers — but it stayed classified until the 1970s, so credit for early computing history long skipped over it.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-036",
+    "domain": "technology",
+    "hook": "A German engineer built a working programmable computer in 1941.",
+    "fact": "Konrad Zuse's Z3, built largely in his parents' living room in Berlin, is considered the first fully functional program-controlled computer — though it was destroyed in an Allied bombing raid in 1943 and its significance wasn't widely recognized for decades.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-037",
+    "domain": "technology",
+    "hook": "The first computer program was written before any computer existed to run it.",
+    "fact": "In the 1840s, Ada Lovelace wrote a detailed algorithm for Charles Babbage's never-built Analytical Engine, describing how it could compute Bernoulli numbers — making her work a candidate for the first published computer program.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-038",
+    "domain": "technology",
+    "hook": "The theoretical blueprint for every computer came from a 1936 math paper.",
+    "fact": "Alan Turing's concept of a 'Turing machine' — a simple abstract device reading and writing symbols on an infinite tape — defined what it means for a problem to be computable, and it predates any electronic computer by nearly a decade.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-039",
+    "domain": "technology",
+    "hook": "Cracking Enigma required inventing an early computer.",
+    "fact": "To break German military codes in World War II, Alan Turing and colleagues at Bletchley Park designed electromechanical machines called 'bombes' that automated the search for Enigma settings, dramatically speeding up codebreaking.",
+    "tags": [
+      "computing",
+      "history",
+      "cybersecurity"
+    ]
+  },
+  {
+    "id": "technology-040",
+    "domain": "technology",
+    "hook": "Almost every computer today runs on a 1945 memo.",
+    "fact": "John von Neumann's description of storing both a program's instructions and its data together in the same memory — the 'stored-program' architecture — became the basic blueprint that nearly all modern computers still follow.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-041",
+    "domain": "technology",
+    "hook": "A computer correctly predicted a presidential election while experts refused to believe it.",
+    "fact": "In 1952, the UNIVAC I computer predicted Dwight Eisenhower would win the presidency in a landslide based on early returns, but CBS statisticians distrusted the result and delayed airing it — the prediction turned out to be accurate.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-042",
+    "domain": "technology",
+    "hook": "The programmers who made ENIAC actually work went uncredited for decades.",
+    "fact": "Six women — including Kathleen McNulty, Jean Bartik, and Betty Holberton — programmed ENIAC by physically rewiring its panels, but for years they were left out of official photos and histories, with the machine's hardware getting all the credit.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-043",
+    "domain": "technology",
+    "hook": "Computer punch cards started out in the textile industry.",
+    "fact": "Punched cards were first used to control weaving patterns in Jacquard looms in 1801; nearly a century later, Herman Hollerith adapted the idea to tabulate the 1890 US Census, and his company eventually became IBM.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-044",
+    "domain": "technology",
+    "hook": "The word 'byte' was misspelled on purpose.",
+    "fact": "IBM engineer Werner Buchholz coined 'byte' in 1956 to describe a group of bits, deliberately spelling it with a 'y' instead of 'bite' so it wouldn't be confused with 'bit' in writing.",
+    "tags": [
+      "computing",
+      "language"
+    ]
+  },
+  {
+    "id": "technology-045",
+    "domain": "technology",
+    "hook": "'Moore's Law' isn't actually a law of physics.",
+    "fact": "In 1965, Intel co-founder Gordon Moore observed that the number of transistors on a chip seemed to double roughly every year or two, and the trend held for decades — but it was always an industry pattern and business target, not a physical law.",
+    "whyItMatters": "Chipmakers openly used Moore's Law as a roadmap to plan investment, which is a big reason the prediction kept coming true for so long.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-046",
+    "domain": "technology",
+    "hook": "The first hard drive was the size of two refrigerators and held less than a modern phone photo album.",
+    "fact": "IBM's 1956 RAMAC 350 stored about 5 megabytes across fifty spinning 24-inch disks, and companies could only lease it — not buy it — for roughly $3,200 a month.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-047",
+    "domain": "technology",
+    "hook": "The same person who wrote the first compiler also popularized 'debugging.'",
+    "fact": "Grace Hopper developed the A-0 System in 1952, one of the first compilers to translate human-readable code into machine instructions, laying groundwork that later led to COBOL.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-048",
+    "domain": "technology",
+    "hook": "Computer science has its own Nobel Prize.",
+    "fact": "The Turing Award, established in 1966 by the Association for Computing Machinery and named after Alan Turing, is widely considered the highest honor in computer science.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-049",
+    "domain": "technology",
+    "hook": "One programming language from 1957 basically started the industry.",
+    "fact": "Fortran, developed at IBM and released in 1957, was the first widely adopted high-level programming language, letting scientists write formulas in something close to math notation instead of raw machine code.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-050",
+    "domain": "technology",
+    "hook": "A 1959 programming language still quietly runs much of the global banking system.",
+    "fact": "COBOL was designed in 1959 for business data processing, and decades later it still handles a large share of daily financial transactions worldwide, running on mainframes many institutions are reluctant to replace.",
+    "whyItMatters": "Because so few programmers still learn COBOL, banks and governments have repeatedly struggled to find developers to maintain aging systems that keep essential services running.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-051",
+    "domain": "technology",
+    "hook": "One of the oldest programming languages is still actively used today.",
+    "fact": "Lisp, created by John McCarthy in 1958, is the second-oldest high-level programming language still in widespread use, and it introduced ideas like recursion and automatic garbage collection that later became standard across programming.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-052",
+    "domain": "technology",
+    "hook": "The language that built Unix was created to rewrite Unix itself.",
+    "fact": "Dennis Ritchie developed the C programming language at Bell Labs in the early 1970s largely so that Unix, originally written in assembly, could be rewritten in something more portable — C went on to influence countless later languages.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-053",
+    "domain": "technology",
+    "hook": "Unix got its name as a joke about a bigger, more ambitious project.",
+    "fact": "Developed at Bell Labs in 1969, Unix was named as a pun on 'Multics,' the sprawling, over-ambitious operating system project it was built to be a smaller, simpler alternative to.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-054",
+    "domain": "technology",
+    "hook": "Python isn't named after the snake.",
+    "fact": "Creator Guido van Rossum named the Python language after the British comedy troupe Monty Python, not the reptile — he was reading scripts from 'Monty Python's Flying Circus' while starting the project in 1989.",
+    "tags": [
+      "software",
+      "language"
+    ]
+  },
+  {
+    "id": "technology-055",
+    "domain": "technology",
+    "hook": "One of the most-used languages on the web was written in ten days.",
+    "fact": "Brendan Eich created the first version of JavaScript in about ten days in 1995 while at Netscape, under pressure to ship a scripting language before a major browser release.",
+    "tags": [
+      "software",
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-056",
+    "domain": "technology",
+    "hook": "Java was originally named after a tree outside its creator's office.",
+    "fact": "Sun Microsystems' language project was first called 'Oak' after a tree visible from a developer's window, but the name was already trademarked, so the team renamed it Java — reportedly inspired by their coffee consumption.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-057",
+    "domain": "technology",
+    "hook": "A language built for beginners came out of a Dartmouth math department.",
+    "fact": "BASIC was designed in 1964 by John Kemeny and Thomas Kurtz at Dartmouth College specifically to let non-specialist students write simple programs, and it later became the language preloaded on many early home computers.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-058",
+    "domain": "technology",
+    "hook": "The web wasn't originally about browsing pages — it was a filing problem.",
+    "fact": "Tim Berners-Lee proposed the World Wide Web in 1989 at CERN as a way to help researchers link and share documents more easily, and by 1991 he had built the first web browser and server to make it work.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-059",
+    "domain": "technology",
+    "hook": "The internet's first four computers could talk to just four places.",
+    "fact": "ARPANET, the internet's predecessor, connected its first four nodes in 1969 — UCLA, Stanford Research Institute, UC Santa Barbara, and the University of Utah.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-060",
+    "domain": "technology",
+    "hook": "Two engineers designed the rules that let every network on Earth talk to each other.",
+    "fact": "Vint Cerf and Bob Kahn published the design for TCP/IP in 1974, creating the common set of rules that let different, incompatible computer networks connect into a single unified internet.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-061",
+    "domain": "technology",
+    "hook": "There used to be a single master list of every computer on the internet.",
+    "fact": "Before the Domain Name System was introduced in 1983, every computer connected to ARPANET relied on a manually updated text file called HOSTS.TXT, maintained by Stanford, to translate names into addresses.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-062",
+    "domain": "technology",
+    "hook": "One browser release in 1993 turned the web from a niche tool into a phenomenon.",
+    "fact": "Mosaic, released in 1993, was the first browser to display images inline with text in an easy graphical interface, and it made the web accessible to ordinary people rather than just researchers — its creators later founded Netscape.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-063",
+    "domain": "technology",
+    "hook": "A browser company's stock market debut helped trigger the dot-com boom.",
+    "fact": "When Netscape went public in 1995, its share price more than doubled on the first day of trading despite the company not yet being profitable, helping spark a wave of investor enthusiasm for internet startups.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-064",
+    "domain": "technology",
+    "hook": "CERN could have charged royalties for the World Wide Web — and chose not to.",
+    "fact": "In 1993, CERN placed the World Wide Web technology into the public domain with no fees or royalties, a decision widely credited with allowing the web to spread and be adopted so quickly worldwide.",
+    "whyItMatters": "Had CERN patented and licensed the web, competing proprietary hypertext systems of the era might have fragmented online information instead of a single open web taking hold.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-065",
+    "domain": "technology",
+    "hook": "One of the first things ever bought online was a music CD.",
+    "fact": "In August 1994, NetMarket facilitated the sale of a Sting album using encryption to protect the credit card transaction, an event often cited as the first secure retail purchase made over the internet.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-066",
+    "domain": "technology",
+    "hook": "Google's original name sounded like a chiropractic app.",
+    "fact": "Before it was called Google, Larry Page and Sergey Brin's Stanford research project analyzing links between web pages was named 'BackRub.'",
+    "tags": [
+      "internet",
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-067",
+    "domain": "technology",
+    "hook": "Amazon started as a bookstore run out of a garage.",
+    "fact": "Jeff Bezos founded Amazon in 1994 to sell books online exclusively, choosing books partly because their huge catalog and standardized format made them well suited to a mail-order internet business.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-068",
+    "domain": "technology",
+    "hook": "Yahoo's original name was basically a to-do list description.",
+    "fact": "When Jerry Yang and David Filo started their web directory in 1994, it was called 'Jerry and David's Guide to the World Wide Web' before being renamed Yahoo!",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-069",
+    "domain": "technology",
+    "hook": "Wikipedia was originally the backup plan for a much slower encyclopedia.",
+    "fact": "Wikipedia launched in 2001 as a fast, open side project to Nupedia, an online encyclopedia that relied on a slow expert peer-review process — within a year, the freewheeling side project had far outgrown its parent.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-070",
+    "domain": "technology",
+    "hook": "Trillions of dollars in market value vanished in a couple of years.",
+    "fact": "The dot-com bubble, fueled by speculative investment in unprofitable internet startups, peaked in early 2000 before crashing, wiping out a huge share of tech stock value and closing thousands of companies over the following two years.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-071",
+    "domain": "technology",
+    "hook": "The smiley emoticon has a documented birthday.",
+    "fact": "Computer scientist Scott Fahlman proposed using :-) to mark jokes in online messages on a Carnegie Mellon bulletin board in September 1982, an early moment often credited as the invention of the emoticon.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-072",
+    "domain": "technology",
+    "hook": "The famous '404 room at CERN' story is a myth.",
+    "fact": "A popular legend claims the 404 error code comes from a physical room numbered 404 at CERN — CERN itself has denied this. The code is simply part of HTTP's standard 4xx range for client errors, set when the standard was written.",
+    "tags": [
+      "internet",
+      "trivia"
+    ]
+  },
+  {
+    "id": "technology-073",
+    "domain": "technology",
+    "hook": "Microsoft's first product wasn't Windows.",
+    "fact": "Founded in 1975 by Bill Gates and Paul Allen, Microsoft's first product was a version of the BASIC programming language for the Altair 8800, one of the earliest personal computer kits.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-074",
+    "domain": "technology",
+    "hook": "The first Apple computer didn't come with a case, keyboard, or monitor.",
+    "fact": "The 1976 Apple I was sold as a bare assembled circuit board for $666.66 — buyers had to supply their own keyboard, display, case, and power supply to make it usable.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-075",
+    "domain": "technology",
+    "hook": "IBM's decision to keep its PC design open backfired spectacularly.",
+    "fact": "When IBM launched the PC in 1981, it used off-the-shelf components and published technical specs, making the design easy to clone — competitors quickly built cheaper compatible machines that eroded IBM's own market dominance.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-076",
+    "domain": "technology",
+    "hook": "The operating system that made Microsoft was bought for a fraction of its future worth.",
+    "fact": "Microsoft acquired rights to an operating system nicknamed QDOS ('Quick and Dirty Operating System') from Seattle Computer Products for roughly $75,000, then licensed a modified version to IBM as MS-DOS.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-077",
+    "domain": "technology",
+    "hook": "Linux began as one student's hobby project he didn't expect to matter.",
+    "fact": "In 1991, Finnish student Linus Torvalds posted on a Usenet newsgroup that he was writing 'a (free) operating system (just a hobby, won't be big and professional)' — that hobby became Linux, which now powers most of the world's servers.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-078",
+    "domain": "technology",
+    "hook": "The free software movement started with one programmer's frustration over a printer.",
+    "fact": "Richard Stallman launched the GNU Project in 1983 to build a completely free Unix-like operating system, motivated partly by his anger at not being able to modify proprietary printer driver software.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-079",
+    "domain": "technology",
+    "hook": "Photoshop began life as a simple black-and-white image viewer.",
+    "fact": "Thomas Knoll originally wrote the program in 1987 to display grayscale images on a Macintosh; with his brother John, he expanded it into full image-editing software that Adobe licensed and released as Photoshop in 1990.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-080",
+    "domain": "technology",
+    "hook": "A file-sharing app built by a college dropout upended the entire music industry.",
+    "fact": "Napster, launched in 1999 by Shawn Fanning, let users freely share MP3 files and grew to tens of millions of users within two years before lawsuits from record labels forced it to shut down in 2001.",
+    "tags": [
+      "software",
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-081",
+    "domain": "technology",
+    "hook": "The modern point-and-click computer interface was invented by a company that never sold it.",
+    "fact": "Xerox's Alto, built in 1973 at its PARC research lab, featured windows, icons, and a mouse-driven interface years before Apple or Microsoft — but Xerox never turned it into a commercial product, and rivals borrowed the ideas instead.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-082",
+    "domain": "technology",
+    "hook": "Rebooting a computer was designed to require two hands on purpose.",
+    "fact": "IBM engineer David Bradley created the Ctrl+Alt+Delete key combination in the early 1980s specifically because it needed both hands to press, making it unlikely to be triggered by accident during normal typing.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-083",
+    "domain": "technology",
+    "hook": "Cookies were invented to solve a very simple problem: shopping carts.",
+    "fact": "Netscape programmer Lou Montulli created the web cookie in 1994 so that websites could remember information between page visits, such as items a shopper had already added to a cart.",
+    "tags": [
+      "internet",
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-084",
+    "domain": "technology",
+    "hook": "The padlock icon in your browser dates back to 1994.",
+    "fact": "Netscape introduced SSL (Secure Sockets Layer) in 1994 to encrypt data sent between browsers and websites, laying the technical foundation for the HTTPS security most of the web relies on today.",
+    "tags": [
+      "internet",
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-085",
+    "domain": "technology",
+    "hook": "A browser most people forgot existed today lives on inside Firefox.",
+    "fact": "After losing the 'browser wars' to Internet Explorer, Netscape released its source code publicly in 1998; that codebase eventually evolved into the Mozilla project and, later, Firefox.",
+    "tags": [
+      "internet",
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-086",
+    "domain": "technology",
+    "hook": "Microsoft was sued by the US government for how it bundled a web browser.",
+    "fact": "In a major antitrust case beginning in 1998, US regulators argued that Microsoft illegally used its Windows monopoly to bundle Internet Explorer and undercut rival browser Netscape.",
+    "tags": [
+      "internet",
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-087",
+    "domain": "technology",
+    "hook": "The term 'artificial intelligence' was coined at a summer research workshop.",
+    "fact": "The phrase 'artificial intelligence' was introduced by John McCarthy for a 1956 summer workshop at Dartmouth College, where researchers optimistically proposed that machine intelligence could be significantly advanced in just a couple of months.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-088",
+    "domain": "technology",
+    "hook": "A 1966 chatbot fooled people into thinking it understood them.",
+    "fact": "Joseph Weizenbaum's ELIZA program simulated a psychotherapist by matching keywords and rephrasing users' statements as questions — despite using no real understanding, some users became convinced it genuinely grasped their feelings.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-089",
+    "domain": "technology",
+    "hook": "The question 'can machines think?' has a specific 1950 origin.",
+    "fact": "Alan Turing proposed his famous imitation game — now called the Turing Test — in a 1950 paper, suggesting that a machine could be considered intelligent if its conversation was indistinguishable from a human's.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-090",
+    "domain": "technology",
+    "hook": "An early neural network was hyped by the press as a machine that would soon walk and talk.",
+    "fact": "Frank Rosenblatt's Perceptron, introduced in 1958, was one of the earliest artificial neural networks, and contemporary newspapers wildly overstated its abilities — the resulting disappointment contributed to skepticism about neural networks for decades.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-091",
+    "domain": "technology",
+    "hook": "AI research nearly died out — twice.",
+    "fact": "Periods known as 'AI winters,' roughly in the mid-1970s and again in the late 1980s and early 1990s, saw funding and interest in artificial intelligence collapse after earlier hype failed to deliver practical results.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-092",
+    "domain": "technology",
+    "hook": "Before machine learning, AI tried to encode human expertise as if-then rules.",
+    "fact": "Expert systems like MYCIN, developed in the 1970s to help diagnose bacterial infections, worked by encoding thousands of hand-written rules from human specialists rather than learning patterns from data.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-093",
+    "domain": "technology",
+    "hook": "A chess match in 1997 marked a symbolic turning point for AI.",
+    "fact": "IBM's Deep Blue defeated reigning world chess champion Garry Kasparov in a six-game match in 1997, the first time a computer had beaten a sitting world champion under standard tournament conditions.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-094",
+    "domain": "technology",
+    "hook": "The algorithm behind most of today's neural networks was popularized in 1986.",
+    "fact": "Backpropagation — the method used to train neural networks by adjusting weights based on errors — was popularized in a influential 1986 paper by Rumelhart, Hinton, and Williams, even though earlier versions of the idea existed before then.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-095",
+    "domain": "technology",
+    "hook": "One image-recognition contest in 2012 kicked off the modern AI boom.",
+    "fact": "A neural network called AlexNet dramatically outperformed rivals at the 2012 ImageNet competition, a result widely seen as the moment deep learning shifted from a niche research approach to the dominant method in AI.",
+    "whyItMatters": "That single contest result triggered a wave of industry investment in deep learning that underlies most AI products used today, from image recognition to voice assistants.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-096",
+    "domain": "technology",
+    "hook": "A board game long considered too complex for computers fell to AI in 2016.",
+    "fact": "Google DeepMind's AlphaGo defeated Go champion Lee Sedol in 2016, a milestone many researchers hadn't expected for years, since Go's vast number of possible positions made brute-force search impractical.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-097",
+    "domain": "technology",
+    "hook": "A single 2017 research paper's title became the origin story for modern chatbots.",
+    "fact": "The 2017 paper 'Attention Is All You Need' introduced the transformer architecture, which replaced older sequence-processing designs and became the foundation for large language models, including the systems behind modern AI chatbots.",
+    "whyItMatters": "Nearly every major language model released since has been built on the transformer design that paper introduced, making it one of the most consequential computer science papers of the decade.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-098",
+    "domain": "technology",
+    "hook": "A computer won Jeopardy! against two of its greatest champions.",
+    "fact": "IBM's Watson defeated Jeopardy! champions Ken Jennings and Brad Rutter in a televised 2011 match, showcasing early natural-language question-answering technology to a mainstream audience.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-099",
+    "domain": "technology",
+    "hook": "The term 'machine learning' comes from a 1959 checkers program.",
+    "fact": "Computer scientist Arthur Samuel coined the term 'machine learning' in 1959 to describe a checkers-playing program he built that improved its performance by learning from previous games rather than following fixed rules.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-100",
+    "domain": "technology",
+    "hook": "AI learned to generate realistic fake images by competing against itself.",
+    "fact": "Generative Adversarial Networks, introduced by Ian Goodfellow in 2014, pit two neural networks against each other — one generating fake images, one trying to detect them — a competition that pushed image generation quality dramatically forward.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-101",
+    "domain": "technology",
+    "hook": "In 2004, every single self-driving car in a major competition failed.",
+    "fact": "The 2004 DARPA Grand Challenge offered a prize for an autonomous vehicle to complete a desert route, but no vehicle finished — the best one traveled only about 7 miles before getting stuck; a year later, five vehicles completed the course.",
+    "tags": [
+      "ai",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-102",
+    "domain": "technology",
+    "hook": "The idea of a computer virus existed before real computers could support one.",
+    "fact": "In the late 1940s, mathematician John von Neumann described theoretical self-replicating programs, laying conceptual groundwork for what would later be called computer viruses decades before the first real one appeared.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-103",
+    "domain": "technology",
+    "hook": "The first computer virus displayed a taunting message and had its own antidote.",
+    "fact": "Creeper, written in 1971, spread between early ARPANET computers displaying the message 'I'M THE CREEPER: CATCH ME IF YOU CAN' — a program called Reaper was then written to hunt down and delete it, making Reaper arguably the first antivirus software.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-104",
+    "domain": "technology",
+    "hook": "A student's experiment accidentally crippled a tenth of the early internet.",
+    "fact": "In 1988, Robert Tappan Morris released a self-replicating program intended as a research experiment, but a coding flaw made it spread and crash thousands of computers — about 10% of the internet at the time — leading to the first felony conviction under US computer crime law.",
+    "whyItMatters": "The Morris Worm incident directly led to the creation of CERT/CC, the first dedicated computer emergency response team, establishing the model for how organizations respond to cybersecurity incidents today.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-105",
+    "domain": "technology",
+    "hook": "Public-key encryption was secretly invented years before its famous creators got credit.",
+    "fact": "RSA encryption, published in 1977 by Rivest, Shamir, and Adleman, is credited as the breakthrough behind modern public-key cryptography — but British intelligence agency GCHQ had secretly developed an equivalent method years earlier, keeping it classified until 1997.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-106",
+    "domain": "technology",
+    "hook": "The first ransomware was spread by mail, not the internet.",
+    "fact": "In 1989, the 'AIDS Trojan' was distributed on floppy disks mailed to attendees of a World Health Organization conference; once installed, it encrypted file names and demanded payment be mailed to a PO box in Panama.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-107",
+    "domain": "technology",
+    "hook": "Programmers saving a few bytes decades ago caused a global scramble by 2000.",
+    "fact": "Many older systems stored years using only two digits to save scarce memory, creating the 'Y2K bug' fear that computers would misread the year 2000 as 1900 — companies and governments spent years and billions of dollars auditing and fixing code before the date arrived.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-108",
+    "domain": "technology",
+    "hook": "Computer passwords are barely older than the space race.",
+    "fact": "Fernando Corbató introduced one of the first computer password systems in 1961 for MIT's Compatible Time-Sharing System, so multiple users sharing one computer could keep their files private from each other.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-109",
+    "domain": "technology",
+    "hook": "A leaked government hacking tool caused a global ransomware outbreak.",
+    "fact": "The 2017 WannaCry ransomware attack exploited a Windows vulnerability originally developed by the NSA and leaked online, infecting roughly 200,000 computers across 150 countries, including parts of the UK's National Health Service.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-110",
+    "domain": "technology",
+    "hook": "A piece of malware is believed to have physically damaged nuclear equipment without ever touching the internet directly.",
+    "fact": "Stuxnet, discovered in 2010, was a highly sophisticated worm widely believed to have been designed to sabotage centrifuges at an Iranian uranium enrichment facility by subtly altering their industrial control systems.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-111",
+    "domain": "technology",
+    "hook": "The US government once investigated an encryption programmer as if he'd exported weapons.",
+    "fact": "After Phil Zimmermann released his free encryption software PGP in 1991, strong cryptography was legally classified as a munition under US export law, and he faced a federal investigation for years before the case was dropped in 1996.",
+    "tags": [
+      "cybersecurity",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-112",
+    "domain": "technology",
+    "hook": "'The cloud' as we know it started with online bookstore leftover infrastructure.",
+    "fact": "Amazon launched its S3 storage and EC2 computing services in 2006, renting out spare data center capacity it had built for its own retail business — the launch is widely credited with kickstarting the modern cloud computing industry.",
+    "whyItMatters": "Cloud computing removed the need for startups to buy their own servers, dramatically lowering the cost of launching a new internet company.",
+    "tags": [
+      "computing",
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-113",
+    "domain": "technology",
+    "hook": "SQL almost had a completely different, forgotten name.",
+    "fact": "The database query language SQL was originally called SEQUEL when developed at IBM in the early 1970s by Donald Chamberlin and Raymond Boyce, but it was shortened to SQL after a trademark conflict with an existing company's product name.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-114",
+    "domain": "technology",
+    "hook": "The technology behind data backups has a specific academic birthdate.",
+    "fact": "RAID (Redundant Array of Independent Disks) was defined in a 1987 UC Berkeley research paper describing how combining multiple cheaper disks could achieve better performance and reliability than a single expensive one.",
+    "tags": [
+      "computing",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-115",
+    "domain": "technology",
+    "hook": "The idea of a decentralized digital currency was introduced by someone whose real identity is still unknown.",
+    "fact": "In October 2008, a whitepaper describing Bitcoin was published under the pseudonym Satoshi Nakamoto, proposing a peer-to-peer electronic cash system that didn't rely on banks or a central authority — the author's true identity has never been confirmed.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-116",
+    "domain": "technology",
+    "hook": "The very first spam email was sent in 1978, decades before the word 'spam' caught on.",
+    "fact": "A marketing employee at Digital Equipment Corporation sent an unsolicited product announcement to hundreds of ARPANET users in 1978, widely considered the first spam email — years before spam became a widespread nuisance.",
+    "tags": [
+      "internet",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-117",
+    "domain": "technology",
+    "hook": "One of the earliest video games was built to run on a computer the size of a room.",
+    "fact": "Spacewar!, created in 1962 by Steve Russell and colleagues at MIT on a PDP-1 minicomputer, is widely considered the first digital computer game to be shared and played across multiple research institutions.",
+    "tags": [
+      "software",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-118",
+    "domain": "technology",
+    "hook": "Velcro was invented after a walk in the woods.",
+    "fact": "Swiss engineer George de Mestral got the idea for Velcro in 1941 after noticing how burrs stuck to his dog's fur and his clothing. He studied the hooks under a microscope and patented the hook-and-loop fastener in 1955.",
+    "tags": [
+      "invention",
+      "materials"
+    ]
+  },
+  {
+    "id": "technology-119",
+    "domain": "technology",
+    "hook": "The microwave oven was invented by accident.",
+    "fact": "In 1945, engineer Percy Spencer was testing a magnetron for radar equipment when a chocolate bar in his pocket melted. He then tried popping popcorn with the device and went on to develop the first microwave oven.",
+    "tags": [
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-120",
+    "domain": "technology",
+    "hook": "Bubble wrap was originally meant to be wallpaper.",
+    "fact": "In 1957, engineers Alfred Fielding and Marc Chavannes sealed two shower curtains together to create a textured plastic sheet, intending to sell it as embossed wallpaper. It later found its real use as protective packaging.",
+    "tags": [
+      "invention",
+      "packaging"
+    ]
+  },
+  {
+    "id": "technology-121",
+    "domain": "technology",
+    "hook": "WD-40 got its name from failure, not success.",
+    "fact": "The lubricant's name stands for 'Water Displacement, 40th formula' — the 40th attempt by a small California company in 1953 to create a rust-preventing solvent that actually worked.",
+    "tags": [
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-122",
+    "domain": "technology",
+    "hook": "Post-it Notes came from a glue that wasn't sticky enough.",
+    "fact": "A 3M scientist developing strong adhesives in 1968 instead created a low-tack, reusable glue that seemed useless — until a colleague used it to keep bookmarks from falling out of a hymnal, leading to the Post-it Note in 1980.",
+    "tags": [
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-123",
+    "domain": "technology",
+    "hook": "The zipper took nearly 80 years to catch on.",
+    "fact": "An early slide fastener was patented in 1851, but a reliable, practical zipper wasn't perfected until 1913 by Gideon Sundback, and it wasn't widely used in clothing until the 1930s.",
+    "tags": [
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-124",
+    "domain": "technology",
+    "hook": "Bakelite was the first fully synthetic plastic.",
+    "fact": "Chemist Leo Baekeland created Bakelite in 1907 from fossil fuel derivatives, making it the first plastic made entirely from synthetic components rather than modified natural materials.",
+    "tags": [
+      "materials",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-125",
+    "domain": "technology",
+    "hook": "Kevlar was originally developed to replace steel in tires.",
+    "fact": "Chemist Stephanie Kwolek discovered the super-strong fiber at DuPont in 1965 while researching lightweight materials for tires. It later became famous for use in bulletproof vests.",
+    "whyItMatters": "The fiber she discovered has since saved thousands of lives as body armor for police and soldiers.",
+    "tags": [
+      "materials",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-126",
+    "domain": "technology",
+    "hook": "Teflon was another accidental discovery.",
+    "fact": "Chemist Roy Plunkett discovered the non-stick polymer PTFE (Teflon) in 1938 when a supposedly empty gas cylinder he was working with turned out to contain a strange, slick solid residue.",
+    "tags": [
+      "materials",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-127",
+    "domain": "technology",
+    "hook": "The can opener wasn't invented until decades after the can.",
+    "fact": "Tin cans for food preservation were patented in 1810, but a practical can opener wasn't invented until 1858 — for nearly 50 years, people opened cans with hammers, chisels, or bayonets.",
+    "tags": [
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-128",
+    "domain": "technology",
+    "hook": "Safety glass was inspired by a lucky lab accident.",
+    "fact": "French chemist Édouard Bénédictus noticed in 1903 that a dropped glass flask coated in dried plastic film had cracked but not shattered. That observation led him to develop laminated safety glass, later used in car windshields.",
+    "tags": [
+      "invention",
+      "materials"
+    ]
+  },
+  {
+    "id": "technology-129",
+    "domain": "technology",
+    "hook": "Barbed wire helped close the American frontier.",
+    "fact": "Patented by Joseph Glidden in 1874, barbed wire allowed cheap, effective fencing across the open prairie and rapidly transformed land use and cattle ranching in the American West.",
+    "tags": [
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-130",
+    "domain": "technology",
+    "hook": "The ballpoint pen struggled for decades before it worked reliably.",
+    "fact": "László Bíró patented a practical ballpoint pen design in 1938 using quick-drying newspaper ink, solving decades of leaking and smearing problems that had plagued earlier attempts dating back to the 1880s.",
+    "tags": [
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-131",
+    "domain": "technology",
+    "hook": "Modern matches only date back to the 1820s.",
+    "fact": "Before friction matches were invented around 1826 by English chemist John Walker, people relied on flint and steel, chemical concoctions, or carrying embers to start fires.",
+    "tags": [
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-132",
+    "domain": "technology",
+    "hook": "The dishwasher was invented by a woman tired of her servants chipping her china.",
+    "fact": "Josephine Cochrane patented a mechanical dishwasher in 1886, driven partly by frustration that hand-washing kept damaging her fine dishware. She later founded a company that became part of KitchenAid.",
+    "tags": [
+      "invention",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-133",
+    "domain": "technology",
+    "hook": "The Eiffel Tower grows taller in summer.",
+    "fact": "Heat causes the iron structure to expand, making the Eiffel Tower up to about 15 centimeters (6 inches) taller during hot summer months than in winter.",
+    "tags": [
+      "engineering",
+      "landmarks"
+    ]
+  },
+  {
+    "id": "technology-134",
+    "domain": "technology",
+    "hook": "The Hoover Dam used enough concrete to pave a highway across the country.",
+    "fact": "Completed in 1936, the dam contains roughly 3.25 million cubic yards of concrete. Engineers embedded cooling pipes throughout the pour, because a solid mass that size would have taken over a century to cool naturally.",
+    "tags": [
+      "engineering",
+      "construction"
+    ]
+  },
+  {
+    "id": "technology-135",
+    "domain": "technology",
+    "hook": "The Brooklyn Bridge's designer never saw it finished.",
+    "fact": "Engineer John A. Roebling died from a construction-related injury before work began in 1869. His son Washington Roebling took over, was later disabled by decompression sickness from the caisson work, and directed the bridge's 1883 completion by watching from his apartment window.",
+    "tags": [
+      "engineering",
+      "bridges"
+    ]
+  },
+  {
+    "id": "technology-136",
+    "domain": "technology",
+    "hook": "The Tacoma Narrows Bridge collapsed from wind, not weight.",
+    "fact": "In 1940, the original Tacoma Narrows Bridge twisted itself apart in moderate winds due to aerodynamic instability, a famous failure that reshaped how engineers study wind effects on suspension bridges.",
+    "whyItMatters": "The collapse directly changed international bridge design standards for wind resistance.",
+    "tags": [
+      "engineering",
+      "bridges"
+    ]
+  },
+  {
+    "id": "technology-137",
+    "domain": "technology",
+    "hook": "Roman concrete gets stronger over time in seawater.",
+    "fact": "Ancient Roman marine concrete, made with volcanic ash, has been found to actually strengthen over centuries as seawater reacts with its minerals — a durability modern concrete typically can't match.",
+    "tags": [
+      "engineering",
+      "materials"
+    ]
+  },
+  {
+    "id": "technology-138",
+    "domain": "technology",
+    "hook": "The Panama Canal saves ships thousands of miles of sailing.",
+    "fact": "Without the canal, a ship traveling between New York and San Francisco would need to sail around the southern tip of South America — a route the canal, completed in 1914, cuts by roughly 8,000 miles.",
+    "tags": [
+      "engineering",
+      "transportation"
+    ]
+  },
+  {
+    "id": "technology-139",
+    "domain": "technology",
+    "hook": "London built its sewer system after politicians could no longer stand the smell.",
+    "fact": "The 1858 'Great Stink,' when the polluted Thames overwhelmed Parliament with its odor, finally pushed lawmakers to fund engineer Joseph Bazalgette's massive sewer network, which curbed cholera outbreaks in the city.",
+    "tags": [
+      "engineering",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "technology-140",
+    "domain": "technology",
+    "hook": "Geodesic domes get their strength from triangles, not curves.",
+    "fact": "Popularized by Buckminster Fuller in the mid-20th century, geodesic domes distribute stress evenly across a lattice of triangles, letting them enclose large volumes using very little structural material relative to their size.",
+    "tags": [
+      "engineering",
+      "architecture"
+    ]
+  },
+  {
+    "id": "technology-141",
+    "domain": "technology",
+    "hook": "The Burj Khalifa's design was inspired by a desert flower.",
+    "fact": "The world's tallest building, completed in 2010, uses a spiraling Y-shaped floor plan inspired by the Hymenocallis flower, a design that also reduces wind loads as the tower rises.",
+    "tags": [
+      "engineering",
+      "architecture"
+    ]
+  },
+  {
+    "id": "technology-142",
+    "domain": "technology",
+    "hook": "Skyscrapers sway on purpose.",
+    "fact": "Tall buildings are engineered to flex several feet in high winds, and many use giant pendulum-like devices called tuned mass dampers to counteract sway and keep occupants comfortable.",
+    "tags": [
+      "engineering",
+      "architecture"
+    ]
+  },
+  {
+    "id": "technology-143",
+    "domain": "technology",
+    "hook": "The Suez Canal has no locks at all.",
+    "fact": "Unlike the Panama Canal, the Suez Canal connects the Mediterranean and Red Seas at essentially the same sea level, so ships pass through without needing any locks.",
+    "tags": [
+      "engineering",
+      "transportation"
+    ]
+  },
+  {
+    "id": "technology-144",
+    "domain": "technology",
+    "hook": "Elevators only became practical after a safety brake was invented.",
+    "fact": "Elisha Otis demonstrated a device in 1854 that stopped an elevator car from falling if its hoisting cable snapped, a breakthrough that made tall buildings with passenger elevators feasible.",
+    "whyItMatters": "That single safety mechanism directly enabled the skyscraper boom that followed.",
+    "tags": [
+      "engineering",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-145",
+    "domain": "technology",
+    "hook": "The transistor was invented to replace fragile vacuum tubes.",
+    "fact": "Bell Labs researchers John Bardeen, Walter Brattain, and William Shockley demonstrated the first working transistor in December 1947, a solid-state device that could amplify and switch electrical signals far more reliably than glass vacuum tubes.",
+    "tags": [
+      "hardware",
+      "semiconductors"
+    ]
+  },
+  {
+    "id": "technology-146",
+    "domain": "technology",
+    "hook": "Silicon chips are etched with light, not tiny tools.",
+    "fact": "Photolithography, the process used to pattern circuits onto silicon wafers, projects light through masks to define features far smaller than a human hair. Modern chipmaking uses extreme ultraviolet light with wavelengths around 13.5 nanometers.",
+    "tags": [
+      "semiconductors",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology-147",
+    "domain": "technology",
+    "hook": "Moore's Law was a prediction, not a law of physics.",
+    "fact": "Intel co-founder Gordon Moore observed in 1965 that the number of transistors on a chip seemed to double roughly every two years, and the semiconductor industry spent decades effectively treating that observation as a roadmap to chase.",
+    "tags": [
+      "semiconductors",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology-148",
+    "domain": "technology",
+    "hook": "The first microprocessor was built for a calculator.",
+    "fact": "Intel's 4004, released in 1971, was originally designed to power a Japanese-made desktop calculator, but it became the first commercially available complete CPU on a single chip.",
+    "tags": [
+      "semiconductors",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology-149",
+    "domain": "technology",
+    "hook": "A cutting-edge chip factory can cost more to build than most stadiums, combined.",
+    "fact": "Building a modern semiconductor fabrication plant can cost upwards of $10-20 billion, due to the extraordinary precision equipment, like extreme ultraviolet lithography machines, required to etch nanometer-scale circuits.",
+    "tags": [
+      "semiconductors",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology-150",
+    "domain": "technology",
+    "hook": "LEDs existed for decades before they could produce white light.",
+    "fact": "Red LEDs were commercialized in the 1960s, but a practical, efficient blue LED wasn't achieved until the early 1990s — a breakthrough essential for white LED lighting, which earned its inventors the 2014 Nobel Prize in Physics.",
+    "whyItMatters": "Efficient white LEDs have since cut global electricity use for lighting dramatically compared to incandescent bulbs.",
+    "tags": [
+      "hardware",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-151",
+    "domain": "technology",
+    "hook": "The laser's name is actually an acronym.",
+    "fact": "LASER stands for 'Light Amplification by Stimulated Emission of Radiation.' The first working laser was demonstrated in 1960 by physicist Theodore Maiman using a synthetic ruby crystal.",
+    "tags": [
+      "hardware",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-152",
+    "domain": "technology",
+    "hook": "Quartz watches keep time using a crystal that vibrates thousands of times a second.",
+    "fact": "A tiny quartz crystal inside most watches vibrates at a precise frequency when an electric current is applied, and circuitry counts those vibrations to keep remarkably accurate time — far more precise than old mechanical movements.",
+    "tags": [
+      "hardware",
+      "engineering"
+    ]
+  },
+  {
+    "id": "technology-153",
+    "domain": "technology",
+    "hook": "The first practical solar cell was only about 6% efficient.",
+    "fact": "Bell Labs unveiled the first practical silicon solar cell in 1954, converting roughly 6% of sunlight into electricity. Modern commercial panels now typically exceed 20% efficiency.",
+    "tags": [
+      "hardware",
+      "energy"
+    ]
+  },
+  {
+    "id": "technology-154",
+    "domain": "technology",
+    "hook": "Lithium-ion batteries took nearly two decades to reach store shelves after their key breakthroughs.",
+    "fact": "The foundational chemistry for lithium-ion batteries was developed through the 1970s and 1980s, but Sony didn't commercialize the first lithium-ion battery until 1991, in a camcorder.",
+    "tags": [
+      "hardware",
+      "energy"
+    ]
+  },
+  {
+    "id": "technology-155",
+    "domain": "technology",
+    "hook": "RFID chips can be smaller than a grain of rice.",
+    "fact": "Passive RFID tags, used for everything from pet microchips to retail inventory tracking, need no internal battery — they draw power from the radio signal of the scanner reading them.",
+    "tags": [
+      "hardware",
+      "semiconductors"
+    ]
+  },
+  {
+    "id": "technology-156",
+    "domain": "technology",
+    "hook": "Vacuum tubes once filled entire rooms to do what a fingernail-sized chip does today.",
+    "fact": "Early vacuum-tube computers like ENIAC (1945) used around 18,000 tubes, generated enormous heat, and required constant maintenance because tubes frequently burned out.",
+    "tags": [
+      "hardware",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-157",
+    "domain": "technology",
+    "hook": "Germanium came before silicon in transistor history.",
+    "fact": "The first transistors in the late 1940s and early 1950s were made from germanium. Silicon later became the industry standard because it performed better at high temperatures and was more abundant.",
+    "tags": [
+      "semiconductors",
+      "materials"
+    ]
+  },
+  {
+    "id": "technology-158",
+    "domain": "technology",
+    "hook": "A single modern chip can contain tens of billions of transistors.",
+    "fact": "The 1971 Intel 4004 held about 2,300 transistors. Decades later, cutting-edge processors pack tens of billions onto a chip roughly the same size, thanks to relentless miniaturization.",
+    "tags": [
+      "semiconductors",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology-159",
+    "domain": "technology",
+    "hook": "The first cars didn't run on gasoline — many ran on electricity.",
+    "fact": "In the late 1800s and early 1900s, electric cars were popular in cities for their quiet, clean, easy-to-start operation, and briefly outsold gasoline cars in the U.S. around 1900, before cheap gas and better roads gave combustion engines the edge.",
+    "tags": [
+      "transportation",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-160",
+    "domain": "technology",
+    "hook": "The three-point seatbelt was released for anyone to copy, for free.",
+    "fact": "Volvo engineer Nils Bohlin patented the modern three-point seatbelt in 1959, and Volvo opened the patent to other automakers at no cost, reasoning that saving lives mattered more than any competitive advantage.",
+    "whyItMatters": "The design is credited with saving hundreds of thousands of lives across the entire auto industry.",
+    "tags": [
+      "transportation",
+      "safety"
+    ]
+  },
+  {
+    "id": "technology-161",
+    "domain": "technology",
+    "hook": "Airbags were patented in the 1950s but took decades to become standard.",
+    "fact": "Early airbag patents date to the mid-1950s, but reliable sensors and inflation systems weren't developed until the 1970s and 80s, and airbags didn't become mandatory in U.S. cars until the 1990s.",
+    "tags": [
+      "transportation",
+      "safety"
+    ]
+  },
+  {
+    "id": "technology-162",
+    "domain": "technology",
+    "hook": "The jet engine was invented independently on two sides of a war.",
+    "fact": "British engineer Frank Whittle and German engineer Hans von Ohain separately developed working jet engine designs in the 1930s without knowing of each other's work, and Germany flew the first jet-powered aircraft in 1939.",
+    "tags": [
+      "transportation",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-163",
+    "domain": "technology",
+    "hook": "GPS satellites run on clocks corrected for Einstein's relativity.",
+    "fact": "GPS satellite clocks tick faster than clocks on Earth due to weaker gravity and orbital speed effects predicted by relativity. The system applies constant corrections, or positioning errors would accumulate by miles per day.",
+    "whyItMatters": "Without that relativistic correction, every GPS device on Earth would drift wildly inaccurate within hours.",
+    "tags": [
+      "transportation",
+      "engineering"
+    ]
+  },
+  {
+    "id": "technology-164",
+    "domain": "technology",
+    "hook": "Modern tires exist because a vet wanted a smoother bicycle ride.",
+    "fact": "John Boyd Dunlop, a Scottish veterinarian, developed a practical pneumatic (air-filled) rubber tire in 1888 to give his son's bicycle a smoother ride. The design was quickly adapted for the growing automobile industry.",
+    "tags": [
+      "transportation",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-165",
+    "domain": "technology",
+    "hook": "The catalytic converter was invented to fight smog, not save fuel.",
+    "fact": "Introduced in production cars in the mid-1970s, catalytic converters use chemical reactions to convert harmful exhaust gases like carbon monoxide into less toxic compounds, largely in response to tightening air-pollution regulations.",
+    "whyItMatters": "The device has removed enormous quantities of toxic pollutants from urban air over the past 50 years.",
+    "tags": [
+      "transportation",
+      "engineering"
+    ]
+  },
+  {
+    "id": "technology-166",
+    "domain": "technology",
+    "hook": "The black box flight recorder isn't actually black.",
+    "fact": "Flight data and cockpit voice recorders are painted bright orange to make them easier to locate in wreckage. The 'black box' nickname's origin isn't fully settled, but it has nothing to do with their actual color.",
+    "tags": [
+      "transportation",
+      "aviation"
+    ]
+  },
+  {
+    "id": "technology-167",
+    "domain": "technology",
+    "hook": "Traffic lights predate the automobile.",
+    "fact": "The first gas-powered traffic signal was installed outside the British Parliament in 1868 to manage horse-drawn and pedestrian traffic — decades before cars filled city streets. It exploded within weeks due to a gas leak.",
+    "tags": [
+      "transportation",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-168",
+    "domain": "technology",
+    "hook": "Cruise control was invented by a blind engineer.",
+    "fact": "Ralph Teetor, who lost his sight in a childhood accident, invented and patented an automotive speed-control system in the 1940s after growing frustrated riding with a lawyer whose driving speed kept fluctuating during conversation.",
+    "tags": [
+      "transportation",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-169",
+    "domain": "technology",
+    "hook": "Maglev trains float on magnets instead of touching rails.",
+    "fact": "Magnetic levitation trains use powerful electromagnets to lift the train slightly above its track and propel it forward, eliminating rolling friction and allowing some maglev trains to exceed 300 mph (480 km/h).",
+    "tags": [
+      "transportation",
+      "engineering"
+    ]
+  },
+  {
+    "id": "technology-170",
+    "domain": "technology",
+    "hook": "The Wright brothers' first flight covered less distance than a modern airliner's wingspan.",
+    "fact": "The Wright Flyer's first powered flight in 1903 lasted 12 seconds and traveled about 120 feet — shorter than the wingspan of many modern jumbo jets.",
+    "tags": [
+      "transportation",
+      "aviation"
+    ]
+  },
+  {
+    "id": "technology-171",
+    "domain": "technology",
+    "hook": "Hovercraft technology was tested with tin cans and a vacuum cleaner.",
+    "fact": "British inventor Christopher Cockerell tested his early air-cushion vehicle concept in the 1950s using two tin cans, a set of kitchen scales, and a vacuum cleaner blowing air, before developing the first practical hovercraft.",
+    "tags": [
+      "transportation",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-172",
+    "domain": "technology",
+    "hook": "Autopilot in aviation predates commercial jet travel by decades.",
+    "fact": "The first practical autopilot system, developed by Sperry Corporation, was demonstrated in 1914, letting an aircraft maintain level, hands-off flight — decades before jet airliners existed.",
+    "tags": [
+      "transportation",
+      "aviation"
+    ]
+  },
+  {
+    "id": "technology-173",
+    "domain": "technology",
+    "hook": "Power steering took over 20 years to go from patent to production.",
+    "fact": "Engineer Francis W. Davis developed hydraulic power steering in the late 1920s and 1930s, but it wasn't offered as a factory option in an American production car until the 1951 Chrysler Imperial.",
+    "tags": [
+      "transportation",
+      "engineering"
+    ]
+  },
+  {
+    "id": "technology-174",
+    "domain": "technology",
+    "hook": "The telegraph could send messages across a continent in minutes, decades before the telephone existed.",
+    "fact": "Samuel Morse's electric telegraph, demonstrated publicly in 1844, let messages travel over wires almost instantly across vast distances, transforming communication nearly 30 years before Alexander Graham Bell patented the telephone.",
+    "tags": [
+      "communications",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-175",
+    "domain": "technology",
+    "hook": "The fax machine is older than the telephone.",
+    "fact": "Scottish inventor Alexander Bain patented an early fax-like device in 1843, using a pendulum-based scanning system to transmit images over telegraph wires — more than three decades before Bell's telephone patent in 1876.",
+    "tags": [
+      "communications",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-176",
+    "domain": "technology",
+    "hook": "The Morse code used by telegraph operators isn't quite the code Morse invented.",
+    "fact": "Samuel Morse's original code was optimized for English and used varying-length pauses. European telegraph operators later refined it into International Morse Code, which is what's still used in radio and emergency signaling today.",
+    "tags": [
+      "communications",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-177",
+    "domain": "technology",
+    "hook": "Television was invented through two rival technologies before one won out.",
+    "fact": "Early mechanical television systems using spinning disks competed with electronic systems in the 1920s and 30s. American inventor Philo Farnsworth transmitted the first fully electronic television image in 1927, and electronic TV eventually replaced mechanical designs entirely.",
+    "tags": [
+      "communications",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-178",
+    "domain": "technology",
+    "hook": "The first live transatlantic television broadcast relied on a satellite about the size of a beach ball.",
+    "fact": "Telstar 1, launched in 1962, was the first satellite to relay television signals and telephone calls across the Atlantic Ocean, though it could only relay signals for about 20 minutes per orbit.",
+    "tags": [
+      "communications",
+      "space"
+    ]
+  },
+  {
+    "id": "technology-179",
+    "domain": "technology",
+    "hook": "Fiber optic cables carry information as pulses of light, not electricity.",
+    "fact": "Modern fiber optic internet and phone infrastructure sends data as light signals bounced through hair-thin strands of glass, allowing much higher bandwidth and lower signal loss over long distances than traditional copper wiring.",
+    "whyItMatters": "This light-based backbone is what makes today's global, high-bandwidth communication networks physically possible.",
+    "tags": [
+      "communications",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology-180",
+    "domain": "technology",
+    "hook": "The TV remote control was tethered by a cable people kept tripping over.",
+    "fact": "Zenith introduced 'Lazy Bones,' one of the first television remote controls, in 1950 — though it was connected to the TV by a wire that stretched across the living room floor.",
+    "tags": [
+      "communications",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-181",
+    "domain": "technology",
+    "hook": "Walkie-talkies were developed for World War II battlefields.",
+    "fact": "Portable two-way radios, including the backpack-mounted SCR-300 developed by Motorola engineers, were fielded by the U.S. military during World War II to let soldiers communicate in real time without wires.",
+    "tags": [
+      "communications",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-182",
+    "domain": "technology",
+    "hook": "Answering machines existed decades before voicemail.",
+    "fact": "Early telephone answering machines using magnetic wire or tape recording appeared commercially as far back as the 1930s-1950s, though they didn't become common in American homes until the 1970s and 80s.",
+    "tags": [
+      "communications",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-183",
+    "domain": "technology",
+    "hook": "Radio's true inventor is still disputed more than a century later.",
+    "fact": "While Guglielmo Marconi is popularly credited with inventing radio and won a Nobel Prize for it, physicist Nikola Tesla held key patents on radio technology, and the U.S. Supreme Court ruled in 1943 that several of Marconi's patents were invalid due to Tesla's prior work.",
+    "tags": [
+      "communications",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-184",
+    "domain": "technology",
+    "hook": "The pager was once considered indispensable for entire professions.",
+    "fact": "Pagers, which let users receive short numeric or text alerts wirelessly, became widespread in the 1980s and 90s for doctors, tradespeople, and others needing to stay reachable, before cell phones made them largely obsolete.",
+    "tags": [
+      "communications",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-185",
+    "domain": "technology",
+    "hook": "The first transatlantic telegraph cable only worked for about three weeks.",
+    "fact": "A telegraph cable laid across the Atlantic Ocean floor in 1858 allowed messages between North America and Europe but failed after roughly three weeks due to insulation problems. A durable cable wasn't successfully completed until 1866.",
+    "tags": [
+      "communications",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-186",
+    "domain": "technology",
+    "hook": "Satellite phones can connect calls with no cell towers anywhere nearby.",
+    "fact": "Satellite phones route calls directly to orbiting satellites instead of ground-based cell towers, allowing communication from remote oceans, deserts, and mountains where conventional cellular networks don't reach.",
+    "tags": [
+      "communications",
+      "hardware"
+    ]
+  },
+  {
+    "id": "technology-187",
+    "domain": "technology",
+    "hook": "The first industrial robot worked on a Chevrolet assembly line.",
+    "fact": "Unimate, generally considered the first industrial robot, began work at a General Motors plant in 1961, lifting and stacking hot die-cast metal parts too dangerous for human workers to handle directly.",
+    "tags": [
+      "robotics",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-188",
+    "domain": "technology",
+    "hook": "The Roomba wasn't the first robotic vacuum idea, just the first successful one.",
+    "fact": "iRobot released the Roomba in 2002 after years of robotics research for military and space applications, and it became one of the first mass-market autonomous home robots to succeed commercially.",
+    "tags": [
+      "robotics",
+      "gadgets"
+    ]
+  },
+  {
+    "id": "technology-189",
+    "domain": "technology",
+    "hook": "Drones started out as remote-controlled target practice.",
+    "fact": "Early pilotless aircraft in the 1930s, like the British 'Queen Bee,' were built as radio-controlled targets for anti-aircraft gunnery practice — a use that gave rise to the term 'drone.'",
+    "tags": [
+      "robotics",
+      "aviation"
+    ]
+  },
+  {
+    "id": "technology-190",
+    "domain": "technology",
+    "hook": "3D printing is older than the World Wide Web.",
+    "fact": "Chuck Hull invented stereolithography, the first commercial 3D printing process, in 1983 and founded 3D Systems in 1986, years before Tim Berners-Lee proposed the web in 1989.",
+    "tags": [
+      "invention",
+      "engineering"
+    ]
+  },
+  {
+    "id": "technology-191",
+    "domain": "technology",
+    "hook": "The digital camera was invented by a Kodak engineer — and it took 23 seconds just to save one photo.",
+    "fact": "Steven Sasson built the first digital camera prototype at Kodak in 1975. It captured black-and-white images at 0.01 megapixels and recorded them to cassette tape.",
+    "tags": [
+      "gadgets",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-192",
+    "domain": "technology",
+    "hook": "The Polaroid instant camera was inspired by a curious three-year-old.",
+    "fact": "Inventor Edwin Land developed the instant camera after his daughter asked in 1943 why she couldn't see a photo right away. He unveiled the first commercial Polaroid camera just four years later, in 1948.",
+    "tags": [
+      "gadgets",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-193",
+    "domain": "technology",
+    "hook": "The modern pacemaker was accidentally built from the wrong part.",
+    "fact": "Engineer Wilson Greatbatch was building a heart-rhythm recording device in 1958 when he grabbed the wrong resistor, producing a circuit that pulsed rhythmically like a heartbeat — leading him to develop the first practical implantable pacemaker.",
+    "whyItMatters": "That accidental circuit has since kept millions of hearts beating on schedule.",
+    "tags": [
+      "gadgets",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-194",
+    "domain": "technology",
+    "hook": "The electric toothbrush traces back to 1950s Swiss dental research.",
+    "fact": "The first electric toothbrush, the Broxodent, was developed in Switzerland in the 1950s partly for patients with limited hand mobility, before Squibb brought it to the U.S. market in 1961.",
+    "tags": [
+      "gadgets",
+      "invention"
+    ]
+  },
+  {
+    "id": "technology-195",
+    "domain": "technology",
+    "hook": "Smoke detectors became a common household item only in the 1970s.",
+    "fact": "Though ionization smoke detection technology existed earlier, cheap battery-powered home smoke detectors weren't widely affordable and adopted by households until the 1970s.",
+    "whyItMatters": "Widespread adoption of home smoke detectors is credited with dramatically cutting fire deaths in the decades that followed.",
+    "tags": [
+      "gadgets",
+      "safety"
+    ]
+  },
+  {
+    "id": "technology-196",
+    "domain": "technology",
+    "hook": "The first ATM dispensed cash using paper vouchers, not bank cards.",
+    "fact": "The first ATM, installed in London in 1967, required customers to use special paper vouchers purchased in advance rather than the magnetic-stripe cards used today.",
+    "tags": [
+      "gadgets",
+      "history"
+    ]
+  },
+  {
+    "id": "technology-197",
+    "domain": "technology",
+    "hook": "Modern hearing aids owe their tiny size to the same chip revolution as computers.",
+    "fact": "Early hearing aids were bulky vacuum-tube devices. The invention of the transistor in 1947 and later integrated circuits let hearing aids shrink from body-worn boxes to devices that fit entirely inside the ear canal.",
+    "tags": [
+      "gadgets",
+      "semiconductors"
+    ]
+  },
+  {
+    "id": "technology-198",
+    "domain": "technology",
+    "hook": "The first artificial heart kept a patient alive for 112 days.",
+    "fact": "In 1982, retired dentist Barney Clark received the Jarvik-7, the first permanent artificial heart implanted in a human, and survived 112 days connected to an external air-compressor console.",
+    "tags": [
+      "gadgets",
+      "engineering"
+    ]
+  },
+  {
+    "id": "technology-199",
+    "domain": "technology",
+    "hook": "Robotic exoskeletons were first developed for military lifting, not medical rehab.",
+    "fact": "Early powered exoskeleton research in the 1960s, like General Electric's Hardiman project, aimed to let soldiers and workers lift heavy loads with ease. Medical exoskeletons that help paralyzed patients walk came decades later.",
+    "tags": [
+      "robotics",
+      "engineering"
+    ]
+  },
+  {
+    "id": "technology-200",
+    "domain": "technology",
+    "hook": "The barcode scanner was first used on a pack of chewing gum.",
+    "fact": "The first retail product ever scanned with a Universal Product Code barcode was a 10-pack of Wrigley's Juicy Fruit gum, scanned at an Ohio supermarket in June 1974.",
+    "tags": [
+      "gadgets",
+      "history"
+    ]
   }
 ]

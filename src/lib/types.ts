@@ -3,7 +3,7 @@
  * components/hooks against them — see README for the full data model.
  */
 
-/** The six broad umbrella domains available at launch. */
+/** The eleven broad umbrella domains available at launch. */
 export const DOMAINS = [
   'science',
   'technology',
@@ -11,6 +11,11 @@ export const DOMAINS = [
   'geography',
   'culture',
   'space',
+  'language',
+  'psychology',
+  'art',
+  'food',
+  'sports',
 ] as const
 
 export type Domain = (typeof DOMAINS)[number]
@@ -42,6 +47,11 @@ export const DOMAIN_LABELS: Record<Locale, Record<Domain, string>> = {
     geography: 'Geography',
     culture: 'Culture & Society',
     space: 'Space & Universe',
+    language: 'Language & Etymology',
+    psychology: 'Psychology & the Mind',
+    art: 'Art & Design',
+    food: 'Food & Cuisine',
+    sports: 'Sports & Fitness',
   },
   fr: {
     science: 'Sciences',
@@ -50,6 +60,11 @@ export const DOMAIN_LABELS: Record<Locale, Record<Domain, string>> = {
     geography: 'Géographie',
     culture: 'Culture & société',
     space: 'Espace & Univers',
+    language: 'Langue & étymologie',
+    psychology: 'Psychologie & esprit',
+    art: 'Art & design',
+    food: 'Cuisine & gastronomie',
+    sports: 'Sport & forme physique',
   },
   nl: {
     science: 'Wetenschap',
@@ -58,6 +73,11 @@ export const DOMAIN_LABELS: Record<Locale, Record<Domain, string>> = {
     geography: 'Aardrijkskunde',
     culture: 'Cultuur & maatschappij',
     space: 'Ruimte & heelal',
+    language: 'Taal & etymologie',
+    psychology: 'Psychologie & de geest',
+    art: 'Kunst & design',
+    food: 'Eten & gastronomie',
+    sports: 'Sport & fitness',
   },
   es: {
     science: 'Ciencia',
@@ -66,6 +86,11 @@ export const DOMAIN_LABELS: Record<Locale, Record<Domain, string>> = {
     geography: 'Geografía',
     culture: 'Cultura y sociedad',
     space: 'Espacio y universo',
+    language: 'Idioma y etimología',
+    psychology: 'Psicología y la mente',
+    art: 'Arte y diseño',
+    food: 'Gastronomía y cocina',
+    sports: 'Deporte y forma física',
   },
 }
 
@@ -76,6 +101,11 @@ export const DOMAIN_EMOJI: Record<Domain, string> = {
   geography: '🌍',
   culture: '🎭',
   space: '🪐',
+  language: '🔤',
+  psychology: '🧠',
+  art: '🎨',
+  food: '🍽️',
+  sports: '🏅',
 }
 
 /** A single self-contained trivia card, resolved to the caller's locale.

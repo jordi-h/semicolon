@@ -4,11 +4,22 @@
     "domain": "space",
     "hook": "A day on Venus is longer than its year.",
     "fact": "Venus takes about 243 Earth days to rotate once on its axis, but only about 225 Earth days to orbit the sun — making its day longer than its year.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Une journée sur Vénus dure plus longtemps qu'une année.", "fact": "Vénus met environ 243 jours terrestres pour effectuer une rotation sur elle-même, mais seulement environ 225 jours terrestres pour faire le tour du Soleil — ce qui rend sa journée plus longue que son année." },
-      "nl": { "hook": "Een dag op Venus duurt langer dan een jaar.", "fact": "Venus doet er ongeveer 243 aardse dagen over om één keer om zijn as te draaien, maar slechts zo'n 225 aardse dagen om rond de zon te draaien — waardoor een dag er langer duurt dan een jaar." },
-      "es": { "hook": "Un día en Venus dura más que su año.", "fact": "Venus tarda unos 243 días terrestres en rotar una vez sobre su eje, pero solo unos 225 días terrestres en orbitar el Sol, lo que hace que su día sea más largo que su año." }
+      "fr": {
+        "hook": "Une journée sur Vénus dure plus longtemps qu'une année.",
+        "fact": "Vénus met environ 243 jours terrestres pour effectuer une rotation sur elle-même, mais seulement environ 225 jours terrestres pour faire le tour du Soleil — ce qui rend sa journée plus longue que son année."
+      },
+      "nl": {
+        "hook": "Een dag op Venus duurt langer dan een jaar.",
+        "fact": "Venus doet er ongeveer 243 aardse dagen over om één keer om zijn as te draaien, maar slechts zo'n 225 aardse dagen om rond de zon te draaien — waardoor een dag er langer duurt dan een jaar."
+      },
+      "es": {
+        "hook": "Un día en Venus dura más que su año.",
+        "fact": "Venus tarda unos 243 días terrestres en rotar una vez sobre su eje, pero solo unos 225 días terrestres en orbitar el Sol, lo que hace que su día sea más largo que su año."
+      }
     }
   },
   {
@@ -16,11 +27,22 @@
     "domain": "space",
     "hook": "There's a planet where it may rain diamonds.",
     "fact": "Scientists believe the immense pressure inside Neptune and Uranus could compress carbon into diamonds that rain down toward their cores.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Sur certaines planètes, il pourrait pleuvoir des diamants.", "fact": "Les scientifiques pensent que l'immense pression régnant à l'intérieur de Neptune et d'Uranus pourrait comprimer le carbone en diamants, qui tomberaient alors en pluie vers leur noyau." },
-      "nl": { "hook": "Op sommige planeten zou het diamanten kunnen regenen.", "fact": "Wetenschappers denken dat de enorme druk binnen in Neptunus en Uranus koolstof kan samenpersen tot diamanten, die vervolgens richting de kern neerregenen." },
-      "es": { "hook": "En algunos planetas podría llover diamantes.", "fact": "Los científicos creen que la enorme presión en el interior de Neptuno y Urano podría comprimir el carbono en diamantes, que caerían como lluvia hacia sus núcleos." }
+      "fr": {
+        "hook": "Sur certaines planètes, il pourrait pleuvoir des diamants.",
+        "fact": "Les scientifiques pensent que l'immense pression régnant à l'intérieur de Neptune et d'Uranus pourrait comprimer le carbone en diamants, qui tomberaient alors en pluie vers leur noyau."
+      },
+      "nl": {
+        "hook": "Op sommige planeten zou het diamanten kunnen regenen.",
+        "fact": "Wetenschappers denken dat de enorme druk binnen in Neptunus en Uranus koolstof kan samenpersen tot diamanten, die vervolgens richting de kern neerregenen."
+      },
+      "es": {
+        "hook": "En algunos planetas podría llover diamantes.",
+        "fact": "Los científicos creen que la enorme presión en el interior de Neptuno y Urano podría comprimir el carbono en diamantes, que caerían como lluvia hacia sus núcleos."
+      }
     }
   },
   {
@@ -28,11 +50,23 @@
     "domain": "space",
     "hook": "The footprints on the Moon could last millions of years.",
     "fact": "With no wind, water, or atmosphere to erode them, footprints left by Apollo astronauts on the Moon's surface could remain visible for millions of years.",
-    "tags": ["moon", "exploration"],
+    "tags": [
+      "moon",
+      "exploration"
+    ],
     "translations": {
-      "fr": { "hook": "Les empreintes de pas sur la Lune pourraient durer des millions d'années.", "fact": "En l'absence de vent, d'eau ou d'atmosphère pour les éroder, les empreintes laissées par les astronautes d'Apollo à la surface de la Lune pourraient rester visibles pendant des millions d'années." },
-      "nl": { "hook": "De voetafdrukken op de maan kunnen miljoenen jaren blijven bestaan.", "fact": "Zonder wind, water of atmosfeer om ze te eroderen, kunnen de voetafdrukken die Apollo-astronauten op het maanoppervlak achterlieten miljoenen jaren zichtbaar blijven." },
-      "es": { "hook": "Las huellas en la Luna podrían durar millones de años.", "fact": "Sin viento, agua ni atmósfera que las erosionen, las huellas dejadas por los astronautas del Apolo en la superficie lunar podrían seguir siendo visibles durante millones de años." }
+      "fr": {
+        "hook": "Les empreintes de pas sur la Lune pourraient durer des millions d'années.",
+        "fact": "En l'absence de vent, d'eau ou d'atmosphère pour les éroder, les empreintes laissées par les astronautes d'Apollo à la surface de la Lune pourraient rester visibles pendant des millions d'années."
+      },
+      "nl": {
+        "hook": "De voetafdrukken op de maan kunnen miljoenen jaren blijven bestaan.",
+        "fact": "Zonder wind, water of atmosfeer om ze te eroderen, kunnen de voetafdrukken die Apollo-astronauten op het maanoppervlak achterlieten miljoenen jaren zichtbaar blijven."
+      },
+      "es": {
+        "hook": "Las huellas en la Luna podrían durar millones de años.",
+        "fact": "Sin viento, agua ni atmósfera que las erosionen, las huellas dejadas por los astronautas del Apolo en la superficie lunar podrían seguir siendo visibles durante millones de años."
+      }
     }
   },
   {
@@ -40,11 +74,22 @@
     "domain": "space",
     "hook": "One teaspoon of a neutron star outweighs Mount Everest.",
     "fact": "Neutron stars are so dense that a single teaspoon of their material would weigh billions of tons — far more than any mountain on Earth.",
-    "tags": ["stars"],
+    "tags": [
+      "stars"
+    ],
     "translations": {
-      "fr": { "hook": "Une cuillère à café de matière d'étoile à neutrons pèse plus que le mont Everest.", "fact": "Les étoiles à neutrons sont si denses qu'une simple cuillère à café de leur matière pèserait plusieurs milliards de tonnes — bien plus que n'importe quelle montagne sur Terre." },
-      "nl": { "hook": "Eén theelepel materie van een neutronenster weegt meer dan de Mount Everest.", "fact": "Neutronensterren zijn zo dicht dat een enkele theelepel van hun materie miljarden tonnen zou wegen — veel meer dan welke berg op aarde dan ook." },
-      "es": { "hook": "Una cucharadita de una estrella de neutrones pesa más que el Everest.", "fact": "Las estrellas de neutrones son tan densas que una simple cucharadita de su materia pesaría miles de millones de toneladas, mucho más que cualquier montaña de la Tierra." }
+      "fr": {
+        "hook": "Une cuillère à café de matière d'étoile à neutrons pèse plus que le mont Everest.",
+        "fact": "Les étoiles à neutrons sont si denses qu'une simple cuillère à café de leur matière pèserait plusieurs milliards de tonnes — bien plus que n'importe quelle montagne sur Terre."
+      },
+      "nl": {
+        "hook": "Eén theelepel materie van een neutronenster weegt meer dan de Mount Everest.",
+        "fact": "Neutronensterren zijn zo dicht dat een enkele theelepel van hun materie miljarden tonnen zou wegen — veel meer dan welke berg op aarde dan ook."
+      },
+      "es": {
+        "hook": "Una cucharadita de una estrella de neutrones pesa más que el Everest.",
+        "fact": "Las estrellas de neutrones son tan densas que una simple cucharadita de su materia pesaría miles de millones de toneladas, mucho más que cualquier montaña de la Tierra."
+      }
     }
   },
   {
@@ -52,11 +97,23 @@
     "domain": "space",
     "hook": "The Sun accounts for 99.8% of the mass in our solar system.",
     "fact": "The Sun is so massive that nearly everything else in the solar system — all eight planets, moons, asteroids, and comets combined — makes up only about 0.2% of its total mass.",
-    "tags": ["sun", "solar-system"],
+    "tags": [
+      "sun",
+      "solar-system"
+    ],
     "translations": {
-      "fr": { "hook": "Le Soleil représente 99,8 % de la masse de notre système solaire.", "fact": "Le Soleil est si massif que presque tout le reste du système solaire — les huit planètes, les lunes, les astéroïdes et les comètes réunis — ne représente qu'environ 0,2 % de sa masse totale." },
-      "nl": { "hook": "De zon vertegenwoordigt 99,8% van de massa van ons zonnestelsel.", "fact": "De zon is zo massief dat bijna al het andere in het zonnestelsel — alle acht planeten, manen, asteroïden en kometen samen — slechts ongeveer 0,2% van de totale massa uitmaakt." },
-      "es": { "hook": "El Sol representa el 99,8% de la masa de nuestro sistema solar.", "fact": "El Sol es tan masivo que casi todo lo demás en el sistema solar —los ocho planetas, las lunas, los asteroides y los cometas juntos— apenas suma un 0,2% de su masa total." }
+      "fr": {
+        "hook": "Le Soleil représente 99,8 % de la masse de notre système solaire.",
+        "fact": "Le Soleil est si massif que presque tout le reste du système solaire — les huit planètes, les lunes, les astéroïdes et les comètes réunis — ne représente qu'environ 0,2 % de sa masse totale."
+      },
+      "nl": {
+        "hook": "De zon vertegenwoordigt 99,8% van de massa van ons zonnestelsel.",
+        "fact": "De zon is zo massief dat bijna al het andere in het zonnestelsel — alle acht planeten, manen, asteroïden en kometen samen — slechts ongeveer 0,2% van de totale massa uitmaakt."
+      },
+      "es": {
+        "hook": "El Sol representa el 99,8% de la masa de nuestro sistema solar.",
+        "fact": "El Sol es tan masivo que casi todo lo demás en el sistema solar —los ocho planetas, las lunas, los asteroides y los cometas juntos— apenas suma un 0,2% de su masa total."
+      }
     }
   },
   {
@@ -64,11 +121,22 @@
     "domain": "space",
     "hook": "Space isn't completely silent everywhere.",
     "fact": "While sound can't travel through the vacuum of space, dense clouds of gas and plasma can carry pressure waves — NASA has 'sonified' data from black holes into audible sound by mapping detected waves to frequencies humans can hear.",
-    "tags": ["astronomy"],
+    "tags": [
+      "astronomy"
+    ],
     "translations": {
-      "fr": { "hook": "L'espace n'est pas partout totalement silencieux.", "fact": "Si le son ne peut pas se propager dans le vide spatial, les nuages denses de gaz et de plasma peuvent transporter des ondes de pression — la NASA a 'sonifié' des données issues de trous noirs en son audible, en convertissant les ondes détectées en fréquences perceptibles par l'oreille humaine." },
-      "nl": { "hook": "De ruimte is niet overal volledig stil.", "fact": "Geluid kan zich niet voortplanten in het vacuüm van de ruimte, maar dichte wolken van gas en plasma kunnen drukgolven dragen — NASA heeft data van zwarte gaten 'gesonificeerd' tot hoorbaar geluid door de gedetecteerde golven om te zetten naar frequenties die mensen kunnen horen." },
-      "es": { "hook": "El espacio no es completamente silencioso en todas partes.", "fact": "Aunque el sonido no puede viajar por el vacío del espacio, las densas nubes de gas y plasma pueden transportar ondas de presión — la NASA ha 'sonificado' datos de agujeros negros convirtiéndolos en sonido audible, traduciendo las ondas detectadas a frecuencias que el oído humano puede percibir." }
+      "fr": {
+        "hook": "L'espace n'est pas partout totalement silencieux.",
+        "fact": "Si le son ne peut pas se propager dans le vide spatial, les nuages denses de gaz et de plasma peuvent transporter des ondes de pression — la NASA a 'sonifié' des données issues de trous noirs en son audible, en convertissant les ondes détectées en fréquences perceptibles par l'oreille humaine."
+      },
+      "nl": {
+        "hook": "De ruimte is niet overal volledig stil.",
+        "fact": "Geluid kan zich niet voortplanten in het vacuüm van de ruimte, maar dichte wolken van gas en plasma kunnen drukgolven dragen — NASA heeft data van zwarte gaten 'gesonificeerd' tot hoorbaar geluid door de gedetecteerde golven om te zetten naar frequenties die mensen kunnen horen."
+      },
+      "es": {
+        "hook": "El espacio no es completamente silencioso en todas partes.",
+        "fact": "Aunque el sonido no puede viajar por el vacío del espacio, las densas nubes de gas y plasma pueden transportar ondas de presión — la NASA ha 'sonificado' datos de agujeros negros convirtiéndolos en sonido audible, traduciendo las ondas detectadas a frecuencias que el oído humano puede percibir."
+      }
     }
   },
   {
@@ -76,11 +144,23 @@
     "domain": "space",
     "hook": "There are more stars than grains of sand on every beach on Earth.",
     "fact": "Astronomers estimate there are roughly 10^24 stars in the observable universe, a number that likely exceeds the total grains of sand on every beach and desert on the planet combined.",
-    "tags": ["stars", "universe"],
+    "tags": [
+      "stars",
+      "universe"
+    ],
     "translations": {
-      "fr": { "hook": "Il y a plus d'étoiles que de grains de sable sur toutes les plages de la Terre.", "fact": "Les astronomes estiment qu'il existe environ 10^24 étoiles dans l'univers observable, un nombre qui dépasserait le total des grains de sable de toutes les plages et déserts de la planète réunis." },
-      "nl": { "hook": "Er zijn meer sterren dan zandkorrels op alle stranden van de aarde samen.", "fact": "Astronomen schatten dat er ongeveer 10^24 sterren zijn in het waarneembare heelal — een aantal dat vermoedelijk groter is dan alle zandkorrels op elk strand en in elke woestijn op aarde samen." },
-      "es": { "hook": "Hay más estrellas que granos de arena en todas las playas de la Tierra.", "fact": "Los astrónomos calculan que hay unas 10^24 estrellas en el universo observable, una cifra que probablemente supera el total de granos de arena de todas las playas y desiertos del planeta juntos." }
+      "fr": {
+        "hook": "Il y a plus d'étoiles que de grains de sable sur toutes les plages de la Terre.",
+        "fact": "Les astronomes estiment qu'il existe environ 10^24 étoiles dans l'univers observable, un nombre qui dépasserait le total des grains de sable de toutes les plages et déserts de la planète réunis."
+      },
+      "nl": {
+        "hook": "Er zijn meer sterren dan zandkorrels op alle stranden van de aarde samen.",
+        "fact": "Astronomen schatten dat er ongeveer 10^24 sterren zijn in het waarneembare heelal — een aantal dat vermoedelijk groter is dan alle zandkorrels op elk strand en in elke woestijn op aarde samen."
+      },
+      "es": {
+        "hook": "Hay más estrellas que granos de arena en todas las playas de la Tierra.",
+        "fact": "Los astrónomos calculan que hay unas 10^24 estrellas en el universo observable, una cifra que probablemente supera el total de granos de arena de todas las playas y desiertos del planeta juntos."
+      }
     }
   },
   {
@@ -88,11 +168,22 @@
     "domain": "space",
     "hook": "Saturn would float in water.",
     "fact": "Saturn's average density is lower than water's, so if you could find an ocean big enough, the entire planet would theoretically float on the surface.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Saturne flotterait sur l'eau.", "fact": "La densité moyenne de Saturne est inférieure à celle de l'eau, donc si l'on trouvait un océan assez grand, la planète entière flotterait théoriquement à sa surface." },
-      "nl": { "hook": "Saturnus zou drijven op water.", "fact": "De gemiddelde dichtheid van Saturnus is lager dan die van water, dus als er een oceaan groot genoeg was, zou de hele planeet in theorie aan het oppervlak drijven." },
-      "es": { "hook": "Saturno flotaría en el agua.", "fact": "La densidad media de Saturno es menor que la del agua, así que si existiera un océano lo bastante grande, el planeta entero flotaría teóricamente en la superficie." }
+      "fr": {
+        "hook": "Saturne flotterait sur l'eau.",
+        "fact": "La densité moyenne de Saturne est inférieure à celle de l'eau, donc si l'on trouvait un océan assez grand, la planète entière flotterait théoriquement à sa surface."
+      },
+      "nl": {
+        "hook": "Saturnus zou drijven op water.",
+        "fact": "De gemiddelde dichtheid van Saturnus is lager dan die van water, dus als er een oceaan groot genoeg was, zou de hele planeet in theorie aan het oppervlak drijven."
+      },
+      "es": {
+        "hook": "Saturno flotaría en el agua.",
+        "fact": "La densidad media de Saturno es menor que la del agua, así que si existiera un océano lo bastante grande, el planeta entero flotaría teóricamente en la superficie."
+      }
     }
   },
   {
@@ -100,11 +191,22 @@
     "domain": "space",
     "hook": "The largest known star could swallow our entire solar system.",
     "fact": "UY Scuti, one of the largest known stars by radius, is so vast that if placed at the center of our solar system, its surface would extend out past the orbit of Jupiter.",
-    "tags": ["stars"],
+    "tags": [
+      "stars"
+    ],
     "translations": {
-      "fr": { "hook": "La plus grande étoile connue pourrait engloutir tout notre système solaire.", "fact": "UY Scuti, l'une des plus grandes étoiles connues par son rayon, est si immense que si elle était placée au centre de notre système solaire, sa surface s'étendrait au-delà de l'orbite de Jupiter." },
-      "nl": { "hook": "De grootste bekende ster zou ons hele zonnestelsel kunnen opslokken.", "fact": "UY Scuti, een van de grootste bekende sterren qua straal, is zo enorm dat als hij in het midden van ons zonnestelsel zou staan, zijn oppervlak tot voorbij de baan van Jupiter zou reiken." },
-      "es": { "hook": "La estrella más grande conocida podría engullir todo nuestro sistema solar.", "fact": "UY Scuti, una de las estrellas más grandes conocidas por su radio, es tan inmensa que si se colocara en el centro de nuestro sistema solar, su superficie se extendería más allá de la órbita de Júpiter." }
+      "fr": {
+        "hook": "La plus grande étoile connue pourrait engloutir tout notre système solaire.",
+        "fact": "UY Scuti, l'une des plus grandes étoiles connues par son rayon, est si immense que si elle était placée au centre de notre système solaire, sa surface s'étendrait au-delà de l'orbite de Jupiter."
+      },
+      "nl": {
+        "hook": "De grootste bekende ster zou ons hele zonnestelsel kunnen opslokken.",
+        "fact": "UY Scuti, een van de grootste bekende sterren qua straal, is zo enorm dat als hij in het midden van ons zonnestelsel zou staan, zijn oppervlak tot voorbij de baan van Jupiter zou reiken."
+      },
+      "es": {
+        "hook": "La estrella más grande conocida podría engullir todo nuestro sistema solar.",
+        "fact": "UY Scuti, una de las estrellas más grandes conocidas por su radio, es tan inmensa que si se colocara en el centro de nuestro sistema solar, su superficie se extendería más allá de la órbita de Júpiter."
+      }
     }
   },
   {
@@ -112,11 +214,22 @@
     "domain": "space",
     "hook": "A year on Mercury is shorter than a day.",
     "fact": "Mercury orbits the sun in just 88 Earth days, but it rotates so slowly that a single solar day there — sunrise to sunrise — lasts about 176 Earth days.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Une année sur Mercure est plus courte qu'un jour.", "fact": "Mercure fait le tour du Soleil en seulement 88 jours terrestres, mais elle tourne si lentement sur elle-même qu'un seul jour solaire — d'un lever de Soleil à l'autre — y dure environ 176 jours terrestres." },
-      "nl": { "hook": "Een jaar op Mercurius is korter dan een dag.", "fact": "Mercurius draait in slechts 88 aardse dagen rond de zon, maar draait zo traag om zijn as dat één enkele zonnedag — van zonsopgang tot zonsopgang — daar ongeveer 176 aardse dagen duurt." },
-      "es": { "hook": "Un año en Mercurio es más corto que un día.", "fact": "Mercurio orbita el Sol en tan solo 88 días terrestres, pero gira tan lentamente sobre sí mismo que un solo día solar allí —de amanecer a amanecer— dura unos 176 días terrestres." }
+      "fr": {
+        "hook": "Une année sur Mercure est plus courte qu'un jour.",
+        "fact": "Mercure fait le tour du Soleil en seulement 88 jours terrestres, mais elle tourne si lentement sur elle-même qu'un seul jour solaire — d'un lever de Soleil à l'autre — y dure environ 176 jours terrestres."
+      },
+      "nl": {
+        "hook": "Een jaar op Mercurius is korter dan een dag.",
+        "fact": "Mercurius draait in slechts 88 aardse dagen rond de zon, maar draait zo traag om zijn as dat één enkele zonnedag — van zonsopgang tot zonsopgang — daar ongeveer 176 aardse dagen duurt."
+      },
+      "es": {
+        "hook": "Un año en Mercurio es más corto que un día.",
+        "fact": "Mercurio orbita el Sol en tan solo 88 días terrestres, pero gira tan lentamente sobre sí mismo que un solo día solar allí —de amanecer a amanecer— dura unos 176 días terrestres."
+      }
     }
   },
   {
@@ -124,11 +237,22 @@
     "domain": "space",
     "hook": "Black holes can't be seen directly.",
     "fact": "Because not even light can escape a black hole's gravity, astronomers detect them indirectly by observing how they bend light and affect the motion of nearby stars and gas.",
-    "tags": ["black-holes"],
+    "tags": [
+      "black-holes"
+    ],
     "translations": {
-      "fr": { "hook": "Les trous noirs sont invisibles à l'œil nu.", "fact": "Comme même la lumière ne peut échapper à la gravité d'un trou noir, les astronomes les détectent indirectement en observant comment ils déforment la lumière et influencent le mouvement des étoiles et gaz environnants." },
-      "nl": { "hook": "Zwarte gaten zijn niet rechtstreeks te zien.", "fact": "Omdat zelfs licht niet aan de zwaartekracht van een zwart gat kan ontsnappen, sporen astronomen ze indirect op door te kijken hoe ze licht buigen en de beweging van nabije sterren en gas beïnvloeden." },
-      "es": { "hook": "Los agujeros negros no se pueden ver directamente.", "fact": "Como ni siquiera la luz puede escapar de la gravedad de un agujero negro, los astrónomos los detectan de forma indirecta observando cómo curvan la luz y afectan el movimiento de las estrellas y el gas cercanos." }
+      "fr": {
+        "hook": "Les trous noirs sont invisibles à l'œil nu.",
+        "fact": "Comme même la lumière ne peut échapper à la gravité d'un trou noir, les astronomes les détectent indirectement en observant comment ils déforment la lumière et influencent le mouvement des étoiles et gaz environnants."
+      },
+      "nl": {
+        "hook": "Zwarte gaten zijn niet rechtstreeks te zien.",
+        "fact": "Omdat zelfs licht niet aan de zwaartekracht van een zwart gat kan ontsnappen, sporen astronomen ze indirect op door te kijken hoe ze licht buigen en de beweging van nabije sterren en gas beïnvloeden."
+      },
+      "es": {
+        "hook": "Los agujeros negros no se pueden ver directamente.",
+        "fact": "Como ni siquiera la luz puede escapar de la gravedad de un agujero negro, los astrónomos los detectan de forma indirecta observando cómo curvan la luz y afectan el movimiento de las estrellas y el gas cercanos."
+      }
     }
   },
   {
@@ -136,11 +260,22 @@
     "domain": "space",
     "hook": "The International Space Station orbits Earth every 90 minutes.",
     "fact": "The ISS travels at roughly 28,000 km/h, completing a full orbit of Earth about every 90 minutes — meaning astronauts on board see around 16 sunrises and sunsets each day.",
-    "tags": ["exploration"],
+    "tags": [
+      "exploration"
+    ],
     "translations": {
-      "fr": { "hook": "La Station spatiale internationale fait le tour de la Terre toutes les 90 minutes.", "fact": "L'ISS se déplace à environ 28 000 km/h et achève une orbite complète de la Terre toutes les 90 minutes environ — les astronautes à bord assistent donc à près de 16 levers et couchers de Soleil chaque jour." },
-      "nl": { "hook": "Het internationale ruimtestation draait elke 90 minuten rond de aarde.", "fact": "Het ISS beweegt met ongeveer 28.000 km/u en voltooit ongeveer elke 90 minuten een volledige omloop rond de aarde — waardoor de astronauten aan boord dagelijks zo'n 16 zonsopgangen en zonsondergangen meemaken." },
-      "es": { "hook": "La Estación Espacial Internacional orbita la Tierra cada 90 minutos.", "fact": "La ISS viaja a unos 28.000 km/h y completa una órbita entera alrededor de la Tierra cada 90 minutos aproximadamente, lo que significa que los astronautas a bordo ven unos 16 amaneceres y atardeceres cada día." }
+      "fr": {
+        "hook": "La Station spatiale internationale fait le tour de la Terre toutes les 90 minutes.",
+        "fact": "L'ISS se déplace à environ 28 000 km/h et achève une orbite complète de la Terre toutes les 90 minutes environ — les astronautes à bord assistent donc à près de 16 levers et couchers de Soleil chaque jour."
+      },
+      "nl": {
+        "hook": "Het internationale ruimtestation draait elke 90 minuten rond de aarde.",
+        "fact": "Het ISS beweegt met ongeveer 28.000 km/u en voltooit ongeveer elke 90 minuten een volledige omloop rond de aarde — waardoor de astronauten aan boord dagelijks zo'n 16 zonsopgangen en zonsondergangen meemaken."
+      },
+      "es": {
+        "hook": "La Estación Espacial Internacional orbita la Tierra cada 90 minutos.",
+        "fact": "La ISS viaja a unos 28.000 km/h y completa una órbita entera alrededor de la Tierra cada 90 minutos aproximadamente, lo que significa que los astronautas a bordo ven unos 16 amaneceres y atardeceres cada día."
+      }
     }
   },
   {
@@ -148,11 +283,23 @@
     "domain": "space",
     "hook": "The universe is still expanding, and speeding up.",
     "fact": "Observations of distant supernovae in the late 1990s revealed that the universe's expansion isn't slowing down — it's accelerating, attributed to a mysterious force called dark energy.",
-    "tags": ["universe", "cosmology"],
+    "tags": [
+      "universe",
+      "cosmology"
+    ],
     "translations": {
-      "fr": { "hook": "L'univers continue de s'étendre, et de plus en plus vite.", "fact": "Des observations de supernovae lointaines à la fin des années 1990 ont révélé que l'expansion de l'univers ne ralentit pas — elle accélère, un phénomène attribué à une force mystérieuse appelée énergie noire." },
-      "nl": { "hook": "Het heelal blijft uitdijen, en steeds sneller.", "fact": "Waarnemingen van verre supernova's eind jaren negentig toonden aan dat de uitdijing van het heelal niet vertraagt, maar juist versnelt — toegeschreven aan een mysterieuze kracht die donkere energie wordt genoemd." },
-      "es": { "hook": "El universo sigue expandiéndose, y cada vez más rápido.", "fact": "Observaciones de supernovas lejanas a finales de los años noventa revelaron que la expansión del universo no se ralentiza, sino que se acelera, un fenómeno atribuido a una misteriosa fuerza llamada energía oscura." }
+      "fr": {
+        "hook": "L'univers continue de s'étendre, et de plus en plus vite.",
+        "fact": "Des observations de supernovae lointaines à la fin des années 1990 ont révélé que l'expansion de l'univers ne ralentit pas — elle accélère, un phénomène attribué à une force mystérieuse appelée énergie noire."
+      },
+      "nl": {
+        "hook": "Het heelal blijft uitdijen, en steeds sneller.",
+        "fact": "Waarnemingen van verre supernova's eind jaren negentig toonden aan dat de uitdijing van het heelal niet vertraagt, maar juist versnelt — toegeschreven aan een mysterieuze kracht die donkere energie wordt genoemd."
+      },
+      "es": {
+        "hook": "El universo sigue expandiéndose, y cada vez más rápido.",
+        "fact": "Observaciones de supernovas lejanas a finales de los años noventa revelaron que la expansión del universo no se ralentiza, sino que se acelera, un fenómeno atribuido a una misteriosa fuerza llamada energía oscura."
+      }
     }
   },
   {
@@ -160,11 +307,22 @@
     "domain": "space",
     "hook": "There's a giant storm on Jupiter older than any living human.",
     "fact": "Jupiter's Great Red Spot is a storm larger than Earth that has been observed continuously since at least the 1830s, and possibly much longer.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Une tempête géante sur Jupiter est plus vieille que n'importe quel être humain vivant.", "fact": "La Grande Tache rouge de Jupiter est une tempête plus grande que la Terre, observée en continu depuis au moins les années 1830, et peut-être depuis bien plus longtemps encore." },
-      "nl": { "hook": "Op Jupiter woedt een reusachtige storm die ouder is dan wie dan ook nu levend.", "fact": "De Grote Rode Vlek op Jupiter is een storm groter dan de aarde, die al minstens sinds de jaren 1830 ononderbroken wordt waargenomen — en mogelijk al veel langer." },
-      "es": { "hook": "En Júpiter hay una tormenta gigante más antigua que cualquier persona viva.", "fact": "La Gran Mancha Roja de Júpiter es una tormenta más grande que la Tierra que se ha observado sin interrupción desde al menos la década de 1830, y posiblemente desde mucho antes." }
+      "fr": {
+        "hook": "Une tempête géante sur Jupiter est plus vieille que n'importe quel être humain vivant.",
+        "fact": "La Grande Tache rouge de Jupiter est une tempête plus grande que la Terre, observée en continu depuis au moins les années 1830, et peut-être depuis bien plus longtemps encore."
+      },
+      "nl": {
+        "hook": "Op Jupiter woedt een reusachtige storm die ouder is dan wie dan ook nu levend.",
+        "fact": "De Grote Rode Vlek op Jupiter is een storm groter dan de aarde, die al minstens sinds de jaren 1830 ononderbroken wordt waargenomen — en mogelijk al veel langer."
+      },
+      "es": {
+        "hook": "En Júpiter hay una tormenta gigante más antigua que cualquier persona viva.",
+        "fact": "La Gran Mancha Roja de Júpiter es una tormenta más grande que la Tierra que se ha observado sin interrupción desde al menos la década de 1830, y posiblemente desde mucho antes."
+      }
     }
   },
   {
@@ -172,11 +330,22 @@
     "domain": "space",
     "hook": "The tallest volcano in the solar system is on Mars.",
     "fact": "Olympus Mons on Mars is the largest known volcano in the solar system, standing about three times taller than Mount Everest.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Le plus haut volcan du système solaire se trouve sur Mars.", "fact": "Olympus Mons, sur Mars, est le plus grand volcan connu du système solaire, culminant à environ trois fois la hauteur du mont Everest." },
-      "nl": { "hook": "De hoogste vulkaan van het zonnestelsel staat op Mars.", "fact": "Olympus Mons op Mars is de grootste bekende vulkaan in het zonnestelsel en is ongeveer drie keer zo hoog als de Mount Everest." },
-      "es": { "hook": "El volcán más alto del sistema solar está en Marte.", "fact": "El monte Olimpo, en Marte, es el volcán más grande conocido del sistema solar, con una altura de casi el triple del monte Everest." }
+      "fr": {
+        "hook": "Le plus haut volcan du système solaire se trouve sur Mars.",
+        "fact": "Olympus Mons, sur Mars, est le plus grand volcan connu du système solaire, culminant à environ trois fois la hauteur du mont Everest."
+      },
+      "nl": {
+        "hook": "De hoogste vulkaan van het zonnestelsel staat op Mars.",
+        "fact": "Olympus Mons op Mars is de grootste bekende vulkaan in het zonnestelsel en is ongeveer drie keer zo hoog als de Mount Everest."
+      },
+      "es": {
+        "hook": "El volcán más alto del sistema solar está en Marte.",
+        "fact": "El monte Olimpo, en Marte, es el volcán más grande conocido del sistema solar, con una altura de casi el triple del monte Everest."
+      }
     }
   },
   {
@@ -184,11 +353,22 @@
     "domain": "space",
     "hook": "A single spacesuit costs around $12 million.",
     "fact": "Most of the cost of a NASA spacewalk suit comes from its life-support backpack, which supplies oxygen, regulates temperature, and removes carbon dioxide.",
-    "tags": ["exploration"],
+    "tags": [
+      "exploration"
+    ],
     "translations": {
-      "fr": { "hook": "Une seule combinaison spatiale coûte environ 12 millions de dollars.", "fact": "L'essentiel du coût d'une combinaison de sortie extravéhiculaire de la NASA provient de son sac de survie, qui fournit l'oxygène, régule la température et élimine le dioxyde de carbone." },
-      "nl": { "hook": "Eén ruimtepak kost ongeveer 12 miljoen dollar.", "fact": "Het grootste deel van de kosten van een NASA-ruimtewandelpak zit in het levensondersteunende rugzakje, dat zuurstof levert, de temperatuur regelt en koolstofdioxide verwijdert." },
-      "es": { "hook": "Un solo traje espacial cuesta unos 12 millones de dólares.", "fact": "La mayor parte del coste de un traje de paseo espacial de la NASA proviene de su mochila de soporte vital, que suministra oxígeno, regula la temperatura y elimina el dióxido de carbono." }
+      "fr": {
+        "hook": "Une seule combinaison spatiale coûte environ 12 millions de dollars.",
+        "fact": "L'essentiel du coût d'une combinaison de sortie extravéhiculaire de la NASA provient de son sac de survie, qui fournit l'oxygène, régule la température et élimine le dioxyde de carbone."
+      },
+      "nl": {
+        "hook": "Eén ruimtepak kost ongeveer 12 miljoen dollar.",
+        "fact": "Het grootste deel van de kosten van een NASA-ruimtewandelpak zit in het levensondersteunende rugzakje, dat zuurstof levert, de temperatuur regelt en koolstofdioxide verwijdert."
+      },
+      "es": {
+        "hook": "Un solo traje espacial cuesta unos 12 millones de dólares.",
+        "fact": "La mayor parte del coste de un traje de paseo espacial de la NASA proviene de su mochila de soporte vital, que suministra oxígeno, regula la temperatura y elimina el dióxido de carbono."
+      }
     }
   },
   {
@@ -196,11 +376,22 @@
     "domain": "space",
     "hook": "A day on Mars is only 40 minutes longer than a day on Earth.",
     "fact": "Mars rotates on its axis at nearly the same rate as Earth, giving it a day — called a 'sol' — of about 24 hours and 40 minutes.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Une journée sur Mars ne dure que 40 minutes de plus qu'une journée sur Terre.", "fact": "Mars tourne sur elle-même à un rythme presque identique à celui de la Terre, ce qui donne un jour — appelé 'sol' — d'environ 24 heures et 40 minutes." },
-      "nl": { "hook": "Een dag op Mars duurt maar 40 minuten langer dan een dag op aarde.", "fact": "Mars draait bijna even snel om zijn as als de aarde, waardoor een dag daar — een 'sol' genoemd — ongeveer 24 uur en 40 minuten duurt." },
-      "es": { "hook": "Un día en Marte dura solo 40 minutos más que un día en la Tierra.", "fact": "Marte gira sobre su eje casi al mismo ritmo que la Tierra, lo que da lugar a un día —llamado 'sol'— de unas 24 horas y 40 minutos." }
+      "fr": {
+        "hook": "Une journée sur Mars ne dure que 40 minutes de plus qu'une journée sur Terre.",
+        "fact": "Mars tourne sur elle-même à un rythme presque identique à celui de la Terre, ce qui donne un jour — appelé 'sol' — d'environ 24 heures et 40 minutes."
+      },
+      "nl": {
+        "hook": "Een dag op Mars duurt maar 40 minuten langer dan een dag op aarde.",
+        "fact": "Mars draait bijna even snel om zijn as als de aarde, waardoor een dag daar — een 'sol' genoemd — ongeveer 24 uur en 40 minuten duurt."
+      },
+      "es": {
+        "hook": "Un día en Marte dura solo 40 minutos más que un día en la Tierra.",
+        "fact": "Marte gira sobre su eje casi al mismo ritmo que la Tierra, lo que da lugar a un día —llamado 'sol'— de unas 24 horas y 40 minutos."
+      }
     }
   },
   {
@@ -208,11 +399,23 @@
     "domain": "space",
     "hook": "Our galaxy is on a collision course with our closest large neighbor.",
     "fact": "The Milky Way is slowly moving toward the Andromeda galaxy and the two are expected to merge in roughly 4.5 billion years.",
-    "tags": ["universe", "cosmology"],
+    "tags": [
+      "universe",
+      "cosmology"
+    ],
     "translations": {
-      "fr": { "hook": "Notre galaxie fonce droit vers sa plus grande voisine.", "fact": "La Voie lactée se rapproche lentement de la galaxie d'Andromède, et les deux devraient fusionner dans environ 4,5 milliards d'années." },
-      "nl": { "hook": "Onze melkweg koerst recht op zijn grootste buur af.", "fact": "De Melkweg beweegt langzaam richting de Andromedanevel, en de twee sterrenstelsels zullen naar verwachting over ongeveer 4,5 miljard jaar samensmelten." },
-      "es": { "hook": "Nuestra galaxia va camino de chocar con su vecina más grande.", "fact": "La Vía Láctea se acerca lentamente a la galaxia de Andrómeda, y se espera que ambas se fusionen dentro de unos 4.500 millones de años." }
+      "fr": {
+        "hook": "Notre galaxie fonce droit vers sa plus grande voisine.",
+        "fact": "La Voie lactée se rapproche lentement de la galaxie d'Andromède, et les deux devraient fusionner dans environ 4,5 milliards d'années."
+      },
+      "nl": {
+        "hook": "Onze melkweg koerst recht op zijn grootste buur af.",
+        "fact": "De Melkweg beweegt langzaam richting de Andromedanevel, en de twee sterrenstelsels zullen naar verwachting over ongeveer 4,5 miljard jaar samensmelten."
+      },
+      "es": {
+        "hook": "Nuestra galaxia va camino de chocar con su vecina más grande.",
+        "fact": "La Vía Láctea se acerca lentamente a la galaxia de Andrómeda, y se espera que ambas se fusionen dentro de unos 4.500 millones de años."
+      }
     }
   },
   {
@@ -220,11 +423,23 @@
     "domain": "space",
     "hook": "Even 'empty' space isn't completely empty.",
     "fact": "Interstellar space still contains a few atoms per cubic centimeter — far sparser than any vacuum scientists can create on Earth, but not a true void.",
-    "tags": ["universe", "astronomy"],
+    "tags": [
+      "universe",
+      "astronomy"
+    ],
     "translations": {
-      "fr": { "hook": "Même le vide spatial n'est pas vraiment vide.", "fact": "L'espace interstellaire contient encore quelques atomes par centimètre cube — bien plus dilué que n'importe quel vide créé en laboratoire sur Terre, mais ce n'est pas un vide absolu." },
-      "nl": { "hook": "Zelfs de 'lege' ruimte is niet echt leeg.", "fact": "De interstellaire ruimte bevat nog altijd een paar atomen per kubieke centimeter — veel ijler dan elk vacuüm dat wetenschappers op aarde kunnen creëren, maar toch geen echte leegte." },
-      "es": { "hook": "Incluso el espacio 'vacío' no está del todo vacío.", "fact": "El espacio interestelar todavía contiene unos pocos átomos por centímetro cúbico —mucho más disperso que cualquier vacío que los científicos puedan crear en la Tierra, pero no un vacío absoluto." }
+      "fr": {
+        "hook": "Même le vide spatial n'est pas vraiment vide.",
+        "fact": "L'espace interstellaire contient encore quelques atomes par centimètre cube — bien plus dilué que n'importe quel vide créé en laboratoire sur Terre, mais ce n'est pas un vide absolu."
+      },
+      "nl": {
+        "hook": "Zelfs de 'lege' ruimte is niet echt leeg.",
+        "fact": "De interstellaire ruimte bevat nog altijd een paar atomen per kubieke centimeter — veel ijler dan elk vacuüm dat wetenschappers op aarde kunnen creëren, maar toch geen echte leegte."
+      },
+      "es": {
+        "hook": "Incluso el espacio 'vacío' no está del todo vacío.",
+        "fact": "El espacio interestelar todavía contiene unos pocos átomos por centímetro cúbico —mucho más disperso que cualquier vacío que los científicos puedan crear en la Tierra, pero no un vacío absoluto."
+      }
     }
   },
   {
@@ -232,11 +447,22 @@
     "domain": "space",
     "hook": "Astronauts can grow a few centimeters taller in space.",
     "fact": "Without Earth's gravity compressing the spine, astronauts' bodies stretch slightly during long missions, sometimes gaining a few centimeters in height.",
-    "tags": ["exploration"],
+    "tags": [
+      "exploration"
+    ],
     "translations": {
-      "fr": { "hook": "Les astronautes peuvent grandir de quelques centimètres dans l'espace.", "fact": "Sans la gravité terrestre pour comprimer la colonne vertébrale, le corps des astronautes s'étire légèrement lors des longues missions, leur faisant parfois gagner quelques centimètres." },
-      "nl": { "hook": "Astronauten kunnen in de ruimte een paar centimeter groeien.", "fact": "Zonder de zwaartekracht van de aarde die de wervelkolom samendrukt, rekt het lichaam van astronauten tijdens lange missies lichtjes uit, waardoor ze soms een paar centimeter langer worden." },
-      "es": { "hook": "Los astronautas pueden crecer unos centímetros en el espacio.", "fact": "Sin la gravedad terrestre comprimiendo la columna vertebral, el cuerpo de los astronautas se estira ligeramente durante las misiones largas, lo que a veces les hace ganar unos centímetros de altura." }
+      "fr": {
+        "hook": "Les astronautes peuvent grandir de quelques centimètres dans l'espace.",
+        "fact": "Sans la gravité terrestre pour comprimer la colonne vertébrale, le corps des astronautes s'étire légèrement lors des longues missions, leur faisant parfois gagner quelques centimètres."
+      },
+      "nl": {
+        "hook": "Astronauten kunnen in de ruimte een paar centimeter groeien.",
+        "fact": "Zonder de zwaartekracht van de aarde die de wervelkolom samendrukt, rekt het lichaam van astronauten tijdens lange missies lichtjes uit, waardoor ze soms een paar centimeter langer worden."
+      },
+      "es": {
+        "hook": "Los astronautas pueden crecer unos centímetros en el espacio.",
+        "fact": "Sin la gravedad terrestre comprimiendo la columna vertebral, el cuerpo de los astronautas se estira ligeramente durante las misiones largas, lo que a veces les hace ganar unos centímetros de altura."
+      }
     }
   },
   {
@@ -244,11 +470,22 @@
     "domain": "space",
     "hook": "One dwarf planet holds a third of the entire asteroid belt's mass.",
     "fact": "Ceres, the largest object in the asteroid belt, is classified as a dwarf planet and contains roughly a third of the belt's total mass by itself.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Une seule planète naine concentre un tiers de la masse de toute la ceinture d'astéroïdes.", "fact": "Cérès, le plus grand objet de la ceinture d'astéroïdes, est classée comme planète naine et représente à elle seule environ un tiers de la masse totale de la ceinture." },
-      "nl": { "hook": "Eén dwergplaneet bevat een derde van de massa van de hele planetoïdengordel.", "fact": "Ceres, het grootste object in de planetoïdengordel, wordt geclassificeerd als dwergplaneet en bevat in zijn eentje ongeveer een derde van de totale massa van de gordel." },
-      "es": { "hook": "Un solo planeta enano contiene un tercio de la masa de todo el cinturón de asteroides.", "fact": "Ceres, el objeto más grande del cinturón de asteroides, está clasificado como planeta enano y contiene por sí solo alrededor de un tercio de la masa total del cinturón." }
+      "fr": {
+        "hook": "Une seule planète naine concentre un tiers de la masse de toute la ceinture d'astéroïdes.",
+        "fact": "Cérès, le plus grand objet de la ceinture d'astéroïdes, est classée comme planète naine et représente à elle seule environ un tiers de la masse totale de la ceinture."
+      },
+      "nl": {
+        "hook": "Eén dwergplaneet bevat een derde van de massa van de hele planetoïdengordel.",
+        "fact": "Ceres, het grootste object in de planetoïdengordel, wordt geclassificeerd als dwergplaneet en bevat in zijn eentje ongeveer een derde van de totale massa van de gordel."
+      },
+      "es": {
+        "hook": "Un solo planeta enano contiene un tercio de la masa de todo el cinturón de asteroides.",
+        "fact": "Ceres, el objeto más grande del cinturón de asteroides, está clasificado como planeta enano y contiene por sí solo alrededor de un tercio de la masa total del cinturón."
+      }
     }
   },
   {
@@ -256,11 +493,22 @@
     "domain": "space",
     "hook": "Neptune has completed only one orbit since its discovery.",
     "fact": "A year on Neptune lasts about 165 Earth years, meaning the planet has finished just one full trip around the sun since it was discovered in 1846.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Neptune n'a bouclé qu'une seule orbite depuis sa découverte.", "fact": "Une année sur Neptune dure environ 165 années terrestres, ce qui signifie que la planète n'a effectué qu'un seul tour complet autour du Soleil depuis sa découverte en 1846." },
-      "nl": { "hook": "Neptunus heeft sinds zijn ontdekking pas één omloop voltooid.", "fact": "Een jaar op Neptunus duurt ongeveer 165 aardse jaren, wat betekent dat de planeet sinds zijn ontdekking in 1846 pas één volledige omloop rond de zon heeft voltooid." },
-      "es": { "hook": "Neptuno solo ha completado una órbita desde su descubrimiento.", "fact": "Un año en Neptuno dura unos 165 años terrestres, lo que significa que el planeta solo ha completado una vuelta entera alrededor del Sol desde que fue descubierto en 1846." }
+      "fr": {
+        "hook": "Neptune n'a bouclé qu'une seule orbite depuis sa découverte.",
+        "fact": "Une année sur Neptune dure environ 165 années terrestres, ce qui signifie que la planète n'a effectué qu'un seul tour complet autour du Soleil depuis sa découverte en 1846."
+      },
+      "nl": {
+        "hook": "Neptunus heeft sinds zijn ontdekking pas één omloop voltooid.",
+        "fact": "Een jaar op Neptunus duurt ongeveer 165 aardse jaren, wat betekent dat de planeet sinds zijn ontdekking in 1846 pas één volledige omloop rond de zon heeft voltooid."
+      },
+      "es": {
+        "hook": "Neptuno solo ha completado una órbita desde su descubrimiento.",
+        "fact": "Un año en Neptuno dura unos 165 años terrestres, lo que significa que el planeta solo ha completado una vuelta entera alrededor del Sol desde que fue descubierto en 1846."
+      }
     }
   },
   {
@@ -268,11 +516,22 @@
     "domain": "space",
     "hook": "The ISS is the most expensive single structure ever built.",
     "fact": "The International Space Station's total cost is estimated at more than $150 billion, making it the most expensive object ever constructed.",
-    "tags": ["exploration"],
+    "tags": [
+      "exploration"
+    ],
     "translations": {
-      "fr": { "hook": "L'ISS est la structure la plus chère jamais construite.", "fact": "Le coût total de la Station spatiale internationale est estimé à plus de 150 milliards de dollars, ce qui en fait l'objet le plus cher jamais construit." },
-      "nl": { "hook": "Het ISS is de duurste constructie ooit gebouwd.", "fact": "De totale kosten van het internationale ruimtestation worden geschat op meer dan 150 miljard dollar, waarmee het het duurste object is dat ooit is gebouwd." },
-      "es": { "hook": "La ISS es la estructura más cara jamás construida.", "fact": "El coste total de la Estación Espacial Internacional se estima en más de 150.000 millones de dólares, lo que la convierte en el objeto más caro jamás construido." }
+      "fr": {
+        "hook": "L'ISS est la structure la plus chère jamais construite.",
+        "fact": "Le coût total de la Station spatiale internationale est estimé à plus de 150 milliards de dollars, ce qui en fait l'objet le plus cher jamais construit."
+      },
+      "nl": {
+        "hook": "Het ISS is de duurste constructie ooit gebouwd.",
+        "fact": "De totale kosten van het internationale ruimtestation worden geschat op meer dan 150 miljard dollar, waarmee het het duurste object is dat ooit is gebouwd."
+      },
+      "es": {
+        "hook": "La ISS es la estructura más cara jamás construida.",
+        "fact": "El coste total de la Estación Espacial Internacional se estima en más de 150.000 millones de dólares, lo que la convierte en el objeto más caro jamás construido."
+      }
     }
   },
   {
@@ -280,11 +539,22 @@
     "domain": "space",
     "hook": "Saturn's rings are made of ice and rock, not solid bands.",
     "fact": "The rings are actually made of countless individual chunks of ice and rock, ranging from tiny grains of dust to pieces as large as a house.",
-    "tags": ["planets"],
+    "tags": [
+      "planets"
+    ],
     "translations": {
-      "fr": { "hook": "Les anneaux de Saturne sont faits de glace et de roche, pas de bandes solides.", "fact": "Les anneaux sont en réalité constitués d'innombrables fragments de glace et de roche, allant de minuscules grains de poussière à des blocs aussi gros qu'une maison." },
-      "nl": { "hook": "De ringen van Saturnus bestaan uit ijs en rots, geen solide banden.", "fact": "De ringen bestaan in werkelijkheid uit ontelbare afzonderlijke brokken ijs en rots, variërend van piepkleine stofkorrels tot stukken zo groot als een huis." },
-      "es": { "hook": "Los anillos de Saturno están hechos de hielo y roca, no son bandas sólidas.", "fact": "Los anillos están formados en realidad por innumerables fragmentos individuales de hielo y roca, que van desde diminutos granos de polvo hasta trozos del tamaño de una casa." }
+      "fr": {
+        "hook": "Les anneaux de Saturne sont faits de glace et de roche, pas de bandes solides.",
+        "fact": "Les anneaux sont en réalité constitués d'innombrables fragments de glace et de roche, allant de minuscules grains de poussière à des blocs aussi gros qu'une maison."
+      },
+      "nl": {
+        "hook": "De ringen van Saturnus bestaan uit ijs en rots, geen solide banden.",
+        "fact": "De ringen bestaan in werkelijkheid uit ontelbare afzonderlijke brokken ijs en rots, variërend van piepkleine stofkorrels tot stukken zo groot als een huis."
+      },
+      "es": {
+        "hook": "Los anillos de Saturno están hechos de hielo y roca, no son bandas sólidas.",
+        "fact": "Los anillos están formados en realidad por innumerables fragmentos individuales de hielo y roca, que van desde diminutos granos de polvo hasta trozos del tamaño de una casa."
+      }
     }
   },
   {
@@ -292,11 +562,22 @@
     "domain": "space",
     "hook": "The Sun loses 4 million tons of mass every second.",
     "fact": "Nuclear fusion in the Sun's core converts roughly 4 million tons of matter into pure energy every second — and it's been doing this for about 4.6 billion years.",
-    "tags": ["sun"],
+    "tags": [
+      "sun"
+    ],
     "translations": {
-      "fr": { "hook": "Le Soleil perd 4 millions de tonnes de masse chaque seconde.", "fact": "La fusion nucléaire au cœur du Soleil convertit environ 4 millions de tonnes de matière en pure énergie chaque seconde — et ce, depuis environ 4,6 milliards d'années." },
-      "nl": { "hook": "De zon verliest elke seconde 4 miljoen ton massa.", "fact": "Kernfusie in de kern van de zon zet elke seconde ongeveer 4 miljoen ton materie om in pure energie — en dat gebeurt al zo'n 4,6 miljard jaar." },
-      "es": { "hook": "El Sol pierde 4 millones de toneladas de masa cada segundo.", "fact": "La fusión nuclear en el núcleo del Sol convierte cada segundo unos 4 millones de toneladas de materia en pura energía, y lleva haciéndolo desde hace unos 4.600 millones de años." }
+      "fr": {
+        "hook": "Le Soleil perd 4 millions de tonnes de masse chaque seconde.",
+        "fact": "La fusion nucléaire au cœur du Soleil convertit environ 4 millions de tonnes de matière en pure énergie chaque seconde — et ce, depuis environ 4,6 milliards d'années."
+      },
+      "nl": {
+        "hook": "De zon verliest elke seconde 4 miljoen ton massa.",
+        "fact": "Kernfusie in de kern van de zon zet elke seconde ongeveer 4 miljoen ton materie om in pure energie — en dat gebeurt al zo'n 4,6 miljard jaar."
+      },
+      "es": {
+        "hook": "El Sol pierde 4 millones de toneladas de masa cada segundo.",
+        "fact": "La fusión nuclear en el núcleo del Sol convierte cada segundo unos 4 millones de toneladas de materia en pura energía, y lleva haciéndolo desde hace unos 4.600 millones de años."
+      }
     }
   },
   {
@@ -304,11 +585,22 @@
     "domain": "space",
     "hook": "There's a white dwarf star nicknamed 'Lucy' that may have a diamond core.",
     "fact": "Astronomers believe the white dwarf star BPM 37093, nicknamed 'Lucy' after the Beatles song, has crystallized into a core made largely of carbon — potentially the largest diamond-like object known.",
-    "tags": ["stars"],
+    "tags": [
+      "stars"
+    ],
     "translations": {
-      "fr": { "hook": "Une naine blanche surnommée 'Lucy' aurait un noyau de diamant.", "fact": "Les astronomes pensent que la naine blanche BPM 37093, surnommée 'Lucy' en référence à la chanson des Beatles, s'est cristallisée en un noyau principalement composé de carbone — potentiellement le plus grand objet semblable à un diamant jamais connu." },
-      "nl": { "hook": "Een witte dwergster met de bijnaam 'Lucy' zou een diamanten kern hebben.", "fact": "Astronomen denken dat de witte dwergster BPM 37093, bijgenaamd 'Lucy' naar het Beatles-nummer, is uitgekristalliseerd tot een kern die grotendeels uit koolstof bestaat — mogelijk het grootste diamantachtige object dat bekend is." },
-      "es": { "hook": "Hay una enana blanca apodada 'Lucy' que podría tener un núcleo de diamante.", "fact": "Los astrónomos creen que la enana blanca BPM 37093, apodada 'Lucy' en referencia a la canción de los Beatles, se ha cristalizado en un núcleo formado en gran parte por carbono, posiblemente el objeto similar a un diamante más grande conocido." }
+      "fr": {
+        "hook": "Une naine blanche surnommée 'Lucy' aurait un noyau de diamant.",
+        "fact": "Les astronomes pensent que la naine blanche BPM 37093, surnommée 'Lucy' en référence à la chanson des Beatles, s'est cristallisée en un noyau principalement composé de carbone — potentiellement le plus grand objet semblable à un diamant jamais connu."
+      },
+      "nl": {
+        "hook": "Een witte dwergster met de bijnaam 'Lucy' zou een diamanten kern hebben.",
+        "fact": "Astronomen denken dat de witte dwergster BPM 37093, bijgenaamd 'Lucy' naar het Beatles-nummer, is uitgekristalliseerd tot een kern die grotendeels uit koolstof bestaat — mogelijk het grootste diamantachtige object dat bekend is."
+      },
+      "es": {
+        "hook": "Hay una enana blanca apodada 'Lucy' que podría tener un núcleo de diamante.",
+        "fact": "Los astrónomos creen que la enana blanca BPM 37093, apodada 'Lucy' en referencia a la canción de los Beatles, se ha cristalizado en un núcleo formado en gran parte por carbono, posiblemente el objeto similar a un diamante más grande conocido."
+      }
     }
   },
   {
@@ -316,11 +608,23 @@
     "domain": "space",
     "hook": "Total solar eclipses exist because of a cosmic coincidence.",
     "fact": "The Sun is about 400 times wider than the Moon, but also about 400 times farther away — a coincidence that makes them appear almost exactly the same size in Earth's sky, enabling total eclipses.",
-    "tags": ["sun", "moon"],
+    "tags": [
+      "sun",
+      "moon"
+    ],
     "translations": {
-      "fr": { "hook": "Les éclipses solaires totales existent grâce à une coïncidence cosmique.", "fact": "Le Soleil est environ 400 fois plus large que la Lune, mais aussi environ 400 fois plus éloigné — une coïncidence qui les fait paraître presque exactement de la même taille dans le ciel terrestre, rendant possibles les éclipses totales." },
-      "nl": { "hook": "Totale zonsverduisteringen bestaan dankzij een kosmisch toeval.", "fact": "De zon is ongeveer 400 keer breder dan de maan, maar staat ook ongeveer 400 keer verder weg — een toeval waardoor ze aan de hemel bijna exact even groot lijken, wat totale zonsverduisteringen mogelijk maakt." },
-      "es": { "hook": "Los eclipses solares totales existen gracias a una coincidencia cósmica.", "fact": "El Sol es unas 400 veces más ancho que la Luna, pero también está unas 400 veces más lejos, una coincidencia que hace que parezcan casi del mismo tamaño en el cielo terrestre y que hace posibles los eclipses totales." }
+      "fr": {
+        "hook": "Les éclipses solaires totales existent grâce à une coïncidence cosmique.",
+        "fact": "Le Soleil est environ 400 fois plus large que la Lune, mais aussi environ 400 fois plus éloigné — une coïncidence qui les fait paraître presque exactement de la même taille dans le ciel terrestre, rendant possibles les éclipses totales."
+      },
+      "nl": {
+        "hook": "Totale zonsverduisteringen bestaan dankzij een kosmisch toeval.",
+        "fact": "De zon is ongeveer 400 keer breder dan de maan, maar staat ook ongeveer 400 keer verder weg — een toeval waardoor ze aan de hemel bijna exact even groot lijken, wat totale zonsverduisteringen mogelijk maakt."
+      },
+      "es": {
+        "hook": "Los eclipses solares totales existen gracias a una coincidencia cósmica.",
+        "fact": "El Sol es unas 400 veces más ancho que la Luna, pero también está unas 400 veces más lejos, una coincidencia que hace que parezcan casi del mismo tamaño en el cielo terrestre y que hace posibles los eclipses totales."
+      }
     }
   },
   {
@@ -328,11 +632,22 @@
     "domain": "space",
     "hook": "Voyager 1 is the most distant human-made object ever launched.",
     "fact": "Launched in 1977, Voyager 1 has traveled beyond our solar system into interstellar space and is now more than 24 billion kilometers from Earth.",
-    "tags": ["exploration"],
+    "tags": [
+      "exploration"
+    ],
     "translations": {
-      "fr": { "hook": "Voyager 1 est l'objet humain le plus éloigné jamais envoyé dans l'espace.", "fact": "Lancée en 1977, la sonde Voyager 1 a quitté notre système solaire pour entrer dans l'espace interstellaire et se trouve aujourd'hui à plus de 24 milliards de kilomètres de la Terre." },
-      "nl": { "hook": "Voyager 1 is het verst verwijderde door mensen gemaakte object ooit gelanceerd.", "fact": "Voyager 1, gelanceerd in 1977, heeft ons zonnestelsel verlaten en bevindt zich nu in de interstellaire ruimte, op meer dan 24 miljard kilometer van de aarde." },
-      "es": { "hook": "Voyager 1 es el objeto humano más lejano jamás lanzado.", "fact": "Lanzada en 1977, la sonda Voyager 1 ha viajado más allá de nuestro sistema solar hasta el espacio interestelar y se encuentra ahora a más de 24.000 millones de kilómetros de la Tierra." }
+      "fr": {
+        "hook": "Voyager 1 est l'objet humain le plus éloigné jamais envoyé dans l'espace.",
+        "fact": "Lancée en 1977, la sonde Voyager 1 a quitté notre système solaire pour entrer dans l'espace interstellaire et se trouve aujourd'hui à plus de 24 milliards de kilomètres de la Terre."
+      },
+      "nl": {
+        "hook": "Voyager 1 is het verst verwijderde door mensen gemaakte object ooit gelanceerd.",
+        "fact": "Voyager 1, gelanceerd in 1977, heeft ons zonnestelsel verlaten en bevindt zich nu in de interstellaire ruimte, op meer dan 24 miljard kilometer van de aarde."
+      },
+      "es": {
+        "hook": "Voyager 1 es el objeto humano más lejano jamás lanzado.",
+        "fact": "Lanzada en 1977, la sonda Voyager 1 ha viajado más allá de nuestro sistema solar hasta el espacio interestelar y se encuentra ahora a más de 24.000 millones de kilómetros de la Tierra."
+      }
     }
   },
   {
@@ -340,11 +655,23 @@
     "domain": "space",
     "hook": "Some stars you see tonight might not exist anymore.",
     "fact": "Because light takes time to travel, looking at a distant star means seeing light that left it years, centuries, or even millions of years ago — meaning the star itself may have already changed or died.",
-    "tags": ["stars", "astronomy"],
+    "tags": [
+      "stars",
+      "astronomy"
+    ],
     "translations": {
-      "fr": { "hook": "Certaines étoiles que vous voyez ce soir n'existent peut-être plus.", "fact": "Comme la lumière met du temps à voyager, observer une étoile lointaine revient à voir une lumière partie il y a des années, des siècles, voire des millions d'années — l'étoile elle-même a donc peut-être déjà changé ou disparu." },
-      "nl": { "hook": "Sommige sterren die je vanavond ziet, bestaan misschien niet meer.", "fact": "Omdat licht tijd nodig heeft om te reizen, zie je bij het kijken naar een verre ster licht dat jaren, eeuwen of zelfs miljoenen jaren geleden is vertrokken — de ster zelf kan dus intussen al veranderd of gestorven zijn." },
-      "es": { "hook": "Algunas estrellas que ves esta noche podrían ya no existir.", "fact": "Como la luz tarda tiempo en viajar, mirar una estrella lejana significa ver una luz que partió de ella hace años, siglos o incluso millones de años, así que la propia estrella podría haber cambiado ya o haber dejado de existir." }
+      "fr": {
+        "hook": "Certaines étoiles que vous voyez ce soir n'existent peut-être plus.",
+        "fact": "Comme la lumière met du temps à voyager, observer une étoile lointaine revient à voir une lumière partie il y a des années, des siècles, voire des millions d'années — l'étoile elle-même a donc peut-être déjà changé ou disparu."
+      },
+      "nl": {
+        "hook": "Sommige sterren die je vanavond ziet, bestaan misschien niet meer.",
+        "fact": "Omdat licht tijd nodig heeft om te reizen, zie je bij het kijken naar een verre ster licht dat jaren, eeuwen of zelfs miljoenen jaren geleden is vertrokken — de ster zelf kan dus intussen al veranderd of gestorven zijn."
+      },
+      "es": {
+        "hook": "Algunas estrellas que ves esta noche podrían ya no existir.",
+        "fact": "Como la luz tarda tiempo en viajar, mirar una estrella lejana significa ver una luz que partió de ella hace años, siglos o incluso millones de años, así que la propia estrella podría haber cambiado ya o haber dejado de existir."
+      }
     }
   },
   {
@@ -352,11 +679,1693 @@
     "domain": "space",
     "hook": "Astronaut footprints on the Moon are considered historic sites.",
     "fact": "The footprints, equipment, and flags left by Apollo astronauts are treated as protected heritage sites by space agencies, even though no binding international law currently enforces it.",
-    "tags": ["moon", "exploration"],
+    "tags": [
+      "moon",
+      "exploration"
+    ],
     "translations": {
-      "fr": { "hook": "Les empreintes des astronautes sur la Lune sont considérées comme des sites historiques.", "fact": "Les empreintes, équipements et drapeaux laissés par les astronautes d'Apollo sont traités comme des sites patrimoniaux protégés par les agences spatiales, même si aucune loi internationale contraignante ne l'impose actuellement." },
-      "nl": { "hook": "Astronautenvoetafdrukken op de maan gelden als historische locaties.", "fact": "De voetafdrukken, apparatuur en vlaggen die de Apollo-astronauten achterlieten, worden door ruimtevaartorganisaties behandeld als beschermd erfgoed, ook al bestaat er momenteel geen bindende internationale wet die dit afdwingt." },
-      "es": { "hook": "Las huellas de los astronautas en la Luna se consideran sitios históricos.", "fact": "Las huellas, el equipo y las banderas dejados por los astronautas del Apolo son tratados como sitios patrimoniales protegidos por las agencias espaciales, aunque actualmente ninguna ley internacional vinculante lo exija." }
+      "fr": {
+        "hook": "Les empreintes des astronautes sur la Lune sont considérées comme des sites historiques.",
+        "fact": "Les empreintes, équipements et drapeaux laissés par les astronautes d'Apollo sont traités comme des sites patrimoniaux protégés par les agences spatiales, même si aucune loi internationale contraignante ne l'impose actuellement."
+      },
+      "nl": {
+        "hook": "Astronautenvoetafdrukken op de maan gelden als historische locaties.",
+        "fact": "De voetafdrukken, apparatuur en vlaggen die de Apollo-astronauten achterlieten, worden door ruimtevaartorganisaties behandeld als beschermd erfgoed, ook al bestaat er momenteel geen bindende internationale wet die dit afdwingt."
+      },
+      "es": {
+        "hook": "Las huellas de los astronautas en la Luna se consideran sitios históricos.",
+        "fact": "Las huellas, el equipo y las banderas dejados por los astronautas del Apolo son tratados como sitios patrimoniales protegidos por las agencias espaciales, aunque actualmente ninguna ley internacional vinculante lo exija."
+      }
     }
+  },
+  {
+    "id": "space-031",
+    "domain": "space",
+    "hook": "Mercury is slowly shrinking.",
+    "fact": "As Mercury's molten core has cooled and contracted over billions of years, the planet's crust has wrinkled into towering cliffs called lobate scarps, and its radius has shrunk by several kilometers.",
+    "tags": [
+      "planets",
+      "mercury"
+    ]
+  },
+  {
+    "id": "space-032",
+    "domain": "space",
+    "hook": "Venus spins backward compared to almost every other planet.",
+    "fact": "While most planets rotate counterclockwise when viewed from above the sun's north pole, Venus rotates clockwise — a retrograde spin scientists think may result from an ancient collision or tidal effects from its dense atmosphere.",
+    "tags": [
+      "planets",
+      "venus"
+    ]
+  },
+  {
+    "id": "space-033",
+    "domain": "space",
+    "hook": "Standing on Venus would crush and melt you at once.",
+    "fact": "Venus's surface temperature averages about 465°C (869°F), hot enough to melt lead, while its atmospheric pressure is roughly 90 times Earth's — similar to being nearly a kilometer under the ocean.",
+    "tags": [
+      "planets",
+      "venus"
+    ]
+  },
+  {
+    "id": "space-034",
+    "domain": "space",
+    "hook": "Uranus rolls around the sun on its side.",
+    "fact": "Uranus's axis is tilted about 98 degrees, likely the result of an ancient collision, so it essentially orbits lying on its side, with each pole pointing almost directly at the sun for decades at a time.",
+    "tags": [
+      "planets",
+      "uranus"
+    ]
+  },
+  {
+    "id": "space-035",
+    "domain": "space",
+    "hook": "Uranus's rings were discovered by accident.",
+    "fact": "In 1977, astronomers watching Uranus pass in front of a distant star noticed the star's light blink several times before and after the planet, revealing a previously unknown system of rings.",
+    "tags": [
+      "planets",
+      "uranus"
+    ]
+  },
+  {
+    "id": "space-036",
+    "domain": "space",
+    "hook": "Neptune was found with math before anyone saw it.",
+    "fact": "Astronomers predicted Neptune's existence and location by calculating irregularities in Uranus's orbit, and in 1846 Johann Galle pointed his telescope at the predicted spot and found the planet within about a degree.",
+    "tags": [
+      "planets",
+      "neptune"
+    ]
+  },
+  {
+    "id": "space-037",
+    "domain": "space",
+    "hook": "The fastest winds in the solar system blow on Neptune.",
+    "fact": "Neptune hosts the solar system's most powerful winds, with gusts measured at over 2,000 km/h — nearly supersonic — despite the planet receiving only a tiny fraction of the sunlight Earth does.",
+    "tags": [
+      "planets",
+      "neptune"
+    ]
+  },
+  {
+    "id": "space-038",
+    "domain": "space",
+    "hook": "Galileo's telescope revealed four new worlds in a single month.",
+    "fact": "When Galileo Galilei observed Jupiter in January 1610, he spotted four points of light circling it — Io, Europa, Ganymede, and Callisto — the first moons ever found orbiting a planet other than Earth.",
+    "tags": [
+      "moon",
+      "jupiter"
+    ]
+  },
+  {
+    "id": "space-039",
+    "domain": "space",
+    "hook": "Jupiter's moon Io is the most volcanically active place in the solar system.",
+    "fact": "Io has hundreds of active volcanoes fueled by tidal heating from Jupiter's immense gravity, which flexes the moon's interior and generates enough friction to keep parts of its surface molten.",
+    "tags": [
+      "moon",
+      "jupiter"
+    ]
+  },
+  {
+    "id": "space-040",
+    "domain": "space",
+    "hook": "One of Jupiter's moons may hold more liquid water than all of Earth's oceans combined.",
+    "fact": "Europa is covered in a thick shell of ice believed to hide a global saltwater ocean beneath it, making it one of the most promising places in the solar system to search for life.",
+    "whyItMatters": "Future missions like Europa Clipper are specifically designed to assess whether this hidden ocean could support life.",
+    "tags": [
+      "moon",
+      "jupiter"
+    ]
+  },
+  {
+    "id": "space-041",
+    "domain": "space",
+    "hook": "The solar system's largest moon is bigger than the planet Mercury.",
+    "fact": "Jupiter's moon Ganymede has a diameter of about 5,268 km, making it larger than Mercury, and it's the only moon known to generate its own magnetic field.",
+    "tags": [
+      "moon",
+      "jupiter"
+    ]
+  },
+  {
+    "id": "space-042",
+    "domain": "space",
+    "hook": "Saturn's largest moon has rivers, lakes, and rain made of methane.",
+    "fact": "Titan is the only moon in the solar system with a substantial atmosphere, and its surface features lakes and seas of liquid methane and ethane in a frigid cycle that mirrors Earth's water cycle.",
+    "tags": [
+      "moon",
+      "saturn"
+    ]
+  },
+  {
+    "id": "space-043",
+    "domain": "space",
+    "hook": "A small moon of Saturn shoots water into space.",
+    "fact": "Enceladus vents plumes of water vapor and ice grains from cracks near its south pole, evidence of a subsurface ocean that has made it a leading candidate in the search for extraterrestrial life.",
+    "whyItMatters": "Spacecraft have flown directly through these plumes to sample the ocean's chemistry without needing to land or drill.",
+    "tags": [
+      "moon",
+      "saturn"
+    ]
+  },
+  {
+    "id": "space-044",
+    "domain": "space",
+    "hook": "One of Saturn's moons looks just like the Death Star.",
+    "fact": "Saturn's moon Mimas has a massive impact crater called Herschel that spans nearly a third of the moon's diameter, giving it a striking resemblance to the fictional Death Star from Star Wars.",
+    "tags": [
+      "moon",
+      "saturn"
+    ]
+  },
+  {
+    "id": "space-045",
+    "domain": "space",
+    "hook": "Humanity's most distant soft landing happened on a moon of Saturn.",
+    "fact": "In January 2005, the European Huygens probe detached from the Cassini spacecraft and landed on Titan, transmitting images from the surface of a world over a billion kilometers from Earth.",
+    "tags": [
+      "exploration",
+      "saturn"
+    ]
+  },
+  {
+    "id": "space-046",
+    "domain": "space",
+    "hook": "A spacecraft ended its mission by deliberately diving into Saturn.",
+    "fact": "After 13 years studying the Saturn system, the Cassini spacecraft was intentionally plunged into the planet's atmosphere in September 2017 to burn up, preventing any risk of contaminating potentially habitable moons like Enceladus.",
+    "tags": [
+      "exploration",
+      "saturn"
+    ]
+  },
+  {
+    "id": "space-047",
+    "domain": "space",
+    "hook": "Neptune's largest moon orbits backward.",
+    "fact": "Triton is the only large moon in the solar system that orbits its planet opposite to the planet's rotation, strong evidence that it was once a Kuiper Belt object captured by Neptune's gravity.",
+    "tags": [
+      "moon",
+      "neptune"
+    ]
+  },
+  {
+    "id": "space-048",
+    "domain": "space",
+    "hook": "Pluto and its largest moon always show each other the same face.",
+    "fact": "Pluto and Charon are tidally locked to one another, so they keep the same hemispheres facing each other as they orbit — behaving more like a double planet than a planet and its moon.",
+    "tags": [
+      "moon",
+      "solar-system"
+    ]
+  },
+  {
+    "id": "space-049",
+    "domain": "space",
+    "hook": "Pluto lost its planet status by a vote in 2006.",
+    "fact": "In 2006 the International Astronomical Union created a new category called 'dwarf planet' and reclassified Pluto into it, because unlike the eight recognized planets, it had not gravitationally cleared its orbital neighborhood.",
+    "tags": [
+      "solar-system",
+      "history"
+    ]
+  },
+  {
+    "id": "space-050",
+    "domain": "space",
+    "hook": "It took nine years to reach Pluto.",
+    "fact": "NASA's New Horizons spacecraft launched in 2006 and didn't fly past Pluto until July 2015, capturing the first close-up images of the dwarf planet's icy heart-shaped plain, Sputnik Planitia.",
+    "tags": [
+      "exploration",
+      "solar-system"
+    ]
+  },
+  {
+    "id": "space-051",
+    "domain": "space",
+    "hook": "The most distant object ever explored up close looks like a snowman.",
+    "fact": "On New Year's Day 2019, New Horizons flew past Arrokoth, a small Kuiper Belt object over 6 billion kilometers from Earth, revealing two lobes fused together into a flattened, reddish snowman shape.",
+    "tags": [
+      "exploration",
+      "solar-system"
+    ]
+  },
+  {
+    "id": "space-052",
+    "domain": "space",
+    "hook": "A dwarf planet named after chaos triggered Pluto's demotion.",
+    "fact": "The 2005 discovery of Eris, a distant dwarf planet roughly as massive as Pluto, forced astronomers to formally define what counts as a planet — a debate that ended with Pluto being reclassified.",
+    "tags": [
+      "solar-system",
+      "history"
+    ]
+  },
+  {
+    "id": "space-053",
+    "domain": "space",
+    "hook": "One spacecraft orbited two different worlds in the asteroid belt.",
+    "fact": "NASA's Dawn mission used ion propulsion to visit and orbit both Vesta and Ceres, the two largest bodies in the asteroid belt, becoming the first spacecraft ever to orbit two extraterrestrial destinations.",
+    "tags": [
+      "exploration",
+      "asteroids"
+    ]
+  },
+  {
+    "id": "space-054",
+    "domain": "space",
+    "hook": "One asteroid has its own layered core, mantle, and crust.",
+    "fact": "Vesta, the second-most-massive object in the asteroid belt, cooled and separated into distinct internal layers like a planet, making it one of the few asteroids considered a 'protoplanet.'",
+    "tags": [
+      "asteroids"
+    ]
+  },
+  {
+    "id": "space-055",
+    "domain": "space",
+    "hook": "NASA fired a robotic arm into an asteroid and grabbed a piece of it.",
+    "fact": "In 2020, NASA's OSIRIS-REx briefly touched the asteroid Bennu with a robotic arm, blasted the surface with nitrogen gas, and collected loose rubble that sank the spacecraft deeper into the surface than engineers expected.",
+    "whyItMatters": "Bennu is also a near-Earth asteroid with a small chance of a close approach to Earth in the next couple of centuries, making the mission useful for planetary defense as well as science.",
+    "tags": [
+      "exploration",
+      "asteroids"
+    ]
+  },
+  {
+    "id": "space-056",
+    "domain": "space",
+    "hook": "Japan brought home samples from a diamond-shaped asteroid.",
+    "fact": "Japan's Hayabusa2 mission collected material from the asteroid Ryugu, including debris blasted loose by an explosive impactor fired at the surface, and delivered the samples to Earth in 2020.",
+    "tags": [
+      "exploration",
+      "asteroids"
+    ]
+  },
+  {
+    "id": "space-057",
+    "domain": "space",
+    "hook": "The first asteroid sample ever returned to Earth nearly didn't make it home.",
+    "fact": "Japan's original Hayabusa mission suffered engine failures, fuel leaks, and weeks of lost communication, but limped back to Earth in 2010 carrying tiny grains from the asteroid Itokawa — the first asteroid sample return in history.",
+    "tags": [
+      "exploration",
+      "asteroids"
+    ]
+  },
+  {
+    "id": "space-058",
+    "domain": "space",
+    "hook": "Humanity intentionally crashed a spacecraft into an asteroid just to nudge it.",
+    "fact": "NASA's DART spacecraft slammed into the small asteroid moonlet Dimorphos in September 2022, shortening its orbit around the larger asteroid Didymos and proving that a kinetic impact can measurably alter an asteroid's path.",
+    "whyItMatters": "It was the first full-scale test of a planetary defense technique that could one day deflect an asteroid found to be on a collision course with Earth.",
+    "tags": [
+      "exploration",
+      "asteroids"
+    ]
+  },
+  {
+    "id": "space-059",
+    "domain": "space",
+    "hook": "A single asteroid impact ended the age of dinosaurs.",
+    "fact": "About 66 million years ago, an asteroid roughly 10 km wide struck what is now Mexico's Yucatán Peninsula, triggering the mass extinction that wiped out the non-avian dinosaurs and about three-quarters of Earth's species.",
+    "whyItMatters": "The Chicxulub impact is the reason planetary defense missions like DART are taken seriously rather than treated as science fiction.",
+    "tags": [
+      "asteroids"
+    ]
+  },
+  {
+    "id": "space-060",
+    "domain": "space",
+    "hook": "A meteor exploded over Russia with the force of dozens of atomic bombs.",
+    "fact": "In February 2013, a roughly 20-meter asteroid entered the atmosphere over Chelyabinsk, Russia, unseen in advance, and exploded with energy equivalent to about 30 Hiroshima-sized bombs, injuring over 1,000 people mostly from shattered glass.",
+    "whyItMatters": "Because it approached from the sun's direction, no telescope spotted it beforehand — a gap that has pushed agencies to fund better early-warning asteroid surveys.",
+    "tags": [
+      "asteroids"
+    ]
+  },
+  {
+    "id": "space-061",
+    "domain": "space",
+    "hook": "An explosion in Siberia flattened 80 million trees, and no crater was ever found.",
+    "fact": "In 1908, an object — likely a small asteroid or comet fragment that exploded in the atmosphere — flattened roughly 2,000 square kilometers of forest near Tunguska, Siberia, yet left no confirmed impact crater.",
+    "tags": [
+      "asteroids"
+    ]
+  },
+  {
+    "id": "space-062",
+    "domain": "space",
+    "hook": "The most famous comet won't return until 2061.",
+    "fact": "Halley's Comet orbits the sun roughly every 76 years and has been recorded by astronomers since at least 240 BCE; it last appeared in 1986 and isn't due back until 2061.",
+    "tags": [
+      "comets"
+    ]
+  },
+  {
+    "id": "space-063",
+    "domain": "space",
+    "hook": "A comet's tail doesn't trail behind it — it always points away from the sun.",
+    "fact": "Solar wind and radiation pressure push a comet's dust and gas away from the sun regardless of which direction the comet is traveling, so its tail can actually point ahead of it when the comet is heading outward from the sun.",
+    "tags": [
+      "comets"
+    ]
+  },
+  {
+    "id": "space-064",
+    "domain": "space",
+    "hook": "A spacecraft chased a comet for a decade before landing a probe on it.",
+    "fact": "The European Space Agency's Rosetta spacecraft launched in 2004, spent a decade catching up to comet 67P/Churyumov-Gerasimenko, and in 2014 released the lander Philae, achieving the first controlled landing on a comet's nucleus.",
+    "tags": [
+      "exploration",
+      "comets"
+    ]
+  },
+  {
+    "id": "space-065",
+    "domain": "space",
+    "hook": "Astronomers once watched a comet break apart and crash into Jupiter piece by piece.",
+    "fact": "In 1994, comet Shoemaker-Levy 9, torn apart by Jupiter's gravity into more than 20 fragments, collided with the planet over several days, leaving dark scars in its atmosphere larger than Earth.",
+    "tags": [
+      "comets",
+      "jupiter"
+    ]
+  },
+  {
+    "id": "space-066",
+    "domain": "space",
+    "hook": "Most comets come from a shell surrounding the entire solar system.",
+    "fact": "The Oort Cloud is a theorized spherical region of icy debris extending perhaps a light-year from the sun, thought to be the source of long-period comets that take thousands of years to complete a single orbit.",
+    "tags": [
+      "comets",
+      "solar-system"
+    ]
+  },
+  {
+    "id": "space-067",
+    "domain": "space",
+    "hook": "Beyond Neptune lies a vast ring of icy leftovers from the solar system's birth.",
+    "fact": "The Kuiper Belt is a disc-shaped region beyond Neptune's orbit containing hundreds of thousands of icy bodies, including dwarf planets like Pluto and Makemake, left over from the solar system's formation.",
+    "tags": [
+      "solar-system"
+    ]
+  },
+  {
+    "id": "space-068",
+    "domain": "space",
+    "hook": "The sun has dark blemishes that rise and fall on an 11-year cycle.",
+    "fact": "Sunspots are cooler, magnetically intense regions on the sun's surface that appear dark by contrast, and their number rises and falls in a roughly 11-year pattern known as the solar cycle.",
+    "tags": [
+      "sun"
+    ]
+  },
+  {
+    "id": "space-069",
+    "domain": "space",
+    "hook": "The sun's outer atmosphere is hundreds of times hotter than its surface.",
+    "fact": "The sun's visible surface sits around 5,500°C, but its outer atmosphere, the corona, reaches millions of degrees — a puzzle known as the coronal heating problem that scientists still don't fully understand.",
+    "tags": [
+      "sun"
+    ]
+  },
+  {
+    "id": "space-070",
+    "domain": "space",
+    "hook": "A spacecraft has flown directly through the sun's atmosphere.",
+    "fact": "NASA's Parker Solar Probe, launched in 2018, has repeatedly flown through the sun's corona, using a carbon-composite heat shield to survive temperatures exceeding 1,400°C while gathering the closest-ever measurements of a star.",
+    "tags": [
+      "exploration",
+      "sun"
+    ]
+  },
+  {
+    "id": "space-071",
+    "domain": "space",
+    "hook": "The northern lights exist because of a constant stream of particles from the sun.",
+    "fact": "The solar wind — a continuous flow of charged particles from the sun — collides with Earth's magnetic field near the poles, exciting gas molecules that glow and create the aurora borealis and aurora australis.",
+    "tags": [
+      "sun"
+    ]
+  },
+  {
+    "id": "space-072",
+    "domain": "space",
+    "hook": "America's first satellite discovered invisible radiation belts girdling Earth.",
+    "fact": "Explorer 1, the first successful US satellite launched in 1958, carried a Geiger counter that detected zones of trapped radiation now called the Van Allen belts, an unexpected discovery that became the mission's biggest legacy.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-073",
+    "domain": "space",
+    "hook": "The space age began with a beeping metal ball the size of a beach ball.",
+    "fact": "The Soviet Union's Sputnik 1, launched on October 4, 1957, was the first artificial satellite ever put into orbit, and its simple radio beeps were picked up by amateur radio operators around the world.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-074",
+    "domain": "space",
+    "hook": "The first Earth-orbiting traveler was a stray dog from Moscow.",
+    "fact": "In November 1957, the Soviet Union launched a stray dog named Laika aboard Sputnik 2, making her the first animal to orbit Earth; the technology to safely bring her home did not yet exist.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-075",
+    "domain": "space",
+    "hook": "The first human to leave Earth orbited the planet in under two hours.",
+    "fact": "Soviet cosmonaut Yuri Gagarin became the first human in space on April 12, 1961, completing a single orbit of Earth aboard Vostok 1 in 108 minutes.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-076",
+    "domain": "space",
+    "hook": "The first woman in space flew solo, two years after Gagarin.",
+    "fact": "Soviet cosmonaut Valentina Tereshkova became the first woman in space in June 1963, spending almost three days orbiting Earth aboard Vostok 6 — a feat not matched by another woman for 19 years.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-077",
+    "domain": "space",
+    "hook": "The first person to walk in space nearly couldn't get back inside.",
+    "fact": "Cosmonaut Alexei Leonov performed the first spacewalk in March 1965, but his suit ballooned so much in the vacuum that he had to partially deflate it just to squeeze back through the airlock hatch.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-078",
+    "domain": "space",
+    "hook": "America's first spaceflight lasted just 15 minutes.",
+    "fact": "Alan Shepard became the first American in space aboard Freedom 7 on May 5, 1961, in a brief suborbital flight lasting about 15 minutes — far shorter than Gagarin's full orbit weeks earlier.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-079",
+    "domain": "space",
+    "hook": "It took NASA almost a year to catch up and put an American into orbit.",
+    "fact": "John Glenn became the first American to orbit Earth in February 1962 aboard Friendship 7, circling the planet three times in about five hours.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-080",
+    "domain": "space",
+    "hook": "NASA's Apollo program began with a tragedy on the launch pad, not in space.",
+    "fact": "In January 1967, a cabin fire during a launch rehearsal killed astronauts Gus Grissom, Ed White, and Roger Chaffee aboard Apollo 1, leading to a major redesign of the spacecraft before any crewed Apollo mission flew.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-081",
+    "domain": "space",
+    "hook": "The first humans to leave Earth's orbit didn't land on the Moon — they just circled it.",
+    "fact": "Apollo 8 astronauts became the first humans to leave low Earth orbit and circle the Moon in December 1968, and from that mission came the iconic 'Earthrise' photograph of Earth rising over the lunar horizon.",
+    "tags": [
+      "exploration",
+      "moon"
+    ]
+  },
+  {
+    "id": "space-082",
+    "domain": "space",
+    "hook": "The computer that landed astronauts on the Moon had less power than a basic calculator.",
+    "fact": "The Apollo Guidance Computer that helped land the Eagle lunar module in 1969 had about 4 kilobytes of RAM and ran at roughly 1 MHz — a tiny fraction of the computing power in a modern calculator or smartphone.",
+    "whyItMatters": "It's a favorite reminder of how much software and hardware progress has compressed into just a few decades since the Moon landings.",
+    "tags": [
+      "exploration",
+      "moon"
+    ]
+  },
+  {
+    "id": "space-083",
+    "domain": "space",
+    "hook": "During the first Moon landing, one astronaut orbited alone and briefly out of contact with everyone.",
+    "fact": "While Armstrong and Aldrin walked on the Moon in 1969, Command Module pilot Michael Collins orbited overhead alone, losing radio contact with both Earth and his crewmates for about 48 minutes on each orbit as he passed behind the Moon.",
+    "tags": [
+      "exploration",
+      "moon"
+    ]
+  },
+  {
+    "id": "space-084",
+    "domain": "space",
+    "hook": "Apollo 13's failed Moon landing became one of NASA's proudest successes.",
+    "fact": "An oxygen tank explosion crippled Apollo 13 en route to the Moon in 1970, forcing the crew to abandon the landing and use the lunar module as a lifeboat; all three astronauts made it home safely.",
+    "tags": [
+      "exploration",
+      "moon"
+    ]
+  },
+  {
+    "id": "space-085",
+    "domain": "space",
+    "hook": "No human has set foot on the Moon since 1972.",
+    "fact": "Apollo 17 astronauts Eugene Cernan and Harrison Schmitt were the last humans to walk on the Moon, departing in December 1972; more than five decades later, no one has returned.",
+    "tags": [
+      "exploration",
+      "moon"
+    ]
+  },
+  {
+    "id": "space-086",
+    "domain": "space",
+    "hook": "America's first space station fell out of the sky over Australia.",
+    "fact": "Skylab, the first US space station, operated from 1973 to 1974, but its orbit decayed faster than expected and it reentered the atmosphere in 1979, scattering debris across Western Australia — which later fined the US $400 for littering.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-087",
+    "domain": "space",
+    "hook": "One space station stayed in orbit for 15 years, nearly three times its planned lifespan.",
+    "fact": "The Soviet/Russian Mir space station operated from 1986 to 2001 and hosted long-duration missions, including cosmonaut Valeri Polyakov's record 437 consecutive days in space.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-088",
+    "domain": "space",
+    "hook": "Cold War rivals shook hands in orbit in 1975.",
+    "fact": "In July 1975, an American Apollo spacecraft docked with a Soviet Soyuz capsule in orbit, and astronauts and cosmonauts shook hands through the open hatch — a symbolic thaw in space cooperation during the Cold War.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-089",
+    "domain": "space",
+    "hook": "A faulty rubber seal doomed the Challenger space shuttle.",
+    "fact": "The Space Shuttle Challenger broke apart 73 seconds after launch in January 1986 when a failed O-ring seal allowed hot gas to breach a solid rocket booster, killing all seven crew members, including teacher Christa McAuliffe.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-090",
+    "domain": "space",
+    "hook": "A piece of foam the size of a briefcase brought down a space shuttle.",
+    "fact": "In February 2003, Space Shuttle Columbia disintegrated during reentry after a chunk of insulating foam had damaged its wing during launch, killing all seven astronauts aboard and grounding the shuttle fleet for over two years.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-091",
+    "domain": "space",
+    "hook": "The Hubble Space Telescope launched with a flawed mirror and needed glasses.",
+    "fact": "When Hubble launched in 1990, its images were blurry due to a tiny manufacturing flaw in its main mirror; astronauts on a 1993 shuttle servicing mission installed corrective optics that restored its intended sharpness.",
+    "tags": [
+      "exploration",
+      "technology"
+    ]
+  },
+  {
+    "id": "space-092",
+    "domain": "space",
+    "hook": "The James Webb Space Telescope doesn't orbit Earth at all.",
+    "fact": "Unlike Hubble, the James Webb Space Telescope orbits the sun near a gravitational balance point called L2, about 1.5 million kilometers from Earth, where it stays aligned with our planet while shielded from the sun's heat.",
+    "tags": [
+      "exploration",
+      "technology"
+    ]
+  },
+  {
+    "id": "space-093",
+    "domain": "space",
+    "hook": "Two spacecraft leaving the solar system carry a mixtape meant for aliens.",
+    "fact": "Both Voyager probes carry a gold-plated phonograph record containing sounds, music, and images meant to represent humanity and Earth, along with symbolic instructions for any extraterrestrial intelligence that might one day find it.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-094",
+    "domain": "space",
+    "hook": "Before Voyager's golden record, NASA sent a simpler message bolted to a spacecraft.",
+    "fact": "The Pioneer 10 and 11 probes, launched in 1972 and 1973, each carried a small gold-anodized plaque etched with images of a man and woman and a map of Earth's location, designed by Carl Sagan and Frank Drake.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-095",
+    "domain": "space",
+    "hook": "One spacecraft was the first to survive a crossing of the asteroid belt.",
+    "fact": "Pioneer 10, launched in 1972, was the first spacecraft to travel through the asteroid belt and make a close flyby of Jupiter, paving the way for later missions like Voyager and Galileo.",
+    "tags": [
+      "exploration",
+      "history"
+    ]
+  },
+  {
+    "id": "space-096",
+    "domain": "space",
+    "hook": "A NASA spacecraft once dropped a probe straight into Jupiter's crushing atmosphere.",
+    "fact": "In 1995, the Galileo spacecraft released a small probe that plunged into Jupiter's atmosphere, transmitting data for about 58 minutes before being crushed and vaporized by the immense pressure.",
+    "tags": [
+      "exploration",
+      "jupiter"
+    ]
+  },
+  {
+    "id": "space-097",
+    "domain": "space",
+    "hook": "A solar-powered spacecraft is orbiting a planet that gets barely any sunlight.",
+    "fact": "NASA's Juno spacecraft, orbiting Jupiter since 2016, relies on three giant solar arrays despite the planet receiving only about 4% of the sunlight Earth gets — making it one of the most distant solar-powered missions ever flown.",
+    "tags": [
+      "exploration",
+      "jupiter"
+    ]
+  },
+  {
+    "id": "space-098",
+    "domain": "space",
+    "hook": "The first wheels on Mars belonged to a rover the size of a microwave oven.",
+    "fact": "Sojourner, part of the 1997 Mars Pathfinder mission, was the first wheeled rover to operate on another planet — a small solar-powered vehicle that was designed for a week but explored for about 83 days.",
+    "tags": [
+      "exploration",
+      "mars"
+    ]
+  },
+  {
+    "id": "space-099",
+    "domain": "space",
+    "hook": "A Mars rover built to last 90 days kept going for almost 15 years.",
+    "fact": "NASA's Opportunity rover landed on Mars in 2004 with a planned 90-day mission but continued operating until 2018, traveling more than 45 kilometers before a global dust storm finally cut off its solar power.",
+    "tags": [
+      "exploration",
+      "mars"
+    ]
+  },
+  {
+    "id": "space-100",
+    "domain": "space",
+    "hook": "One Mars rover is powered by the heat of decaying plutonium, not sunlight.",
+    "fact": "NASA's Curiosity rover runs on a radioisotope thermoelectric generator that converts heat from decaying plutonium-238 into electricity, giving it steady power unaffected by dust storms or the Martian night.",
+    "tags": [
+      "exploration",
+      "mars"
+    ]
+  },
+  {
+    "id": "space-101",
+    "domain": "space",
+    "hook": "The first powered flight on another planet lasted just 39 seconds.",
+    "fact": "In April 2021, NASA's Ingenuity helicopter became the first aircraft to achieve controlled, powered flight on another planet, hovering above Mars for about 39 seconds in an atmosphere only 1% as dense as Earth's.",
+    "tags": [
+      "exploration",
+      "mars"
+    ]
+  },
+  {
+    "id": "space-102",
+    "domain": "space",
+    "hook": "The first pictures ever taken from the surface of Mars arrived in 1976.",
+    "fact": "NASA's twin Viking landers touched down on Mars in the summer of 1976, becoming the first spacecraft to operate successfully on the Martian surface and send back images and soil analysis.",
+    "tags": [
+      "exploration",
+      "mars"
+    ]
+  },
+  {
+    "id": "space-103",
+    "domain": "space",
+    "hook": "Sunsets on Mars are blue, not red.",
+    "fact": "Because fine dust in the Martian atmosphere scatters light differently than Earth's atmosphere does, sunsets on Mars glow with a bluish tint around the sun — the opposite of Earth's warm-colored sunsets.",
+    "tags": [
+      "mars"
+    ]
+  },
+  {
+    "id": "space-104",
+    "domain": "space",
+    "hook": "One of Mars's moons is slowly spiraling toward its own destruction.",
+    "fact": "Phobos, the larger of Mars's two small moons, is drawing closer to the planet by about 2 centimeters per year and is expected to either crash into Mars or break apart into a ring within 30 to 50 million years.",
+    "tags": [
+      "mars",
+      "moon"
+    ]
+  },
+  {
+    "id": "space-105",
+    "domain": "space",
+    "hook": "The first spacecraft to land successfully on another planet survived less than half an hour.",
+    "fact": "The Soviet Venera 7 became the first spacecraft to transmit data from the surface of another planet when it landed on Venus in 1970, but it survived only about 23 minutes in the planet's crushing heat and pressure before failing.",
+    "tags": [
+      "exploration",
+      "venus"
+    ]
+  },
+  {
+    "id": "space-106",
+    "domain": "space",
+    "hook": "Because clouds hide Venus's surface, NASA had to map it with radar.",
+    "fact": "Venus is permanently shrouded in thick clouds, so NASA's Magellan spacecraft used radar to peer through them in the early 1990s, mapping about 98% of the planet's surface in unprecedented detail.",
+    "tags": [
+      "exploration",
+      "venus"
+    ]
+  },
+  {
+    "id": "space-107",
+    "domain": "space",
+    "hook": "It took a spacecraft over six years and multiple flybys just to slow down enough to orbit Mercury.",
+    "fact": "NASA's MESSENGER spacecraft launched in 2004 but didn't enter orbit around Mercury until 2011, using flybys of Earth, Venus, and Mercury itself to shed enough speed to be captured by the small planet's weak gravity.",
+    "tags": [
+      "exploration",
+      "mercury"
+    ]
+  },
+  {
+    "id": "space-108",
+    "domain": "space",
+    "hook": "India became the first country to land near the Moon's south pole.",
+    "fact": "In August 2023, India's Chandrayaan-3 mission successfully soft-landed near the Moon's south pole, making India the fourth country to achieve a lunar soft landing and the first to touch down in that icy, shadowed region.",
+    "tags": [
+      "exploration",
+      "moon"
+    ]
+  },
+  {
+    "id": "space-109",
+    "domain": "space",
+    "hook": "No spacecraft had ever landed on the Moon's far side until 2019.",
+    "fact": "China's Chang'e 4 mission achieved the first-ever soft landing on the far side of the Moon in January 2019, requiring a relay satellite parked beyond the Moon to communicate with Earth since the far side never faces our planet directly.",
+    "tags": [
+      "exploration",
+      "moon"
+    ]
+  },
+  {
+    "id": "space-110",
+    "domain": "space",
+    "hook": "India reached Mars on its first attempt for less than the budget of many Hollywood films.",
+    "fact": "India's Mars Orbiter Mission, nicknamed Mangalyaan, reached Mars orbit in 2014 on a budget of around $74 million, making India the first nation to succeed at Mars on its maiden attempt and one of the cheapest interplanetary missions ever flown.",
+    "tags": [
+      "exploration",
+      "mars"
+    ]
+  },
+  {
+    "id": "space-111",
+    "domain": "space",
+    "hook": "For decades, rockets were used once and thrown away.",
+    "fact": "In December 2015, SpaceX's Falcon 9 became the first orbital-class rocket to launch a payload to space and then land its first-stage booster upright back on Earth, a milestone toward reusable rocketry.",
+    "whyItMatters": "Reusable boosters have since driven down the cost of reaching orbit, helping fuel a boom in commercial satellite launches.",
+    "tags": [
+      "exploration",
+      "technology"
+    ]
+  },
+  {
+    "id": "space-112",
+    "domain": "space",
+    "hook": "In 2020, a private company launched NASA astronauts to orbit for the first time.",
+    "fact": "SpaceX's Crew Dragon carried NASA astronauts Bob Behnken and Doug Hurley to the International Space Station in May 2020, marking the first crewed orbital flight launched by a commercial company rather than a government space agency.",
+    "whyItMatters": "It ended nearly a decade of NASA relying solely on Russian Soyuz rockets to reach the ISS after the shuttle program retired in 2011.",
+    "tags": [
+      "exploration",
+      "technology"
+    ]
+  },
+  {
+    "id": "space-113",
+    "domain": "space",
+    "hook": "NASA's plan to return astronauts to the Moon is named after Apollo's twin sister.",
+    "fact": "NASA's Artemis program aims to land astronauts on the lunar surface for the first time since 1972; it's named after the Greek goddess Artemis, twin sister of Apollo, the god the earlier Moon program was named for.",
+    "tags": [
+      "exploration",
+      "moon"
+    ]
+  },
+  {
+    "id": "space-114",
+    "domain": "space",
+    "hook": "Earth's orbit is getting cluttered with hundreds of thousands of pieces of junk.",
+    "fact": "Tens of millions of debris fragments — from dead satellites to flecks of paint — are estimated to circle Earth, and scientists warn of a 'Kessler syndrome' scenario where collisions cascade and generate even more debris.",
+    "whyItMatters": "Left unmanaged, orbital debris could make some orbits too hazardous for future satellites and spacecraft to use safely.",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "space-115",
+    "domain": "space",
+    "hook": "Some satellites appear to hang completely motionless in the sky.",
+    "fact": "A satellite placed in geostationary orbit about 35,786 km above the equator takes exactly one day to circle Earth, matching the planet's rotation so it appears fixed over the same spot on the ground — ideal for communications and weather satellites.",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "space-116",
+    "domain": "space",
+    "hook": "Most stars in the universe are red dwarfs.",
+    "fact": "Red dwarfs make up an estimated 70-80% of all stars in the Milky Way, yet not a single one is bright enough to see with the naked eye from Earth.",
+    "tags": [
+      "stars"
+    ]
+  },
+  {
+    "id": "space-117",
+    "domain": "space",
+    "hook": "The Sun will one day shrink to about the size of Earth.",
+    "fact": "After exhausting its fuel and shedding its outer layers, the Sun's core will collapse into a white dwarf roughly Earth-sized but containing about half the Sun's current mass.",
+    "tags": [
+      "stars",
+      "stellar-evolution"
+    ]
+  },
+  {
+    "id": "space-118",
+    "domain": "space",
+    "hook": "A single exploding star can briefly outshine its entire home galaxy.",
+    "fact": "When a massive star explodes as a core-collapse supernova, it can radiate more energy in a few weeks than the Sun emits over billions of years, often outshining every other star in its galaxy combined.",
+    "tags": [
+      "stars",
+      "supernovae"
+    ]
+  },
+  {
+    "id": "space-119",
+    "domain": "space",
+    "hook": "Some dead stars spin faster than a kitchen blender.",
+    "fact": "Millisecond pulsars — rapidly rotating neutron stars — can spin more than 700 times per second, sweeping beams of radiation across space like a lighthouse.",
+    "tags": [
+      "stars",
+      "pulsars"
+    ]
+  },
+  {
+    "id": "space-120",
+    "domain": "space",
+    "hook": "Betelgeuse could explode as a supernova tomorrow, or in 100,000 years.",
+    "fact": "The red supergiant Betelgeuse is nearing the end of its life, but astronomically 'soon' spans a huge range; when it finally goes supernova, it should be visible in broad daylight for weeks.",
+    "tags": [
+      "stars",
+      "supernovae"
+    ]
+  },
+  {
+    "id": "space-121",
+    "domain": "space",
+    "hook": "The coldest known star-like object is about as cold as Antarctica.",
+    "fact": "WISE 0855-0714, the coldest known brown dwarf, has an estimated atmospheric temperature between roughly -48°C and -13°C, placing it in the same range as an Antarctic winter despite being a star-like object.",
+    "tags": [
+      "stars",
+      "brown-dwarfs"
+    ]
+  },
+  {
+    "id": "space-122",
+    "domain": "space",
+    "hook": "Most stars aren't loners like our Sun.",
+    "fact": "More than half of Sun-like stars exist in binary or multiple star systems, orbiting one or more companion stars rather than shining alone.",
+    "tags": [
+      "stars"
+    ]
+  },
+  {
+    "id": "space-123",
+    "domain": "space",
+    "hook": "A star's color tells you its temperature, and it's the opposite of what you'd guess.",
+    "fact": "Blue stars are the hottest, burning above 30,000°C, while red stars are the coolest, at around 3,000°C — reversing the everyday association of red with heat and blue with cold.",
+    "tags": [
+      "stars"
+    ]
+  },
+  {
+    "id": "space-124",
+    "domain": "space",
+    "hook": "Magnetars have the strongest magnetic fields known in the universe.",
+    "fact": "A magnetar's magnetic field can be roughly a quadrillion times stronger than Earth's — powerful enough to distort atoms and, from thousands of kilometers away, wipe the data off a credit card.",
+    "tags": [
+      "stars",
+      "magnetars"
+    ]
+  },
+  {
+    "id": "space-125",
+    "domain": "space",
+    "hook": "Stars are born inside collapsing clouds of gas.",
+    "fact": "New stars form when dense pockets within giant molecular clouds of hydrogen collapse under their own gravity, heating up until nuclear fusion ignites at the core.",
+    "tags": [
+      "stars",
+      "star-formation"
+    ]
+  },
+  {
+    "id": "space-126",
+    "domain": "space",
+    "hook": "The most massive stars burn out the fastest.",
+    "fact": "While the Sun will shine for about 10 billion years, the most massive known stars — dozens of times heavier — exhaust their fuel and die in just a few million years.",
+    "tags": [
+      "stars",
+      "stellar-evolution"
+    ]
+  },
+  {
+    "id": "space-127",
+    "domain": "space",
+    "hook": "A stellar corpse can pack the Sun's mass into a sphere the size of Earth.",
+    "fact": "White dwarfs are stellar remnants so dense that an Earth-sized sphere of one can hold about as much mass as the Sun, held up not by fusion but by a quantum effect called electron degeneracy pressure.",
+    "tags": [
+      "stars",
+      "white-dwarfs"
+    ]
+  },
+  {
+    "id": "space-128",
+    "domain": "space",
+    "hook": "Not every supernova comes from a dying massive star.",
+    "fact": "Type Ia supernovae happen when a white dwarf in a binary system pulls enough material from its companion star to trigger a runaway thermonuclear explosion that destroys it completely.",
+    "whyItMatters": "Because these explosions reach a remarkably consistent peak brightness, astronomers use them as 'standard candles' to measure cosmic distances — the same method that revealed the universe's expansion is accelerating.",
+    "tags": [
+      "stars",
+      "supernovae"
+    ]
+  },
+  {
+    "id": "space-129",
+    "domain": "space",
+    "hook": "The nearest star to Earth besides the Sun is still over four light-years away.",
+    "fact": "Proxima Centauri, part of the Alpha Centauri triple star system, sits about 4.24 light-years from Earth — meaning its light takes over four years to reach us.",
+    "tags": [
+      "stars"
+    ]
+  },
+  {
+    "id": "space-130",
+    "domain": "space",
+    "hook": "You are made of star-stuff, and it's not just poetry.",
+    "fact": "Aside from hydrogen, helium, and trace lithium created in the Big Bang, virtually every other element — including the carbon, oxygen, and iron in your body — was forged inside stars and scattered into space by supernovae.",
+    "whyItMatters": "It's the scientific basis for the idea that the atoms in our bodies were literally cooked inside long-dead stars.",
+    "tags": [
+      "stars",
+      "stellar-evolution"
+    ]
+  },
+  {
+    "id": "space-131",
+    "domain": "space",
+    "hook": "Nobody knows exactly how many stars are in the Milky Way.",
+    "fact": "Because it's difficult to count stars from inside the galaxy's own dusty disk, estimates of the Milky Way's total star population range widely, from roughly 100 billion to 400 billion.",
+    "tags": [
+      "galaxies",
+      "milky-way"
+    ]
+  },
+  {
+    "id": "space-132",
+    "domain": "space",
+    "hook": "Galaxies mostly come in one of two basic shapes.",
+    "fact": "Astronomers broadly classify galaxies as spiral, like the Milky Way, with rotating arms of stars and gas, or elliptical — smooth, rounded collections of older stars with little new star formation.",
+    "tags": [
+      "galaxies"
+    ]
+  },
+  {
+    "id": "space-133",
+    "domain": "space",
+    "hook": "The observable universe may contain about two trillion galaxies.",
+    "fact": "A 2016 analysis of deep Hubble Space Telescope images suggested the observable universe holds roughly ten times more galaxies than previously estimated — around two trillion in total.",
+    "tags": [
+      "galaxies",
+      "universe"
+    ]
+  },
+  {
+    "id": "space-134",
+    "domain": "space",
+    "hook": "Nearly every large galaxy hides a supermassive black hole at its heart.",
+    "fact": "Observations suggest most, if not all, large galaxies harbor a supermassive black hole at their core, with masses ranging from millions to billions of times that of the Sun.",
+    "tags": [
+      "galaxies",
+      "black-holes"
+    ]
+  },
+  {
+    "id": "space-135",
+    "domain": "space",
+    "hook": "Big galaxies grow by eating smaller ones.",
+    "fact": "Large galaxies expand over cosmic time by merging with and absorbing smaller neighboring galaxies, a process astronomers can trace through streams of stars stretched out by tidal forces.",
+    "tags": [
+      "galaxies"
+    ]
+  },
+  {
+    "id": "space-136",
+    "domain": "space",
+    "hook": "Some of the brightest objects in the universe are feeding black holes.",
+    "fact": "Quasars are extraordinarily luminous galactic cores powered by supermassive black holes actively pulling in surrounding gas and dust, which glows fiercely as it's heated to extreme temperatures.",
+    "tags": [
+      "galaxies",
+      "quasars"
+    ]
+  },
+  {
+    "id": "space-137",
+    "domain": "space",
+    "hook": "On the largest scales, the universe looks like a web.",
+    "fact": "Galaxies aren't scattered randomly — they're arranged in vast filaments and clusters separated by enormous empty voids, a structure astronomers call the cosmic web, shaped by the gravity of dark matter.",
+    "tags": [
+      "galaxies",
+      "cosmology"
+    ]
+  },
+  {
+    "id": "space-138",
+    "domain": "space",
+    "hook": "Our solar system sits in a minor side street of the Milky Way.",
+    "fact": "The Sun and its planets lie within the Orion Arm, a smaller spur of the galaxy sandwiched between its two major structures, the Perseus and Sagittarius arms.",
+    "tags": [
+      "galaxies",
+      "milky-way"
+    ]
+  },
+  {
+    "id": "space-139",
+    "domain": "space",
+    "hook": "Tiny galaxies vastly outnumber giant ones.",
+    "fact": "For every large galaxy like the Milky Way, there are far more small dwarf galaxies, some containing as few as a few thousand to a few million stars.",
+    "tags": [
+      "galaxies"
+    ]
+  },
+  {
+    "id": "space-140",
+    "domain": "space",
+    "hook": "Astronomers found a galaxy that seems to be missing its dark matter.",
+    "fact": "In 2018, astronomers identified NGC 1052-DF2, a galaxy that appears to contain little to no dark matter, challenging assumptions that dark matter is a required ingredient for galaxy formation.",
+    "tags": [
+      "galaxies",
+      "dark-matter"
+    ]
+  },
+  {
+    "id": "space-141",
+    "domain": "space",
+    "hook": "Some elliptical galaxies dwarf even the biggest spiral galaxies.",
+    "fact": "Giant elliptical galaxies found at the centers of galaxy clusters can span millions of light-years and contain trillions of stars, far outsizing spiral galaxies like the Milky Way.",
+    "tags": [
+      "galaxies"
+    ]
+  },
+  {
+    "id": "space-142",
+    "domain": "space",
+    "hook": "The first photograph of a galaxy beyond our own was taken in 1888.",
+    "fact": "Using long-exposure photography, astronomer Isaac Roberts captured detailed images of the Andromeda Nebula in 1888 — decades before anyone realized it was a separate galaxy rather than a cloud within the Milky Way.",
+    "tags": [
+      "galaxies",
+      "astronomy-history"
+    ]
+  },
+  {
+    "id": "space-143",
+    "domain": "space",
+    "hook": "Humanity got its first-ever photo of a black hole in 2019.",
+    "fact": "The Event Horizon Telescope — a network of radio observatories spanning the globe acting as one Earth-sized instrument — captured the first direct image of a black hole's shadow, located in the galaxy M87.",
+    "whyItMatters": "It confirmed decades of theoretical predictions about black holes' appearance and proved a powerful new way to study gravity in its most extreme form.",
+    "tags": [
+      "black-holes",
+      "telescopes"
+    ]
+  },
+  {
+    "id": "space-144",
+    "domain": "space",
+    "hook": "Falling into a black hole would stretch you like spaghetti.",
+    "fact": "Near a black hole, gravity pulls so much harder on the near side of an object than the far side that it would stretch anything falling in into a long, thin strand — a process physicists genuinely call 'spaghettification.'",
+    "tags": [
+      "black-holes"
+    ]
+  },
+  {
+    "id": "space-145",
+    "domain": "space",
+    "hook": "Black holes aren't cosmic vacuum cleaners.",
+    "fact": "A black hole's gravity only pulls in objects that stray too close, just like any other mass with the same weight — if the Sun were suddenly swapped for a black hole of equal mass, Earth's orbit wouldn't change.",
+    "tags": [
+      "black-holes"
+    ]
+  },
+  {
+    "id": "space-146",
+    "domain": "space",
+    "hook": "In 2015, scientists heard two black holes collide over a billion light-years away.",
+    "fact": "The LIGO observatory detected ripples in spacetime from two merging black holes, confirming a key prediction of Einstein's general relativity a century after he first made it.",
+    "whyItMatters": "The discovery opened an entirely new way to observe the universe — through gravitational waves instead of light — and earned the 2017 Nobel Prize in Physics.",
+    "tags": [
+      "black-holes",
+      "gravitational-waves"
+    ]
+  },
+  {
+    "id": "space-147",
+    "domain": "space",
+    "hook": "There's a black hole at the exact center of our galaxy.",
+    "fact": "Sagittarius A*, the supermassive black hole at the Milky Way's core, has a mass about 4 million times that of the Sun; its existence was confirmed by tracking individual stars whipping around an invisible point at incredible speed, work honored with the 2020 Nobel Prize in Physics.",
+    "tags": [
+      "black-holes",
+      "milky-way"
+    ]
+  },
+  {
+    "id": "space-148",
+    "domain": "space",
+    "hook": "Black holes might not last forever.",
+    "fact": "Physicist Stephen Hawking proposed that black holes slowly emit faint radiation — now called Hawking radiation — causing them to lose mass and, over unimaginably long timescales, eventually evaporate entirely.",
+    "tags": [
+      "black-holes"
+    ]
+  },
+  {
+    "id": "space-149",
+    "domain": "space",
+    "hook": "Black holes come in more than one size class, and scientists aren't sure how the biggest ones form.",
+    "fact": "Astronomers recognize stellar-mass black holes, formed from collapsing massive stars, and supermassive ones millions to billions of times heavier — but exactly how those giants grew so large so early in the universe is still debated.",
+    "tags": [
+      "black-holes"
+    ]
+  },
+  {
+    "id": "space-150",
+    "domain": "space",
+    "hook": "The 'point of no return' around a black hole has a specific name.",
+    "fact": "The event horizon is the boundary around a black hole beyond which nothing, not even light, can escape its gravitational pull — once crossed, there's no turning back.",
+    "tags": [
+      "black-holes"
+    ]
+  },
+  {
+    "id": "space-151",
+    "domain": "space",
+    "hook": "Some black holes shoot jets of matter at nearly the speed of light.",
+    "fact": "As material spirals into certain black holes, powerful magnetic fields can channel part of it away in narrow jets blasting outward at close to light speed, sometimes stretching for thousands of light-years.",
+    "tags": [
+      "black-holes"
+    ]
+  },
+  {
+    "id": "space-152",
+    "domain": "space",
+    "hook": "There's a missing size class of black hole that astronomers are still hunting for.",
+    "fact": "Intermediate-mass black holes, weighing between hundreds and hundreds of thousands of solar masses, are rare and elusive, bridging the gap between stellar-mass black holes and supermassive ones.",
+    "tags": [
+      "black-holes"
+    ]
+  },
+  {
+    "id": "space-153",
+    "domain": "space",
+    "hook": "Time itself would appear to freeze if you watched something fall into a black hole.",
+    "fact": "Gravity near a black hole's event horizon warps space and time so severely that, to a distant observer, an object falling in would appear to slow down and freeze at the edge rather than visibly cross it.",
+    "tags": [
+      "black-holes"
+    ]
+  },
+  {
+    "id": "space-154",
+    "domain": "space",
+    "hook": "The term 'black hole' didn't catch on until the late 1960s.",
+    "fact": "Although the mathematics describing these objects traces back to Einstein's general relativity, physicist John Wheeler helped popularize the term 'black hole' around 1967.",
+    "tags": [
+      "black-holes",
+      "astronomy-history"
+    ]
+  },
+  {
+    "id": "space-155",
+    "domain": "space",
+    "hook": "A supernova seen in the year 1054 left behind a glowing wreck we still watch today.",
+    "fact": "Chinese astronomers recorded a 'guest star' bright enough to see in daylight in 1054 AD; today, the expanding debris from that explosion forms the Crab Nebula, with a pulsar spinning at its center.",
+    "tags": [
+      "nebulae",
+      "supernovae"
+    ]
+  },
+  {
+    "id": "space-156",
+    "domain": "space",
+    "hook": "Planetary nebulae have nothing to do with planets.",
+    "fact": "Early astronomers named these glowing shells of gas 'planetary nebulae' because they looked like round planetary disks through small telescopes; they're actually outer layers shed by dying Sun-like stars.",
+    "tags": [
+      "nebulae"
+    ]
+  },
+  {
+    "id": "space-157",
+    "domain": "space",
+    "hook": "The famous Pillars of Creation are slowly dissolving.",
+    "fact": "The towering gas columns in the Eagle Nebula, iconic star-forming regions photographed by the Hubble Space Telescope, are gradually being eroded away by radiation from nearby young stars.",
+    "tags": [
+      "nebulae"
+    ]
+  },
+  {
+    "id": "space-158",
+    "domain": "space",
+    "hook": "Some nebulae glow because they're lit from the inside out.",
+    "fact": "Emission nebulae shine with their own light because intense ultraviolet radiation from nearby hot young stars ionizes the surrounding hydrogen gas, causing it to glow in a distinctive red or pink.",
+    "tags": [
+      "nebulae"
+    ]
+  },
+  {
+    "id": "space-159",
+    "domain": "space",
+    "hook": "Some nebulae are visible only because of what they block, not what they emit.",
+    "fact": "Dense clouds of dust and gas called dark nebulae don't glow themselves — they show up as silhouettes because they block the light of stars and glowing gas behind them.",
+    "tags": [
+      "nebulae"
+    ]
+  },
+  {
+    "id": "space-160",
+    "domain": "space",
+    "hook": "You can spot a stellar nursery with your naked eye.",
+    "fact": "Located about 1,300 light-years away, the Orion Nebula is one of the brightest nebulae in the sky and can be seen as a fuzzy patch below Orion's belt without a telescope.",
+    "tags": [
+      "nebulae"
+    ]
+  },
+  {
+    "id": "space-161",
+    "domain": "space",
+    "hook": "Nebulae aren't just pretty — they're where planets get their raw material.",
+    "fact": "The same clouds of gas and dust that glow as nebulae also serve as stellar nurseries, collapsing under gravity to birth new stars and the planetary systems that may form around them.",
+    "tags": [
+      "nebulae",
+      "star-formation"
+    ]
+  },
+  {
+    "id": "space-162",
+    "domain": "space",
+    "hook": "Some nebulae glow the same way fog around a headlight does.",
+    "fact": "Reflection nebulae don't produce their own light; they glow simply by scattering the light of nearby stars off their dust particles, much like fog scatters a car's headlights.",
+    "tags": [
+      "nebulae"
+    ]
+  },
+  {
+    "id": "space-163",
+    "domain": "space",
+    "hook": "The first planet found orbiting a Sun-like star was discovered in 1995.",
+    "fact": "Astronomers Michel Mayor and Didier Queloz discovered 51 Pegasi b, a hot Jupiter-like planet orbiting a Sun-like star, a find that earned them the 2019 Nobel Prize in Physics and launched the modern era of exoplanet science.",
+    "tags": [
+      "exoplanets",
+      "astronomy-history"
+    ]
+  },
+  {
+    "id": "space-164",
+    "domain": "space",
+    "hook": "Most known exoplanets were found by watching stars flicker.",
+    "fact": "The transit method — detecting the tiny drop in a star's brightness as a planet passes in front of it — has identified the majority of the more than 5,000 confirmed exoplanets to date.",
+    "tags": [
+      "exoplanets"
+    ]
+  },
+  {
+    "id": "space-165",
+    "domain": "space",
+    "hook": "A real planet orbits two suns at once, just like Tatooine in Star Wars.",
+    "fact": "Kepler-16b, discovered in 2011, orbits a binary pair of stars locked in their own mutual orbit, making it a real-world circumbinary planet with two sunsets and two sunrises.",
+    "tags": [
+      "exoplanets"
+    ]
+  },
+  {
+    "id": "space-166",
+    "domain": "space",
+    "hook": "The closest known planet outside our solar system orbits our nearest stellar neighbor.",
+    "fact": "Proxima Centauri b orbits within the potentially habitable zone of Proxima Centauri, just over four light-years from Earth, making it the closest known exoplanet to our solar system.",
+    "tags": [
+      "exoplanets"
+    ]
+  },
+  {
+    "id": "space-167",
+    "domain": "space",
+    "hook": "There's a planet where the wind might blow glass sideways.",
+    "fact": "HD 189733 b, a hot Jupiter about 63 light-years away, has extreme winds and a hazy atmosphere thought to contain silicate particles, leading astronomers to describe conditions there as a sideways rain of glass.",
+    "tags": [
+      "exoplanets"
+    ]
+  },
+  {
+    "id": "space-168",
+    "domain": "space",
+    "hook": "One nearby star system has seven roughly Earth-sized planets.",
+    "fact": "TRAPPIST-1, a small red dwarf star about 40 light-years away, hosts seven Earth-sized rocky planets, several of which orbit within or near the star's habitable zone.",
+    "whyItMatters": "It's one of the most promising nearby systems for studying whether small rocky worlds beyond our solar system could support liquid water.",
+    "tags": [
+      "exoplanets"
+    ]
+  },
+  {
+    "id": "space-169",
+    "domain": "space",
+    "hook": "Some planets are hot enough to have atmospheres made of vaporized metal.",
+    "fact": "Ultra-hot Jupiters orbiting extremely close to their stars can reach atmospheric temperatures over 2,000°C, hot enough to vaporize metals and strip away their outer atmospheres into long, comet-like tails.",
+    "tags": [
+      "exoplanets"
+    ]
+  },
+  {
+    "id": "space-170",
+    "domain": "space",
+    "hook": "Telescopes can now sniff the air of planets light-years away.",
+    "fact": "By analyzing how starlight filters through a planet's atmosphere during a transit, telescopes like the James Webb Space Telescope can detect specific molecules, such as water vapor or carbon dioxide, in exoplanet atmospheres.",
+    "whyItMatters": "This technique is central to the search for potentially habitable worlds and even biosignatures beyond our solar system.",
+    "tags": [
+      "exoplanets",
+      "telescopes"
+    ]
+  },
+  {
+    "id": "space-171",
+    "domain": "space",
+    "hook": "Being in the 'habitable zone' doesn't guarantee a planet is actually livable.",
+    "fact": "A planet orbiting within the range of distances where liquid water could theoretically exist on its surface is said to be in the habitable zone, but factors like atmosphere, magnetic field, and composition also determine whether it's truly hospitable.",
+    "tags": [
+      "exoplanets"
+    ]
+  },
+  {
+    "id": "space-172",
+    "domain": "space",
+    "hook": "Some planets drift through space with no star to call home.",
+    "fact": "Rogue planets have been ejected from their original star systems, or may have formed independently, wandering through interstellar space untethered to any sun — astronomers estimate there could be billions of them in the Milky Way alone.",
+    "tags": [
+      "exoplanets"
+    ]
+  },
+  {
+    "id": "space-173",
+    "domain": "space",
+    "hook": "The universe is about 13.8 billion years old.",
+    "fact": "By measuring the cosmic microwave background and the universe's expansion rate, scientists have calculated its age at approximately 13.8 billion years since the Big Bang.",
+    "tags": [
+      "cosmology",
+      "big-bang"
+    ]
+  },
+  {
+    "id": "space-174",
+    "domain": "space",
+    "hook": "The Big Bang wasn't an explosion happening inside space.",
+    "fact": "Rather than matter blasting outward into an existing void, the Big Bang describes space itself stretching and expanding from an extremely hot, dense state, carrying galaxies apart as it grows.",
+    "tags": [
+      "cosmology",
+      "big-bang"
+    ]
+  },
+  {
+    "id": "space-175",
+    "domain": "space",
+    "hook": "There's leftover heat from the Big Bang detectable everywhere in the sky.",
+    "fact": "The cosmic microwave background is faint radiation permeating the entire universe, released about 380,000 years after the Big Bang when the cosmos cooled enough for light to travel freely for the first time.",
+    "tags": [
+      "cosmology",
+      "big-bang"
+    ]
+  },
+  {
+    "id": "space-176",
+    "domain": "space",
+    "hook": "The observable universe is far bigger than its age would suggest.",
+    "fact": "Because space itself has been expanding since the Big Bang, the most distant light reaching us today left galaxies that are now much farther away than 13.8 billion light-years — giving the observable universe a diameter of roughly 93 billion light-years.",
+    "tags": [
+      "cosmology",
+      "universe"
+    ]
+  },
+  {
+    "id": "space-177",
+    "domain": "space",
+    "hook": "Almost all the hydrogen and helium in the universe formed within minutes of the Big Bang.",
+    "fact": "In a process called Big Bang nucleosynthesis, the universe's first light elements — mostly hydrogen and helium, with trace lithium — formed within roughly the first twenty minutes of cosmic history.",
+    "tags": [
+      "cosmology",
+      "big-bang"
+    ]
+  },
+  {
+    "id": "space-178",
+    "domain": "space",
+    "hook": "The farther away a galaxy is, the faster it seems to be racing away from us.",
+    "fact": "Edwin Hubble's observation that distant galaxies recede at speeds proportional to their distance, now called Hubble's Law, provided the first strong evidence that the universe is expanding.",
+    "whyItMatters": "It laid the observational groundwork for the entire Big Bang model of the universe's origin.",
+    "tags": [
+      "cosmology",
+      "hubble"
+    ]
+  },
+  {
+    "id": "space-179",
+    "domain": "space",
+    "hook": "Light from the most distant galaxies arrives stretched into redder colors.",
+    "fact": "As the universe expands, light traveling through it gets stretched to longer, redder wavelengths — a phenomenon called redshift that astronomers use to measure how far away and how fast distant galaxies are receding.",
+    "tags": [
+      "cosmology"
+    ]
+  },
+  {
+    "id": "space-180",
+    "domain": "space",
+    "hook": "For a fraction of a second, the universe may have expanded faster than light.",
+    "fact": "The theory of cosmic inflation proposes that in an instant after the Big Bang, the universe expanded exponentially — faster than the speed of light, since it was space itself stretching, not objects moving through it, which relativity permits.",
+    "tags": [
+      "cosmology",
+      "big-bang"
+    ]
+  },
+  {
+    "id": "space-181",
+    "domain": "space",
+    "hook": "Ordinary matter makes up less than 5% of the universe.",
+    "fact": "Current cosmological models estimate the universe is about 68% dark energy, 27% dark matter, and under 5% ordinary matter — the atoms that make up stars, planets, and everything visible.",
+    "whyItMatters": "It means everything humans have ever seen or touched — every star, planet, and person — is a tiny fraction of what actually exists.",
+    "tags": [
+      "cosmology",
+      "dark-matter"
+    ]
+  },
+  {
+    "id": "space-182",
+    "domain": "space",
+    "hook": "The visible universe is a small fraction of everything that's actually out there.",
+    "fact": "Even the bright galaxies astronomers can observe are vastly outweighed by invisible dark matter and dark energy, meaning the luminous universe we can see represents only a sliver of the total cosmos.",
+    "tags": [
+      "cosmology",
+      "dark-matter"
+    ]
+  },
+  {
+    "id": "space-183",
+    "domain": "space",
+    "hook": "The early universe went through a stretch with no stars at all.",
+    "fact": "For roughly the first few hundred million years after the Big Bang, no stars had yet formed to produce light, a period cosmologists call the cosmic dark ages, which ended once the first stars ignited.",
+    "tags": [
+      "cosmology",
+      "big-bang"
+    ]
+  },
+  {
+    "id": "space-184",
+    "domain": "space",
+    "hook": "Scientists debate whether the universe will end in ice or in a rip.",
+    "fact": "Depending on how dark energy behaves over time, cosmologists have proposed competing fates for the universe, including a 'Big Freeze' of eternal cold expansion or a 'Big Rip' that tears galaxies, stars, and even atoms apart.",
+    "tags": [
+      "cosmology"
+    ]
+  },
+  {
+    "id": "space-185",
+    "domain": "space",
+    "hook": "Dark matter has never actually been seen, only inferred.",
+    "fact": "Despite making up about 27% of the universe's mass-energy content, dark matter has never been directly detected — its existence is inferred entirely from its gravitational effects on galaxies and light.",
+    "tags": [
+      "dark-matter"
+    ]
+  },
+  {
+    "id": "space-186",
+    "domain": "space",
+    "hook": "Galaxies spin in a way that shouldn't be possible without invisible matter holding them together.",
+    "fact": "Stars at the outer edges of spiral galaxies orbit far faster than the visible matter alone could explain; astronomer Vera Rubin's studies of these galaxy rotation curves in the 1970s provided key evidence for dark matter.",
+    "whyItMatters": "Her work is widely credited with turning dark matter from a fringe idea into a cornerstone of modern cosmology.",
+    "tags": [
+      "dark-matter",
+      "galaxies"
+    ]
+  },
+  {
+    "id": "space-187",
+    "domain": "space",
+    "hook": "Dark matter and dark energy are two completely different mysteries.",
+    "fact": "Dark matter is an invisible form of matter that adds extra gravity, helping hold galaxies together, while dark energy is a mysterious force pushing the universe's expansion to accelerate — similar names, opposite jobs.",
+    "tags": [
+      "dark-matter",
+      "dark-energy"
+    ]
+  },
+  {
+    "id": "space-188",
+    "domain": "space",
+    "hook": "A galaxy cluster collision gave astronomers some of their best evidence for dark matter.",
+    "fact": "In the Bullet Cluster, two galaxy clusters collided, and gravitational lensing revealed that most of the mass — presumably dark matter — had passed through the collision separately from the visible, colliding gas.",
+    "tags": [
+      "dark-matter",
+      "cosmology"
+    ]
+  },
+  {
+    "id": "space-189",
+    "domain": "space",
+    "hook": "Einstein once called an idea his 'biggest blunder' — it may have foreshadowed dark energy.",
+    "fact": "Einstein added a 'cosmological constant' to his equations to keep the universe static, then abandoned it as a mistake once Hubble showed the universe was expanding — but a very similar constant is now used to model dark energy's effect.",
+    "whyItMatters": "A concept Einstein discarded as an error turned out to closely resemble one of the biggest open questions in modern physics.",
+    "tags": [
+      "dark-energy",
+      "astronomy-history"
+    ]
+  },
+  {
+    "id": "space-190",
+    "domain": "space",
+    "hook": "The term 'dark energy' is only a few decades old.",
+    "fact": "Cosmologist Michael Turner coined the term 'dark energy' in 1998 to describe the mysterious force behind the universe's accelerating expansion, deliberately echoing the already-established term 'dark matter.'",
+    "tags": [
+      "dark-energy",
+      "cosmology"
+    ]
+  },
+  {
+    "id": "space-191",
+    "domain": "space",
+    "hook": "The James Webb Space Telescope sees the universe in a completely different kind of light than Hubble.",
+    "fact": "Unlike the Hubble Space Telescope, which mainly observes visible and ultraviolet light, JWST is optimized to detect infrared light, letting it peer through dust clouds and see some of the earliest, most distant galaxies.",
+    "tags": [
+      "telescopes"
+    ]
+  },
+  {
+    "id": "space-192",
+    "domain": "space",
+    "hook": "Pulsars were discovered by accident by a graduate student combing through data.",
+    "fact": "In 1967, astronomer Jocelyn Bell Burnell noticed a strange, precisely regular radio pulse while analyzing telescope data for her PhD; the signal turned out to be the first pulsar ever detected — a rapidly spinning neutron star.",
+    "tags": [
+      "pulsars",
+      "astronomy-history"
+    ]
+  },
+  {
+    "id": "space-193",
+    "domain": "space",
+    "hook": "Some observatories detect gravity itself instead of light.",
+    "fact": "Gravitational-wave observatories like LIGO and Virgo don't use light at all — they detect infinitesimally tiny distortions in spacetime caused by cataclysmic events like colliding black holes or neutron stars.",
+    "tags": [
+      "telescopes",
+      "gravitational-waves"
+    ]
+  },
+  {
+    "id": "space-194",
+    "domain": "space",
+    "hook": "Astronomers linked radio telescopes worldwide to build one giant, Earth-sized telescope.",
+    "fact": "A technique called very-long-baseline interferometry links radio observatories across the globe so they function together as a single telescope, with resolution sharp enough to image a black hole's shadow.",
+    "tags": [
+      "telescopes"
+    ]
+  },
+  {
+    "id": "space-195",
+    "domain": "space",
+    "hook": "Gamma-ray bursts are the most powerful explosions seen since the Big Bang.",
+    "fact": "Gamma-ray bursts can release more energy in seconds than the Sun will emit over its entire lifetime, and are thought to originate from the collapse of massive stars or the collision of neutron stars.",
+    "tags": [
+      "gamma-ray-bursts"
+    ]
+  },
+  {
+    "id": "space-196",
+    "domain": "space",
+    "hook": "The Hubble Space Telescope's launch nearly ended in embarrassment over a tiny manufacturing flaw.",
+    "fact": "When Hubble launched in 1990, its primary mirror had a defect just a fraction of the width of a human hair, blurring its images until a 1993 spacewalk mission installed corrective optics to fix it.",
+    "tags": [
+      "telescopes",
+      "astronomy-history"
+    ]
+  },
+  {
+    "id": "space-197",
+    "domain": "space",
+    "hook": "One of astronomy's most famous images came from staring at seemingly empty sky.",
+    "fact": "The Hubble Deep Field and its successors were created by pointing the telescope at a patch of sky that looked completely blank for over a hundred hours, revealing thousands of previously unseen distant galaxies.",
+    "tags": [
+      "telescopes",
+      "universe"
+    ]
+  },
+  {
+    "id": "space-198",
+    "domain": "space",
+    "hook": "Physicists have invented names for dark matter candidates that sound like household appliances.",
+    "fact": "Researchers have proposed several possible identities for dark matter, including WIMPs (weakly interacting massive particles) and MACHOs (massive compact halo objects), though its true nature remains unconfirmed.",
+    "tags": [
+      "dark-matter"
+    ]
+  },
+  {
+    "id": "space-199",
+    "domain": "space",
+    "hook": "Some stars pulse like a heartbeat, and that rhythm reveals their true brightness.",
+    "fact": "Cepheid variable stars regularly brighten and dim in a pattern directly tied to their actual luminosity, letting astronomers use them as reliable 'standard candles' to measure distances across the galaxy and beyond.",
+    "tags": [
+      "stars",
+      "astronomical-distances"
+    ]
+  },
+  {
+    "id": "space-200",
+    "domain": "space",
+    "hook": "The Moon is drifting away from Earth by about the width of a fingernail every year.",
+    "fact": "The Moon moves roughly 3.8 centimeters farther from Earth annually, a rate measured precisely using laser reflectors left on the lunar surface by Apollo astronauts.",
+    "tags": [
+      "moon",
+      "measurement"
+    ]
   }
 ]

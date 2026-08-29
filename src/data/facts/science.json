@@ -5,7 +5,10 @@
     "hook": "Your bones are basically alive scaffolding.",
     "fact": "The human skeleton completely replaces itself roughly every 10 years through a constant cycle of cells breaking down old bone and building new bone.",
     "whyItMatters": "It's why bones can heal from fractures and adapt their density to how much load they carry.",
-    "tags": ["biology", "human-body"],
+    "tags": [
+      "biology",
+      "human-body"
+    ],
     "translations": {
       "fr": {
         "hook": "Vos os sont en réalité un échafaudage vivant.",
@@ -30,7 +33,10 @@
     "hook": "Water can boil and freeze at the same time.",
     "fact": "At a specific combination of temperature and pressure called the 'triple point,' a substance like water can exist as solid, liquid, and gas simultaneously.",
     "whyItMatters": "Triple points are so precise and reproducible that they're used to calibrate thermometers worldwide.",
-    "tags": ["physics", "chemistry"],
+    "tags": [
+      "physics",
+      "chemistry"
+    ],
     "translations": {
       "fr": {
         "hook": "L'eau peut bouillir et geler en même temps.",
@@ -55,7 +61,10 @@
     "hook": "Octopuses have three hearts.",
     "fact": "Two of an octopus's hearts pump blood to its gills, while the third pumps blood to the rest of its body — and that main heart actually stops beating while it swims.",
     "whyItMatters": "It's part of why octopuses prefer crawling over swimming: swimming exhausts them.",
-    "tags": ["biology", "animals"],
+    "tags": [
+      "biology",
+      "animals"
+    ],
     "translations": {
       "fr": {
         "hook": "Les poulpes ont trois cœurs.",
@@ -79,7 +88,10 @@
     "domain": "science",
     "hook": "Glass is technically still moving.",
     "fact": "Glass is an amorphous solid, meaning its molecules are arranged more like a very slow-flowing liquid than a crystal — though at room temperature that flow is so slow it would take longer than the age of the universe to notice.",
-    "tags": ["physics", "materials"],
+    "tags": [
+      "physics",
+      "materials"
+    ],
     "translations": {
       "fr": {
         "hook": "Le verre est techniquement toujours en mouvement.",
@@ -101,7 +113,10 @@
     "hook": "You share about 60% of your DNA with a banana.",
     "fact": "Because so much of DNA codes for basic cellular machinery shared across all life, humans and bananas overlap significantly at the genetic level despite looking nothing alike.",
     "whyItMatters": "It's a reminder that DNA similarity measures shared ancient biology, not overall likeness.",
-    "tags": ["biology", "genetics"],
+    "tags": [
+      "biology",
+      "genetics"
+    ],
     "translations": {
       "fr": {
         "hook": "Vous partagez environ 60 % de votre ADN avec une banane.",
@@ -125,7 +140,10 @@
     "domain": "science",
     "hook": "Lightning is hotter than the sun's surface.",
     "fact": "A single lightning bolt can reach around 30,000 Kelvin — roughly five times hotter than the surface of the sun, for a flash lasting a fraction of a second.",
-    "tags": ["physics", "weather"],
+    "tags": [
+      "physics",
+      "weather"
+    ],
     "translations": {
       "fr": {
         "hook": "La foudre est plus chaude que la surface du soleil.",
@@ -146,7 +164,10 @@
     "domain": "science",
     "hook": "Your stomach lining renews itself every few days.",
     "fact": "Stomach acid is strong enough to dissolve metal over time, so the stomach replaces its protective mucus lining every 3 to 4 days to keep from digesting itself.",
-    "tags": ["biology", "human-body"],
+    "tags": [
+      "biology",
+      "human-body"
+    ],
     "translations": {
       "fr": {
         "hook": "La paroi de votre estomac se renouvelle tous les quelques jours.",
@@ -167,7 +188,10 @@
     "domain": "science",
     "hook": "There's a metal that melts in your hand.",
     "fact": "Gallium has a melting point of about 29.8°C (85.6°F), just below normal body temperature, so a solid piece will slowly liquefy when held in your palm.",
-    "tags": ["chemistry", "materials"],
+    "tags": [
+      "chemistry",
+      "materials"
+    ],
     "translations": {
       "fr": {
         "hook": "Il existe un métal qui fond dans la main.",
@@ -189,7 +213,10 @@
     "hook": "Antibiotics don't work on colds.",
     "fact": "Antibiotics kill bacteria, but the common cold is caused by viruses — which is why doctors say antibiotics won't help, and overusing them instead speeds up antibiotic resistance.",
     "whyItMatters": "Misusing antibiotics for viral infections is a major driver of drug-resistant bacteria.",
-    "tags": ["medicine", "biology"],
+    "tags": [
+      "medicine",
+      "biology"
+    ],
     "translations": {
       "fr": {
         "hook": "Les antibiotiques n'ont aucun effet sur un rhume.",
@@ -213,7 +240,9 @@
     "domain": "science",
     "hook": "Sound can't travel through space.",
     "fact": "Sound needs a medium — air, water, or solid matter — to travel as vibrations. The vacuum of space has essentially no particles, so it's completely silent.",
-    "tags": ["physics"],
+    "tags": [
+      "physics"
+    ],
     "translations": {
       "fr": {
         "hook": "Le son ne peut pas voyager dans l'espace.",
@@ -234,7 +263,10 @@
     "domain": "science",
     "hook": "Some jellyfish are biologically immortal.",
     "fact": "Turritopsis dohrnii, sometimes called the 'immortal jellyfish,' can revert its cells back to an earlier stage of life when stressed or injured, effectively resetting its age.",
-    "tags": ["biology", "animals"],
+    "tags": [
+      "biology",
+      "animals"
+    ],
     "translations": {
       "fr": {
         "hook": "Certaines méduses sont biologiquement immortelles.",
@@ -255,7 +287,10 @@
     "domain": "science",
     "hook": "A teaspoon of neutron star would weigh billions of tons.",
     "fact": "Neutron stars pack roughly the mass of the sun into a sphere about 20km wide, making their material so dense that a teaspoon of it would weigh around 4 billion tons on Earth.",
-    "tags": ["physics", "astronomy"],
+    "tags": [
+      "physics",
+      "astronomy"
+    ],
     "translations": {
       "fr": {
         "hook": "Une cuillère à café d'étoile à neutrons pèserait des milliards de tonnes.",
@@ -276,7 +311,10 @@
     "domain": "science",
     "hook": "Bananas are naturally, mildly radioactive.",
     "fact": "Bananas are high in potassium, a small fraction of which is the naturally occurring radioactive isotope potassium-40 — though the dose is far too tiny to pose any health risk.",
-    "tags": ["chemistry", "physics"],
+    "tags": [
+      "chemistry",
+      "physics"
+    ],
     "translations": {
       "fr": {
         "hook": "Les bananes sont naturellement, légèrement radioactives.",
@@ -297,7 +335,10 @@
     "domain": "science",
     "hook": "Your body has more bacterial cells than you'd think.",
     "fact": "Estimates suggest the human body hosts roughly as many microbial cells as human cells, most living in the gut and playing a role in digestion and immunity.",
-    "tags": ["biology", "human-body"],
+    "tags": [
+      "biology",
+      "human-body"
+    ],
     "translations": {
       "fr": {
         "hook": "Votre corps abrite plus de cellules bactériennes que vous ne le pensez.",
@@ -318,7 +359,10 @@
     "domain": "science",
     "hook": "Diamonds can be made from thin air, sort of.",
     "fact": "Some companies now grow diamonds in labs by using carbon captured from the atmosphere, replicating the heat and pressure conditions found deep underground.",
-    "tags": ["chemistry", "technology"],
+    "tags": [
+      "chemistry",
+      "technology"
+    ],
     "translations": {
       "fr": {
         "hook": "On peut désormais fabriquer des diamants à partir de l'air, ou presque.",
@@ -339,7 +383,10 @@
     "domain": "science",
     "hook": "Honey never spoils.",
     "fact": "Archaeologists have found pots of honey in ancient Egyptian tombs that were still edible thousands of years later, thanks to honey's low moisture and natural acidity, which prevent bacteria from surviving.",
-    "tags": ["chemistry", "biology"],
+    "tags": [
+      "chemistry",
+      "biology"
+    ],
     "translations": {
       "fr": {
         "hook": "Le miel ne se périme jamais.",
@@ -360,7 +407,10 @@
     "domain": "science",
     "hook": "Your brain uses about 20% of your body's energy.",
     "fact": "Despite being only about 2% of body weight, the brain consumes roughly a fifth of the body's total energy, mostly to keep neurons firing and maintaining electrical signals.",
-    "tags": ["biology", "human-body"],
+    "tags": [
+      "biology",
+      "human-body"
+    ],
     "translations": {
       "fr": {
         "hook": "Votre cerveau consomme environ 20 % de l'énergie de votre corps.",
@@ -381,7 +431,10 @@
     "domain": "science",
     "hook": "Sharks existed before trees.",
     "fact": "Sharks appeared in the fossil record around 400 million years ago, roughly 50 million years before the first trees evolved.",
-    "tags": ["biology", "evolution"],
+    "tags": [
+      "biology",
+      "evolution"
+    ],
     "translations": {
       "fr": {
         "hook": "Les requins existaient avant les arbres.",
@@ -403,7 +456,10 @@
     "hook": "Ice is one of the few solids that floats on its own liquid.",
     "fact": "Water is unusual in that it expands when it freezes, making ice less dense than liquid water — which is why it floats.",
     "whyItMatters": "Frozen lakes freeze from the top down, insulating the water below so fish and other life can survive winter.",
-    "tags": ["chemistry", "physics"],
+    "tags": [
+      "chemistry",
+      "physics"
+    ],
     "translations": {
       "fr": {
         "hook": "La glace est l'un des rares solides qui flottent sur leur propre liquide.",
@@ -427,7 +483,10 @@
     "domain": "science",
     "hook": "Octopus blood is blue.",
     "fact": "Octopuses and squid use a copper-based molecule called hemocyanin to carry oxygen in their blood, instead of the iron-based hemoglobin that makes human blood red.",
-    "tags": ["biology", "animals"],
+    "tags": [
+      "biology",
+      "animals"
+    ],
     "translations": {
       "fr": {
         "hook": "Le sang du poulpe est bleu.",
@@ -448,7 +507,10 @@
     "domain": "science",
     "hook": "Lightning strikes Earth 44 times every second.",
     "fact": "On average, lightning strikes somewhere on the planet about 44 times per second, adding up to roughly 8 million strikes a day.",
-    "tags": ["weather", "physics"],
+    "tags": [
+      "weather",
+      "physics"
+    ],
     "translations": {
       "fr": {
         "hook": "La foudre frappe la Terre 44 fois par seconde.",
@@ -469,7 +531,10 @@
     "domain": "science",
     "hook": "The Eiffel Tower grows taller in summer.",
     "fact": "Heat makes the Eiffel Tower's iron structure expand, adding around 15 centimeters to its height on hot summer days compared to winter.",
-    "tags": ["physics", "materials"],
+    "tags": [
+      "physics",
+      "materials"
+    ],
     "translations": {
       "fr": {
         "hook": "La tour Eiffel grandit en été.",
@@ -490,7 +555,9 @@
     "domain": "science",
     "hook": "Sound moves about four times faster through water than air.",
     "fact": "Because water molecules are packed much more tightly than air molecules, sound waves travel through water at roughly 1,480 meters per second, compared to about 340 in air.",
-    "tags": ["physics"],
+    "tags": [
+      "physics"
+    ],
     "translations": {
       "fr": {
         "hook": "Le son se déplace environ quatre fois plus vite dans l'eau que dans l'air.",
@@ -511,7 +578,10 @@
     "domain": "science",
     "hook": "Hot water can sometimes freeze faster than cold water.",
     "fact": "Under certain conditions, hot water freezes faster than cold water — a puzzling effect named after Erasto Mpemba, the Tanzanian student who documented it in 1963. Scientists still debate exactly why it happens.",
-    "tags": ["physics", "chemistry"],
+    "tags": [
+      "physics",
+      "chemistry"
+    ],
     "translations": {
       "fr": {
         "hook": "L'eau chaude peut parfois geler plus vite que l'eau froide.",
@@ -532,7 +602,10 @@
     "domain": "science",
     "hook": "Your cells repair tens of thousands of DNA errors every day.",
     "fact": "Everyday processes like sunlight, chemicals, and simple cell division damage DNA constantly — the body's repair enzymes fix tens of thousands of these breaks and errors per cell, per day.",
-    "tags": ["biology", "genetics"],
+    "tags": [
+      "biology",
+      "genetics"
+    ],
     "translations": {
       "fr": {
         "hook": "Vos cellules réparent des dizaines de milliers d'erreurs d'ADN chaque jour.",
@@ -553,7 +626,10 @@
     "domain": "science",
     "hook": "There are more possible chess games than atoms in the universe.",
     "fact": "The number of distinct ways a chess game can unfold, known as the Shannon number, is estimated at around 10^120 — far more than the roughly 10^80 atoms thought to exist in the observable universe.",
-    "tags": ["math", "trivia"],
+    "tags": [
+      "math",
+      "trivia"
+    ],
     "translations": {
       "fr": {
         "hook": "Il existe plus de parties d'échecs possibles que d'atomes dans l'univers.",
@@ -574,7 +650,10 @@
     "domain": "science",
     "hook": "Your jaw muscle is the strongest one in your body, pound for pound.",
     "fact": "The masseter, the muscle used for chewing, can generate more force relative to its size than any other muscle in the human body.",
-    "tags": ["biology", "human-body"],
+    "tags": [
+      "biology",
+      "human-body"
+    ],
     "translations": {
       "fr": {
         "hook": "Votre muscle de la mâchoire est le plus puissant de votre corps, à taille égale.",
@@ -595,7 +674,10 @@
     "domain": "science",
     "hook": "Elephants can recognize themselves in a mirror.",
     "fact": "Elephants are among a small handful of species — along with humans, great apes, and dolphins — that have passed the mirror self-recognition test, suggesting a form of self-awareness.",
-    "tags": ["biology", "animals"],
+    "tags": [
+      "biology",
+      "animals"
+    ],
     "translations": {
       "fr": {
         "hook": "Les éléphants se reconnaissent dans un miroir.",
@@ -616,7 +698,10 @@
     "domain": "science",
     "hook": "A single cloud can weigh over a million pounds.",
     "fact": "A typical cumulus cloud contains so many water droplets that it can weigh well over a million pounds — the droplets are simply spread out and light enough to stay airborne.",
-    "tags": ["weather", "physics"],
+    "tags": [
+      "weather",
+      "physics"
+    ],
     "translations": {
       "fr": {
         "hook": "Un seul nuage peut peser plus d'un million de livres.",
@@ -637,7 +722,10 @@
     "domain": "science",
     "hook": "The human eye can distinguish about 10 million colors.",
     "fact": "Three types of light-sensitive cone cells in the retina work together to let most people perceive an estimated 10 million distinct shades of color.",
-    "tags": ["biology", "human-body"],
+    "tags": [
+      "biology",
+      "human-body"
+    ],
     "translations": {
       "fr": {
         "hook": "L'œil humain peut distinguer environ 10 millions de couleurs.",
@@ -658,7 +746,10 @@
     "domain": "science",
     "hook": "Tardigrades can survive being frozen, boiled, and shot into space.",
     "fact": "These microscopic 'water bears' can survive extreme cold near absolute zero, intense heat, total dehydration, and even the vacuum of space, entering a dormant state until conditions improve.",
-    "tags": ["biology", "animals"],
+    "tags": [
+      "biology",
+      "animals"
+    ],
     "translations": {
       "fr": {
         "hook": "Les tardigrades peuvent survivre au gel, à l'ébullition et même au vide spatial.",
@@ -679,7 +770,10 @@
     "domain": "science",
     "hook": "Wombats poop in cubes.",
     "fact": "Wombat droppings come out cube-shaped, a quirk caused by varying elasticity in sections of their intestines — the flat sides keep the droppings from rolling away once used to mark territory.",
-    "tags": ["biology", "animals"],
+    "tags": [
+      "biology",
+      "animals"
+    ],
     "translations": {
       "fr": {
         "hook": "Les wombats font des crottes cubiques.",
@@ -700,7 +794,9 @@
     "domain": "science",
     "hook": "Venom and poison aren't the same thing.",
     "fact": "Venom has to be injected into the body to cause harm, usually through a bite or sting, while poison causes harm if it's touched, inhaled, or eaten.",
-    "tags": ["biology"],
+    "tags": [
+      "biology"
+    ],
     "translations": {
       "fr": {
         "hook": "Venin et poison ne sont pas la même chose.",
@@ -721,7 +817,10 @@
     "domain": "science",
     "hook": "The five-second rule doesn't really hold up.",
     "fact": "Research on dropped food has found that bacteria can transfer to food almost instantly on contact with a surface — often in under a second, regardless of how quickly it's picked back up.",
-    "tags": ["biology", "myths"],
+    "tags": [
+      "biology",
+      "myths"
+    ],
     "translations": {
       "fr": {
         "hook": "La règle des cinq secondes ne tient pas vraiment la route.",
@@ -742,7 +841,10 @@
     "domain": "science",
     "hook": "Crows can recognize individual human faces — and hold grudges.",
     "fact": "Studies have shown crows can distinguish specific human faces, remember people who have threatened them, and even pass that information on to other crows for years afterward.",
-    "tags": ["biology", "animals"],
+    "tags": [
+      "biology",
+      "animals"
+    ],
     "translations": {
       "fr": {
         "hook": "Les corbeaux reconnaissent des visages humains précis — et gardent rancune.",
@@ -757,5 +859,1653 @@
         "fact": "Estudios han demostrado que los cuervos pueden distinguir caras humanas concretas, recordar a las personas que los han amenazado e incluso transmitir esa información a otros cuervos durante años."
       }
     }
+  },
+  {
+    "id": "science-036",
+    "domain": "science",
+    "hook": "Absolute zero is a wall you can approach but never touch.",
+    "fact": "Absolute zero, 0 Kelvin (-273.15°C), is the theoretical point where atomic motion stops entirely, but the third law of thermodynamics means it can only be approached asymptotically, never fully reached.",
+    "whyItMatters": "Scientists have gotten within a billionth of a degree of it in labs, which is how ultra-precise atomic clocks and quantum computers stay stable.",
+    "tags": [
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": "science-037",
+    "domain": "science",
+    "hook": "Diamond and pencil lead are made of the exact same element.",
+    "fact": "Both diamond and graphite are pure carbon — the only difference is how the atoms are arranged. Diamond's atoms lock into a rigid 3D lattice, making it the hardest natural material, while graphite's atoms form loosely stacked sheets that slide apart easily.",
+    "tags": [
+      "chemistry",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-038",
+    "domain": "science",
+    "hook": "That doorknob shock could be thousands of volts.",
+    "fact": "A static electricity spark from touching a doorknob can carry 10,000+ volts, but the current behind it is so tiny and brief that it barely registers as more than a startling zap.",
+    "tags": [
+      "physics",
+      "electricity"
+    ]
+  },
+  {
+    "id": "science-039",
+    "domain": "science",
+    "hook": "Every element heavier than uranium was made by humans.",
+    "fact": "No element past uranium (atomic number 92) occurs in meaningful natural quantities on Earth — everything from neptunium onward has been synthesized in nuclear reactors or particle accelerators.",
+    "tags": [
+      "chemistry",
+      "elements"
+    ]
+  },
+  {
+    "id": "science-040",
+    "domain": "science",
+    "hook": "Helium was found in the sun 27 years before anyone found it on Earth.",
+    "fact": "In 1868, astronomers spotted an unfamiliar yellow line in the sun's light spectrum and named the new element after 'helios,' the Greek word for sun. It wasn't isolated on Earth until 1895.",
+    "tags": [
+      "chemistry",
+      "history"
+    ]
+  },
+  {
+    "id": "science-041",
+    "domain": "science",
+    "hook": "One metal is liquid at room temperature.",
+    "fact": "Mercury's atoms bond so weakly to each other that they can't lock into a solid structure until the temperature drops below -38.83°C, making it the only metal that's naturally liquid at room temperature.",
+    "tags": [
+      "chemistry",
+      "elements"
+    ]
+  },
+  {
+    "id": "science-042",
+    "domain": "science",
+    "hook": "Table salt is built from two elements that would kill you separately.",
+    "fact": "Sodium is a soft metal that reacts violently with water, and chlorine is a poisonous gas — combined as sodium chloride, they form the harmless crystal you sprinkle on food.",
+    "tags": [
+      "chemistry",
+      "reactions"
+    ]
+  },
+  {
+    "id": "science-043",
+    "domain": "science",
+    "hook": "Some materials carry electricity with zero resistance.",
+    "fact": "Superconductors let electric current flow forever without losing energy to heat, but only below a critical temperature — some require cooling near absolute zero, while 'high-temperature' versions work above -196°C.",
+    "whyItMatters": "The effect makes maglev trains and MRI machines' powerful magnets possible, and lossless power transmission is a major research goal.",
+    "tags": [
+      "physics",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-044",
+    "domain": "science",
+    "hook": "You can't take a single step without Newton's third law.",
+    "fact": "Walking works because your foot pushes backward against the ground, and the ground pushes forward on you with equal force — the same principle that propels rockets and swimmers.",
+    "tags": [
+      "physics",
+      "mechanics"
+    ]
+  },
+  {
+    "id": "science-045",
+    "domain": "science",
+    "hook": "A rainbow is actually a complete circle.",
+    "fact": "Rainbows form a full 360-degree ring of light, but from the ground the horizon blocks the bottom half, so we only ever see the top arc. Pilots and people on tall mountains sometimes glimpse the whole circle.",
+    "tags": [
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": "science-046",
+    "domain": "science",
+    "hook": "The sky is blue because air bounces blue light around.",
+    "fact": "Sunlight contains every color, but tiny air molecules scatter shorter blue wavelengths far more than longer red ones — a phenomenon called Rayleigh scattering — so blue light reaches our eyes from all directions.",
+    "tags": [
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": "science-047",
+    "domain": "science",
+    "hook": "Sunsets turn red for the opposite reason the sky is blue.",
+    "fact": "At sunset, sunlight has to pass through far more atmosphere at a low angle, scattering away almost all the blue light before it reaches you and leaving mostly red and orange wavelengths behind.",
+    "tags": [
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": "science-048",
+    "domain": "science",
+    "hook": "Gold can be hammered thin enough to turn green.",
+    "fact": "Gold is so malleable that goldsmiths can beat it into leaf just a few atoms thick — at that thickness, it becomes translucent and lets green light pass through.",
+    "tags": [
+      "chemistry",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-049",
+    "domain": "science",
+    "hook": "One tiny Swedish village has four elements named after it.",
+    "fact": "The village of Ytterby, Sweden, sits near a quarry where rare minerals were found, giving its name to four separate elements: yttrium, ytterbium, terbium, and erbium.",
+    "tags": [
+      "chemistry",
+      "history"
+    ]
+  },
+  {
+    "id": "science-050",
+    "domain": "science",
+    "hook": "Most 'neon' signs don't actually contain neon.",
+    "fact": "Pure neon gas glows reddish-orange when electrified. Every other color in a neon sign comes from different noble gases, gas mixtures, or fluorescent coatings on the glass tube.",
+    "tags": [
+      "chemistry",
+      "physics"
+    ]
+  },
+  {
+    "id": "science-051",
+    "domain": "science",
+    "hook": "There's a solid that's 99% air.",
+    "fact": "Aerogel, nicknamed 'frozen smoke,' is made by removing the liquid from a gel and replacing it with air while keeping its structure intact — the result is a solid so light it can rest on a flower without crushing it, yet strong enough to support hundreds of times its own weight.",
+    "tags": [
+      "materials",
+      "physics"
+    ]
+  },
+  {
+    "id": "science-052",
+    "domain": "science",
+    "hook": "A straw in a glass of water isn't actually bent.",
+    "fact": "Light travels at different speeds through air and water, bending as it crosses between them — a phenomenon called refraction — which tricks your eyes into seeing the straw as broken at the waterline.",
+    "tags": [
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": "science-053",
+    "domain": "science",
+    "hook": "Salting icy roads works by breaking a chemical rule.",
+    "fact": "Dissolving salt in water lowers the temperature at which it freezes, a principle called freezing-point depression — it's the same reason antifreeze keeps a car's radiator from icing over in winter.",
+    "tags": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-054",
+    "domain": "science",
+    "hook": "Nitrogen fills your lungs with every breath, but you can't use it.",
+    "fact": "About 78% of the air we breathe is nitrogen gas, but the triple bond holding its two atoms together is so strong that human bodies can't break it apart — only certain bacteria and industrial processes can convert it into usable forms.",
+    "tags": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-055",
+    "domain": "science",
+    "hook": "Your car's exhaust system relies on a substance that never runs out.",
+    "fact": "A catalytic converter uses metals like platinum and palladium as catalysts, speeding up reactions that turn toxic exhaust gases into less harmful ones, without the metal itself being consumed in the process.",
+    "whyItMatters": "Catalysts like this have cut vehicle emissions of carbon monoxide and nitrogen oxides dramatically since the 1970s.",
+    "tags": [
+      "chemistry",
+      "reactions"
+    ]
+  },
+  {
+    "id": "science-056",
+    "domain": "science",
+    "hook": "There's a state of matter beyond solid, liquid, and gas.",
+    "fact": "Plasma is a gas so energized that electrons are stripped from its atoms, leaving a charged soup of particles. It powers neon signs, lightning bolts, and the inside of fluorescent light bulbs.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-057",
+    "domain": "science",
+    "hook": "A grain of table salt is shaped like a perfect tiny cube.",
+    "fact": "Sodium and chloride ions stack together in a repeating cubic pattern called a crystal lattice, which is why salt crystals naturally form cube shapes visible even without a microscope.",
+    "tags": [
+      "chemistry",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-058",
+    "domain": "science",
+    "hook": "Rust is basically fire in extreme slow motion.",
+    "fact": "Rust forms when iron reacts with oxygen in a process called oxidation — chemically similar to combustion, just proceeding thousands of times more slowly because it isn't releasing energy as fast.",
+    "tags": [
+      "chemistry",
+      "reactions"
+    ]
+  },
+  {
+    "id": "science-059",
+    "domain": "science",
+    "hook": "Some liquids turn solid the instant you punch them.",
+    "fact": "A thick mixture of cornstarch and water is a non-Newtonian fluid — it flows like a liquid under gentle pressure but resists like a solid under sudden force, letting people famously run across a pool of it without sinking.",
+    "tags": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-060",
+    "domain": "science",
+    "hook": "Ice at 0°C doesn't warm up while it's melting.",
+    "fact": "Heating ice at exactly its melting point doesn't raise its temperature at all until every last crystal has turned to liquid — the energy instead goes into breaking molecular bonds, a quantity called latent heat.",
+    "tags": [
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": "science-061",
+    "domain": "science",
+    "hook": "The Statue of Liberty isn't gold-colored because of chemistry, not paint.",
+    "fact": "Liberty's copper skin has turned green over more than a century thanks to a slow reaction with oxygen, water, and carbon dioxide in the air, forming a protective mineral layer called patina.",
+    "tags": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-062",
+    "domain": "science",
+    "hook": "Water can get hotter than its boiling point without boiling.",
+    "fact": "In a very smooth, undisturbed container, water can be superheated past 100°C without forming bubbles — which is why a mug overheated in a microwave can suddenly erupt violently the moment it's disturbed.",
+    "tags": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-063",
+    "domain": "science",
+    "hook": "One element reacts with almost everything, including glass.",
+    "fact": "Fluorine is the most reactive element on the periodic table — it's so aggressive that it can corrode glass, water, and even some noble gases under the right conditions.",
+    "tags": [
+      "chemistry",
+      "elements"
+    ]
+  },
+  {
+    "id": "science-064",
+    "domain": "science",
+    "hook": "'Inert' noble gases turned out not to be so inert.",
+    "fact": "For decades chemists assumed noble gases like xenon could never form compounds. That assumption broke in 1962 when chemist Neil Bartlett successfully synthesized the first noble gas compound, xenon hexafluoroplatinate.",
+    "tags": [
+      "chemistry",
+      "history"
+    ]
+  },
+  {
+    "id": "science-065",
+    "domain": "science",
+    "hook": "A metal car roof can protect you from lightning.",
+    "fact": "A Faraday cage works by channeling electric charge around the outside of a conductive shell rather than through the inside — it's the metal body of a car, not the rubber tires, that keeps a lightning strike from reaching passengers.",
+    "whyItMatters": "The same principle shields sensitive electronics from electromagnetic interference, from microwave ovens to MRI rooms.",
+    "tags": [
+      "physics",
+      "electricity"
+    ]
+  },
+  {
+    "id": "science-066",
+    "domain": "science",
+    "hook": "The strongest material ever tested is one atom thick.",
+    "fact": "Graphene is a single layer of carbon atoms arranged in a hexagonal honeycomb pattern, and pound for pound it's the strongest material scientists have measured — over 100 times stronger than steel.",
+    "whyItMatters": "Researchers are exploring it for everything from flexible electronics to water filtration and next-generation batteries.",
+    "tags": [
+      "materials",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-067",
+    "domain": "science",
+    "hook": "Antimatter is real, and scientists have made it in a lab.",
+    "fact": "Every particle has an antimatter counterpart with opposite charge; when matter and antimatter meet, they annihilate each other and convert their entire mass into energy. CERN has created and briefly trapped antihydrogen atoms.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-068",
+    "domain": "science",
+    "hook": "A tiny bit of mass can unleash a huge amount of energy.",
+    "fact": "Einstein's equation E=mc² shows mass and energy are interchangeable, and because the speed of light squared is such an enormous number, converting even a small amount of mass releases massive energy — exactly what happens inside a nuclear reactor during fission.",
+    "tags": [
+      "physics",
+      "nuclear"
+    ]
+  },
+  {
+    "id": "science-069",
+    "domain": "science",
+    "hook": "Uranium is the heaviest element found in nature in any real quantity.",
+    "fact": "Elements heavier than uranium exist only as human-made creations, produced for fractions of a second in particle accelerators — the heaviest confirmed so far, oganesson, has an atomic number of 118.",
+    "tags": [
+      "chemistry",
+      "elements"
+    ]
+  },
+  {
+    "id": "science-070",
+    "domain": "science",
+    "hook": "The pH scale hides how drastically different acids really are.",
+    "fact": "pH is logarithmic, so each single-point drop means a tenfold increase in acidity — a substance with pH 3 isn't just a little more acidic than one with pH 5, it's 100 times more acidic.",
+    "tags": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-071",
+    "domain": "science",
+    "hook": "Dry ice skips the liquid stage entirely.",
+    "fact": "Solid carbon dioxide, or dry ice, doesn't melt into a puddle at normal atmospheric pressure — it sublimates, turning directly from solid to gas, which is why it produces that dramatic fog effect without ever getting wet.",
+    "tags": [
+      "chemistry",
+      "physics"
+    ]
+  },
+  {
+    "id": "science-072",
+    "domain": "science",
+    "hook": "Particles can pass through walls they shouldn't be able to cross.",
+    "fact": "Quantum tunneling lets particles pass through energy barriers that classical physics says are impossible to breach, simply because their position is described by probability rather than a fixed point.",
+    "whyItMatters": "It's part of what makes the sun's fusion reactions possible at its actual core temperature, and it's the working principle behind flash memory chips.",
+    "tags": [
+      "physics",
+      "quantum"
+    ]
+  },
+  {
+    "id": "science-073",
+    "domain": "science",
+    "hook": "One scientist won Nobel Prizes in two completely different sciences.",
+    "fact": "Marie Curie remains the only person ever awarded Nobel Prizes in two different scientific fields — physics in 1903 for her work on radioactivity, and chemistry in 1911 for discovering polonium and radium.",
+    "tags": [
+      "physics",
+      "history"
+    ]
+  },
+  {
+    "id": "science-074",
+    "domain": "science",
+    "hook": "A sonic boom isn't the moment a plane 'breaks' the sound barrier.",
+    "fact": "A sonic boom is the shockwave created continuously by an object moving faster than the speed of sound — the sound waves it generates pile up behind it, and people on the ground hear that pile-up as a single sharp crack as it passes.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-075",
+    "domain": "science",
+    "hook": "Newton's cradle isn't just a desk toy — it's a momentum demonstration.",
+    "fact": "When one ball swings into a row of stationary ones, its momentum transfers almost losslessly through the middle balls, which barely move, to launch the ball at the far end at nearly the same speed.",
+    "tags": [
+      "physics",
+      "mechanics"
+    ]
+  },
+  {
+    "id": "science-076",
+    "domain": "science",
+    "hook": "A stretched rubber band actually warms up.",
+    "fact": "Stretching a rubber band rearranges its polymer chains in a way that releases a small amount of heat, which you can feel by pressing a freshly stretched one against your lip — and it cools again when released.",
+    "tags": [
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": "science-077",
+    "domain": "science",
+    "hook": "There's no such thing as 'degrees Kelvin.'",
+    "fact": "The Kelvin scale is written without the word 'degrees' because it's an absolute scale starting at true zero — 0 K is absolute zero, and each step up the scale is the same size as one degree Celsius.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-078",
+    "domain": "science",
+    "hook": "A rubber ball dipped in liquid nitrogen shatters like glass.",
+    "fact": "Liquid nitrogen sits at around -196°C, cold enough to make rubber's flexible polymer chains freeze rigid — a ball dunked in it and dropped will smash into glassy fragments instead of bouncing.",
+    "tags": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-079",
+    "domain": "science",
+    "hook": "Adding or removing one proton changes what element you have.",
+    "fact": "An atom's identity is defined entirely by its number of protons — change that number and it becomes an entirely different element, while changing the number of neutrons just creates a different isotope of the same element.",
+    "tags": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-080",
+    "domain": "science",
+    "hook": "One chemical process is credited with feeding roughly half the world.",
+    "fact": "The Haber-Bosch process, developed in the early 1900s, pulls nitrogen straight from the air and converts it into ammonia for fertilizer at industrial scale.",
+    "whyItMatters": "Historians estimate the process supports the food supply for around half of today's global population — though the same nitrogen-fixing chemistry was also used to manufacture explosives during World War I.",
+    "tags": [
+      "chemistry",
+      "history"
+    ]
+  },
+  {
+    "id": "science-081",
+    "domain": "science",
+    "hook": "Heat enough iron and it stops being magnetic.",
+    "fact": "Iron loses its magnetism above its Curie point, around 770°C, when thermal energy becomes strong enough to scramble the alignment of its magnetic domains.",
+    "tags": [
+      "physics",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-082",
+    "domain": "science",
+    "hook": "It takes more force to start pushing a box than to keep it sliding.",
+    "fact": "Static friction, which resists an object starting to move, is generally stronger than kinetic friction, which resists it once it's already sliding — that's why the box seems to 'break free' and get easier to push.",
+    "tags": [
+      "physics",
+      "mechanics"
+    ]
+  },
+  {
+    "id": "science-083",
+    "domain": "science",
+    "hook": "A steel ship floats for the same reason a steel nail sinks.",
+    "fact": "Buoyancy depends on the weight of water an object displaces, not just its material — a ship's hollow shape displaces enough water to support its weight, while a solid nail is too dense and compact to displace nearly enough.",
+    "tags": [
+      "physics",
+      "mechanics"
+    ]
+  },
+  {
+    "id": "science-084",
+    "domain": "science",
+    "hook": "Some substances glow for hours after the lights go off.",
+    "fact": "Glow-in-the-dark materials work through phosphorescence, absorbing light energy and releasing it slowly over minutes or hours — unlike fluorescence, which re-emits absorbed light almost instantly and stops glowing the moment the light source is gone.",
+    "tags": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-085",
+    "domain": "science",
+    "hook": "Diamond isn't just 'a bit' harder than the mineral one step below it.",
+    "fact": "The Mohs hardness scale ranks minerals 1 to 10 by scratch resistance, but the steps aren't equal — diamond (10) is roughly four times harder than corundum (9), even though they're right next to each other on the scale.",
+    "tags": [
+      "chemistry",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-086",
+    "domain": "science",
+    "hook": "Gold isn't actually the best conductor of electricity.",
+    "fact": "Silver conducts electricity best, followed by copper — gold ranks below both. Electronics still use gold for critical contacts because it resists corrosion, keeping connections reliable for decades.",
+    "tags": [
+      "chemistry",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-087",
+    "domain": "science",
+    "hook": "A water droplet can skate across a hot pan instead of evaporating.",
+    "fact": "The Leidenfrost effect happens when a surface is so hot that the bottom of a water droplet instantly vaporizes, forming a cushioning layer of steam that lets the droplet skitter around instead of boiling away immediately.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-088",
+    "domain": "science",
+    "hook": "Aluminum used to be worth more than gold.",
+    "fact": "Before an efficient extraction method was invented in 1886, refining aluminum from ore was so difficult that it was considered a precious metal — Napoleon III reportedly reserved aluminum cutlery for his most honored dinner guests.",
+    "tags": [
+      "chemistry",
+      "history"
+    ]
+  },
+  {
+    "id": "science-089",
+    "domain": "science",
+    "hook": "Titanium is nearly as strong as steel at less than half the weight.",
+    "fact": "Titanium alloys can match the strength of many steel alloys while weighing roughly 40-45% less, which is why they're prized in aircraft frames, spacecraft components, and joint replacements.",
+    "whyItMatters": "That strength-to-weight ratio is also why titanium implants can stay in the human body for decades without corroding.",
+    "tags": [
+      "materials",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-090",
+    "domain": "science",
+    "hook": "Mixing paint and mixing light follow opposite rules.",
+    "fact": "Combining red, green, and blue light makes white light, since light mixing is additive — but combining paint pigments is subtractive, so mixing all the primary colors of paint gets you closer to black or muddy brown.",
+    "tags": [
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": "science-091",
+    "domain": "science",
+    "hook": "A red apple isn't actually red, in a sense.",
+    "fact": "An object's apparent color comes from the wavelengths of light it reflects, not absorbs — a 'red' apple looks red because it absorbs every other color and bounces red light back to your eyes.",
+    "tags": [
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": "science-092",
+    "domain": "science",
+    "hook": "There's a liquid that grows spikes when you bring a magnet near it.",
+    "fact": "Ferrofluid is an oil infused with nanoscale magnetic particles that align with a nearby magnetic field, forming dramatic, spiky peaks that shift as the magnet moves.",
+    "tags": [
+      "materials",
+      "physics"
+    ]
+  },
+  {
+    "id": "science-093",
+    "domain": "science",
+    "hook": "A hydraulic car lift multiplies force using a simple rule about liquids.",
+    "fact": "Pascal's principle states that pressure applied anywhere in an enclosed fluid transmits equally throughout it — push down on a small piston, and that pressure pushes up on a much larger piston with far greater force, letting a mechanic lift a car with one hand on the pump.",
+    "tags": [
+      "physics",
+      "mechanics"
+    ]
+  },
+  {
+    "id": "science-094",
+    "domain": "science",
+    "hook": "Water takes an unusual amount of energy to heat up.",
+    "fact": "Water has one of the highest specific heat capacities of any common substance, meaning it absorbs a lot of energy before its temperature rises noticeably.",
+    "whyItMatters": "It's a big reason large bodies of water moderate the climate of nearby coastal regions, keeping them cooler in summer and warmer in winter than inland areas.",
+    "tags": [
+      "chemistry",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": "science-095",
+    "domain": "science",
+    "hook": "'Heat' is really just molecules moving faster.",
+    "fact": "Temperature is a measure of the average kinetic energy of a substance's molecules — 'hot' objects simply have faster-moving, more energetic molecules than 'cold' ones, and heat is the transfer of that energy between them.",
+    "tags": [
+      "physics",
+      "thermodynamics"
+    ]
+  },
+  {
+    "id": "science-096",
+    "domain": "science",
+    "hook": "No one can predict when a single radioactive atom will decay.",
+    "fact": "Radioactive decay is genuinely random for any individual atom, but wildly predictable across a large sample — that statistical regularity is what defines a substance's half-life, the time for half of a sample to decay.",
+    "whyItMatters": "It's the same principle that makes radiometric dating and certain cancer treatments reliably calculable.",
+    "tags": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-097",
+    "domain": "science",
+    "hook": "Archaeologists can date a 10,000-year-old bone using a clock inside its atoms.",
+    "fact": "Carbon dating compares the ratio of radioactive carbon-14 to stable carbon-12 in once-living material; since C-14 decays at a known, steady rate after an organism dies, the ratio reveals roughly how long ago it died.",
+    "tags": [
+      "chemistry",
+      "physics"
+    ]
+  },
+  {
+    "id": "science-098",
+    "domain": "science",
+    "hook": "The classic baking soda volcano is real chemistry, not just a school prop.",
+    "fact": "Mixing baking soda (a base) with vinegar (an acid) triggers a reaction that produces carbon dioxide gas, water, and sodium acetate — the fizzing eruption is the CO2 rapidly escaping.",
+    "tags": [
+      "chemistry",
+      "reactions"
+    ]
+  },
+  {
+    "id": "science-099",
+    "domain": "science",
+    "hook": "Steel isn't a pure metal at all.",
+    "fact": "Steel is an alloy — mostly iron with a small percentage of carbon mixed in, typically less than 2% — and that small addition dramatically increases its strength and hardness compared to pure iron.",
+    "tags": [
+      "chemistry",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-100",
+    "domain": "science",
+    "hook": "An entire era of human history is named after an alloy.",
+    "fact": "Bronze, made by combining copper with tin, was durable and sharp enough to reshape toolmaking and warfare so thoroughly that historians named the period after it: the Bronze Age.",
+    "tags": [
+      "chemistry",
+      "history"
+    ]
+  },
+  {
+    "id": "science-101",
+    "domain": "science",
+    "hook": "An ambulance siren doesn't actually change pitch — your position relative to it does.",
+    "fact": "The Doppler effect compresses sound waves as a source approaches and stretches them as it moves away, which is why a siren sounds higher-pitched coming toward you and lower-pitched as it passes.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-102",
+    "domain": "science",
+    "hook": "Polarized sunglasses block a specific direction of light, not just brightness.",
+    "fact": "Glare off flat surfaces like water or wet roads is mostly light vibrating in one direction; polarized lenses contain a filter that blocks that orientation while letting other light through, cutting glare without dimming everything else equally.",
+    "tags": [
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": "science-103",
+    "domain": "science",
+    "hook": "Laser light is unusually 'organized' compared to a lightbulb's.",
+    "fact": "A laser produces coherent light, meaning all its light waves move in step with matching frequency and phase, while an ordinary bulb emits light waves scattered randomly in countless directions and phases.",
+    "tags": [
+      "physics",
+      "optics"
+    ]
+  },
+  {
+    "id": "science-104",
+    "domain": "science",
+    "hook": "Table salt melts at a temperature that would vaporize water eight times over.",
+    "fact": "Sodium chloride doesn't melt until 801°C, because the ionic bonds holding its crystal lattice together are far stronger than the hydrogen bonds linking water molecules, which is why ice melts so much more easily.",
+    "tags": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-105",
+    "domain": "science",
+    "hook": "Magnets can't be broken down to a single pole.",
+    "fact": "Cutting a bar magnet in half doesn't isolate a lone north or south pole — it just creates two smaller magnets, each with its own complete north and south pole, no matter how many times you keep cutting.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-106",
+    "domain": "science",
+    "hook": "Thunderstorms build up electric charge through millions of tiny collisions.",
+    "fact": "Inside a storm cloud, rising ice crystals collide with falling graupel (soft hail), transferring electrons and leaving the upper cloud positively charged and the lower cloud negatively charged — when that imbalance gets big enough, it discharges as lightning.",
+    "tags": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-107",
+    "domain": "science",
+    "hook": "An instant cold pack works by absorbing heat, not creating cold.",
+    "fact": "Some chemical reactions are endothermic, pulling heat energy from their surroundings rather than releasing it — squeezing an instant cold pack breaks an inner pouch of water that dissolves a salt like ammonium nitrate, and that dissolving process absorbs heat fast enough to feel genuinely cold.",
+    "tags": [
+      "chemistry",
+      "reactions"
+    ]
+  },
+  {
+    "id": "science-108",
+    "domain": "science",
+    "hook": "Firework colors come from a chemistry cheat sheet of metal salts.",
+    "fact": "Pyrotechnicians get red from strontium compounds, blue-green from copper, green from barium, and yellow from sodium — each metal's electrons emit a distinct wavelength of light when heated in the explosion.",
+    "tags": [
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-109",
+    "domain": "science",
+    "hook": "Graphite conducts electricity; diamond doesn't — same element, opposite behavior.",
+    "fact": "In graphite, carbon atoms form loosely stacked sheets that leave some electrons free to roam and carry current, while every one of diamond's electrons is locked into a rigid, fully bonded 3D lattice with nowhere to move.",
+    "tags": [
+      "chemistry",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-110",
+    "domain": "science",
+    "hook": "A single electron can interfere with itself.",
+    "fact": "In the famous double-slit experiment, firing individual electrons one at a time through two slits still builds up an interference pattern over time — as if each electron passed through both slits at once and interfered with itself, a hallmark of quantum wave-particle duality.",
+    "tags": [
+      "physics",
+      "quantum"
+    ]
+  },
+  {
+    "id": "science-111",
+    "domain": "science",
+    "hook": "You can never know a particle's exact position and speed at the same time.",
+    "fact": "Heisenberg's uncertainty principle states that the more precisely you measure a particle's position, the less precisely you can know its momentum, and vice versa — it's a fundamental limit of nature, not just an equipment problem.",
+    "tags": [
+      "physics",
+      "quantum"
+    ]
+  },
+  {
+    "id": "science-112",
+    "domain": "science",
+    "hook": "Schrödinger's cat was never a real experiment.",
+    "fact": "Physicist Erwin Schrödinger devised the 'alive and dead cat' scenario as a thought experiment to highlight how strange it would be if quantum superposition — where a particle exists in multiple states at once — applied to everyday objects, not as something he actually attempted.",
+    "tags": [
+      "physics",
+      "quantum"
+    ]
+  },
+  {
+    "id": "science-113",
+    "domain": "science",
+    "hook": "Cool a gas enough and its atoms lose their individual identities.",
+    "fact": "At temperatures within a hair of absolute zero, certain atoms can form a Bose-Einstein condensate, where they stop behaving as separate particles and instead act as one collective quantum wave.",
+    "tags": [
+      "physics",
+      "quantum"
+    ]
+  },
+  {
+    "id": "science-114",
+    "domain": "science",
+    "hook": "Nothing with mass can ever reach the speed of light.",
+    "fact": "Light travels through a vacuum at about 299,792 kilometers per second, and Einstein's relativity shows that accelerating any object with mass to that speed would require infinite energy — a hard ceiling built into the universe's physics.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-115",
+    "domain": "science",
+    "hook": "GPS satellites have to correct for the fact that time moves differently for them.",
+    "fact": "Satellites experience time slightly differently than clocks on Earth's surface due to both their speed and weaker gravity at altitude — without constantly correcting for this relativistic time difference, GPS positions would drift off by miles within a single day.",
+    "whyItMatters": "It's one of the few places relativity — usually thought of as an abstract theory — has direct, everyday consequences for something billions of people use.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-116",
+    "domain": "science",
+    "hook": "A blue flame is hotter than a yellow one, not calmer.",
+    "fact": "Flame color reveals combustion temperature and completeness — blue flames burn hotter and more completely, while orange-yellow flames are typically cooler and contain unburned soot particles glowing with heat.",
+    "tags": [
+      "physics",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-117",
+    "domain": "science",
+    "hook": "Skydivers stop accelerating well before they open a parachute.",
+    "fact": "As a falling object speeds up, air resistance grows until it exactly balances the pull of gravity, at which point the object stops accelerating and falls at a constant speed called terminal velocity — for a human in a belly-down position, that's roughly 200 km/h (125 mph).",
+    "tags": [
+      "physics",
+      "mechanics"
+    ]
+  },
+  {
+    "id": "science-118",
+    "domain": "science",
+    "hook": "A shower curtain gets sucked toward you because of moving water, not magic.",
+    "fact": "Fast-flowing water and air create a zone of lower pressure around them, described by Bernoulli's principle — the pressure difference between the curtain's two sides pulls it inward toward the shower stream.",
+    "tags": [
+      "physics"
+    ]
+  },
+  {
+    "id": "science-119",
+    "domain": "science",
+    "hook": "Your heart pumps about 2,000 gallons of blood a day.",
+    "fact": "Beating roughly 100,000 times daily, the heart moves enough blood in 24 hours to fill several tanker trucks, even though it's only about the size of a fist.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-120",
+    "domain": "science",
+    "hook": "Laid end to end, your blood vessels would circle the Earth twice.",
+    "fact": "The human circulatory system — arteries, veins, and capillaries combined — stretches roughly 60,000 miles, most of it made up of microscopic capillaries.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-121",
+    "domain": "science",
+    "hook": "Babies have almost 100 more bones than adults.",
+    "fact": "Newborns are born with around 300 bones, many of them soft cartilage. As they grow, many of these fuse together, leaving adults with the standard 206.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-122",
+    "domain": "science",
+    "hook": "Your small intestine is about 20 feet long.",
+    "fact": "Despite fitting into a compact space in the abdomen, the small intestine unfurls to roughly 20 feet (6 meters), giving it enormous surface area for absorbing nutrients.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-123",
+    "domain": "science",
+    "hook": "Your liver can regrow itself even after losing most of its mass.",
+    "fact": "The human liver can regenerate a functional amount of tissue even after up to 70% of it is removed or damaged, making it one of the body's few organs capable of significant self-repair.",
+    "whyItMatters": "This regenerative ability is why living-donor liver transplants are possible — both the donor's remaining liver and the transplanted portion can grow back to near full size.",
+    "tags": [
+      "human-body",
+      "medicine"
+    ]
+  },
+  {
+    "id": "science-124",
+    "domain": "science",
+    "hook": "Babies are born without kneecaps.",
+    "fact": "A newborn's kneecaps start out as soft cartilage rather than bone. They don't fully harden into solid bone until somewhere between ages 3 and 6.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-125",
+    "domain": "science",
+    "hook": "Your fingerprints were set before you were born — and they never change.",
+    "fact": "Fingerprint ridges form in the womb by around the fourth month of pregnancy and stay the same shape for life, growing only in size, not pattern.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-126",
+    "domain": "science",
+    "hook": "Part of your eye has no blood supply at all.",
+    "fact": "The cornea, the clear front layer of the eye, is one of the few tissues in the human body with no blood vessels. It gets its oxygen directly from the air.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-127",
+    "domain": "science",
+    "hook": "Your left lung is smaller than your right one.",
+    "fact": "The left lung has a notch called the cardiac notch that makes room for the heart, giving it two lobes instead of the right lung's three and slightly less overall volume.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-128",
+    "domain": "science",
+    "hook": "Tooth enamel is the hardest material your body makes.",
+    "fact": "Enamel, the outer coating of teeth, is harder than bone and is the hardest substance in the human body — though unlike bone, it can't repair itself once damaged.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-129",
+    "domain": "science",
+    "hook": "Goosebumps are a leftover reflex from furrier ancestors.",
+    "fact": "Tiny muscles at the base of each hair follicle contract to raise the hair, a reflex called piloerection. In furry animals it traps insulating air or makes them look bigger to predators — in humans it mostly just happens without doing much.",
+    "tags": [
+      "human-body",
+      "evolution"
+    ]
+  },
+  {
+    "id": "science-130",
+    "domain": "science",
+    "hook": "Blushing might be the most human thing your body does.",
+    "fact": "Blushing is an involuntary widening of facial blood vessels triggered by self-conscious emotion. Charles Darwin called it 'the most peculiar and most human of all expressions,' and no other animal is known to do it.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-131",
+    "domain": "science",
+    "hook": "Newborns can cry without shedding a single tear.",
+    "fact": "A baby's tear ducts aren't fully developed at birth, so infants can cry loudly with all the facial expressions of distress but produce little to no actual tears until they're a few weeks to months old.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-132",
+    "domain": "science",
+    "hook": "Your gut runs on its own nervous system, sometimes called a 'second brain.'",
+    "fact": "The enteric nervous system lining the gut contains hundreds of millions of neurons — more than the spinal cord — and can control digestion largely on its own, independent of the brain.",
+    "tags": [
+      "human-body",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-133",
+    "domain": "science",
+    "hook": "Cracking your knuckles doesn't actually cause arthritis.",
+    "fact": "The popping sound comes from gas bubbles collapsing in the fluid that lubricates your joints. Multiple studies, including one doctor who cracked knuckles on only one hand for over 60 years, found no link to arthritis.",
+    "tags": [
+      "human-body",
+      "myths"
+    ]
+  },
+  {
+    "id": "science-134",
+    "domain": "science",
+    "hook": "Penicillin was discovered because of a messy lab bench.",
+    "fact": "In 1928, Alexander Fleming returned from vacation to find mold had contaminated one of his petri dishes — and noticed the mold was killing the bacteria around it. That accidental observation led to the first widely used antibiotic.",
+    "tags": [
+      "medicine",
+      "history"
+    ]
+  },
+  {
+    "id": "science-135",
+    "domain": "science",
+    "hook": "Blood transfusions used to be a coin flip with your life.",
+    "fact": "Before Karl Landsteiner discovered the ABO blood group system in 1901, doctors had no idea why some transfusions worked and others killed the patient. His discovery of blood types made safe transfusion possible.",
+    "tags": [
+      "medicine",
+      "history"
+    ]
+  },
+  {
+    "id": "science-136",
+    "domain": "science",
+    "hook": "Vaccines work by tricking your immune system into practicing.",
+    "fact": "Most vaccines expose the body to a weakened, inactivated, or partial version of a pathogen, prompting the immune system to build defenses it can deploy quickly if it ever meets the real thing.",
+    "tags": [
+      "medicine",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-137",
+    "domain": "science",
+    "hook": "Placebos can work even when you know they're fake.",
+    "fact": "In 'open-label' placebo studies, patients are told upfront they're taking a pill with no active ingredient — and still report real symptom relief in conditions like irritable bowel syndrome and chronic pain.",
+    "tags": [
+      "medicine"
+    ]
+  },
+  {
+    "id": "science-138",
+    "domain": "science",
+    "hook": "Insulin turned a death sentence into a manageable condition almost overnight.",
+    "fact": "Before insulin was first used to treat a diabetic patient in 1922, a type 1 diabetes diagnosis was usually fatal within months. Within a year of its discovery, insulin was being mass-produced and saving lives worldwide.",
+    "tags": [
+      "medicine",
+      "history"
+    ]
+  },
+  {
+    "id": "science-139",
+    "domain": "science",
+    "hook": "X-rays were discovered by accident, too.",
+    "fact": "In 1895, physicist Wilhelm Röntgen noticed a mysterious glow coming from a nearby screen while experimenting with cathode rays — an unknown form of radiation he called 'X-rays,' which soon revolutionized medicine.",
+    "tags": [
+      "medicine",
+      "history"
+    ]
+  },
+  {
+    "id": "science-140",
+    "domain": "science",
+    "hook": "Only one human disease has ever been completely wiped out.",
+    "fact": "Smallpox is the only human infectious disease to be declared globally eradicated, following a decades-long worldwide vaccination campaign that ended natural transmission by 1980.",
+    "whyItMatters": "It remains the strongest proof of concept that a coordinated global vaccination effort can eliminate a disease entirely.",
+    "tags": [
+      "medicine",
+      "history"
+    ]
+  },
+  {
+    "id": "science-141",
+    "domain": "science",
+    "hook": "Doctors still don't fully understand how general anesthesia works.",
+    "fact": "Anesthetic drugs reliably make people unconscious and unable to feel pain during surgery, but the precise mechanism by which they shut off consciousness in the brain remains an active area of research.",
+    "tags": [
+      "medicine"
+    ]
+  },
+  {
+    "id": "science-142",
+    "domain": "science",
+    "hook": "Fecal transplants are a real, effective medical treatment.",
+    "fact": "Transplanting stool from a healthy donor into a patient's gut can successfully treat recurrent Clostridioides difficile infections by restoring a healthy balance of gut bacteria that antibiotics wiped out.",
+    "tags": [
+      "medicine",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-143",
+    "domain": "science",
+    "hook": "Some people are 'supertasters' living in a more intense flavor world.",
+    "fact": "Supertasters have a higher density of taste buds on their tongue than average, making them perceive bitterness, sweetness, and other flavors more intensely than most people.",
+    "tags": [
+      "medicine",
+      "human-body"
+    ]
+  },
+  {
+    "id": "science-144",
+    "domain": "science",
+    "hook": "Color blindness is far more common in men than women.",
+    "fact": "The genes for red-green color vision sit on the X chromosome. Since men have only one X chromosome, a single faulty copy is enough to cause color blindness, while women usually need two.",
+    "tags": [
+      "medicine",
+      "genetics"
+    ]
+  },
+  {
+    "id": "science-145",
+    "domain": "science",
+    "hook": "Some migraines cause vivid visual effects with no pain at all.",
+    "fact": "A 'silent migraine' or migraine aura can produce flashing lights, blind spots, or zigzag patterns in someone's vision, driven by waves of altered brain activity — sometimes without any headache following it.",
+    "tags": [
+      "medicine",
+      "human-body"
+    ]
+  },
+  {
+    "id": "science-146",
+    "domain": "science",
+    "hook": "You share about 98-99% of your DNA with chimpanzees.",
+    "fact": "Genetic comparisons show humans and chimpanzees differ by only a small percentage of their DNA sequence, reflecting a common ancestor that lived roughly 6-7 million years ago.",
+    "tags": [
+      "genetics",
+      "evolution"
+    ]
+  },
+  {
+    "id": "science-147",
+    "domain": "science",
+    "hook": "Most of your DNA doesn't actually build anything.",
+    "fact": "Protein-coding genes make up only a small fraction of the human genome — around 1-2%. The rest includes regulatory sequences, remnants of ancient viruses, and stretches whose function is still being figured out.",
+    "tags": [
+      "genetics",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-148",
+    "domain": "science",
+    "hook": "Identical twins share their DNA but not their fingerprints.",
+    "fact": "Fingerprint patterns are shaped by random factors in the womb, like the exact flow of amniotic fluid and the twin's position, not just genetics — so even genetically identical twins end up with distinct prints.",
+    "tags": [
+      "genetics",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-149",
+    "domain": "science",
+    "hook": "The DNA inside you could stretch to the sun and back many times over.",
+    "fact": "Each of your trillions of cells contains DNA that, if uncoiled, would measure a few feet long. Multiplied across the whole body, the combined length is astronomically vast — easily spanning the distance to the sun and back repeatedly.",
+    "tags": [
+      "genetics",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-150",
+    "domain": "science",
+    "hook": "You only got your mitochondrial DNA from your mother.",
+    "fact": "Mitochondria, the energy-producing structures in cells, carry their own small loop of DNA separate from the nucleus, and it's passed down almost exclusively through the maternal line.",
+    "tags": [
+      "genetics",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-151",
+    "domain": "science",
+    "hook": "Your red blood cells threw away their own DNA.",
+    "fact": "Mature red blood cells expel their nucleus during development, leaving more room to carry oxygen — but also meaning they can't repair themselves and only survive about 120 days.",
+    "tags": [
+      "biology",
+      "human-body"
+    ]
+  },
+  {
+    "id": "science-152",
+    "domain": "science",
+    "hook": "CRISPR gene editing was borrowed from bacteria.",
+    "fact": "The CRISPR system that scientists now use to edit genomes evolved naturally in bacteria as an immune defense, letting them cut up and remember the DNA of viruses that had attacked them before.",
+    "tags": [
+      "genetics",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-153",
+    "domain": "science",
+    "hook": "Genes can jump around your genome.",
+    "fact": "Geneticist Barbara McClintock discovered 'jumping genes,' or transposons — DNA segments that can move to different positions within a genome, a finding so ahead of its time it won her a Nobel Prize decades later.",
+    "tags": [
+      "genetics",
+      "history"
+    ]
+  },
+  {
+    "id": "science-154",
+    "domain": "science",
+    "hook": "Mushrooms are more closely related to you than to plants.",
+    "fact": "Fungi split off from a common ancestor shared with animals after plants had already branched away, placing mushrooms, molds, and yeasts genetically closer to humans than to the plant kingdom.",
+    "tags": [
+      "biology",
+      "evolution"
+    ]
+  },
+  {
+    "id": "science-155",
+    "domain": "science",
+    "hook": "A brainless yellow slime mold can solve mazes.",
+    "fact": "Physarum polycephalum, a single-celled slime mold with no brain or nervous system, can find the shortest path through a maze toward food and has even replicated efficient real-world transit network layouts in lab experiments.",
+    "tags": [
+      "biology",
+      "ecology"
+    ]
+  },
+  {
+    "id": "science-156",
+    "domain": "science",
+    "hook": "Axolotls can regrow entire limbs — and parts of their heart.",
+    "fact": "These salamanders can regenerate lost legs, tails, spinal cord tissue, and even portions of damaged heart muscle with little to no scarring, making them a major focus of regenerative medicine research.",
+    "whyItMatters": "Understanding how axolotls regenerate tissue without scarring could one day help researchers develop treatments for human injuries and organ damage.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-157",
+    "domain": "science",
+    "hook": "Naked mole rats can survive 18 minutes without oxygen.",
+    "fact": "When oxygen runs low, naked mole rats switch their metabolism to run on fructose instead of glucose, letting their brain and organs keep functioning far longer than any other mammal could manage. They're also remarkably resistant to cancer.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-158",
+    "domain": "science",
+    "hook": "A sea turtle's sex is decided by the sand it hatches in.",
+    "fact": "Sea turtle eggs don't have sex chromosomes that determine gender — instead, warmer nest temperatures produce mostly females and cooler ones produce mostly males.",
+    "whyItMatters": "Rising global temperatures are skewing many sea turtle populations heavily toward females, threatening future breeding.",
+    "tags": [
+      "biology",
+      "ecology"
+    ]
+  },
+  {
+    "id": "science-159",
+    "domain": "science",
+    "hook": "Bees can recognize individual human faces.",
+    "fact": "Despite having a brain smaller than a grain of rice, honeybees can learn to distinguish specific human faces in photos by piecing together facial features, a technique similar to how humans process faces.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-160",
+    "domain": "science",
+    "hook": "Flamingos aren't naturally pink.",
+    "fact": "Flamingos are born gray. Their signature pink color comes from carotenoid pigments in the algae and brine shrimp they eat, which build up in their feathers over time.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-161",
+    "domain": "science",
+    "hook": "Sea otters hold hands so they don't drift apart while sleeping.",
+    "fact": "Otters often wrap themselves in kelp or link paws with other otters before napping on the water's surface, anchoring themselves as a group so ocean currents don't separate them.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-162",
+    "domain": "science",
+    "hook": "A dog's nose is tens of thousands of times more sensitive than yours.",
+    "fact": "Dogs have up to 300 million scent receptors compared to a human's roughly 6 million, and a much larger portion of their brain devoted to processing smell.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-163",
+    "domain": "science",
+    "hook": "Cats can't taste sweetness.",
+    "fact": "Cats lack a functional version of the gene needed to build sweet-taste receptors, meaning sugary foods are essentially tasteless to them — a rare trait among mammals.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-164",
+    "domain": "science",
+    "hook": "The mantis shrimp sees colors humans can't even imagine.",
+    "fact": "While humans have three types of color receptors, some mantis shrimp species have up to 16, letting them detect ultraviolet and polarized light far beyond human visual range.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-165",
+    "domain": "science",
+    "hook": "This frog freezes solid every winter and comes back to life in spring.",
+    "fact": "Wood frogs survive winter by letting up to two-thirds of their body water freeze. Their liver floods their cells with glucose that acts as a natural antifreeze, and their heart stops entirely until they thaw.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-166",
+    "domain": "science",
+    "hook": "The platypus is a venomous, egg-laying mammal.",
+    "fact": "Platypuses are one of only two groups of egg-laying mammals on Earth (the other being echidnas), and males have a venomous spur on their hind legs strong enough to cause severe pain in humans.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-167",
+    "domain": "science",
+    "hook": "Starfish don't have a brain or blood.",
+    "fact": "Instead of a central brain, starfish run on a decentralized nerve network, and instead of blood, they pump seawater through a system of canals to move and breathe.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-168",
+    "domain": "science",
+    "hook": "Some ants can carry 50 times their own body weight.",
+    "fact": "Certain ant species can lift and carry objects tens of times heavier than themselves, thanks to their small size, dense muscle fibers, and an exoskeleton that provides efficient leverage.",
+    "tags": [
+      "biology",
+      "animals"
+    ]
+  },
+  {
+    "id": "science-169",
+    "domain": "science",
+    "hook": "The largest known living organism is a single mushroom-producing fungus.",
+    "fact": "A honey fungus (Armillaria) growing in Oregon's Blue Mountains spans an estimated 2,000+ acres underground, all connected as one genetic individual, and is thought to be thousands of years old.",
+    "tags": [
+      "biology",
+      "ecology"
+    ]
+  },
+  {
+    "id": "science-170",
+    "domain": "science",
+    "hook": "A forest of 47,000 trees in Utah is technically one single organism.",
+    "fact": "Pando, a quaking aspen grove in Utah, is actually one genetically identical organism connected by a shared root system, with every trunk a clone sprouted from the same original tree.",
+    "tags": [
+      "biology",
+      "ecology"
+    ]
+  },
+  {
+    "id": "science-171",
+    "domain": "science",
+    "hook": "Venus flytraps can count.",
+    "fact": "The trigger hairs inside a Venus flytrap must be touched twice within about 20 seconds before the trap snaps shut, and a third touch is needed to start digestion — a mechanism that stops the plant from wasting energy on false alarms like raindrops.",
+    "tags": [
+      "biology",
+      "plants"
+    ]
+  },
+  {
+    "id": "science-172",
+    "domain": "science",
+    "hook": "Some bamboo can grow nearly a meter in a single day.",
+    "fact": "Certain fast-growing bamboo species can extend by up to 91 centimeters (about 3 feet) in 24 hours under ideal conditions, making bamboo one of the fastest-growing plants on Earth.",
+    "tags": [
+      "biology",
+      "plants"
+    ]
+  },
+  {
+    "id": "science-173",
+    "domain": "science",
+    "hook": "Trees quietly trade nutrients through an underground fungal network.",
+    "fact": "Many trees are connected below ground by mycorrhizal fungi that link their root systems, allowing them to share water, carbon, and warning signals about pests — a phenomenon researchers call the 'wood wide web.'",
+    "tags": [
+      "biology",
+      "ecology"
+    ]
+  },
+  {
+    "id": "science-174",
+    "domain": "science",
+    "hook": "Some flowers 'listen' for buzzing bees and sweeten their nectar in response.",
+    "fact": "Research on evening primrose has found that flowers can sense the vibrations of an approaching pollinator's wingbeats and, within minutes, increase the sugar concentration of their nectar.",
+    "tags": [
+      "biology",
+      "plants"
+    ]
+  },
+  {
+    "id": "science-175",
+    "domain": "science",
+    "hook": "One flower smells like rotting meat on purpose.",
+    "fact": "The corpse flower (Amorphophallus titanum) blooms rarely, sometimes only once every several years, and releases an odor of decaying flesh to attract the carrion beetles and flies that pollinate it.",
+    "tags": [
+      "biology",
+      "plants"
+    ]
+  },
+  {
+    "id": "science-176",
+    "domain": "science",
+    "hook": "Whales used to walk on land.",
+    "fact": "Fossil evidence shows whales descended from hoofed, land-dwelling mammals that gradually returned to the ocean over millions of years, eventually losing their hind legs and evolving flippers and flukes.",
+    "tags": [
+      "evolution",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-177",
+    "domain": "science",
+    "hook": "A moth's color change during the Industrial Revolution is one of evolution's clearest live demonstrations.",
+    "fact": "As soot from factories darkened tree bark in industrial England, the once-rare dark form of the peppered moth became dominant because it was better camouflaged from predators — then reversed as pollution controls cleaned the air.",
+    "tags": [
+      "evolution",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-178",
+    "domain": "science",
+    "hook": "Dolphins and extinct marine reptiles evolved nearly the same body shape independently.",
+    "fact": "Ichthyosaurs, ancient marine reptiles unrelated to mammals, evolved a streamlined, fin-bearing body strikingly similar to dolphins — a case of convergent evolution driven by the shared demands of swimming fast underwater.",
+    "tags": [
+      "evolution",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-179",
+    "domain": "science",
+    "hook": "Coral reefs cover under 1% of the ocean floor but support a quarter of all marine species.",
+    "fact": "Despite their small footprint, coral reef ecosystems provide shelter, breeding grounds, and food sources for an estimated 25% of the ocean's known species.",
+    "whyItMatters": "It's why coral bleaching from warming oceans threatens far more biodiversity than the reefs' size would suggest.",
+    "tags": [
+      "ecology",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-180",
+    "domain": "science",
+    "hook": "Earth has already been through five mass extinctions.",
+    "fact": "The fossil record shows five major mass extinction events, the most famous wiping out the dinosaurs 66 million years ago. Many scientists argue current biodiversity loss driven by human activity could constitute a sixth.",
+    "tags": [
+      "ecology",
+      "evolution"
+    ]
+  },
+  {
+    "id": "science-181",
+    "domain": "science",
+    "hook": "Removing one species can unravel an entire ecosystem.",
+    "fact": "Keystone species like sea otters and wolves have effects on their ecosystems far larger than their numbers suggest — otters keep sea urchin populations in check to protect kelp forests, while wolves reintroduced to Yellowstone reshaped rivers by changing elk grazing patterns.",
+    "tags": [
+      "ecology",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-182",
+    "domain": "science",
+    "hook": "Cane toads were introduced to fix a pest problem and became the pest.",
+    "fact": "Australia released cane toads in 1935 to control beetles damaging sugarcane crops. The toads mostly ignored the beetles and instead spread across the continent, poisoning native predators that tried to eat their toxic skin.",
+    "tags": [
+      "ecology",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-183",
+    "domain": "science",
+    "hook": "The powerhouses of your cells used to be free-living bacteria.",
+    "fact": "According to endosymbiotic theory, mitochondria and chloroplasts were once independent bacteria that were engulfed by a larger ancient cell and, over time, evolved into permanent internal organelles.",
+    "tags": [
+      "evolution",
+      "biology"
+    ]
+  },
+  {
+    "id": "science-184",
+    "domain": "science",
+    "hook": "Antibiotic resistance is evolution happening in real time.",
+    "fact": "Every time bacteria are exposed to antibiotics, the few that carry random mutations helping them survive go on to reproduce, passing resistance to the next generation — natural selection playing out over just years instead of millennia.",
+    "whyItMatters": "It's a major reason public health officials push for careful, limited antibiotic use rather than overprescribing.",
+    "tags": [
+      "evolution",
+      "medicine"
+    ]
+  },
+  {
+    "id": "science-185",
+    "domain": "science",
+    "hook": "Modern humans and Neanderthals overlapped — and interbred.",
+    "fact": "Homo sapiens coexisted with Neanderthals in parts of Europe and Asia for thousands of years before Neanderthals went extinct roughly 40,000 years ago. Many people today still carry small amounts of Neanderthal DNA as a result.",
+    "tags": [
+      "evolution",
+      "genetics"
+    ]
+  },
+  {
+    "id": "science-186",
+    "domain": "science",
+    "hook": "Mount Everest is still growing.",
+    "fact": "The ongoing collision between the Indian and Eurasian tectonic plates continues to push Everest upward by a few millimeters each year, even as erosion slowly wears it down.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-187",
+    "domain": "science",
+    "hook": "Earth's core is solid despite being hotter than the sun's surface.",
+    "fact": "Temperatures in Earth's inner core are estimated to rival the surface of the sun, but the immense pressure at that depth keeps the iron-nickel core solid rather than letting it melt.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-188",
+    "domain": "science",
+    "hook": "Earth's magnetic poles have flipped many times in its history.",
+    "fact": "Magnetic north and south have completely reversed hundreds of times over Earth's history, a process recorded in the magnetic alignment of minerals frozen into ancient rock as it cooled.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-189",
+    "domain": "science",
+    "hook": "A river carved one of the world's most famous landmarks over millions of years.",
+    "fact": "The Grand Canyon was cut by the Colorado River slowly eroding through layers of rock over several million years, exposing nearly two billion years of geologic history in its walls.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-190",
+    "domain": "science",
+    "hook": "Diamonds are delivered to the surface by volcanic eruptions.",
+    "fact": "Diamonds form under intense heat and pressure around 150 kilometers deep in Earth's mantle, then get carried up rapidly through narrow volcanic pipes called kimberlites during eruptions.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-191",
+    "domain": "science",
+    "hook": "The Sahara Desert used to be green.",
+    "fact": "As recently as about 6,000 years ago, the Sahara was covered in grasslands, lakes, and rivers that supported hippos and crocodiles, before a shift in Earth's orbit gradually turned it into the desert it is today.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-192",
+    "domain": "science",
+    "hook": "One of America's most famous national parks sits on top of a supervolcano.",
+    "fact": "Yellowstone National Park lies over a volcanic hotspot capable of massive eruptions, the most recent of which occurred roughly 640,000 years ago and left behind the enormous caldera visible today.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-193",
+    "domain": "science",
+    "hook": "We're technically still living in an ice age.",
+    "fact": "Geologists define an ice age by the presence of permanent ice sheets, and since Antarctica and Greenland are still covered in ice, Earth is currently in a warm interglacial period within an ongoing ice age that began about 2.6 million years ago.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-194",
+    "domain": "science",
+    "hook": "About three-quarters of the world's active volcanoes sit in one horseshoe-shaped zone.",
+    "fact": "The Pacific 'Ring of Fire,' a roughly 25,000-mile chain circling the Pacific Ocean basin, hosts around 75% of Earth's active volcanoes due to the many tectonic plate boundaries that run through it.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-195",
+    "domain": "science",
+    "hook": "Continents drift about as fast as your fingernails grow.",
+    "fact": "Tectonic plates move at roughly 2 to 5 centimeters a year on average — a pace similar to human fingernail growth — yet over tens of millions of years that slow drift has rearranged entire continents.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-196",
+    "domain": "science",
+    "hook": "Cave formations grow at a barely perceptible pace.",
+    "fact": "Stalactites and stalagmites form as mineral-rich water drips through limestone caves, depositing tiny amounts of calcite over time — many grow only a few centimeters per thousand years.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-197",
+    "domain": "science",
+    "hook": "The deepest point in the ocean is deeper than Mount Everest is tall.",
+    "fact": "The Challenger Deep in the Pacific's Mariana Trench plunges to roughly 10,900 meters below sea level, deeper than Mount Everest's 8,849-meter height above it.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-198",
+    "domain": "science",
+    "hook": "Each step up on the earthquake magnitude scale means about 10 times more shaking.",
+    "fact": "Earthquake magnitude scales are logarithmic, so a magnitude 6 quake shakes the ground roughly 10 times more than a magnitude 5, and releases around 32 times more energy.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-199",
+    "domain": "science",
+    "hook": "The fuel in your car is millions of years old.",
+    "fact": "Coal, oil, and natural gas formed from the remains of ancient plants and marine organisms buried and compressed under heat and pressure over millions of years, which is why they're called fossil fuels.",
+    "tags": [
+      "geology",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "science-200",
+    "domain": "science",
+    "hook": "Amber can trap a moment in time for tens of millions of years.",
+    "fact": "When tree resin fossilizes into amber, it can preserve insects, spiders, and even small reptiles in remarkable detail, sometimes offering scientists a near-perfect window into ecosystems from the age of dinosaurs.",
+    "tags": [
+      "geology",
+      "biology"
+    ]
   }
 ]

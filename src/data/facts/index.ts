@@ -5,6 +5,11 @@ import history from './history.json'
 import geography from './geography.json'
 import culture from './culture.json'
 import space from './space.json'
+import language from './language.json'
+import psychology from './psychology.json'
+import art from './art.json'
+import food from './food.json'
+import sports from './sports.json'
 
 /**
  * All curated facts, hand-seeded per domain in src/data/facts/*.json.
@@ -19,4 +24,9 @@ export const allFacts: Fact[] = [
   ...(geography as Fact[]),
   ...(culture as Fact[]),
   ...(space as Fact[]),
+  ...(language as Fact[]),
+  ...(psychology as Fact[]),
+  ...(art as Fact[]),
+  ...(food as Fact[]),
+  ...(sports as Fact[]),
 ]

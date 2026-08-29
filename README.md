@@ -1,9 +1,12 @@
 # semicolon
 
 A TikTok-style feed of bite-sized knowledge. Swipe, scroll, or press ↓
-through short trivia cards across six broad domains — Science, Technology,
-History, Geography, Culture & Society, and Space & Universe — save the ones
-you like, and build a daily streak.
+through short trivia cards across eleven broad domains — Science, Technology,
+History, Geography, Culture & Society, Space & Universe, Language &
+Etymology, Psychology & the Mind, Art & Design, Food & Cuisine, and Sports &
+Fitness — save the ones you like, and build a daily streak. The seed dataset
+holds 200 curated facts per domain (2,200 total); see "Adding new facts or a
+new domain" below for how to keep extending it.
 
 ## Stack
 
@@ -95,20 +98,29 @@ via the service-role key).
 
 **New facts:** open the relevant file in `src/data/facts/` (one JSON file
 per domain) and add an entry with a unique `id`, following the existing
-shape. No app code changes needed. Re-run `npm run seed` to push the new
-facts to Supabase (it's an upsert, so it's safe to re-run any time).
+shape (`hook`, `fact`, optional `whyItMatters`, `domain`, `tags`, optional
+`sourceUrl`). No app code changes needed. Each domain currently holds 200
+curated facts — there's no hard cap, but keep domains at a roughly even
+count so the feed's weighting doesn't end up skewed by one domain simply
+having far more content than the others. Re-run `npm run seed` to push the
+new facts to Supabase (it's an upsert, so it's safe to re-run any time).
 
 **New domain:**
 
 1. Add the domain's slug to `DOMAINS` in `src/lib/types.ts`, plus a label
-   in `DOMAIN_LABELS` and an emoji in `DOMAIN_EMOJI`.
-2. Add a gradient for it to `DOMAIN_GRADIENTS` in
-   `src/features/feed/components/FactCard.tsx`.
-3. Create `src/data/facts/<domain>.json` and add it to the spread in
-   `src/data/facts/index.ts`.
-4. Add a localized label for it to `DOMAIN_LABELS` in `src/lib/types.ts`
-   for every locale in `LOCALES` (not just English).
-5. Run `npm run seed`.
+   in `DOMAIN_LABELS` (every locale in `LOCALES`, not just English) and an
+   emoji in `DOMAIN_EMOJI`.
+2. Add a gradient and accent color for it to `DOMAIN_GRADIENTS` and
+   `DOMAIN_ACCENT` in `src/lib/domainTheme.ts`.
+3. Create `src/data/facts/<domain>.json` (aim for ~200 facts, broad
+   umbrella coverage — see the existing files for the convention) and add
+   it to the spread in `src/data/facts/index.ts`.
+4. Run `npm run seed`.
+
+No other code changes are needed — the domain picker, feed selection,
+weighting, resurfacing, and exhaustion-fallback logic all read from
+`DOMAINS`/`preferences.domains` generically and don't hardcode which or
+how many domains exist.
 
 ## Language
 

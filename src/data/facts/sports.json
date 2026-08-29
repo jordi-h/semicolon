@@ -1,0 +1,2027 @@
+[
+  {
+    "id": "sports-001",
+    "domain": "sports",
+    "hook": "The first Olympic champion in recorded history was a cook.",
+    "fact": "Coroebus of Elis, a baker/cook by trade, won the sole event at the ancient Olympics in 776 BC: the stadion, a sprint of about 192 meters. For centuries afterward, the Greeks used his victory to date historical events.",
+    "tags": [
+      "ancient-olympics",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-002",
+    "domain": "sports",
+    "hook": "Ancient Olympic athletes competed completely naked.",
+    "fact": "Greek athletes at the ancient Olympics performed nude, a practice tied to the word 'gymnasium,' which derives from the Greek 'gymnos,' meaning naked. The custom was said to honor the human body and the gods.",
+    "tags": [
+      "ancient-olympics",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-003",
+    "domain": "sports",
+    "hook": "Married women were banned from even watching the ancient Olympics.",
+    "fact": "Married women risked death if caught at the ancient Olympic Games, though unmarried women could attend. Women had their own separate athletic festival at Olympia, the Heraean Games, dedicated to the goddess Hera.",
+    "tags": [
+      "ancient-olympics",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-004",
+    "domain": "sports",
+    "hook": "The modern Olympics were the brainchild of one French aristocrat.",
+    "fact": "Pierre de Coubertin, a French educator, revived the Olympic Games after more than 1,500 years, founding the International Olympic Committee in 1894 and staging the first modern Games in Athens in 1896.",
+    "tags": [
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-005",
+    "domain": "sports",
+    "hook": "The Olympic rings were designed so every country could see itself in them.",
+    "fact": "Pierre de Coubertin designed the five interlocking Olympic rings in 1913, choosing blue, yellow, black, green, and red specifically because at least one of those colors appeared on every national flag in the world at the time.",
+    "tags": [
+      "olympics-history",
+      "symbols"
+    ]
+  },
+  {
+    "id": "sports-006",
+    "domain": "sports",
+    "hook": "A marathon is 26.2 miles because of a British royal family's seating chart.",
+    "fact": "The marathon commemorates the legendary run of Pheidippides from Marathon to Athens, but its exact modern distance of 26.2 miles was only fixed at the 1908 London Olympics, when organizers extended the course so it would finish directly in front of the royal viewing box.",
+    "whyItMatters": "That single logistical decision is why every marathon on earth today, from Boston to Berlin, runs precisely 26.2 miles.",
+    "tags": [
+      "marathon",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-007",
+    "domain": "sports",
+    "hook": "Women weren't allowed to compete in the Olympics until the third modern Games.",
+    "fact": "The 1900 Paris Olympics were the first to include female competitors, in events like golf and tennis. British tennis player Charlotte Cooper became the first individual female Olympic champion.",
+    "tags": [
+      "olympics-history",
+      "tennis"
+    ]
+  },
+  {
+    "id": "sports-008",
+    "domain": "sports",
+    "hook": "The first Winter Olympics wasn't originally called the Winter Olympics at all.",
+    "fact": "The 1924 event in Chamonix, France, was staged as 'International Winter Sports Week' and only retroactively recognized by the IOC as the first Winter Olympic Games.",
+    "tags": [
+      "olympics-history",
+      "winter-olympics"
+    ]
+  },
+  {
+    "id": "sports-009",
+    "domain": "sports",
+    "hook": "An Olympic gold medalist had his medals stripped for playing minor-league baseball.",
+    "fact": "Jim Thorpe won gold in both the pentathlon and decathlon at the 1912 Stockholm Olympics, only to be stripped of his medals in 1913 after it emerged he had earned small sums playing semi-pro baseball, violating strict amateurism rules. His medals were later reinstated decades after his death.",
+    "whyItMatters": "The case became a landmark argument for abolishing the Olympics' rigid amateur-only rule, which was eventually dropped in the 1980s.",
+    "tags": [
+      "olympics-history",
+      "track-and-field"
+    ]
+  },
+  {
+    "id": "sports-010",
+    "domain": "sports",
+    "hook": "One sprinter's four gold medals humiliated a dictator on his own turf.",
+    "fact": "At the 1936 Berlin Olympics, staged by Nazi Germany to showcase Aryan supremacy, African American sprinter Jesse Owens won four gold medals in track and field, becoming the most successful athlete at the Games.",
+    "tags": [
+      "olympics-history",
+      "track-and-field"
+    ]
+  },
+  {
+    "id": "sports-011",
+    "domain": "sports",
+    "hook": "A perfect Olympic score once broke the scoreboard.",
+    "fact": "When Romanian gymnast Nadia Comaneci scored the first perfect 10 in Olympic history at the 1976 Montreal Games, the scoreboard displayed '1.00' because it had never been built to show a four-digit score.",
+    "tags": [
+      "gymnastics",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-012",
+    "domain": "sports",
+    "hook": "One long jump was so far ahead of its time it stood for 23 years.",
+    "fact": "American Bob Beamon leapt 8.90 meters in the long jump at the 1968 Mexico City Olympics, shattering the existing world record by nearly 55 centimeters. The mark wasn't broken until 1991.",
+    "tags": [
+      "track-and-field",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-013",
+    "domain": "sports",
+    "hook": "Running a mile in under four minutes was once thought physically impossible.",
+    "fact": "British runner Roger Bannister broke the four-minute-mile barrier on May 6, 1954, with a time of 3:59.4. Within just over a month, another runner also broke the barrier.",
+    "whyItMatters": "Bannister's run is often cited as proof that many human limits are psychological rather than physical — once the barrier fell, dozens of others quickly followed.",
+    "tags": [
+      "track-and-field",
+      "records"
+    ]
+  },
+  {
+    "id": "sports-014",
+    "domain": "sports",
+    "hook": "The Special Olympics grew out of one woman's backyard summer camp.",
+    "fact": "Eunice Kennedy Shriver started a day camp for people with intellectual disabilities in her backyard in 1962. It evolved into the first International Special Olympics Summer Games, held in Chicago in 1968.",
+    "tags": [
+      "olympics-history",
+      "paralympics"
+    ]
+  },
+  {
+    "id": "sports-015",
+    "domain": "sports",
+    "hook": "The Paralympics began as a rehabilitation program for wounded soldiers.",
+    "fact": "Neurologist Ludwig Guttmann organized the Stoke Mandeville Games in England in 1948 for World War II veterans with spinal injuries. That competition evolved into the first official Paralympic Games, held in Rome in 1960.",
+    "tags": [
+      "paralympics",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-016",
+    "domain": "sports",
+    "hook": "Basketball was invented in two weeks to solve a boredom problem.",
+    "fact": "In 1891, physical education teacher James Naismith invented basketball at a YMCA training school in Springfield, Massachusetts, to keep athletes active indoors during winter. The first games were played with peach baskets nailed to a balcony.",
+    "tags": [
+      "basketball",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-017",
+    "domain": "sports",
+    "hook": "Volleyball was originally called 'Mintonette.'",
+    "fact": "William G. Morgan invented volleyball in 1895 at a YMCA in Holyoke, Massachusetts, as a less physically demanding alternative to basketball for older members. It was renamed volleyball soon after because players 'volleyed' the ball back and forth.",
+    "tags": [
+      "volleyball",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-018",
+    "domain": "sports",
+    "hook": "Baseball wasn't invented by the man credited on its own hall-of-fame plaque.",
+    "fact": "For decades, baseball's origin was officially credited to Abner Doubleday supposedly inventing it in Cooperstown in 1839. Historians have since debunked this myth; the game actually evolved gradually from older English bat-and-ball games like rounders and cricket.",
+    "tags": [
+      "baseball",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-019",
+    "domain": "sports",
+    "hook": "Baseball's modern rules were codified by a bank clerk's amateur club.",
+    "fact": "The Knickerbocker Base Ball Club of New York, led by Alexander Cartwright, drew up a set of rules in 1845 establishing foul lines, three strikes, and three outs per inning — the foundation of the modern game.",
+    "tags": [
+      "baseball",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-020",
+    "domain": "sports",
+    "hook": "American football's inventor never played it professionally.",
+    "fact": "Walter Camp, a Yale player and coach, is called the 'father of American football' for pushing rugby-derived rules toward the modern game in the 1880s, introducing the line of scrimmage and the system of downs.",
+    "tags": [
+      "american-football",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-021",
+    "domain": "sports",
+    "hook": "The first Super Bowl didn't even sell out.",
+    "fact": "The inaugural Super Bowl in January 1967, pitting the Green Bay Packers against the Kansas City Chiefs to determine a champion between two rival leagues, failed to sell out the Los Angeles Coliseum.",
+    "tags": [
+      "american-football",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-022",
+    "domain": "sports",
+    "hook": "Modern ice hockey traces to a single indoor game at a Canadian university.",
+    "fact": "One of the first organized indoor ice hockey games with codified rules was played in 1875 at Montreal's Victoria Skating Rink, largely organized by McGill University students who formalized rules a couple of years later.",
+    "tags": [
+      "ice-hockey",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-023",
+    "domain": "sports",
+    "hook": "The Stanley Cup was a gift from a British governor who never saw it awarded.",
+    "fact": "Lord Stanley, Canada's Governor General, donated the Stanley Cup in 1892 as an amateur hockey trophy. He returned to England before ever watching a Cup championship game.",
+    "tags": [
+      "ice-hockey",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-024",
+    "domain": "sports",
+    "hook": "Soccer split from rugby over one simple rule: no hands.",
+    "fact": "The Football Association, founded in England in 1863, codified the laws of association football, deliberately banning the carrying of the ball with hands — a break from rugby football clubs that wanted to keep that option.",
+    "tags": [
+      "soccer",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-025",
+    "domain": "sports",
+    "hook": "Rugby's origin story about a boy grabbing the ball and running is probably a myth.",
+    "fact": "Legend holds that in 1823, schoolboy William Webb Ellis 'invented' rugby by picking up a soccer ball and running with it at Rugby School. Historians consider the tale largely apocryphal, invented decades after the fact.",
+    "tags": [
+      "rugby",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-026",
+    "domain": "sports",
+    "hook": "Cricket predates the United States by centuries.",
+    "fact": "Cricket's roots trace back to 16th-century England, making it one of the oldest team sports still played in something close to its original form, long before it spread across the British Empire.",
+    "tags": [
+      "cricket",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-027",
+    "domain": "sports",
+    "hook": "The world's oldest tennis tournament began as a small club fundraiser.",
+    "fact": "Wimbledon was first held in 1877 by the All England Croquet and Lawn Tennis Club to raise money for a new pony-drawn lawn roller. It remains the oldest tennis tournament in the world.",
+    "tags": [
+      "tennis",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-028",
+    "domain": "sports",
+    "hook": "Lawn tennis has roots in a game played by French monks with their bare hands.",
+    "fact": "Modern tennis descends partly from 'jeu de paume' ('game of the palm'), a medieval French handball-like game played in monastery courtyards long before rackets were introduced.",
+    "tags": [
+      "tennis",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-029",
+    "domain": "sports",
+    "hook": "Golf was so popular in medieval Scotland that a king tried to ban it.",
+    "fact": "Golf developed in Scotland by the 15th century, centered on St Andrews, still called the 'home of golf.' King James II banned the game in 1457 because it was distracting men from archery practice.",
+    "tags": [
+      "golf",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-030",
+    "domain": "sports",
+    "hook": "Table tennis started as an after-dinner party game using cigar box lids.",
+    "fact": "In 1880s England, upper-class diners improvised a miniature version of lawn tennis on the dinner table, using cigar box lids as paddles, a row of books as the net, and a champagne cork or rounded ball.",
+    "tags": [
+      "table-tennis",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-031",
+    "domain": "sports",
+    "hook": "Badminton is named after an English country estate, not a place it was invented.",
+    "fact": "The sport takes its name from Badminton House in Gloucestershire, England, where British officers popularized it in the 1870s after encountering similar shuttlecock games, including one called 'poona,' in colonial India.",
+    "tags": [
+      "badminton",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-032",
+    "domain": "sports",
+    "hook": "Team handball's modern rules were drawn up in Denmark, not the country you'd expect.",
+    "fact": "While ball-throwing games with handball-like elements existed earlier, the modern sport of team handball was formalized in Germany and Scandinavia in the late 19th and early 20th centuries, with a Danish schoolteacher publishing an early rulebook in 1898.",
+    "tags": [
+      "handball",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-033",
+    "domain": "sports",
+    "hook": "Water polo began as a rowdier, more violent version of rugby played in rivers.",
+    "fact": "Water polo developed in England and Scotland in the mid-1800s as a water-based version of rugby football, originally nicknamed 'water rugby.' Early matches allowed wrestling opponents underwater to wrest away the ball.",
+    "tags": [
+      "water-polo",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-034",
+    "domain": "sports",
+    "hook": "Boxing didn't require gloves until the 1860s.",
+    "fact": "Bare-knuckle boxing was standard until the Marquess of Queensberry Rules, published in 1867, mandated padded gloves and three-minute rounds, transforming the sport into something closer to its modern form.",
+    "tags": [
+      "boxing",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-035",
+    "domain": "sports",
+    "hook": "'Greco-Roman' wrestling wasn't actually invented by the Greeks or Romans.",
+    "fact": "Despite its ancient-sounding name, Greco-Roman wrestling — which bans holds below the waist — was codified in 19th-century France, and the name was chosen to evoke a romanticized classical past rather than describe its real origin.",
+    "tags": [
+      "wrestling",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-036",
+    "domain": "sports",
+    "hook": "Olympic weightlifting has been around since the very first modern Games.",
+    "fact": "Weightlifting was part of the inaugural 1896 Athens Olympics, though the sport wasn't held at every Games in the early 20th century before becoming a permanent fixture.",
+    "tags": [
+      "weightlifting",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-037",
+    "domain": "sports",
+    "hook": "Archery was dropped from the Olympics for 52 years because there was no standard rulebook.",
+    "fact": "Archery featured at the Olympics from 1900 but was removed after 1920 partly because countries used wildly different rules and target distances. It didn't return until 1972, once international standards were established.",
+    "tags": [
+      "archery",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-038",
+    "domain": "sports",
+    "hook": "Fencing is one of only a handful of sports on the Olympic program every single time.",
+    "fact": "Fencing has appeared at every modern Summer Olympics since 1896, placing it in a small group of sports — alongside athletics, swimming, cycling, and gymnastics — that has never been dropped from the program.",
+    "tags": [
+      "fencing",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-039",
+    "domain": "sports",
+    "hook": "Judo's founder built the sport around discipline, not just competition.",
+    "fact": "Japanese educator Jigoro Kano created judo in 1882, blending traditional jujutsu techniques with a philosophy of mutual welfare. It became the first Asian martial art added to the Olympics, debuting at the 1964 Tokyo Games.",
+    "tags": [
+      "judo",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-040",
+    "domain": "sports",
+    "hook": "One German gym teacher is considered the father of modern gymnastics.",
+    "fact": "Friedrich Ludwig Jahn founded the German gymnastics movement in the early 1800s, inventing apparatus still used today, including the parallel bars and the vaulting horse.",
+    "tags": [
+      "gymnastics",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-041",
+    "domain": "sports",
+    "hook": "Figure skating debuted at the Olympics before there was a Winter Olympics.",
+    "fact": "Figure skating first appeared at the 1908 London Summer Games, more than a decade before a separate Winter Olympics existed. It moved permanently to the Winter Games once they launched in 1924.",
+    "tags": [
+      "figure-skating",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-042",
+    "domain": "sports",
+    "hook": "The Dutch have been racing on ice for over 400 years.",
+    "fact": "Speed skating developed in the Netherlands, where frozen canals provided natural long-distance racing routes as far back as the 1600s, cementing the country's enduring dominance in the sport.",
+    "tags": [
+      "speed-skating",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-043",
+    "domain": "sports",
+    "hook": "Curling stones were sliding across Scottish ponds before the printing press was common.",
+    "fact": "Curling originated in 16th-century Scotland, where players slid stones across frozen ponds and lochs. Archaeological and documentary evidence dates the game to at least the 1540s.",
+    "tags": [
+      "curling",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-044",
+    "domain": "sports",
+    "hook": "Bobsledding was invented by bored Swiss hotel guests.",
+    "fact": "Bobsled emerged in late-19th-century St. Moritz, Switzerland, where wealthy winter tourists began racing modified sleds down mountain roads. The world's first bobsled club formed there in 1897.",
+    "tags": [
+      "bobsled",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-045",
+    "domain": "sports",
+    "hook": "Alpine skiing didn't join the Winter Olympics until its twelfth edition.",
+    "fact": "Downhill and slalom skiing made their Winter Olympic debut only in 1936 in Garmisch-Partenkirchen, Germany, even though cross-country skiing had been part of the Games since they began in 1924.",
+    "tags": [
+      "skiing",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-046",
+    "domain": "sports",
+    "hook": "People were skiing across Scandinavia thousands of years before it was a sport.",
+    "fact": "Cross-country skiing is among the oldest forms of human transportation, with wooden skis found preserved in Scandinavian and Russian bogs dating back several thousand years, long before it became a competitive event.",
+    "tags": [
+      "skiing",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-047",
+    "domain": "sports",
+    "hook": "Ski jumping began as a way for Norwegian farmers to show off.",
+    "fact": "Ski jumping developed in 19th-century Norway, with early competitions in the Telemark region showcasing farmers' skiing skill. It became one of the signature events of the Winter Olympics from their start in 1924.",
+    "tags": [
+      "skiing",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-048",
+    "domain": "sports",
+    "hook": "Biathlon is essentially a fossilized military survival skill.",
+    "fact": "Biathlon, which combines cross-country skiing with rifle shooting, grew out of Scandinavian military and hunting traditions where soldiers needed to ski long distances and shoot accurately along the way.",
+    "tags": [
+      "biathlon",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-049",
+    "domain": "sports",
+    "hook": "The Tour de France was created to sell more newspapers.",
+    "fact": "Cycling's most famous race launched in 1903 as a promotional stunt by journalist Henri Desgrange to boost circulation of his sports newspaper, L'Auto, in a circulation war with a rival publication.",
+    "tags": [
+      "cycling",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-050",
+    "domain": "sports",
+    "hook": "One Olympic sport was designed to test the skills of a 19th-century cavalry officer.",
+    "fact": "Pierre de Coubertin personally created the modern pentathlon for the 1912 Stockholm Olympics, combining fencing, swimming, horse riding, shooting, and running to simulate the skills a soldier might need behind enemy lines.",
+    "tags": [
+      "olympics-history",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-051",
+    "domain": "sports",
+    "hook": "The world's oldest rowing regatta predates the modern Olympics by 57 years.",
+    "fact": "The Henley Royal Regatta in England was first held in 1839, decades before Pierre de Coubertin revived the Olympic Games, and remains one of the most prestigious events in rowing.",
+    "tags": [
+      "rowing",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-052",
+    "domain": "sports",
+    "hook": "Sailing's oldest trophy has been contested since before the American Civil War.",
+    "fact": "The America's Cup, sailing's premier prize, dates to 1851, when the schooner America won a race around England's Isle of Wight. It is the oldest active trophy in international sport.",
+    "tags": [
+      "sailing",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-053",
+    "domain": "sports",
+    "hook": "Sailing has been part of the Olympics since 1900 under a different name.",
+    "fact": "Olympic sailing, originally called yachting, debuted at the 1900 Paris Games after being scheduled but cancelled at the 1896 Athens Games due to poor weather.",
+    "tags": [
+      "sailing",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-054",
+    "domain": "sports",
+    "hook": "Diving is a younger Olympic sport than you might think.",
+    "fact": "Competitive diving joined the Olympic program in 1904 at the St. Louis Games, decades after swimming, which had been included since the first modern Olympics in 1896.",
+    "tags": [
+      "diving",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-055",
+    "domain": "sports",
+    "hook": "The first Olympic swimming races weren't held in a pool.",
+    "fact": "Swimming events at the 1896 Athens Olympics took place in open water in the Bay of Zea, in the cold Aegean Sea, rather than in a purpose-built swimming pool.",
+    "tags": [
+      "swimming",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-056",
+    "domain": "sports",
+    "hook": "The triathlon is barely 50 years old.",
+    "fact": "The modern triathlon, combining swimming, cycling, and running, was invented in 1974 by a pair of San Diego running club members who organized the first event at Mission Bay, California.",
+    "tags": [
+      "triathlon",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-057",
+    "domain": "sports",
+    "hook": "Squash was invented by bored English schoolboys with a broken rackets ball.",
+    "fact": "Squash developed at Harrow School in England in the 19th century after students discovered that a punctured rackets ball, which 'squashed' on impact, created a slower, more strategic game in a smaller court.",
+    "tags": [
+      "squash",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-058",
+    "domain": "sports",
+    "hook": "Lacrosse is older than nearly every European sport played in North America today.",
+    "fact": "Lacrosse originated among Indigenous peoples of North America, who played versions of the game for centuries before European contact, sometimes with hundreds of players and matches lasting days. It was known among some nations as 'the Creator's Game.'",
+    "tags": [
+      "lacrosse",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-059",
+    "domain": "sports",
+    "hook": "Polo is thousands of years older than the British Empire that made it famous.",
+    "fact": "Polo originated in ancient Persia roughly 2,500 years ago as training for cavalry, long before British colonists encountered it in India and helped spread it around the world in the 19th century.",
+    "tags": [
+      "polo",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-060",
+    "domain": "sports",
+    "hook": "The word 'derby' comes from a single 18th-century horse race.",
+    "fact": "The Epsom Derby in England, first run in 1780 and named after the Earl of Derby, became so famous that 'derby' entered the language as a generic term for any major sporting contest.",
+    "tags": [
+      "horse-racing",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-061",
+    "domain": "sports",
+    "hook": "The Kentucky Derby has run every single year since Ulysses S. Grant was president.",
+    "fact": "First contested in 1875, the Kentucky Derby has been held annually without interruption ever since, making it one of the longest continuously running sporting events in the United States.",
+    "tags": [
+      "horse-racing",
+      "records"
+    ]
+  },
+  {
+    "id": "sports-062",
+    "domain": "sports",
+    "hook": "Sumo wrestling has religious roots stretching back over a thousand years.",
+    "fact": "Sumo is tied to ancient Shinto ritual in Japan, with references to sumo-like contests appearing in the Kojiki, Japan's oldest chronicle, compiled in the 8th century.",
+    "tags": [
+      "sumo",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-063",
+    "domain": "sports",
+    "hook": "Women couldn't run an Olympic marathon until 1984.",
+    "fact": "American Joan Benoit won the first-ever women's Olympic marathon at the 1984 Los Angeles Games, more than eight decades after the men's Olympic marathon debuted in 1896.",
+    "tags": [
+      "marathon",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-064",
+    "domain": "sports",
+    "hook": "A race official physically tried to drag a woman off the Boston Marathon course.",
+    "fact": "In 1967, Kathrine Switzer became the first woman to run the Boston Marathon with an official race number, after registering using only her initials. A race official tried to rip her bib off mid-race, but she finished anyway.",
+    "whyItMatters": "The incident became a defining image of the fight for women's distance running, and Boston officially opened its race to women just five years later, in 1972.",
+    "tags": [
+      "marathon",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-065",
+    "domain": "sports",
+    "hook": "The host nation won the very first soccer World Cup.",
+    "fact": "Uruguay both hosted and won the first FIFA World Cup in 1930, beating Argentina in the final in front of a home crowd in Montevideo.",
+    "tags": [
+      "soccer",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-066",
+    "domain": "sports",
+    "hook": "Soccer's original World Cup trophy was stolen and never recovered.",
+    "fact": "The original Jules Rimet Trophy was permanently awarded to Brazil in 1970 after the country won its third World Cup. It was stolen from a Brazilian football federation display case in 1983 and has never been found.",
+    "tags": [
+      "soccer",
+      "records"
+    ]
+  },
+  {
+    "id": "sports-067",
+    "domain": "sports",
+    "hook": "Rugby didn't get its own World Cup until over a century after the sport was codified.",
+    "fact": "The first Rugby World Cup was co-hosted by Australia and New Zealand in 1987, more than 160 years after rugby football began developing in England.",
+    "tags": [
+      "rugby",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-068",
+    "domain": "sports",
+    "hook": "Cricket's first World Cup used a format very different from today's game.",
+    "fact": "The inaugural Cricket World Cup was held in England in 1975, featuring 60-over-per-side matches, all played in white kits with a red ball rather than the colored-kit, floodlit format common today.",
+    "tags": [
+      "cricket",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-069",
+    "domain": "sports",
+    "hook": "Golf's biggest transatlantic rivalry is named after a seed merchant.",
+    "fact": "The Ryder Cup, the biennial golf competition between the United States and Europe, began in 1927 and takes its name from English businessman Samuel Ryder, who donated the trophy.",
+    "tags": [
+      "golf",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-070",
+    "domain": "sports",
+    "hook": "Wimbledon banned professional players for its first 91 years.",
+    "fact": "Wimbledon remained an amateurs-only tournament from its founding in 1877 until 1968, when the sport entered the 'Open Era' and allowed professional players to compete for the first time.",
+    "tags": [
+      "tennis",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-071",
+    "domain": "sports",
+    "hook": "Muhammad Ali won Olympic gold years before anyone called him Muhammad Ali.",
+    "fact": "Competing under his birth name, Cassius Clay won the light heavyweight boxing gold medal at the 1960 Rome Olympics before turning professional and later adopting the name Muhammad Ali.",
+    "tags": [
+      "boxing",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-072",
+    "domain": "sports",
+    "hook": "A racehorse from the 1970s still holds records that modern horses can't beat.",
+    "fact": "Secretariat's 1973 Triple Crown victories included course-record times at the Kentucky Derby, Preakness, and Belmont Stakes. His Belmont record time of 2:24 has never been matched.",
+    "tags": [
+      "horse-racing",
+      "records"
+    ]
+  },
+  {
+    "id": "sports-073",
+    "domain": "sports",
+    "hook": "One swimmer has won more Olympic gold medals than most entire countries.",
+    "fact": "American swimmer Michael Phelps won 23 Olympic gold medals across four Games between 2004 and 2016, making him the most decorated Olympian in history by a wide margin.",
+    "tags": [
+      "swimming",
+      "records"
+    ]
+  },
+  {
+    "id": "sports-074",
+    "domain": "sports",
+    "hook": "The fastest human sprint times ever recorded came from one race in Berlin.",
+    "fact": "Usain Bolt set the still-standing world records in both the 100 meters (9.58 seconds) and 200 meters (19.19 seconds) at the 2009 World Championships in Berlin.",
+    "tags": [
+      "track-and-field",
+      "records"
+    ]
+  },
+  {
+    "id": "sports-075",
+    "domain": "sports",
+    "hook": "One hockey player's scoring records may never be broken.",
+    "fact": "Wayne Gretzky retired as the NHL's all-time leader in goals, assists, and total points, and his career assists total alone exceeds the career point totals of every other player in league history except a handful.",
+    "tags": [
+      "ice-hockey",
+      "records"
+    ]
+  },
+  {
+    "id": "sports-076",
+    "domain": "sports",
+    "hook": "Only one man has ever won soccer's World Cup three times as a player.",
+    "fact": "Pelé won the World Cup with Brazil in 1958, 1962, and 1970, becoming the only player in history to claim three titles. He was just 17 years old during his first triumph.",
+    "tags": [
+      "soccer",
+      "records"
+    ]
+  },
+  {
+    "id": "sports-077",
+    "domain": "sports",
+    "hook": "Baseball's greatest home run hitter started his career as a star pitcher.",
+    "fact": "Babe Ruth broke into Major League Baseball as an elite left-handed pitcher for the Boston Red Sox before being converted into a full-time outfielder, a switch that unlocked the power-hitting career that transformed the sport.",
+    "tags": [
+      "baseball",
+      "records"
+    ]
+  },
+  {
+    "id": "sports-078",
+    "domain": "sports",
+    "hook": "The ancient Olympics lasted over a thousand years before being shut down by an emperor.",
+    "fact": "The ancient Olympic Games ran roughly continuously from 776 BC until Roman Emperor Theodosius I banned pagan festivals in 393 AD, ending a tradition that had lasted more than a millennium.",
+    "tags": [
+      "ancient-olympics",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-079",
+    "domain": "sports",
+    "hook": "The Olympic torch relay is a 20th-century invention, not an ancient tradition.",
+    "fact": "Although fire held ceremonial significance in ancient Olympia, the modern torch relay carrying flame from Greece to the host city was introduced only in 1936, devised by German Olympic organizer Carl Diem for the Berlin Games.",
+    "tags": [
+      "olympics-history",
+      "symbols"
+    ]
+  },
+  {
+    "id": "sports-080",
+    "domain": "sports",
+    "hook": "The Olympic motto was borrowed from a French priest, not an ancient Greek philosopher.",
+    "fact": "'Citius, Altius, Fortius' ('Faster, Higher, Stronger') was coined by Henri Didon, a French Dominican priest and sports enthusiast, and adopted by Pierre de Coubertin as the Olympic motto in 1894.",
+    "tags": [
+      "olympics-history",
+      "symbols"
+    ]
+  },
+  {
+    "id": "sports-081",
+    "domain": "sports",
+    "hook": "Cold War politics once emptied out two straight Olympic Games.",
+    "fact": "The United States led a boycott of the 1980 Moscow Olympics over the Soviet invasion of Afghanistan. In retaliation, the Soviet Union led a boycott of the 1984 Los Angeles Olympics four years later.",
+    "tags": [
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-082",
+    "domain": "sports",
+    "hook": "A raised fist on an Olympic podium became one of the century's most reproduced photographs.",
+    "fact": "At the 1968 Mexico City Olympics, sprinters Tommie Smith and John Carlos each raised a black-gloved fist during the national anthem after the 200 meters, a silent protest for civil rights that drew global attention.",
+    "tags": [
+      "track-and-field",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-083",
+    "domain": "sports",
+    "hook": "The first African American Olympic gold medalist won it as part of a relay team.",
+    "fact": "John Baxter Taylor became the first African American to win an Olympic gold medal, running a leg on the United States' 4x400 meter relay team at the 1908 London Olympics.",
+    "tags": [
+      "track-and-field",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-084",
+    "domain": "sports",
+    "hook": "Table tennis wasn't an Olympic sport until nearly a century after it was invented.",
+    "fact": "Despite originating in 1880s England as a parlor game, table tennis wasn't added to the Olympic program until the 1988 Seoul Games.",
+    "tags": [
+      "table-tennis",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-085",
+    "domain": "sports",
+    "hook": "Badminton had to wait even longer than table tennis for Olympic inclusion.",
+    "fact": "Badminton became an official Olympic medal sport at the 1992 Barcelona Games, more than a century after it was formalized as a sport in England.",
+    "tags": [
+      "badminton",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-086",
+    "domain": "sports",
+    "hook": "Beach volleyball is a relatively recent Olympic addition compared to indoor volleyball.",
+    "fact": "While indoor volleyball became an Olympic sport in 1964, beach volleyball wasn't added to the Games until 1996 in Atlanta, decades after it had grown into a popular pastime on California and Brazilian beaches.",
+    "tags": [
+      "volleyball",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-087",
+    "domain": "sports",
+    "hook": "Snowboarding only joined the Winter Olympics in the late 1990s.",
+    "fact": "Snowboarding made its Winter Olympic debut at the 1998 Nagano Games, decades after the sport had first developed from surfing and skateboarding culture in the United States.",
+    "tags": [
+      "snowboarding",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-088",
+    "domain": "sports",
+    "hook": "Golf disappeared from the Olympics for over a century.",
+    "fact": "Golf was dropped from the Olympic program after the 1904 St. Louis Games and did not return until the 2016 Rio Olympics, a gap of 112 years.",
+    "tags": [
+      "golf",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-089",
+    "domain": "sports",
+    "hook": "Rugby returned to the Olympics in a much faster, seven-a-side format.",
+    "fact": "Rugby sevens, a faster and more condensed version of 15-a-side rugby union, was added to the Olympic program at the 2016 Rio Games, more than 90 years after full rugby last appeared at the 1924 Paris Olympics.",
+    "tags": [
+      "rugby",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-090",
+    "domain": "sports",
+    "hook": "Tug of war used to be an official Olympic sport.",
+    "fact": "Tug of war was a medal event at the Summer Olympics from 1900 to 1920, typically contested between teams of police officers, soldiers, or club athletes, before being dropped from the program.",
+    "tags": [
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-091",
+    "domain": "sports",
+    "hook": "One Olympic event involved shooting live birds out of the sky.",
+    "fact": "The 1900 Paris Olympics featured live pigeon shooting, the only Olympic event in history designed to intentionally kill animals. Hundreds of birds were killed before the event was discontinued for good.",
+    "whyItMatters": "The event's disappearance reflects how much Olympic values around animal welfare and sportsmanship have shifted over the past century.",
+    "tags": [
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-092",
+    "domain": "sports",
+    "hook": "Ancient Olympic combat sport had almost no rules at all.",
+    "fact": "Pankration, a brutal ancient Olympic event combining boxing and wrestling, permitted nearly everything except biting and eye-gouging. Matches ended only by submission, knockout, or occasionally death.",
+    "tags": [
+      "ancient-olympics",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-093",
+    "domain": "sports",
+    "hook": "In ancient chariot races, the credit for winning went to someone who never rode.",
+    "fact": "Chariot racing was among the most prestigious ancient Olympic events, but the owner of the horses and chariot, not the driver, was declared the official victor, which occasionally let women win despite being barred from competing themselves.",
+    "tags": [
+      "ancient-olympics",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-094",
+    "domain": "sports",
+    "hook": "Olympic athletes weren't allowed to be paid professionals until the 1980s.",
+    "fact": "The modern Olympics enforced strict amateurism rules for most of the 20th century, barring athletes who had ever earned money from sport. The IOC gradually relaxed these rules starting in the late 1970s and 1980s.",
+    "tags": [
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-095",
+    "domain": "sports",
+    "hook": "The 'Dream Team' was the first Olympic squad allowed to field NBA superstars.",
+    "fact": "The 1992 United States men's basketball team, nicknamed the 'Dream Team,' was the first Olympic basketball squad allowed to include active NBA professionals, after basketball's amateur-only rule was dropped in 1989.",
+    "whyItMatters": "The team's dominance and global popularity are widely credited with accelerating basketball's growth into a truly international sport.",
+    "tags": [
+      "basketball",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-096",
+    "domain": "sports",
+    "hook": "Ice dance didn't become an Olympic medal event until the 1970s.",
+    "fact": "Ice dance was added as an official Winter Olympic figure skating discipline at the 1976 Innsbruck Games, decades after singles and pairs skating had already been part of the Olympics.",
+    "tags": [
+      "figure-skating",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-097",
+    "domain": "sports",
+    "hook": "Team handball briefly vanished from the Olympics for 36 years.",
+    "fact": "An 11-a-side outdoor version of handball appeared at the 1936 Berlin Olympics, then disappeared from the program entirely. The modern indoor, 7-a-side version of team handball wasn't reintroduced until the 1972 Munich Games.",
+    "tags": [
+      "handball",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-098",
+    "domain": "sports",
+    "hook": "Field hockey's modern rules were set by a single London club.",
+    "fact": "Blackheath Hockey Club, founded in England in 1861, was among the earliest organized clubs to formalize modern field hockey rules, helping standardize a game that had existed in various stick-and-ball forms for centuries.",
+    "tags": [
+      "field-hockey",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-099",
+    "domain": "sports",
+    "hook": "One of the earliest known truce systems in sports history came from ancient Greece.",
+    "fact": "Ancient Greek city-states observed an 'Olympic truce,' a sacred ceasefire that allowed athletes and spectators safe passage to and from Olympia during the Games, even amid ongoing wars.",
+    "tags": [
+      "ancient-olympics",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-100",
+    "domain": "sports",
+    "hook": "Cycling was part of the Olympics from the very first modern Games.",
+    "fact": "Track and road cycling events were included in the original 1896 Athens Olympics, making cycling one of the few sports to have been on the program at every Summer Games since.",
+    "tags": [
+      "cycling",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-101",
+    "domain": "sports",
+    "hook": "One boxer's Olympic career was cut short by his own sport's amateur rules.",
+    "fact": "Boxing has been part of the Olympic program since 1904 (excluding the 1912 Stockholm Games, where it was banned under Swedish law), producing a long line of future professional champions who first fought as amateurs.",
+    "tags": [
+      "boxing",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-102",
+    "domain": "sports",
+    "hook": "The first organized marathon race wasn't run in Greece at all.",
+    "fact": "Although inspired by the ancient Greek legend of Pheidippides, the marathon as an organized athletic event was actually created for the first modern Olympics in Athens in 1896, based on a suggestion from a French classicist.",
+    "tags": [
+      "marathon",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-103",
+    "domain": "sports",
+    "hook": "One skiing discipline is essentially a race against a mountain and a clock.",
+    "fact": "The downhill, the fastest and most dangerous alpine skiing discipline, has been part of the Winter Olympics since 1936, with racers reaching speeds over 130 km/h on courses that drop thousands of feet.",
+    "tags": [
+      "skiing",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-104",
+    "domain": "sports",
+    "hook": "Rowing at the Olympics almost didn't happen at the very first Games.",
+    "fact": "Rowing was scheduled for the 1896 Athens Olympics but was cancelled at the last minute due to rough weather in the Bay of Zea, meaning it didn't actually debut at the Olympics until 1900 in Paris.",
+    "tags": [
+      "rowing",
+      "olympics-history"
+    ]
+  },
+  {
+    "id": "sports-105",
+    "domain": "sports",
+    "hook": "The javelin throw has ancient roots in real warfare, not just sport.",
+    "fact": "The javelin throw was part of the ancient Greek pentathlon, developed from actual military spear-throwing skills, making it one of the oldest continuously practiced track and field events.",
+    "tags": [
+      "track-and-field",
+      "ancient-olympics"
+    ]
+  },
+  {
+    "id": "sports-106",
+    "domain": "sports",
+    "hook": "One of the first codified sets of soccer rules banned tripping but allowed shin-kicking.",
+    "fact": "Early drafts of the Football Association's 1863 rules debated whether to allow 'hacking,' or kicking an opponent's shins. Clubs that wanted to keep hacking split off and eventually helped form rugby football instead.",
+    "tags": [
+      "soccer",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-107",
+    "domain": "sports",
+    "hook": "Competitive swimming strokes weren't standardized until relatively recently.",
+    "fact": "The breaststroke and butterfly were once considered variations of the same stroke; butterfly only split off as a distinct, separately regulated competitive stroke in the 1950s.",
+    "tags": [
+      "swimming",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-108",
+    "domain": "sports",
+    "hook": "The first organized ski race in recorded history predates modern ski resorts by over a century.",
+    "fact": "One of the earliest documented ski competitions took place in Tromsø, Norway, in 1843, long before mechanized ski lifts or purpose-built resorts existed anywhere in the world.",
+    "tags": [
+      "skiing",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-109",
+    "domain": "sports",
+    "hook": "Gymnastics' balance beam was originally a training tool, not a competitive event.",
+    "fact": "The balance beam grew out of 19th-century German gymnastics training apparatus designed to build coordination and courage, before becoming a standalone competitive event for women in the 20th century.",
+    "tags": [
+      "gymnastics",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-110",
+    "domain": "sports",
+    "hook": "Modern fencing's three weapons all evolved from different real duels.",
+    "fact": "Olympic fencing's three disciplines, foil, épée, and sabre, each trace back to different historical combat traditions: dueling swords, military cavalry sabers, and lightweight practice blades used to train young noblemen.",
+    "tags": [
+      "fencing",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-111",
+    "domain": "sports",
+    "hook": "Race walking looks strange because its rules were designed to prevent running.",
+    "fact": "Olympic race walking requires one foot to always appear in contact with the ground and the leading leg to straighten momentarily, rules that emerged from 19th-century 'pedestrianism' contests designed to distinguish walking from running.",
+    "tags": [
+      "track-and-field",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-112",
+    "domain": "sports",
+    "hook": "One of the oldest continuously awarded trophies in American team sports predates the NFL.",
+    "fact": "College football's Rose Bowl, first played in 1902, predates the founding of the modern National Football League by nearly two decades, making it one of the oldest continuously staged football events in the United States.",
+    "tags": [
+      "american-football",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-113",
+    "domain": "sports",
+    "hook": "The first organized skiing federation was founded before airplanes existed.",
+    "fact": "Norway's national skiing association, one of the earliest ski governing bodies in the world, was established in the 1880s, decades before international ski federations coordinated Olympic competition.",
+    "tags": [
+      "skiing",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-114",
+    "domain": "sports",
+    "hook": "One Olympic combat sport allows throws that would be illegal in wrestling.",
+    "fact": "Judo's Olympic scoring system rewards clean throws that land an opponent on their back, a legacy of its origin as a codified, safer alternative to older jujutsu styles that allowed joint locks and strikes.",
+    "tags": [
+      "judo",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-115",
+    "domain": "sports",
+    "hook": "Basketball's inventor originally wanted a game with no dribbling at all.",
+    "fact": "James Naismith's original 1891 rulebook for basketball didn't include dribbling; players could only advance the ball by passing. Dribbling emerged later as players began bouncing the ball to avoid violating early rules against running with it.",
+    "tags": [
+      "basketball",
+      "invention"
+    ]
+  },
+  {
+    "id": "sports-116",
+    "domain": "sports",
+    "hook": "Muscle soreness isn't caused by lactic acid.",
+    "fact": "DOMS (delayed onset muscle soreness) is caused by microscopic tears in muscle fibers and connective tissue, not lactic acid buildup, which typically clears from the muscle within about an hour of finishing exercise.",
+    "tags": [
+      "muscle-physiology",
+      "recovery",
+      "doms"
+    ]
+  },
+  {
+    "id": "sports-117",
+    "domain": "sports",
+    "hook": "Lactate is fuel, not poison.",
+    "fact": "Lactate produced during hard exercise is recycled by the body as an energy source in the heart, brain, and other muscles rather than simply being a fatigue-causing waste product.",
+    "tags": [
+      "exercise-physiology",
+      "metabolism"
+    ]
+  },
+  {
+    "id": "sports-118",
+    "domain": "sports",
+    "hook": "Your muscles remember gains you thought you lost.",
+    "fact": "When muscle grows, it adds new nuclei to its fibers, and those nuclei stick around even after months of detraining, letting the muscle rebuild size faster the second time around.",
+    "whyItMatters": "This 'muscle memory' effect is one reason athletes who return after injury or a long break regain strength faster than beginners starting from scratch.",
+    "tags": [
+      "muscle-memory",
+      "strength-training"
+    ]
+  },
+  {
+    "id": "sports-119",
+    "domain": "sports",
+    "hook": "Your cardio ceiling is set before you're born.",
+    "fact": "A large portion of a person's maximum VO2 (the top rate at which the body can use oxygen) is determined by genetics, though dedicated training can still raise it substantially within that range.",
+    "tags": [
+      "vo2-max",
+      "genetics",
+      "endurance"
+    ]
+  },
+  {
+    "id": "sports-120",
+    "domain": "sports",
+    "hook": "Not all your muscle fibers are built the same.",
+    "fact": "Slow-twitch fibers resist fatigue and power endurance sports, while fast-twitch fibers contract quickly and forcefully for short bursts like sprinting, and most people's ratio of the two is largely inherited.",
+    "tags": [
+      "muscle-fiber",
+      "biomechanics"
+    ]
+  },
+  {
+    "id": "sports-121",
+    "domain": "sports",
+    "hook": "Your metabolism stays revved up long after the workout ends.",
+    "fact": "Excess post-exercise oxygen consumption (EPOC), sometimes called the 'afterburn effect,' keeps calorie burn elevated for hours after intense exercise as the body restores oxygen, repairs tissue, and clears byproducts.",
+    "tags": [
+      "metabolism",
+      "exercise-physiology"
+    ]
+  },
+  {
+    "id": "sports-122",
+    "domain": "sports",
+    "hook": "Training too hard can quietly shut down a female athlete's body.",
+    "fact": "Relative Energy Deficiency in Sport (RED-S) occurs when an athlete doesn't eat enough to fuel training demands, which can disrupt hormones, weaken bones, and impair performance even while body weight looks normal.",
+    "whyItMatters": "RED-S is under-diagnosed because athletes often look lean and 'fit' while quietly losing bone density and menstrual function.",
+    "tags": [
+      "sports-nutrition",
+      "red-s",
+      "female-athletes"
+    ]
+  },
+  {
+    "id": "sports-123",
+    "domain": "sports",
+    "hook": "Endurance athletes' hearts beat slower for a good reason.",
+    "fact": "Years of aerobic training enlarge the heart's chambers and stroke volume, so a well-trained endurance athlete's resting heart rate can drop well below the average adult's without any health problem.",
+    "tags": [
+      "cardiovascular",
+      "endurance"
+    ]
+  },
+  {
+    "id": "sports-124",
+    "domain": "sports",
+    "hook": "The strength behind a heavy lift is refueled almost instantly.",
+    "fact": "Creatine phosphate stored in muscle regenerates ATP almost instantly, powering the first few seconds of an all-out effort like a sprint start or a heavy lift before other energy systems take over.",
+    "tags": [
+      "exercise-physiology",
+      "biomechanics"
+    ]
+  },
+  {
+    "id": "sports-125",
+    "domain": "sports",
+    "hook": "Carb-loading can roughly double your fuel tank.",
+    "fact": "A few days of high-carbohydrate eating combined with tapered training can substantially increase the glycogen stored in muscles, delaying the 'hitting the wall' fatigue endurance athletes dread.",
+    "tags": [
+      "sports-nutrition",
+      "endurance"
+    ]
+  },
+  {
+    "id": "sports-126",
+    "domain": "sports",
+    "hook": "Stretching right before a big lift can make you weaker.",
+    "fact": "Holding a static stretch for an extended period immediately before an explosive or maximal-strength effort has been shown to temporarily reduce muscular power output.",
+    "tags": [
+      "biomechanics",
+      "warm-up"
+    ]
+  },
+  {
+    "id": "sports-127",
+    "domain": "sports",
+    "hook": "Nobody actually knows what causes muscle cramps.",
+    "fact": "Despite the popular dehydration-and-electrolyte explanation, exercise-associated muscle cramps are still not fully understood, and altered nerve signaling to fatigued muscles is now considered at least as important a factor.",
+    "tags": [
+      "exercise-physiology",
+      "muscle-cramps"
+    ]
+  },
+  {
+    "id": "sports-128",
+    "domain": "sports",
+    "hook": "Runner's high probably isn't from endorphins after all.",
+    "fact": "Endorphins are too large to easily cross the blood-brain barrier, so researchers now believe the euphoric feeling after prolonged exercise is driven more by endocannabinoids, molecules similar to those found in cannabis.",
+    "tags": [
+      "exercise-physiology",
+      "neuroscience"
+    ]
+  },
+  {
+    "id": "sports-129",
+    "domain": "sports",
+    "hook": "Elite endurance athletes train where the air is thin, then race where it isn't.",
+    "fact": "The 'live high, train low' method has athletes sleep at altitude, where thinner air stimulates extra red blood cell production, while doing hard workouts at lower elevation so oxygen-deprived air doesn't blunt training intensity.",
+    "tags": [
+      "altitude-training",
+      "endurance"
+    ]
+  },
+  {
+    "id": "sports-130",
+    "domain": "sports",
+    "hook": "Some people just sweat saltier than others.",
+    "fact": "Sweat electrolyte concentration varies significantly between individuals due to genetics and training status, which is why some athletes finish a workout with visible white salt stains on their clothing and others don't.",
+    "tags": [
+      "hydration",
+      "sweat"
+    ]
+  },
+  {
+    "id": "sports-131",
+    "domain": "sports",
+    "hook": "Jumping is basically a workout for your skeleton.",
+    "fact": "Bones remodel in response to mechanical stress, a principle known as Wolff's Law, so impact activities like running or jumping tend to build denser bone than non-impact exercise like swimming.",
+    "tags": [
+      "bone-density",
+      "biomechanics"
+    ]
+  },
+  {
+    "id": "sports-132",
+    "domain": "sports",
+    "hook": "Your tendons lag behind your muscles when you get stronger.",
+    "fact": "Muscles adapt to new training loads faster than the tendons connecting them to bone, which is one reason a sudden jump in training intensity can lead to tendon injuries even as the athlete feels stronger.",
+    "tags": [
+      "tendons",
+      "injury"
+    ]
+  },
+  {
+    "id": "sports-133",
+    "domain": "sports",
+    "hook": "A simple hand squeeze can hint at how long you'll live.",
+    "fact": "Grip strength is widely used by researchers as a low-cost proxy for overall muscular strength, and population studies consistently link lower grip strength with higher risk of health decline in older adults.",
+    "whyItMatters": "Because it's so easy to measure, grip strength has become a common screening tool doctors use alongside blood pressure and cholesterol.",
+    "tags": [
+      "grip-strength",
+      "longevity",
+      "aging"
+    ]
+  },
+  {
+    "id": "sports-134",
+    "domain": "sports",
+    "hook": "Jumping in an ice bath right after lifting can backfire.",
+    "fact": "Cold water immersion performed immediately after resistance training has been shown in some studies to blunt the muscle-building signaling triggered by the workout, so many coaches now recommend delaying ice baths by several hours after strength sessions.",
+    "whyItMatters": "Athletes chasing muscle growth may want to save the ice bath for a separate day rather than right after lifting.",
+    "tags": [
+      "recovery",
+      "cold-therapy",
+      "hypertrophy"
+    ]
+  },
+  {
+    "id": "sports-135",
+    "domain": "sports",
+    "hook": "Caffeine is one of the few supplements that reliably works.",
+    "fact": "Caffeine is one of the most well-supported ergogenic aids in sports science, shown to improve endurance performance and reduce perceived effort at doses roughly equivalent to a couple of cups of coffee.",
+    "tags": [
+      "sports-nutrition",
+      "caffeine"
+    ]
+  },
+  {
+    "id": "sports-136",
+    "domain": "sports",
+    "hook": "Women's muscles may resist fatigue better than men's.",
+    "fact": "Research suggests female muscle fibers often rely more on fat oxidation and are more resistant to fatigue than male muscle fibers, which may help explain why women narrow the performance gap in ultra-endurance events.",
+    "tags": [
+      "exercise-physiology",
+      "sex-differences"
+    ]
+  },
+  {
+    "id": "sports-137",
+    "domain": "sports",
+    "hook": "The first strength gains from lifting weights come from your brain, not your muscles.",
+    "fact": "In the early weeks of a resistance-training program, most strength improvement comes from the nervous system learning to recruit muscle fibers more efficiently, before visible muscle growth even begins.",
+    "tags": [
+      "strength-training",
+      "neuromuscular"
+    ]
+  },
+  {
+    "id": "sports-138",
+    "domain": "sports",
+    "hook": "Training only your right arm can quietly strengthen your left one.",
+    "fact": "The 'cross-education effect' means resistance training one limb produces a measurable, if smaller, strength increase in the opposite, untrained limb, likely through neural adaptations.",
+    "tags": [
+      "strength-training",
+      "neuromuscular"
+    ]
+  },
+  {
+    "id": "sports-139",
+    "domain": "sports",
+    "hook": "Marathon training can work against your bench press.",
+    "fact": "The 'interference effect' describes how combining heavy endurance training with strength training in the same program can blunt gains in muscle size and power compared to strength training alone.",
+    "tags": [
+      "concurrent-training",
+      "strength-training"
+    ]
+  },
+  {
+    "id": "sports-140",
+    "domain": "sports",
+    "hook": "The post-workout 'anabolic window' is wider than gym lore claims.",
+    "fact": "Older advice insisted protein had to be consumed within 30 minutes of a workout, but research now shows the window for maximizing muscle repair is much more forgiving, spanning several hours before and after training.",
+    "whyItMatters": "This means athletes don't need to panic about missing a narrow post-workout feeding window to build muscle effectively.",
+    "tags": [
+      "sports-nutrition",
+      "protein",
+      "recovery"
+    ]
+  },
+  {
+    "id": "sports-141",
+    "domain": "sports",
+    "hook": "A resting pulse that won't come down can be a warning sign.",
+    "fact": "Overtraining syndrome, caused by prolonged excessive training without adequate recovery, is often flagged by a persistently elevated resting heart rate along with fatigue, mood disturbance, and declining performance.",
+    "tags": [
+      "overtraining",
+      "recovery"
+    ]
+  },
+  {
+    "id": "sports-142",
+    "domain": "sports",
+    "hook": "Your body needs about two weeks to learn to handle heat.",
+    "fact": "Heat acclimatization involves the body increasing blood plasma volume and sweating earlier and more efficiently, adaptations that typically take one to two weeks of repeated heat exposure to develop.",
+    "whyItMatters": "Athletes and workers moving to a hot climate are advised to build up heat exposure gradually rather than go all-out on day one, when heat illness risk is highest.",
+    "tags": [
+      "heat-acclimatization",
+      "exercise-physiology"
+    ]
+  },
+  {
+    "id": "sports-143",
+    "domain": "sports",
+    "hook": "A 70-year-old's muscles can still grow.",
+    "fact": "While natural muscle loss (sarcopenia) accelerates with age, resistance training remains effective at building strength and muscle mass well into old age, and can partially reverse age-related decline.",
+    "tags": [
+      "aging",
+      "resistance-training",
+      "sarcopenia"
+    ]
+  },
+  {
+    "id": "sports-144",
+    "domain": "sports",
+    "hook": "Growth plates make young athletes more injury-prone in specific spots.",
+    "fact": "Because children's bones still have open growth plates at the ends of long bones, repetitive stress in young athletes often shows up as pain right at those growth plates, such as the common knee condition Osgood-Schlatter disease.",
+    "whyItMatters": "Coaches and parents cite this risk as a reason to limit repetitive single-sport training and encourage varied movement in growing kids.",
+    "tags": [
+      "youth-sports",
+      "growth-plates",
+      "injury"
+    ]
+  },
+  {
+    "id": "sports-145",
+    "domain": "sports",
+    "hook": "Deep sleep is when your body actually builds itself back up.",
+    "fact": "The majority of daily growth hormone release, which drives tissue repair and recovery, occurs during deep slow-wave sleep, making sleep one of the most important and most neglected recovery tools in sports.",
+    "whyItMatters": "Elite training programs increasingly treat sleep tracking as seriously as workout tracking because skimping on sleep can undercut weeks of hard training.",
+    "tags": [
+      "sleep",
+      "recovery",
+      "hormones"
+    ]
+  },
+  {
+    "id": "sports-146",
+    "domain": "sports",
+    "hook": "Getting your 'bell rung' repeatedly adds up even without a diagnosed concussion.",
+    "fact": "Research on contact-sport athletes suggests that repeated subconcussive head impacts, hits that don't cause obvious symptoms, may still accumulate and contribute to long-term brain changes over a career.",
+    "tags": [
+      "concussion",
+      "brain-health"
+    ]
+  },
+  {
+    "id": "sports-147",
+    "domain": "sports",
+    "hook": "Sports drinks are engineered around a chemistry problem, not just taste.",
+    "fact": "Sports drinks are formulated with a specific concentration of sugar and electrolytes designed to match the osmolarity of blood plasma, which speeds fluid absorption in the gut compared to plain water during prolonged exercise.",
+    "tags": [
+      "sports-nutrition",
+      "hydration"
+    ]
+  },
+  {
+    "id": "sports-148",
+    "domain": "sports",
+    "hook": "Breathing through your nose during easy runs can train your engine.",
+    "fact": "Nasal breathing during lower-intensity exercise increases carbon dioxide tolerance and forces reliance on the diaphragm, which some endurance coaches use as a deliberate aerobic-development tool.",
+    "tags": [
+      "breathing",
+      "endurance-training"
+    ]
+  },
+  {
+    "id": "sports-149",
+    "domain": "sports",
+    "hook": "That second wind you feel mid-workout is a real physiological switch.",
+    "fact": "The 'second wind' phenomenon, a sudden easing of breathing difficulty during sustained exercise, is thought to result from the body shifting to a more efficient balance of fat and carbohydrate fuel use as circulation and breathing catch up to demand.",
+    "tags": [
+      "exercise-physiology",
+      "endurance"
+    ]
+  },
+  {
+    "id": "sports-150",
+    "domain": "sports",
+    "hook": "Doping with your own blood is harder to catch than it sounds.",
+    "fact": "Blood doping works by boosting the number of oxygen-carrying red blood cells, either through transfusions or drugs like EPO, which increases endurance capacity but also thickens the blood and raises clotting risk.",
+    "whyItMatters": "The clotting risk from blood doping has been linked to serious cardiovascular events, which is a major reason anti-doping agencies treat it as a health hazard, not just a fairness issue.",
+    "tags": [
+      "doping",
+      "exercise-physiology"
+    ]
+  },
+  {
+    "id": "sports-151",
+    "domain": "sports",
+    "hook": "A knot in your shoulder isn't actually tied in a knot.",
+    "fact": "So-called muscle knots, or myofascial trigger points, are small areas of sustained muscle fiber contraction that can refer pain to other parts of the body, though the exact mechanism is still debated among researchers.",
+    "tags": [
+      "muscle-physiology",
+      "recovery"
+    ]
+  },
+  {
+    "id": "sports-152",
+    "domain": "sports",
+    "hook": "Women's hormone cycles can shift how a workout feels.",
+    "fact": "Fluctuating estrogen and progesterone across the menstrual cycle can affect factors like body temperature, fluid balance, and perceived exertion, an area of exercise science that has historically been understudied compared to male physiology.",
+    "tags": [
+      "menstrual-cycle",
+      "female-athletes"
+    ]
+  },
+  {
+    "id": "sports-153",
+    "domain": "sports",
+    "hook": "Bigger muscles don't automatically mean a stronger connection to bone.",
+    "fact": "Tendon stiffness and strength adapt through a slower remodeling process than muscle tissue, which is why athletes who add muscle quickly can still be vulnerable to tendon strains if training load increases too fast.",
+    "tags": [
+      "tendons",
+      "biomechanics",
+      "injury"
+    ]
+  },
+  {
+    "id": "sports-154",
+    "domain": "sports",
+    "hook": "In this sport, losing a chess game can end your boxing match.",
+    "fact": "Chess boxing alternates rounds of speed chess with rounds of boxing, and a competitor can win either by checkmate, knockout, or their opponent running out of time on the chess clock.",
+    "tags": [
+      "chess-boxing",
+      "hybrid-sport"
+    ]
+  },
+  {
+    "id": "sports-155",
+    "domain": "sports",
+    "hook": "This volleyball-like game bans hands entirely.",
+    "fact": "Sepak takraw, popular across Southeast Asia, is played with a woven rattan ball over a net using only the feet, knees, chest, and head, resulting in acrobatic bicycle-kick spikes.",
+    "tags": [
+      "sepak-takraw",
+      "southeast-asia"
+    ]
+  },
+  {
+    "id": "sports-156",
+    "domain": "sports",
+    "hook": "This Afghan sport is played on horseback with a goat carcass.",
+    "fact": "Buzkashi, popular in Afghanistan and other Central Asian countries, has mounted riders compete to grab a goat or calf carcass and carry it around a marker while opposing riders try to wrestle it away.",
+    "tags": [
+      "buzkashi",
+      "central-asia"
+    ]
+  },
+  {
+    "id": "sports-157",
+    "domain": "sports",
+    "hook": "In Finland, the prize for winning this race can be your teammate's weight in beer.",
+    "fact": "Wife-carrying, or eukonkanto, originated in Finland and involves men racing an obstacle course while carrying a female teammate using various holds, including one where she hangs upside down gripping his waist.",
+    "tags": [
+      "wife-carrying",
+      "finland"
+    ]
+  },
+  {
+    "id": "sports-158",
+    "domain": "sports",
+    "hook": "Hundreds of people chase a wheel of cheese down a near-vertical hill.",
+    "fact": "At Cooper's Hill in Gloucestershire, England, competitors sprint down a steep slope chasing a rolling wheel of cheese, and because the cheese can reach speeds faster than any runner, most competitors simply tumble to the bottom.",
+    "tags": [
+      "cheese-rolling",
+      "england"
+    ]
+  },
+  {
+    "id": "sports-159",
+    "domain": "sports",
+    "hook": "This Japanese sport is essentially organized chaos around a wooden pole.",
+    "fact": "Bo-taoshi, played at Japan's National Defense Academy, pits two large teams against each other, one attacking a pole to topple it and the other defending it, in a chaotic mix of tackling and climbing.",
+    "tags": [
+      "bo-taoshi",
+      "japan"
+    ]
+  },
+  {
+    "id": "sports-160",
+    "domain": "sports",
+    "hook": "Players hold their breath and chant to stay legal in this Indian sport.",
+    "fact": "In kabaddi, a raider must cross into the opposing team's half, tag defenders, and return to their own side, all while continuously chanting \"kabaddi\" in a single breath to prove they haven't inhaled.",
+    "tags": [
+      "kabaddi",
+      "india"
+    ]
+  },
+  {
+    "id": "sports-161",
+    "domain": "sports",
+    "hook": "Florence's original football is closer to a street brawl.",
+    "fact": "Calcio storico, still played in Florence, Italy, combines elements of football, rugby, and wrestling with almost no restrictions on physical contact, including punches and headbutts.",
+    "tags": [
+      "calcio-storico",
+      "italy"
+    ]
+  },
+  {
+    "id": "sports-162",
+    "domain": "sports",
+    "hook": "This Irish stick-and-ball game is played at a sprinter's pace.",
+    "fact": "Hurling, one of Ireland's traditional Gaelic games, is played with a wooden stick called a hurley and a small ball called a sliotar, which players can strike in the air or on the ground at high speed.",
+    "tags": [
+      "hurling",
+      "ireland"
+    ]
+  },
+  {
+    "id": "sports-163",
+    "domain": "sports",
+    "hook": "Grown adults compete to kick each other in the shins.",
+    "fact": "Shin-kicking, a traditional event at England's Cotswold Olimpick Games, has two competitors grip each other's shoulders while trying to kick one another's shins hard enough to force a fall.",
+    "tags": [
+      "shin-kicking",
+      "england"
+    ]
+  },
+  {
+    "id": "sports-164",
+    "domain": "sports",
+    "hook": "There's a version of hockey played entirely underwater.",
+    "fact": "Underwater hockey, also called octopush, has two teams use short pushers to maneuver a puck across a swimming pool floor while swimming underwater on a single breath at a time.",
+    "tags": [
+      "underwater-hockey",
+      "aquatic-sport"
+    ]
+  },
+  {
+    "id": "sports-165",
+    "domain": "sports",
+    "hook": "This sport combines volleyball, football, and a trampoline.",
+    "fact": "Bossaball is played on an inflatable court with a trampoline built into each side, letting players launch into acrobatic spikes and kicks combining volleyball and football rules.",
+    "tags": [
+      "bossaball",
+      "hybrid-sport"
+    ]
+  },
+  {
+    "id": "sports-166",
+    "domain": "sports",
+    "hook": "Camels, not humans, are the athletes in this Turkish wrestling event.",
+    "fact": "Camel wrestling, popular in western Turkey, pits two male camels against each other during mating season while handlers manage the animals and referees ensure safety.",
+    "tags": [
+      "camel-wrestling",
+      "turkey"
+    ]
+  },
+  {
+    "id": "sports-167",
+    "domain": "sports",
+    "hook": "Polo, but the players ride elephants instead of horses.",
+    "fact": "Elephant polo, played in countries including Nepal and Thailand, uses the same basic rules as horse polo but with mahouts steering elephants and players swinging extra-long mallets.",
+    "tags": [
+      "elephant-polo",
+      "nepal"
+    ]
+  },
+  {
+    "id": "sports-168",
+    "domain": "sports",
+    "hook": "Russia and Scandinavia have their own version of hockey played with a ball on a giant rink.",
+    "fact": "Bandy is played on ice with a small orange ball rather than a puck, on a rink roughly the size of a football pitch, making it a much more open, running-heavy game than ice hockey.",
+    "tags": [
+      "bandy",
+      "scandinavia"
+    ]
+  },
+  {
+    "id": "sports-169",
+    "domain": "sports",
+    "hook": "Finland's homegrown answer to baseball has runners moving in zigzags.",
+    "fact": "Pesapallo, Finland's national sport, resembles baseball but with a vertically pitched ball and base paths that zigzag rather than forming a diamond, making the running game strategically very different.",
+    "tags": [
+      "pesapallo",
+      "finland"
+    ]
+  },
+  {
+    "id": "sports-170",
+    "domain": "sports",
+    "hook": "Competitive kite flying can turn into an airborne duel.",
+    "fact": "In traditional kite fighting popular in countries like India and Pakistan, competitors coat their kite strings with ground glass or metallic powder and try to cut down opponents' kites in the sky.",
+    "tags": [
+      "kite-fighting",
+      "south-asia"
+    ]
+  },
+  {
+    "id": "sports-171",
+    "domain": "sports",
+    "hook": "This Finnish game is like bowling with pins that have their own scoring numbers.",
+    "fact": "Molkky is a Finnish throwing game where players toss a wooden pin at a cluster of numbered skittles, scoring either the number knocked down for a single pin or the count of pins felled for multiple, aiming to land exactly on 50.",
+    "tags": [
+      "molkky",
+      "finland"
+    ]
+  },
+  {
+    "id": "sports-172",
+    "domain": "sports",
+    "hook": "Dutch athletes pole-vault across canals instead of over bars.",
+    "fact": "Fierljeppen, practiced in the Netherlands, has athletes sprint toward a canal, grab a long vaulting pole planted in the water, climb it as it tips forward, and try to land as far across the water as possible.",
+    "tags": [
+      "fierljeppen",
+      "netherlands"
+    ]
+  },
+  {
+    "id": "sports-173",
+    "domain": "sports",
+    "hook": "Japan turned snowball fights into an organized team sport with a referee.",
+    "fact": "Yukigassen is an organized snowball-fighting sport, invented in Japan, played by two teams behind fortifications who try to hit opponents with snowballs or capture the other team's flag within a set time limit.",
+    "tags": [
+      "yukigassen",
+      "japan"
+    ]
+  },
+  {
+    "id": "sports-174",
+    "domain": "sports",
+    "hook": "This sport is polo, but everyone rides a two-wheeled scooter instead of a horse.",
+    "fact": "Segway polo has teams ride self-balancing Segway scooters while using mallets to hit a ball into a goal, following rules adapted from traditional horse polo.",
+    "tags": [
+      "segway-polo",
+      "hybrid-sport"
+    ]
+  },
+  {
+    "id": "sports-175",
+    "domain": "sports",
+    "hook": "Rugby, but played entirely at the bottom of a swimming pool.",
+    "fact": "Underwater rugby, which originated in Germany, has two teams try to score a saltwater-filled ball into a basket on the opposite end of a diving pool while swimming and holding their breath.",
+    "tags": [
+      "underwater-rugby",
+      "germany"
+    ]
+  },
+  {
+    "id": "sports-176",
+    "domain": "sports",
+    "hook": "People pay to roll down hills inside giant inflatable balls.",
+    "fact": "Zorbing, invented in New Zealand, involves climbing inside a large transparent inflatable orb and rolling down a hill or across flat ground, sometimes with water added inside for extra sliding.",
+    "tags": [
+      "zorbing",
+      "new-zealand"
+    ]
+  },
+  {
+    "id": "sports-177",
+    "domain": "sports",
+    "hook": "There's a competitive circuit for ironing clothes in extreme locations.",
+    "fact": "Extreme ironing, which started in England, has participants set up an ironing board and iron clothing in unusual or dangerous settings, such as cliff faces, underwater, or while skydiving, and is treated as a genuine sport by its community.",
+    "tags": [
+      "extreme-ironing",
+      "england"
+    ]
+  },
+  {
+    "id": "sports-178",
+    "domain": "sports",
+    "hook": "A fictional wizarding sport now has real-world tournaments and rulebooks.",
+    "fact": "Quadball, formerly known as muggle quidditch, adapts the fictional Harry Potter sport into a real full-contact game played on foot, with players holding broomsticks between their legs while competing in a mix of dodgeball, rugby, and tag elements.",
+    "tags": [
+      "quadball",
+      "hybrid-sport"
+    ]
+  },
+  {
+    "id": "sports-179",
+    "domain": "sports",
+    "hook": "Mongolia's biggest sporting festival tests wrestling, archery, and horsemanship at once.",
+    "fact": "The Mongolian festival of Naadam centers on three traditional sports, wrestling, horse racing, and archery, each carrying its own centuries-old customs, such as wrestlers performing an eagle-like victory dance.",
+    "tags": [
+      "naadam",
+      "mongolia"
+    ]
+  },
+  {
+    "id": "sports-180",
+    "domain": "sports",
+    "hook": "This obscure British endurance contest involves live ferrets down your trousers.",
+    "fact": "Ferret-legging, a traditional pub contest in parts of northern England, challenges competitors to keep live ferrets inside trousers tied at the ankles for as long as possible without using restraints, undergarments, or drugs.",
+    "tags": [
+      "ferret-legging",
+      "england"
+    ]
+  },
+  {
+    "id": "sports-181",
+    "domain": "sports",
+    "hook": "Wrestling with your feet instead of your hands is a real competitive sport.",
+    "fact": "Toe wrestling, contested at an annual English championship, has opponents lock big toes and try to pin the other person's foot to a raised board, similar in spirit to arm wrestling.",
+    "tags": [
+      "toe-wrestling",
+      "england"
+    ]
+  },
+  {
+    "id": "sports-182",
+    "domain": "sports",
+    "hook": "This French sport squeezes football into a wall-enclosed cage the size of a small court.",
+    "fact": "Jorkyball, developed in France, is a fast, small-sided football variant played inside a walled, roofless enclosure where the ball can be played off the walls, similar to squash mixed with soccer.",
+    "tags": [
+      "jorkyball",
+      "france"
+    ]
+  },
+  {
+    "id": "sports-183",
+    "domain": "sports",
+    "hook": "A Basque sport is played with a curved wicker basket strapped to the hand.",
+    "fact": "Jai alai, originating from the Basque Country, is played with a long curved wicker scoop called a cesta strapped to the hand, which players use to catch and hurl a hard ball against a walled court.",
+    "tags": [
+      "jai-alai",
+      "basque-country"
+    ]
+  },
+  {
+    "id": "sports-184",
+    "domain": "sports",
+    "hook": "There's no offside rule at all in this fast, high-scoring football code.",
+    "fact": "Australian rules football has no offside rule, which is a major reason the game features constant end-to-end running and scoring compared to codes like soccer or rugby.",
+    "tags": [
+      "australian-rules-football",
+      "rules-trivia"
+    ]
+  },
+  {
+    "id": "sports-185",
+    "domain": "sports",
+    "hook": "In this ball sport, players are frozen in place the instant they catch the ball.",
+    "fact": "Netball forbids dribbling and running with the ball, restricts players to designated zones of the court based on position, and requires a player to pass or shoot within three seconds of catching it.",
+    "tags": [
+      "netball",
+      "rules-trivia"
+    ]
+  },
+  {
+    "id": "sports-186",
+    "domain": "sports",
+    "hook": "This English pub game involves flinging a beer-soaked cloth at a dancing opponent.",
+    "fact": "Dwile flonking is a traditional English game in which one team dances in a circle while a member of the other team tries to hit them with a beer-soaked cloth flung from a pole, with rules that vary wildly by village and are often made up as the game goes.",
+    "tags": [
+      "dwile-flonking",
+      "england"
+    ]
+  },
+  {
+    "id": "sports-187",
+    "domain": "sports",
+    "hook": "Rubber boot throwing has its own organized competitions across Northern Europe.",
+    "fact": "Welly wanging, or wellington boot throwing, started as a rural pastime and has grown into organized competitions across the UK and Finland where contestants hurl rubber boots for distance.",
+    "tags": [
+      "welly-throwing",
+      "england"
+    ]
+  },
+  {
+    "id": "sports-188",
+    "domain": "sports",
+    "hook": "Sumo wrestlers throw salt before every single bout.",
+    "fact": "In professional sumo, rikishi toss handfuls of salt into the ring before a match as a Shinto-rooted purification ritual meant to cleanse the ring of evil spirits and prevent injury.",
+    "tags": [
+      "sumo",
+      "ritual",
+      "japan"
+    ]
+  },
+  {
+    "id": "sports-189",
+    "domain": "sports",
+    "hook": "A sumo referee's costume actually ranks him, like a military uniform.",
+    "fact": "The gyoji, sumo's referee, wears elaborate traditional robes whose color and design indicate his rank, and historically some senior gyoji carried a dagger symbolizing readiness to end their career if they made a serious misjudgment.",
+    "tags": [
+      "sumo",
+      "referee",
+      "japan"
+    ]
+  },
+  {
+    "id": "sports-190",
+    "domain": "sports",
+    "hook": "Champagne got sprayed on a podium by accident, and it became a global tradition.",
+    "fact": "The now-universal tradition of spraying champagne on a race podium is often traced to driver Dan Gurney shaking up a bottle and spraying the crowd after winning the 1967 Le Mans 24 Hours.",
+    "tags": [
+      "motorsport",
+      "tradition"
+    ]
+  },
+  {
+    "id": "sports-191",
+    "domain": "sports",
+    "hook": "New Zealand's rugby team performs a ceremonial challenge before kickoff, and opponents are allowed to respond.",
+    "fact": "The haka performed by New Zealand's national rugby teams before international matches is a traditional Maori ceremonial dance, and opposing teams have at times staged their own formation or response to it before the match begins.",
+    "tags": [
+      "haka",
+      "rugby",
+      "new-zealand"
+    ]
+  },
+  {
+    "id": "sports-192",
+    "domain": "sports",
+    "hook": "Golf is one of the only major sports where players are expected to penalize themselves.",
+    "fact": "Golf largely relies on an honor system in which players call penalties on their own rule violations, even when no official or opponent witnessed the infraction, a tradition rooted in the sport's emphasis on personal integrity.",
+    "whyItMatters": "This self-officiating culture is often cited as an example of what other pro sports lack when it comes to trusting players to police themselves.",
+    "tags": [
+      "golf",
+      "sportsmanship"
+    ]
+  },
+  {
+    "id": "sports-193",
+    "domain": "sports",
+    "hook": "Curling players are expected to call fouls on themselves too.",
+    "fact": "Known as the 'Spirit of Curling,' the sport's own rulebook explicitly states that a player who breaks a rule, even unnoticed, is expected to disclose the infraction, reflecting the sport's strong self-officiating culture.",
+    "tags": [
+      "curling",
+      "sportsmanship"
+    ]
+  },
+  {
+    "id": "sports-194",
+    "domain": "sports",
+    "hook": "Tennis scoring uses the word 'love' for zero, and nobody's fully sure why.",
+    "fact": "One popular theory traces tennis's use of 'love' for a zero score to the French word \"l'oeuf\" (egg), symbolizing a round zero on the scoreboard, though the etymology is debated among historians.",
+    "tags": [
+      "tennis",
+      "etymology"
+    ]
+  },
+  {
+    "id": "sports-195",
+    "domain": "sports",
+    "hook": "Stealing a base with a big lead can draw an angry glare in baseball, even though it's perfectly legal.",
+    "fact": "Baseball has a long list of unwritten rules that carry no penalty in the rulebook but can provoke retaliation from opponents, such as stealing a base or bunting to break up a no-hitter late in a lopsided game.",
+    "tags": [
+      "baseball",
+      "unwritten-rules"
+    ]
+  },
+  {
+    "id": "sports-196",
+    "domain": "sports",
+    "hook": "American football fans literally catch players who jump into the crowd.",
+    "fact": "The 'Lambeau Leap,' originated by Green Bay Packers players jumping into the stands after touchdowns, has become a celebrated tradition where fans are expected to catch and briefly celebrate with the scoring player.",
+    "tags": [
+      "american-football",
+      "tradition"
+    ]
+  },
+  {
+    "id": "sports-197",
+    "domain": "sports",
+    "hook": "Sumo wrestlers eat a specific stew to gain weight on purpose.",
+    "fact": "Chanko nabe, a protein-rich hot pot stew, is a staple of the sumo wrestler's diet, eaten in large quantities alongside rice and beer as part of a deliberate strategy to build the size needed for the sport.",
+    "tags": [
+      "sumo",
+      "nutrition",
+      "japan"
+    ]
+  },
+  {
+    "id": "sports-198",
+    "domain": "sports",
+    "hook": "Fencers salute each other with their weapons before trying to score points on each other.",
+    "fact": "Before and after every bout, fencers are required to salute their opponent and the referee with their blade as a formal gesture of respect, a tradition carried over from the sport's dueling origins.",
+    "tags": [
+      "fencing",
+      "tradition"
+    ]
+  },
+  {
+    "id": "sports-199",
+    "domain": "sports",
+    "hook": "Judo competitors bow before stepping on the mat, and again before leaving it.",
+    "fact": "Judo etiquette requires competitors to bow when entering and exiting the competition area, and again to their opponent before and after a match, reflecting the sport's roots in respect and discipline.",
+    "tags": [
+      "judo",
+      "tradition"
+    ]
+  },
+  {
+    "id": "sports-200",
+    "domain": "sports",
+    "hook": "Cricket has a scheduled tea break built into a five-day match.",
+    "fact": "In Test cricket, play is paused for a formal tea interval each day, a tradition dating back to the sport's English origins, alongside a separate lunch break, structuring the day around meals as much as innings.",
+    "tags": [
+      "cricket",
+      "tradition"
+    ]
+  }
+]

@@ -1,0 +1,2028 @@
+[
+  {
+    "id": "psychology-001",
+    "domain": "psychology",
+    "hook": "Your brain edits the news to agree with you.",
+    "fact": "Confirmation bias makes people tend to seek out, interpret, and remember information that confirms what they already believe, while dismissing or forgetting contradictory evidence.",
+    "tags": [
+      "confirmation-bias",
+      "cognitive-bias"
+    ]
+  },
+  {
+    "id": "psychology-002",
+    "domain": "psychology",
+    "hook": "The first number you hear secretly sets the price you'll accept.",
+    "fact": "In negotiations and estimates, people rely too heavily on the first piece of information offered, the 'anchor', even when it's arbitrary or irrelevant to the actual value.",
+    "whyItMatters": "Retailers exploit this by displaying inflated 'original prices' next to sale prices to make discounts feel bigger than they are.",
+    "tags": [
+      "anchoring-effect",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-003",
+    "domain": "psychology",
+    "hook": "You overestimate shark attacks and underestimate heart disease.",
+    "fact": "The availability heuristic makes vivid, memorable, or recently reported events, like plane crashes or shark attacks, feel far more common than they statistically are, simply because they're easier to recall.",
+    "tags": [
+      "availability-heuristic",
+      "risk-perception"
+    ]
+  },
+  {
+    "id": "psychology-004",
+    "domain": "psychology",
+    "hook": "Once you know the outcome, it feels like you knew it all along.",
+    "fact": "After an event occurs, people tend to overestimate how predictable it was beforehand, a distortion known as hindsight bias.",
+    "tags": [
+      "hindsight-bias",
+      "memory-distortion"
+    ]
+  },
+  {
+    "id": "psychology-005",
+    "domain": "psychology",
+    "hook": "Finishing a bad movie because you already paid for the ticket is a logical trap.",
+    "fact": "The sunk cost fallacy leads people to keep investing time, money, or effort into a failing endeavor because of what's already been spent, even when quitting would be the smarter move.",
+    "tags": [
+      "sunk-cost-fallacy",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-006",
+    "domain": "psychology",
+    "hook": "The less someone knows about a topic, the more confident they can sound about it.",
+    "fact": "People with limited knowledge or skill in a domain often lack the self-awareness to recognize their own incompetence and overestimate their ability, while genuine experts tend to underestimate theirs by comparison.",
+    "whyItMatters": "This mismatch helps explain why the most confident voice in a room isn't always the most informed one.",
+    "tags": [
+      "dunning-kruger",
+      "overconfidence"
+    ]
+  },
+  {
+    "id": "psychology-007",
+    "domain": "psychology",
+    "hook": "One insult outweighs ten compliments in your memory.",
+    "fact": "Negative experiences, criticism, and information generally have a stronger psychological impact and are more memorable than positive ones of equal intensity, a pattern called negativity bias.",
+    "tags": [
+      "negativity-bias",
+      "emotion"
+    ]
+  },
+  {
+    "id": "psychology-008",
+    "domain": "psychology",
+    "hook": "Attractive people get assumed to be smarter and kinder, too.",
+    "fact": "The halo effect describes how a single positive trait, like physical attractiveness, unconsciously biases our overall impression of a person, making us assume they have other unrelated positive qualities.",
+    "tags": [
+      "halo-effect",
+      "social-perception"
+    ]
+  },
+  {
+    "id": "psychology-009",
+    "domain": "psychology",
+    "hook": "Your brain can 'see' patterns between things that have nothing to do with each other.",
+    "fact": "Illusory correlation occurs when people perceive a relationship between two unrelated variables, such as believing an old injury predicts rainy weather, often because coincidences that fit the belief are noticed and remembered more than ones that don't.",
+    "tags": [
+      "illusory-correlation",
+      "pattern-recognition"
+    ]
+  },
+  {
+    "id": "psychology-010",
+    "domain": "psychology",
+    "hook": "Believing something is true because everyone else seems to believe it too.",
+    "fact": "The bandwagon effect describes the tendency to adopt beliefs or behaviors simply because many other people already have, independent of the underlying evidence.",
+    "tags": [
+      "bandwagon-effect",
+      "social-influence"
+    ]
+  },
+  {
+    "id": "psychology-011",
+    "domain": "psychology",
+    "hook": "Most people think they're less likely than average to get divorced or lose their job.",
+    "fact": "Optimism bias leads most people to underestimate their own likelihood of experiencing negative events, like illness or job loss, compared to how they judge the risk for other people.",
+    "tags": [
+      "optimism-bias",
+      "risk-perception"
+    ]
+  },
+  {
+    "id": "psychology-012",
+    "domain": "psychology",
+    "hook": "'90% fat-free' and '10% fat' describe the exact same food but sell very differently.",
+    "fact": "The framing effect shows that the way information is presented changes how people evaluate it, even when the underlying facts are identical, such as choosing a treatment described as having a 90% survival rate over one described as having a 10% mortality rate.",
+    "whyItMatters": "Public health messaging relies heavily on framing, since positively framed statistics can noticeably increase how persuasive the same information feels.",
+    "tags": [
+      "framing-effect",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-013",
+    "domain": "psychology",
+    "hook": "A positive test result can feel certain, even when the disease it's testing for is rare.",
+    "fact": "People often ignore general statistical base rates in favor of specific, vivid information, which is why a positive result on a highly accurate test for a rare condition can still be more likely a false positive than a true one.",
+    "whyItMatters": "Misjudging base rates can lead patients and even clinicians to overreact to screening results without weighing how rare the underlying condition actually is.",
+    "tags": [
+      "base-rate-neglect",
+      "statistics"
+    ]
+  },
+  {
+    "id": "psychology-014",
+    "domain": "psychology",
+    "hook": "After five coin flips land heads, tails does not become 'due.'",
+    "fact": "The gambler's fallacy is the mistaken belief that past independent random events influence future ones, such as assuming a roulette wheel is due for red after a long streak of black.",
+    "tags": [
+      "gamblers-fallacy",
+      "probability"
+    ]
+  },
+  {
+    "id": "psychology-015",
+    "domain": "psychology",
+    "hook": "Losing $20 hurts more than finding $20 feels good.",
+    "fact": "Loss aversion describes how the psychological pain of losing something is generally felt more intensely than the pleasure of gaining an equivalent amount, which shapes many everyday financial and personal decisions.",
+    "tags": [
+      "loss-aversion",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-016",
+    "domain": "psychology",
+    "hook": "We instinctively trust people we perceive as being on 'our team.'",
+    "fact": "In-group bias leads people to favor members of their own group, whether based on nationality, sports team, or even randomly assigned categories, often judging them as more trustworthy or competent than outsiders.",
+    "tags": [
+      "in-group-bias",
+      "social-psychology"
+    ]
+  },
+  {
+    "id": "psychology-017",
+    "domain": "psychology",
+    "hook": "'They must have done something to deserve it' is a bias, not a fact.",
+    "fact": "The just-world hypothesis is the tendency to believe the world is fundamentally fair, which can lead people to blame victims of misfortune in order to preserve the belief that bad things only happen to bad people.",
+    "tags": [
+      "just-world-hypothesis",
+      "social-cognition"
+    ]
+  },
+  {
+    "id": "psychology-018",
+    "domain": "psychology",
+    "hook": "Once you know something, it's almost impossible to imagine not knowing it.",
+    "fact": "The curse of knowledge makes it difficult for people who are well-informed about a topic to accurately imagine what it's like to be a novice, which often leads experts to give confusing explanations to beginners.",
+    "tags": [
+      "curse-of-knowledge",
+      "communication"
+    ]
+  },
+  {
+    "id": "psychology-019",
+    "domain": "psychology",
+    "hook": "Almost every project takes longer than you think it will, even when you know that from experience.",
+    "fact": "The planning fallacy describes people's tendency to underestimate how long a task will take, even when they have direct past experience showing that similar tasks took longer than planned.",
+    "tags": [
+      "planning-fallacy",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-020",
+    "domain": "psychology",
+    "hook": "Nobody is noticing your outfit nearly as much as you think they are.",
+    "fact": "The spotlight effect is the tendency to overestimate how much other people notice our appearance, mistakes, or behavior, because we're so focused on ourselves that we assume others are too.",
+    "tags": [
+      "spotlight-effect",
+      "self-perception"
+    ]
+  },
+  {
+    "id": "psychology-021",
+    "domain": "psychology",
+    "hook": "You remember the beginning and end of a list far better than the middle.",
+    "fact": "The serial position effect describes how items presented first or last in a sequence are recalled more accurately than those in the middle, because early items get more mental rehearsal and late items are still fresh in short-term memory.",
+    "tags": [
+      "serial-position-effect",
+      "memory"
+    ]
+  },
+  {
+    "id": "psychology-022",
+    "domain": "psychology",
+    "hook": "Simply asking a leading question can rewrite what you remember seeing.",
+    "fact": "The misinformation effect shows that exposure to misleading details after an event, such as through suggestive questioning, can alter a person's memory of the original event, even causing them to recall details that never actually happened.",
+    "whyItMatters": "This is a major reason eyewitness testimony can be distorted simply by how investigators phrase their follow-up questions.",
+    "tags": [
+      "misinformation-effect",
+      "false-memory"
+    ]
+  },
+  {
+    "id": "psychology-023",
+    "domain": "psychology",
+    "hook": "Your vivid 'I remember exactly where I was' memory is probably wrong in the details.",
+    "fact": "So-called flashbulb memories of shocking events feel unusually vivid and confident, but studies tracking the same people over years show these memories decay and distort just as much as ordinary ones, even as people's confidence in their accuracy stays high.",
+    "tags": [
+      "flashbulb-memory",
+      "memory-distortion"
+    ]
+  },
+  {
+    "id": "psychology-024",
+    "domain": "psychology",
+    "hook": "Ask an older adult for their favorite memories, and most will come from their teens and twenties.",
+    "fact": "The reminiscence bump refers to the disproportionate number of vivid autobiographical memories people recall from adolescence and early adulthood compared to other life periods, likely because that's when many formative 'firsts' occur.",
+    "tags": [
+      "reminiscence-bump",
+      "autobiographical-memory"
+    ]
+  },
+  {
+    "id": "psychology-025",
+    "domain": "psychology",
+    "hook": "Almost nobody has real memories from before age three or four.",
+    "fact": "Childhood amnesia is the near-universal inability to recall episodic memories from early childhood, thought to result partly from the memory-related brain regions and language skills needed for lasting autobiographical memory still being immature at that age.",
+    "tags": [
+      "childhood-amnesia",
+      "memory-development"
+    ]
+  },
+  {
+    "id": "psychology-026",
+    "domain": "psychology",
+    "hook": "What you learn while caffeinated may be easier to recall while caffeinated again later.",
+    "fact": "State-dependent memory means recall is often improved when a person's internal state, such as mood or level of stimulation, matches the state they were in when the memory was originally formed.",
+    "tags": [
+      "state-dependent-memory",
+      "encoding"
+    ]
+  },
+  {
+    "id": "psychology-027",
+    "domain": "psychology",
+    "hook": "Studying in the room where you'll take the test can actually boost your score.",
+    "fact": "Context-dependent memory shows that recall is generally better when the physical environment during retrieval matches the environment during learning, because environmental cues act as retrieval triggers.",
+    "tags": [
+      "context-dependent-memory",
+      "encoding"
+    ]
+  },
+  {
+    "id": "psychology-028",
+    "domain": "psychology",
+    "hook": "Quizzing yourself beats re-reading your notes for actually remembering them.",
+    "fact": "The testing effect, or retrieval practice, shows that actively recalling information, such as with practice quizzes or flashcards, produces much stronger long-term retention than passively re-reading the same material.",
+    "whyItMatters": "This is one of the most consistently supported study strategies in learning research, yet most students still default to re-reading and highlighting instead.",
+    "tags": [
+      "testing-effect",
+      "learning"
+    ]
+  },
+  {
+    "id": "psychology-029",
+    "domain": "psychology",
+    "hook": "Cramming works for tomorrow's quiz but fails you a month later.",
+    "fact": "The spacing effect demonstrates that information is retained far better when study sessions are spread out over time rather than massed together in one sitting, even when the total amount of study time is identical.",
+    "tags": [
+      "spacing-effect",
+      "learning"
+    ]
+  },
+  {
+    "id": "psychology-030",
+    "domain": "psychology",
+    "hook": "That maddening feeling of almost remembering a word has an actual name.",
+    "fact": "The tip-of-the-tongue phenomenon is the frustrating experience of being unable to retrieve a familiar word from memory despite feeling certain you know it, often while still recalling partial clues like its first letter or syllable count.",
+    "tags": [
+      "tip-of-the-tongue",
+      "word-retrieval"
+    ]
+  },
+  {
+    "id": "psychology-031",
+    "domain": "psychology",
+    "hook": "A 16-digit credit card number is much easier to remember split into four groups of four.",
+    "fact": "Chunking is a memory strategy that groups individual pieces of information into larger, meaningful units, allowing working memory to effectively hold more total information than it could item by item.",
+    "tags": [
+      "chunking",
+      "working-memory"
+    ]
+  },
+  {
+    "id": "psychology-032",
+    "domain": "psychology",
+    "hook": "Your short-term memory can really only juggle roughly three or four things at once.",
+    "fact": "More recent research has revised the classic estimate of memory span, suggesting the true capacity of working memory for unrelated items is closer to three or four chunks rather than the much larger number often assumed.",
+    "tags": [
+      "working-memory",
+      "cognitive-capacity"
+    ]
+  },
+  {
+    "id": "psychology-033",
+    "domain": "psychology",
+    "hook": "Every time you remember something, you're quietly rewriting it.",
+    "fact": "When a memory is recalled, it briefly becomes unstable and must be reconsolidated back into long-term storage, a process during which it can be subtly altered by new information or your current emotional state.",
+    "tags": [
+      "memory-reconsolidation",
+      "memory-distortion"
+    ]
+  },
+  {
+    "id": "psychology-034",
+    "domain": "psychology",
+    "hook": "You can 'remember' a fact perfectly while being totally wrong about where you learned it.",
+    "fact": "A source-monitoring error happens when someone accurately recalls a piece of information but misattributes where, when, or how they learned it, such as confusing something they read with something a friend told them.",
+    "tags": [
+      "source-monitoring",
+      "memory-errors"
+    ]
+  },
+  {
+    "id": "psychology-035",
+    "domain": "psychology",
+    "hook": "That eerie feeling of having lived this exact moment before is likely a memory glitch.",
+    "fact": "Deja vu is thought to occur when a new experience triggers a strong sense of familiarity without any actual specific memory attached to it, possibly due to a brief mismatch in the brain's usual memory-matching process.",
+    "tags": [
+      "deja-vu",
+      "perception"
+    ]
+  },
+  {
+    "id": "psychology-036",
+    "domain": "psychology",
+    "hook": "Learning Spanish can make it harder to recall French you already knew.",
+    "fact": "Memory interference occurs when similar information competes and disrupts recall, either as new learning making it harder to retrieve older memories, called retroactive interference, or old memories making it harder to learn new similar material, called proactive interference.",
+    "tags": [
+      "interference",
+      "forgetting"
+    ]
+  },
+  {
+    "id": "psychology-037",
+    "domain": "psychology",
+    "hook": "Memory champions don't have unusual brains, they use a technique that's over two thousand years old.",
+    "fact": "The method of loci is a mnemonic technique where information is mentally placed at specific locations along a familiar route, such as rooms in your house, then retrieved by mentally walking through that route again.",
+    "tags": [
+      "method-of-loci",
+      "mnemonics"
+    ]
+  },
+  {
+    "id": "psychology-038",
+    "domain": "psychology",
+    "hook": "Confident eyewitness testimony is not the same thing as accurate eyewitness testimony.",
+    "fact": "Decades of memory research show eyewitness identifications are frequently unreliable and can be distorted by stress, focus on a weapon, cross-race identification difficulty, and the exact phrasing of questions, regardless of how confident the witness feels afterward.",
+    "whyItMatters": "Mistaken eyewitness identification is one of the leading contributing factors in wrongful convictions that have later been overturned by DNA evidence.",
+    "tags": [
+      "eyewitness-memory",
+      "memory-accuracy"
+    ]
+  },
+  {
+    "id": "psychology-039",
+    "domain": "psychology",
+    "hook": "Information you come up with yourself sticks better than information you're simply handed.",
+    "fact": "The generation effect shows that people remember material significantly better when they actively generate it themselves, such as filling in a missing word from a clue, compared to when they passively read the same finished material.",
+    "tags": [
+      "generation-effect",
+      "learning"
+    ]
+  },
+  {
+    "id": "psychology-040",
+    "domain": "psychology",
+    "hook": "Memory works more like a creative retelling than a video replay.",
+    "fact": "Human memory isn't a perfect recording; each time it's retrieved, the brain reconstructs it using both original details and current beliefs, expectations, and knowledge, which is why memories can shift over time without a person realizing it.",
+    "tags": [
+      "reconstructive-memory",
+      "memory-distortion"
+    ]
+  },
+  {
+    "id": "psychology-041",
+    "domain": "psychology",
+    "hook": "People can miss a stranger swapped mid-conversation if the change happens gradually enough.",
+    "fact": "Change blindness is the surprising failure to notice large changes in a visual scene, especially when the change occurs during a brief visual disruption like a blink, camera cut, or a moving object blocking the view.",
+    "tags": [
+      "change-blindness",
+      "attention"
+    ]
+  },
+  {
+    "id": "psychology-042",
+    "domain": "psychology",
+    "hook": "You can stare directly at something and never consciously see it.",
+    "fact": "Inattentional blindness occurs when people fail to notice a fully visible but unexpected object or event because their attention is focused elsewhere, even when it appears directly in their field of view.",
+    "tags": [
+      "inattentional-blindness",
+      "attention"
+    ]
+  },
+  {
+    "id": "psychology-043",
+    "domain": "psychology",
+    "hook": "What your eyes see can override what your ears hear when someone talks.",
+    "fact": "The McGurk effect is an illusion in which mismatched lip movements and audio cause people to perceive a completely different spoken sound than the one that was actually played, showing that speech perception blends both hearing and sight.",
+    "tags": [
+      "mcgurk-effect",
+      "speech-perception"
+    ]
+  },
+  {
+    "id": "psychology-044",
+    "domain": "psychology",
+    "hook": "Color doesn't exist out in the world, your brain manufactures it.",
+    "fact": "Color is not an inherent property of objects but a perceptual experience constructed by the brain from wavelengths of light reflected off surfaces, which is why the same object can appear to shift color under different lighting or context.",
+    "tags": [
+      "color-perception",
+      "visual-perception"
+    ]
+  },
+  {
+    "id": "psychology-045",
+    "domain": "psychology",
+    "hook": "A small box can feel heavier than a large box of identical weight.",
+    "fact": "In the size-weight illusion, when two objects weigh exactly the same, people consistently perceive the physically smaller one as heavier, because expectations based on size skew the felt sense of effort.",
+    "tags": [
+      "size-weight-illusion",
+      "perception"
+    ]
+  },
+  {
+    "id": "psychology-046",
+    "domain": "psychology",
+    "hook": "Seeing a face in an electrical outlet is your brain doing exactly what it evolved to do.",
+    "fact": "Pareidolia is the tendency to perceive meaningful patterns, especially faces, in random or ambiguous stimuli, a byproduct of the brain's specialized and highly sensitive face-detection system.",
+    "tags": [
+      "pareidolia",
+      "face-perception"
+    ]
+  },
+  {
+    "id": "psychology-047",
+    "domain": "psychology",
+    "hook": "Time doesn't actually slow down in a car crash, but your memory of it does.",
+    "fact": "During highly frightening events, people often report that time seemed to slow down; this is likely an effect of denser memory encoding during high arousal rather than an actual change in real-time perception.",
+    "tags": [
+      "time-perception",
+      "fear"
+    ]
+  },
+  {
+    "id": "psychology-048",
+    "domain": "psychology",
+    "hook": "Pinch your nose while eating and most 'flavors' quietly disappear.",
+    "fact": "Much of what we perceive as taste actually comes from retronasal olfaction, smell sensed through the back of the throat while chewing, which is why food seems bland when a stuffy nose blocks that pathway.",
+    "tags": [
+      "taste-perception",
+      "smell"
+    ]
+  },
+  {
+    "id": "psychology-049",
+    "domain": "psychology",
+    "hook": "Watching a fake hand get stroked can trick your brain into feeling it as your own.",
+    "fact": "In the rubber hand illusion, synchronized stroking of a visible fake hand and a person's hidden real hand can make the brain temporarily incorporate the fake hand into its body map, sometimes even producing a flinch when the fake hand appears to be threatened.",
+    "tags": [
+      "rubber-hand-illusion",
+      "body-perception"
+    ]
+  },
+  {
+    "id": "psychology-050",
+    "domain": "psychology",
+    "hook": "Stare at a waterfall long enough, and stationary rocks nearby will appear to drift upward.",
+    "fact": "The motion aftereffect, or waterfall illusion, happens because motion-detecting neurons adapt to sustained movement in one direction, so when you look at something still afterward, the imbalance in remaining active neurons creates an illusion of movement in the opposite direction.",
+    "tags": [
+      "motion-aftereffect",
+      "visual-illusion"
+    ]
+  },
+  {
+    "id": "psychology-051",
+    "domain": "psychology",
+    "hook": "You can tune out an entire crowded room until someone says your name.",
+    "fact": "The cocktail party effect describes the brain's ability to selectively focus auditory attention on one conversation while filtering out other background noise, yet still automatically notice highly salient cues like one's own name spoken elsewhere in the room.",
+    "tags": [
+      "cocktail-party-effect",
+      "selective-attention"
+    ]
+  },
+  {
+    "id": "psychology-052",
+    "domain": "psychology",
+    "hook": "For some people, the number 7 is always blue and Tuesday tastes like mint.",
+    "fact": "Synesthesia is a perceptual phenomenon in which stimulation of one sense reliably triggers an automatic, involuntary experience in another, such as seeing colors when hearing music or associating specific colors with letters and numbers.",
+    "tags": [
+      "synesthesia",
+      "cross-modal-perception"
+    ]
+  },
+  {
+    "id": "psychology-053",
+    "domain": "psychology",
+    "hook": "A strong smell that overwhelms you at first practically disappears within minutes.",
+    "fact": "Sensory adaptation is the gradual decrease in responsiveness to a constant, unchanging stimulus, which is why a background noise or persistent odor becomes far less noticeable the longer you're exposed to it.",
+    "tags": [
+      "sensory-adaptation",
+      "perception"
+    ]
+  },
+  {
+    "id": "psychology-054",
+    "domain": "psychology",
+    "hook": "A specially built room can make a person look like they're growing or shrinking just by walking across it.",
+    "fact": "The Ames room is a distorted, trapezoidal room designed to look rectangular from a fixed viewing angle, exploiting the brain's assumptions about normal room shape to create a powerful illusion that people inside it change size as they move.",
+    "tags": [
+      "ames-room",
+      "visual-illusion"
+    ]
+  },
+  {
+    "id": "psychology-055",
+    "domain": "psychology",
+    "hook": "What you expect to see changes what you actually see.",
+    "fact": "Perceptual set describes how prior expectations, context, and experience bias perception, causing ambiguous stimuli to be interpreted in line with what a person is primed to expect.",
+    "tags": [
+      "perceptual-set",
+      "expectation"
+    ]
+  },
+  {
+    "id": "psychology-056",
+    "domain": "psychology",
+    "hook": "Adding one candle to a dark room is obvious, but adding one candle to a bright room goes unnoticed.",
+    "fact": "Weber's law states that the smallest detectable difference between two stimuli is proportional to the magnitude of the original stimulus, which is why a change is much easier to notice against a weak background than a strong one.",
+    "tags": [
+      "webers-law",
+      "psychophysics"
+    ]
+  },
+  {
+    "id": "psychology-057",
+    "domain": "psychology",
+    "hook": "Your brain will draw a triangle that isn't actually there.",
+    "fact": "Illusory, or subjective, contours are edges and shapes that the brain perceives even though no actual lines are drawn, as seen in the classic Kanizsa triangle, where strategically placed shapes trick the visual system into completing a solid form.",
+    "tags": [
+      "illusory-contours",
+      "visual-perception"
+    ]
+  },
+  {
+    "id": "psychology-058",
+    "domain": "psychology",
+    "hook": "People are generally faster and more accurate at recognizing faces from their own racial group.",
+    "fact": "The other-race effect, also called own-race bias, refers to the well-documented tendency for people to have more difficulty distinguishing and recognizing individual faces from racial groups other than their own, largely due to differing amounts of exposure and experience.",
+    "whyItMatters": "This bias has contributed to documented cases of mistaken eyewitness identification across racial lines.",
+    "tags": [
+      "other-race-effect",
+      "face-perception"
+    ]
+  },
+  {
+    "id": "psychology-059",
+    "domain": "psychology",
+    "hook": "Stare at a red square, look away, and you'll briefly see a green one.",
+    "fact": "Afterimages occur because staring at a color fatigues the specific photoreceptors and neural pathways tuned to that color, so when you look at a neutral surface afterward, the temporarily imbalanced signal produces a ghost image in the opposing, complementary color.",
+    "tags": [
+      "afterimage",
+      "color-perception"
+    ]
+  },
+  {
+    "id": "psychology-060",
+    "domain": "psychology",
+    "hook": "Why does a childhood summer feel endless but an adult year flies by?",
+    "fact": "Many adults perceive time as passing faster as they age, a pattern often attributed to each year making up a proportionally smaller fraction of total lived experience, along with routine, familiar days producing fewer new memories to anchor the sense of duration.",
+    "tags": [
+      "time-perception",
+      "aging"
+    ]
+  },
+  {
+    "id": "psychology-061",
+    "domain": "psychology",
+    "hook": "Most of your vivid, story-like dreams happen during just one sleep stage.",
+    "fact": "While dreaming can occur throughout the sleep cycle, the most vivid, emotionally intense, and narrative dreams are strongly associated with REM sleep, a stage marked by fast brain activity and temporary muscle paralysis.",
+    "tags": [
+      "rem-sleep",
+      "dreaming"
+    ]
+  },
+  {
+    "id": "psychology-062",
+    "domain": "psychology",
+    "hook": "Waking up unable to move, sometimes with a sense of a presence in the room, is a real and fairly common experience.",
+    "fact": "Sleep paralysis happens when a person becomes consciously aware while the temporary muscle paralysis of REM sleep is still active, leaving them unable to move or speak for anywhere from seconds to a couple of minutes, sometimes accompanied by vivid hallucinations.",
+    "tags": [
+      "sleep-paralysis",
+      "rem-sleep"
+    ]
+  },
+  {
+    "id": "psychology-063",
+    "domain": "psychology",
+    "hook": "Your brain replays and files away the day's memories while you sleep.",
+    "fact": "Sleep plays an active role in memory consolidation, strengthening and reorganizing new memories formed during the day, which is one reason a good night's sleep after learning something improves long-term retention.",
+    "tags": [
+      "memory-consolidation",
+      "sleep"
+    ]
+  },
+  {
+    "id": "psychology-064",
+    "domain": "psychology",
+    "hook": "Your internal body clock runs on a roughly 24-hour cycle that light resets every day.",
+    "fact": "The circadian rhythm is an internal biological clock that regulates sleep-wake timing, hormone release, and body temperature on an approximately 24-hour cycle, and it's primarily synchronized each day by exposure to light.",
+    "tags": [
+      "circadian-rhythm",
+      "sleep-biology"
+    ]
+  },
+  {
+    "id": "psychology-065",
+    "domain": "psychology",
+    "hook": "A full night's sleep isn't one long state, it's several repeating 90-minute cycles.",
+    "fact": "Sleep progresses through repeating cycles of roughly 90 minutes each, moving through stages of lighter and deeper non-REM sleep before ending in a REM period, with the proportion of REM sleep increasing later in the night.",
+    "tags": [
+      "sleep-cycles",
+      "sleep-stages"
+    ]
+  },
+  {
+    "id": "psychology-066",
+    "domain": "psychology",
+    "hook": "You can fall asleep for a few seconds without even realizing it happened.",
+    "fact": "Microsleeps are brief, involuntary episodes of sleep lasting just a few seconds, often triggered by extreme fatigue, during which a person can lose awareness of their surroundings even with their eyes open.",
+    "whyItMatters": "Microsleeps are a major contributing factor in drowsy-driving accidents, since a driver can travel a significant distance essentially unconscious of the road.",
+    "tags": [
+      "microsleep",
+      "sleep-deprivation"
+    ]
+  },
+  {
+    "id": "psychology-067",
+    "domain": "psychology",
+    "hook": "Some people can become aware they're dreaming and even steer the dream itself.",
+    "fact": "Lucid dreaming is a state in which a person becomes aware that they are dreaming while still asleep, and with practice some people can learn to exert a degree of conscious control over the dream's content or direction.",
+    "tags": [
+      "lucid-dreaming",
+      "dreaming"
+    ]
+  },
+  {
+    "id": "psychology-068",
+    "domain": "psychology",
+    "hook": "Most dreams are gone from memory within minutes of waking up.",
+    "fact": "The majority of dream content is forgotten quickly after waking, often within just a few minutes, unless the dreamer wakes up directly during or immediately after the dream and makes a deliberate effort to recall it.",
+    "tags": [
+      "dream-recall",
+      "memory"
+    ]
+  },
+  {
+    "id": "psychology-069",
+    "domain": "psychology",
+    "hook": "The vivid, dreamlike images that flash right as you're drifting off to sleep have a name.",
+    "fact": "Hypnagogic hallucinations are brief, vivid sensory experiences, visual, auditory, or tactile, that can occur during the transitional state between wakefulness and sleep, and are a normal part of falling asleep for many people.",
+    "tags": [
+      "hypnagogia",
+      "sleep-onset"
+    ]
+  },
+  {
+    "id": "psychology-070",
+    "domain": "psychology",
+    "hook": "That sudden falling sensation that jolts you awake right as you doze off is extremely common.",
+    "fact": "A hypnic jerk, or sleep start, is an involuntary muscle twitch that occurs as a person transitions into sleep, often accompanied by a sensation of falling or a vivid flash of imagery, and is considered a normal, harmless part of the sleep-onset process.",
+    "tags": [
+      "hypnic-jerk",
+      "sleep-onset"
+    ]
+  },
+  {
+    "id": "psychology-071",
+    "domain": "psychology",
+    "hook": "Night terrors and nightmares happen during completely different stages of sleep.",
+    "fact": "Nightmares are frightening dreams that occur during REM sleep and are usually recalled afterward, while night terrors happen during deep non-REM sleep, involve screaming or thrashing without a clear dream narrative, and are typically not remembered by the person the next day.",
+    "tags": [
+      "night-terrors",
+      "nightmares"
+    ]
+  },
+  {
+    "id": "psychology-072",
+    "domain": "psychology",
+    "hook": "Sleepwalkers aren't acting out a dream, because they're not even in a dreaming stage of sleep.",
+    "fact": "Sleepwalking occurs during deep, slow-wave non-REM sleep rather than during REM dreaming, which is why sleepwalkers are not typically acting out a dream narrative and usually have no memory of the episode afterward.",
+    "tags": [
+      "sleepwalking",
+      "non-rem-sleep"
+    ]
+  },
+  {
+    "id": "psychology-073",
+    "domain": "psychology",
+    "hook": "Some people occasionally hear a loud imaginary bang right as they fall asleep, and it's a real, harmless phenomenon.",
+    "fact": "Exploding head syndrome is a sleep phenomenon in which a person perceives a sudden loud noise, like an explosion or gunshot, that isn't actually occurring, typically as they're falling asleep or waking up; it's generally considered benign despite how alarming it feels.",
+    "tags": [
+      "exploding-head-syndrome",
+      "parasomnia"
+    ]
+  },
+  {
+    "id": "psychology-074",
+    "domain": "psychology",
+    "hook": "A nightcap might help you fall asleep faster, but it disrupts the sleep that matters most.",
+    "fact": "While alcohol can shorten the time it takes to fall asleep, it suppresses REM sleep in the first half of the night and often causes rebound REM and more fragmented, lower-quality sleep in the second half.",
+    "tags": [
+      "alcohol",
+      "rem-sleep"
+    ]
+  },
+  {
+    "id": "psychology-075",
+    "domain": "psychology",
+    "hook": "A short nap can noticeably sharpen your memory and creativity for the rest of the day.",
+    "fact": "Brief daytime naps, especially those long enough to include some light non-REM sleep, have been shown to improve alertness, memory consolidation, and problem-solving compared to staying awake through an afternoon slump.",
+    "tags": [
+      "napping",
+      "cognitive-performance"
+    ]
+  },
+  {
+    "id": "psychology-076",
+    "domain": "psychology",
+    "hook": "People who insist they 'never dream' are dreaming just as much as everyone else, they just don't recall it.",
+    "fact": "Virtually everyone experiences multiple dream periods each night as part of normal REM sleep; differences between people are mostly in dream recall ability, not in whether dreaming actually happens.",
+    "tags": [
+      "dreaming",
+      "dream-recall"
+    ]
+  },
+  {
+    "id": "psychology-077",
+    "domain": "psychology",
+    "hook": "Dreams are usually less bizarre and more mundane than pop culture suggests.",
+    "fact": "Research on dream content consistently finds that most dreams closely reflect a person's ongoing waking-life concerns, relationships, and recent experiences, a pattern known as the continuity hypothesis, rather than being filled with wildly surreal symbolism.",
+    "tags": [
+      "dream-content",
+      "continuity-hypothesis"
+    ]
+  },
+  {
+    "id": "psychology-078",
+    "domain": "psychology",
+    "hook": "Talking in your sleep can happen during almost any stage of sleep, not just when dreaming.",
+    "fact": "Sleep talking, or somniloquy, can occur during both REM and non-REM sleep stages, ranges from mumbled sounds to full clear sentences, and is generally considered a harmless and fairly common parasomnia.",
+    "tags": [
+      "sleep-talking",
+      "parasomnia"
+    ]
+  },
+  {
+    "id": "psychology-079",
+    "domain": "psychology",
+    "hook": "Scrolling your phone in bed delays the hormone that's supposed to make you sleepy.",
+    "fact": "Exposure to blue-wavelength light in the evening, such as from phone and computer screens, suppresses the release of melatonin, the hormone that signals to the body that it's time to prepare for sleep, which can delay sleep onset.",
+    "whyItMatters": "This is a major reason sleep experts recommend dimming screens or switching to warmer light in the hour or two before bed.",
+    "tags": [
+      "blue-light",
+      "melatonin"
+    ]
+  },
+  {
+    "id": "psychology-080",
+    "domain": "psychology",
+    "hook": "Miss out on dream sleep and your brain will demand extra the next chance it gets.",
+    "fact": "When a person is deprived of REM sleep, whether from sleep loss or certain medications, they tend to experience REM rebound on subsequent nights, spending a larger-than-usual proportion of sleep in REM as the brain compensates.",
+    "tags": [
+      "rem-rebound",
+      "sleep-deprivation"
+    ]
+  },
+  {
+    "id": "psychology-081",
+    "domain": "psychology",
+    "hook": "A smile means roughly the same thing in nearly every culture on Earth.",
+    "fact": "Cross-cultural research has found that a handful of basic emotional facial expressions, including happiness, anger, fear, sadness, disgust, and surprise, are recognized with strong consistency across widely different cultures, even in isolated societies with little outside media exposure.",
+    "tags": [
+      "facial-expressions",
+      "universal-emotions"
+    ]
+  },
+  {
+    "id": "psychology-082",
+    "domain": "psychology",
+    "hook": "Moods can spread through a room like a cold, without a single word being spoken.",
+    "fact": "Emotional contagion is the tendency for people to unconsciously mimic and 'catch' the emotional expressions and moods of those around them, which can spread feelings like stress, excitement, or calm through a group.",
+    "tags": [
+      "emotional-contagion",
+      "social-emotion"
+    ]
+  },
+  {
+    "id": "psychology-083",
+    "domain": "psychology",
+    "hook": "Some people can only tell you they feel 'bad,' while others can distinguish dozens of different flavors of bad.",
+    "fact": "Emotional granularity refers to a person's ability to identify and label their emotional experiences with precision, distinguishing subtly different states like frustration, disappointment, and anxiety instead of lumping them all together as simply negative.",
+    "tags": [
+      "emotional-granularity",
+      "emotion-regulation"
+    ]
+  },
+  {
+    "id": "psychology-084",
+    "domain": "psychology",
+    "hook": "A racing heart from a scary situation can get mistaken for attraction.",
+    "fact": "People sometimes misattribute the physical arousal caused by one source, like fear, exercise, or excitement, to an unrelated cause present in the moment, such as romantic attraction, because the bodily sensations of different intense emotions can feel very similar.",
+    "tags": [
+      "arousal-misattribution",
+      "emotion"
+    ]
+  },
+  {
+    "id": "psychology-085",
+    "domain": "psychology",
+    "hook": "You judge an entire experience mostly by its most intense moment and how it ended.",
+    "fact": "The peak-end rule describes how people's memory and evaluation of an experience are disproportionately shaped by its most emotionally intense point and its final moments, largely ignoring how long the whole experience actually lasted.",
+    "tags": [
+      "peak-end-rule",
+      "judgment"
+    ]
+  },
+  {
+    "id": "psychology-086",
+    "domain": "psychology",
+    "hook": "A raise, a new car, a dream house: the happiness boost fades faster than you'd expect.",
+    "fact": "Hedonic adaptation is the tendency for both positive and negative life changes to produce only a temporary shift in happiness before people gradually return toward their emotional baseline.",
+    "whyItMatters": "This is one reason financial windfalls tend to produce a smaller and shorter-lived boost in life satisfaction than people predict beforehand.",
+    "tags": [
+      "hedonic-adaptation",
+      "wellbeing"
+    ]
+  },
+  {
+    "id": "psychology-087",
+    "domain": "psychology",
+    "hook": "Standing beneath a giant sequoia or a starry sky can make you more generous toward strangers.",
+    "fact": "Experiencing awe, triggered by vast natural scenes, art, or ideas, has been linked in research to a temporarily diminished sense of self-importance and increased generosity, cooperation, and prosocial behavior toward others.",
+    "tags": [
+      "awe",
+      "prosocial-behavior"
+    ]
+  },
+  {
+    "id": "psychology-088",
+    "domain": "psychology",
+    "hook": "How openly you're allowed to show anger in public depends heavily on the culture you grew up in.",
+    "fact": "While core emotional expressions appear to be largely universal, cultures differ in their display rules, the social norms that govern when, how, and to what degree it's appropriate to express a given emotion, especially in public settings.",
+    "tags": [
+      "display-rules",
+      "culture-and-emotion"
+    ]
+  },
+  {
+    "id": "psychology-089",
+    "domain": "psychology",
+    "hook": "Tears of grief are chemically different from the tears caused by chopping an onion.",
+    "fact": "Emotional tears contain a different chemical composition than reflex tears triggered by irritants like onion vapor, including different concentrations of certain proteins and stress-related hormones, though the exact functional significance is still being studied.",
+    "tags": [
+      "crying",
+      "tears"
+    ]
+  },
+  {
+    "id": "psychology-090",
+    "domain": "psychology",
+    "hook": "We laugh far more often around other people than when we're alone.",
+    "fact": "Laughter is strongly social; people are considerably more likely to laugh in the company of others than in solitude, and it functions as a bonding signal that helps build and reinforce social relationships beyond just responding to something funny.",
+    "tags": [
+      "laughter",
+      "social-bonding"
+    ]
+  },
+  {
+    "id": "psychology-091",
+    "domain": "psychology",
+    "hook": "Riding a roller coaster and being genuinely afraid produce nearly the same physical response.",
+    "fact": "Fear and excitement both produce very similar patterns of physiological arousal, an elevated heart rate, faster breathing, and adrenaline, meaning the main difference between the two often comes down to how the brain cognitively interprets and labels the situation.",
+    "tags": [
+      "fear",
+      "excitement"
+    ]
+  },
+  {
+    "id": "psychology-092",
+    "domain": "psychology",
+    "hook": "Getting nostalgic isn't just sentimental, it's genuinely good for you.",
+    "fact": "Modern research on nostalgia has found that reflecting on cherished past memories can boost mood, increase feelings of social connectedness, and strengthen a sense of meaning in life, contrary to nostalgia's old reputation as an unhealthy fixation on the past.",
+    "tags": [
+      "nostalgia",
+      "wellbeing"
+    ]
+  },
+  {
+    "id": "psychology-093",
+    "domain": "psychology",
+    "hook": "Regularly writing down what you're grateful for is one of the most consistently supported happiness habits.",
+    "fact": "Deliberately practicing gratitude, such as by keeping a regular list of things one is thankful for, has been repeatedly associated with improved mood, life satisfaction, and even better sleep quality across numerous studies.",
+    "tags": [
+      "gratitude",
+      "wellbeing"
+    ]
+  },
+  {
+    "id": "psychology-094",
+    "domain": "psychology",
+    "hook": "Anger doesn't just change how you feel, it changes what you're capable of noticing.",
+    "fact": "Intense anger tends to narrow the scope of attention onto the perceived source of provocation, which can make an angry person less able to notice peripheral details or consider alternative perspectives in the moment.",
+    "tags": [
+      "anger",
+      "attention"
+    ]
+  },
+  {
+    "id": "psychology-095",
+    "domain": "psychology",
+    "hook": "Feeling grossed out by spoiled food or bodily fluids is a survival mechanism, not just squeamishness.",
+    "fact": "Disgust is widely understood as an evolved emotional response that motivates avoidance of potential sources of disease and contamination, such as spoiled food, bodily waste, and visible signs of infection.",
+    "tags": [
+      "disgust",
+      "evolutionary-psychology"
+    ]
+  },
+  {
+    "id": "psychology-096",
+    "domain": "psychology",
+    "hook": "Bottling up an emotion takes more of a physical toll than simply reframing how you think about it.",
+    "fact": "Research comparing emotion-regulation strategies has found that cognitive reappraisal, mentally reframing a situation to change its emotional impact, tends to be more effective and less physiologically taxing than suppression, which masks outward expression while the internal feeling remains unchanged.",
+    "whyItMatters": "Chronic emotional suppression has been linked to increased cardiovascular stress over time, making reappraisal a healthier long-term coping strategy.",
+    "tags": [
+      "emotion-regulation",
+      "reappraisal"
+    ]
+  },
+  {
+    "id": "psychology-097",
+    "domain": "psychology",
+    "hook": "That shiver down your spine during a favorite song is a measurable brain reward response.",
+    "fact": "Powerful emotional moments in music, like a sudden key change or a swelling chorus, can trigger physical chills or goosebumps, which research links to activation of the brain's reward and pleasure circuitry, similar to responses seen with other rewarding stimuli.",
+    "tags": [
+      "music",
+      "chills"
+    ]
+  },
+  {
+    "id": "psychology-098",
+    "domain": "psychology",
+    "hook": "Boredom isn't a flaw in your brain, it's a signal pushing you toward something new.",
+    "fact": "Rather than being purely negative, boredom is increasingly understood by researchers as a functional emotional signal that motivates people to seek out novel, more engaging, or more meaningful activities.",
+    "tags": [
+      "boredom",
+      "motivation"
+    ]
+  },
+  {
+    "id": "psychology-099",
+    "domain": "psychology",
+    "hook": "Envy and jealousy get used interchangeably, but psychologically they're not the same emotion.",
+    "fact": "Envy typically involves wanting something another person has, like their success or possessions, while jealousy involves the fear of losing something you already have, such as a relationship, to a rival; the two emotions have distinct triggers even though they're often confused in everyday language.",
+    "tags": [
+      "envy",
+      "jealousy"
+    ]
+  },
+  {
+    "id": "psychology-100",
+    "domain": "psychology",
+    "hook": "A flash of true feeling can cross someone's face in less than half a second before they mask it.",
+    "fact": "Micro-expressions are brief, involuntary facial expressions that reveal a person's genuine emotional reaction, typically lasting well under a second, often occurring when someone is trying to consciously conceal how they actually feel.",
+    "tags": [
+      "micro-expressions",
+      "facial-expressions"
+    ]
+  },
+  {
+    "id": "psychology-101",
+    "domain": "psychology",
+    "hook": "Deciding to buy something because 'everyone is buying it' skips a step your brain usually insists on.",
+    "fact": "Social proof, closely related to the bandwagon effect, leads people to look at others' behavior as evidence for what's correct or desirable, especially in ambiguous situations where they're unsure how to act themselves.",
+    "tags": [
+      "social-proof",
+      "social-influence"
+    ]
+  },
+  {
+    "id": "psychology-102",
+    "domain": "psychology",
+    "hook": "The more choices you're given, the less satisfied you may feel with whatever you pick.",
+    "fact": "Having an overwhelming number of options can increase decision difficulty and after-the-fact regret, a pattern sometimes called overchoice, compared to choosing from a smaller, more manageable set of alternatives.",
+    "tags": [
+      "choice-overload",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-103",
+    "domain": "psychology",
+    "hook": "You'll defend a decision more strongly right after making it than you did while still deciding.",
+    "fact": "Choice-supportive bias leads people to remember their own past decisions as better than they actually were, downplaying the drawbacks of the option they picked and inflating the flaws of the options they rejected.",
+    "tags": [
+      "choice-supportive-bias",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-104",
+    "domain": "psychology",
+    "hook": "You built it yourself, so of course you love it more than the professionally made version.",
+    "fact": "The IKEA effect describes how people place a disproportionately high value on products they partially assembled or created themselves, compared to identical pre-made items, simply because of the labor they personally invested.",
+    "tags": [
+      "ikea-effect",
+      "cognitive-bias"
+    ]
+  },
+  {
+    "id": "psychology-105",
+    "domain": "psychology",
+    "hook": "Vague horoscope-style statements can feel eerily personal to almost anyone.",
+    "fact": "The Barnum effect describes people's tendency to rate vague, generalized personality statements, the kind used in horoscopes or generic personality quizzes, as highly accurate and specifically applicable to themselves.",
+    "tags": [
+      "barnum-effect",
+      "self-perception"
+    ]
+  },
+  {
+    "id": "psychology-106",
+    "domain": "psychology",
+    "hook": "When something bad happens to you, you blame the situation; when it happens to someone else, you blame their character.",
+    "fact": "The actor-observer asymmetry describes the tendency to attribute your own mistakes or failures to external circumstances, while attributing other people's mistakes to their personal character or ability.",
+    "tags": [
+      "attribution-bias",
+      "social-cognition"
+    ]
+  },
+  {
+    "id": "psychology-107",
+    "domain": "psychology",
+    "hook": "A tiny, unlikely risk can feel more urgent to eliminate than a much bigger one to merely reduce.",
+    "fact": "The zero-risk bias leads people to prefer completely eliminating a small risk over achieving a larger overall reduction in a bigger risk, even when the second option would objectively save more lives or prevent more harm.",
+    "tags": [
+      "zero-risk-bias",
+      "risk-perception"
+    ]
+  },
+  {
+    "id": "psychology-108",
+    "domain": "psychology",
+    "hook": "Smells can unlock decades-old memories faster and more vividly than almost any other trigger.",
+    "fact": "Odor-evoked memories tend to feel unusually vivid and emotionally charged compared to memories triggered by other senses, a pattern often called the Proust phenomenon, possibly because smell signals are processed through brain pathways closely tied to memory and emotion.",
+    "tags": [
+      "smell",
+      "autobiographical-memory"
+    ]
+  },
+  {
+    "id": "psychology-109",
+    "domain": "psychology",
+    "hook": "Unconsciously reusing someone else's idea and believing it's your own is a real memory error.",
+    "fact": "Cryptomnesia occurs when a person forgets the original source of an idea, tune, or phrase and later produces it believing it to be an original creation of their own, without any intent to plagiarize.",
+    "tags": [
+      "cryptomnesia",
+      "memory-errors"
+    ]
+  },
+  {
+    "id": "psychology-110",
+    "domain": "psychology",
+    "hook": "Entire detailed memories of events that never happened can be created in a person's mind.",
+    "fact": "Carefully designed suggestive interviewing techniques have been shown to lead a meaningful portion of participants to develop detailed, confidently held false memories of events from their own past that never actually occurred.",
+    "tags": [
+      "false-memory",
+      "suggestibility"
+    ]
+  },
+  {
+    "id": "psychology-111",
+    "domain": "psychology",
+    "hook": "Sound seems to get louder faster than it actually does when something is heading toward you.",
+    "fact": "Auditory looming bias causes people to perceive an approaching sound source as closer or more urgent than a receding one of equal actual loudness change, likely because the brain evolved to prioritize incoming threats.",
+    "tags": [
+      "auditory-perception",
+      "looming-bias"
+    ]
+  },
+  {
+    "id": "psychology-112",
+    "domain": "psychology",
+    "hook": "Two eyes give you more than a wider view, they give you a sense of depth a single eye can't.",
+    "fact": "Depth perception relies on both binocular cues, like the slightly different images each eye receives, and monocular cues, such as relative size and overlapping objects, which is why depth can still be partly perceived even with one eye closed.",
+    "tags": [
+      "depth-perception",
+      "visual-perception"
+    ]
+  },
+  {
+    "id": "psychology-113",
+    "domain": "psychology",
+    "hook": "The eye's blind spot is filled in by your brain, not by anything actually there.",
+    "fact": "Each eye has a small blind spot where the optic nerve exits the retina and no photoreceptors exist, yet people rarely notice it in daily life because the brain automatically fills in the missing patch of the visual field using surrounding information.",
+    "tags": [
+      "blind-spot",
+      "visual-perception"
+    ]
+  },
+  {
+    "id": "psychology-114",
+    "domain": "psychology",
+    "hook": "Your peripheral vision is actually better suited to seeing in the dark than your central vision.",
+    "fact": "The rod photoreceptor cells responsible for low-light vision are concentrated more in the outer areas of the retina than in its center, which is why faint stars or objects in dim light can sometimes be seen more clearly by looking slightly to the side of them rather than straight at them.",
+    "tags": [
+      "night-vision",
+      "visual-perception"
+    ]
+  },
+  {
+    "id": "psychology-115",
+    "domain": "psychology",
+    "hook": "Two people can look at the exact same ambiguous image and confidently see two different things.",
+    "fact": "Bistable, or ambiguous, figures like the duck-rabbit or Necker cube can be perceived in more than one way, and the brain typically settles on one interpretation at a time, occasionally flipping spontaneously between the two even though the image itself never changes.",
+    "tags": [
+      "ambiguous-figures",
+      "visual-perception"
+    ]
+  },
+  {
+    "id": "psychology-116",
+    "domain": "psychology",
+    "hook": "The brain treats a threat to your reputation almost like a threat to your physical safety.",
+    "fact": "Social pain, such as rejection or public embarrassment, activates some of the same neural and physiological stress responses as physical pain, which is part of why humiliating experiences can feel genuinely painful rather than merely upsetting.",
+    "tags": [
+      "social-pain",
+      "emotion"
+    ]
+  },
+  {
+    "id": "psychology-117",
+    "domain": "psychology",
+    "hook": "Watching someone else get hurt can make you wince as if it happened to you.",
+    "fact": "Empathic pain response describes how observing another person's pain or injury can trigger a milder version of the same emotional and even physiological distress in the observer, a mechanism thought to support empathy and social bonding.",
+    "tags": [
+      "empathy",
+      "emotion"
+    ]
+  },
+  {
+    "id": "psychology-118",
+    "domain": "psychology",
+    "hook": "Suppressing a specific thought on command tends to make it pop back into your head more, not less.",
+    "fact": "Deliberately trying not to think about something, such as being told not to think of a white bear, often paradoxically increases the frequency with which that exact thought intrudes on consciousness afterward.",
+    "tags": [
+      "thought-suppression",
+      "cognition"
+    ]
+  },
+  {
+    "id": "psychology-119",
+    "domain": "psychology",
+    "hook": "People consistently rate a gain and an equivalent avoided loss very differently, even though the math is the same.",
+    "fact": "Prospect theory shows that people evaluate potential outcomes relative to a reference point rather than in absolute terms, and are generally more sensitive to potential losses than to equivalent potential gains when making decisions under risk.",
+    "tags": [
+      "prospect-theory",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-120",
+    "domain": "psychology",
+    "hook": "Naming an emotion out loud can measurably calm your body down.",
+    "fact": "Affect labeling, the act of putting feelings into words, has been shown in research to reduce the intensity of an emotional response, which is part of why simply saying 'I'm anxious' out loud can have a mildly calming effect.",
+    "tags": [
+      "affect-labeling",
+      "emotion-regulation"
+    ]
+  },
+  {
+    "id": "psychology-121",
+    "domain": "psychology",
+    "hook": "You can feel two conflicting emotions about the same thing at exactly the same time.",
+    "fact": "Emotional ambivalence, feeling genuinely happy and sad, or excited and anxious, about the same situation simultaneously, is a normal and well-documented experience, common during major life transitions like graduations or moving away from home.",
+    "tags": [
+      "ambivalence",
+      "emotion"
+    ]
+  },
+  {
+    "id": "psychology-122",
+    "domain": "psychology",
+    "hook": "A song you haven't heard in years can instantly bring back exactly how you felt back then.",
+    "fact": "Music is a particularly strong trigger for autobiographical memory, and songs associated with emotionally significant periods of a person's life, especially adolescence and young adulthood, tend to evoke unusually vivid memories and feelings when heard again later.",
+    "tags": [
+      "music",
+      "autobiographical-memory"
+    ]
+  },
+  {
+    "id": "psychology-123",
+    "domain": "psychology",
+    "hook": "Two people can watch the same event and walk away with two different memories of what happened.",
+    "fact": "Because memory is reconstructive and shaped by each individual's prior expectations and attention at the time, two people witnessing the same event can encode and later recall meaningfully different details, both believing their version is accurate.",
+    "tags": [
+      "memory-distortion",
+      "eyewitness-memory"
+    ]
+  },
+  {
+    "id": "psychology-124",
+    "domain": "psychology",
+    "hook": "Emotionally intense memories tend to feel more vivid, but that doesn't necessarily mean they're more accurate.",
+    "fact": "While strong emotion generally enhances how well an experience is initially encoded into memory, the resulting memories aren't necessarily more accurate than calmer ones, they just tend to feel more vivid and are recalled with greater subjective confidence.",
+    "tags": [
+      "emotional-memory",
+      "memory-accuracy"
+    ]
+  },
+  {
+    "id": "psychology-125",
+    "domain": "psychology",
+    "hook": "Modern psychology started as a lab experiment in 1879.",
+    "fact": "Wilhelm Wundt opened the first formal laboratory dedicated to psychological research at the University of Leipzig in 1879, marking the field's split from philosophy into an experimental science.",
+    "tags": [
+      "history",
+      "founding"
+    ]
+  },
+  {
+    "id": "psychology-126",
+    "domain": "psychology",
+    "hook": "The 'father of American psychology' wrote his defining textbook in 1890.",
+    "fact": "William James published 'The Principles of Psychology' in 1890, laying groundwork for functionalism, the school that studied the purpose of mental processes rather than just their structure.",
+    "tags": [
+      "history",
+      "functionalism"
+    ]
+  },
+  {
+    "id": "psychology-127",
+    "domain": "psychology",
+    "hook": "Pavlov wasn't even trying to study psychology when he discovered conditioning.",
+    "fact": "Ivan Pavlov was a physiologist researching canine digestion when he noticed his dogs salivating at cues that predicted food, leading him to describe classical conditioning.",
+    "tags": [
+      "history",
+      "conditioning"
+    ]
+  },
+  {
+    "id": "psychology-128",
+    "domain": "psychology",
+    "hook": "One toddler's fear of a white rat helped found an entire school of psychology.",
+    "fact": "In 1920, John B. Watson and Rosalie Rayner conditioned a baby known as 'Little Albert' to fear a white rat by pairing it with a loud noise, a study now considered ethically unacceptable but foundational to behaviorism.",
+    "whyItMatters": "The experiment would violate basic ethical standards today and helped spur the creation of formal research ethics guidelines in psychology.",
+    "tags": [
+      "history",
+      "behaviorism",
+      "ethics"
+    ]
+  },
+  {
+    "id": "psychology-129",
+    "domain": "psychology",
+    "hook": "B.F. Skinner trained pigeons to play ping-pong to prove a point about behavior.",
+    "fact": "Skinner developed operant conditioning using a chamber nicknamed the 'Skinner box,' showing that behavior could be shaped through reinforcement schedules, and famously trained pigeons on such tasks to demonstrate the principle.",
+    "tags": [
+      "history",
+      "behaviorism"
+    ]
+  },
+  {
+    "id": "psychology-130",
+    "domain": "psychology",
+    "hook": "Two-thirds of ordinary people delivered what they believed was a lethal shock.",
+    "fact": "In Stanley Milgram's 1961 obedience experiments at Yale, roughly 65% of participants administered what they were told was a maximum, dangerous voltage shock to another person simply because an authority figure instructed them to continue.",
+    "whyItMatters": "The results reshaped how psychologists understand obedience to authority and remain a reference point in discussions of institutional atrocities.",
+    "tags": [
+      "history",
+      "obedience",
+      "ethics"
+    ]
+  },
+  {
+    "id": "psychology-131",
+    "domain": "psychology",
+    "hook": "A prison simulation was shut down after just six days.",
+    "fact": "Philip Zimbardo's 1971 Stanford Prison Experiment assigned college students to be 'guards' or 'prisoners' and had to be ended early after guards became abusive and prisoners showed severe distress.",
+    "tags": [
+      "history",
+      "ethics",
+      "social-psychology"
+    ]
+  },
+  {
+    "id": "psychology-132",
+    "domain": "psychology",
+    "hook": "Nearly three-quarters of people gave an answer they knew was wrong just to fit in.",
+    "fact": "Solomon Asch's 1950s conformity experiments found that about 75% of participants agreed with an obviously incorrect group answer to a simple line-length question at least once.",
+    "tags": [
+      "history",
+      "conformity"
+    ]
+  },
+  {
+    "id": "psychology-133",
+    "domain": "psychology",
+    "hook": "Baby monkeys chose comfort over food.",
+    "fact": "Harry Harlow's mid-20th-century experiments showed infant rhesus monkeys preferred clinging to a soft cloth 'mother' figure over a wire one that dispensed milk, demonstrating the importance of contact comfort in attachment.",
+    "tags": [
+      "history",
+      "attachment"
+    ]
+  },
+  {
+    "id": "psychology-134",
+    "domain": "psychology",
+    "hook": "Researchers got themselves admitted to psychiatric hospitals just to see what happened.",
+    "fact": "In David Rosenhan's 1973 study, healthy volunteers feigned a single symptom to gain admission to psychiatric hospitals, and staff often failed to recognize them as sane even after they stopped reporting any symptoms.",
+    "tags": [
+      "history",
+      "psychiatry"
+    ]
+  },
+  {
+    "id": "psychology-135",
+    "domain": "psychology",
+    "hook": "Children who watched an adult punch a doll went on to punch it too.",
+    "fact": "Albert Bandura's 1961 Bobo doll experiment showed children who observed an adult act aggressively toward an inflatable doll imitated that aggression, supporting his social learning theory.",
+    "tags": [
+      "history",
+      "social-learning"
+    ]
+  },
+  {
+    "id": "psychology-136",
+    "domain": "psychology",
+    "hook": "A famous 'story' about 38 witnesses doing nothing wasn't quite true.",
+    "fact": "The 1964 murder of Kitty Genovese inspired research into the bystander effect, the finding that individuals are less likely to help someone in distress when other people are present, though later reporting showed the original account exaggerated how many witnesses truly ignored her.",
+    "tags": [
+      "history",
+      "social-psychology"
+    ]
+  },
+  {
+    "id": "psychology-137",
+    "domain": "psychology",
+    "hook": "Freud believed most of the mind was hidden from us.",
+    "fact": "Sigmund Freud's psychoanalytic theory proposed that much of human behavior is driven by unconscious drives and conflicts, organized into the id, ego, and superego.",
+    "tags": [
+      "history",
+      "psychoanalysis"
+    ]
+  },
+  {
+    "id": "psychology-138",
+    "domain": "psychology",
+    "hook": "Freud's protégé broke away over a disagreement about the unconscious.",
+    "fact": "Carl Jung split from Freud partly over his belief in a 'collective unconscious' shared across humanity, populated by universal symbolic patterns he called archetypes.",
+    "tags": [
+      "history",
+      "jung"
+    ]
+  },
+  {
+    "id": "psychology-139",
+    "domain": "psychology",
+    "hook": "Children don't think like small adults, one theorist argued.",
+    "fact": "Jean Piaget proposed that children move through distinct stages of cognitive development, each marked by qualitatively different ways of understanding the world.",
+    "tags": [
+      "history",
+      "development"
+    ]
+  },
+  {
+    "id": "psychology-140",
+    "domain": "psychology",
+    "hook": "One psychologist mapped out eight crises we all face across a lifetime.",
+    "fact": "Erik Erikson's theory of psychosocial development describes eight stages, from infancy to old age, each centered on a particular conflict such as trust versus mistrust or identity versus role confusion.",
+    "tags": [
+      "history",
+      "development"
+    ]
+  },
+  {
+    "id": "psychology-141",
+    "domain": "psychology",
+    "hook": "There's a famous pyramid for what humans need to thrive.",
+    "fact": "Abraham Maslow's hierarchy of needs arranges human motivations from basic physiological survival up through safety, belonging, esteem, and self-actualization.",
+    "tags": [
+      "history",
+      "motivation"
+    ]
+  },
+  {
+    "id": "psychology-142",
+    "domain": "psychology",
+    "hook": "One therapist believed just listening without judgment could heal.",
+    "fact": "Carl Rogers pioneered person-centered therapy, arguing that unconditional positive regard, empathy, and genuineness from a therapist were central to psychological growth.",
+    "tags": [
+      "history",
+      "therapy",
+      "humanistic"
+    ]
+  },
+  {
+    "id": "psychology-143",
+    "domain": "psychology",
+    "hook": "A reformer spent decades exposing how the mentally ill were being chained in cages.",
+    "fact": "Dorothea Dix spent much of the 19th century investigating and publicizing the inhumane treatment of people with mental illness in American jails and almshouses, driving the creation of dedicated state hospitals.",
+    "tags": [
+      "history",
+      "mental-health-reform"
+    ]
+  },
+  {
+    "id": "psychology-144",
+    "domain": "psychology",
+    "hook": "A French physician ordered the chains removed from asylum patients.",
+    "fact": "Philippe Pinel is credited with pioneering 'moral treatment' in late 18th-century Paris asylums, replacing physical restraint with more humane care based on the idea that mental illness was treatable.",
+    "tags": [
+      "history",
+      "mental-health-reform"
+    ]
+  },
+  {
+    "id": "psychology-145",
+    "domain": "psychology",
+    "hook": "Babies were sorted into attachment styles using a 20-minute lab test.",
+    "fact": "Mary Ainsworth's 'Strange Situation' procedure observed how infants reacted to brief separations from a caregiver, identifying attachment patterns including secure, anxious, and avoidant.",
+    "tags": [
+      "history",
+      "attachment"
+    ]
+  },
+  {
+    "id": "psychology-146",
+    "domain": "psychology",
+    "hook": "Dogs that couldn't escape a shock eventually stopped trying, even when they could.",
+    "fact": "Martin Seligman's research on learned helplessness found that animals exposed to inescapable unpleasant stimuli later failed to attempt escape even when escape was possible, a finding later applied to understanding depression in humans.",
+    "tags": [
+      "history",
+      "learned-helplessness"
+    ]
+  },
+  {
+    "id": "psychology-147",
+    "domain": "psychology",
+    "hook": "A single marshmallow became one of psychology's most cited props.",
+    "fact": "In Walter Mischel's 1960s studies, children were offered one treat immediately or two if they waited alone with it; later research suggested family background explains much of the link between the results and children's later life outcomes.",
+    "tags": [
+      "history",
+      "self-control"
+    ]
+  },
+  {
+    "id": "psychology-148",
+    "domain": "psychology",
+    "hook": "A girl locked away for over a decade became a landmark case for language science.",
+    "fact": "The case of 'Genie,' a California girl discovered in 1970 after years of severe isolation, offered researchers rare evidence about critical periods for language acquisition, since she never fully developed grammatical language despite intervention.",
+    "tags": [
+      "history",
+      "language-development"
+    ]
+  },
+  {
+    "id": "psychology-149",
+    "domain": "psychology",
+    "hook": "The word 'adolescence' as a life stage traces back to one psychologist.",
+    "fact": "G. Stanley Hall, who earned the first American PhD in psychology, popularized the concept of adolescence as a distinct developmental period in his 1904 book on the subject.",
+    "tags": [
+      "history",
+      "development"
+    ]
+  },
+  {
+    "id": "psychology-150",
+    "domain": "psychology",
+    "hook": "Clinical psychology began in a single small clinic in Philadelphia.",
+    "fact": "Lightner Witmer founded the first psychological clinic in 1896 at the University of Pennsylvania, coining the term 'clinical psychology' to describe applying psychological science to help individuals.",
+    "tags": [
+      "history",
+      "clinical-psychology"
+    ]
+  },
+  {
+    "id": "psychology-151",
+    "domain": "psychology",
+    "hook": "The organization behind American psychology is older than the automobile.",
+    "fact": "The American Psychological Association was founded in 1892, making it one of the oldest professional scientific organizations of its kind still operating today.",
+    "tags": [
+      "history",
+      "apa"
+    ]
+  },
+  {
+    "id": "psychology-152",
+    "domain": "psychology",
+    "hook": "One doctor's classification system still echoes through modern psychiatry.",
+    "fact": "Emil Kraepelin's late 19th-century work distinguishing dementia praecox (later renamed schizophrenia) from manic-depressive illness laid the foundation for modern psychiatric diagnostic categories.",
+    "tags": [
+      "history",
+      "psychiatry"
+    ]
+  },
+  {
+    "id": "psychology-153",
+    "domain": "psychology",
+    "hook": "IQ testing wasn't invented to rank geniuses.",
+    "fact": "Alfred Binet developed the first practical intelligence test in the early 1900s with the goal of identifying French schoolchildren who needed extra academic support, not to measure innate superiority.",
+    "tags": [
+      "history",
+      "intelligence-testing"
+    ]
+  },
+  {
+    "id": "psychology-154",
+    "domain": "psychology",
+    "hook": "A railroad accident accidentally revealed what the frontal lobe does.",
+    "fact": "In 1848, Phineas Gage survived an iron rod driven through his skull, and reports that his personality changed afterward became a landmark case in linking the frontal lobe to personality and self-control, though modern historians note his change was likely exaggerated in later retellings.",
+    "tags": [
+      "history",
+      "neuroscience"
+    ]
+  },
+  {
+    "id": "psychology-155",
+    "domain": "psychology",
+    "hook": "Personality isn't infinite — psychologists narrowed it to five traits.",
+    "fact": "The Big Five model describes personality along five broad dimensions: openness, conscientiousness, extraversion, agreeableness, and neuroticism, often remembered by the acronym OCEAN.",
+    "tags": [
+      "personality",
+      "big-five"
+    ]
+  },
+  {
+    "id": "psychology-156",
+    "domain": "psychology",
+    "hook": "A wildly popular personality test has surprisingly weak scientific backing.",
+    "fact": "The Myers-Briggs Type Indicator sorts people into 16 categories, but psychological researchers have long criticized it for poor test-retest reliability and lacking the empirical validation found in models like the Big Five.",
+    "tags": [
+      "personality",
+      "assessment"
+    ]
+  },
+  {
+    "id": "psychology-157",
+    "domain": "psychology",
+    "hook": "Roughly half of your personality may come down to genetics.",
+    "fact": "Twin and adoption studies consistently estimate that genetic factors account for around 40 to 60 percent of the variation in personality traits, with the rest shaped by environment and unique life experience.",
+    "tags": [
+      "personality",
+      "genetics"
+    ]
+  },
+  {
+    "id": "psychology-158",
+    "domain": "psychology",
+    "hook": "Two cardiologists accidentally discovered a personality-heart disease link.",
+    "fact": "In the 1950s, Meyer Friedman and Ray Rosenman identified 'Type A' behavior, marked by competitiveness and urgency, and found it associated with higher rates of heart disease compared to more relaxed 'Type B' patterns.",
+    "tags": [
+      "personality",
+      "health"
+    ]
+  },
+  {
+    "id": "psychology-159",
+    "domain": "psychology",
+    "hook": "Do you control your life, or does life control you?",
+    "fact": "Julian Rotter's concept of locus of control describes whether people tend to attribute outcomes to their own actions (internal locus) or to outside forces like luck and fate (external locus).",
+    "tags": [
+      "personality",
+      "locus-of-control"
+    ]
+  },
+  {
+    "id": "psychology-160",
+    "domain": "psychology",
+    "hook": "One researcher tried to catalog every personality trait in the dictionary.",
+    "fact": "Gordon Allport pioneered trait theory in the 1930s by identifying thousands of English words describing personal characteristics, an early attempt to systematically map the structure of personality.",
+    "tags": [
+      "personality",
+      "trait-theory"
+    ]
+  },
+  {
+    "id": "psychology-161",
+    "domain": "psychology",
+    "hook": "Before the Big Five, there were sixteen personality factors.",
+    "fact": "Raymond Cattell used statistical factor analysis to reduce Allport's massive trait list down to 16 core personality factors, published in his well-known 16PF questionnaire.",
+    "tags": [
+      "personality",
+      "trait-theory"
+    ]
+  },
+  {
+    "id": "psychology-162",
+    "domain": "psychology",
+    "hook": "One psychologist thought introverts and extraverts have different brain wiring.",
+    "fact": "Hans Eysenck proposed that extraverts have lower baseline cortical arousal than introverts, leading extraverts to seek out more external stimulation to feel alert.",
+    "tags": [
+      "personality",
+      "extraversion"
+    ]
+  },
+  {
+    "id": "psychology-163",
+    "domain": "psychology",
+    "hook": "There's a personality trio psychologists specifically study for its dark side.",
+    "fact": "The 'Dark Triad' refers to three overlapping but distinct personality traits: narcissism, Machiavellianism, and psychopathy, each associated with manipulative or self-serving interpersonal behavior.",
+    "tags": [
+      "personality",
+      "dark-triad"
+    ]
+  },
+  {
+    "id": "psychology-164",
+    "domain": "psychology",
+    "hook": "One trait predicts job success and longevity better than the rest.",
+    "fact": "Among the Big Five traits, conscientiousness — reflecting organization, discipline, and reliability — is consistently the strongest personality predictor of job performance and even lifespan.",
+    "tags": [
+      "personality",
+      "conscientiousness"
+    ]
+  },
+  {
+    "id": "psychology-165",
+    "domain": "psychology",
+    "hook": "Being the oldest child doesn't actually make you bossier.",
+    "fact": "Despite popular belief, large modern studies have found little to no consistent evidence that birth order meaningfully shapes personality traits like dominance or conscientiousness.",
+    "whyItMatters": "It's a good example of a widely believed psychological claim that hasn't held up well under rigorous large-sample testing.",
+    "tags": [
+      "personality",
+      "birth-order"
+    ]
+  },
+  {
+    "id": "psychology-166",
+    "domain": "psychology",
+    "hook": "There's a sixth personality dimension some researchers add to the Big Five.",
+    "fact": "The HEXACO model adds a sixth trait, honesty-humility, to the standard five personality dimensions, capturing tendencies toward fairness, sincerity, and lack of greed.",
+    "tags": [
+      "personality",
+      "hexaco"
+    ]
+  },
+  {
+    "id": "psychology-167",
+    "domain": "psychology",
+    "hook": "Your personality at 30 predicts your personality at 70, but not perfectly.",
+    "fact": "Personality traits show meaningful stability over decades, yet research also shows systematic shifts with age, such as conscientiousness and agreeableness tending to rise as people move through adulthood.",
+    "tags": [
+      "personality",
+      "development"
+    ]
+  },
+  {
+    "id": "psychology-168",
+    "domain": "psychology",
+    "hook": "Some people are wired to notice more of everything around them.",
+    "fact": "Psychologist Elaine Aron popularized the concept of the 'highly sensitive person,' describing a trait involving deeper processing of sensory and emotional information relative to the general population.",
+    "tags": [
+      "personality",
+      "sensitivity"
+    ]
+  },
+  {
+    "id": "psychology-169",
+    "domain": "psychology",
+    "hook": "Everyday confidence and clinical narcissism are not the same thing.",
+    "fact": "Narcissistic personality disorder is a diagnosable clinical condition involving a pervasive pattern of grandiosity and lack of empathy that impairs functioning, distinct from the everyday, non-clinical use of 'narcissistic' to describe vanity.",
+    "tags": [
+      "personality",
+      "narcissism"
+    ]
+  },
+  {
+    "id": "psychology-170",
+    "domain": "psychology",
+    "hook": "Personality disorders aren't just extreme quirks.",
+    "fact": "Personality disorders are diagnosed only when a pattern of thinking, feeling, and behaving is inflexible, pervasive across situations, and causes significant distress or impairment, not simply when someone has strong or unusual traits.",
+    "tags": [
+      "personality",
+      "personality-disorders"
+    ]
+  },
+  {
+    "id": "psychology-171",
+    "domain": "psychology",
+    "hook": "Two people can fill out the same personality test and disagree about the results.",
+    "fact": "Personality is typically measured through both self-report questionnaires and observer or informant ratings, and while the two methods correlate, they don't perfectly agree, since people aren't always the most accurate judges of their own traits.",
+    "tags": [
+      "personality",
+      "assessment"
+    ]
+  },
+  {
+    "id": "psychology-172",
+    "domain": "psychology",
+    "hook": "Openness to new ideas correlates with more than just liking art.",
+    "fact": "The Big Five trait of openness to experience is associated not only with creativity and imagination but also with broader interests, intellectual curiosity, and more liberal political attitudes on average.",
+    "tags": [
+      "personality",
+      "openness"
+    ]
+  },
+  {
+    "id": "psychology-173",
+    "domain": "psychology",
+    "hook": "Mental illness touches far more people each year than most assume.",
+    "fact": "According to U.S. national surveys, roughly one in five adults experiences a diagnosable mental illness in any given year, ranging from mild to severe.",
+    "tags": [
+      "mental-health",
+      "prevalence"
+    ]
+  },
+  {
+    "id": "psychology-174",
+    "domain": "psychology",
+    "hook": "Depression isn't only about feeling sad.",
+    "fact": "Clinical depression commonly includes physical symptoms such as fatigue, appetite changes, and difficulty concentrating, alongside persistent low mood or loss of interest in activities.",
+    "tags": [
+      "mental-health",
+      "depression"
+    ]
+  },
+  {
+    "id": "psychology-175",
+    "domain": "psychology",
+    "hook": "One category of mental illness is more common than all the others combined.",
+    "fact": "Anxiety disorders, which include generalized anxiety disorder, social anxiety, and panic disorder, are the most prevalent category of mental health conditions worldwide.",
+    "tags": [
+      "mental-health",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "psychology-176",
+    "domain": "psychology",
+    "hook": "OCD is not the same as being tidy or liking things organized.",
+    "fact": "Obsessive-compulsive disorder involves intrusive, distressing thoughts (obsessions) paired with repetitive behaviors or mental acts (compulsions) performed to reduce anxiety, a far cry from the casual, colloquial use of the term.",
+    "tags": [
+      "mental-health",
+      "ocd"
+    ]
+  },
+  {
+    "id": "psychology-177",
+    "domain": "psychology",
+    "hook": "A therapy built around changing thought patterns reshaped modern treatment.",
+    "fact": "Cognitive behavioral therapy, developed largely by Aaron Beck in the 1960s, is based on the idea that thoughts, feelings, and behaviors are interconnected, and that changing distorted thinking patterns can improve emotional wellbeing.",
+    "tags": [
+      "mental-health",
+      "therapy",
+      "cbt"
+    ]
+  },
+  {
+    "id": "psychology-178",
+    "domain": "psychology",
+    "hook": "A therapy originally designed for one specific, hard-to-treat condition now helps far more people.",
+    "fact": "Dialectical behavior therapy was developed by Marsha Linehan in the late 20th century specifically to treat borderline personality disorder, combining cognitive-behavioral techniques with mindfulness practices.",
+    "tags": [
+      "mental-health",
+      "therapy",
+      "dbt"
+    ]
+  },
+  {
+    "id": "psychology-179",
+    "domain": "psychology",
+    "hook": "Schizophrenia is not the same thing as having multiple personalities.",
+    "fact": "Schizophrenia is a thought disorder involving symptoms like hallucinations, delusions, and disorganized thinking; it does not involve a person switching between distinct identities, a common but inaccurate stereotype.",
+    "whyItMatters": "Confusing the two conditions contributes to stigma and misunderstanding about what people with schizophrenia actually experience.",
+    "tags": [
+      "mental-health",
+      "schizophrenia"
+    ]
+  },
+  {
+    "id": "psychology-180",
+    "domain": "psychology",
+    "hook": "There's a real condition where a person experiences distinct identity states.",
+    "fact": "Dissociative identity disorder, formerly called multiple personality disorder, is a distinct diagnosis from schizophrenia and is strongly associated with severe childhood trauma.",
+    "tags": [
+      "mental-health",
+      "dissociative-disorders"
+    ]
+  },
+  {
+    "id": "psychology-181",
+    "domain": "psychology",
+    "hook": "Bipolar disorder involves more than just mood swings.",
+    "fact": "Bipolar disorder is characterized by distinct episodes of mania or hypomania, marked by elevated energy and impulsivity, alternating with episodes of depression, rather than simply frequent everyday mood changes.",
+    "tags": [
+      "mental-health",
+      "bipolar-disorder"
+    ]
+  },
+  {
+    "id": "psychology-182",
+    "domain": "psychology",
+    "hook": "Trauma can rewire how a person's brain responds to reminders of danger.",
+    "fact": "Post-traumatic stress disorder can develop after experiencing or witnessing a traumatic event, producing symptoms such as intrusive memories, avoidance, and a heightened startle response.",
+    "tags": [
+      "mental-health",
+      "ptsd"
+    ]
+  },
+  {
+    "id": "psychology-183",
+    "domain": "psychology",
+    "hook": "The most common antidepressants target one specific brain chemical system.",
+    "fact": "Selective serotonin reuptake inhibitors, or SSRIs, are among the most commonly prescribed antidepressants and work by increasing the availability of serotonin in the brain's synapses.",
+    "tags": [
+      "mental-health",
+      "medication"
+    ]
+  },
+  {
+    "id": "psychology-184",
+    "domain": "psychology",
+    "hook": "Large psychiatric hospitals largely disappeared over the past 70 years.",
+    "fact": "Deinstitutionalization, a mid-to-late 20th century policy shift, moved mental health treatment away from large state psychiatric hospitals toward outpatient and community-based care.",
+    "tags": [
+      "mental-health",
+      "history"
+    ]
+  },
+  {
+    "id": "psychology-185",
+    "domain": "psychology",
+    "hook": "Asking someone directly about suicidal thoughts does not increase their risk.",
+    "fact": "Research consistently shows that asking someone directly whether they are having suicidal thoughts does not plant the idea or increase risk, and can instead open the door to getting them help.",
+    "whyItMatters": "This directly counters a persistent and harmful myth that keeps people from checking in on someone who may be struggling.",
+    "tags": [
+      "mental-health",
+      "suicide-prevention"
+    ]
+  },
+  {
+    "id": "psychology-186",
+    "domain": "psychology",
+    "hook": "Eating disorders are rarely just about food.",
+    "fact": "Conditions like anorexia nervosa and bulimia nervosa are complex mental illnesses often tied to underlying issues of control, anxiety, and emotional regulation, not simply vanity or a desire to look a certain way.",
+    "tags": [
+      "mental-health",
+      "eating-disorders"
+    ]
+  },
+  {
+    "id": "psychology-187",
+    "domain": "psychology",
+    "hook": "ADHD doesn't disappear when childhood ends.",
+    "fact": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that for many people continues into adulthood, though its presentation often shifts from visible hyperactivity toward difficulties with organization and focus.",
+    "tags": [
+      "mental-health",
+      "adhd"
+    ]
+  },
+  {
+    "id": "psychology-188",
+    "domain": "psychology",
+    "hook": "Autism isn't classified as a mental illness.",
+    "fact": "Autism spectrum condition is categorized as a neurodevelopmental condition affecting communication, social interaction, and behavior patterns, distinct from mental illnesses like depression or anxiety.",
+    "tags": [
+      "mental-health",
+      "autism"
+    ]
+  },
+  {
+    "id": "psychology-189",
+    "domain": "psychology",
+    "hook": "Postpartum depression isn't limited to new mothers.",
+    "fact": "While most associated with mothers after childbirth, research shows fathers and non-birthing partners can also experience postpartum depression, likely influenced by hormonal shifts, sleep disruption, and major life adjustment.",
+    "tags": [
+      "mental-health",
+      "postpartum"
+    ]
+  },
+  {
+    "id": "psychology-190",
+    "domain": "psychology",
+    "hook": "Shorter winter days can trigger a specific, recognized form of depression.",
+    "fact": "Seasonal affective disorder is a form of depression that follows a seasonal pattern, most often emerging in fall and winter, and is commonly treated with bright light therapy in addition to standard treatments.",
+    "tags": [
+      "mental-health",
+      "seasonal-affective-disorder"
+    ]
+  },
+  {
+    "id": "psychology-191",
+    "domain": "psychology",
+    "hook": "Mental illness shows up in brain scans and genetics, not just behavior.",
+    "fact": "Conditions like schizophrenia, bipolar disorder, and major depression have documented genetic and neurobiological components, underscoring that they are medical conditions rather than character flaws.",
+    "whyItMatters": "Understanding the biological basis of mental illness is a key factor researchers point to in efforts to reduce stigma.",
+    "tags": [
+      "mental-health",
+      "stigma"
+    ]
+  },
+  {
+    "id": "psychology-192",
+    "domain": "psychology",
+    "hook": "Having one mental health condition raises the odds you have another.",
+    "fact": "Comorbidity is common in mental health, with conditions like anxiety and depression frequently occurring together in the same individual rather than in isolation.",
+    "tags": [
+      "mental-health",
+      "comorbidity"
+    ]
+  },
+  {
+    "id": "psychology-193",
+    "domain": "psychology",
+    "hook": "Resilience isn't a trait you either have or don't.",
+    "fact": "Psychological resilience, the capacity to adapt well in the face of adversity, is shaped by a combination of factors including social support, coping skills, and outlook, and can be strengthened over time rather than being fixed from birth.",
+    "tags": [
+      "mental-health",
+      "resilience"
+    ]
+  },
+  {
+    "id": "psychology-194",
+    "domain": "psychology",
+    "hook": "There's a specific day each year set aside to talk openly about mental health.",
+    "fact": "World Mental Health Day is observed on October 10th each year, established by the World Federation for Mental Health to raise awareness and reduce stigma globally.",
+    "tags": [
+      "mental-health",
+      "awareness"
+    ]
+  },
+  {
+    "id": "psychology-195",
+    "domain": "psychology",
+    "hook": "Fear of feared objects can be treated by facing them, gradually.",
+    "fact": "Exposure therapy, which involves gradual, controlled confrontation with a feared object or situation, is one of the most well-supported treatments for phobias and several anxiety disorders.",
+    "tags": [
+      "mental-health",
+      "therapy",
+      "exposure-therapy"
+    ]
+  },
+  {
+    "id": "psychology-196",
+    "domain": "psychology",
+    "hook": "Even in psychiatric drug trials, some patients improve on sugar pills.",
+    "fact": "Placebo response rates are notably high in clinical trials for psychiatric medications, a phenomenon researchers study closely when evaluating how effective a new treatment truly is.",
+    "tags": [
+      "mental-health",
+      "placebo"
+    ]
+  },
+  {
+    "id": "psychology-197",
+    "domain": "psychology",
+    "hook": "Sitting in a room with strangers who share your struggle can be its own treatment.",
+    "fact": "Group therapy is an evidence-supported treatment format for a range of conditions, offering both structured therapeutic techniques and the benefit of peer support and shared experience.",
+    "tags": [
+      "mental-health",
+      "therapy",
+      "group-therapy"
+    ]
+  },
+  {
+    "id": "psychology-198",
+    "domain": "psychology",
+    "hook": "The human brain has roughly as many neurons as the Milky Way has stars.",
+    "fact": "Neuroscientist Suzana Herculano-Houzel's careful cell-counting method found the human brain contains approximately 86 billion neurons, correcting the long-cited but less rigorously measured estimate of 100 billion.",
+    "tags": [
+      "neuroscience",
+      "brain-structure"
+    ]
+  },
+  {
+    "id": "psychology-199",
+    "domain": "psychology",
+    "hook": "Brain cells don't touch — they shout across a gap.",
+    "fact": "Neurons communicate at junctions called synapses, where an electrical signal triggers the release of chemical messengers called neurotransmitters that cross the gap to the next cell.",
+    "tags": [
+      "neuroscience",
+      "neurons"
+    ]
+  },
+  {
+    "id": "psychology-200",
+    "domain": "psychology",
+    "hook": "One brain region acts like your personal impulse-control manager.",
+    "fact": "The frontal lobe, particularly the prefrontal cortex, is central to executive functions such as planning, decision-making, and regulating impulses.",
+    "tags": [
+      "neuroscience",
+      "brain-structure"
+    ]
+  }
+]

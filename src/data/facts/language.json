@@ -1,0 +1,2049 @@
+[
+  {
+    "id": "language-001",
+    "domain": "language",
+    "hook": "Roman soldiers were probably never literally paid in salt.",
+    "fact": "The word \"salary\" comes from Latin salarium, a term linked to sal (salt), likely originally an allowance soldiers received to buy salt or other provisions. The popular claim that legionaries were literally handed salt as wages is a widely repeated exaggeration with little solid evidence.",
+    "tags": [
+      "latin",
+      "myth-bust"
+    ]
+  },
+  {
+    "id": "language-002",
+    "domain": "language",
+    "hook": "The word \"clue\" comes from a ball of yarn in a Greek myth.",
+    "fact": "Clue derives from the Middle English \"clew,\" meaning a ball of thread. It took on the meaning of something that helps solve a mystery because of the myth of Theseus, who unwound a ball of thread to find his way back out of the Minotaur's labyrinth.",
+    "tags": [
+      "greek-mythology",
+      "etymology"
+    ]
+  },
+  {
+    "id": "language-003",
+    "domain": "language",
+    "hook": "Flex your bicep and you're technically flexing a little mouse.",
+    "fact": "\"Muscle\" comes from Latin musculus, literally \"little mouse.\" Romans thought a flexing muscle, especially the bicep, looked like a small mouse moving under the skin.",
+    "tags": [
+      "latin",
+      "anatomy"
+    ]
+  },
+  {
+    "id": "language-004",
+    "domain": "language",
+    "hook": "A \"companion\" is literally someone you share bread with.",
+    "fact": "Companion comes from Latin com- (\"together with\") and panis (\"bread\"). A companion was originally someone you broke bread with.",
+    "tags": [
+      "latin",
+      "etymology"
+    ]
+  },
+  {
+    "id": "language-005",
+    "domain": "language",
+    "hook": "A \"disaster\" was originally blamed on the stars.",
+    "fact": "Disaster comes from the Italian disastro, built from the Greek-derived prefix dis- (\"bad\") and astro (\"star\"). It reflects an old astrological belief that catastrophes were caused by an unfavorable position of a star or planet.",
+    "tags": [
+      "astrology",
+      "etymology"
+    ]
+  },
+  {
+    "id": "language-006",
+    "domain": "language",
+    "hook": "Quarantine means \"forty days\" for a very literal reason.",
+    "fact": "During the Black Death, the Republic of Venice required ships arriving from plague-affected ports to sit at anchor for 40 days before anyone could come ashore. The practice was called quarantena, from the Venetian word for \"forty.\"",
+    "whyItMatters": "The same core idea, isolating the potentially infected for a fixed period, is still used in modern epidemic and pandemic response today.",
+    "tags": [
+      "italian",
+      "history",
+      "medicine"
+    ]
+  },
+  {
+    "id": "language-007",
+    "domain": "language",
+    "hook": "The \"mare\" in nightmare has nothing to do with horses.",
+    "fact": "The \"mare\" in nightmare comes from Old English mare, a term for a mythical demon or goblin believed to sit on a sleeper's chest and suffocate them, causing bad dreams. It's an unrelated word to \"mare\" meaning a female horse.",
+    "tags": [
+      "old-english",
+      "folklore"
+    ]
+  },
+  {
+    "id": "language-008",
+    "domain": "language",
+    "hook": "Sarcasm literally means \"tearing flesh.\"",
+    "fact": "Sarcasm comes from the Greek verb sarkazein, \"to tear flesh like a dog,\" derived from sarx (\"flesh\"). The word arrived in English via Late Latin and French to describe cutting, biting remarks.",
+    "tags": [
+      "greek",
+      "etymology"
+    ]
+  },
+  {
+    "id": "language-009",
+    "domain": "language",
+    "hook": "Panic is named after a Greek god who lived in the woods.",
+    "fact": "Panic comes from the Greek god Pan, a rustic deity associated with wild places, who was said to cause sudden, irrational terror in travelers and herds passing through his forests.",
+    "tags": [
+      "greek-mythology",
+      "etymology"
+    ]
+  },
+  {
+    "id": "language-010",
+    "domain": "language",
+    "hook": "To \"tantalize\" someone is to punish them like a Greek king.",
+    "fact": "Tantalize comes from Tantalus, a figure in Greek myth condemned in the underworld to stand in water beneath a fruit tree, with both food and drink forever pulling just out of reach whenever he tried to take them.",
+    "tags": [
+      "greek-mythology",
+      "etymology"
+    ]
+  },
+  {
+    "id": "language-011",
+    "domain": "language",
+    "hook": "\"Lunatic\" blames the moon for madness.",
+    "fact": "Lunatic comes from Latin luna, \"moon.\" It reflects an old folk belief, common well into the modern era, that phases of the moon could trigger insanity or erratic behavior.",
+    "tags": [
+      "latin",
+      "folklore"
+    ]
+  },
+  {
+    "id": "language-012",
+    "domain": "language",
+    "hook": "Algebra is named after a 9th-century book title, not a person.",
+    "fact": "Algebra comes from the Arabic al-jabr, meaning \"the reunion of broken parts.\" It's taken from the title of a mathematical treatise written around 820 CE by the Persian scholar al-Khwarizmi.",
+    "tags": [
+      "arabic",
+      "mathematics"
+    ]
+  },
+  {
+    "id": "language-013",
+    "domain": "language",
+    "hook": "Every algorithm is quietly named after one 9th-century mathematician.",
+    "fact": "Algorithm comes from Algorismus, the Latinized name of the Persian mathematician al-Khwarizmi, whose work introduced Hindu-Arabic numerals and systematic calculation methods to the Islamic world and, eventually, Europe.",
+    "whyItMatters": "Nearly every piece of modern software runs on \"algorithms,\" a word that traces directly back to one real 9th-century scholar's name.",
+    "tags": [
+      "arabic",
+      "mathematics",
+      "eponym"
+    ]
+  },
+  {
+    "id": "language-014",
+    "domain": "language",
+    "hook": "An \"admiral\" was originally just \"the commander.\"",
+    "fact": "Admiral comes from the Arabic amir (\"commander\"), often used in the fuller title amir al-bahr, \"commander of the sea.\" The word passed into English through medieval French and Latin.",
+    "tags": [
+      "arabic",
+      "military"
+    ]
+  },
+  {
+    "id": "language-015",
+    "domain": "language",
+    "hook": "Alcohol started out as a word for eye makeup.",
+    "fact": "Alcohol comes from the Arabic al-kuhl, a finely powdered antimony used as eyeliner (kohl). Europeans first used \"alcohol\" for any fine powder produced by distillation before it narrowed to mean distilled spirits.",
+    "tags": [
+      "arabic",
+      "etymology"
+    ]
+  },
+  {
+    "id": "language-016",
+    "domain": "language",
+    "hook": "The word \"coffee\" traveled through three languages before reaching English.",
+    "fact": "Coffee comes from the Arabic qahwa, which became kahve in Turkish before entering European languages, arriving in English via Italian and Dutch in the 17th century.",
+    "tags": [
+      "arabic",
+      "turkish",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-017",
+    "domain": "language",
+    "hook": "\"Safari\" just means \"trip.\"",
+    "fact": "Safari comes from Swahili safari, meaning \"journey,\" which itself derives from the Arabic safar, \"to travel.\" It only picked up its specific big-game connotation in English during the colonial era in East Africa.",
+    "tags": [
+      "swahili",
+      "arabic",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-018",
+    "domain": "language",
+    "hook": "Zero came to Europe as an Arabic word for \"empty.\"",
+    "fact": "Zero traces back to the Arabic sifr, meaning \"empty\" or \"nothing,\" which also gave English the word \"cipher.\" Arabic scholars transmitted the concept of zero, originally developed in India, into medieval Europe.",
+    "whyItMatters": "The adoption of zero and the positional number system it enabled is considered a turning point that made modern mathematics and accounting practical.",
+    "tags": [
+      "arabic",
+      "mathematics"
+    ]
+  },
+  {
+    "id": "language-019",
+    "domain": "language",
+    "hook": "Checkmate means \"the king is helpless.\"",
+    "fact": "Checkmate comes from the Persian shah mat, roughly \"the king is helpless\" or \"the king is stuck,\" via Arabic and Old French. Chess itself traveled to Europe from Persia, which had adapted it from an earlier Indian game.",
+    "tags": [
+      "persian",
+      "games"
+    ]
+  },
+  {
+    "id": "language-020",
+    "domain": "language",
+    "hook": "Oranges weren't named after the color; it's the other way around.",
+    "fact": "Orange comes from the Persian narang, via Arabic naranj and Old French. The fruit's name came first; the color name followed once the fruit became common enough in Europe to describe a shade by.",
+    "tags": [
+      "persian",
+      "color"
+    ]
+  },
+  {
+    "id": "language-021",
+    "domain": "language",
+    "hook": "A magazine was originally a warehouse for weapons.",
+    "fact": "Magazine comes from the Arabic makhazin, \"storehouses,\" which passed through Italian and French into English, originally meaning a place for storing goods or ammunition. The publication sense only developed in the 18th century, when \"magazine\" was used to mean a storehouse of information.",
+    "tags": [
+      "arabic",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-022",
+    "domain": "language",
+    "hook": "Monsoon literally just means \"season.\"",
+    "fact": "Monsoon comes from the Arabic mawsim, \"season,\" via Portuguese monção. It originally referred generally to seasonal wind patterns in the Arabian Sea before narrowing to the specific rain-bringing winds of South Asia.",
+    "tags": [
+      "arabic",
+      "weather"
+    ]
+  },
+  {
+    "id": "language-023",
+    "domain": "language",
+    "hook": "\"Hazard\" started life as a dice game.",
+    "fact": "Hazard comes from the Arabic az-zahr, \"the die,\" via Old French hasard, originally naming a medieval gambling game played with dice. Its modern sense of \"danger\" grew out of the risk involved in betting.",
+    "tags": [
+      "arabic",
+      "games"
+    ]
+  },
+  {
+    "id": "language-024",
+    "domain": "language",
+    "hook": "The giraffe's name barely changed on its way into English.",
+    "fact": "Giraffe comes almost directly from the Arabic zarafa, entering English via Italian and French with little alteration in sound.",
+    "tags": [
+      "arabic",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-025",
+    "domain": "language",
+    "hook": "Candy traces back through Arabic to a Sanskrit word for a piece of sugar.",
+    "fact": "Candy comes from the Arabic qandi, itself from the Sanskrit khanda, meaning a piece or fragment of sugar. The word describes how sugar was originally sold, broken into crystallized chunks.",
+    "tags": [
+      "arabic",
+      "sanskrit",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-026",
+    "domain": "language",
+    "hook": "A word for an unstoppable force comes from a misunderstood Hindu festival.",
+    "fact": "Juggernaut comes from Jagannath, a form of the Hindu deity Krishna worshipped in Puri, India, whose massive temple chariot was paraded through the streets during festivals. Early European travelers wrongly believed devotees deliberately threw themselves under its wheels, and the word entered English as a term for any unstoppable, crushing force.",
+    "whyItMatters": "It's a striking example of a colonial-era misunderstanding of a religious practice hardening into a permanent English word.",
+    "tags": [
+      "sanskrit",
+      "hindi",
+      "colonial-history"
+    ]
+  },
+  {
+    "id": "language-027",
+    "domain": "language",
+    "hook": "Avatar meant \"descent from heaven\" long before it meant a profile picture.",
+    "fact": "Avatar comes from the Sanskrit avatara, meaning the \"descent\" of a deity to earth in bodily form. English borrowed it first for the earthly incarnations of Hindu gods before the word was repurposed for digital representations of a person.",
+    "tags": [
+      "sanskrit",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-028",
+    "domain": "language",
+    "hook": "Shampoo used to mean a full-body massage, not hair washing.",
+    "fact": "Shampoo comes from the Hindi champo, an imperative form of champna, \"to press\" or \"to knead.\" It entered English in the 18th century describing a therapeutic massage practice before its meaning narrowed to washing hair.",
+    "tags": [
+      "hindi",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-029",
+    "domain": "language",
+    "hook": "\"Thug\" originally named a specific criminal network in India.",
+    "fact": "Thug comes from the Hindi thag, referring to members of an organized network of robbers in India who, according to 19th-century British colonial accounts, operated under this name. The word entered English through those colonial reports and broadened to mean any violent criminal.",
+    "tags": [
+      "hindi",
+      "loanword",
+      "colonial-history"
+    ]
+  },
+  {
+    "id": "language-030",
+    "domain": "language",
+    "hook": "\"Loot\" is a straight import from Hindi.",
+    "fact": "Loot comes directly from the Hindi lut, meaning plunder or stolen goods, adopted into English by British soldiers and officials serving in colonial India.",
+    "tags": [
+      "hindi",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-031",
+    "domain": "language",
+    "hook": "A rum punch is named for its five ingredients.",
+    "fact": "Punch, the mixed drink, comes from the Hindi and Sanskrit panch, meaning \"five.\" The name referred to the traditional five ingredients: spirit, water, lemon, sugar, and spice.",
+    "tags": [
+      "hindi",
+      "sanskrit",
+      "food-drink"
+    ]
+  },
+  {
+    "id": "language-032",
+    "domain": "language",
+    "hook": "Pajamas are named for a piece of clothing worn on the legs.",
+    "fact": "Pajamas comes from the Hindi and Urdu payjama, itself from Persian pay (\"leg\") and jama (\"garment\"). It originally described loose trousers tied at the waist, worn in South Asia long before it became English for sleepwear.",
+    "tags": [
+      "hindi",
+      "persian",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-033",
+    "domain": "language",
+    "hook": "\"Paradise\" started out meaning a walled garden.",
+    "fact": "Paradise comes from the Old Persian pairidaeza, meaning an enclosed park or walled garden. The word passed into Greek as paradeisos and eventually into English through Latin and French, gradually taking on its heavenly meaning.",
+    "tags": [
+      "persian",
+      "greek",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-034",
+    "domain": "language",
+    "hook": "\"Bazaar\" is a straightforward Persian loanword.",
+    "fact": "Bazaar comes from the Persian bazar, meaning a marketplace, and entered English largely unchanged through trade contact and colonial-era usage in South Asia.",
+    "tags": [
+      "persian",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-035",
+    "domain": "language",
+    "hook": "Khaki is named after a color, not a fabric.",
+    "fact": "Khaki comes from the Urdu and Persian khaki, meaning \"dust-colored,\" from khak (\"dust\"). British colonial troops in India adopted dust-toned uniforms for camouflage, and the color name became the fabric's name.",
+    "tags": [
+      "urdu",
+      "persian",
+      "military"
+    ]
+  },
+  {
+    "id": "language-036",
+    "domain": "language",
+    "hook": "The color azure is named after a place that mined blue stone.",
+    "fact": "Azure comes from the Persian lazhward, a region famous as a source of lapis lazuli, the deep blue mineral. The word passed through Arabic and Old French before settling into English as a color name.",
+    "tags": [
+      "persian",
+      "color"
+    ]
+  },
+  {
+    "id": "language-037",
+    "domain": "language",
+    "hook": "The word \"robot\" is only about a century old, and started on a stage.",
+    "fact": "Robot comes from the Czech robota, meaning forced labor or drudgery. It was coined for Karel Čapek's 1920 play R.U.R. (Rossum's Universal Robots), with the specific word reportedly suggested by his brother, the painter and writer Josef Čapek.",
+    "tags": [
+      "czech",
+      "coinage",
+      "literature"
+    ]
+  },
+  {
+    "id": "language-038",
+    "domain": "language",
+    "hook": "Vampire is a loanword from the Balkans.",
+    "fact": "Vampire entered English in the early 18th century via French and German, ultimately from a Slavic word (compare Serbian vampir), following a wave of reports and folklore about vampire scares in the Balkans and Central Europe.",
+    "tags": [
+      "slavic",
+      "folklore",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-039",
+    "domain": "language",
+    "hook": "A kiosk was originally a Persian garden pavilion.",
+    "fact": "Kiosk comes from the Turkish köşk, itself from the Persian kushk, originally describing an open, roofed pavilion in a garden or palace. The word narrowed in Western Europe to mean a small booth or stand.",
+    "tags": [
+      "turkish",
+      "persian",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-040",
+    "domain": "language",
+    "hook": "The word \"coach\" is named after a Hungarian village.",
+    "fact": "Coach comes from the Hungarian kocsi (szekér), literally \"wagon of Kocs,\" a village in Hungary renowned in the 15th century for producing a distinctive, well-sprung style of horse-drawn carriage.",
+    "tags": [
+      "hungarian",
+      "transportation",
+      "eponym"
+    ]
+  },
+  {
+    "id": "language-041",
+    "domain": "language",
+    "hook": "\"Berserk\" comes from warriors who fought in bearskins.",
+    "fact": "Berserk comes from the Old Norse berserkr, likely meaning \"bear-shirt,\" referring to legendary Norse warriors said to fight in a trance-like, frenzied rage, sometimes described as wearing bear or wolf pelts.",
+    "tags": [
+      "old-norse",
+      "history"
+    ]
+  },
+  {
+    "id": "language-042",
+    "domain": "language",
+    "hook": "\"Geyser\" is named after one specific hot spring in Iceland.",
+    "fact": "Geyser comes from Geysir, the proper name of a particular hot spring in southwest Iceland, derived from the Old Norse verb geysa, \"to gush.\" It became the generic English word for any similar hot spring.",
+    "tags": [
+      "icelandic",
+      "old-norse",
+      "eponym"
+    ]
+  },
+  {
+    "id": "language-043",
+    "domain": "language",
+    "hook": "\"Galore\" is Irish for \"plenty.\"",
+    "fact": "Galore comes from the Irish and Scottish Gaelic go leor, meaning \"enough\" or \"sufficient.\" English borrowed the phrase almost intact, and it's still always used postpositively, as in \"bargains galore.\"",
+    "tags": [
+      "irish-gaelic",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-044",
+    "domain": "language",
+    "hook": "Whiskey means \"water of life.\"",
+    "fact": "Whiskey comes from the Irish uisce beatha and Scottish Gaelic uisge beatha, both meaning \"water of life,\" a direct translation of the Latin aqua vitae once used across medieval Europe for distilled spirits.",
+    "tags": [
+      "irish-gaelic",
+      "loanword",
+      "food-drink"
+    ]
+  },
+  {
+    "id": "language-045",
+    "domain": "language",
+    "hook": "\"Smithereens\" is a tiny Irish word for tiny fragments.",
+    "fact": "Smithereens comes from the Irish smidiríní, a diminutive form of smiodar, meaning a small fragment or piece.",
+    "tags": [
+      "irish-gaelic",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-046",
+    "domain": "language",
+    "hook": "A tsunami is literally a \"harbor wave.\"",
+    "fact": "Tsunami comes from the Japanese tsu (\"harbor\") and nami (\"wave\"), describing how the destructive waves are most noticeable and damaging as they surge into harbors and coastal inlets.",
+    "tags": [
+      "japanese",
+      "natural-disaster"
+    ]
+  },
+  {
+    "id": "language-047",
+    "domain": "language",
+    "hook": "\"Tycoon\" was originally a title for the Japanese shogun.",
+    "fact": "Tycoon comes from the Japanese taikun, meaning \"great lord\" or \"great prince,\" a title used for the shogun. American diplomats and sailors picked up the word during trade negotiations with Japan in the 1850s, and it entered English to describe powerful, wealthy figures.",
+    "tags": [
+      "japanese",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-048",
+    "domain": "language",
+    "hook": "\"Honcho\" comes from a Japanese military rank.",
+    "fact": "Honcho comes from the Japanese hanchō, meaning \"squad leader\" or \"group chief.\" American servicemen picked up the term during the occupation of Japan after World War II, and it entered English slang for anyone in charge.",
+    "tags": [
+      "japanese",
+      "military",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-049",
+    "domain": "language",
+    "hook": "Emoji has nothing to do with the word \"emotion.\"",
+    "fact": "Emoji comes from the Japanese e (\"picture\") and moji (\"character\" or \"letter\"). Its close resemblance to the English word \"emoticon\" is entirely coincidental, not an etymological connection.",
+    "whyItMatters": "It's a common misconception that \"emoji\" is a blend of \"emotion\" and \"icon\"; the resemblance is pure coincidence between unrelated languages.",
+    "tags": [
+      "japanese",
+      "technology"
+    ]
+  },
+  {
+    "id": "language-050",
+    "domain": "language",
+    "hook": "\"Karaoke\" literally means \"empty orchestra.\"",
+    "fact": "Karaoke combines the Japanese kara (\"empty\") with oke, a shortened borrowing of the English word \"orchestra.\" Together they described a backing track performing without its usual live musicians.",
+    "tags": [
+      "japanese",
+      "music"
+    ]
+  },
+  {
+    "id": "language-051",
+    "domain": "language",
+    "hook": "\"Gung ho\" started as a Chinese factory-cooperative slogan.",
+    "fact": "Gung ho comes from the Chinese gōnghé, roughly \"work together\" or \"work in harmony,\" used as a name for Chinese industrial cooperatives in the 1930s. A U.S. Marine officer who had served in China adopted it as a training motto during World War II, and it spread into English meaning overly enthusiastic.",
+    "tags": [
+      "chinese",
+      "military",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-052",
+    "domain": "language",
+    "hook": "To \"kowtow\" is literally to knock your head on the ground.",
+    "fact": "Kowtow comes from the Chinese kòutóu, meaning \"knock the head,\" describing the traditional practice of kneeling and touching one's forehead to the floor as a sign of deep respect or submission before a superior.",
+    "tags": [
+      "chinese",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-053",
+    "domain": "language",
+    "hook": "Ketchup started out as a fermented fish sauce.",
+    "fact": "Ketchup most likely comes from the Hokkien Chinese kê-tsiap, a pickled fish brine, which reached English via the Malay kicap after being adapted by British traders in Southeast Asia. It bore little resemblance to today's tomato-based condiment until recipes evolved over the following two centuries.",
+    "tags": [
+      "chinese",
+      "malay",
+      "food-drink"
+    ]
+  },
+  {
+    "id": "language-054",
+    "domain": "language",
+    "hook": "\"Tea\" and \"chai\" are actually the same word, split by trade routes.",
+    "fact": "Both words trace back to the same Chinese root. \"Tea\" entered English via Dutch traders who carried the word te from the Min Nan Chinese dialect of Amoy by sea, while \"chai\" spread overland through Persian and Russian from the Mandarin cha, producing two different-sounding words for the same plant across the world's languages.",
+    "whyItMatters": "Linguists can trace historic tea-trade routes just by checking whether a language's word for tea sounds more like \"cha\" or \"tea.\"",
+    "tags": [
+      "chinese",
+      "trade-history"
+    ]
+  },
+  {
+    "id": "language-055",
+    "domain": "language",
+    "hook": "Avocado and \"testicle\" share a root in Nahuatl.",
+    "fact": "Avocado comes from the Nahuatl ahuacatl, a word that also referred to a testicle, likely due to the fruit's shape as it hangs in pairs on the tree. Spanish colonizers adapted it to aguacate, which English later reshaped into \"avocado.\"",
+    "tags": [
+      "nahuatl",
+      "food-drink"
+    ]
+  },
+  {
+    "id": "language-056",
+    "domain": "language",
+    "hook": "Hurricane is named after a storm god.",
+    "fact": "Hurricane comes from the Taino word hurakan, the name of a storm deity in the mythology of the Indigenous Taino people of the Caribbean. Spanish colonizers adopted it as huracán, and it passed from there into English.",
+    "tags": [
+      "taino",
+      "weather"
+    ]
+  },
+  {
+    "id": "language-057",
+    "domain": "language",
+    "hook": "Kayak is an Inuit word for the boat itself.",
+    "fact": "Kayak comes from the Inuktitut and Yupik qayaq, the Indigenous Arctic word for the narrow, skin-covered boat, borrowed into English essentially unchanged.",
+    "tags": [
+      "inuktitut",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-058",
+    "domain": "language",
+    "hook": "\"Klutz\" comes from a word for a block of wood.",
+    "fact": "Klutz comes from the Yiddish klots, meaning a wooden beam or block, itself related to the German Klotz. It came to describe a clumsy, blockish person.",
+    "tags": [
+      "yiddish",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-059",
+    "domain": "language",
+    "hook": "\"Chutzpah\" is Hebrew by way of Yiddish.",
+    "fact": "Chutzpah entered English through Yiddish khutspe, ultimately from the Hebrew ḥutspāh, meaning brazen audacity or nerve.",
+    "tags": [
+      "yiddish",
+      "hebrew",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-060",
+    "domain": "language",
+    "hook": "\"Schmooze\" comes from a Hebrew word for rumors.",
+    "fact": "Schmooze comes from the Yiddish shmuesn, \"to chat,\" which itself derives from the Hebrew shmuot, meaning news or rumors.",
+    "tags": [
+      "yiddish",
+      "hebrew",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-061",
+    "domain": "language",
+    "hook": "A zombie's name likely comes from a West African word for spirit.",
+    "fact": "Zombie is widely believed to derive from a West African language, plausibly Kikongo, where a related word referred to the spirit of a dead person. It entered English via Haitian Creole zonbi, tied to Haitian Vodou beliefs about the reanimated dead.",
+    "tags": [
+      "kikongo",
+      "haitian-creole",
+      "folklore"
+    ]
+  },
+  {
+    "id": "language-062",
+    "domain": "language",
+    "hook": "Wikipedia is named after a Hawaiian word for \"quick.\"",
+    "fact": "Wiki comes from the Hawaiian word wiki, meaning \"quick,\" as in the wiki wiki shuttle buses at Honolulu Airport. Programmer Ward Cunningham borrowed the word in 1995 to name his new collaboratively editable website software, calling it WikiWikiWeb.",
+    "tags": [
+      "hawaiian",
+      "technology"
+    ]
+  },
+  {
+    "id": "language-063",
+    "domain": "language",
+    "hook": "The ukulele's name translates to \"jumping flea.\"",
+    "fact": "Ukulele comes from Hawaiian words meaning \"jumping flea,\" widely thought to describe the rapid, hopping motion of a player's fingers across the small instrument's strings.",
+    "tags": [
+      "hawaiian",
+      "music"
+    ]
+  },
+  {
+    "id": "language-064",
+    "domain": "language",
+    "hook": "Tattoo entered English because of Captain Cook's voyages.",
+    "fact": "Tattoo, for skin marking, comes from the Polynesian and Tahitian tatau, recorded by British explorer Captain James Cook and his crew during their Pacific voyages in the late 1760s and 1770s.",
+    "tags": [
+      "polynesian",
+      "loanword"
+    ]
+  },
+  {
+    "id": "language-065",
+    "domain": "language",
+    "hook": "A physicist named a subatomic particle after a line in a novel.",
+    "fact": "The word \"quark,\" used for a fundamental subatomic particle, was chosen by physicist Murray Gell-Mann from the line \"Three quarks for Muster Mark\" in James Joyce's famously dense novel Finnegans Wake. Gell-Mann had already settled on the sound for the particle and simply found Joyce's spelling to match.",
+    "tags": [
+      "physics",
+      "literature",
+      "coinage"
+    ]
+  },
+  {
+    "id": "language-066",
+    "domain": "language",
+    "hook": "\"Flak\" started life as a German acronym.",
+    "fact": "Flak comes from the German Fliegerabwehrkanone, meaning \"aircraft-defense cannon.\" Allied pilots in World War II adopted the abbreviation for anti-aircraft fire, and it later broadened in English to mean any harsh criticism.",
+    "tags": [
+      "german",
+      "military",
+      "coinage"
+    ]
+  },
+  {
+    "id": "language-067",
+    "domain": "language",
+    "hook": "A 16th-century Bible translator invented the word \"scapegoat.\"",
+    "fact": "William Tyndale coined \"scapegoat\" in his 1530 English translation of the Bible, rendering a Hebrew ritual in Leviticus in which one goat symbolically carried the community's sins into the wilderness. \"Scapegoat\" was his contraction of \"escape goat.\"",
+    "tags": [
+      "biblical",
+      "coinage"
+    ]
+  },
+  {
+    "id": "language-068",
+    "domain": "language",
+    "hook": "\"The writing on the wall\" comes from a doomed royal feast.",
+    "fact": "The phrase comes from the Book of Daniel, in which a mysterious hand appears during King Belshazzar's feast and writes a cryptic message on the wall, prophesying the fall of his kingdom.",
+    "tags": [
+      "biblical",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-069",
+    "domain": "language",
+    "hook": "\"By the skin of your teeth\" is a straight line from the Book of Job.",
+    "fact": "The phrase comes almost word for word from the Book of Job (19:20), where Job describes narrowly escaping death, and has been used in English ever since the King James Bible popularized the translation.",
+    "tags": [
+      "biblical",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-070",
+    "domain": "language",
+    "hook": "\"Go the extra mile\" refers to a real Roman law.",
+    "fact": "The phrase comes from Matthew 5:41, referencing a Roman practice that allowed soldiers to legally compel civilians to carry their equipment for one mile. Jesus's teaching was to go two miles instead of the legally required one, turning an act of forced labor into one of voluntary generosity.",
+    "whyItMatters": "The saying only makes full sense once you know it's built on a real, resented Roman legal power over occupied civilians.",
+    "tags": [
+      "biblical",
+      "roman-history",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-071",
+    "domain": "language",
+    "hook": "\"Deadline\" was once an actual line you'd be shot for crossing.",
+    "fact": "During the American Civil War, prison camps like Andersonville marked a literal line inside the perimeter fence; any prisoner who crossed it could be shot by guards without warning. The term later softened into its modern sense of a time limit, especially in publishing.",
+    "whyItMatters": "It's a stark reminder of how a word can shed a violent literal origin while keeping its sense of urgency and consequence.",
+    "tags": [
+      "american-history",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-072",
+    "domain": "language",
+    "hook": "\"Mayday\" is French, not English.",
+    "fact": "Mayday was coined in 1923 by senior radio officer Frederick Stanley Mockford at Croydon Airport in London. He based it on the French phrase venez m'aider (\"come help me\"), chosen because it would be clearly understood by both English- and French-speaking pilots over crackly radio.",
+    "tags": [
+      "aviation",
+      "coinage"
+    ]
+  },
+  {
+    "id": "language-073",
+    "domain": "language",
+    "hook": "SOS doesn't actually stand for anything.",
+    "fact": "SOS was adopted as an international distress signal in 1906 not because it abbreviates a phrase like \"Save Our Souls,\" but because its Morse code pattern, three dots, three dashes, three dots, is simple, unmistakable, and easy to transmit even under pressure.",
+    "whyItMatters": "It corrects one of the most common misconceptions in everyday English: SOS was chosen for its shape in Morse code, not its letters.",
+    "tags": [
+      "morse-code",
+      "myth-bust"
+    ]
+  },
+  {
+    "id": "language-074",
+    "domain": "language",
+    "hook": "A \"hat trick\" started with an actual hat.",
+    "fact": "Hat trick originated in 19th-century English cricket, when a bowler who took three wickets on three consecutive balls was sometimes rewarded with a hat, or had one presented in his honor. The term later spread to hockey, soccer, and other sports for any three achievements in a row.",
+    "tags": [
+      "sports",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-075",
+    "domain": "language",
+    "hook": "\"Stealing someone's thunder\" comes from an actual stolen sound effect.",
+    "fact": "Playwright John Dennis invented a mechanical device to simulate the sound of thunder for his 1704 play. The play flopped, but when a rival theater later used his thunder device for a production of Macbeth, Dennis reportedly complained that they had stolen his thunder.",
+    "tags": [
+      "theater",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-076",
+    "domain": "language",
+    "hook": "\"Reading the riot act\" used to be a literal legal requirement.",
+    "fact": "The phrase comes from Britain's Riot Act of 1714, which required authorities to literally read a specific proclamation aloud to any unlawful gathering, ordering it to disperse, before force could legally be used against the crowd.",
+    "tags": [
+      "british-history",
+      "law",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-077",
+    "domain": "language",
+    "hook": "\"Caught red-handed\" comes from actual blood on someone's hands.",
+    "fact": "The phrase originates in Scots law, where it referred to a criminal, typically a poacher or murderer, caught with literal blood still on their hands at the scene of the crime.",
+    "tags": [
+      "scots-law",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-078",
+    "domain": "language",
+    "hook": "\"Curfew\" was a medieval order to smother your fire.",
+    "fact": "Curfew comes from the Old French couvre-feu, \"cover fire,\" a medieval regulation requiring households to extinguish or cover their hearth fires at a set evening hour to reduce the risk of house fires spreading through timber towns.",
+    "tags": [
+      "old-french",
+      "medieval",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-079",
+    "domain": "language",
+    "hook": "The wooden-shoes-in-machinery story behind \"sabotage\" is probably exaggerated.",
+    "fact": "Sabotage comes from the French verb saboter, meaning to work clumsily or deliberately botch a job, related to sabots, the wooden clogs worn by French laborers. The popular tale of workers literally throwing wooden shoes into machinery to jam it is a later, likely embellished legend rather than the documented mechanism behind the word.",
+    "tags": [
+      "french",
+      "labor-history",
+      "myth-bust"
+    ]
+  },
+  {
+    "id": "language-080",
+    "domain": "language",
+    "hook": "\"Boycott\" is named after one very unpopular landlord's agent.",
+    "fact": "Boycott comes from Captain Charles Boycott, an English land agent in County Mayo, Ireland, who was systematically ostracized by his local community in 1880 during a land rights dispute. His surname became a verb almost immediately.",
+    "whyItMatters": "It named a protest tactic, coordinated social and economic isolation, that activists still organize deliberately today.",
+    "tags": [
+      "eponym",
+      "irish-history"
+    ]
+  },
+  {
+    "id": "language-081",
+    "domain": "language",
+    "hook": "The sandwich is named after a compulsive gambler.",
+    "fact": "The sandwich is popularly attributed to John Montagu, 4th Earl of Sandwich, who reportedly asked for meat served between slices of bread so he could keep gambling at the card table without pausing to use utensils.",
+    "tags": [
+      "eponym",
+      "food-drink"
+    ]
+  },
+  {
+    "id": "language-082",
+    "domain": "language",
+    "hook": "\"Silhouette\" is named after a notoriously stingy finance minister.",
+    "fact": "Silhouette comes from Étienne de Silhouette, France's finance minister in 1759, whose severe budget-cutting measures made his name a byword for anything done cheaply, including the inexpensive cutout paper portraits that later took his name.",
+    "tags": [
+      "eponym",
+      "french-history"
+    ]
+  },
+  {
+    "id": "language-083",
+    "domain": "language",
+    "hook": "The guillotine is named after the man who proposed it, not invented it.",
+    "fact": "The guillotine takes its name from Dr. Joseph-Ignace Guillotin, a French physician who in 1789 proposed the device to the National Assembly as a faster, more humane, and more equal method of execution than existing methods. He neither invented the machine nor died by it.",
+    "tags": [
+      "eponym",
+      "french-history"
+    ]
+  },
+  {
+    "id": "language-084",
+    "domain": "language",
+    "hook": "Nicotine is named after the man who introduced tobacco to France.",
+    "fact": "Nicotine is named for Jean Nicot, a French diplomat who sent tobacco seeds and plants to the French royal court in the 1560s, promoting the plant's supposed medicinal properties.",
+    "tags": [
+      "eponym",
+      "french-history"
+    ]
+  },
+  {
+    "id": "language-085",
+    "domain": "language",
+    "hook": "The cardigan sweater is named after a Crimean War commander.",
+    "fact": "Cardigan is named after James Brudenell, 7th Earl of Cardigan, the British cavalry officer who led the disastrous Charge of the Light Brigade in the Crimean War. The knitted, buttoned garment came to be associated with him or the officers of his regiment.",
+    "tags": [
+      "eponym",
+      "military"
+    ]
+  },
+  {
+    "id": "language-086",
+    "domain": "language",
+    "hook": "The leotard is named after a French trapeze artist.",
+    "fact": "Leotard is named after Jules Léotard, a 19th-century French acrobat who popularized the snug one-piece garment for trapeze performance and inspired the song \"The Daring Young Man on the Flying Trapeze.\"",
+    "tags": [
+      "eponym",
+      "performance"
+    ]
+  },
+  {
+    "id": "language-087",
+    "domain": "language",
+    "hook": "\"Maverick\" is named after a rancher who wouldn't brand his cattle.",
+    "fact": "Maverick comes from Samuel Maverick, a 19th-century Texas rancher and lawyer who famously left his cattle unbranded. Any stray, unbranded calf in the area became known as \"a maverick,\" and the word spread to mean any independent, unconventional individual.",
+    "tags": [
+      "eponym",
+      "american-history"
+    ]
+  },
+  {
+    "id": "language-088",
+    "domain": "language",
+    "hook": "\"Chauvinism\" is named after a soldier whose story may be part legend.",
+    "fact": "Chauvinism comes from Nicolas Chauvin, a French soldier said to be excessively and uncritically devoted to Napoleon. Historians debate how much of his story is exaggerated or fictional, but the word for zealous, blind patriotism stuck regardless.",
+    "tags": [
+      "eponym",
+      "french-history"
+    ]
+  },
+  {
+    "id": "language-089",
+    "domain": "language",
+    "hook": "\"Gerrymander\" is named after a governor and a salamander.",
+    "fact": "Gerrymander was coined in 1812 after Massachusetts Governor Elbridge Gerry signed a bill creating an oddly shaped electoral district that a newspaper cartoonist thought resembled a salamander. The paper blended \"Gerry\" and \"salamander\" into a new word for manipulating electoral boundaries.",
+    "whyItMatters": "The practice the word describes, drawing voting districts to favor one party, remains a major and actively contested issue in elections today.",
+    "tags": [
+      "eponym",
+      "american-history",
+      "politics"
+    ]
+  },
+  {
+    "id": "language-090",
+    "domain": "language",
+    "hook": "\"Sideburns\" is a scrambled version of a general's surname.",
+    "fact": "Sideburns is named after Union Civil War General Ambrose Burnside, known for his distinctive facial hair connecting to his mustache. The style was first called \"burnsides,\" and the two syllables later flipped into \"sideburns.\"",
+    "tags": [
+      "eponym",
+      "american-history"
+    ]
+  },
+  {
+    "id": "language-091",
+    "domain": "language",
+    "hook": "Shrapnel is named after the artillery officer who invented it.",
+    "fact": "Shrapnel is named after British artillery officer Henry Shrapnel, who developed an exploding anti-personnel artillery shell in the late 18th and early 19th centuries designed to scatter metal fragments over a wide area.",
+    "tags": [
+      "eponym",
+      "military"
+    ]
+  },
+  {
+    "id": "language-092",
+    "domain": "language",
+    "hook": "\"Jumping on the bandwagon\" comes from actual circus parades.",
+    "fact": "The phrase comes from 19th-century American circus and political parades, where a wagon carried the band. Supporters of a popular political candidate would climb aboard the literal bandwagon to publicly show their allegiance.",
+    "tags": [
+      "american-history",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-093",
+    "domain": "language",
+    "hook": "A \"dark horse\" was originally a racehorse nobody knew about.",
+    "fact": "Dark horse comes from horse racing, describing a competitor whose ability is unknown to bettors because little information about it has circulated. The phrase was popularized in an 1831 Benjamin Disraeli novel before spreading into politics for unexpected candidates.",
+    "tags": [
+      "horse-racing",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-094",
+    "domain": "language",
+    "hook": "\"Under the weather\" comes from sick sailors sent below deck.",
+    "fact": "The phrase has a commonly cited nautical origin: a sailor who fell ill would be sent below deck, away from the wind, rain, and rough conditions on the exposed deck, to recover out of the weather.",
+    "tags": [
+      "nautical",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-095",
+    "domain": "language",
+    "hook": "\"Showing your true colors\" comes from warships flying fake flags.",
+    "fact": "The phrase comes from naval warfare, where a ship might fly a false flag to approach an enemy vessel undetected, only raising its actual national flag, its \"true colors,\" at the moment of attack.",
+    "tags": [
+      "nautical",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-096",
+    "domain": "language",
+    "hook": "\"The doldrums\" is a real place, not just a mood.",
+    "fact": "The doldrums refers to a specific equatorial ocean region known for calm, unpredictable winds, where sailing ships could be stranded, sometimes for weeks, unable to make progress. The name became a general term for a period of stagnation or low spirits.",
+    "tags": [
+      "nautical",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-097",
+    "domain": "language",
+    "hook": "A \"loose cannon\" was a genuine shipboard hazard.",
+    "fact": "The phrase comes from sailing ships, where a heavy cannon that broke free of its restraints could roll unpredictably and dangerously across the deck in rough seas, capable of crushing crew or breaching the hull.",
+    "tags": [
+      "nautical",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-098",
+    "domain": "language",
+    "hook": "\"Knowing the ropes\" once meant literally knowing a ship's rigging.",
+    "fact": "The phrase comes from sailing ships, where a competent sailor had to memorize the function of dozens of different ropes controlling the sails and rigging, essential knowledge for operating the vessel safely.",
+    "tags": [
+      "nautical",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-099",
+    "domain": "language",
+    "hook": "\"Passing the buck\" comes from a marker used in poker.",
+    "fact": "The phrase comes from American poker, where a marker called a \"buck,\" sometimes a knife with a buckhorn handle, was passed among players to indicate whose turn it was to deal. It's also the origin of President Truman's desk sign, \"The buck stops here.\"",
+    "tags": [
+      "games",
+      "idiom-origin",
+      "american-history"
+    ]
+  },
+  {
+    "id": "language-100",
+    "domain": "language",
+    "hook": "\"Cut to the chase\" comes from early Hollywood editing notes.",
+    "fact": "The phrase originates in the silent-film era, when directors and editors were advised to skip long, talky setup scenes and get straight to the action-packed chase sequence audiences wanted to see.",
+    "tags": [
+      "film",
+      "idiom-origin"
+    ]
+  },
+  {
+    "id": "language-101",
+    "domain": "language",
+    "hook": "Papua New Guinea is the most linguistically diverse country on Earth.",
+    "fact": "With well over 800 living languages spoken among roughly 10 million people, Papua New Guinea packs more linguistic diversity per capita than anywhere else, largely because its mountainous terrain isolated villages from one another for millennia.",
+    "tags": [
+      "language-diversity",
+      "papua-new-guinea"
+    ]
+  },
+  {
+    "id": "language-102",
+    "domain": "language",
+    "hook": "Mandarin has the most native speakers, but English has the most speakers overall.",
+    "fact": "Mandarin Chinese leads in native speakers, but once second-language speakers are counted, English overtakes it as the language with the most total speakers, largely due to its role as a global lingua franca in business, science, and travel.",
+    "tags": [
+      "speakers",
+      "mandarin"
+    ]
+  },
+  {
+    "id": "language-103",
+    "domain": "language",
+    "hook": "A language falls silent every few months.",
+    "fact": "Linguists estimate that of the world's roughly 7,000 languages, one loses its last fluent speaker every few months on average, and most vanish without ever having been fully recorded.",
+    "whyItMatters": "Once a language's last speaker dies without documentation, an entire way of categorizing the world, along with oral histories and songs, is lost permanently.",
+    "tags": [
+      "endangered-languages"
+    ]
+  },
+  {
+    "id": "language-104",
+    "domain": "language",
+    "hook": "Linguists warn that half the world's languages could disappear by 2100.",
+    "fact": "Many researchers project that without active intervention, up to half of the roughly 7,000 languages spoken today will no longer be in use by the end of this century, as smaller communities shift toward dominant national or regional languages.",
+    "tags": [
+      "endangered-languages"
+    ]
+  },
+  {
+    "id": "language-105",
+    "domain": "language",
+    "hook": "Just a couple dozen languages cover more than half of humanity.",
+    "fact": "Despite roughly 7,000 languages existing worldwide, a small handful, including Mandarin, Spanish, English, Hindi, Arabic, and Bengali, are spoken as a first language by more than half the world's population.",
+    "tags": [
+      "speakers",
+      "language-diversity"
+    ]
+  },
+  {
+    "id": "language-106",
+    "domain": "language",
+    "hook": "Some languages have exactly one living speaker.",
+    "fact": "Several languages, including some Indigenous languages of the Americas and Australia, have been reduced to a single living fluent speaker, meaning the language disappears entirely when that person dies unless it has been thoroughly documented.",
+    "tags": [
+      "endangered-languages"
+    ]
+  },
+  {
+    "id": "language-107",
+    "domain": "language",
+    "hook": "Australia may have had over 250 languages before European colonization.",
+    "fact": "Linguists estimate Australia was home to more than 250 distinct Aboriginal languages, with hundreds more dialects, before European settlement; today only a small fraction are still spoken fluently, and most of those are severely endangered.",
+    "tags": [
+      "endangered-languages",
+      "australia"
+    ]
+  },
+  {
+    "id": "language-108",
+    "domain": "language",
+    "hook": "A language with roughly 80 consonants went extinct in 1992.",
+    "fact": "Ubykh, once spoken in the Caucasus, had one of the largest consonant inventories ever recorded, around 80, while having only two or three vowels. It died with its last fully fluent speaker, Tevfik Esenç, who spent years helping linguists document it before his death.",
+    "tags": [
+      "endangered-languages",
+      "phonetics"
+    ]
+  },
+  {
+    "id": "language-109",
+    "domain": "language",
+    "hook": "\"Chinese\" is really a family of mutually unintelligible languages.",
+    "fact": "Mandarin, Cantonese, Wu (Shanghainese), and other varieties of Chinese share a writing system but are often mutually unintelligible when spoken, comparable to the differences between separate Romance languages like Spanish and Italian.",
+    "tags": [
+      "language-families",
+      "chinese"
+    ]
+  },
+  {
+    "id": "language-110",
+    "domain": "language",
+    "hook": "The Niger-Congo family may be the largest in the world by language count.",
+    "fact": "The Niger-Congo family, which includes Swahili, Yoruba, and the hundreds of Bantu languages, contains well over 1,500 individual languages, making it one of the largest language families on Earth by number of members.",
+    "tags": [
+      "language-families",
+      "africa"
+    ]
+  },
+  {
+    "id": "language-111",
+    "domain": "language",
+    "hook": "Basque isn't related to any other language on Earth.",
+    "fact": "Basque, spoken in parts of Spain and France, is a language isolate with no proven relationship to any other language family, making it one of the last surviving pre-Indo-European languages in Western Europe.",
+    "tags": [
+      "language-isolate",
+      "basque"
+    ]
+  },
+  {
+    "id": "language-112",
+    "domain": "language",
+    "hook": "Korean is also a language isolate, unrelated to Chinese or Japanese.",
+    "fact": "Despite borrowing extensive vocabulary from Chinese and sharing structural similarities with Japanese, Korean is generally classified as a language isolate, with no definitively proven genetic relationship to any other language family.",
+    "tags": [
+      "language-isolate",
+      "korean"
+    ]
+  },
+  {
+    "id": "language-113",
+    "domain": "language",
+    "hook": "Most European languages descend from a single ancestor spoken thousands of years ago.",
+    "fact": "The vast majority of European languages, spanning the Germanic, Romance, Slavic, and Indo-Iranian branches, descend from Proto-Indo-European, a reconstructed language believed to have been spoken several thousand years ago, likely somewhere near the Pontic steppe.",
+    "tags": [
+      "language-families",
+      "indo-european"
+    ]
+  },
+  {
+    "id": "language-114",
+    "domain": "language",
+    "hook": "One language family stretches from Madagascar to Easter Island.",
+    "fact": "Austronesian is one of the most geographically widespread language families on Earth, spanning from Madagascar off the coast of Africa to Hawaii and Easter Island in the Pacific, a distance covering more than half the globe.",
+    "tags": [
+      "language-families",
+      "austronesian"
+    ]
+  },
+  {
+    "id": "language-115",
+    "domain": "language",
+    "hook": "There is no single universal sign language.",
+    "fact": "Sign languages evolved independently around the world rather than from one shared source, and they cluster into their own families, such as the descendants of French Sign Language, which include American Sign Language, and the separate lineage of British Sign Language.",
+    "tags": [
+      "sign-language",
+      "language-families"
+    ]
+  },
+  {
+    "id": "language-116",
+    "domain": "language",
+    "hook": "American Sign Language is closer to French Sign Language than to British Sign Language.",
+    "fact": "ASL developed in the early 1800s from a blend of French Sign Language and local sign systems used at the American School for the Deaf, making it mutually unintelligible with British Sign Language even though English is the spoken language in both countries.",
+    "tags": [
+      "sign-language",
+      "asl"
+    ]
+  },
+  {
+    "id": "language-117",
+    "domain": "language",
+    "hook": "A brand-new sign language emerged among children within a single generation.",
+    "fact": "In Nicaragua during the 1980s, deaf children brought together in a newly opened school spontaneously developed a sign language that hadn't existed before, now called Nicaraguan Sign Language.",
+    "whyItMatters": "It gave linguists a rare, real-time case study of how children can generate full grammar out of an unstructured communication system, offering direct evidence for how language itself may have first emerged.",
+    "tags": [
+      "sign-language",
+      "language-acquisition"
+    ]
+  },
+  {
+    "id": "language-118",
+    "domain": "language",
+    "hook": "There are more than 300 distinct sign languages used around the world.",
+    "fact": "Researchers estimate well over 300 sign languages are in active use globally, many of them unrelated to each other and unrelated to the spoken language used by the surrounding hearing community.",
+    "tags": [
+      "sign-language",
+      "language-diversity"
+    ]
+  },
+  {
+    "id": "language-119",
+    "domain": "language",
+    "hook": "Entire villages have developed their own shared sign languages.",
+    "fact": "In communities with unusually high rates of hereditary deafness, such as historically on Martha's Vineyard or among the Al-Sayyid Bedouin in Israel, deaf and hearing residents alike developed shared local sign languages used in everyday village life.",
+    "tags": [
+      "sign-language"
+    ]
+  },
+  {
+    "id": "language-120",
+    "domain": "language",
+    "hook": "Tonal languages turn pitch into meaning.",
+    "fact": "In tonal languages, changing the pitch contour of a syllable changes its meaning entirely. Mandarin uses four main tones, Vietnamese uses six, and many African tonal languages such as Yoruba use tone to mark both vocabulary and grammar.",
+    "tags": [
+      "tonal-languages"
+    ]
+  },
+  {
+    "id": "language-121",
+    "domain": "language",
+    "hook": "Cantonese has up to nine tones, depending on how you count them.",
+    "fact": "Cantonese is often described as having six to nine tones depending on the analysis, compared to Mandarin's four, making it one of the more tonally complex languages spoken by tens of millions of people.",
+    "tags": [
+      "tonal-languages",
+      "cantonese"
+    ]
+  },
+  {
+    "id": "language-122",
+    "domain": "language",
+    "hook": "Entire conversations can be whistled across mountain valleys.",
+    "fact": "Whistled forms of ordinary spoken languages, such as Silbo Gomero in the Canary Islands and whistled Turkish spoken around Kuşköy, encode regular words into whistled tones that can carry for kilometers, letting people communicate across valleys without shouting.",
+    "tags": [
+      "whistled-language",
+      "translation-oddities"
+    ]
+  },
+  {
+    "id": "language-123",
+    "domain": "language",
+    "hook": "One Mandarin syllable can mean four completely unrelated things.",
+    "fact": "The Mandarin syllable \"ma\" can mean \"mother,\" \"hemp,\" \"horse,\" or a grammatical question particle depending entirely on which of the four tones is used, with no change to the consonants or vowels.",
+    "tags": [
+      "tonal-languages",
+      "mandarin"
+    ]
+  },
+  {
+    "id": "language-124",
+    "domain": "language",
+    "hook": "Some languages don't split \"blue\" and \"green\" into separate words.",
+    "fact": "Many languages, including Vietnamese and several African and Pacific languages, traditionally use a single term covering both blue and green, a category linguists sometimes call \"grue,\" showing that color vocabulary doesn't map identically across cultures.",
+    "tags": [
+      "translation-oddities",
+      "color-terms"
+    ]
+  },
+  {
+    "id": "language-125",
+    "domain": "language",
+    "hook": "Russian treats light blue and dark blue as two separate basic colors.",
+    "fact": "Unlike English, Russian has no single umbrella word for \"blue\": goluboy (light blue) and siniy (dark blue) are treated as distinct basic color terms, and some studies suggest this may even affect how quickly Russian speakers distinguish shades of blue.",
+    "tags": [
+      "translation-oddities",
+      "color-terms",
+      "russian"
+    ]
+  },
+  {
+    "id": "language-126",
+    "domain": "language",
+    "hook": "Portuguese has a word for longing that resists translation.",
+    "fact": "The Portuguese word \"saudade\" describes a deep, wistful longing for someone or something absent, and it is frequently cited as one of the hardest words in the world to translate precisely into a single word in another language.",
+    "tags": [
+      "translation-oddities",
+      "portuguese"
+    ]
+  },
+  {
+    "id": "language-127",
+    "domain": "language",
+    "hook": "Japanese has a single word for sunlight filtering through leaves.",
+    "fact": "The Japanese word \"komorebi\" refers specifically to sunlight filtering through tree leaves, a concept most languages, including English, need an entire descriptive phrase to express.",
+    "tags": [
+      "translation-oddities",
+      "japanese"
+    ]
+  },
+  {
+    "id": "language-128",
+    "domain": "language",
+    "hook": "Finnish has a word for drinking alone at home in your underwear.",
+    "fact": "The Finnish term \"kalsarikännit\" describes the specific act of drinking alone at home with no intention of going out, a concept so precise that most languages have no single-word equivalent.",
+    "tags": [
+      "translation-oddities",
+      "finnish"
+    ]
+  },
+  {
+    "id": "language-129",
+    "domain": "language",
+    "hook": "Some languages require you to say how you know what you're saying.",
+    "fact": "Languages such as Turkish, Quechua, and many Indigenous languages of the Americas have grammatical \"evidentiality\" markers, forcing speakers to indicate in nearly every sentence whether they witnessed something directly, heard about it secondhand, or are inferring it.",
+    "whyItMatters": "Because the grammar itself forces speakers to flag their source of information, these languages make it far harder to state secondhand claims as though they were directly witnessed fact.",
+    "tags": [
+      "grammar",
+      "translation-oddities"
+    ]
+  },
+  {
+    "id": "language-130",
+    "domain": "language",
+    "hook": "One Aboriginal language uses compass directions instead of \"left\" and \"right\".",
+    "fact": "Speakers of Guugu Yimithirr, spoken in northern Australia, use cardinal directions like north and south even for small-scale description, saying an ant is on someone's \"south leg\" rather than their left leg, which requires constant spatial awareness.",
+    "tags": [
+      "translation-oddities",
+      "grammar"
+    ]
+  },
+  {
+    "id": "language-131",
+    "domain": "language",
+    "hook": "One Amazonian language may lack words for exact numbers.",
+    "fact": "The Pirahã language of the Brazilian Amazon has been reported to lack precise number words, using only terms roughly equivalent to \"few\" and \"many,\" a claim that has fueled major debates among linguists over the relationship between language and thought.",
+    "tags": [
+      "translation-oddities",
+      "amazon"
+    ]
+  },
+  {
+    "id": "language-132",
+    "domain": "language",
+    "hook": "A near-extinct language had a word for an unspoken shared glance.",
+    "fact": "The nearly extinct Yaghan language of Tierra del Fuego reportedly included a word, \"mamihlapinatapai,\" describing a wordless, meaningful look shared between two people who both want the same thing but are each reluctant to make the first move.",
+    "tags": [
+      "translation-oddities",
+      "endangered-languages"
+    ]
+  },
+  {
+    "id": "language-133",
+    "domain": "language",
+    "hook": "The same word can mean opposite things in Japanese and Chinese.",
+    "fact": "Kanji borrowed from Chinese characters can carry very different meanings in Japanese than in modern Chinese; for instance, 手紙 means \"letter\" (as in mail) in Japanese but means \"toilet paper\" in Chinese, a classic false friend between the two writing systems.",
+    "tags": [
+      "false-friends",
+      "japanese",
+      "chinese"
+    ]
+  },
+  {
+    "id": "language-134",
+    "domain": "language",
+    "hook": "The Spanish word for \"pregnant\" looks just like the English word \"embarrassed\".",
+    "fact": "\"Embarazada\" is a classic false friend for English speakers learning Spanish: it actually means \"pregnant,\" not \"embarrassed,\" a mix-up that has caused countless awkward moments for learners.",
+    "tags": [
+      "false-friends",
+      "spanish"
+    ]
+  },
+  {
+    "id": "language-135",
+    "domain": "language",
+    "hook": "German \"Gift\" doesn't mean present.",
+    "fact": "In German, \"Gift\" means poison, not a gift, one of the more hazardous false friends between German and English, since confusing them in the wrong context could be a genuinely dangerous misunderstanding.",
+    "tags": [
+      "false-friends",
+      "german"
+    ]
+  },
+  {
+    "id": "language-136",
+    "domain": "language",
+    "hook": "The same word means \"fun\" in Swedish and \"calm\" in Danish.",
+    "fact": "The Swedish word \"rolig\" means \"funny\" or \"fun,\" but in Danish and Norwegian, the nearly identical word \"rolig\" means \"calm\" or \"quiet,\" a false friend that regularly trips up speakers of these otherwise closely related Scandinavian languages.",
+    "tags": [
+      "false-friends",
+      "scandinavian"
+    ]
+  },
+  {
+    "id": "language-137",
+    "domain": "language",
+    "hook": "In Italian it's butter; in Spanish it's a donkey.",
+    "fact": "In Italian, \"burro\" means butter, but in Spanish the nearly identical word \"burro\" means donkey, a classic false friend between two closely related Romance languages.",
+    "tags": [
+      "false-friends",
+      "romance-languages"
+    ]
+  },
+  {
+    "id": "language-138",
+    "domain": "language",
+    "hook": "French \"coin\" has nothing to do with money.",
+    "fact": "In French, \"coin\" simply means \"corner,\" not a piece of currency, making it one of the most common false friends for English speakers learning French.",
+    "tags": [
+      "false-friends",
+      "french"
+    ]
+  },
+  {
+    "id": "language-139",
+    "domain": "language",
+    "hook": "In Serbian, \"brak\" means marriage.",
+    "fact": "The Serbian and Croatian word \"brak\" means \"marriage,\" an amusing false friend for English speakers, entirely unrelated to the English word \"brake\".",
+    "tags": [
+      "false-friends",
+      "serbian"
+    ]
+  },
+  {
+    "id": "language-140",
+    "domain": "language",
+    "hook": "Turkish can pack an entire English sentence into a single word.",
+    "fact": "Turkish grammar relies on vowel harmony, in which the vowels of suffixes shift automatically to match earlier vowels in the word, letting speakers build long, precise words that stack many grammatical suffixes onto one root and translate to full sentences in less flexible languages.",
+    "tags": [
+      "grammar",
+      "turkish"
+    ]
+  },
+  {
+    "id": "language-141",
+    "domain": "language",
+    "hook": "Agglutinative languages build sentence-length words from tiny building blocks.",
+    "fact": "Agglutinative languages like Turkish, Finnish, and Hungarian can attach many distinct grammatical suffixes onto a single root word, producing single words that would require entire phrases or sentences in languages like Spanish or Mandarin.",
+    "tags": [
+      "grammar",
+      "agglutinative"
+    ]
+  },
+  {
+    "id": "language-142",
+    "domain": "language",
+    "hook": "Arabic reads right to left, except for its numbers.",
+    "fact": "Arabic and other right-to-left scripts like Hebrew reverse the familiar left-to-right writing direction, yet multi-digit numbers embedded within the text are still read left to right, creating a directional switch within the very same line.",
+    "tags": [
+      "writing-systems",
+      "arabic"
+    ]
+  },
+  {
+    "id": "language-143",
+    "domain": "language",
+    "hook": "Korea's alphabet was deliberately invented by a king in the 1440s.",
+    "fact": "Hangul, the Korean writing system, was created under King Sejong the Great and promulgated in 1446 to give commoners an easier alternative to Chinese characters, and its letter shapes were designed to mimic the position of the mouth and tongue used to pronounce each sound.",
+    "tags": [
+      "writing-systems",
+      "korean"
+    ]
+  },
+  {
+    "id": "language-144",
+    "domain": "language",
+    "hook": "Japanese routinely mixes three writing systems in a single sentence.",
+    "fact": "Japanese text commonly combines kanji (Chinese-derived characters), hiragana (a syllabary for native grammar), and katakana (a syllabary mainly for foreign loanwords), sometimes with all three appearing within one sentence.",
+    "tags": [
+      "writing-systems",
+      "japanese"
+    ]
+  },
+  {
+    "id": "language-145",
+    "domain": "language",
+    "hook": "Georgian and Armenian each use alphabets found nowhere else on Earth.",
+    "fact": "Georgian and Armenian both use writing systems developed specifically for their own languages, unrelated to Latin, Cyrillic, or Arabic script, each tracing back roughly 1,600 years to alphabets traditionally credited to early scholars in the Caucasus.",
+    "tags": [
+      "writing-systems",
+      "caucasus"
+    ]
+  },
+  {
+    "id": "language-146",
+    "domain": "language",
+    "hook": "Thousands of the world's languages have no traditional writing system at all.",
+    "fact": "A large share of the world's languages, especially smaller Indigenous and minority ones, exist only in spoken form, with no standardized traditional script, though some have had writing systems devised for them more recently by linguists or missionaries.",
+    "tags": [
+      "writing-systems",
+      "endangered-languages"
+    ]
+  },
+  {
+    "id": "language-147",
+    "domain": "language",
+    "hook": "The same Chinese character can sound completely different in five languages.",
+    "fact": "A single Chinese character can be pronounced very differently in Mandarin, Cantonese, Japanese, Korean, and Vietnamese (which historically used Chinese characters), since the writing system encodes meaning more directly than sound.",
+    "tags": [
+      "writing-systems",
+      "chinese"
+    ]
+  },
+  {
+    "id": "language-148",
+    "domain": "language",
+    "hook": "Vietnamese used to be written with Chinese characters, not the Latin alphabet.",
+    "fact": "Vietnamese was historically written using a Chinese-derived script called Chữ Nôm, but in the 17th century Portuguese and other missionaries developed a Latin-based script with added diacritics, which eventually became the standard writing system, Quốc Ngữ.",
+    "tags": [
+      "writing-systems",
+      "vietnamese"
+    ]
+  },
+  {
+    "id": "language-149",
+    "domain": "language",
+    "hook": "Traditional Mongolian script runs top to bottom.",
+    "fact": "The traditional Mongolian script is written vertically, running from top to bottom, with successive lines progressing left to right across the page, unlike most other vertical scripts, such as traditional Chinese, which progress right to left.",
+    "tags": [
+      "writing-systems",
+      "mongolian"
+    ]
+  },
+  {
+    "id": "language-150",
+    "domain": "language",
+    "hook": "One African writing system has been in continuous use for well over a thousand years.",
+    "fact": "The Ge'ez script, used to write Amharic, Tigrinya, and other Ethiopian and Eritrean languages, is an abugida in which each character represents a consonant-vowel combination, and it has remained in continuous use since ancient times.",
+    "tags": [
+      "writing-systems",
+      "ethiopia"
+    ]
+  },
+  {
+    "id": "language-151",
+    "domain": "language",
+    "hook": "One script is shared by dozens of unrelated South Asian languages.",
+    "fact": "The Devanagari script, used for Hindi and Sanskrit, also writes Marathi, Nepali, and several other languages from different branches of the Indo-Aryan family, much as the Latin alphabet is shared across many unrelated European languages.",
+    "tags": [
+      "writing-systems",
+      "south-asia"
+    ]
+  },
+  {
+    "id": "language-152",
+    "domain": "language",
+    "hook": "One man invented an entire writing system without knowing how to read or write English.",
+    "fact": "Sequoyah, a Cherokee silversmith, developed the Cherokee syllabary in the early 1800s despite being illiterate in English, creating an entirely original writing system with symbols representing the syllables of the Cherokee language.",
+    "tags": [
+      "writing-systems",
+      "cherokee"
+    ]
+  },
+  {
+    "id": "language-153",
+    "domain": "language",
+    "hook": "Esperanto was designed to be a politically neutral second language for the whole world.",
+    "fact": "Esperanto was created in 1887 by L. L. Zamenhof, a Polish-Jewish ophthalmologist, who hoped a simple, regular constructed language could foster international understanding and reduce the conflict he believed language barriers caused.",
+    "tags": [
+      "constructed-languages",
+      "esperanto"
+    ]
+  },
+  {
+    "id": "language-154",
+    "domain": "language",
+    "hook": "Esperanto is the rare constructed language with native speakers.",
+    "fact": "Although Esperanto was designed as a second language for international communication, it has produced a small number of native speakers, children raised bilingually by Esperanto-speaking parents, making it almost unique among constructed languages for having any native speakers at all.",
+    "tags": [
+      "constructed-languages",
+      "esperanto"
+    ]
+  },
+  {
+    "id": "language-155",
+    "domain": "language",
+    "hook": "Klingon has a full grammar, dictionary, and translations of Shakespeare.",
+    "fact": "Created by linguist Marc Okrand for the Star Trek franchise, Klingon has grown a real fan speaker community, complete with a grammar guide, dictionaries, and full translations of classic works such as Hamlet.",
+    "tags": [
+      "constructed-languages",
+      "klingon"
+    ]
+  },
+  {
+    "id": "language-156",
+    "domain": "language",
+    "hook": "A linguist built two full working languages for a fantasy TV show.",
+    "fact": "For the television adaptation of Game of Thrones, linguist David J. Peterson developed complete working languages, Dothraki and High Valyrian, with full grammar and vocabulary rules, going far beyond the handful of invented words that appeared in the original novels.",
+    "tags": [
+      "constructed-languages",
+      "television"
+    ]
+  },
+  {
+    "id": "language-157",
+    "domain": "language",
+    "hook": "One constructed language was designed to be understood without ever studying it.",
+    "fact": "Interlingua, a constructed language developed in the mid-20th century, drew its vocabulary from features shared among major Romance languages, English, German, and Russian, aiming for something educated readers of those languages could understand on sight, without formal study.",
+    "tags": [
+      "constructed-languages",
+      "interlingua"
+    ]
+  },
+  {
+    "id": "language-158",
+    "domain": "language",
+    "hook": "One constructed language has only about 120 words.",
+    "fact": "Toki Pona, created by linguist Sonja Lang, is an intentionally minimalist constructed language with roughly 120 to 137 root words, forcing speakers to combine simple concepts creatively to express more complex ideas.",
+    "tags": [
+      "constructed-languages",
+      "toki-pona"
+    ]
+  },
+  {
+    "id": "language-159",
+    "domain": "language",
+    "hook": "Babies around the world babble with the same handful of sounds first.",
+    "fact": "Infants everywhere, regardless of the language spoken around them, tend to begin babbling with similar consonant-vowel sounds like \"ba\" and \"da\" before their babbling gradually narrows toward the specific sounds of their native language.",
+    "tags": [
+      "language-acquisition",
+      "child-development"
+    ]
+  },
+  {
+    "id": "language-160",
+    "domain": "language",
+    "hook": "Babies can hear the difference between any language's sounds, until about their first birthday.",
+    "fact": "Infants are born able to perceive the full range of sound contrasts used across human languages, but through a process called perceptual narrowing, they typically lose the ability to easily distinguish non-native sound contrasts by around 10 to 12 months old.",
+    "tags": [
+      "language-acquisition",
+      "child-development"
+    ]
+  },
+  {
+    "id": "language-161",
+    "domain": "language",
+    "hook": "Deaf babies babble with their hands.",
+    "fact": "Deaf infants exposed to sign language from birth go through a stage of manual babbling, producing rhythmic, repetitive hand movements that parallel the vocal babbling of hearing infants learning spoken language.",
+    "tags": [
+      "language-acquisition",
+      "sign-language"
+    ]
+  },
+  {
+    "id": "language-162",
+    "domain": "language",
+    "hook": "Bilingual babies can tell their two languages apart from very early on.",
+    "fact": "Research shows that infants raised in bilingual households can distinguish between their two languages from a very early age and generally reach major language milestones on a similar timeline to monolingual peers, contrary to older fears about confusion or delay.",
+    "tags": [
+      "language-acquisition",
+      "bilingualism"
+    ]
+  },
+  {
+    "id": "language-163",
+    "domain": "language",
+    "hook": "There may be a closing window for learning a language like a native speaker.",
+    "fact": "The critical period hypothesis suggests that children who aren't exposed to any language during early childhood, or who begin learning a new language after puberty, are far less likely to reach full native-like fluency, especially in pronunciation and grammar.",
+    "tags": [
+      "language-acquisition",
+      "critical-period"
+    ]
+  },
+  {
+    "id": "language-164",
+    "domain": "language",
+    "hook": "One isolated child's case became central evidence for how children acquire grammar.",
+    "fact": "The case of a girl known as \"Genie,\" discovered in 1970 after years of severe isolation from language until age 13, gave researchers rare, if controversial, evidence for the critical period hypothesis, since she never fully acquired grammatical language despite years of subsequent intervention.",
+    "whyItMatters": "Her case remains one of the only real-world data points on what happens to human language ability when a child receives no linguistic input at all during early childhood, since deliberately testing this is obviously unethical.",
+    "tags": [
+      "language-acquisition",
+      "critical-period"
+    ]
+  },
+  {
+    "id": "language-165",
+    "domain": "language",
+    "hook": "Toddlers apply grammar rules before they learn the exceptions.",
+    "fact": "Across many languages, young children go through a stage called overregularization, applying regular grammatical patterns, like standard past-tense endings, even to irregular words, which shows they've internalized a rule before learning which words break it.",
+    "tags": [
+      "language-acquisition",
+      "grammar"
+    ]
+  },
+  {
+    "id": "language-166",
+    "domain": "language",
+    "hook": "Children can spontaneously add complex grammar to a language that doesn't have any.",
+    "fact": "Studies of creole languages, including Hawaiian Creole, suggest that when children grow up hearing a simplified adult pidgin, they can spontaneously enrich it with consistent, complex grammar within a single generation, effectively creating a full new language.",
+    "whyItMatters": "This process, called creolization, is one of the strongest pieces of evidence that human children have an innate drive to construct full grammatical systems, even from limited or inconsistent input.",
+    "tags": [
+      "language-acquisition",
+      "creoles"
+    ]
+  },
+  {
+    "id": "language-167",
+    "domain": "language",
+    "hook": "New languages can be born within a single lifetime.",
+    "fact": "A pidgin is a simplified contact language that develops when speakers of different languages need to communicate, often for trade; when children grow up learning a pidgin as a first language and enrich its grammar, it becomes a creole, a full and stable language in its own right.",
+    "tags": [
+      "creoles",
+      "language-families"
+    ]
+  },
+  {
+    "id": "language-168",
+    "domain": "language",
+    "hook": "An English-based creole is an official language of Papua New Guinea.",
+    "fact": "Tok Pisin developed from contact between English and local Melanesian languages and is now one of Papua New Guinea's official languages, spoken as a first or second language by millions and used in parliament, media, and education.",
+    "tags": [
+      "creoles",
+      "papua-new-guinea"
+    ]
+  },
+  {
+    "id": "language-169",
+    "domain": "language",
+    "hook": "Haitian Creole isn't \"broken French\"; it's its own full language.",
+    "fact": "Haitian Creole developed from contact between French and West African languages during the colonial era and has its own consistent grammar and phonology, distinct enough from French that speakers of standard French typically cannot understand it without study.",
+    "tags": [
+      "creoles",
+      "haitian-creole"
+    ]
+  },
+  {
+    "id": "language-170",
+    "domain": "language",
+    "hook": "Swahili's vocabulary carries centuries of Arabic trade history.",
+    "fact": "Swahili, a Bantu language and lingua franca across much of East Africa, absorbed a substantial share of its vocabulary from Arabic through centuries of trade along the Swahili coast, though its grammar remains firmly Bantu in structure.",
+    "tags": [
+      "swahili",
+      "language-contact"
+    ]
+  },
+  {
+    "id": "language-171",
+    "domain": "language",
+    "hook": "Hindi and Urdu are nearly the same spoken language written in two different scripts.",
+    "fact": "Spoken Hindi and Urdu are largely mutually intelligible in everyday conversation, but Hindi is written in the Devanagari script and draws more of its formal vocabulary from Sanskrit, while Urdu is written in a Perso-Arabic script and draws more of its formal vocabulary from Persian and Arabic.",
+    "tags": [
+      "hindi-urdu",
+      "writing-systems"
+    ]
+  },
+  {
+    "id": "language-172",
+    "domain": "language",
+    "hook": "Norwegians, Swedes, and Danes can often chat without ever studying each other's language.",
+    "fact": "Norwegian, Swedish, and Danish are close enough in vocabulary and grammar that speakers can often each use their own language in conversation and understand one another reasonably well, despite being classified as separate national languages.",
+    "tags": [
+      "mutual-intelligibility",
+      "scandinavian"
+    ]
+  },
+  {
+    "id": "language-173",
+    "domain": "language",
+    "hook": "Some \"dialects\" are less mutually intelligible than some \"separate languages\".",
+    "fact": "Linguists often point out that the line between a \"language\" and a \"dialect\" is as much political as linguistic: Mandarin and Cantonese are mutually unintelligible when spoken yet are both called \"dialects\" of Chinese, while Swedish and Norwegian are mutually intelligible yet classified as separate languages.",
+    "tags": [
+      "language-families",
+      "mutual-intelligibility"
+    ]
+  },
+  {
+    "id": "language-174",
+    "domain": "language",
+    "hook": "Arabic has dozens of spoken varieties that aren't always mutually intelligible.",
+    "fact": "Modern Standard Arabic serves as a shared written and formal spoken language across the Arab world, but everyday spoken dialects, such as Moroccan, Egyptian, and Gulf Arabic, can differ enough that speakers from opposite ends of the region may struggle to understand each other's colloquial speech.",
+    "tags": [
+      "arabic",
+      "mutual-intelligibility"
+    ]
+  },
+  {
+    "id": "language-175",
+    "domain": "language",
+    "hook": "India recognizes 22 official languages, and hundreds more are spoken there.",
+    "fact": "India's constitution recognizes 22 scheduled languages, but the country is home to hundreds of additional languages and thousands of dialects, making it one of the most linguistically diverse populations in the world.",
+    "tags": [
+      "language-diversity",
+      "india"
+    ]
+  },
+  {
+    "id": "language-176",
+    "domain": "language",
+    "hook": "Nigeria is home to more than 500 languages.",
+    "fact": "Nigeria hosts an estimated 500-plus distinct languages, with Hausa, Yoruba, and Igbo among the largest, making it one of the most linguistically diverse countries in Africa.",
+    "tags": [
+      "language-diversity",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "language-177",
+    "domain": "language",
+    "hook": "Indonesia has hundreds of local languages, but its national language was a regional minority tongue.",
+    "fact": "Indonesia is home to more than 700 languages, yet its national language, Indonesian, is based on Malay, which was historically spoken as a first language by only a small share of the population but had long served as a widely understood regional trade language.",
+    "tags": [
+      "language-diversity",
+      "indonesia"
+    ]
+  },
+  {
+    "id": "language-178",
+    "domain": "language",
+    "hook": "Nearly all of Africa's languages fall into just a handful of major families.",
+    "fact": "The vast majority of Africa's roughly 2,000 languages belong to one of a few major families, including Afro-Asiatic, Nilo-Saharan, and Niger-Congo, though the older grouping of \"Khoisan\" languages is now considered by many linguists less a true family than a catch-all for languages that use click consonants.",
+    "tags": [
+      "language-families",
+      "africa"
+    ]
+  },
+  {
+    "id": "language-179",
+    "domain": "language",
+    "hook": "Click consonants are ordinary sounds in several southern African languages.",
+    "fact": "Languages like Xhosa, Zulu, and various Khoisan languages of southern Africa use click consonants, sounds produced by drawing air inward rather than pushing it out, as regular parts of their sound systems rather than just as interjections.",
+    "tags": [
+      "phonetics",
+      "africa"
+    ]
+  },
+  {
+    "id": "language-180",
+    "domain": "language",
+    "hook": "The Caucasus is home to three language families found nowhere else on Earth.",
+    "fact": "The Caucasus mountains host three indigenous language families, Kartvelian (including Georgian), Northwest Caucasian, and Northeast Caucasian, none of which have been conclusively linked to any language family found outside the region.",
+    "tags": [
+      "language-families",
+      "caucasus"
+    ]
+  },
+  {
+    "id": "language-181",
+    "domain": "language",
+    "hook": "The pre-contact Americas were home to well over a thousand languages.",
+    "fact": "Before European colonization, the Americas are believed to have been home to well over a thousand distinct Indigenous languages; today a large share of those are extinct or have only a small number of elderly speakers remaining.",
+    "tags": [
+      "endangered-languages",
+      "indigenous-languages"
+    ]
+  },
+  {
+    "id": "language-182",
+    "domain": "language",
+    "hook": "Hawaiian nearly went extinct before a revival movement brought it back.",
+    "fact": "By the 1980s, Hawaiian had only a small number of fluent native speakers left, mostly elderly, but a grassroots movement to establish Hawaiian-language immersion schools has since raised a new generation of fluent speakers.",
+    "whyItMatters": "Hawaiian's recovery is now cited internationally as a model for how deliberate immersion education can pull a language back from the edge of extinction within a couple of generations.",
+    "tags": [
+      "endangered-languages",
+      "revitalization"
+    ]
+  },
+  {
+    "id": "language-183",
+    "domain": "language",
+    "hook": "Modern Hebrew was revived as an everyday spoken language after centuries of mostly liturgical use.",
+    "fact": "Hebrew survived for centuries primarily as a written and religious language rather than an everyday spoken one, until a revival effort led largely by Eliezer Ben-Yehuda in the late 19th and early 20th centuries helped turn it into the living, native language of modern Israel.",
+    "whyItMatters": "It stands as one of the only well-documented cases in history of a language with no native speakers being successfully revived into the first language of an entire modern nation.",
+    "tags": [
+      "language-revival",
+      "hebrew"
+    ]
+  },
+  {
+    "id": "language-184",
+    "domain": "language",
+    "hook": "Cornish went extinct and was later rebuilt from historical records.",
+    "fact": "Cornish, a Celtic language once spoken in Cornwall in England, lost its last fully fluent native speakers by the 18th century, but enthusiasts later reconstructed the language from historical texts, and it now has a small community of new speakers.",
+    "tags": [
+      "language-revival",
+      "cornish"
+    ]
+  },
+  {
+    "id": "language-185",
+    "domain": "language",
+    "hook": "UNESCO grades endangered languages on a scale from \"vulnerable\" to \"extinct\".",
+    "fact": "UNESCO's Atlas of the World's Languages in Danger classifies endangerment in stages, from \"vulnerable\" (spoken by children but only in limited settings) through \"definitely,\" \"severely,\" and \"critically\" endangered, up to \"extinct,\" to help prioritize documentation and revitalization efforts.",
+    "tags": [
+      "endangered-languages",
+      "unesco"
+    ]
+  },
+  {
+    "id": "language-186",
+    "domain": "language",
+    "hook": "Documenting a dying language often means racing to record its last handful of speakers.",
+    "fact": "Field linguists working on severely endangered languages frequently must rely on sessions with the last few fluent elderly speakers, racing to record vocabulary, grammar, and traditional stories before the language's last living link disappears.",
+    "tags": [
+      "endangered-languages",
+      "linguistics"
+    ]
+  },
+  {
+    "id": "language-187",
+    "domain": "language",
+    "hook": "Sanskrit shaped the vocabulary of religions and languages across much of Asia.",
+    "fact": "Sanskrit, an ancient Indo-Aryan language, supplied enormous amounts of religious and scholarly vocabulary not only to modern Indian languages but also to Thai, Khmer, and other Southeast Asian languages through the spread of Hinduism and Buddhism.",
+    "tags": [
+      "sanskrit",
+      "language-contact"
+    ]
+  },
+  {
+    "id": "language-188",
+    "domain": "language",
+    "hook": "Latin never fully died; it slowly turned into six or more modern languages.",
+    "fact": "Latin isn't extinct so much as it gradually transformed into the modern Romance languages, including Spanish, French, Italian, Portuguese, and Romanian, through centuries of regional divergence, rather than being replaced wholesale by an unrelated language.",
+    "tags": [
+      "language-families",
+      "latin"
+    ]
+  },
+  {
+    "id": "language-189",
+    "domain": "language",
+    "hook": "Romanian kept its Latin roots despite centuries of Slavic-speaking neighbors.",
+    "fact": "Romanian is a Romance language descended from Latin, but unlike its western relatives, it developed while surrounded by Slavic-speaking populations, absorbing significant Slavic vocabulary while still preserving a fundamentally Latin grammatical core.",
+    "tags": [
+      "romanian",
+      "language-contact"
+    ]
+  },
+  {
+    "id": "language-190",
+    "domain": "language",
+    "hook": "Maltese is the only Semitic language written in the Latin alphabet as an EU official language.",
+    "fact": "Maltese descends largely from Siculo-Arabic with heavy influence from Italian and English vocabulary, and it is unusual among Semitic languages both for being an official EU language and for being written using the Latin alphabet rather than the Arabic script.",
+    "tags": [
+      "maltese",
+      "writing-systems"
+    ]
+  },
+  {
+    "id": "language-191",
+    "domain": "language",
+    "hook": "Sign languages have regional accents and generational slang, just like spoken ones.",
+    "fact": "Just like spoken languages, sign languages such as American Sign Language have regional variation, generational slang, and even distinct \"accents\" in how signs are formed, shaped by geography and local Deaf community history.",
+    "tags": [
+      "sign-language",
+      "language-variation"
+    ]
+  },
+  {
+    "id": "language-192",
+    "domain": "language",
+    "hook": "\"International Sign\" isn't actually a full natural language.",
+    "fact": "International Sign is a simplified, pidgin-like communication system used at events like the Deaflympics and international conferences, drawing on shared gestures and vocabulary from multiple sign languages, but it lacks the full grammatical complexity of a natural sign language.",
+    "tags": [
+      "sign-language",
+      "international-sign"
+    ]
+  },
+  {
+    "id": "language-193",
+    "domain": "language",
+    "hook": "Some languages have two different words for \"we\".",
+    "fact": "Many languages, including Tok Pisin, Tagalog, and numerous other Austronesian languages, have two separate words for \"we\": one that includes the person being spoken to, and one that excludes them, a distinction English speakers can only convey through extra context.",
+    "tags": [
+      "grammar",
+      "translation-oddities"
+    ]
+  },
+  {
+    "id": "language-194",
+    "domain": "language",
+    "hook": "Some counting systems are built on twenty instead of ten.",
+    "fact": "Traditional counting systems in some languages use twenty as their base rather than ten, including historical French remnants like \"quatre-vingts\" (four-twenties) for eighty, and fuller base-twenty systems found in languages such as Yoruba and Nahuatl.",
+    "tags": [
+      "grammar",
+      "translation-oddities"
+    ]
+  },
+  {
+    "id": "language-195",
+    "domain": "language",
+    "hook": "Japanese and Korean change vocabulary depending on who's listening.",
+    "fact": "Japanese and Korean both have extensive systems of honorific speech levels, where vocabulary choice and verb endings shift depending on the relative social status, age, or familiarity between speaker and listener.",
+    "tags": [
+      "grammar",
+      "honorifics"
+    ]
+  },
+  {
+    "id": "language-196",
+    "domain": "language",
+    "hook": "Some languages grammatically mark whether an object is \"alive\" or not.",
+    "fact": "Ojibwe and many other Algonquian languages of North America classify every noun as either animate or inanimate, a grammatical distinction that shapes verb forms and pronouns throughout the sentence.",
+    "tags": [
+      "grammar",
+      "indigenous-languages"
+    ]
+  },
+  {
+    "id": "language-197",
+    "domain": "language",
+    "hook": "Some languages have more than a dozen grammatical genders.",
+    "fact": "Many Bantu languages, such as Swahili and Zulu, use noun class systems with well over a dozen categories, governing plants, tools, people, and abstract ideas differently, far more elaborate than the masculine and feminine systems familiar from many European languages.",
+    "tags": [
+      "grammar",
+      "bantu-languages"
+    ]
+  },
+  {
+    "id": "language-198",
+    "domain": "language",
+    "hook": "One language's alphabet has only about a dozen letters.",
+    "fact": "Rotokas, a language spoken in Papua New Guinea, is often cited as having one of the smallest phoneme inventories and alphabets in the world, using only around 11 to 12 letters to represent its sounds.",
+    "tags": [
+      "writing-systems",
+      "phonetics"
+    ]
+  },
+  {
+    "id": "language-199",
+    "domain": "language",
+    "hook": "Some Caucasus languages pack more than 40 consonants into their sound systems.",
+    "fact": "Northwest Caucasian languages such as Abkhaz, and the now-extinct Ubykh, are famous among linguists for enormous consonant inventories, sometimes exceeding 40 distinct consonants, while having very few vowel sounds by comparison.",
+    "tags": [
+      "phonetics",
+      "caucasus"
+    ]
+  },
+  {
+    "id": "language-200",
+    "domain": "language",
+    "hook": "Machine translation still struggles most with languages that lack digital text.",
+    "fact": "Automatic translation tools perform far better on high-resource languages like English, Spanish, and Mandarin, which have massive digital text datasets to train on, while many of the world's languages remain \"low-resource,\" producing far less accurate machine translations.",
+    "whyItMatters": "This gap means millions of speakers of low-resource languages get worse access to online information and services translated into or out of their own language.",
+    "tags": [
+      "translation-oddities",
+      "machine-translation"
+    ]
+  }
+]
