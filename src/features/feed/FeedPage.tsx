@@ -40,10 +40,7 @@ export function FeedPage() {
   return (
     <div className="mx-auto flex h-full w-full max-w-md flex-col sm:py-4">
       <header className="flex items-center justify-between px-4 py-3 sm:px-0">
-        <div className="flex items-center gap-2">
-          <Logo className="h-7 w-7 rounded-lg" />
-          <h1 className="font-display text-display-title">semicolon</h1>
-        </div>
+        <Logo variant="full" className="h-7 w-7" />
         <div className="flex items-center gap-2">
           <StreakBadge streak={stats?.currentStreak ?? 0} />
           <Link
@@ -80,7 +77,7 @@ export function FeedPage() {
 function CenteredState() {
   return (
     <div className="flex h-full items-center justify-center">
-      <Logo className="h-10 w-10 animate-pulse rounded-xl" />
+      <Logo className="h-10 w-10 animate-pulse" />
     </div>
   )
 }

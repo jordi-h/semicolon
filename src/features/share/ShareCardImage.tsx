@@ -65,7 +65,7 @@ export const ShareCardImage = forwardRef<HTMLDivElement, ShareCardImageProps>(
         </div>
 
         <div className="flex items-center gap-4">
-          <Logo className="h-[56px] w-[56px] rounded-2xl" />
+          <Logo className="h-[56px] w-[56px]" />
           <span
             style={{
               fontFamily: '"Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif',

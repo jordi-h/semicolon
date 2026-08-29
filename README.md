@@ -261,17 +261,46 @@ supabase/schema.sql      tables + row-level security policies
 | `npm run lint`           | Lint with ESLint                                   |
 | `npm run format`         | Format with Prettier                               |
 | `npm run seed`           | Push `src/data/facts/*.json` into Supabase         |
-| `npm run generate-icons` | Rebuild favicons/app icons from `public/logo*.svg` |
+| `npm run generate:icons` | Rebuild every favicon/app/splash icon from the source mark |
 
 ## Branding
 
-The mark is a semicolon on a purple gradient — source vectors live in
-`public/logo.svg` (rounded, used in-app via `src/components/Logo.tsx`),
-`public/logo-square.svg` (edge-to-edge, for platform icons that apply
-their own mask, like iOS), and `public/logo-maskable.svg` (glyph scaled
-into the safe zone for Android's circular mask). Edit the SVGs, then run
-`npm run generate-icons` to regenerate every favicon/app-icon PNG
-(`public/favicon-*.png`, `public/apple-touch-icon.png`, `public/icons/*`).
+The mark — a semicolon (dot over a rounded bar) on a dark rounded-square
+tile — has one source of truth: **`src/assets/logo-icon.svg`**
+(`src/assets/logo-icon-light.svg` is the color-inverted variant, for any
+context that needs a light tile). `src/components/Logo.tsx` renders this
+mark in-app as a `variant` (`icon` | `full`, i.e. icon-only vs.
+icon+wordmark) × `theme` (`dark` | `light`) component — reach for it
+instead of duplicating the SVG or an icon-plus-text row per call site.
+
+Everything else — favicons, the PWA manifest icons, and the native
+iOS/Android app icons + splash screens — is *generated* from that one
+file, never hand-edited:
+
+- `scripts/generate-icons.mjs` rasterizes `logo-icon.svg` into
+  `public/favicon.ico`, `public/favicon-{16,32}.png`,
+  `public/apple-touch-icon.png`, `public/icons/pwa-{192,512}.png`, and
+  maskable variants (`public/icons/pwa-maskable-*.png`, safe-zone-padded
+  by compositing `resources/icon-foreground.svg` over a flat background).
+- `resources/icon-only.svg` / `icon-foreground.svg` / `icon-background.svg`
+  / `splash.svg` are hand-scaled 1024×1024 (2732×2732 for splash) copies
+  of the same mark, split into layers where a platform needs them
+  (Android's adaptive icon foreground/background). `@capacitor/assets`
+  (a regular devDependency — no more install/uninstall dance) reads these
+  to write the actual iOS `Assets.xcassets` and Android `mipmap-*`/
+  `drawable-*` resources.
+
+If the mark ever changes: edit `src/assets/logo-icon{,-light}.svg`, apply
+the same edit proportionally to the four `resources/*.svg` files (they're
+plain scaled-up copies, not derived automatically — see the coordinates
+already there for the scale factor), then run:
+
+```bash
+npm run generate:icons
+```
+
+which runs both generators in sequence and rewrites every favicon, app
+icon, and splash screen at once.
 
 ## Mobile / app stores
 
@@ -283,11 +312,9 @@ installs it with the semicolon icon, full-screen, no browser chrome.
 **Native App Store / Play Store listing:** the app is wrapped with
 [Capacitor](https://capacitorjs.com) (appId `com.semicolon.app`,
 `capacitor.config.ts`), which packages this same web build into a native
-shell without a rewrite. The **Android** project is already generated
-(`android/`), icons and splash screens included — see `resources/` for the
-source SVGs and `npm run generate-icons` sibling script
-`node scripts/generate-icons.mjs` for the web favicons (native app icons
-are regenerated separately, see below).
+shell without a rewrite. Both the **Android** (`android/`) and **iOS**
+(`ios/`) projects are already generated, icons and splash screens
+included — see "Branding" above for how those get (re)generated.
 
 To build and run the Android app:
 
@@ -301,28 +328,19 @@ To build and run the Android app:
    [Google Play Console account](https://play.google.com/console/) ($25
    one-time) to upload it to.
 
-If you change the logo, edit `resources/icon*.svg` / `resources/splash.svg`,
-then regenerate everything with:
+Regenerating icons/splash screens for both platforms is just
+`npm run generate:icons` (see "Branding" above). `@capacitor/assets`
+pulls in a few CVEs through its own nested dependencies, all inside a
+build-time-only tool that's never shipped — acceptable for a devDependency,
+but worth knowing if `npm audit` flags it.
+
+Adding the `ios/` platform itself (`npx cap add ios`) works fine from
+Windows — no Xcode needed just to scaffold the project or regenerate its
+icons. **Building/running/signing it does** need a Mac:
 
 ```bash
-npm install -D @capacitor/assets   # dev-only, one-shot tool
-npx capacitor-assets generate --android
-npm uninstall @capacitor/assets    # remove again — see note below
-```
-
-(`@capacitor/assets` pulls in a few CVEs through its own nested
-dependencies, all inside a build-time-only tool that's never shipped — the
-project only installs it transiently when regenerating icons, then removes
-it, same as this repo's history.)
-
-**iOS** needs `npx cap add ios`, which requires **macOS + Xcode** — this
-Windows machine can't run that step. Once you have a Mac:
-
-```bash
-npm install @capacitor/ios
-npx cap add ios
 npm run build && npx cap sync ios
-npx cap open ios   # opens Xcode
+npx cap open ios   # opens Xcode — macOS only from here
 ```
 
 From Xcode you'll need an **Apple Developer account** ($99/yr) to sign and

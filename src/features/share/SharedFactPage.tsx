@@ -55,7 +55,7 @@ export function SharedFactPage() {
   if (status === 'not-found' || !fact) {
     return (
       <div className="flex h-full flex-col items-center justify-center gap-4 p-6 text-center">
-        <Logo className="h-14 w-14 rounded-2xl" />
+        <Logo className="h-14 w-14" />
         <p className="font-medium">{t('sharedFact.notFound')}</p>
         <Button asChild>
           <Link to="/">{t('sharedFact.openSemicolon')}</Link>
@@ -102,10 +102,7 @@ export function SharedFactPage() {
       </article>
 
       <div className="flex flex-col items-center gap-3 border-t bg-background p-6 text-center sm:rounded-b-2xl">
-        <div className="flex items-center gap-2">
-          <Logo className="h-8 w-8 rounded-lg" />
-          <span className="font-display text-display-title">semicolon</span>
-        </div>
+        <Logo variant="full" className="h-8 w-8" />
         <p className="text-body-sm text-muted-foreground">{t('sharedFact.footerTagline')}</p>
         <Button asChild className="w-full">
           <Link to="/">{t('sharedFact.getSemicolon')}</Link>

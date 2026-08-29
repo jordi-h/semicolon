@@ -1,38 +1,47 @@
 import { cn } from '@/lib/utils'
 
 interface LogoProps {
+  /** Sizes the icon tile (e.g. "h-7 w-7"). The wordmark in the "full"
+   * variant uses its own fixed, consistent lockup size regardless. */
   className?: string
-  /** Renders just the white semicolon mark with no background, for use on a colored surface. */
-  markOnly?: boolean
+  /** 'icon' renders just the mark; 'full' adds the "semicolon" wordmark
+   * next to it, for header/nav brand lockups. */
+  variant?: 'icon' | 'full'
+  /** Which color pairing to use — see src/assets/logo-icon(-light).svg. */
+  theme?: 'dark' | 'light'
 }
 
-/** The semicolon app mark. See public/logo*.svg for the source used to generate favicons/app icons. */
-export function Logo({ className, markOnly = false }: LogoProps) {
-  return (
-    <svg viewBox="0 0 512 512" className={cn('h-8 w-8', className)} aria-hidden="true">
-      {!markOnly && (
-        <>
-          <defs>
-            <linearGradient id="semicolon-logo-bg" x1="0" y1="0" x2="1" y2="1">
-              <stop offset="0%" stopColor="#c4a6ff" />
-              <stop offset="55%" stopColor="#9d6bff" />
-              <stop offset="100%" stopColor="#4a2f8a" />
-            </linearGradient>
-          </defs>
-          <rect width="512" height="512" rx="112" fill="url(#semicolon-logo-bg)" />
-        </>
-      )}
-      <circle cx="256" cy="196" r="54" fill={markOnly ? 'currentColor' : '#ffffff'} />
-      <path
-        d="M 210 306
-           a 54 54 0 1 1 76 46
-           q -4 46 -70 92
-           q -20 12 -30 4
-           q -8 -8 4 -22
-           q 44 -40 46 -78
-           a 54 54 0 0 1 -26 -42 Z"
-        fill={markOnly ? 'currentColor' : '#ffffff'}
-      />
+const THEME_COLORS = {
+  dark: { tile: '#16161A', mark: '#F5F4F0' },
+  light: { tile: '#F5F4F0', mark: '#16161A' },
+} as const
+
+/**
+ * The semicolon app mark: a dot over a rounded bar, on a rounded-square
+ * tile. Source of truth is src/assets/logo-icon.svg (dark theme) /
+ * logo-icon-light.svg (light theme) — every favicon, PWA icon, and
+ * native iOS/Android app icon is generated from the same shape, see
+ * scripts/generate-icons.mjs and resources/*.svg.
+ */
+export function Logo({ className, variant = 'icon', theme = 'dark' }: LogoProps) {
+  const { tile, mark } = THEME_COLORS[theme]
+
+  const icon = (
+    <svg viewBox="0 0 130 130" className={cn('h-8 w-8 shrink-0', className)} aria-hidden="true">
+      <rect x="0" y="0" width="130" height="130" rx="30" fill={tile} />
+      <circle cx="65" cy="48" r="8.5" fill={mark} />
+      <rect x="57" y="72" width="16" height="30" rx="8" fill={mark} />
     </svg>
+  )
+
+  if (variant === 'icon') return icon
+
+  return (
+    <span className="inline-flex items-center gap-2">
+      {icon}
+      <span className="font-body text-lg font-medium" style={{ color: theme === 'dark' ? mark : tile }}>
+        semicolon
+      </span>
+    </span>
   )
 }
