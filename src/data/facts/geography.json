@@ -4,35 +4,105 @@
     "domain": "geography",
     "hook": "Russia spans 11 time zones.",
     "fact": "Russia is so vast that when it's morning in Kaliningrad on its western edge, it's already the middle of the night in Kamchatka on its eastern edge.",
-    "tags": ["countries", "time"]
+    "tags": ["countries", "time"],
+    "translations": {
+      "fr": {
+        "hook": "La Russie s'étend sur 11 fuseaux horaires.",
+        "fact": "La Russie est si vaste que lorsqu'il est le matin à Kaliningrad, à l'extrémité occidentale du pays, il est déjà le milieu de la nuit au Kamtchatka, à l'extrémité orientale."
+      },
+      "nl": {
+        "hook": "Rusland beslaat 11 tijdzones.",
+        "fact": "Rusland is zo uitgestrekt dat het al midden in de nacht is in Kamtsjatka aan de oostgrens, terwijl het in Kaliningrad aan de westgrens nog ochtend is."
+      },
+      "es": {
+        "hook": "Rusia abarca 11 husos horarios.",
+        "fact": "Rusia es tan extensa que cuando amanece en Kaliningrado, en su extremo occidental, ya es plena madrugada en Kamchatka, en su extremo oriental."
+      }
+    }
   },
   {
     "id": "geography-002",
     "domain": "geography",
     "hook": "Africa is bigger than most maps show.",
     "fact": "Because the standard Mercator map projection distorts size near the poles, Africa is actually large enough to fit the United States, China, India, and much of Europe inside it.",
-    "tags": ["maps", "africa"]
+    "tags": ["maps", "africa"],
+    "translations": {
+      "fr": {
+        "hook": "L'Afrique est plus grande que ce que montrent la plupart des cartes.",
+        "fact": "Comme la projection de Mercator déforme les tailles près des pôles, l'Afrique est en réalité assez vaste pour contenir les États-Unis, la Chine, l'Inde et une grande partie de l'Europe."
+      },
+      "nl": {
+        "hook": "Afrika is groter dan de meeste kaarten laten zien.",
+        "fact": "Omdat de gangbare Mercatorprojectie de grootte bij de polen vervormt, is Afrika in werkelijkheid groot genoeg om de Verenigde Staten, China, India en een groot deel van Europa te bevatten."
+      },
+      "es": {
+        "hook": "África es más grande de lo que muestran la mayoría de los mapas.",
+        "fact": "Como la proyección de Mercator distorsiona el tamaño cerca de los polos, África es en realidad lo bastante grande como para contener a Estados Unidos, China, India y buena parte de Europa."
+      }
+    }
   },
   {
     "id": "geography-003",
     "domain": "geography",
     "hook": "There's a desert made of ice.",
     "fact": "Antarctica is technically the largest desert in the world — deserts are defined by low precipitation, not heat, and Antarctica receives very little snowfall in its driest regions.",
-    "tags": ["climate", "antarctica"]
+    "tags": ["climate", "antarctica"],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un désert entièrement fait de glace.",
+        "fact": "L'Antarctique est techniquement le plus grand désert du monde — un désert se définit par de faibles précipitations, pas par la chaleur, et l'Antarctique reçoit très peu de neige dans ses régions les plus sèches."
+      },
+      "nl": {
+        "hook": "Er bestaat een woestijn van ijs.",
+        "fact": "Antarctica is technisch gezien de grootste woestijn ter wereld — woestijnen worden bepaald door weinig neerslag, niet door hitte, en Antarctica krijgt in zijn droogste gebieden nauwelijks sneeuwval."
+      },
+      "es": {
+        "hook": "Existe un desierto hecho de hielo.",
+        "fact": "La Antártida es, técnicamente, el desierto más grande del mundo: los desiertos se definen por la escasa precipitación, no por el calor, y la Antártida recibe muy poca nieve en sus regiones más secas."
+      }
+    }
   },
   {
     "id": "geography-004",
     "domain": "geography",
     "hook": "Canada has more lakes than the rest of the world combined.",
     "fact": "Canada contains an estimated 2 million lakes, accounting for roughly 60% of the world's total — a legacy of glaciers carving the landscape during the last ice age.",
-    "tags": ["water", "north-america"]
+    "tags": ["water", "north-america"],
+    "translations": {
+      "fr": {
+        "hook": "Le Canada compte plus de lacs que le reste du monde réuni.",
+        "fact": "Le Canada renferme environ 2 millions de lacs, soit près de 60% du total mondial — un héritage du façonnage du paysage par les glaciers lors de la dernière ère glaciaire."
+      },
+      "nl": {
+        "hook": "Canada heeft meer meren dan de rest van de wereld samen.",
+        "fact": "Canada telt naar schatting 2 miljoen meren, goed voor ongeveer 60% van het wereldtotaal — een erfenis van gletsjers die het landschap tijdens de laatste ijstijd uitschuurden."
+      },
+      "es": {
+        "hook": "Canadá tiene más lagos que el resto del mundo junto.",
+        "fact": "Canadá alberga unos 2 millones de lagos, aproximadamente el 60% del total mundial, un legado de los glaciares que esculpieron el paisaje durante la última glaciación."
+      }
+    }
   },
   {
     "id": "geography-005",
     "domain": "geography",
     "hook": "Some countries are entirely surrounded by just one other country.",
     "fact": "Lesotho is completely enclosed within South Africa, and San Marino and Vatican City are entirely surrounded by Italy — a rare geographic setup called an 'enclave.'",
-    "tags": ["countries", "borders"]
+    "tags": ["countries", "borders"],
+    "translations": {
+      "fr": {
+        "hook": "Certains pays sont entièrement enclavés dans un seul autre pays.",
+        "fact": "Le Lesotho est complètement enclavé dans l'Afrique du Sud, tandis que Saint-Marin et le Vatican sont entièrement entourés par l'Italie — une configuration géographique rare appelée « enclave »."
+      },
+      "nl": {
+        "hook": "Sommige landen liggen volledig binnen de grenzen van één ander land.",
+        "fact": "Lesotho ligt volledig ingesloten in Zuid-Afrika, en San Marino en Vaticaanstad worden helemaal omringd door Italië — een zeldzame geografische situatie die een 'enclave' wordt genoemd."
+      },
+      "es": {
+        "hook": "Algunos países están completamente rodeados por un único país.",
+        "fact": "Lesoto está totalmente rodeado por Sudáfrica, y San Marino y el Vaticano están completamente rodeados por Italia, una configuración geográfica poco común llamada 'enclave'."
+      }
+    }
   },
   {
     "id": "geography-006",
@@ -40,181 +110,548 @@
     "hook": "The Amazon rainforest produces a huge share of the world's oxygen.",
     "fact": "The Amazon generates an estimated 6–9% of the planet's oxygen and absorbs vast amounts of carbon dioxide, earning it the nickname 'the lungs of the Earth.'",
     "whyItMatters": "Deforestation there directly affects global climate regulation.",
-    "tags": ["environment", "south-america"]
+    "tags": ["environment", "south-america"],
+    "translations": {
+      "fr": {
+        "hook": "La forêt amazonienne produit une part énorme de l'oxygène mondial.",
+        "fact": "L'Amazonie génère environ 6 à 9% de l'oxygène de la planète et absorbe d'immenses quantités de dioxyde de carbone, ce qui lui a valu le surnom de « poumon de la Terre »।",
+        "whyItMatters": "La déforestation qui s'y produit affecte directement la régulation du climat mondial."
+      },
+      "nl": {
+        "hook": "Het Amazonewoud produceert een enorm deel van 's werelds zuurstof.",
+        "fact": "De Amazone produceert naar schatting 6 tot 9% van de zuurstof op aarde en absorbeert enorme hoeveelheden kooldioxide, wat het de bijnaam 'de longen van de aarde' heeft opgeleverd.",
+        "whyItMatters": "Ontbossing daar heeft rechtstreeks invloed op de regulering van het wereldklimaat."
+      },
+      "es": {
+        "hook": "La selva amazónica produce una enorme parte del oxígeno mundial.",
+        "fact": "El Amazonas genera entre un 6% y un 9% del oxígeno del planeta y absorbe enormes cantidades de dióxido de carbono, lo que le ha valido el apodo de 'los pulmones de la Tierra'.",
+        "whyItMatters": "La deforestación allí afecta directamente a la regulación del clima global."
+      }
+    }
   },
   {
     "id": "geography-007",
     "domain": "geography",
     "hook": "Mount Everest isn't the tallest mountain on Earth.",
     "fact": "Measured from base to peak rather than sea level, Hawaii's Mauna Kea is taller than Everest — most of it is just hidden underwater.",
-    "tags": ["mountains", "records"]
+    "tags": ["mountains", "records"],
+    "translations": {
+      "fr": {
+        "hook": "L'Everest n'est pas la plus haute montagne de la Terre.",
+        "fact": "Mesuré de la base au sommet plutôt qu'au niveau de la mer, le Mauna Kea, à Hawaï, est plus haut que l'Everest — la majeure partie est simplement cachée sous l'eau."
+      },
+      "nl": {
+        "hook": "De Mount Everest is niet de hoogste berg op aarde.",
+        "fact": "Gemeten van basis tot top in plaats van vanaf zeeniveau, is de Mauna Kea op Hawaï hoger dan de Everest — het grootste deel ervan ligt gewoon verborgen onder water."
+      },
+      "es": {
+        "hook": "El Everest no es la montaña más alta de la Tierra.",
+        "fact": "Medido de base a cima en lugar de desde el nivel del mar, el Mauna Kea de Hawái es más alto que el Everest: la mayor parte simplemente está oculta bajo el agua."
+      }
+    }
   },
   {
     "id": "geography-008",
     "domain": "geography",
     "hook": "A river can flow in two different oceans.",
     "fact": "At Peru's Pasco region, a natural drainage divide splits water so closely that rain falling meters apart can end up flowing into either the Atlantic or Pacific Ocean.",
-    "tags": ["rivers", "south-america"]
+    "tags": ["rivers", "south-america"],
+    "translations": {
+      "fr": {
+        "hook": "Une rivière peut se jeter dans deux océans différents.",
+        "fact": "Dans la région péruvienne de Pasco, une ligne de partage des eaux naturelle sépare l'eau de façon si étroite que des pluies tombées à quelques mètres d'écart peuvent finir dans l'Atlantique ou dans le Pacifique."
+      },
+      "nl": {
+        "hook": "Een rivier kan in twee verschillende oceanen uitmonden.",
+        "fact": "In de Peruaanse regio Pasco scheidt een natuurlijke waterscheiding het water zo nauwkeurig dat regen die enkele meters uit elkaar valt, uiteindelijk in de Atlantische of de Stille Oceaan kan uitkomen."
+      },
+      "es": {
+        "hook": "Un río puede desembocar en dos océanos distintos.",
+        "fact": "En la región peruana de Pasco, una divisoria de aguas natural separa el agua con tanta precisión que la lluvia caída a pocos metros de distancia puede acabar fluyendo hacia el Atlántico o hacia el Pacífico."
+      }
+    }
   },
   {
     "id": "geography-009",
     "domain": "geography",
     "hook": "The Sahara wasn't always a desert.",
     "fact": "Around 6,000 years ago, the Sahara was a green savanna with lakes, rivers, and abundant wildlife, before a shift in Earth's orbit dried the region out over centuries.",
-    "tags": ["climate", "africa"]
+    "tags": ["climate", "africa"],
+    "translations": {
+      "fr": {
+        "hook": "Le Sahara n'a pas toujours été un désert.",
+        "fact": "Il y a environ 6 000 ans, le Sahara était une savane verdoyante parsemée de lacs, de rivières et d'une faune abondante, avant qu'un changement dans l'orbite terrestre n'assèche progressivement la région."
+      },
+      "nl": {
+        "hook": "De Sahara was niet altijd een woestijn.",
+        "fact": "Zo'n 6.000 jaar geleden was de Sahara een groene savanne met meren, rivieren en een rijke fauna, tot een verschuiving in de omloopbaan van de aarde het gebied in de loop van eeuwen liet uitdrogen."
+      },
+      "es": {
+        "hook": "El Sahara no siempre fue un desierto.",
+        "fact": "Hace unos 6.000 años, el Sahara era una sabana verde con lagos, ríos y abundante fauna, antes de que un cambio en la órbita terrestre secara la región a lo largo de siglos."
+      }
+    }
   },
   {
     "id": "geography-010",
     "domain": "geography",
     "hook": "There's a country with no rivers at all.",
     "fact": "Saudi Arabia has no permanent rivers or lakes, relying instead on groundwater, desalination, and seasonal wadis that only fill after rare rainfall.",
-    "tags": ["water", "middle-east"]
+    "tags": ["water", "middle-east"],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un pays sans le moindre fleuve.",
+        "fact": "L'Arabie saoudite ne compte aucun fleuve ni lac permanent, et dépend des eaux souterraines, du dessalement et des oueds saisonniers qui ne se remplissent qu'après de rares pluies."
+      },
+      "nl": {
+        "hook": "Er is een land zonder één enkele rivier.",
+        "fact": "Saoedi-Arabië heeft geen permanente rivieren of meren en is aangewezen op grondwater, ontzilting en seizoensgebonden wadi's die alleen vollopen na zeldzame regenval."
+      },
+      "es": {
+        "hook": "Hay un país sin un solo río.",
+        "fact": "Arabia Saudí no tiene ríos ni lagos permanentes; depende de aguas subterráneas, desalinización y wadis estacionales que solo se llenan tras lluvias poco frecuentes."
+      }
+    }
   },
   {
     "id": "geography-011",
     "domain": "geography",
     "hook": "Indonesia is made up of over 17,000 islands.",
     "fact": "Indonesia's archipelago spans more than 17,000 islands, though only about 6,000 of them are inhabited.",
-    "tags": ["islands", "asia"]
+    "tags": ["islands", "asia"],
+    "translations": {
+      "fr": {
+        "hook": "L'Indonésie compte plus de 17 000 îles.",
+        "fact": "L'archipel indonésien s'étend sur plus de 17 000 îles, dont seulement environ 6 000 sont habitées."
+      },
+      "nl": {
+        "hook": "Indonesië bestaat uit meer dan 17.000 eilanden.",
+        "fact": "De Indonesische archipel telt meer dan 17.000 eilanden, waarvan er slechts ongeveer 6.000 bewoond zijn."
+      },
+      "es": {
+        "hook": "Indonesia está formada por más de 17.000 islas.",
+        "fact": "El archipiélago indonesio abarca más de 17.000 islas, de las cuales solo unas 6.000 están habitadas."
+      }
+    }
   },
   {
     "id": "geography-012",
     "domain": "geography",
     "hook": "Chicago moved its entire downtown upward in the 1800s.",
     "fact": "In the 1850s–60s, engineers physically jacked up buildings in Chicago several feet using thousands of screw jacks to install proper sewage drainage below street level.",
-    "tags": ["cities", "engineering"]
+    "tags": ["cities", "engineering"],
+    "translations": {
+      "fr": {
+        "hook": "Chicago a soulevé tout son centre-ville au XIXe siècle.",
+        "fact": "Dans les années 1850-1860, des ingénieurs ont littéralement soulevé des bâtiments entiers de plusieurs mètres à Chicago à l'aide de milliers de vérins à vis, afin d'installer un système d'égouts sous le niveau de la rue."
+      },
+      "nl": {
+        "hook": "Chicago tilde in de 19e eeuw zijn hele centrum op.",
+        "fact": "In de jaren 1850-1860 tilden ingenieurs in Chicago gebouwen met duizenden schroefvijzels enkele meters omhoog om onder straatniveau een fatsoenlijk rioleringssysteem aan te leggen."
+      },
+      "es": {
+        "hook": "Chicago levantó todo su centro urbano en el siglo XIX.",
+        "fact": "En las décadas de 1850 y 1860, los ingenieros levantaron físicamente edificios enteros de Chicago varios metros con miles de gatos de tornillo para instalar un sistema de alcantarillado bajo el nivel de la calle."
+      }
+    }
   },
   {
     "id": "geography-013",
     "domain": "geography",
     "hook": "The Dead Sea is dropping about a meter a year.",
     "fact": "Reduced inflow from the Jordan River and heavy mineral extraction cause the Dead Sea's water level to fall roughly one meter annually, shrinking its shoreline dramatically.",
-    "tags": ["water", "middle-east"]
+    "tags": ["water", "middle-east"],
+    "translations": {
+      "fr": {
+        "hook": "La mer Morte baisse d'environ un mètre par an.",
+        "fact": "La diminution des apports du Jourdain et l'extraction intensive de minéraux font baisser le niveau de la mer Morte d'environ un mètre par an, réduisant considérablement son littoral."
+      },
+      "nl": {
+        "hook": "De Dode Zee daalt jaarlijks met ongeveer een meter.",
+        "fact": "Door een verminderde toevoer vanuit de Jordaan en intensieve mineralenwinning daalt het waterpeil van de Dode Zee jaarlijks met ongeveer een meter, waardoor de oever drastisch krimpt."
+      },
+      "es": {
+        "hook": "El Mar Muerto desciende cerca de un metro al año.",
+        "fact": "La reducción del caudal del río Jordán y la intensa extracción de minerales hacen que el nivel del Mar Muerto baje aproximadamente un metro al año, reduciendo drásticamente su litoral."
+      }
+    }
   },
   {
     "id": "geography-014",
     "domain": "geography",
     "hook": "There's a spot where four countries almost meet.",
     "fact": "Southern Africa's 'Four Corners' near Zambia, Zimbabwe, Botswana, and Namibia comes remarkably close to a true quadripoint, though surveys confirm they meet at two very close tripoints rather than one exact point.",
-    "tags": ["borders", "africa"]
+    "tags": ["borders", "africa"],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un endroit où quatre pays se touchent presque.",
+        "fact": "Le « carrefour des quatre » dans le sud de l'Afrique, près de la Zambie, du Zimbabwe, du Botswana et de la Namibie, s'approche remarquablement d'un véritable quadripoint, bien que les relevés confirment qu'ils se rejoignent en deux tripoints très proches plutôt qu'en un seul point exact."
+      },
+      "nl": {
+        "hook": "Er is een plek waar vier landen elkaar bijna raken.",
+        "fact": "De 'Four Corners' in zuidelijk Afrika, bij Zambia, Zimbabwe, Botswana en Namibië, komt opmerkelijk dicht bij een echt viervoudig grenspunt, al bevestigen metingen dat ze elkaar op twee zeer dicht bij elkaar liggende drielandenpunten raken in plaats van op één exact punt."
+      },
+      "es": {
+        "hook": "Hay un lugar donde casi se encuentran cuatro países.",
+        "fact": "Las 'Cuatro Esquinas' del sur de África, cerca de Zambia, Zimbabue, Botsuana y Namibia, se acercan mucho a un verdadero punto cuádruple, aunque los estudios confirman que en realidad se unen en dos puntos triples muy próximos entre sí, no en un único punto exacto."
+      }
+    }
   },
   {
     "id": "geography-015",
     "domain": "geography",
     "hook": "Mount Everest's official height changed by 86 centimeters in 2020.",
     "fact": "Nepal and China jointly re-measured Mount Everest using modern GPS technology and set its new official height at 8,848.86 meters — about 86 centimeters taller than the previously accepted figure.",
-    "tags": ["mountains", "asia"]
+    "tags": ["mountains", "asia"],
+    "translations": {
+      "fr": {
+        "hook": "L'altitude officielle de l'Everest a changé de 86 centimètres en 2020.",
+        "fact": "Le Népal et la Chine ont remesuré conjointement le mont Everest à l'aide de technologies GPS modernes et fixé sa nouvelle altitude officielle à 8 848,86 mètres — environ 86 centimètres de plus que le chiffre précédemment admis."
+      },
+      "nl": {
+        "hook": "De officiële hoogte van de Mount Everest veranderde in 2020 met 86 centimeter.",
+        "fact": "Nepal en China hebben de Mount Everest samen opnieuw opgemeten met moderne gps-technologie en stelden de nieuwe officiële hoogte vast op 8.848,86 meter — ongeveer 86 centimeter hoger dan het eerder aanvaarde cijfer."
+      },
+      "es": {
+        "hook": "La altura oficial del Everest cambió 86 centímetros en 2020.",
+        "fact": "Nepal y China volvieron a medir conjuntamente el monte Everest con tecnología GPS moderna y fijaron su nueva altura oficial en 8.848,86 metros, unos 86 centímetros más que la cifra aceptada anteriormente."
+      }
+    }
   },
   {
     "id": "geography-016",
     "domain": "geography",
     "hook": "Australia's longest fence stretches over 5,600 kilometers.",
     "fact": "The Dingo Fence was built to keep dingoes away from sheep grazing land in southeastern Australia, and remains one of the longest structures ever built by humans.",
-    "tags": ["australia", "records"]
+    "tags": ["australia", "records"],
+    "translations": {
+      "fr": {
+        "hook": "La plus longue clôture d'Australie s'étend sur plus de 5 600 kilomètres.",
+        "fact": "La « Dingo Fence » a été construite pour tenir les dingos à l'écart des pâturages du sud-est de l'Australie, et reste l'une des plus longues structures jamais construites par l'homme."
+      },
+      "nl": {
+        "hook": "Australiës langste hek is meer dan 5.600 kilometer lang.",
+        "fact": "Het Dingo Fence werd gebouwd om dingo's weg te houden van schapenweiden in het zuidoosten van Australië en blijft een van de langste bouwwerken die de mens ooit heeft opgetrokken."
+      },
+      "es": {
+        "hook": "La valla más larga de Australia se extiende más de 5.600 kilómetros.",
+        "fact": "La 'Dingo Fence' se construyó para mantener a los dingos alejados de los pastos ovinos del sureste de Australia, y sigue siendo una de las estructuras más largas jamás construidas por el ser humano."
+      }
+    }
   },
   {
     "id": "geography-017",
     "domain": "geography",
     "hook": "New Zealand was one of the last places on Earth settled by humans.",
     "fact": "Polynesian voyagers first reached New Zealand around 1250–1300 CE, making it one of the final major landmasses to be settled — thousands of years after most of the world.",
-    "tags": ["islands", "oceania"]
+    "tags": ["islands", "oceania"],
+    "translations": {
+      "fr": {
+        "hook": "La Nouvelle-Zélande a été l'un des derniers endroits du monde peuplés par l'homme.",
+        "fact": "Des navigateurs polynésiens ont atteint la Nouvelle-Zélande vers 1250-1300 apr. J.-C., ce qui en fait l'une des dernières grandes terres émergées à avoir été colonisées — des millénaires après la majeure partie du monde."
+      },
+      "nl": {
+        "hook": "Nieuw-Zeeland was een van de laatste plekken op aarde die door mensen werden bewoond.",
+        "fact": "Polynesische zeevaarders bereikten Nieuw-Zeeland rond 1250-1300 n.Chr., waarmee het een van de laatste grote landmassa's is die werd bewoond — duizenden jaren na de rest van de wereld."
+      },
+      "es": {
+        "hook": "Nueva Zelanda fue uno de los últimos lugares del mundo poblados por el ser humano.",
+        "fact": "Navegantes polinesios llegaron a Nueva Zelanda hacia el 1250-1300 d.C., lo que la convierte en una de las últimas grandes masas de tierra en ser pobladas, miles de años después que la mayor parte del mundo."
+      }
+    }
   },
   {
     "id": "geography-018",
     "domain": "geography",
     "hook": "South America has only two landlocked countries.",
     "fact": "Bolivia and Paraguay are the only two countries in South America without direct ocean access, despite the continent's long coastlines.",
-    "tags": ["countries", "south-america"]
+    "tags": ["countries", "south-america"],
+    "translations": {
+      "fr": {
+        "hook": "L'Amérique du Sud ne compte que deux pays enclavés.",
+        "fact": "La Bolivie et le Paraguay sont les deux seuls pays d'Amérique du Sud sans accès direct à l'océan, malgré les longues côtes du continent."
+      },
+      "nl": {
+        "hook": "Zuid-Amerika telt slechts twee landlocked landen.",
+        "fact": "Bolivia en Paraguay zijn de enige twee landen in Zuid-Amerika zonder rechtstreekse toegang tot de oceaan, ondanks de lange kustlijnen van het continent."
+      },
+      "es": {
+        "hook": "Sudamérica solo tiene dos países sin salida al mar.",
+        "fact": "Bolivia y Paraguay son los únicos países de Sudamérica sin acceso directo al océano, pese a las largas costas del continente."
+      }
+    }
   },
   {
     "id": "geography-019",
     "domain": "geography",
     "hook": "The Amazon carries more water than the next seven biggest rivers combined.",
     "fact": "The Amazon River's flow into the Atlantic Ocean is so massive that it outpaces the combined discharge of the next seven largest rivers on Earth.",
-    "tags": ["rivers", "south-america"]
+    "tags": ["rivers", "south-america"],
+    "translations": {
+      "fr": {
+        "hook": "L'Amazone transporte plus d'eau que les sept plus grands fleuves suivants réunis.",
+        "fact": "Le débit de l'Amazone dans l'océan Atlantique est si colossal qu'il dépasse le débit combiné des sept plus grands fleuves suivants de la planète."
+      },
+      "nl": {
+        "hook": "De Amazone voert meer water af dan de zeven op één na grootste rivieren samen.",
+        "fact": "De afvoer van de Amazone naar de Atlantische Oceaan is zo enorm dat die groter is dan de gecombineerde afvoer van de zeven op één na grootste rivieren ter wereld."
+      },
+      "es": {
+        "hook": "El Amazonas lleva más agua que los siete ríos siguientes más grandes juntos.",
+        "fact": "El caudal del río Amazonas hacia el océano Atlántico es tan colosal que supera al caudal combinado de los siete ríos más grandes que le siguen en la Tierra."
+      }
+    }
   },
   {
     "id": "geography-020",
     "domain": "geography",
     "hook": "Singapore has grown its land area by over 20% since independence.",
     "fact": "Through decades of land reclamation projects, Singapore has expanded its total land area by more than a fifth since becoming independent in 1965.",
-    "tags": ["cities", "asia"]
+    "tags": ["cities", "asia"],
+    "translations": {
+      "fr": {
+        "hook": "Singapour a agrandi sa superficie de plus de 20% depuis son indépendance.",
+        "fact": "Grâce à des décennies de projets de poldérisation, Singapour a étendu sa superficie totale de plus d'un cinquième depuis son indépendance en 1965."
+      },
+      "nl": {
+        "hook": "Singapore is sinds de onafhankelijkheid meer dan 20% in landoppervlakte gegroeid.",
+        "fact": "Dankzij decennia van landaanwinningsprojecten heeft Singapore zijn totale landoppervlakte sinds de onafhankelijkheid in 1965 met meer dan een vijfde uitgebreid."
+      },
+      "es": {
+        "hook": "Singapur ha aumentado su superficie más de un 20% desde su independencia.",
+        "fact": "Gracias a décadas de proyectos de recuperación de tierra al mar, Singapur ha ampliado su superficie total en más de una quinta parte desde que se independizó en 1965."
+      }
+    }
   },
   {
     "id": "geography-021",
     "domain": "geography",
     "hook": "There's a point on Earth more than 2,600 km from any ocean.",
     "fact": "Located in northwestern China, the 'Eurasian pole of inaccessibility' is the spot on Earth's surface farthest from any coastline in every direction.",
-    "tags": ["asia", "trivia"]
+    "tags": ["asia", "trivia"],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un point sur Terre à plus de 2 600 km de tout océan.",
+        "fact": "Situé dans le nord-ouest de la Chine, le « pôle continental d'inaccessibilité » est l'endroit de la surface terrestre le plus éloigné de toute côte, dans toutes les directions."
+      },
+      "nl": {
+        "hook": "Er is een plek op aarde die meer dan 2.600 km van elke oceaan verwijderd is.",
+        "fact": "De 'continentale onbereikbaarheidspool', gelegen in het noordwesten van China, is het punt op het aardoppervlak dat in elke richting het verst van een kustlijn verwijderd ligt."
+      },
+      "es": {
+        "hook": "Hay un punto en la Tierra a más de 2.600 km de cualquier océano.",
+        "fact": "Situado en el noroeste de China, el 'polo continental de inaccesibilidad' es el punto de la superficie terrestre más alejado de cualquier costa en todas las direcciones."
+      }
+    }
   },
   {
     "id": "geography-022",
     "domain": "geography",
     "hook": "Iceland is icier in name than in reality — and Greenland is the opposite.",
     "fact": "Iceland is only about 10% covered in glaciers, while much of Greenland's southern coast is comparatively green — a naming mismatch that traces back to medieval Norse settlers.",
-    "tags": ["climate", "trivia"]
+    "tags": ["climate", "trivia"],
+    "translations": {
+      "fr": {
+        "hook": "L'Islande est plus glacée de nom que de fait — et le Groenland, c'est l'inverse.",
+        "fact": "L'Islande n'est couverte de glaciers qu'à environ 10%, tandis qu'une grande partie de la côte sud du Groenland est relativement verte — une inversion de noms qui remonte aux colons scandinaves médiévaux."
+      },
+      "nl": {
+        "hook": "IJsland is ijziger van naam dan in werkelijkheid — en bij Groenland is het net andersom.",
+        "fact": "IJsland is voor slechts ongeveer 10% bedekt met gletsjers, terwijl een groot deel van de zuidkust van Groenland relatief groen is — een naamverwarring die teruggaat op middeleeuwse Noorse kolonisten."
+      },
+      "es": {
+        "hook": "Islandia es más helada de nombre que en la realidad, y con Groenlandia pasa justo lo contrario.",
+        "fact": "Islandia solo está cubierta de glaciares en un 10% aproximadamente, mientras que buena parte de la costa sur de Groenlandia es relativamente verde, una confusión de nombres que se remonta a los colonos nórdicos medievales."
+      }
+    }
   },
   {
     "id": "geography-023",
     "domain": "geography",
     "hook": "The Nile might not be the longest river after all.",
     "fact": "The Nile has long been considered the world's longest river, but some modern measurements suggest the Amazon could actually be longer, depending on exactly where its source is defined.",
-    "tags": ["rivers", "records"]
+    "tags": ["rivers", "records"],
+    "translations": {
+      "fr": {
+        "hook": "Le Nil n'est peut-être pas le plus long fleuve du monde, finalement.",
+        "fact": "Le Nil est depuis longtemps considéré comme le plus long fleuve du monde, mais certaines mesures modernes suggèrent que l'Amazone pourrait en réalité être plus long, selon l'endroit exact où l'on situe sa source."
+      },
+      "nl": {
+        "hook": "De Nijl is misschien toch niet de langste rivier ter wereld.",
+        "fact": "De Nijl wordt al lang beschouwd als de langste rivier ter wereld, maar sommige moderne metingen suggereren dat de Amazone eigenlijk langer zou kunnen zijn, afhankelijk van waar precies de bron wordt gedefinieerd."
+      },
+      "es": {
+        "hook": "Puede que el Nilo no sea, después de todo, el río más largo.",
+        "fact": "El Nilo se ha considerado durante mucho tiempo el río más largo del mundo, pero algunas mediciones modernas sugieren que el Amazonas podría ser en realidad más largo, dependiendo de dónde se defina exactamente su nacimiento."
+      }
+    }
   },
   {
     "id": "geography-024",
     "domain": "geography",
     "hook": "There's a patch of desert no country wants to claim.",
     "fact": "Bir Tawil, a strip of land between Egypt and Sudan, is unclaimed by either country — claiming it would weaken each nation's position in a separate, more valuable border dispute nearby.",
-    "tags": ["borders", "africa"]
+    "tags": ["borders", "africa"],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un morceau de désert qu'aucun pays ne veut revendiquer.",
+        "fact": "Bir Tawil, une bande de terre entre l'Égypte et le Soudan, n'est revendiquée par aucun des deux pays — la revendiquer affaiblirait la position de chaque nation dans un différend frontalier voisin bien plus précieux."
+      },
+      "nl": {
+        "hook": "Er ligt een stuk woestijn dat geen enkel land wil opeisen.",
+        "fact": "Bir Tawil, een stuk land tussen Egypte en Soedan, wordt door geen van beide landen opgeëist — het opeisen ervan zou de positie van elk land verzwakken in een ander, waardevoller grensgeschil in de buurt."
+      },
+      "es": {
+        "hook": "Hay un trozo de desierto que ningún país quiere reclamar.",
+        "fact": "Bir Tawil, una franja de tierra entre Egipto y Sudán, no es reclamada por ninguno de los dos países: reclamarla debilitaría la posición de cada nación en una disputa fronteriza cercana mucho más valiosa."
+      }
+    }
   },
   {
     "id": "geography-025",
     "domain": "geography",
     "hook": "Japan has more than double the islands it was once thought to have.",
     "fact": "A 2023 government recount using precise digital mapping revised Japan's official island count from 6,852 to 14,125.",
-    "tags": ["islands", "asia"]
+    "tags": ["islands", "asia"],
+    "translations": {
+      "fr": {
+        "hook": "Le Japon compte plus du double des îles qu'on lui attribuait autrefois.",
+        "fact": "Un recensement gouvernemental de 2023, réalisé grâce à une cartographie numérique précise, a révisé le nombre officiel d'îles du Japon, le faisant passer de 6 852 à 14 125."
+      },
+      "nl": {
+        "hook": "Japan heeft meer dan dubbel zoveel eilanden als tot voor kort werd gedacht.",
+        "fact": "Een Japanse overheidstelling uit 2023, uitgevoerd met precieze digitale cartografie, herzag het officiële eilandenaantal van Japan van 6.852 naar 14.125."
+      },
+      "es": {
+        "hook": "Japón tiene más del doble de islas de las que se pensaba.",
+        "fact": "Un recuento gubernamental de 2023, realizado con cartografía digital de precisión, revisó la cifra oficial de islas de Japón de 6.852 a 14.125."
+      }
+    }
   },
   {
     "id": "geography-026",
     "domain": "geography",
     "hook": "Parts of Chile's Atacama Desert have never recorded rain.",
     "fact": "The Atacama is considered the driest inhabited place on Earth — some of its weather stations have no recorded rainfall in their entire history of operation.",
-    "tags": ["climate", "south-america"]
+    "tags": ["climate", "south-america"],
+    "translations": {
+      "fr": {
+        "hook": "Certaines parties du désert d'Atacama, au Chili, n'ont jamais enregistré de pluie.",
+        "fact": "L'Atacama est considéré comme l'endroit habité le plus sec de la planète — certaines de ses stations météo n'ont enregistré aucune précipitation depuis leur mise en service."
+      },
+      "nl": {
+        "hook": "In delen van de Atacamawoestijn in Chili is nog nooit regen geregistreerd.",
+        "fact": "De Atacama geldt als de droogste bewoonde plek op aarde — sommige weerstations daar hebben in hun hele bestaan nog nooit neerslag geregistreerd."
+      },
+      "es": {
+        "hook": "En partes del desierto de Atacama, en Chile, nunca se ha registrado lluvia.",
+        "fact": "El Atacama se considera el lugar habitado más seco de la Tierra: algunas de sus estaciones meteorológicas no han registrado precipitación alguna en toda su historia de funcionamiento."
+      }
+    }
   },
   {
     "id": "geography-027",
     "domain": "geography",
     "hook": "Vatican City is smaller than most golf courses.",
     "fact": "The world's smallest country covers just 0.49 square kilometers, making it tinier than the average 18-hole golf course.",
-    "tags": ["countries", "records"]
+    "tags": ["countries", "records"],
+    "translations": {
+      "fr": {
+        "hook": "Le Vatican est plus petit que la plupart des terrains de golf.",
+        "fact": "Le plus petit pays du monde couvre à peine 0,49 kilomètre carré, ce qui le rend plus petit qu'un terrain de golf moyen de 18 trous."
+      },
+      "nl": {
+        "hook": "Vaticaanstad is kleiner dan de meeste golfbanen.",
+        "fact": "Het kleinste land ter wereld beslaat slechts 0,49 vierkante kilometer, waardoor het kleiner is dan een gemiddelde golfbaan met 18 holes."
+      },
+      "es": {
+        "hook": "El Vaticano es más pequeño que la mayoría de los campos de golf.",
+        "fact": "El país más pequeño del mundo ocupa apenas 0,49 kilómetros cuadrados, lo que lo hace más pequeño que un campo de golf medio de 18 hoyos."
+      }
+    }
   },
   {
     "id": "geography-028",
     "domain": "geography",
     "hook": "Australia is the only continent-spanning country with no land borders.",
     "fact": "Because it's surrounded entirely by ocean, Australia is the sole country that covers an entire continent while sharing a land border with absolutely no other nation.",
-    "tags": ["australia", "borders"]
+    "tags": ["australia", "borders"],
+    "translations": {
+      "fr": {
+        "hook": "L'Australie est le seul pays-continent sans aucune frontière terrestre.",
+        "fact": "Entièrement entourée par l'océan, l'Australie est le seul pays à couvrir un continent entier tout en ne partageant de frontière terrestre avec absolument aucune autre nation."
+      },
+      "nl": {
+        "hook": "Australië is het enige land dat een heel continent beslaat zonder landgrenzen.",
+        "fact": "Omdat het volledig door oceaan wordt omringd, is Australië het enige land dat een heel continent beslaat en tegelijk met geen enkel ander land een landgrens deelt."
+      },
+      "es": {
+        "hook": "Australia es el único país-continente sin fronteras terrestres.",
+        "fact": "Al estar completamente rodeada por el océano, Australia es el único país que ocupa un continente entero sin compartir frontera terrestre con ninguna otra nación."
+      }
+    }
   },
   {
     "id": "geography-029",
     "domain": "geography",
     "hook": "Geographers still argue about whether the Caspian is a sea or a lake.",
     "fact": "The Caspian Sea is the largest inland body of water on Earth, and whether it technically counts as a sea or the world's biggest lake remains a genuine debate among geographers.",
-    "tags": ["water", "trivia"]
+    "tags": ["water", "trivia"],
+    "translations": {
+      "fr": {
+        "hook": "Les géographes se disputent encore pour savoir si la mer Caspienne est une mer ou un lac.",
+        "fact": "La mer Caspienne est la plus grande étendue d'eau intérieure de la planète, et la question de savoir si elle constitue techniquement une mer ou le plus grand lac du monde reste un véritable débat parmi les géographes."
+      },
+      "nl": {
+        "hook": "Geografen twisten nog altijd of de Kaspische Zee een zee of een meer is.",
+        "fact": "De Kaspische Zee is het grootste binnenwater ter wereld, en of het technisch gezien als een zee of als 's werelds grootste meer geldt, blijft een echt discussiepunt onder geografen."
+      },
+      "es": {
+        "hook": "Los geógrafos todavía discuten si el Caspio es un mar o un lago.",
+        "fact": "El mar Caspio es la mayor masa de agua interior del planeta, y si técnicamente cuenta como mar o como el lago más grande del mundo sigue siendo un debate real entre geógrafos."
+      }
+    }
   },
   {
     "id": "geography-030",
     "domain": "geography",
     "hook": "Kilimanjaro is the tallest mountain that isn't part of a range.",
     "fact": "Mount Kilimanjaro in Tanzania is the world's tallest freestanding mountain, rising on its own rather than as part of a larger mountain chain.",
-    "tags": ["mountains", "africa"]
+    "tags": ["mountains", "africa"],
+    "translations": {
+      "fr": {
+        "hook": "Le Kilimandjaro est la plus haute montagne qui ne fasse partie d'aucune chaîne.",
+        "fact": "Le mont Kilimandjaro, en Tanzanie, est la plus haute montagne isolée du monde, s'élevant seule plutôt que comme partie d'une chaîne montagneuse plus vaste."
+      },
+      "nl": {
+        "hook": "De Kilimanjaro is de hoogste berg die geen deel uitmaakt van een gebergte.",
+        "fact": "De Kilimanjaro in Tanzania is de hoogste alleenstaande berg ter wereld, die op zichzelf oprijst in plaats van als onderdeel van een groter gebergte."
+      },
+      "es": {
+        "hook": "El Kilimanjaro es la montaña más alta que no forma parte de una cordillera.",
+        "fact": "El monte Kilimanjaro, en Tanzania, es la montaña independiente más alta del mundo, que se eleva por sí sola en lugar de formar parte de una cadena montañosa mayor."
+      }
+    }
   },
   {
     "id": "geography-031",
     "domain": "geography",
     "hook": "The Chile–Argentina border runs over 5,300 kilometers along the Andes.",
     "fact": "One of the longest international borders on Earth follows the spine of the Andes mountains between Chile and Argentina, stretching more than 5,300 kilometers.",
-    "tags": ["borders", "south-america"]
+    "tags": ["borders", "south-america"],
+    "translations": {
+      "fr": {
+        "hook": "La frontière entre le Chili et l'Argentine s'étend sur plus de 5 300 kilomètres le long des Andes.",
+        "fact": "L'une des plus longues frontières internationales du monde suit la ligne de crête des Andes entre le Chili et l'Argentine, s'étendant sur plus de 5 300 kilomètres."
+      },
+      "nl": {
+        "hook": "De grens tussen Chili en Argentinië loopt meer dan 5.300 kilometer langs de Andes.",
+        "fact": "Een van de langste internationale grenzen ter wereld volgt de bergkam van de Andes tussen Chili en Argentinië, en strekt zich uit over meer dan 5.300 kilometer."
+      },
+      "es": {
+        "hook": "La frontera entre Chile y Argentina recorre más de 5.300 kilómetros a lo largo de los Andes.",
+        "fact": "Una de las fronteras internacionales más largas del mundo sigue la cordillera de los Andes entre Chile y Argentina, extendiéndose a lo largo de más de 5.300 kilómetros."
+      }
+    }
   }
 ]

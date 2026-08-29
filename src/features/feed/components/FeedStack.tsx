@@ -4,6 +4,7 @@ import { ChevronDown, ChevronUp } from 'lucide-react'
 import { ExhaustionNotice } from '@/features/feed/components/ExhaustionNotice'
 import { FactCard } from '@/features/feed/components/FactCard'
 import { ReactionToast } from '@/features/feed/components/ReactionToast'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import type { Fact, Reaction } from '@/lib/types'
 
 interface FeedStackProps {
@@ -35,6 +36,7 @@ export function FeedStack({
   showExhaustionNotice = false,
   onDismissExhaustionNotice,
 }: FeedStackProps) {
+  const { t } = useLocale()
   const touchStartY = useRef<number | null>(null)
   const lastAdvanceAt = useRef(0)
   const wheelAccumulator = useRef(0)
@@ -135,7 +137,7 @@ export function FeedStack({
 
       <div className="pointer-events-none absolute inset-x-0 bottom-2 flex flex-col items-center gap-0.5 text-white/50">
         <ChevronUp size={16} className="hidden sm:block" aria-hidden="true" />
-        <span className="text-xs">Scroll, swipe up, or press ↓ for the next fact</span>
+        <span className="text-xs">{t('feed.scrollHint')}</span>
         <ChevronDown size={16} aria-hidden="true" />
       </div>
     </div>

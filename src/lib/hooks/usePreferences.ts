@@ -2,7 +2,7 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 
 import { useAuth } from '@/features/auth/AuthContext'
 import { getUserPreferences, saveUserPreferences } from '@/lib/api/preferences'
-import type { Domain } from '@/lib/types'
+import type { Domain, Locale } from '@/lib/types'
 
 export function usePreferences() {
   const { user } = useAuth()
@@ -16,7 +16,8 @@ export function usePreferences() {
   })
 
   const mutation = useMutation({
-    mutationFn: (domains: Domain[]) => saveUserPreferences(user!.id, domains),
+    mutationFn: ({ domains, locale }: { domains: Domain[]; locale: Locale }) =>
+      saveUserPreferences(user!.id, domains, locale),
     onSuccess: (updated) => {
       queryClient.setQueryData(queryKey, updated)
     },
@@ -25,7 +26,8 @@ export function usePreferences() {
   return {
     preferences: query.data ?? null,
     isLoading: query.isLoading,
-    savePreferences: mutation.mutateAsync,
+    savePreferences: (domains: Domain[], locale: Locale) =>
+      mutation.mutateAsync({ domains, locale }),
     isSaving: mutation.isPending,
   }
 }

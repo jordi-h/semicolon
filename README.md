@@ -75,9 +75,12 @@ per-user, RLS-protected implementation the moment you add credentials.
 Defined in `src/lib/types.ts`:
 
 - **`Fact`** — one card: `hook`, `fact`, optional `whyItMatters`, `domain`,
-  `tags`, optional `sourceUrl`.
-- **`UserPreferences`** — a user's selected domains (editable any time from
-  Settings, not just at onboarding).
+  `tags`, optional `sourceUrl`. Always resolved to the caller's locale
+  before it reaches the UI (see "Language" below); the raw `translations`
+  field only ever appears on the local seed JSON, never on a `Fact`
+  returned from the API.
+- **`UserPreferences`** — a user's selected domains and UI/content
+  language (editable any time from Settings, not just at onboarding).
 - **`SavedFact`** — a user's hearted facts.
 - **`DomainAffinity`** — per-user, per-domain rolling engagement signal
   (average dwell time + reaction score) used to weight the feed.
@@ -103,7 +106,42 @@ facts to Supabase (it's an upsert, so it's safe to re-run any time).
    `src/features/feed/components/FactCard.tsx`.
 3. Create `src/data/facts/<domain>.json` and add it to the spread in
    `src/data/facts/index.ts`.
-4. Run `npm run seed`.
+4. Add a localized label for it to `DOMAIN_LABELS` in `src/lib/types.ts`
+   for every locale in `LOCALES` (not just English).
+5. Run `npm run seed`.
+
+## Language
+
+The UI and every fact are available in four languages — English, French,
+Dutch, Spanish (`LOCALES` in `src/lib/types.ts`). Like facts themselves,
+translations are curated static content, authored offline ahead of time —
+never a runtime translation call.
+
+- **UI text** lives in `src/lib/i18n/{en,fr,nl,es}.ts`, one flat
+  dictionary per locale, all typed against the English dictionary's keys
+  (`TranslationKey` in `en.ts`) so a locale missing a key fails to
+  typecheck rather than silently falling back at runtime.
+  `LocaleContext.tsx` exposes the active `locale`, `setLocale`, and a
+  `t(key, vars?)` function (`{{var}}` interpolation) via `useLocale()`.
+- **Fact text** — each fact's canonical English `hook`/`fact`/
+  `whyItMatters` live on `facts` as before; non-English text lives in
+  `fact_translations` (one row per fact per locale), seeded from the
+  `translations` field on each entry in `src/data/facts/*.json`. A
+  locale missing a translation for a given fact just falls back to the
+  English original — see `localizeFact`/`applyServerTranslations` in
+  `src/lib/api/facts.ts`.
+- **Which locale a user gets:** `LocaleProvider` picks, in order, a
+  locale saved on this device (`localStorage`), then the browser's
+  language, then English — and once the signed-in user's own
+  `preferences.locale` loads, that becomes the source of truth.
+  Changing the language picker in Settings updates the UI immediately
+  and persists to `user_preferences.locale`.
+
+Adding a fifth language means: add it to `LOCALES` and `LOCALE_NATIVE_NAMES`
+in `src/lib/types.ts`, add a `DOMAIN_LABELS` entry, add
+`src/lib/i18n/<locale>.ts` (typechecked against `TranslationKey`, so
+nothing can be missed), and add a `translations.<locale>` entry to every
+fact in `src/data/facts/*.json`.
 
 ## How the feed picks the next card
 
@@ -167,12 +205,13 @@ flow above doesn't need it and works today.
 
 ## Content pipeline (future)
 
-All content is hand-seeded, static, and reviewed ahead of time — there is
+All content — including every language's translations, see "Language"
+above — is hand-seeded, static, and reviewed ahead of time — there is
 no live external API and no per-request LLM call, by design (keeps the app
 free to run and avoids fact-checking/hallucination risk at runtime). If an
 LLM-assisted authoring pipeline is added later, it should only ever write
-new entries into `src/data/facts/*.json` **offline**, the same as a human
-editor — never call an LLM from the running app.
+new entries (or translations) into `src/data/facts/*.json` **offline**,
+the same as a human editor — never call an LLM from the running app.
 
 ## Project structure
 
@@ -190,6 +229,7 @@ src/
   lib/
     api/                data-access layer (Supabase ⇄ local fallback)
     hooks/              shared TanStack Query hooks
+    i18n/                UI dictionaries + LocaleContext (see "Language")
     types.ts            shared domain types
     engagement.ts        pure streak/weighting math (unit tested)
     supabaseClient.ts

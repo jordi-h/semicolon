@@ -4,11 +4,15 @@ import { useNavigate } from 'react-router-dom'
 import { Button } from '@/components/ui/button'
 import { DomainPicker } from '@/features/onboarding/components/DomainPicker'
 import { usePreferences } from '@/lib/hooks/usePreferences'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import type { Domain } from '@/lib/types'
 
 export function OnboardingPage() {
   const navigate = useNavigate()
   const { preferences, isLoading, savePreferences, isSaving } = usePreferences()
+  // locale falls back to the current UI locale (e.g. guest/browser-detected)
+  // for a first-time save, when there's no saved preference yet to read it from.
+  const { locale, t } = useLocale()
   const [selected, setSelected] = useState<Domain[]>([])
   const isEditing = Boolean(preferences)
 
@@ -17,7 +21,7 @@ export function OnboardingPage() {
   }, [preferences])
 
   async function handleContinue() {
-    await savePreferences(selected)
+    await savePreferences(selected, preferences?.locale ?? locale)
     navigate(isEditing ? '/settings' : '/feed')
   }
 
@@ -27,11 +31,9 @@ export function OnboardingPage() {
     <div className="mx-auto flex h-full max-w-lg flex-col justify-center gap-6 p-6">
       <div className="space-y-2 text-center">
         <h1 className="text-2xl font-bold">
-          {isEditing ? 'Update your interests' : 'What do you want to learn about?'}
+          {isEditing ? t('onboarding.titleEdit') : t('onboarding.titleNew')}
         </h1>
-        <p className="text-muted-foreground">
-          Pick as many broad topics as you like — you can always change these later.
-        </p>
+        <p className="text-muted-foreground">{t('onboarding.subtitle')}</p>
       </div>
 
       <DomainPicker selected={selected} onChange={setSelected} />
@@ -42,7 +44,11 @@ export function OnboardingPage() {
         onClick={handleContinue}
         className="mt-2"
       >
-        {isSaving ? 'Saving…' : isEditing ? 'Save changes' : 'Start scrolling'}
+        {isSaving
+          ? t('onboarding.saving')
+          : isEditing
+            ? t('onboarding.saveChanges')
+            : t('onboarding.startScrolling')}
       </Button>
     </div>
   )

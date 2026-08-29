@@ -8,11 +8,13 @@ import { Logo } from '@/components/Logo'
 import { usePreferences } from '@/lib/hooks/usePreferences'
 import { useSavedFacts } from '@/lib/hooks/useSavedFacts'
 import { useStats } from '@/lib/hooks/useStats'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 
 export function FeedPage() {
   const { preferences, isLoading: preferencesLoading } = usePreferences()
   const { stats } = useStats()
   const { savedIds, toggle } = useSavedFacts()
+  const { t } = useLocale()
 
   const domains = preferences?.domains ?? []
   const {
@@ -44,7 +46,7 @@ export function FeedPage() {
           <StreakBadge streak={stats?.currentStreak ?? 0} />
           <Link
             to="/settings"
-            aria-label="Settings"
+            aria-label={t('feed.settingsAriaLabel')}
             className="flex h-9 w-9 items-center justify-center rounded-full text-foreground/70 hover:bg-muted"
           >
             <Settings size={18} />
@@ -56,11 +58,11 @@ export function FeedPage() {
         {isLoading && <CenteredState />}
         {!isLoading && isEmpty && (
           <div className="flex h-full flex-col items-center justify-center gap-2 p-8 text-center text-muted-foreground">
-            <p className="font-medium text-foreground">No facts yet in your chosen domains.</p>
+            <p className="font-medium text-foreground">{t('feed.emptyTitle')}</p>
             <p className="text-sm">
-              Try adding more domains from{' '}
+              {t('feed.emptyBefore')}{' '}
               <Link to="/settings" className="underline">
-                settings
+                {t('feed.emptyLink')}
               </Link>
               .
             </p>

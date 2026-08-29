@@ -3,9 +3,11 @@ import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useAuth } from '@/features/auth/AuthContext'
 import { fetchFactsByIds } from '@/lib/api/facts'
 import { getSavedFacts, saveFact, unsaveFact } from '@/lib/api/savedFacts'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 
 export function useSavedFacts() {
   const { user } = useAuth()
+  const { locale } = useLocale()
   const queryClient = useQueryClient()
   const savedIdsKey = ['saved-facts', user?.id] as const
 
@@ -18,8 +20,8 @@ export function useSavedFacts() {
   const savedIds = new Set((savedQuery.data ?? []).map((s) => s.factId))
 
   const factsQuery = useQuery({
-    queryKey: ['saved-facts-content', [...savedIds].sort().join(',')],
-    queryFn: () => fetchFactsByIds([...savedIds]),
+    queryKey: ['saved-facts-content', [...savedIds].sort().join(','), locale],
+    queryFn: () => fetchFactsByIds([...savedIds], locale),
     enabled: savedQuery.isSuccess,
   })
 

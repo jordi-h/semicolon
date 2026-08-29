@@ -28,14 +28,43 @@ create policy "facts are publicly readable"
   using (true);
 
 -- ─────────────────────────────────────────────────────────────────────────
--- user_preferences: which domains a user wants in their feed. One row per
--- user, editable any time from settings.
+-- fact_translations: curated non-English text for a fact, one row per
+-- (fact, locale). English itself lives on `facts` directly rather than
+-- here, so a locale with no translation yet just falls back to that.
+-- Same access pattern as `facts` -- publicly readable, written only by
+-- the seed script via the service_role key.
+-- ─────────────────────────────────────────────────────────────────────────
+create table if not exists public.fact_translations (
+  fact_id text not null references public.facts (id) on delete cascade,
+  locale text not null,
+  hook text not null,
+  fact text not null,
+  why_it_matters text,
+  primary key (fact_id, locale)
+);
+
+alter table public.fact_translations enable row level security;
+
+create policy "fact translations are publicly readable"
+  on public.fact_translations for select
+  to anon, authenticated
+  using (true);
+
+-- ─────────────────────────────────────────────────────────────────────────
+-- user_preferences: which domains and language a user wants in their
+-- feed. One row per user, editable any time from settings.
 -- ─────────────────────────────────────────────────────────────────────────
 create table if not exists public.user_preferences (
   user_id uuid primary key references auth.users (id) on delete cascade,
   domains text[] not null default '{}',
+  locale text not null default 'en',
   updated_at timestamptz not null default now()
 );
+
+-- Safe to re-run against a project provisioned before the language
+-- feature shipped, where `create table if not exists` above is a no-op
+-- and this table is missing the column.
+alter table public.user_preferences add column if not exists locale text not null default 'en';
 
 alter table public.user_preferences enable row level security;
 

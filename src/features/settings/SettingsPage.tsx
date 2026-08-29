@@ -1,18 +1,21 @@
 import type { ReactNode } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import { ArrowLeft, BookHeart, Flame, LogOut, Sparkles, Trophy } from 'lucide-react'
+import { ArrowLeft, BookHeart, Flame, Globe, LogOut, Sparkles, Trophy } from 'lucide-react'
 
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { useAuth } from '@/features/auth/AuthContext'
-import { DOMAIN_EMOJI, DOMAIN_LABELS } from '@/lib/types'
 import { usePreferences } from '@/lib/hooks/usePreferences'
 import { useStats } from '@/lib/hooks/useStats'
+import { useLocale } from '@/lib/i18n/LocaleContext'
+import { cn } from '@/lib/utils'
+import { DOMAIN_EMOJI, DOMAIN_LABELS, LOCALES, LOCALE_NATIVE_NAMES } from '@/lib/types'
 
 export function SettingsPage() {
   const { user, authRequired, signOut } = useAuth()
   const { preferences } = usePreferences()
   const { stats } = useStats()
+  const { locale, setLocale, t } = useLocale()
   const navigate = useNavigate()
 
   async function handleSignOut() {
@@ -25,38 +28,65 @@ export function SettingsPage() {
       <div className="flex items-center gap-2">
         <Link
           to="/feed"
-          aria-label="Back to feed"
+          aria-label={t('settings.backAriaLabel')}
           className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-muted"
         >
           <ArrowLeft size={18} />
         </Link>
-        <h1 className="text-xl font-bold">Profile & settings</h1>
+        <h1 className="text-xl font-bold">{t('settings.title')}</h1>
       </div>
 
       {authRequired && user?.email && (
-        <p className="text-sm text-muted-foreground">Signed in as {user.email}</p>
+        <p className="text-sm text-muted-foreground">
+          {t('settings.signedInAs', { email: user.email })}
+        </p>
       )}
 
       <section className="grid grid-cols-3 gap-3">
         <StatCard
           icon={<Flame className="text-orange-500" />}
-          label="Current streak"
+          label={t('settings.currentStreak')}
           value={stats?.currentStreak ?? 0}
         />
         <StatCard
           icon={<Trophy className="text-yellow-500" />}
-          label="Best streak"
+          label={t('settings.bestStreak')}
           value={stats?.longestStreak ?? 0}
         />
         <StatCard
           icon={<Sparkles className="text-primary" />}
-          label="Facts learned"
+          label={t('settings.factsLearned')}
           value={stats?.factsLearned ?? 0}
         />
       </section>
 
       <section className="space-y-2">
-        <h2 className="font-semibold">Your topics</h2>
+        <h2 className="flex items-center gap-2 font-semibold">
+          <Globe size={16} />
+          {t('settings.language')}
+        </h2>
+        <div className="flex flex-wrap gap-2">
+          {LOCALES.map((option) => (
+            <button
+              key={option}
+              type="button"
+              onClick={() => setLocale(option)}
+              aria-pressed={locale === option}
+              className={cn(
+                'rounded-full border px-3 py-1.5 text-sm transition-colors',
+                locale === option
+                  ? 'border-primary bg-primary/10 font-medium text-primary'
+                  : 'hover:border-primary/50 hover:bg-muted/50',
+              )}
+            >
+              {LOCALE_NATIVE_NAMES[option]}
+            </button>
+          ))}
+        </div>
+      </section>
+
+      <section className="space-y-2">
+        <h2 className="font-semibold">{t('settings.yourTopics')}</h2>
         <div className="flex flex-wrap gap-2">
           {(preferences?.domains ?? []).map((domain) => (
             <span
@@ -64,12 +94,12 @@ export function SettingsPage() {
               className="inline-flex items-center gap-1.5 rounded-full bg-muted px-3 py-1 text-sm"
             >
               <span aria-hidden="true">{DOMAIN_EMOJI[domain]}</span>
-              {DOMAIN_LABELS[domain]}
+              {DOMAIN_LABELS[locale][domain]}
             </span>
           ))}
         </div>
         <Button variant="outline" size="sm" asChild>
-          <Link to="/onboarding">Edit topics</Link>
+          <Link to="/onboarding">{t('settings.editTopics')}</Link>
         </Button>
       </section>
 
@@ -77,7 +107,7 @@ export function SettingsPage() {
         <Button variant="outline" className="w-full justify-start gap-2" asChild>
           <Link to="/saved">
             <BookHeart size={18} />
-            Saved facts
+            {t('settings.savedFacts')}
           </Link>
         </Button>
       </section>
@@ -89,7 +119,7 @@ export function SettingsPage() {
           onClick={handleSignOut}
         >
           <LogOut size={18} />
-          Sign out
+          {t('settings.signOut')}
         </Button>
       )}
     </div>

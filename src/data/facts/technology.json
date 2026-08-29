@@ -4,230 +4,395 @@
     "domain": "technology",
     "hook": "The first computer 'bug' was an actual bug.",
     "fact": "In 1947, engineers working on the Harvard Mark II computer found a moth trapped in a relay causing a malfunction — they taped it into their logbook, popularizing the term 'debugging.'",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "Le premier « bug » informatique était un vrai insecte.", "fact": "En 1947, des ingénieurs travaillant sur l'ordinateur Harvard Mark II ont trouvé un papillon de nuit coincé dans un relais, provoquant une panne — ils l'ont collé dans leur carnet de bord, popularisant le terme « debugging »." },
+      "nl": { "hook": "De eerste computer 'bug' was een echt insect.", "fact": "In 1947 vonden ingenieurs die aan de Harvard Mark II-computer werkten een mot vast in een relais, wat een storing veroorzaakte — ze plakten hem in hun logboek, waardoor de term 'debuggen' populair werd." },
+      "es": { "hook": "El primer \"bug\" informático era un insecto de verdad.", "fact": "En 1947, unos ingenieros que trabajaban en el ordenador Harvard Mark II encontraron una polilla atrapada en un relé que causaba un fallo — la pegaron en su cuaderno de registro, popularizando el término \"debugging\"." }
+    }
   },
   {
     "id": "technology-002",
     "domain": "technology",
     "hook": "QWERTY was designed to slow you down.",
     "fact": "The QWERTY keyboard layout was arranged in the 1870s partly to reduce jamming in mechanical typewriters by separating commonly paired letters, not to maximize typing speed.",
-    "tags": ["design", "history"]
+    "tags": ["design", "history"],
+    "translations": {
+      "fr": { "hook": "Le clavier QWERTY a été conçu pour vous ralentir.", "fact": "La disposition QWERTY a été mise au point dans les années 1870, en partie pour réduire les blocages des machines à écrire mécaniques en séparant les lettres souvent utilisées ensemble, et non pour maximiser la vitesse de frappe." },
+      "nl": { "hook": "QWERTY werd ontworpen om je te vertragen.", "fact": "De QWERTY-toetsenbordindeling werd in de jaren 1870 deels bedacht om vastlopen bij mechanische typemachines te verminderen door vaak gecombineerde letters uit elkaar te plaatsen, niet om de typesnelheid te maximaliseren." },
+      "es": { "hook": "El teclado QWERTY se diseñó para hacerte escribir más lento.", "fact": "La distribución QWERTY se ideó en la década de 1870, en parte para reducir los atascos de las máquinas de escribir mecánicas separando las letras que se combinaban con frecuencia, no para maximizar la velocidad de escritura." }
+    }
   },
   {
     "id": "technology-003",
     "domain": "technology",
     "hook": "The first 1GB hard drive weighed over 500 pounds.",
     "fact": "The 1980 IBM 3380 was the first hard drive to store a gigabyte, was roughly the size of a large refrigerator, and cost around $40,000.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "Le premier disque dur de 1 Go pesait plus de 225 kg.", "fact": "L'IBM 3380, sorti en 1980, fut le premier disque dur capable de stocker un gigaoctet ; il avait à peu près la taille d'un grand réfrigérateur et coûtait environ 40 000 dollars." },
+      "nl": { "hook": "De eerste harde schijf van 1GB woog meer dan 225 kilo.", "fact": "De IBM 3380 uit 1980 was de eerste harde schijf die een gigabyte kon opslaan, had ongeveer de omvang van een grote koelkast en kostte zo'n 40.000 dollar." },
+      "es": { "hook": "El primer disco duro de 1GB pesaba más de 225 kilos.", "fact": "El IBM 3380 de 1980 fue el primer disco duro capaz de almacenar un gigabyte; tenía aproximadamente el tamaño de un frigorífico grande y costaba unos 40.000 dólares." }
+    }
   },
   {
     "id": "technology-004",
     "domain": "technology",
     "hook": "Wi-Fi doesn't stand for anything.",
     "fact": "Despite popular belief it means 'Wireless Fidelity,' Wi-Fi is actually just a trademarked brand name coined by a marketing firm — it has no technical expansion.",
-    "tags": ["computing", "trivia"]
+    "tags": ["computing", "trivia"],
+    "translations": {
+      "fr": { "hook": "Wi-Fi ne veut rien dire.", "fact": "Contrairement à la croyance populaire selon laquelle cela signifierait « Wireless Fidelity », Wi-Fi n'est en réalité qu'une marque déposée inventée par une agence de marketing — le sigle n'a aucune signification technique." },
+      "nl": { "hook": "Wifi staat eigenlijk nergens voor.", "fact": "Ondanks de wijdverspreide gedachte dat het 'Wireless Fidelity' betekent, is wifi in werkelijkheid gewoon een gedeponeerde merknaam bedacht door een marketingbureau — het heeft geen technische betekenis." },
+      "es": { "hook": "Wi-Fi no significa nada en realidad.", "fact": "A pesar de la creencia popular de que significa \"Wireless Fidelity\", Wi-Fi es en realidad solo una marca registrada inventada por una agencia de marketing — no tiene ningún significado técnico." }
+    }
   },
   {
     "id": "technology-005",
     "domain": "technology",
     "hook": "The @ symbol predates email by centuries.",
     "fact": "The @ symbol appeared in merchant ledgers as far back as the 16th century meaning 'at the rate of,' long before Ray Tomlinson repurposed it for email addresses in 1971.",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "Le symbole @ existait bien avant l'e-mail.", "fact": "Le symbole @ apparaissait déjà dans les registres commerciaux au 16e siècle avec le sens de « au taux de », bien avant que Ray Tomlinson ne le réutilise pour les adresses e-mail en 1971." },
+      "nl": { "hook": "Het @-symbool bestond eeuwen voor e-mail.", "fact": "Het @-symbool verscheen al in de 16e eeuw in koopmansboeken met de betekenis 'tegen de prijs van', lang voordat Ray Tomlinson het in 1971 hergebruikte voor e-mailadressen." },
+      "es": { "hook": "El símbolo @ existía siglos antes que el correo electrónico.", "fact": "El símbolo @ ya aparecía en los libros de cuentas de los comerciantes en el siglo XVI con el significado de \"al precio de\", mucho antes de que Ray Tomlinson lo reutilizara para las direcciones de correo electrónico en 1971." }
+    }
   },
   {
     "id": "technology-006",
     "domain": "technology",
     "hook": "More computing power than the moon landing sits in your pocket.",
     "fact": "The guidance computer for Apollo 11 had roughly 4KB of RAM and a processor running at about 0.043 MHz — a modern smartphone is many millions of times more powerful.",
-    "tags": ["computing", "space"]
+    "tags": ["computing", "space"],
+    "translations": {
+      "fr": { "hook": "Votre poche contient plus de puissance de calcul que la mission Apollo 11.", "fact": "L'ordinateur de guidage d'Apollo 11 disposait d'environ 4 Ko de RAM et d'un processeur cadencé à environ 0,043 MHz — un smartphone moderne est des millions de fois plus puissant." },
+      "nl": { "hook": "Je zak bevat meer rekenkracht dan de maanlanding.", "fact": "De navigatiecomputer van Apollo 11 had ongeveer 4KB RAM en een processor die op zo'n 0,043 MHz draaide — een moderne smartphone is vele miljoenen keren krachtiger." },
+      "es": { "hook": "Tu bolsillo tiene más potencia de cálculo que el alunizaje.", "fact": "El ordenador de guiado del Apolo 11 tenía unos 4KB de RAM y un procesador que funcionaba a unos 0,043 MHz — un smartphone moderno es muchos millones de veces más potente." }
+    }
   },
   {
     "id": "technology-007",
     "domain": "technology",
     "hook": "The first webcam watched a coffee pot.",
     "fact": "Researchers at Cambridge University in 1991 pointed a camera at their office coffee pot and streamed the feed online so they wouldn't waste trips checking if it was empty.",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "La première webcam surveillait une cafetière.", "fact": "En 1991, des chercheurs de l'université de Cambridge ont pointé une caméra vers la cafetière de leur bureau et diffusé les images en ligne pour éviter de se déplacer inutilement afin de vérifier si elle était vide." },
+      "nl": { "hook": "De eerste webcam hield een koffiepot in de gaten.", "fact": "Onderzoekers aan de universiteit van Cambridge richtten in 1991 een camera op de koffiepot van hun kantoor en streamden de beelden online, zodat ze niet voor niets hoefden te lopen om te checken of hij leeg was." },
+      "es": { "hook": "La primera webcam vigilaba una cafetera.", "fact": "En 1991, unos investigadores de la Universidad de Cambridge apuntaron una cámara a la cafetera de su oficina y transmitieron las imágenes en directo por internet para no tener que ir a comprobar si estaba vacía." }
+    }
   },
   {
     "id": "technology-008",
     "domain": "technology",
     "hook": "The first message sent over the internet crashed the system.",
     "fact": "In 1969, researchers tried to transmit the word 'LOGIN' between two computers on ARPANET, but the system crashed after just the letters 'L' and 'O' went through.",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "Le premier message envoyé sur Internet a fait planter le système.", "fact": "En 1969, des chercheurs ont tenté de transmettre le mot « LOGIN » entre deux ordinateurs sur ARPANET, mais le système a planté après le passage des seules lettres « L » et « O »." },
+      "nl": { "hook": "Het eerste bericht ooit via internet deed het systeem crashen.", "fact": "In 1969 probeerden onderzoekers het woord 'LOGIN' te versturen tussen twee computers op ARPANET, maar het systeem crashte nadat slechts de letters 'L' en 'O' waren doorgekomen." },
+      "es": { "hook": "El primer mensaje enviado por internet colapsó el sistema.", "fact": "En 1969, unos investigadores intentaron transmitir la palabra \"LOGIN\" entre dos ordenadores de ARPANET, pero el sistema se colapsó después de que solo pasaran las letras \"L\" y \"O\"." }
+    }
   },
   {
     "id": "technology-009",
     "domain": "technology",
     "hook": "USB connectors are deliberately '50/50' in a bad way.",
     "fact": "The original USB-A connector's asymmetric design meant users had roughly even odds of plugging it in wrong on the first try, a design quirk widely mocked before USB-C fixed it with a reversible shape.",
-    "tags": ["design", "computing"]
+    "tags": ["design", "computing"],
+    "translations": {
+      "fr": { "hook": "Les connecteurs USB avaient une chance sur deux d'être branchés dans le mauvais sens.", "fact": "La forme asymétrique du connecteur USB-A original faisait qu'on avait à peu près une chance sur deux de le brancher à l'envers du premier coup, un défaut de conception largement moqué avant que l'USB-C ne le corrige avec une forme réversible." },
+      "nl": { "hook": "USB-stekkers hadden altijd 50% kans om verkeerd te zitten.", "fact": "Het asymmetrische ontwerp van de originele USB-A-stekker zorgde ervoor dat gebruikers ongeveer fifty-fifty kans hadden om hem de eerste keer verkeerd om in te pluggen — een veelbespot ontwerpprobleem tot USB-C het oploste met een omkeerbare vorm." },
+      "es": { "hook": "Los conectores USB tenían un 50% de probabilidades de ir mal a la primera.", "fact": "El diseño asimétrico del conector USB-A original hacía que los usuarios tuvieran más o menos las mismas probabilidades de enchufarlo al revés en el primer intento, un defecto muy criticado hasta que el USB-C lo solucionó con una forma reversible." }
+    }
   },
   {
     "id": "technology-010",
     "domain": "technology",
     "hook": "The first computer mouse was made of wood.",
     "fact": "Douglas Engelbart's 1964 prototype mouse had a carved wooden shell with two metal wheels underneath to track movement on a surface.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "La première souris d'ordinateur était en bois.", "fact": "Le prototype de souris de Douglas Engelbart, créé en 1964, avait une coque en bois sculpté avec deux roues métalliques en dessous pour suivre les mouvements sur une surface." },
+      "nl": { "hook": "De eerste computermuis was van hout gemaakt.", "fact": "Het muisprototype dat Douglas Engelbart in 1964 bouwde, had een uit hout gesneden behuizing met twee metalen wieltjes eronder om beweging over een oppervlak te registreren." },
+      "es": { "hook": "El primer ratón de ordenador estaba hecho de madera.", "fact": "El prototipo de ratón de Douglas Engelbart de 1964 tenía una carcasa de madera tallada con dos ruedas metálicas debajo para seguir el movimiento sobre una superficie." }
+    }
   },
   {
     "id": "technology-011",
     "domain": "technology",
     "hook": "Email predates the World Wide Web by over 20 years.",
     "fact": "Basic electronic messaging between users on the same computer existed by the early 1960s, and networked email arrived in 1971 — the web wasn't invented until 1989.",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "L'e-mail existait plus de 20 ans avant le World Wide Web.", "fact": "La messagerie électronique de base entre utilisateurs d'un même ordinateur existait déjà au début des années 1960, et l'e-mail en réseau est arrivé en 1971 — le web, lui, n'a été inventé qu'en 1989." },
+      "nl": { "hook": "E-mail bestond meer dan 20 jaar voor het World Wide Web.", "fact": "Eenvoudige elektronische berichten tussen gebruikers van dezelfde computer bestonden al begin jaren 1960, en netwerk-e-mail kwam er in 1971 — het web werd pas in 1989 uitgevonden." },
+      "es": { "hook": "El correo electrónico existía más de 20 años antes que la World Wide Web.", "fact": "La mensajería electrónica básica entre usuarios de un mismo ordenador ya existía a principios de los años sesenta, y el correo electrónico en red llegó en 1971 — la web no se inventó hasta 1989." }
+    }
   },
   {
     "id": "technology-012",
     "domain": "technology",
     "hook": "A single Google search uses very little energy — but billions add up.",
     "fact": "One typical search query is estimated to use a small fraction of a watt-hour of energy, but multiplied by billions of searches per day, data centers consume enormous amounts of electricity worldwide.",
-    "tags": ["internet", "sustainability"]
+    "tags": ["internet", "sustainability"],
+    "translations": {
+      "fr": { "hook": "Une recherche Google consomme très peu d'énergie — mais des milliards s'accumulent.", "fact": "Une recherche typique consommerait à peine une fraction de wattheure, mais multipliée par les milliards de recherches effectuées chaque jour, les centres de données consomment des quantités d'électricité colossales dans le monde entier." },
+      "nl": { "hook": "Eén Google-zoekopdracht kost bijna geen energie — maar miljarden tellen op.", "fact": "Eén typische zoekopdracht verbruikt naar schatting slechts een fractie van een wattuur, maar vermenigvuldigd met de miljarden zoekopdrachten per dag verbruiken datacenters wereldwijd enorme hoeveelheden elektriciteit." },
+      "es": { "hook": "Una sola búsqueda en Google consume muy poca energía, pero miles de millones se acumulan.", "fact": "Se calcula que una búsqueda típica consume apenas una fracción de vatio-hora, pero multiplicado por los miles de millones de búsquedas diarias, los centros de datos consumen cantidades enormes de electricidad en todo el mundo." }
+    }
   },
   {
     "id": "technology-013",
     "domain": "technology",
     "hook": "The floppy disk save icon outlived the floppy disk by decades.",
     "fact": "Floppy disks were largely obsolete by the early 2000s, yet the 3.5-inch disk icon remains the universal symbol for 'save' in software used by people who've never touched one.",
-    "tags": ["design", "computing"]
+    "tags": ["design", "computing"],
+    "translations": {
+      "fr": { "hook": "L'icône de la disquette a survécu des décennies à la disquette elle-même.", "fact": "Les disquettes étaient largement obsolètes dès le début des années 2000, mais l'icône de la disquette 3,5 pouces reste le symbole universel du bouton « enregistrer », utilisé par des gens qui n'en ont jamais touché une." },
+      "nl": { "hook": "Het floppy-disk-opslaanicoontje overleefde de floppy disk met tientallen jaren.", "fact": "Floppy disks waren begin jaren 2000 al grotendeels overbodig, maar het icoontje van de 3,5-inch schijf blijft het universele symbool voor 'opslaan' in software, gebruikt door mensen die er nog nooit een hebben aangeraakt." },
+      "es": { "hook": "El icono del disquete sobrevivió al disquete real durante décadas.", "fact": "Los disquetes ya eran prácticamente obsoletos a principios de la década de 2000, pero el icono del disquete de 3,5 pulgadas sigue siendo el símbolo universal de \"guardar\" en programas usados por personas que nunca han tocado uno." }
+    }
   },
   {
     "id": "technology-014",
     "domain": "technology",
     "hook": "Bluetooth is named after a Viking king.",
     "fact": "Bluetooth technology is named after Harald 'Bluetooth' Gormsson, a 10th-century Scandinavian king known for uniting Danish tribes — the logo even merges the runes for his initials.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "Le Bluetooth doit son nom à un roi viking.", "fact": "La technologie Bluetooth tient son nom de Harald « Dent bleue » Gormsson, un roi scandinave du 10e siècle connu pour avoir uni les tribus danoises — le logo fusionne même les runes de ses initiales." },
+      "nl": { "hook": "Bluetooth is vernoemd naar een Vikingkoning.", "fact": "De technologie Bluetooth is genoemd naar Harald 'Blauwtand' Gormsson, een Scandinavische koning uit de 10e eeuw die bekendstond om het verenigen van Deense stammen — het logo combineert zelfs de runen van zijn initialen." },
+      "es": { "hook": "Bluetooth debe su nombre a un rey vikingo.", "fact": "La tecnología Bluetooth recibe su nombre de Harald \"Diente Azul\" Gormsson, un rey escandinavo del siglo X conocido por unificar las tribus danesas — el logotipo incluso combina las runas de sus iniciales." }
+    }
   },
   {
     "id": "technology-015",
     "domain": "technology",
     "hook": "The first YouTube video was about an elephant.",
     "fact": "Uploaded in April 2005, 'Me at the zoo' shows YouTube co-founder Jawed Karim standing in front of elephants at the San Diego Zoo — it remains on the platform today.",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "La première vidéo YouTube parlait d'éléphants.", "fact": "Mise en ligne en avril 2005, « Me at the zoo » montre le cofondateur de YouTube Jawed Karim se tenant devant des éléphants au zoo de San Diego — elle est toujours visible sur la plateforme aujourd'hui." },
+      "nl": { "hook": "De eerste YouTube-video ging over een olifant.", "fact": "De video 'Me at the zoo', geüpload in april 2005, toont YouTube-medeoprichter Jawed Karim voor de olifanten in de dierentuin van San Diego — hij staat vandaag nog altijd op het platform." },
+      "es": { "hook": "El primer vídeo de YouTube trataba sobre un elefante.", "fact": "Subido en abril de 2005, \"Me at the zoo\" muestra al cofundador de YouTube Jawed Karim frente a los elefantes del zoo de San Diego — todavía sigue disponible en la plataforma." }
+    }
   },
   {
     "id": "technology-016",
     "domain": "technology",
     "hook": "Early computers were literally people.",
     "fact": "Before electronic machines, 'computer' was a job title for people, often women, who performed complex calculations by hand for scientific and engineering projects.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "Les premiers « ordinateurs » étaient littéralement des personnes.", "fact": "Avant les machines électroniques, « computer » (calculateur) était un métier exercé par des personnes, souvent des femmes, qui effectuaient à la main des calculs complexes pour des projets scientifiques et techniques." },
+      "nl": { "hook": "De eerste 'computers' waren letterlijk mensen.", "fact": "Voordat elektronische machines bestonden, was 'computer' een beroep voor mensen, vaak vrouwen, die met de hand complexe berekeningen uitvoerden voor wetenschappelijke en technische projecten." },
+      "es": { "hook": "Los primeros \"ordenadores\" eran literalmente personas.", "fact": "Antes de las máquinas electrónicas, \"computer\" (calculador/a) era un puesto de trabajo desempeñado por personas, a menudo mujeres, que realizaban a mano cálculos complejos para proyectos científicos y de ingeniería." }
+    }
   },
   {
     "id": "technology-017",
     "domain": "technology",
     "hook": "The first computer virus to spread in the wild was a 1982 prank.",
     "fact": "'Elk Cloner,' written by a 15-year-old, spread between Apple II computers via floppy disks and displayed a short poem on every 50th boot — one of the earliest examples of malware spreading outside a lab.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "Le premier virus informatique à s'être propagé dans la nature était une blague de 1982.", "fact": "« Elk Cloner », écrit par un adolescent de 15 ans, se propageait entre ordinateurs Apple II via des disquettes et affichait un court poème tous les 50 démarrages — l'un des premiers exemples de logiciel malveillant à se répandre hors d'un laboratoire." },
+      "nl": { "hook": "Het eerste computervirus dat zich in het wild verspreidde, was een grap uit 1982.", "fact": "'Elk Cloner', geschreven door een 15-jarige, verspreidde zich tussen Apple II-computers via floppy disks en toonde bij elke 50e opstart een kort gedicht — een van de vroegste voorbeelden van malware die zich buiten een lab verspreidde." },
+      "es": { "hook": "El primer virus informático que se propagó fuera de un laboratorio fue una broma de 1982.", "fact": "\"Elk Cloner\", escrito por un chico de 15 años, se propagaba entre ordenadores Apple II a través de disquetes y mostraba un breve poema cada 50 arranques — uno de los primeros ejemplos de malware que se propagó fuera de un laboratorio." }
+    }
   },
   {
     "id": "technology-018",
     "domain": "technology",
     "hook": "The word 'bug' predates computers by decades.",
     "fact": "Engineers used 'bug' to describe mechanical glitches long before software existed — Thomas Edison used the term in his notes as early as the 1870s.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "Le mot « bug » existait des décennies avant les ordinateurs.", "fact": "Les ingénieurs utilisaient le mot « bug » pour décrire des dysfonctionnements mécaniques bien avant l'existence des logiciels — Thomas Edison employait déjà ce terme dans ses notes dès les années 1870." },
+      "nl": { "hook": "Het woord 'bug' bestond al tientallen jaren voor de computer.", "fact": "Ingenieurs gebruikten 'bug' om mechanische storingen te beschrijven lang voordat software bestond — Thomas Edison gebruikte de term al in zijn notities in de jaren 1870." },
+      "es": { "hook": "La palabra \"bug\" existía décadas antes que los ordenadores.", "fact": "Los ingenieros usaban la palabra \"bug\" para describir fallos mecánicos mucho antes de que existiera el software — Thomas Edison ya empleaba el término en sus notas en la década de 1870." }
+    }
   },
   {
     "id": "technology-019",
     "domain": "technology",
     "hook": "The first text message ever sent just said 'Merry Christmas.'",
     "fact": "In December 1992, engineer Neil Papworth sent the first SMS text message from a computer to a mobile phone on the Vodafone network, reading simply 'Merry Christmas.'",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "Le tout premier SMS disait simplement « Joyeux Noël ».", "fact": "En décembre 1992, l'ingénieur Neil Papworth a envoyé le tout premier SMS, d'un ordinateur vers un téléphone mobile sur le réseau Vodafone, avec pour seul contenu « Merry Christmas »." },
+      "nl": { "hook": "Het allereerste sms'je zei gewoon 'Merry Christmas'.", "fact": "In december 1992 stuurde ingenieur Neil Papworth het eerste sms-bericht ooit, van een computer naar een mobiele telefoon op het Vodafone-netwerk, met simpelweg de tekst 'Merry Christmas'." },
+      "es": { "hook": "El primer SMS de la historia solo decía \"Feliz Navidad\".", "fact": "En diciembre de 1992, el ingeniero Neil Papworth envió el primer mensaje SMS de la historia, desde un ordenador a un teléfono móvil de la red Vodafone, con el simple texto \"Merry Christmas\"." }
+    }
   },
   {
     "id": "technology-020",
     "domain": "technology",
     "hook": "The PlayStation started as a joint project with Nintendo.",
     "fact": "Sony was originally developing a CD-ROM add-on for the Super Nintendo. When that partnership collapsed, Sony built its own console instead — which became the PlayStation.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "La PlayStation devait à l'origine être un projet commun avec Nintendo.", "fact": "Sony développait à l'origine un accessoire CD-ROM pour la Super Nintendo. Quand ce partenariat a échoué, Sony a construit sa propre console à la place — qui est devenue la PlayStation." },
+      "nl": { "hook": "De PlayStation begon als een gezamenlijk project met Nintendo.", "fact": "Sony ontwikkelde oorspronkelijk een cd-rom-uitbreiding voor de Super Nintendo. Toen die samenwerking mislukte, bouwde Sony in plaats daarvan zijn eigen console — die de PlayStation werd." },
+      "es": { "hook": "La PlayStation empezó como un proyecto conjunto con Nintendo.", "fact": "Sony estaba desarrollando originalmente un complemento de CD-ROM para la Super Nintendo. Cuando esa colaboración se rompió, Sony construyó su propia consola — que se convirtió en la PlayStation." }
+    }
   },
   {
     "id": "technology-021",
     "domain": "technology",
     "hook": "The word 'spam' for junk email comes from a Monty Python sketch.",
     "fact": "A 1970 sketch featured a cafe where every dish came with Spam, and the word was repeated so relentlessly it became internet slang for unwanted, repetitive messages.",
-    "tags": ["internet", "language"]
+    "tags": ["internet", "language"],
+    "translations": {
+      "fr": { "hook": "Le mot « spam » vient d'un sketch des Monty Python.", "fact": "Un sketch de 1970 mettait en scène un café où chaque plat était servi avec du Spam, et le mot était répété si inlassablement qu'il est devenu l'argot internet désignant les messages indésirables et répétitifs." },
+      "nl": { "hook": "Het woord 'spam' komt uit een Monty Python-sketch.", "fact": "In een sketch uit 1970 stond een café waar bij elk gerecht Spam werd geserveerd, en het woord werd zo onophoudelijk herhaald dat het internetjargon werd voor ongewenste, herhaaldelijke berichten." },
+      "es": { "hook": "La palabra \"spam\" viene de un sketch de Monty Python.", "fact": "Un sketch de 1970 mostraba una cafetería donde todos los platos venían con Spam, y la palabra se repetía tan incesantemente que se convirtió en jerga de internet para referirse a los mensajes no deseados y repetitivos." }
+    }
   },
   {
     "id": "technology-022",
     "domain": "technology",
     "hook": "The first domain name ever registered was symbolics.com.",
     "fact": "Registered in March 1985 by a computer manufacturer, symbolics.com was the very first .com domain — years before the web as we know it existed.",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "Le tout premier nom de domaine enregistré était symbolics.com.", "fact": "Enregistré en mars 1985 par un fabricant d'ordinateurs, symbolics.com fut le tout premier domaine en .com — des années avant l'existence du web tel qu'on le connaît." },
+      "nl": { "hook": "De allereerste geregistreerde domeinnaam was symbolics.com.", "fact": "Symbolics.com, geregistreerd in maart 1985 door een computerfabrikant, was het allereerste .com-domein — jaren voordat het web zoals we het kennen bestond." },
+      "es": { "hook": "El primer dominio jamás registrado fue symbolics.com.", "fact": "Registrado en marzo de 1985 por un fabricante de ordenadores, symbolics.com fue el primerísimo dominio .com — años antes de que existiera la web tal como la conocemos." }
+    }
   },
   {
     "id": "technology-023",
     "domain": "technology",
     "hook": "Most of the world's money doesn't physically exist.",
     "fact": "More than 90% of the world's currency exists only as digital records in banking systems, rather than as physical cash or coins.",
-    "tags": ["computing", "economics"]
+    "tags": ["computing", "economics"],
+    "translations": {
+      "fr": { "hook": "La majeure partie de l'argent mondial n'existe pas physiquement.", "fact": "Plus de 90 % de la monnaie mondiale n'existe que sous forme d'enregistrements numériques dans les systèmes bancaires, et non sous forme d'argent liquide ou de pièces." },
+      "nl": { "hook": "Het meeste geld ter wereld bestaat niet fysiek.", "fact": "Meer dan 90% van het geld in de wereld bestaat alleen als digitale gegevens in bankensystemen, in plaats van als fysiek contant geld of munten." },
+      "es": { "hook": "La mayor parte del dinero del mundo no existe físicamente.", "fact": "Más del 90% de la moneda mundial existe únicamente como registros digitales en los sistemas bancarios, en lugar de como efectivo o monedas físicas." }
+    }
   },
   {
     "id": "technology-024",
     "domain": "technology",
     "hook": "The first web banner ad had a 44% click-through rate.",
     "fact": "AT&T's 1994 'You Will' banner ad on HotWired is considered the first of its kind — and reportedly saw about 44% of viewers click it, an almost unthinkable rate by today's standards.",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "La première bannière publicitaire du web affichait un taux de clic de 44 %.", "fact": "La bannière « You Will » d'AT&T, diffusée en 1994 sur HotWired, est considérée comme la première du genre — et aurait été cliquée par environ 44 % des visiteurs, un taux presque impensable selon les standards actuels." },
+      "nl": { "hook": "De eerste bannerreclame op het web had een klikpercentage van 44%.", "fact": "AT&T's 'You Will'-banner uit 1994 op HotWired wordt beschouwd als de eerste in zijn soort — en zou door ongeveer 44% van de kijkers zijn aangeklikt, een percentage dat naar huidige maatstaven bijna ondenkbaar is." },
+      "es": { "hook": "El primer banner publicitario de la web tuvo una tasa de clics del 44%.", "fact": "El banner \"You Will\" de AT&T, publicado en 1994 en HotWired, se considera el primero de su tipo — y según se dice, alrededor del 44% de los visitantes hizo clic en él, una tasa casi impensable según los estándares actuales." }
+    }
   },
   {
     "id": "technology-025",
     "domain": "technology",
     "hook": "CAPTCHA is actually an acronym.",
     "fact": "CAPTCHA stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart' — the little puzzles designed to block bots from web forms.",
-    "tags": ["internet", "computing"]
+    "tags": ["internet", "computing"],
+    "translations": {
+      "fr": { "hook": "CAPTCHA est en réalité un acronyme.", "fact": "CAPTCHA signifie « Completely Automated Public Turing test to tell Computers and Humans Apart » (test de Turing public entièrement automatisé pour différencier les humains des ordinateurs) — ces petites énigmes conçues pour empêcher les robots d'accéder aux formulaires web." },
+      "nl": { "hook": "CAPTCHA is eigenlijk een afkorting.", "fact": "CAPTCHA staat voor 'Completely Automated Public Turing test to tell Computers and Humans Apart' — de kleine puzzeltjes die bots moeten weren van webformulieren." },
+      "es": { "hook": "CAPTCHA es en realidad un acrónimo.", "fact": "CAPTCHA significa \"Completely Automated Public Turing test to tell Computers and Humans Apart\" (prueba de Turing pública y completamente automatizada para diferenciar ordenadores de humanos) — esos pequeños rompecabezas diseñados para bloquear a los bots en los formularios web." }
+    }
   },
   {
     "id": "technology-026",
     "domain": "technology",
     "hook": "The first tweet was about setting up Twitter itself.",
     "fact": "Twitter co-founder Jack Dorsey posted the platform's first-ever tweet in 2006: 'just setting up my twttr.'",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "Le tout premier tweet parlait de la création de Twitter lui-même.", "fact": "Le cofondateur de Twitter, Jack Dorsey, a publié le tout premier tweet de la plateforme en 2006 : « just setting up my twttr »." },
+      "nl": { "hook": "De eerste tweet ging over het opzetten van Twitter zelf.", "fact": "Twitter-medeoprichter Jack Dorsey plaatste in 2006 de allereerste tweet van het platform: 'just setting up my twttr.'" },
+      "es": { "hook": "El primer tuit trataba sobre la creación de Twitter mismo.", "fact": "El cofundador de Twitter, Jack Dorsey, publicó el primer tuit de la historia de la plataforma en 2006: \"just setting up my twttr\"." }
+    }
   },
   {
     "id": "technology-027",
     "domain": "technology",
     "hook": "QR codes were invented to track car parts, not for marketing.",
     "fact": "A Japanese company called Denso Wave created QR codes in 1994 to track automotive components during manufacturing — decades before they became a staple of restaurant menus and ads.",
-    "tags": ["technology", "history"]
+    "tags": ["technology", "history"],
+    "translations": {
+      "fr": { "hook": "Les codes QR ont été inventés pour suivre des pièces automobiles, pas pour le marketing.", "fact": "L'entreprise japonaise Denso Wave a créé les codes QR en 1994 pour suivre les pièces automobiles pendant la fabrication — des décennies avant qu'ils ne deviennent incontournables sur les menus de restaurants et les publicités." },
+      "nl": { "hook": "QR-codes zijn uitgevonden om auto-onderdelen te volgen, niet voor marketing.", "fact": "Het Japanse bedrijf Denso Wave creëerde QR-codes in 1994 om auto-onderdelen tijdens de productie te volgen — decennia voordat ze een vast onderdeel werden van restaurantmenu's en advertenties." },
+      "es": { "hook": "Los códigos QR se inventaron para rastrear piezas de coches, no para marketing.", "fact": "La empresa japonesa Denso Wave creó los códigos QR en 1994 para rastrear componentes automotrices durante la fabricación — décadas antes de convertirse en un elemento habitual de los menús de restaurantes y la publicidad." }
+    }
   },
   {
     "id": "technology-028",
     "domain": "technology",
     "hook": "The @ symbol has some fun nicknames around the world.",
     "fact": "While English just calls it 'at,' other languages have their own names for the @ symbol — it's often called 'little dog' or 'monkey tail' in Slavic languages, among other nicknames.",
-    "tags": ["internet", "language"]
+    "tags": ["internet", "language"],
+    "translations": {
+      "fr": { "hook": "Le symbole @ a des surnoms amusants dans le monde entier.", "fact": "Alors qu'en anglais on l'appelle simplement « at », d'autres langues ont leurs propres noms pour le symbole @ — dans les langues slaves, on l'appelle souvent « petit chien » ou « queue de singe », parmi d'autres surnoms." },
+      "nl": { "hook": "Het @-symbool heeft grappige bijnamen over de hele wereld.", "fact": "Terwijl het Engels het gewoon 'at' noemt, hebben andere talen hun eigen namen voor het @-symbool — in Slavische talen wordt het vaak 'hondje' of 'apenstaartje' genoemd, naast andere bijnamen." },
+      "es": { "hook": "El símbolo @ tiene apodos muy curiosos por todo el mundo.", "fact": "Mientras que en inglés simplemente se llama \"at\", otros idiomas tienen sus propios nombres para el símbolo @ — en las lenguas eslavas suele llamarse \"perrito\" o \"cola de mono\", entre otros apodos." }
+    }
   },
   {
     "id": "technology-029",
     "domain": "technology",
     "hook": "Nintendo is over 130 years old.",
     "fact": "Nintendo was founded in 1889, originally making handcrafted Japanese playing cards called hanafuda — more than a century before it ever made a video game.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "Nintendo a plus de 130 ans.", "fact": "Nintendo a été fondée en 1889 et fabriquait à l'origine des cartes à jouer japonaises artisanales appelées hanafuda — plus d'un siècle avant de créer son premier jeu vidéo." },
+      "nl": { "hook": "Nintendo bestaat al meer dan 130 jaar.", "fact": "Nintendo werd opgericht in 1889 en maakte oorspronkelijk met de hand vervaardigde Japanse speelkaarten genaamd hanafuda — meer dan een eeuw voordat het ooit een videogame maakte." },
+      "es": { "hook": "Nintendo tiene más de 130 años.", "fact": "Nintendo se fundó en 1889 y originalmente fabricaba a mano cartas de juego japonesas llamadas hanafuda — más de un siglo antes de crear su primer videojuego." }
+    }
   },
   {
     "id": "technology-030",
     "domain": "technology",
     "hook": "It took 27 years to go from the first 1GB hard drive to the first 1TB one.",
     "fact": "The first gigabyte hard drive shipped in 1980; the first consumer terabyte drive didn't arrive until 2007 — a thousandfold jump in capacity in under three decades.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "Il a fallu 27 ans pour passer du premier disque dur de 1 Go au premier de 1 To.", "fact": "Le premier disque dur d'un gigaoctet est sorti en 1980 ; le premier disque dur grand public d'un téraoctet n'est arrivé qu'en 2007 — un bond de capacité par mille en moins de trois décennies." },
+      "nl": { "hook": "Het duurde 27 jaar om van de eerste harde schijf van 1GB naar de eerste van 1TB te gaan.", "fact": "De eerste harde schijf van een gigabyte kwam in 1980 op de markt; de eerste harde schijf van een terabyte voor consumenten verscheen pas in 2007 — een duizendvoudige capaciteitssprong in minder dan drie decennia." },
+      "es": { "hook": "Se tardaron 27 años en pasar del primer disco duro de 1GB al primero de 1TB.", "fact": "El primer disco duro de un gigabyte salió a la venta en 1980; el primer disco duro de un terabyte para consumidores no llegó hasta 2007 — un salto de capacidad de mil veces en menos de tres décadas." }
+    }
   },
   {
     "id": "technology-031",
     "domain": "technology",
     "hook": "Text messages were capped at 160 characters for a very specific reason.",
     "fact": "Engineer Friedhelm Hillebrand found that most postcards and Telex messages naturally stayed under 160 characters, and used that research to help set the original SMS length limit.",
-    "tags": ["internet", "history"]
+    "tags": ["internet", "history"],
+    "translations": {
+      "fr": { "hook": "Les SMS étaient limités à 160 caractères pour une raison bien précise.", "fact": "L'ingénieur Friedhelm Hillebrand a constaté que la plupart des cartes postales et messages Télex faisaient naturellement moins de 160 caractères, et s'est appuyé sur cette observation pour fixer la limite de longueur originale des SMS." },
+      "nl": { "hook": "Sms'jes waren om een heel specifieke reden beperkt tot 160 tekens.", "fact": "Ingenieur Friedhelm Hillebrand ontdekte dat de meeste briefkaarten en telexberichten van nature onder de 160 tekens bleven, en gebruikte dat onderzoek om de oorspronkelijke lengtelimiet van sms vast te stellen." },
+      "es": { "hook": "Los SMS se limitaron a 160 caracteres por una razón muy concreta.", "fact": "El ingeniero Friedhelm Hillebrand descubrió que la mayoría de las postales y los mensajes de télex se quedaban de forma natural por debajo de los 160 caracteres, y usó esa investigación para ayudar a fijar el límite de longitud original de los SMS." }
+    }
   },
   {
     "id": "technology-032",
     "domain": "technology",
     "hook": "The trash bin icon is almost as old as the modern computer interface.",
     "fact": "The trash/recycle bin icon for deleting files was introduced with the original Apple Macintosh in 1984, and its basic look has barely changed since.",
-    "tags": ["design", "computing"]
+    "tags": ["design", "computing"],
+    "translations": {
+      "fr": { "hook": "L'icône de la corbeille est presque aussi vieille que l'interface informatique moderne.", "fact": "L'icône de la corbeille pour supprimer des fichiers a été introduite avec le premier Macintosh d'Apple en 1984, et son apparence de base a à peine changé depuis." },
+      "nl": { "hook": "Het prullenbakicoontje is bijna net zo oud als de moderne computerinterface.", "fact": "Het prullenbak-icoon voor het verwijderen van bestanden werd in 1984 geïntroduceerd met de originele Apple Macintosh, en het basisuiterlijk is sindsdien nauwelijks veranderd." },
+      "es": { "hook": "El icono de la papelera es casi tan antiguo como la interfaz informática moderna.", "fact": "El icono de la papelera para eliminar archivos se introdujo con el Macintosh original de Apple en 1984, y su aspecto básico apenas ha cambiado desde entonces." }
+    }
   },
   {
     "id": "technology-033",
     "domain": "technology",
     "hook": "One of the first mobile games was Snake, preloaded on Nokia phones.",
     "fact": "Nokia included the game Snake on its phones starting with the Nokia 6110 in 1997, introducing millions of people to mobile gaming years before app stores existed.",
-    "tags": ["computing", "history"]
+    "tags": ["computing", "history"],
+    "translations": {
+      "fr": { "hook": "L'un des premiers jeux mobiles était Snake, préinstallé sur les téléphones Nokia.", "fact": "Nokia a inclus le jeu Snake sur ses téléphones à partir du Nokia 6110 en 1997, initiant des millions de personnes au jeu mobile des années avant l'existence des boutiques d'applications." },
+      "nl": { "hook": "Een van de eerste mobiele spelletjes was Snake, standaard op Nokia-telefoons.", "fact": "Nokia voegde het spel Snake toe aan zijn telefoons vanaf de Nokia 6110 in 1997, waardoor miljoenen mensen kennismaakten met mobiel gamen jaren voordat app stores bestonden." },
+      "es": { "hook": "Uno de los primeros videojuegos móviles fue Snake, preinstalado en los teléfonos Nokia.", "fact": "Nokia incluyó el juego Snake en sus teléfonos a partir del Nokia 6110 en 1997, introduciendo a millones de personas en los videojuegos móviles años antes de que existieran las tiendas de aplicaciones." }
+    }
   }
 ]

@@ -3,6 +3,7 @@ import { Loader2, Share2 } from 'lucide-react'
 import { CIRCLE_ICON_SIZE, CircleIconButton } from '@/components/ui/circle-icon-button'
 import { ShareCardImage } from '@/features/share/ShareCardImage'
 import { useShareFact } from '@/features/share/useShareFact'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import type { Fact } from '@/lib/types'
 
 interface ShareButtonProps {
@@ -13,6 +14,7 @@ interface ShareButtonProps {
  * own off-screen capture target and confirmation toast, so dropping this
  * into a card only ever adds one line. */
 export function ShareButton({ fact }: ShareButtonProps) {
+  const { t } = useLocale()
   const { nodeRef, share, status, message } = useShareFact(fact)
 
   return (
@@ -20,7 +22,7 @@ export function ShareButton({ fact }: ShareButtonProps) {
       <CircleIconButton
         onClick={share}
         disabled={status === 'generating'}
-        aria-label="Share this fact"
+        aria-label={t('share.ariaLabel')}
       >
         {status === 'generating' ? (
           <Loader2 size={CIRCLE_ICON_SIZE} className="animate-spin" />

@@ -39,6 +39,22 @@ if (!url || !serviceRoleKey) {
 
 const supabase = createClient(url, serviceRoleKey)
 
+async function upsertInBatches(
+  table: string,
+  rows: Record<string, unknown>[],
+  batchSize = 100,
+) {
+  for (let i = 0; i < rows.length; i += batchSize) {
+    const batch = rows.slice(i, i + batchSize)
+    const { error } = await supabase.from(table).upsert(batch)
+    if (error) {
+      console.error(`Failed upserting ${table} at batch starting index ${i}:`, error.message)
+      process.exit(1)
+    }
+    console.log(`  ${table}: upserted ${Math.min(i + batchSize, rows.length)}/${rows.length}`)
+  }
+}
+
 async function seed() {
   console.log(`Seeding ${allFacts.length} facts…`)
 
@@ -51,18 +67,19 @@ async function seed() {
     tags: fact.tags,
     source_url: fact.sourceUrl ?? null,
   }))
+  await upsertInBatches('facts', rows)
 
-  // Supabase caps request size, so upsert in batches.
-  const batchSize = 100
-  for (let i = 0; i < rows.length; i += batchSize) {
-    const batch = rows.slice(i, i + batchSize)
-    const { error } = await supabase.from('facts').upsert(batch)
-    if (error) {
-      console.error(`Failed on batch starting at index ${i}:`, error.message)
-      process.exit(1)
-    }
-    console.log(`  upserted ${Math.min(i + batchSize, rows.length)}/${rows.length}`)
-  }
+  const translationRows = allFacts.flatMap((fact) =>
+    Object.entries(fact.translations ?? {}).map(([locale, translation]) => ({
+      fact_id: fact.id,
+      locale,
+      hook: translation.hook,
+      fact: translation.fact,
+      why_it_matters: translation.whyItMatters ?? null,
+    })),
+  )
+  console.log(`Seeding ${translationRows.length} fact translations…`)
+  await upsertInBatches('fact_translations', translationRows)
 
   console.log('Done.')
 }

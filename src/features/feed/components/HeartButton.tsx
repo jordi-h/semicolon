@@ -1,6 +1,7 @@
 import { Heart } from 'lucide-react'
 
 import { CIRCLE_ICON_SIZE, CircleIconButton } from '@/components/ui/circle-icon-button'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import { cn } from '@/lib/utils'
 
 interface HeartButtonProps {
@@ -9,12 +10,14 @@ interface HeartButtonProps {
 }
 
 export function HeartButton({ saved, onToggle }: HeartButtonProps) {
+  const { t } = useLocale()
+
   return (
     <CircleIconButton
       onClick={onToggle}
       active={saved}
       aria-pressed={saved}
-      aria-label={saved ? 'Remove from saved facts' : 'Save this fact'}
+      aria-label={saved ? t('heart.remove') : t('heart.save')}
     >
       <Heart
         size={CIRCLE_ICON_SIZE}

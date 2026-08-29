@@ -1,6 +1,7 @@
 import { Check } from 'lucide-react'
 
 import { Card } from '@/components/ui/card'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import { DOMAIN_EMOJI, DOMAIN_LABELS, DOMAINS, type Domain } from '@/lib/types'
 import { cn } from '@/lib/utils'
 
@@ -10,6 +11,8 @@ interface DomainPickerProps {
 }
 
 export function DomainPicker({ selected, onChange }: DomainPickerProps) {
+  const { locale } = useLocale()
+
   function toggle(domain: Domain) {
     if (selected.includes(domain)) {
       onChange(selected.filter((d) => d !== domain))
@@ -50,7 +53,7 @@ export function DomainPicker({ selected, onChange }: DomainPickerProps) {
             <span className="text-3xl" aria-hidden="true">
               {DOMAIN_EMOJI[domain]}
             </span>
-            <span className="font-medium">{DOMAIN_LABELS[domain]}</span>
+            <span className="font-medium">{DOMAIN_LABELS[locale][domain]}</span>
           </Card>
         )
       })}

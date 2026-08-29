@@ -8,6 +8,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Logo } from '@/components/Logo'
 import { GoogleIcon } from '@/components/icons/GoogleIcon'
 import { useAuth } from '@/features/auth/AuthContext'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 
 export function AuthPage() {
   const {
@@ -18,6 +19,7 @@ export function AuthPage() {
     signInWithMagicLink,
     signInWithOAuth,
   } = useAuth()
+  const { t } = useLocale()
   const navigate = useNavigate()
 
   const [email, setEmail] = useState('')
@@ -77,7 +79,7 @@ export function AuthPage() {
         <Logo className="h-16 w-16 rounded-2xl shadow-md" />
         <div>
           <h1 className="text-2xl font-bold">semicolon</h1>
-          <p className="text-muted-foreground">Bite-sized knowledge, one card at a time.</p>
+          <p className="text-muted-foreground">{t('appTagline')}</p>
         </div>
       </div>
 
@@ -88,25 +90,25 @@ export function AuthPage() {
         onClick={handleGoogleSignIn}
       >
         <GoogleIcon className="h-4 w-4" />
-        {oauthPending ? 'Redirecting…' : 'Continue with Google'}
+        {oauthPending ? t('auth.redirecting') : t('auth.continueWithGoogle')}
       </Button>
 
       <div className="flex items-center gap-3">
         <div className="h-px flex-1 bg-border" />
-        <span className="text-xs text-muted-foreground">or use email</span>
+        <span className="text-xs text-muted-foreground">{t('auth.orUseEmail')}</span>
         <div className="h-px flex-1 bg-border" />
       </div>
 
       <Tabs defaultValue="signin">
         <TabsList className="grid w-full grid-cols-2">
-          <TabsTrigger value="signin">Sign in</TabsTrigger>
-          <TabsTrigger value="signup">Sign up</TabsTrigger>
+          <TabsTrigger value="signin">{t('auth.signInTab')}</TabsTrigger>
+          <TabsTrigger value="signup">{t('auth.signUpTab')}</TabsTrigger>
         </TabsList>
 
         {(['signin', 'signup'] as const).map((mode) => (
           <TabsContent key={mode} value={mode} className="space-y-4">
             <div className="space-y-1.5">
-              <Label htmlFor={`${mode}-email`}>Email</Label>
+              <Label htmlFor={`${mode}-email`}>{t('auth.emailLabel')}</Label>
               <Input
                 id={`${mode}-email`}
                 type="email"
@@ -116,7 +118,7 @@ export function AuthPage() {
               />
             </div>
             <div className="space-y-1.5">
-              <Label htmlFor={`${mode}-password`}>Password</Label>
+              <Label htmlFor={`${mode}-password`}>{t('auth.passwordLabel')}</Label>
               <Input
                 id={`${mode}-password`}
                 type="password"
@@ -128,9 +130,7 @@ export function AuthPage() {
 
             {error && <p className="text-sm text-destructive">{error}</p>}
             {magicLinkSent && (
-              <p className="text-sm text-muted-foreground">
-                Check your email for a magic link to sign in.
-              </p>
+              <p className="text-sm text-muted-foreground">{t('auth.magicLinkSent')}</p>
             )}
 
             <Button
@@ -138,7 +138,7 @@ export function AuthPage() {
               disabled={submitting || !email || !password}
               onClick={() => handleSubmit(mode)}
             >
-              {mode === 'signin' ? 'Sign in' : 'Create account'}
+              {mode === 'signin' ? t('auth.signInSubmit') : t('auth.signUpSubmit')}
             </Button>
 
             <Button
@@ -147,7 +147,7 @@ export function AuthPage() {
               disabled={submitting || !email}
               onClick={handleMagicLink}
             >
-              Email me a magic link instead
+              {t('auth.magicLinkCta')}
             </Button>
           </TabsContent>
         ))}

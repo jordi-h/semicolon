@@ -1,6 +1,6 @@
 import { readLocal, writeLocal } from '@/lib/localStorage'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
-import type { Domain, UserPreferences } from '@/lib/types'
+import type { Domain, Locale, UserPreferences } from '@/lib/types'
 
 const localKey = (userId: string) => `semicolon:preferences:${userId}`
 
@@ -17,15 +17,22 @@ export async function getUserPreferences(userId: string): Promise<UserPreference
   if (error) throw error
   if (!data) return null
 
-  return { userId: data.user_id, domains: data.domains, updatedAt: data.updated_at }
+  return {
+    userId: data.user_id,
+    domains: data.domains,
+    // Rows created before the language feature shipped have no locale set.
+    locale: (data.locale as Locale | null) ?? 'en',
+    updatedAt: data.updated_at,
+  }
 }
 
 export async function saveUserPreferences(
   userId: string,
   domains: Domain[],
+  locale: Locale,
 ): Promise<UserPreferences> {
   const updatedAt = new Date().toISOString()
-  const prefs: UserPreferences = { userId, domains, updatedAt }
+  const prefs: UserPreferences = { userId, domains, locale, updatedAt }
 
   if (!isSupabaseConfigured) {
     writeLocal(localKey(userId), prefs)
@@ -34,7 +41,7 @@ export async function saveUserPreferences(
 
   const { error } = await supabase!
     .from('user_preferences')
-    .upsert({ user_id: userId, domains, updated_at: updatedAt })
+    .upsert({ user_id: userId, domains, locale, updated_at: updatedAt })
   if (error) throw error
   return prefs
 }

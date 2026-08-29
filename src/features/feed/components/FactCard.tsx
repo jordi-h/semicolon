@@ -5,6 +5,7 @@ import { ReactionButtons } from '@/features/feed/components/ReactionButtons'
 import { factSearchUrl } from '@/features/feed/lib/factSearchUrl'
 import { ShareButton } from '@/features/share/ShareButton'
 import { DOMAIN_GRADIENTS } from '@/lib/domainTheme'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import { DOMAIN_EMOJI, DOMAIN_LABELS, type Fact, type Reaction } from '@/lib/types'
 import { cn } from '@/lib/utils'
 
@@ -27,6 +28,8 @@ export function FactCard({
   active,
   resurfaced = false,
 }: FactCardProps) {
+  const { locale, t } = useLocale()
+
   return (
     <article
       className={cn(
@@ -40,12 +43,12 @@ export function FactCard({
       <div className="relative z-10 mb-4 flex items-center justify-between gap-2">
         <div className="flex items-center gap-2 text-sm font-medium text-white/80">
           <span aria-hidden="true">{DOMAIN_EMOJI[fact.domain]}</span>
-          <span>{DOMAIN_LABELS[fact.domain]}</span>
+          <span>{DOMAIN_LABELS[locale][fact.domain]}</span>
         </div>
         {resurfaced && (
           <div className="flex items-center gap-1.5 rounded-full bg-white/15 px-3 py-1 text-xs font-medium text-white backdrop-blur-sm">
             <History size={13} />
-            Remember this?
+            {t('fact.rememberThis')}
           </div>
         )}
       </div>
@@ -56,17 +59,17 @@ export function FactCard({
           <p className="text-lg leading-relaxed text-white/95">{fact.fact}</p>
           {fact.whyItMatters && (
             <p className="border-l-2 border-white/40 pl-3 text-sm italic text-white/75">
-              Why it matters: {fact.whyItMatters}
+              {t('fact.whyItMatters')}: {fact.whyItMatters}
             </p>
           )}
           <a
-            href={factSearchUrl(fact)}
+            href={factSearchUrl(fact, locale)}
             target="_blank"
             rel="noreferrer"
             className="inline-flex w-fit items-center gap-1.5 rounded-full bg-white/15 px-3 py-1.5 text-sm font-medium text-white backdrop-blur-sm transition-colors hover:bg-white/25"
           >
             <Search size={14} />
-            Dive deeper
+            {t('fact.diveDeeper')}
           </a>
         </div>
 

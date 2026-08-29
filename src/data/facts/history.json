@@ -4,223 +4,383 @@
     "domain": "history",
     "hook": "Cleopatra lived closer to the Moon landing than to the pyramids.",
     "fact": "The Great Pyramid of Giza was built around 2560 BCE, while Cleopatra ruled Egypt around 30 BCE — meaning more time separates the pyramid's construction from her reign than separates her from the 1969 Moon landing.",
-    "tags": ["ancient-egypt", "timelines"]
+    "tags": ["ancient-egypt", "timelines"],
+    "translations": {
+      "fr": { "hook": "Cléopâtre a vécu plus proche du débarquement sur la Lune que des pyramides.", "fact": "La Grande Pyramide de Gizeh fut construite vers 2560 av. J.-C., tandis que Cléopâtre régna sur l'Égypte vers 30 av. J.-C. — ce qui signifie que plus de temps sépare la construction de la pyramide de son règne que son règne du débarquement sur la Lune en 1969." },
+      "nl": { "hook": "Cleopatra leefde dichter bij de maanlanding dan bij de piramides.", "fact": "De Grote Piramide van Gizeh werd rond 2560 v.Chr. gebouwd, terwijl Cleopatra rond 30 v.Chr. over Egypte regeerde — er zit dus meer tijd tussen de bouw van de piramide en haar heerschappij dan tussen haar heerschappij en de maanlanding van 1969." },
+      "es": { "hook": "Cleopatra vivió más cerca de la llegada a la Luna que de las pirámides.", "fact": "La Gran Pirámide de Guiza se construyó hacia el 2560 a.C., mientras que Cleopatra gobernó Egipto hacia el 30 a.C., lo que significa que pasó más tiempo entre la construcción de la pirámide y su reinado que entre su reinado y la llegada a la Luna en 1969." }
+    }
   },
   {
     "id": "history-002",
     "domain": "history",
     "hook": "The shortest war in history lasted under an hour.",
     "fact": "The Anglo-Zanzibar War of 1896 lasted approximately 38 to 45 minutes, making it the shortest recorded war in history.",
-    "tags": ["war", "records"]
+    "tags": ["war", "records"],
+    "translations": {
+      "fr": { "hook": "La guerre la plus courte de l'histoire a duré moins d'une heure.", "fact": "La guerre anglo-zanzibarite de 1896 a duré environ 38 à 45 minutes, ce qui en fait la guerre la plus courte jamais enregistrée." },
+      "nl": { "hook": "De kortste oorlog ooit duurde minder dan een uur.", "fact": "De Engels-Zanzibarese Oorlog van 1896 duurde ongeveer 38 tot 45 minuten, wat er de kortst geregistreerde oorlog ooit van maakt." },
+      "es": { "hook": "La guerra más corta de la historia duró menos de una hora.", "fact": "La guerra anglo-zanzibariana de 1896 duró aproximadamente entre 38 y 45 minutos, lo que la convierte en la guerra más corta registrada en la historia." }
+    }
   },
   {
     "id": "history-003",
     "domain": "history",
     "hook": "Oxford University is older than the Aztec Empire.",
     "fact": "Teaching at Oxford began as early as 1096, while the Aztec city of Tenochtitlan wasn't founded until 1325 — making Oxford roughly two centuries older.",
-    "tags": ["education", "timelines"]
+    "tags": ["education", "timelines"],
+    "translations": {
+      "fr": { "hook": "L'université d'Oxford est plus ancienne que l'Empire aztèque.", "fact": "L'enseignement à Oxford a commencé dès 1096, alors que la ville aztèque de Tenochtitlan n'a été fondée qu'en 1325 — Oxford est donc plus ancienne d'environ deux siècles." },
+      "nl": { "hook": "De Universiteit van Oxford is ouder dan het Azteekse Rijk.", "fact": "Er werd al vanaf 1096 lesgegeven in Oxford, terwijl de Azteekse stad Tenochtitlan pas in 1325 werd gesticht — Oxford is dus zo'n twee eeuwen ouder." },
+      "es": { "hook": "La Universidad de Oxford es más antigua que el Imperio azteca.", "fact": "En Oxford ya se impartía enseñanza desde 1096, mientras que la ciudad azteca de Tenochtitlan no se fundó hasta 1325, lo que hace que Oxford sea unos dos siglos más antigua." }
+    }
   },
   {
     "id": "history-004",
     "domain": "history",
     "hook": "Napoleon wasn't actually short.",
     "fact": "Napoleon Bonaparte stood about 5'7\" (170cm), average for a Frenchman of his era — the 'short' myth likely came from British propaganda and a mix-up between French and English measurement units.",
-    "tags": ["myths", "europe"]
+    "tags": ["myths", "europe"],
+    "translations": {
+      "fr": { "hook": "Napoléon n'était pas vraiment petit.", "fact": "Napoléon Bonaparte mesurait environ 1,70 m, une taille moyenne pour un Français de son époque — le mythe du « petit Napoléon » viendrait de la propagande britannique et d'une confusion entre unités de mesure françaises et anglaises." },
+      "nl": { "hook": "Napoleon was helemaal niet klein.", "fact": "Napoleon Bonaparte was ongeveer 1,70 m lang, gemiddeld voor een Fransman uit zijn tijd — de mythe dat hij klein was, komt waarschijnlijk van Britse propaganda en een verwarring tussen Franse en Engelse maateenheden." },
+      "es": { "hook": "Napoleón no era realmente bajo.", "fact": "Napoleón Bonaparte medía alrededor de 1,70 m, una estatura media para un francés de su época — el mito de que era bajito probablemente surgió de la propaganda británica y una confusión entre las unidades de medida francesas e inglesas." }
+    }
   },
   {
     "id": "history-005",
     "domain": "history",
     "hook": "The Great Wall of China wasn't built all at once.",
     "fact": "The wall is a patchwork of fortifications built and rebuilt by different dynasties over roughly 2,000 years, not a single continuous construction project.",
-    "tags": ["china", "architecture"]
+    "tags": ["china", "architecture"],
+    "translations": {
+      "fr": { "hook": "La Grande Muraille de Chine n'a pas été construite en une seule fois.", "fact": "La muraille est un assemblage de fortifications construites et reconstruites par différentes dynasties sur environ 2000 ans, et non un projet de construction unique et continu." },
+      "nl": { "hook": "De Chinese Muur werd niet in één keer gebouwd.", "fact": "De muur is een lappendeken van vestingwerken die door verschillende dynastieën over zo'n 2000 jaar werden gebouwd en herbouwd, en geen enkel doorlopend bouwproject." },
+      "es": { "hook": "La Gran Muralla China no se construyó de una sola vez.", "fact": "La muralla es un mosaico de fortificaciones construidas y reconstruidas por distintas dinastías a lo largo de unos 2000 años, no un único proyecto de construcción continuo." }
+    }
   },
   {
     "id": "history-006",
     "domain": "history",
     "hook": "Vikings never actually wore horned helmets.",
     "fact": "No archaeological evidence supports horned Viking helmets — the image was largely popularized by 19th-century opera costume design, centuries after the Viking Age ended.",
-    "tags": ["myths", "vikings"]
+    "tags": ["myths", "vikings"],
+    "translations": {
+      "fr": { "hook": "Les Vikings n'ont jamais porté de casques à cornes.", "fact": "Aucune preuve archéologique ne soutient l'existence de casques à cornes vikings — cette image a surtout été popularisée par les costumes d'opéra du XIXe siècle, des siècles après la fin de l'ère viking." },
+      "nl": { "hook": "Vikingen droegen nooit hoorns op hun helm.", "fact": "Er is geen archeologisch bewijs voor Vikinghelmen met hoorns — het beeld werd vooral gepopulariseerd door 19e-eeuwse operakostuums, eeuwen na het einde van het Vikingtijdperk." },
+      "es": { "hook": "Los vikingos nunca llevaron cascos con cuernos.", "fact": "No existe evidencia arqueológica que respalde los cascos vikingos con cuernos — esa imagen se popularizó sobre todo gracias al vestuario de ópera del siglo XIX, siglos después de que terminara la era vikinga." }
+    }
   },
   {
     "id": "history-007",
     "domain": "history",
     "hook": "A woman ruled Egypt as pharaoh for over 20 years.",
     "fact": "Hatshepsut, who reigned around 1479–1458 BCE, was one of the most successful pharaohs in Egyptian history, overseeing major building projects and trade expeditions while sometimes depicted with a false pharaonic beard.",
-    "tags": ["ancient-egypt", "leaders"]
+    "tags": ["ancient-egypt", "leaders"],
+    "translations": {
+      "fr": { "hook": "Une femme a régné sur l'Égypte en tant que pharaon pendant plus de 20 ans.", "fact": "Hatchepsout, qui régna vers 1479-1458 av. J.-C., fut l'un des pharaons les plus accomplis de l'histoire égyptienne, supervisant d'importants projets de construction et expéditions commerciales, parfois représentée avec une fausse barbe pharaonique." },
+      "nl": { "hook": "Een vrouw regeerde meer dan 20 jaar als farao over Egypte.", "fact": "Hatsjepsoet, die rond 1479-1458 v.Chr. regeerde, was een van de succesvolste farao's uit de Egyptische geschiedenis en gaf leiding aan grote bouwprojecten en handelsexpedities, soms afgebeeld met een valse farao-baard." },
+      "es": { "hook": "Una mujer gobernó Egipto como faraón durante más de 20 años.", "fact": "Hatshepsut, que reinó hacia el 1479-1458 a.C., fue una de las faraonas más exitosas de la historia egipcia, al frente de grandes proyectos de construcción y expediciones comerciales, y en ocasiones se la representaba con una barba postiza faraónica." }
+    }
   },
   {
     "id": "history-008",
     "domain": "history",
     "hook": "The Roman Empire's currency was debased into worthlessness.",
     "fact": "Roman emperors repeatedly reduced the silver content of coins to fund wars and spending, causing severe inflation that contributed to the empire's economic instability.",
-    "tags": ["rome", "economics"]
+    "tags": ["rome", "economics"],
+    "translations": {
+      "fr": { "hook": "La monnaie romaine a été dévaluée jusqu'à ne plus rien valoir.", "fact": "Les empereurs romains ont réduit à plusieurs reprises la teneur en argent des pièces pour financer guerres et dépenses, provoquant une inflation sévère qui a contribué à l'instabilité économique de l'empire." },
+      "nl": { "hook": "De Romeinse munt werd ontwaard tot ze niets meer waard was.", "fact": "Romeinse keizers verlaagden herhaaldelijk het zilvergehalte van munten om oorlogen en uitgaven te financieren, wat tot ernstige inflatie leidde en bijdroeg aan de economische instabiliteit van het rijk." },
+      "es": { "hook": "La moneda del Imperio romano se devaluó hasta no valer casi nada.", "fact": "Los emperadores romanos redujeron repetidamente el contenido de plata de las monedas para financiar guerras y gastos, lo que provocó una inflación severa que contribuyó a la inestabilidad económica del imperio." }
+    }
   },
   {
     "id": "history-009",
     "domain": "history",
     "hook": "The guillotine was used in France until 1977.",
     "fact": "France's last execution by guillotine took place in September 1977 — the same year Star Wars was released in theaters.",
-    "tags": ["france", "law"]
+    "tags": ["france", "law"],
+    "translations": {
+      "fr": { "hook": "La guillotine a été utilisée en France jusqu'en 1977.", "fact": "La dernière exécution par guillotine en France a eu lieu en septembre 1977 — la même année que la sortie de Star Wars au cinéma." },
+      "nl": { "hook": "De guillotine werd in Frankrijk gebruikt tot 1977.", "fact": "De laatste terechtstelling met de guillotine in Frankrijk vond plaats in september 1977 — hetzelfde jaar waarin Star Wars in de bioscoop uitkwam." },
+      "es": { "hook": "La guillotina se usó en Francia hasta 1977.", "fact": "La última ejecución con guillotina en Francia tuvo lugar en septiembre de 1977, el mismo año en que se estrenó Star Wars en los cines." }
+    }
   },
   {
     "id": "history-010",
     "domain": "history",
     "hook": "The first known census dates back over 5,000 years.",
     "fact": "Ancient Babylonian records show population and resource counts dating to around 3800 BCE, making census-taking one of humanity's oldest administrative practices.",
-    "tags": ["ancient-history", "governance"]
+    "tags": ["ancient-history", "governance"],
+    "translations": {
+      "fr": { "hook": "Le premier recensement connu remonte à plus de 5000 ans.", "fact": "Des archives babyloniennes anciennes montrent des comptages de population et de ressources datant d'environ 3800 av. J.-C., faisant du recensement l'une des plus anciennes pratiques administratives de l'humanité." },
+      "nl": { "hook": "De eerste bekende volkstelling dateert van meer dan 5000 jaar geleden.", "fact": "Oude Babylonische bronnen tonen tellingen van bevolking en hulpbronnen die teruggaan tot ongeveer 3800 v.Chr., waardoor volkstellingen een van de oudste bestuurlijke praktijken van de mensheid zijn." },
+      "es": { "hook": "El primer censo conocido se remonta a hace más de 5000 años.", "fact": "Antiguos registros babilónicos muestran recuentos de población y recursos que datan de alrededor del 3800 a.C., lo que convierte al censo en una de las prácticas administrativas más antiguas de la humanidad." }
+    }
   },
   {
     "id": "history-011",
     "domain": "history",
     "hook": "World War I ended with soldiers who didn't know yet.",
     "fact": "News of the November 1918 armistice traveled slowly to some remote fronts, and isolated skirmishes reportedly continued for hours after the official ceasefire began.",
-    "tags": ["war", "20th-century"]
+    "tags": ["war", "20th-century"],
+    "translations": {
+      "fr": { "hook": "La Première Guerre mondiale s'est achevée avec des soldats qui l'ignoraient encore.", "fact": "La nouvelle de l'armistice de novembre 1918 a mis du temps à atteindre certains fronts isolés, et des escarmouches auraient continué pendant des heures après le début officiel du cessez-le-feu." },
+      "nl": { "hook": "De Eerste Wereldoorlog eindigde met soldaten die het nog niet wisten.", "fact": "Het nieuws over de wapenstilstand van november 1918 bereikte sommige afgelegen fronten traag, en op enkele plaatsen gingen kleine schermutselingen naar verluidt nog uren door na de officiële start van het staakt-het-vuren." },
+      "es": { "hook": "La Primera Guerra Mundial terminó con soldados que aún no lo sabían.", "fact": "La noticia del armisticio de noviembre de 1918 tardó en llegar a algunos frentes remotos, y al parecer hubo escaramuzas aisladas que continuaron durante horas después de que comenzara oficialmente el alto el fuego." }
+    }
   },
   {
     "id": "history-012",
     "domain": "history",
     "hook": "Ancient Rome had a version of fast food.",
     "fact": "Archaeologists have uncovered thermopolia — counter-service shops in Pompeii and elsewhere — where Romans bought hot ready-to-eat food, much like a modern takeout counter.",
-    "tags": ["rome", "daily-life"]
+    "tags": ["rome", "daily-life"],
+    "translations": {
+      "fr": { "hook": "La Rome antique avait déjà sa version du fast-food.", "fact": "Les archéologues ont mis au jour des thermopolia — des comptoirs de vente à Pompéi et ailleurs — où les Romains achetaient des plats chauds prêts à consommer, un peu comme un comptoir à emporter moderne." },
+      "nl": { "hook": "Het oude Rome had al een soort fastfood.", "fact": "Archeologen hebben thermopolia opgegraven — toonbankwinkels in Pompeï en elders — waar Romeinen warme, kant-en-klare maaltijden kochten, vergelijkbaar met een moderne afhaalbalie." },
+      "es": { "hook": "La antigua Roma ya tenía su propia versión de la comida rápida.", "fact": "Los arqueólogos han descubierto termopolios — mostradores de venta en Pompeya y otros lugares — donde los romanos compraban comida caliente lista para comer, de forma muy parecida a un mostrador de comida para llevar actual." }
+    }
   },
   {
     "id": "history-013",
     "domain": "history",
     "hook": "The printing press transformed Europe within decades.",
     "fact": "After Johannes Gutenberg introduced movable-type printing around 1440, the number of books in Europe exploded from a few thousand hand-copied manuscripts to millions of printed copies within just 50 years.",
-    "tags": ["invention", "europe"]
+    "tags": ["invention", "europe"],
+    "translations": {
+      "fr": { "hook": "L'imprimerie a transformé l'Europe en quelques décennies.", "fact": "Après l'introduction de l'imprimerie à caractères mobiles par Johannes Gutenberg vers 1440, le nombre de livres en Europe est passé de quelques milliers de manuscrits copiés à la main à des millions d'exemplaires imprimés en à peine 50 ans." },
+      "nl": { "hook": "De boekdrukkunst veranderde Europa binnen enkele decennia.", "fact": "Nadat Johannes Gutenberg rond 1440 het drukken met losse letters introduceerde, steeg het aantal boeken in Europa van enkele duizenden met de hand gekopieerde manuscripten tot miljoenen gedrukte exemplaren binnen slechts 50 jaar." },
+      "es": { "hook": "La imprenta transformó Europa en cuestión de décadas.", "fact": "Tras la introducción de la imprenta de tipos móviles por Johannes Gutenberg hacia 1440, el número de libros en Europa pasó de unos pocos miles de manuscritos copiados a mano a millones de ejemplares impresos en apenas 50 años." }
+    }
   },
   {
     "id": "history-014",
     "domain": "history",
     "hook": "Ancient Sparta left almost no written history of its own.",
     "fact": "Much of what we know about Sparta comes from outside writers like Athenian historians, since Spartan culture prioritized military discipline over literature and record-keeping.",
-    "tags": ["greece", "ancient-history"]
+    "tags": ["greece", "ancient-history"],
+    "translations": {
+      "fr": { "hook": "Sparte n'a laissé presque aucune trace écrite de sa propre histoire.", "fact": "L'essentiel de ce que l'on sait de Sparte provient d'auteurs extérieurs, comme les historiens athéniens, car la culture spartiate privilégiait la discipline militaire à la littérature et aux archives." },
+      "nl": { "hook": "Het oude Sparta liet zelf nauwelijks geschreven geschiedenis na.", "fact": "Het meeste dat we over Sparta weten, komt van buitenstaanders zoals Atheense historici, omdat de Spartaanse cultuur militaire discipline belangrijker vond dan literatuur en archivering." },
+      "es": { "hook": "La antigua Esparta apenas dejó constancia escrita de su propia historia.", "fact": "Gran parte de lo que sabemos sobre Esparta proviene de autores externos, como historiadores atenienses, ya que la cultura espartana priorizaba la disciplina militar por encima de la literatura y los registros escritos." }
+    }
   },
   {
     "id": "history-015",
     "domain": "history",
     "hook": "The Berlin Wall fell almost by accident.",
     "fact": "In 1989, an East German official misspoke at a press conference, implying travel restrictions were lifted immediately rather than the next day — crowds rushed the checkpoints that same night, and the wall effectively fell.",
-    "tags": ["germany", "20th-century"]
+    "tags": ["germany", "20th-century"],
+    "translations": {
+      "fr": { "hook": "Le mur de Berlin est tombé presque par accident.", "fact": "En 1989, un responsable est-allemand s'est trompé lors d'une conférence de presse, laissant entendre que les restrictions de voyage étaient levées immédiatement plutôt que le lendemain — la foule s'est précipitée aux points de contrôle dès le soir même, et le mur est tombé de fait." },
+      "nl": { "hook": "De Berlijnse Muur viel bijna per ongeluk.", "fact": "In 1989 versprak een Oost-Duitse functionaris zich tijdens een persconferentie en suggereerde dat reisbeperkingen onmiddellijk werden opgeheven in plaats van pas de volgende dag — nog diezelfde avond stormden mensenmassa's op de grensposten af, en zo viel de muur in feite." },
+      "es": { "hook": "El Muro de Berlín cayó casi por accidente.", "fact": "En 1989, un funcionario de Alemania del Este cometió un error en una rueda de prensa, dando a entender que las restricciones de viaje se levantaban de inmediato en lugar de al día siguiente — esa misma noche, la multitud se agolpó en los pasos fronterizos y el muro cayó de facto." }
+    }
   },
   {
     "id": "history-016",
     "domain": "history",
     "hook": "The Statue of Liberty wasn't always green.",
     "fact": "The statue's copper skin was originally a shiny brownish-orange, like a new penny. Over decades of exposure to the air, it oxidized into the green patina we see today.",
-    "tags": ["america", "monuments"]
+    "tags": ["america", "monuments"],
+    "translations": {
+      "fr": { "hook": "La Statue de la Liberté n'a pas toujours été verte.", "fact": "La peau de cuivre de la statue était à l'origine d'un brun-orangé brillant, comme une pièce neuve. Au fil des décennies d'exposition à l'air, elle s'est oxydée pour former la patine verte que l'on connaît aujourd'hui." },
+      "nl": { "hook": "Het Vrijheidsbeeld was niet altijd groen.", "fact": "De koperen huid van het beeld was oorspronkelijk glanzend bruinoranje, zoals een nieuwe cent. Door decennia van blootstelling aan de lucht oxideerde het koper tot het groene patina dat we vandaag kennen." },
+      "es": { "hook": "La Estatua de la Libertad no siempre fue verde.", "fact": "La piel de cobre de la estatua era originalmente de un tono marrón anaranjado brillante, como una moneda nueva. Tras décadas expuesta al aire, se oxidó hasta formar la pátina verde que vemos hoy." }
+    }
   },
   {
     "id": "history-017",
     "domain": "history",
     "hook": "Egyptian embalmers removed the brain through the nose.",
     "fact": "During mummification, embalmers pulled the brain out through the nostrils and discarded it, since ancient Egyptians believed the heart, not the brain, was the seat of intelligence and the soul.",
-    "tags": ["ancient-egypt", "daily-life"]
+    "tags": ["ancient-egypt", "daily-life"],
+    "translations": {
+      "fr": { "hook": "Les embaumeurs égyptiens retiraient le cerveau par le nez.", "fact": "Pendant la momification, les embaumeurs extrayaient le cerveau par les narines et le jetaient, car les anciens Égyptiens croyaient que le cœur, et non le cerveau, était le siège de l'intelligence et de l'âme." },
+      "nl": { "hook": "Egyptische balsemers verwijderden de hersenen via de neus.", "fact": "Tijdens de mummificatie haalden balsemers de hersenen via de neusgaten naar buiten en gooiden ze weg, omdat de oude Egyptenaren geloofden dat niet de hersenen maar het hart de zetel van intelligentie en de ziel was." },
+      "es": { "hook": "Los embalsamadores egipcios extraían el cerebro por la nariz.", "fact": "Durante la momificación, los embalsamadores retiraban el cerebro a través de las fosas nasales y lo desechaban, ya que los antiguos egipcios creían que el corazón, no el cerebro, era la sede de la inteligencia y del alma." }
+    }
   },
   {
     "id": "history-018",
     "domain": "history",
     "hook": "The Library of Alexandria wasn't destroyed in one dramatic fire.",
     "fact": "Rather than a single catastrophic blaze, the famous library's decline happened gradually over centuries, through multiple smaller fires, funding cuts, and neglect.",
-    "tags": ["ancient-history", "myths"]
+    "tags": ["ancient-history", "myths"],
+    "translations": {
+      "fr": { "hook": "La bibliothèque d'Alexandrie n'a pas été détruite par un seul grand incendie.", "fact": "Plutôt qu'un unique brasier catastrophique, le déclin de la célèbre bibliothèque s'est produit progressivement sur des siècles, à travers plusieurs incendies mineurs, des coupes budgétaires et la négligence." },
+      "nl": { "hook": "De bibliotheek van Alexandrië ging niet ten onder in één dramatische brand.", "fact": "In plaats van één catastrofale brand voltrok de neergang van de beroemde bibliotheek zich geleidelijk over eeuwen, door meerdere kleinere branden, bezuinigingen en verwaarlozing." },
+      "es": { "hook": "La Biblioteca de Alejandría no fue destruida por un único incendio dramático.", "fact": "En lugar de un incendio catastrófico único, el declive de la famosa biblioteca ocurrió gradualmente a lo largo de siglos, mediante varios incendios menores, recortes de financiación y negligencia." }
+    }
   },
   {
     "id": "history-019",
     "domain": "history",
     "hook": "The Colosseum could be flooded for mock naval battles.",
     "fact": "In its early years, Rome's Colosseum was reportedly capable of being flooded to stage naumachiae — recreated naval battles — for public entertainment.",
-    "tags": ["rome", "entertainment"]
+    "tags": ["rome", "entertainment"],
+    "translations": {
+      "fr": { "hook": "Le Colisée pouvait être inondé pour des batailles navales simulées.", "fact": "Dans ses premières années, le Colisée de Rome aurait pu être inondé pour organiser des naumachies — des batailles navales reconstituées — destinées au divertissement du public." },
+      "nl": { "hook": "Het Colosseum kon onder water gezet worden voor nagebootste zeeslagen.", "fact": "In zijn beginjaren kon het Colosseum in Rome naar verluidt onder water worden gezet om naumachiae te ensceneren — nagebootste zeeslagen — als publieksvermaak." },
+      "es": { "hook": "El Coliseo podía inundarse para representar batallas navales simuladas.", "fact": "En sus primeros años, el Coliseo de Roma podía, según los relatos, inundarse para escenificar naumaquias — recreaciones de batallas navales — como espectáculo público." }
+    }
   },
   {
     "id": "history-020",
     "domain": "history",
     "hook": "The Hundred Years' War actually lasted 116 years.",
     "fact": "Fought between England and France on and off from 1337 to 1453, the conflict's traditional name undersells its real length by more than a decade.",
-    "tags": ["war", "europe"]
+    "tags": ["war", "europe"],
+    "translations": {
+      "fr": { "hook": "La guerre de Cent Ans a en réalité duré 116 ans.", "fact": "Menée entre l'Angleterre et la France par intermittence de 1337 à 1453, ce conflit dure en réalité plus d'une décennie de plus que son nom traditionnel ne le laisse penser." },
+      "nl": { "hook": "De Honderdjarige Oorlog duurde in werkelijkheid 116 jaar.", "fact": "Dit conflict tussen Engeland en Frankrijk, met tussenpozen uitgevochten van 1337 tot 1453, duurde in werkelijkheid meer dan een decennium langer dan de traditionele naam doet vermoeden." },
+      "es": { "hook": "La Guerra de los Cien Años duró en realidad 116 años.", "fact": "Este conflicto entre Inglaterra y Francia, librado de forma intermitente entre 1337 y 1453, duró en realidad más de una década más de lo que su nombre tradicional sugiere." }
+    }
   },
   {
     "id": "history-021",
     "domain": "history",
     "hook": "Genghis Khan's empire was bigger than Alexander the Great's and Rome's combined.",
     "fact": "At its height, the Mongol Empire founded by Genghis Khan covered more territory than the empires of Alexander the Great and ancient Rome added together.",
-    "tags": ["mongolia", "empires"]
+    "tags": ["mongolia", "empires"],
+    "translations": {
+      "fr": { "hook": "L'empire de Gengis Khan était plus vaste que ceux d'Alexandre le Grand et de Rome réunis.", "fact": "À son apogée, l'Empire mongol fondé par Gengis Khan couvrait un territoire plus vaste que les empires d'Alexandre le Grand et de la Rome antique réunis." },
+      "nl": { "hook": "Het rijk van Genghis Khan was groter dan dat van Alexander de Grote en Rome samen.", "fact": "Op zijn hoogtepunt besloeg het Mongoolse Rijk van Genghis Khan een groter gebied dan de rijken van Alexander de Grote en het oude Rome samen." },
+      "es": { "hook": "El imperio de Gengis Kan fue más grande que los de Alejandro Magno y Roma juntos.", "fact": "En su apogeo, el Imperio mongol fundado por Gengis Kan abarcaba más territorio que los imperios de Alejandro Magno y la antigua Roma sumados." }
+    }
   },
   {
     "id": "history-022",
     "domain": "history",
     "hook": "The guillotine was invented to make execution more humane.",
     "fact": "Proposed during the French Revolution, the guillotine was designed to kill instantly and painlessly, seen at the time as a more merciful alternative to the slower methods it replaced.",
-    "tags": ["france", "law"]
+    "tags": ["france", "law"],
+    "translations": {
+      "fr": { "hook": "La guillotine a été inventée pour rendre l'exécution plus humaine.", "fact": "Proposée pendant la Révolution française, la guillotine a été conçue pour tuer instantanément et sans douleur, considérée à l'époque comme une alternative plus miséricordieuse aux méthodes plus lentes qu'elle remplaçait." },
+      "nl": { "hook": "De guillotine werd uitgevonden om terechtstellingen menselijker te maken.", "fact": "Voorgesteld tijdens de Franse Revolutie, was de guillotine ontworpen om ogenblikkelijk en pijnloos te doden, en werd destijds gezien als een barmhartiger alternatief voor de tragere methodes die ze verving." },
+      "es": { "hook": "La guillotina se inventó para hacer la ejecución más humana.", "fact": "Propuesta durante la Revolución francesa, la guillotina fue diseñada para matar de forma instantánea e indolora, y en su época se consideraba una alternativa más piadosa frente a los métodos más lentos que sustituía." }
+    }
   },
   {
     "id": "history-023",
     "domain": "history",
     "hook": "Ancient Romans used urine to whiten their teeth.",
     "fact": "Because of its ammonia content, urine was used by Romans as a cleaning agent — including, according to historical accounts, as an ingredient in some teeth-whitening formulas.",
-    "tags": ["rome", "daily-life"]
+    "tags": ["rome", "daily-life"],
+    "translations": {
+      "fr": { "hook": "Les Romains utilisaient de l'urine pour blanchir leurs dents.", "fact": "En raison de sa teneur en ammoniaque, l'urine était utilisée par les Romains comme agent nettoyant — y compris, selon des sources historiques, comme ingrédient de certaines formules de blanchiment dentaire." },
+      "nl": { "hook": "De oude Romeinen gebruikten urine om hun tanden te bleken.", "fact": "Vanwege het ammoniakgehalte gebruikten Romeinen urine als reinigingsmiddel — volgens historische bronnen zelfs als ingrediënt in sommige tandenbleekmiddelen." },
+      "es": { "hook": "Los antiguos romanos usaban orina para blanquear sus dientes.", "fact": "Debido a su contenido de amoníaco, los romanos utilizaban la orina como agente de limpieza, incluso, según relatos históricos, como ingrediente en algunas fórmulas para blanquear los dientes." }
+    }
   },
   {
     "id": "history-024",
     "domain": "history",
     "hook": "One French king reigned for only about 20 minutes.",
     "fact": "Louis XIX became King of France in 1830 but abdicated roughly 20 minutes later, making his reign one of the shortest of any monarch in recorded history.",
-    "tags": ["france", "leaders"]
+    "tags": ["france", "leaders"],
+    "translations": {
+      "fr": { "hook": "Un roi de France n'a régné que pendant environ 20 minutes.", "fact": "Louis XIX devint roi de France en 1830 mais abdiqua environ 20 minutes plus tard, faisant de son règne l'un des plus courts de l'histoire des monarques." },
+      "nl": { "hook": "Een Franse koning regeerde slechts zo'n 20 minuten.", "fact": "Lodewijk XIX werd in 1830 koning van Frankrijk, maar deed ongeveer 20 minuten later al troonsafstand, wat zijn regering een van de kortste van elke vorst in de geschreven geschiedenis maakt." },
+      "es": { "hook": "Un rey francés reinó durante apenas unos 20 minutos.", "fact": "Luis XIX se convirtió en rey de Francia en 1830, pero abdicó unos 20 minutos después, lo que convierte su reinado en uno de los más cortos de cualquier monarca en la historia registrada." }
+    }
   },
   {
     "id": "history-025",
     "domain": "history",
     "hook": "The Titanic's wreck wasn't found for over 70 years.",
     "fact": "The Titanic sank in 1912, but its wreckage on the ocean floor wasn't located until 1985, when oceanographer Robert Ballard's team finally found it.",
-    "tags": ["20th-century", "exploration"]
+    "tags": ["20th-century", "exploration"],
+    "translations": {
+      "fr": { "hook": "L'épave du Titanic n'a été retrouvée que plus de 70 ans après.", "fact": "Le Titanic a coulé en 1912, mais son épave, au fond de l'océan, n'a été localisée qu'en 1985, lorsque l'équipe de l'océanographe Robert Ballard l'a enfin découverte." },
+      "nl": { "hook": "Het wrak van de Titanic werd pas meer dan 70 jaar later gevonden.", "fact": "De Titanic zonk in 1912, maar het wrak op de oceaanbodem werd pas in 1985 gelokaliseerd, toen het team van oceanograaf Robert Ballard het eindelijk vond." },
+      "es": { "hook": "Los restos del Titanic no se encontraron hasta más de 70 años después.", "fact": "El Titanic se hundió en 1912, pero sus restos en el fondo del océano no se localizaron hasta 1985, cuando el equipo del oceanógrafo Robert Ballard finalmente los encontró." }
+    }
   },
   {
     "id": "history-026",
     "domain": "history",
     "hook": "Paul Revere never finished his famous ride.",
     "fact": "Revere was one of several riders warning colonists of British troop movements in 1775, and was actually captured by British soldiers before he could complete the full route to Concord.",
-    "tags": ["america", "war"]
+    "tags": ["america", "war"],
+    "translations": {
+      "fr": { "hook": "Paul Revere n'a jamais terminé sa fameuse chevauchée.", "fact": "Revere était l'un des nombreux cavaliers avertissant les colons des mouvements de troupes britanniques en 1775, et il fut en réalité capturé par des soldats britanniques avant d'avoir pu achever tout le trajet jusqu'à Concord." },
+      "nl": { "hook": "Paul Revere heeft zijn beroemde rit nooit afgemaakt.", "fact": "Revere was een van de meerdere ruiters die kolonisten in 1775 waarschuwden voor Britse troepenbewegingen, en werd zelf gevangengenomen door Britse soldaten voordat hij de volledige route naar Concord kon afleggen." },
+      "es": { "hook": "Paul Revere nunca terminó su famosa cabalgata.", "fact": "Revere fue uno de varios jinetes que avisaron a los colonos de los movimientos de tropas británicas en 1775, y fue capturado por soldados británicos antes de poder completar la ruta hasta Concord." }
+    }
   },
   {
     "id": "history-027",
     "domain": "history",
     "hook": "The Wright brothers' first flight was shorter than a jumbo jet's wingspan.",
     "fact": "The Wright brothers' historic 1903 flight covered just 120 feet — less than the wingspan of a modern Boeing 747.",
-    "tags": ["invention", "america"]
+    "tags": ["invention", "america"],
+    "translations": {
+      "fr": { "hook": "Le premier vol des frères Wright était plus court que l'envergure d'un jumbo jet.", "fact": "Le vol historique des frères Wright en 1903 n'a parcouru que 36 mètres — moins que l'envergure d'un Boeing 747 moderne." },
+      "nl": { "hook": "De eerste vlucht van de gebroeders Wright was korter dan de spanwijdte van een jumbojet.", "fact": "De historische vlucht van de gebroeders Wright in 1903 legde slechts zo'n 36 meter af — minder dan de spanwijdte van een moderne Boeing 747." },
+      "es": { "hook": "El primer vuelo de los hermanos Wright fue más corto que la envergadura de un jumbo.", "fact": "El histórico vuelo de los hermanos Wright en 1903 recorrió apenas 36 metros, menos que la envergadura de un Boeing 747 moderno." }
+    }
   },
   {
     "id": "history-028",
     "domain": "history",
     "hook": "China gave the world paper, gunpowder, the compass, and printing.",
     "fact": "These four innovations, often called China's 'Four Great Inventions,' reshaped communication, navigation, and warfare across the ancient and medieval world.",
-    "tags": ["china", "invention"]
+    "tags": ["china", "invention"],
+    "translations": {
+      "fr": { "hook": "La Chine a offert au monde le papier, la poudre à canon, la boussole et l'imprimerie.", "fact": "Ces quatre innovations, souvent appelées les « quatre grandes inventions » de la Chine, ont transformé la communication, la navigation et la guerre dans le monde antique et médiéval." },
+      "nl": { "hook": "China gaf de wereld papier, buskruit, het kompas en het drukken.", "fact": "Deze vier innovaties, vaak de 'vier grote uitvindingen' van China genoemd, veranderden communicatie, navigatie en oorlogsvoering in de oude en middeleeuwse wereld." },
+      "es": { "hook": "China le dio al mundo el papel, la pólvora, la brújula y la imprenta.", "fact": "Estas cuatro innovaciones, conocidas a menudo como los 'cuatro grandes inventos' de China, transformaron la comunicación, la navegación y la guerra en el mundo antiguo y medieval." }
+    }
   },
   {
     "id": "history-029",
     "domain": "history",
     "hook": "Pilots kept West Berlin fed and fueled entirely by air for nearly a year.",
     "fact": "After Soviet forces blocked land access to West Berlin in 1948, Allied pilots flew in food, coal, and supplies around the clock for almost a year in what became known as the Berlin Airlift.",
-    "tags": ["germany", "20th-century"]
+    "tags": ["germany", "20th-century"],
+    "translations": {
+      "fr": { "hook": "Des pilotes ont ravitaillé Berlin-Ouest en nourriture et en carburant par les airs pendant près d'un an.", "fact": "Après que les forces soviétiques eurent bloqué l'accès terrestre à Berlin-Ouest en 1948, des pilotes alliés ont acheminé nourriture, charbon et fournitures jour et nuit pendant près d'un an, dans ce qui est devenu le pont aérien de Berlin." },
+      "nl": { "hook": "Piloten hielden West-Berlijn bijna een jaar lang volledig via de lucht van eten en brandstof voorzien.", "fact": "Nadat Sovjettroepen in 1948 de landtoegang tot West-Berlijn blokkeerden, vlogen geallieerde piloten dag en nacht bijna een jaar lang voedsel, kolen en voorraden in, in wat bekend werd als de Berlijnse Luchtbrug." },
+      "es": { "hook": "Los pilotos abastecieron a Berlín Occidental de comida y combustible enteramente por aire durante casi un año.", "fact": "Después de que las fuerzas soviéticas bloquearan el acceso terrestre a Berlín Occidental en 1948, los pilotos aliados transportaron comida, carbón y suministros día y noche durante casi un año, en lo que se conoció como el Puente Aéreo de Berlín." }
+    }
   },
   {
     "id": "history-030",
     "domain": "history",
     "hook": "Cleopatra wasn't ethnically Egyptian.",
     "fact": "Cleopatra descended from the Ptolemaic dynasty, a Greek Macedonian family that ruled Egypt after Alexander the Great's conquest — making her Greek by ancestry despite ruling Egypt.",
-    "tags": ["ancient-egypt", "leaders"]
+    "tags": ["ancient-egypt", "leaders"],
+    "translations": {
+      "fr": { "hook": "Cléopâtre n'était pas d'origine égyptienne.", "fact": "Cléopâtre descendait de la dynastie ptolémaïque, une famille gréco-macédonienne qui régna sur l'Égypte après la conquête d'Alexandre le Grand — la rendant grecque par ascendance malgré son règne sur l'Égypte." },
+      "nl": { "hook": "Cleopatra was etnisch gezien geen Egyptische.", "fact": "Cleopatra stamde af van de Ptolemaeïsche dynastie, een Grieks-Macedonische familie die na de verovering door Alexander de Grote over Egypte regeerde — waardoor ze afstammingsgewijs Grieks was, ondanks dat ze over Egypte heerste." },
+      "es": { "hook": "Cleopatra no era étnicamente egipcia.", "fact": "Cleopatra descendía de la dinastía ptolemaica, una familia grecomacedonia que gobernó Egipto tras la conquista de Alejandro Magno, lo que la convertía en griega de ascendencia pese a reinar sobre Egipto." }
+    }
   },
   {
     "id": "history-031",
     "domain": "history",
     "hook": "The first recorded labor strike happened in ancient Egypt.",
     "fact": "Around 1157 BCE, royal tomb workers in Egypt stopped working over unpaid wages — an event documented on papyrus and considered the earliest known labor strike in history.",
-    "tags": ["ancient-egypt", "labor"]
+    "tags": ["ancient-egypt", "labor"],
+    "translations": {
+      "fr": { "hook": "La première grève ouvrière enregistrée a eu lieu dans l'Égypte antique.", "fact": "Vers 1157 av. J.-C., des ouvriers des tombes royales égyptiennes ont cessé le travail à cause de salaires impayés — un événement consigné sur papyrus et considéré comme la plus ancienne grève ouvrière connue de l'histoire." },
+      "nl": { "hook": "De eerste geregistreerde arbeidersstaking vond plaats in het oude Egypte.", "fact": "Rond 1157 v.Chr. legden arbeiders aan koninklijke graftombes in Egypte het werk neer wegens onbetaalde lonen — een gebeurtenis vastgelegd op papyrus en beschouwd als de vroegst bekende arbeidersstaking in de geschiedenis." },
+      "es": { "hook": "La primera huelga laboral registrada ocurrió en el antiguo Egipto.", "fact": "Hacia el 1157 a.C., los trabajadores de las tumbas reales egipcias dejaron de trabajar por salarios impagados — un suceso documentado en papiro y considerado la huelga laboral más antigua conocida de la historia." }
+    }
   },
   {
     "id": "history-032",
     "domain": "history",
     "hook": "Medieval knights' armor wasn't as heavy or clumsy as movies suggest.",
     "fact": "A full suit of plate armor was carefully balanced and distributed across the body, letting knights run, climb, and mount a horse unassisted — nothing like the immobilizing weight often shown on screen.",
-    "tags": ["europe", "myths"]
+    "tags": ["europe", "myths"],
+    "translations": {
+      "fr": { "hook": "L'armure des chevaliers médiévaux n'était pas aussi lourde ni encombrante que le montrent les films.", "fact": "Une armure de plates complète était soigneusement équilibrée et répartie sur tout le corps, permettant aux chevaliers de courir, grimper et monter à cheval sans aide — rien à voir avec le poids immobilisant souvent montré à l'écran." },
+      "nl": { "hook": "De harnassen van middeleeuwse ridders waren niet zo zwaar en onhandig als in films.", "fact": "Een volledige harnas was zorgvuldig in balans gebracht en over het hele lichaam verdeeld, waardoor ridders zelfstandig konden rennen, klimmen en te paard stijgen — niets zoals het verlammende gewicht dat vaak op het scherm te zien is." },
+      "es": { "hook": "La armadura de los caballeros medievales no era tan pesada ni torpe como muestran las películas.", "fact": "Una armadura de placas completa estaba cuidadosamente equilibrada y distribuida por todo el cuerpo, lo que permitía a los caballeros correr, trepar y montar a caballo sin ayuda, nada que ver con el peso inmovilizador que a menudo se muestra en pantalla." }
+    }
   }
 ]

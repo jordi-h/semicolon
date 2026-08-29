@@ -4,77 +4,231 @@
     "domain": "culture",
     "hook": "The 'OK' hand gesture isn't universally positive.",
     "fact": "While it signals approval in much of the English-speaking world, the same gesture is considered offensive or vulgar in parts of Brazil, Germany, and the Middle East.",
-    "tags": ["gestures", "customs"]
+    "tags": ["gestures", "customs"],
+    "translations": {
+      "fr": {
+        "hook": "Le geste « OK » n'est pas positif partout.",
+        "fact": "S'il signifie l'approbation dans une grande partie du monde anglophone, ce même geste est considéré comme offensant ou vulgaire dans certaines régions du Brésil, d'Allemagne et du Moyen-Orient."
+      },
+      "nl": {
+        "hook": "Het 'OK'-gebaar wordt niet overal positief opgevat.",
+        "fact": "Terwijl het in grote delen van de Engelstalige wereld goedkeuring uitdrukt, wordt datzelfde gebaar in delen van Brazilië, Duitsland en het Midden-Oosten als beledigend of vulgair beschouwd."
+      },
+      "es": {
+        "hook": "El gesto de 'OK' no es positivo en todas partes.",
+        "fact": "Aunque en gran parte del mundo anglosajón indica aprobación, ese mismo gesto se considera ofensivo o vulgar en algunas zonas de Brasil, Alemania y Oriente Medio."
+      }
+    }
   },
   {
     "id": "culture-002",
     "domain": "culture",
     "hook": "Chess originated in India, not Europe.",
     "fact": "Chess evolved from a game called chaturanga in India around the 6th century CE, later spreading through Persia and the Islamic world before reaching Europe.",
-    "tags": ["games", "history-of-culture"]
+    "tags": ["games", "history-of-culture"],
+    "translations": {
+      "fr": {
+        "hook": "Les échecs sont nés en Inde, pas en Europe.",
+        "fact": "Le jeu d'échecs a évolué à partir d'un jeu appelé chaturanga, apparu en Inde vers le 6e siècle après J.-C., avant de se répandre en Perse puis dans le monde islamique et d'atteindre finalement l'Europe."
+      },
+      "nl": {
+        "hook": "Schaken is ontstaan in India, niet in Europa.",
+        "fact": "Schaken is ontstaan uit een spel genaamd chaturanga in India rond de 6e eeuw na Christus, en verspreidde zich later via Perzië en de islamitische wereld voordat het Europa bereikte."
+      },
+      "es": {
+        "hook": "El ajedrez nació en la India, no en Europa.",
+        "fact": "El ajedrez evolucionó a partir de un juego llamado chaturanga, originado en la India hacia el siglo VI d.C., que después se extendió por Persia y el mundo islámico antes de llegar a Europa."
+      }
+    }
   },
   {
     "id": "culture-003",
     "domain": "culture",
     "hook": "Tipping isn't a global custom.",
     "fact": "In Japan and South Korea, tipping can actually be seen as confusing or even rude, since excellent service is considered a standard part of the job rather than something to reward extra.",
-    "tags": ["customs", "food"]
+    "tags": ["customs", "food"],
+    "translations": {
+      "fr": {
+        "hook": "Le pourboire n'est pas une coutume universelle.",
+        "fact": "Au Japon et en Corée du Sud, laisser un pourboire peut être perçu comme déroutant, voire impoli, car un service irréprochable est considéré comme faisant partie intégrante du travail plutôt que comme un geste à récompenser."
+      },
+      "nl": {
+        "hook": "Fooien geven is geen wereldwijde gewoonte.",
+        "fact": "In Japan en Zuid-Korea kan een fooi geven eigenlijk als verwarrend of zelfs onbeleefd overkomen, omdat uitstekende service als een normaal onderdeel van het werk wordt gezien en niet als iets dat extra beloond moet worden."
+      },
+      "es": {
+        "hook": "Dar propina no es una costumbre universal.",
+        "fact": "En Japón y Corea del Sur, dar propina puede resultar confuso o incluso parecer de mala educación, ya que se espera un servicio excelente como parte normal del trabajo, no como algo que haya que recompensar aparte."
+      }
+    }
   },
   {
     "id": "culture-004",
     "domain": "culture",
     "hook": "The world's most spoken native language isn't English.",
     "fact": "Mandarin Chinese has the most native speakers of any language in the world, followed by Spanish — English ranks third for native speakers, though it leads for total speakers including second-language learners.",
-    "tags": ["language"]
+    "tags": ["language"],
+    "translations": {
+      "fr": {
+        "hook": "La langue maternelle la plus parlée au monde n'est pas l'anglais.",
+        "fact": "Le mandarin est la langue comptant le plus de locuteurs natifs au monde, suivi de l'espagnol — l'anglais n'arrive qu'en troisième position pour les locuteurs natifs, même s'il reste en tête si l'on compte tous les locuteurs, y compris ceux qui l'ont appris comme seconde langue."
+      },
+      "nl": {
+        "hook": "De meest gesproken moedertaal ter wereld is geen Engels.",
+        "fact": "Mandarijn-Chinees heeft van alle talen ter wereld de meeste moedertaalsprekers, gevolgd door Spaans — Engels staat pas op de derde plaats qua moedertaalsprekers, al voert het wel de lijst aan als je alle sprekers meetelt, inclusief mensen die het als tweede taal leerden."
+      },
+      "es": {
+        "hook": "El idioma nativo más hablado del mundo no es el inglés.",
+        "fact": "El chino mandarín es la lengua con más hablantes nativos del mundo, seguida del español — el inglés ocupa el tercer puesto en hablantes nativos, aunque lidera si se cuentan todos los hablantes, incluidos quienes lo aprendieron como segunda lengua."
+      }
+    }
   },
   {
     "id": "culture-005",
     "domain": "culture",
     "hook": "Handshakes may have started as a trust gesture.",
     "fact": "One theory traces the handshake to ancient Greece, where extending an empty right hand showed you weren't concealing a weapon.",
-    "tags": ["gestures", "ancient-history"]
+    "tags": ["gestures", "ancient-history"],
+    "translations": {
+      "fr": {
+        "hook": "La poignée de main serait née d'un geste de confiance.",
+        "fact": "Selon une théorie, la poignée de main remonterait à la Grèce antique, où tendre une main droite vide prouvait qu'on ne dissimulait pas d'arme."
+      },
+      "nl": {
+        "hook": "De handdruk begon mogelijk als een vertrouwensgebaar.",
+        "fact": "Volgens één theorie gaat de handdruk terug tot het oude Griekenland, waar het uitsteken van een lege rechterhand liet zien dat je geen wapen verborg."
+      },
+      "es": {
+        "hook": "El apretón de manos pudo empezar como gesto de confianza.",
+        "fact": "Una teoría sitúa el origen del apretón de manos en la antigua Grecia, donde extender la mano derecha vacía demostraba que no se escondía un arma."
+      }
+    }
   },
   {
     "id": "culture-006",
     "domain": "culture",
     "hook": "There are more Lego figures than people on Earth.",
     "fact": "Lego produces so many minifigures each year that estimates suggest their total population has long since surpassed the human population of the planet.",
-    "tags": ["toys", "trivia"]
+    "tags": ["toys", "trivia"],
+    "translations": {
+      "fr": {
+        "hook": "Il y a plus de figurines Lego que d'humains sur Terre.",
+        "fact": "Lego fabrique chaque année tellement de minifigurines que, selon certaines estimations, leur nombre total dépasse depuis longtemps la population humaine mondiale."
+      },
+      "nl": {
+        "hook": "Er zijn meer Lego-poppetjes dan mensen op aarde.",
+        "fact": "Lego produceert elk jaar zoveel minifiguren dat schattingen erop wijzen dat hun totale aantal de wereldbevolking allang heeft overtroffen."
+      },
+      "es": {
+        "hook": "Hay más figuras de Lego que personas en la Tierra.",
+        "fact": "Lego fabrica tantas minifiguras cada año que, según algunas estimaciones, su número total superó hace tiempo a la población humana del planeta."
+      }
+    }
   },
   {
     "id": "culture-007",
     "domain": "culture",
     "hook": "Sushi wasn't originally eaten fresh.",
     "fact": "Early forms of sushi in Southeast Asia and Japan used fermented rice as a preservative to store fish for months — eating the rice alongside the fish came much later.",
-    "tags": ["food", "japan"]
+    "tags": ["food", "japan"],
+    "translations": {
+      "fr": {
+        "hook": "Le sushi n'était pas mangé frais à l'origine.",
+        "fact": "Les premières formes de sushi, en Asie du Sud-Est puis au Japon, utilisaient du riz fermenté comme conservateur pour stocker le poisson pendant des mois — manger le riz en même temps que le poisson n'est venu que bien plus tard."
+      },
+      "nl": {
+        "hook": "Sushi werd oorspronkelijk niet vers gegeten.",
+        "fact": "Vroege vormen van sushi in Zuidoost-Azië en Japan gebruikten gefermenteerde rijst als conserveringsmiddel om vis maandenlang te bewaren — het eten van de rijst samen met de vis kwam pas veel later."
+      },
+      "es": {
+        "hook": "El sushi no se comía fresco en sus orígenes.",
+        "fact": "Las primeras formas de sushi en el sudeste asiático y Japón usaban arroz fermentado como conservante para guardar el pescado durante meses — comer el arroz junto con el pescado llegó mucho más tarde."
+      }
+    }
   },
   {
     "id": "culture-008",
     "domain": "culture",
     "hook": "Some cultures count age differently.",
     "fact": "Traditional Korean age counting considered a baby one year old at birth, adding another year every New Year's Day rather than on the individual's birthday — South Korea officially switched to international age counting in 2023.",
-    "tags": ["customs", "korea"]
+    "tags": ["customs", "korea"],
+    "translations": {
+      "fr": {
+        "hook": "Certaines cultures ne calculent pas l'âge de la même façon.",
+        "fact": "Selon le calcul traditionnel coréen, un bébé avait déjà un an à sa naissance, et gagnait une année de plus à chaque jour de l'An plutôt qu'à son anniversaire — la Corée du Sud est officiellement passée au calcul international de l'âge en 2023."
+      },
+      "nl": {
+        "hook": "Niet elke cultuur telt leeftijd op dezelfde manier.",
+        "fact": "Volgens de traditionele Koreaanse leeftijdstelling was een baby bij de geboorte al één jaar oud, en kwam er elk Nieuwjaarsdag een jaar bij in plaats van op de verjaardag — Zuid-Korea stapte in 2023 officieel over op de internationale leeftijdstelling."
+      },
+      "es": {
+        "hook": "No todas las culturas cuentan la edad igual.",
+        "fact": "Según el cálculo tradicional coreano, un bebé ya tenía un año al nacer, y sumaba otro año cada Año Nuevo en lugar de en su cumpleaños — Corea del Sur adoptó oficialmente el cálculo internacional de la edad en 2023."
+      }
+    }
   },
   {
     "id": "culture-009",
     "domain": "culture",
     "hook": "The white wedding dress is a relatively modern trend.",
     "fact": "Brides wore all kinds of colors for centuries; the white wedding dress became fashionable largely after Queen Victoria wore one for her 1840 wedding.",
-    "tags": ["customs", "weddings"]
+    "tags": ["customs", "weddings"],
+    "translations": {
+      "fr": {
+        "hook": "La robe de mariée blanche est une tendance assez récente.",
+        "fact": "Pendant des siècles, les mariées portaient toutes sortes de couleurs ; la robe blanche s'est popularisée en grande partie après que la reine Victoria en ait porté une pour son mariage en 1840."
+      },
+      "nl": {
+        "hook": "De witte trouwjurk is een relatief moderne trend.",
+        "fact": "Eeuwenlang droegen bruiden allerlei kleuren; de witte trouwjurk werd vooral populair nadat koningin Victoria er in 1840 een droeg tijdens haar huwelijk."
+      },
+      "es": {
+        "hook": "El vestido de novia blanco es una moda bastante reciente.",
+        "fact": "Durante siglos las novias vistieron todo tipo de colores; el vestido blanco se puso de moda sobre todo después de que la reina Victoria luciera uno en su boda de 1840."
+      }
+    }
   },
   {
     "id": "culture-010",
     "domain": "culture",
     "hook": "Emoji started as a way to save space on pagers.",
     "fact": "Emoji were created in 1999 by Shigetaka Kurita for Japanese mobile carriers, partly to convey information — like weather or emotion — in far less space than text.",
-    "tags": ["language", "technology"]
+    "tags": ["language", "technology"],
+    "translations": {
+      "fr": {
+        "hook": "Les emojis sont nés pour économiser de la place sur les pagers.",
+        "fact": "Les emojis ont été créés en 1999 par Shigetaka Kurita pour des opérateurs mobiles japonais, en partie pour transmettre des informations — comme la météo ou une émotion — en beaucoup moins d'espace qu'un texte."
+      },
+      "nl": {
+        "hook": "Emoji's ontstonden om ruimte te besparen op pagers.",
+        "fact": "Emoji's werden in 1999 bedacht door Shigetaka Kurita voor Japanse mobiele providers, deels om informatie — zoals het weer of een emotie — in veel minder ruimte over te brengen dan met tekst."
+      },
+      "es": {
+        "hook": "Los emojis nacieron para ahorrar espacio en los buscapersonas.",
+        "fact": "Los emojis fueron creados en 1999 por Shigetaka Kurita para operadoras móviles japonesas, en parte para transmitir información —como el clima o una emoción— ocupando mucho menos espacio que el texto."
+      }
+    }
   },
   {
     "id": "culture-011",
     "domain": "culture",
     "hook": "Not all cultures nod for 'yes.'",
     "fact": "In Bulgaria and parts of Greece and Albania, a nod can traditionally mean 'no' while shaking the head side to side can mean 'yes' — the reverse of common Western convention.",
-    "tags": ["gestures", "customs"]
+    "tags": ["gestures", "customs"],
+    "translations": {
+      "fr": {
+        "hook": "Hocher la tête ne veut pas dire « oui » partout.",
+        "fact": "En Bulgarie et dans certaines régions de Grèce et d'Albanie, hocher la tête de haut en bas signifie traditionnellement « non », tandis que la secouer de gauche à droite peut vouloir dire « oui » — l'inverse de la convention occidentale habituelle."
+      },
+      "nl": {
+        "hook": "Niet overal betekent knikken 'ja'.",
+        "fact": "In Bulgarije en delen van Griekenland en Albanië betekent knikken van oudsher juist 'nee', terwijl het hoofd heen en weer schudden 'ja' kan betekenen — het omgekeerde van de gangbare westerse conventie."
+      },
+      "es": {
+        "hook": "Asentir con la cabeza no significa 'sí' en todas partes.",
+        "fact": "En Bulgaria y en zonas de Grecia y Albania, asentir con la cabeza puede significar tradicionalmente 'no', mientras que negar con la cabeza de lado a lado puede significar 'sí' — justo al revés que en la convención occidental habitual."
+      }
+    }
   },
   {
     "id": "culture-012",
@@ -82,125 +236,380 @@
     "hook": "The number of languages spoken today is shrinking fast.",
     "fact": "Linguists estimate around 7,000 languages are spoken worldwide today, but as many as 40% are considered endangered and could disappear within generations.",
     "whyItMatters": "Each language loss can mean losing unique knowledge, stories, and ways of understanding the world.",
-    "tags": ["language", "society"]
+    "tags": ["language", "society"],
+    "translations": {
+      "fr": {
+        "hook": "Le nombre de langues parlées aujourd'hui diminue rapidement.",
+        "fact": "Les linguistes estiment qu'environ 7 000 langues sont parlées aujourd'hui dans le monde, mais jusqu'à 40 % d'entre elles seraient menacées et pourraient disparaître en quelques générations.",
+        "whyItMatters": "Chaque langue perdue peut signifier la perte de savoirs, d'histoires et de façons uniques de comprendre le monde."
+      },
+      "nl": {
+        "hook": "Het aantal gesproken talen krimpt snel.",
+        "fact": "Taalkundigen schatten dat er wereldwijd zo'n 7.000 talen worden gesproken, maar tot wel 40% daarvan wordt als bedreigd beschouwd en zou binnen enkele generaties kunnen verdwijnen.",
+        "whyItMatters": "Het verlies van elke taal kan betekenen dat unieke kennis, verhalen en manieren om de wereld te begrijpen verloren gaan."
+      },
+      "es": {
+        "hook": "El número de idiomas hablados hoy está disminuyendo rápidamente.",
+        "fact": "Los lingüistas calculan que hoy se hablan unos 7.000 idiomas en el mundo, pero hasta un 40% de ellos se consideran en peligro y podrían desaparecer en pocas generaciones.",
+        "whyItMatters": "La pérdida de cada idioma puede significar la pérdida de conocimientos, historias y formas únicas de entender el mundo."
+      }
+    }
   },
   {
     "id": "culture-013",
     "domain": "culture",
     "hook": "Fortune cookies aren't actually from China.",
     "fact": "Fortune cookies are widely believed to have originated with Japanese immigrants in California in the early 1900s and were later popularized by Chinese-American restaurants — they're largely unknown in China itself.",
-    "tags": ["food", "myths"]
+    "tags": ["food", "myths"],
+    "translations": {
+      "fr": {
+        "hook": "Les biscuits chinois ne viennent pas vraiment de Chine.",
+        "fact": "Les fortune cookies seraient nés grâce à des immigrants japonais en Californie au début du 20e siècle, avant d'être popularisés par les restaurants sino-américains — ils restent largement inconnus en Chine même."
+      },
+      "nl": {
+        "hook": "Gelukskoekjes komen eigenlijk niet uit China.",
+        "fact": "Men denkt algemeen dat gelukskoekjes zijn ontstaan bij Japanse immigranten in Californië in het begin van de 20e eeuw, en later populair werden gemaakt door Chinees-Amerikaanse restaurants — in China zelf zijn ze grotendeels onbekend."
+      },
+      "es": {
+        "hook": "Las galletas de la fortuna en realidad no son de China.",
+        "fact": "Se cree que las galletas de la fortuna se originaron con inmigrantes japoneses en California a principios del siglo XX, y más tarde se popularizaron gracias a los restaurantes chino-estadounidenses — en la propia China son prácticamente desconocidas."
+      }
+    }
   },
   {
     "id": "culture-014",
     "domain": "culture",
     "hook": "Chopsticks were originally cooking tools, not eating utensils.",
     "fact": "Chopsticks have been used in China for more than 3,000 years, but were first used mainly for cooking and serving food from communal pots before becoming common eating utensils.",
-    "tags": ["food", "china"]
+    "tags": ["food", "china"],
+    "translations": {
+      "fr": {
+        "hook": "Les baguettes étaient à l'origine des ustensiles de cuisine, pas pour manger.",
+        "fact": "Les baguettes sont utilisées en Chine depuis plus de 3 000 ans, mais elles servaient d'abord surtout à cuisiner et à servir les plats depuis des marmites communes, avant de devenir des couverts courants."
+      },
+      "nl": {
+        "hook": "Eetstokjes waren oorspronkelijk kookgerei, geen bestek.",
+        "fact": "Eetstokjes worden al meer dan 3.000 jaar gebruikt in China, maar dienden aanvankelijk vooral om te koken en eten op te scheppen uit gemeenschappelijke potten, voordat ze gangbaar bestek werden."
+      },
+      "es": {
+        "hook": "Los palillos empezaron como utensilios de cocina, no para comer.",
+        "fact": "Los palillos se usan en China desde hace más de 3.000 años, pero al principio servían sobre todo para cocinar y servir comida de ollas comunes, antes de convertirse en cubiertos habituales."
+      }
+    }
   },
   {
     "id": "culture-015",
     "domain": "culture",
     "hook": "A thumbs up isn't a friendly gesture everywhere.",
     "fact": "While it signals approval across much of the West, the thumbs up gesture is considered offensive in parts of the Middle East and West Africa.",
-    "tags": ["gestures", "customs"]
+    "tags": ["gestures", "customs"],
+    "translations": {
+      "fr": {
+        "hook": "Le pouce levé n'est pas un geste amical partout.",
+        "fact": "S'il exprime l'approbation dans une grande partie de l'Occident, le pouce levé est considéré comme offensant dans certaines régions du Moyen-Orient et d'Afrique de l'Ouest."
+      },
+      "nl": {
+        "hook": "Een duim omhoog is niet overal een vriendelijk gebaar.",
+        "fact": "Hoewel het in grote delen van het Westen goedkeuring betekent, wordt het duim-omhoog-gebaar in delen van het Midden-Oosten en West-Afrika als beledigend beschouwd."
+      },
+      "es": {
+        "hook": "El pulgar hacia arriba no es un gesto amistoso en todas partes.",
+        "fact": "Aunque en gran parte de Occidente indica aprobación, el gesto del pulgar hacia arriba se considera ofensivo en algunas zonas de Oriente Medio y África Occidental."
+      }
+    }
   },
   {
     "id": "culture-016",
     "domain": "culture",
     "hook": "The Bible is the most translated book in the world.",
     "fact": "It's been translated, at least in part, into over 3,000 languages — far more than any other written work in history.",
-    "tags": ["language", "history-of-culture"]
+    "tags": ["language", "history-of-culture"],
+    "translations": {
+      "fr": {
+        "hook": "La Bible est le livre le plus traduit au monde.",
+        "fact": "Elle a été traduite, au moins en partie, dans plus de 3 000 langues — bien plus que n'importe quel autre ouvrage de l'histoire."
+      },
+      "nl": {
+        "hook": "De Bijbel is het meest vertaalde boek ter wereld.",
+        "fact": "Het is, in ieder geval gedeeltelijk, vertaald in meer dan 3.000 talen — veel meer dan enig ander geschreven werk in de geschiedenis."
+      },
+      "es": {
+        "hook": "La Biblia es el libro más traducido del mundo.",
+        "fact": "Se ha traducido, al menos en parte, a más de 3.000 idiomas — muchos más que cualquier otra obra escrita de la historia."
+      }
+    }
   },
   {
     "id": "culture-017",
     "domain": "culture",
     "hook": "Slurping your noodles loudly is a compliment in Japan.",
     "fact": "In Japan, audibly slurping noodles like ramen or soba is considered a sign that you're enjoying the meal, not bad manners.",
-    "tags": ["food", "japan"]
+    "tags": ["food", "japan"],
+    "translations": {
+      "fr": {
+        "hook": "Aspirer bruyamment ses nouilles est un compliment au Japon.",
+        "fact": "Au Japon, aspirer bruyamment ses nouilles, comme les ramen ou les soba, est considéré comme un signe qu'on apprécie le plat, et non comme un manque de savoir-vivre."
+      },
+      "nl": {
+        "hook": "Luidruchtig noedels slurpen is een compliment in Japan.",
+        "fact": "In Japan wordt het hoorbaar slurpen van noedels zoals ramen of soba gezien als een teken dat je van de maaltijd geniet, niet als slechte manieren."
+      },
+      "es": {
+        "hook": "Sorber los fideos ruidosamente es un cumplido en Japón.",
+        "fact": "En Japón, sorber audiblemente fideos como el ramen o el soba se considera una señal de que estás disfrutando la comida, no una falta de modales."
+      }
+    }
   },
   {
     "id": "culture-018",
     "domain": "culture",
     "hook": "Piñatas didn't originate in Mexico.",
     "fact": "The piñata tradition is believed to have started in China, later spread to Europe, and was eventually brought to Mexico by Spanish colonizers, where it took on its modern form.",
-    "tags": ["customs", "history-of-culture"]
+    "tags": ["customs", "history-of-culture"],
+    "translations": {
+      "fr": {
+        "hook": "Les piñatas ne viennent pas du Mexique à l'origine.",
+        "fact": "La tradition de la piñata serait née en Chine, se serait ensuite répandue en Europe, avant d'être apportée au Mexique par les colons espagnols, où elle a pris sa forme moderne."
+      },
+      "nl": {
+        "hook": "Piñata's zijn niet oorspronkelijk Mexicaans.",
+        "fact": "De piñata-traditie zou zijn ontstaan in China, later zijn verspreid naar Europa, en uiteindelijk door Spaanse kolonisten naar Mexico zijn gebracht, waar ze haar moderne vorm kreeg."
+      },
+      "es": {
+        "hook": "Las piñatas no se originaron en México.",
+        "fact": "Se cree que la tradición de la piñata comenzó en China, se extendió después a Europa y finalmente fue llevada a México por los colonizadores españoles, donde adquirió su forma moderna."
+      }
+    }
   },
   {
     "id": "culture-019",
     "domain": "culture",
     "hook": "Valentine's Day has roots in an ancient Roman festival.",
     "fact": "Valentine's Day traces back to Lupercalia, an ancient Roman fertility festival, which was later Christianized and renamed after a martyred saint.",
-    "tags": ["customs", "rome"]
+    "tags": ["customs", "rome"],
+    "translations": {
+      "fr": {
+        "hook": "La Saint-Valentin trouve ses racines dans une fête romaine antique.",
+        "fact": "La Saint-Valentin remonte aux Lupercales, une fête romaine de la fertilité, qui fut plus tard christianisée et renommée en l'honneur d'un saint martyr."
+      },
+      "nl": {
+        "hook": "Valentijnsdag heeft wortels in een oud Romeins feest.",
+        "fact": "Valentijnsdag gaat terug op Lupercalia, een oud Romeins vruchtbaarheidsfeest, dat later werd verchristelijkt en vernoemd naar een martelaar-heilige."
+      },
+      "es": {
+        "hook": "San Valentín tiene sus raíces en una antigua fiesta romana.",
+        "fact": "San Valentín se remonta a las Lupercales, una antigua fiesta romana de la fertilidad, que más tarde fue cristianizada y rebautizada en honor a un santo mártir."
+      }
+    }
   },
   {
     "id": "culture-020",
     "domain": "culture",
     "hook": "Using your left hand to eat is considered rude in many cultures.",
     "fact": "In much of South Asia and the Middle East, the left hand is traditionally reserved for hygiene tasks, so eating or handing something to someone with it is seen as impolite.",
-    "tags": ["customs", "food"]
+    "tags": ["customs", "food"],
+    "translations": {
+      "fr": {
+        "hook": "Manger avec la main gauche est mal vu dans de nombreuses cultures.",
+        "fact": "Dans une grande partie de l'Asie du Sud et du Moyen-Orient, la main gauche est traditionnellement réservée aux tâches d'hygiène, si bien que manger ou tendre quelque chose à quelqu'un avec cette main est perçu comme impoli."
+      },
+      "nl": {
+        "hook": "Met je linkerhand eten wordt in veel culturen onbeleefd gevonden.",
+        "fact": "In grote delen van Zuid-Azië en het Midden-Oosten is de linkerhand van oudsher gereserveerd voor hygiënetaken, waardoor ermee eten of iets aanreiken als onbeleefd wordt gezien."
+      },
+      "es": {
+        "hook": "Comer con la mano izquierda se considera de mala educación en muchas culturas.",
+        "fact": "En buena parte del sur de Asia y Oriente Medio, la mano izquierda se reserva tradicionalmente para tareas de higiene, por lo que comer o entregar algo a alguien con ella se considera de mala educación."
+      }
+    }
   },
   {
     "id": "culture-021",
     "domain": "culture",
     "hook": "Origami came to Japan from China, along with paper itself.",
     "fact": "The art of paper folding developed in Japan around the 6th century, after papermaking techniques were introduced from China.",
-    "tags": ["japan", "art"]
+    "tags": ["japan", "art"],
+    "translations": {
+      "fr": {
+        "hook": "L'origami est arrivé au Japon depuis la Chine, en même temps que le papier.",
+        "fact": "L'art du pliage de papier s'est développé au Japon vers le 6e siècle, après que les techniques de fabrication du papier y eurent été introduites depuis la Chine."
+      },
+      "nl": {
+        "hook": "Origami kwam samen met papier zelf vanuit China naar Japan.",
+        "fact": "De kunst van het papiervouwen ontwikkelde zich in Japan rond de 6e eeuw, nadat papiermaaktechnieken vanuit China waren geïntroduceerd."
+      },
+      "es": {
+        "hook": "El origami llegó a Japón desde China, junto con el propio papel.",
+        "fact": "El arte de doblar papel se desarrolló en Japón hacia el siglo VI, después de que las técnicas de fabricación de papel llegaran desde China."
+      }
+    }
   },
   {
     "id": "culture-022",
     "domain": "culture",
     "hook": "Clinking glasses during a toast may have started as superstition.",
     "fact": "One popular theory holds that the custom of clinking glasses began from a belief that the sound would scare away evil spirits lurking nearby.",
-    "tags": ["customs"]
+    "tags": ["customs"],
+    "translations": {
+      "fr": {
+        "hook": "Trinquer serait né d'une superstition.",
+        "fact": "Selon une théorie répandue, la coutume de trinquer viendrait de la croyance selon laquelle le bruit des verres éloignerait les mauvais esprits rôdant à proximité."
+      },
+      "nl": {
+        "hook": "Klinken met glazen zou zijn ontstaan uit bijgeloof.",
+        "fact": "Volgens een populaire theorie ontstond het klinken van glazen uit het geloof dat het geluid boze geesten in de buurt zou verjagen."
+      },
+      "es": {
+        "hook": "Brindar chocando las copas pudo empezar como superstición.",
+        "fact": "Según una teoría popular, la costumbre de chocar las copas surgió de la creencia de que el sonido ahuyentaba a los malos espíritus que merodeaban cerca."
+      }
+    }
   },
   {
     "id": "culture-023",
     "domain": "culture",
     "hook": "Yoga is thousands of years older than most people realize.",
     "fact": "Yoga originated in ancient India more than 5,000 years ago as a spiritual and philosophical discipline, long before it became associated primarily with physical exercise.",
-    "tags": ["india", "history-of-culture"]
+    "tags": ["india", "history-of-culture"],
+    "translations": {
+      "fr": {
+        "hook": "Le yoga est bien plus ancien qu'on ne le pense généralement.",
+        "fact": "Le yoga est né dans l'Inde antique il y a plus de 5 000 ans, comme discipline spirituelle et philosophique, bien avant d'être surtout associé à l'exercice physique."
+      },
+      "nl": {
+        "hook": "Yoga is duizenden jaren ouder dan de meeste mensen beseffen.",
+        "fact": "Yoga ontstond meer dan 5.000 jaar geleden in het oude India als spirituele en filosofische discipline, lang voordat het vooral geassocieerd raakte met lichaamsbeweging."
+      },
+      "es": {
+        "hook": "El yoga es miles de años más antiguo de lo que la mayoría cree.",
+        "fact": "El yoga se originó en la antigua India hace más de 5.000 años como disciplina espiritual y filosófica, mucho antes de asociarse principalmente con el ejercicio físico."
+      }
+    }
   },
   {
     "id": "culture-024",
     "domain": "culture",
     "hook": "In Russia, an even number of flowers is for funerals only.",
     "fact": "Russian custom reserves even-numbered flower bouquets for funerals and mourning — bouquets given for celebrations should always have an odd number of stems.",
-    "tags": ["customs", "russia"]
+    "tags": ["customs", "russia"],
+    "translations": {
+      "fr": {
+        "hook": "En Russie, un nombre pair de fleurs est réservé aux enterrements.",
+        "fact": "La coutume russe réserve les bouquets à nombre pair de fleurs aux funérailles et au deuil — les bouquets offerts lors de célébrations doivent toujours compter un nombre impair de tiges."
+      },
+      "nl": {
+        "hook": "In Rusland is een even aantal bloemen alleen voor begrafenissen.",
+        "fact": "Volgens de Russische traditie zijn boeketten met een even aantal bloemen bestemd voor begrafenissen en rouw — boeketten voor feestelijke gelegenheden moeten altijd een oneven aantal stelen hebben."
+      },
+      "es": {
+        "hook": "En Rusia, un número par de flores es solo para funerales.",
+        "fact": "La costumbre rusa reserva los ramos con número par de flores para funerales y luto — los ramos que se regalan en celebraciones deben tener siempre un número impar de tallos."
+      }
+    }
   },
   {
     "id": "culture-025",
     "domain": "culture",
     "hook": "Saying 'bless you' after a sneeze may date back to a 6th-century plague.",
     "fact": "One popular account credits Pope Gregory I with urging people to say a blessing after sneezing during a deadly outbreak, since a sneeze was feared to be an early plague symptom.",
-    "tags": ["customs", "history-of-culture"]
+    "tags": ["customs", "history-of-culture"],
+    "translations": {
+      "fr": {
+        "hook": "Dire « à tes souhaits » après un éternuement remonterait à une peste du 6e siècle.",
+        "fact": "Selon un récit répandu, le pape Grégoire Ier aurait encouragé les gens à prononcer une bénédiction après un éternuement lors d'une épidémie meurtrière, l'éternuement étant redouté comme un symptôme précoce de la peste."
+      },
+      "nl": {
+        "hook": "'Gezondheid' zeggen na een nies zou teruggaan op een pest uit de 6e eeuw.",
+        "fact": "Volgens een populair verhaal spoorde paus Gregorius I mensen aan om na een nies een zegen uit te spreken tijdens een dodelijke epidemie, omdat een nies gevreesd werd als vroeg symptoom van de pest."
+      },
+      "es": {
+        "hook": "Decir 'salud' tras un estornudo podría venir de una peste del siglo VI.",
+        "fact": "Según un relato popular, el papa Gregorio I animó a la gente a pronunciar una bendición tras estornudar durante un brote mortal, ya que se temía que un estornudo fuera un síntoma temprano de la peste."
+      }
+    }
   },
   {
     "id": "culture-026",
     "domain": "culture",
     "hook": "Carnival celebrations predate Christianity.",
     "fact": "Festivals like Brazil's Carnival, held before the Christian season of Lent, trace back to pre-Christian spring celebrations that were later absorbed into the Christian calendar.",
-    "tags": ["customs", "south-america"]
+    "tags": ["customs", "south-america"],
+    "translations": {
+      "fr": {
+        "hook": "Le Carnaval est antérieur au christianisme.",
+        "fact": "Des fêtes comme le Carnaval du Brésil, célébrées avant le Carême chrétien, trouvent leur origine dans des célébrations printanières préchrétiennes, plus tard intégrées au calendrier chrétien."
+      },
+      "nl": {
+        "hook": "Carnaval bestond al vóór het christendom.",
+        "fact": "Feesten zoals het Braziliaanse Carnaval, gehouden vóór de christelijke vastentijd, gaan terug op pre-christelijke lentevieringen die later werden opgenomen in de christelijke kalender."
+      },
+      "es": {
+        "hook": "El Carnaval es anterior al cristianismo.",
+        "fact": "Fiestas como el Carnaval de Brasil, celebradas antes de la Cuaresma cristiana, se remontan a celebraciones de primavera precristianas que más tarde se incorporaron al calendario cristiano."
+      }
+    }
   },
   {
     "id": "culture-027",
     "domain": "culture",
     "hook": "Flamenco blends far more cultures than just Spanish ones.",
     "fact": "Though closely associated with Spain, flamenco developed from a mix of Romani, Andalusian, Jewish, and Moorish influences that mingled in southern Spain over centuries.",
-    "tags": ["art", "spain"]
+    "tags": ["art", "spain"],
+    "translations": {
+      "fr": {
+        "hook": "Le flamenco mélange bien plus de cultures que la seule culture espagnole.",
+        "fact": "Bien qu'étroitement associé à l'Espagne, le flamenco s'est développé à partir d'un mélange d'influences roms, andalouses, juives et mauresques qui se sont côtoyées dans le sud de l'Espagne pendant des siècles."
+      },
+      "nl": {
+        "hook": "Flamenco combineert veel meer culturen dan alleen de Spaanse.",
+        "fact": "Hoewel flamenco nauw met Spanje wordt geassocieerd, ontstond het uit een mengeling van Romani-, Andalusische, Joodse en Moorse invloeden die zich eeuwenlang in het zuiden van Spanje vermengden."
+      },
+      "es": {
+        "hook": "El flamenco mezcla muchas más culturas que solo la española.",
+        "fact": "Aunque se asocia estrechamente con España, el flamenco se desarrolló a partir de una mezcla de influencias gitanas, andaluzas, judías y moriscas que confluyeron en el sur de España durante siglos."
+      }
+    }
   },
   {
     "id": "culture-028",
     "domain": "culture",
     "hook": "White wedding cakes once symbolized wealth, not just purity.",
     "fact": "In earlier centuries, refined white sugar was expensive and difficult to produce, so a pure-white wedding cake was also a visible display of a family's wealth.",
-    "tags": ["customs", "weddings"]
+    "tags": ["customs", "weddings"],
+    "translations": {
+      "fr": {
+        "hook": "Le gâteau de mariage blanc symbolisait autrefois la richesse, pas seulement la pureté.",
+        "fact": "Autrefois, le sucre blanc raffiné était coûteux et difficile à produire, si bien qu'un gâteau de mariage d'un blanc immaculé était aussi une façon visible d'afficher la richesse d'une famille."
+      },
+      "nl": {
+        "hook": "Witte trouwtaarten symboliseerden vroeger ook rijkdom, niet alleen zuiverheid.",
+        "fact": "In vroegere eeuwen was geraffineerde witte suiker duur en moeilijk te produceren, waardoor een zuiver witte trouwtaart ook een zichtbaar bewijs was van de rijkdom van een familie."
+      },
+      "es": {
+        "hook": "Los pasteles de boda blancos también simbolizaban riqueza, no solo pureza.",
+        "fact": "En siglos anteriores, el azúcar blanco refinado era caro y difícil de producir, por lo que un pastel de boda de un blanco impecable era también una muestra visible de la riqueza de una familia."
+      }
+    }
   },
   {
     "id": "culture-029",
     "domain": "culture",
     "hook": "The high five is a fairly recent invention.",
     "fact": "Unlike older gestures such as the handshake or bow, the high five is widely credited to American baseball players in the late 1970s.",
-    "tags": ["gestures", "america"]
+    "tags": ["gestures", "america"],
+    "translations": {
+      "fr": {
+        "hook": "Le high five est une invention assez récente.",
+        "fact": "Contrairement à des gestes plus anciens comme la poignée de main ou la révérence, le high five est généralement attribué à des joueurs de baseball américains, à la fin des années 1970."
+      },
+      "nl": {
+        "hook": "De high five is een vrij recente uitvinding.",
+        "fact": "In tegenstelling tot oudere gebaren zoals de handdruk of de buiging wordt de high five algemeen toegeschreven aan Amerikaanse honkbalspelers eind jaren 1970."
+      },
+      "es": {
+        "hook": "El choca esos cinco es un invento bastante reciente.",
+        "fact": "A diferencia de gestos más antiguos como el apretón de manos o la reverencia, el choca esos cinco se atribuye ampliamente a jugadores de béisbol estadounidenses de finales de los años 70."
+      }
+    }
   }
 ]

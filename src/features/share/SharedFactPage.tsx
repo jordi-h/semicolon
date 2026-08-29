@@ -8,6 +8,7 @@ import { ShareButton } from '@/features/share/ShareButton'
 import { factSearchUrl } from '@/features/feed/lib/factSearchUrl'
 import { fetchFactsByIds } from '@/lib/api/facts'
 import { DOMAIN_GRADIENTS } from '@/lib/domainTheme'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import { DOMAIN_EMOJI, DOMAIN_LABELS, type Fact } from '@/lib/types'
 import { cn } from '@/lib/utils'
 
@@ -19,6 +20,7 @@ import { cn } from '@/lib/utils'
  */
 export function SharedFactPage() {
   const { factId } = useParams<{ factId: string }>()
+  const { locale, t } = useLocale()
   const [fact, setFact] = useState<Fact | null>(null)
   const [status, setStatus] = useState<'loading' | 'found' | 'not-found'>('loading')
 
@@ -29,7 +31,7 @@ export function SharedFactPage() {
     }
     let cancelled = false
     setStatus('loading')
-    fetchFactsByIds([factId]).then((facts) => {
+    fetchFactsByIds([factId], locale).then((facts) => {
       if (cancelled) return
       if (facts[0]) {
         setFact(facts[0])
@@ -41,7 +43,7 @@ export function SharedFactPage() {
     return () => {
       cancelled = true
     }
-  }, [factId])
+  }, [factId, locale])
 
   if (status === 'loading') {
     return (
@@ -55,9 +57,9 @@ export function SharedFactPage() {
     return (
       <div className="flex h-full flex-col items-center justify-center gap-4 p-6 text-center">
         <Logo className="h-14 w-14 rounded-2xl" />
-        <p className="font-medium">This fact couldn't be found.</p>
+        <p className="font-medium">{t('sharedFact.notFound')}</p>
         <Button asChild>
-          <Link to="/">Open semicolon</Link>
+          <Link to="/">{t('sharedFact.openSemicolon')}</Link>
         </Button>
       </div>
     )
@@ -75,7 +77,7 @@ export function SharedFactPage() {
 
         <div className="relative z-10 mb-4 flex items-center gap-2 text-sm font-medium text-white/80">
           <span aria-hidden="true">{DOMAIN_EMOJI[fact.domain]}</span>
-          <span>{DOMAIN_LABELS[fact.domain]}</span>
+          <span>{DOMAIN_LABELS[locale][fact.domain]}</span>
         </div>
 
         <div className="relative z-10 flex flex-col gap-4">
@@ -83,17 +85,17 @@ export function SharedFactPage() {
           <p className="text-lg leading-relaxed text-white/95">{fact.fact}</p>
           {fact.whyItMatters && (
             <p className="border-l-2 border-white/40 pl-3 text-sm italic text-white/75">
-              Why it matters: {fact.whyItMatters}
+              {t('fact.whyItMatters')}: {fact.whyItMatters}
             </p>
           )}
           <a
-            href={factSearchUrl(fact)}
+            href={factSearchUrl(fact, locale)}
             target="_blank"
             rel="noreferrer"
             className="inline-flex w-fit items-center gap-1.5 rounded-full bg-white/15 px-3 py-1.5 text-sm font-medium text-white backdrop-blur-sm transition-colors hover:bg-white/25"
           >
             <Search size={14} />
-            Dive deeper
+            {t('fact.diveDeeper')}
           </a>
         </div>
 
@@ -107,11 +109,9 @@ export function SharedFactPage() {
           <Logo className="h-8 w-8 rounded-lg" />
           <span className="font-bold">semicolon</span>
         </div>
-        <p className="text-sm text-muted-foreground">
-          A TikTok-style feed of bite-sized knowledge — a new fact every swipe.
-        </p>
+        <p className="text-sm text-muted-foreground">{t('sharedFact.footerTagline')}</p>
         <Button asChild className="w-full">
-          <Link to="/">Get semicolon</Link>
+          <Link to="/">{t('sharedFact.getSemicolon')}</Link>
         </Button>
       </div>
     </div>

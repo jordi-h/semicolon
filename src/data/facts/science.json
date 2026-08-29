@@ -5,7 +5,24 @@
     "hook": "Your bones are basically alive scaffolding.",
     "fact": "The human skeleton completely replaces itself roughly every 10 years through a constant cycle of cells breaking down old bone and building new bone.",
     "whyItMatters": "It's why bones can heal from fractures and adapt their density to how much load they carry.",
-    "tags": ["biology", "human-body"]
+    "tags": ["biology", "human-body"],
+    "translations": {
+      "fr": {
+        "hook": "Vos os sont en réalité un échafaudage vivant.",
+        "fact": "Le squelette humain se renouvelle presque entièrement tous les 10 ans environ, grâce à un cycle permanent de cellules qui détruisent le vieil os et en reconstruisent du nouveau.",
+        "whyItMatters": "C'est pour cela que les os peuvent guérir après une fracture et adapter leur densité à la charge qu'ils supportent."
+      },
+      "nl": {
+        "hook": "Je botten zijn eigenlijk levende bouwsteigers.",
+        "fact": "Het menselijk skelet vernieuwt zichzelf vrijwel volledig om de ongeveer 10 jaar, dankzij een voortdurende cyclus waarbij cellen oud bot afbreken en nieuw bot opbouwen.",
+        "whyItMatters": "Daardoor kunnen botten genezen na een breuk en hun dichtheid aanpassen aan de belasting die ze dragen."
+      },
+      "es": {
+        "hook": "Tus huesos son en realidad un andamiaje vivo.",
+        "fact": "El esqueleto humano se renueva casi por completo cada 10 años aproximadamente, mediante un ciclo constante de células que descomponen hueso viejo y construyen hueso nuevo.",
+        "whyItMatters": "Por eso los huesos pueden curarse tras una fractura y adaptar su densidad a la carga que soportan."
+      }
+    }
   },
   {
     "id": "science-002",
@@ -13,7 +30,24 @@
     "hook": "Water can boil and freeze at the same time.",
     "fact": "At a specific combination of temperature and pressure called the 'triple point,' a substance like water can exist as solid, liquid, and gas simultaneously.",
     "whyItMatters": "Triple points are so precise and reproducible that they're used to calibrate thermometers worldwide.",
-    "tags": ["physics", "chemistry"]
+    "tags": ["physics", "chemistry"],
+    "translations": {
+      "fr": {
+        "hook": "L'eau peut bouillir et geler en même temps.",
+        "fact": "À une combinaison précise de température et de pression appelée le « point triple », une substance comme l'eau peut exister simultanément à l'état solide, liquide et gazeux.",
+        "whyItMatters": "Les points triples sont si précis et reproductibles qu'ils servent à étalonner les thermomètres partout dans le monde."
+      },
+      "nl": {
+        "hook": "Water kan tegelijk koken en bevriezen.",
+        "fact": "Bij een specifieke combinatie van temperatuur en druk, het 'triple punt' genoemd, kan een stof zoals water tegelijk vast, vloeibaar en gasvormig zijn.",
+        "whyItMatters": "Triple punten zijn zo precies en reproduceerbaar dat ze wereldwijd gebruikt worden om thermometers te ijken."
+      },
+      "es": {
+        "hook": "El agua puede hervir y congelarse al mismo tiempo.",
+        "fact": "En una combinación exacta de temperatura y presión llamada «punto triple», una sustancia como el agua puede existir simultáneamente en estado sólido, líquido y gaseoso.",
+        "whyItMatters": "Los puntos triples son tan precisos y reproducibles que se usan para calibrar termómetros en todo el mundo."
+      }
+    }
   },
   {
     "id": "science-003",
@@ -21,14 +55,45 @@
     "hook": "Octopuses have three hearts.",
     "fact": "Two of an octopus's hearts pump blood to its gills, while the third pumps blood to the rest of its body — and that main heart actually stops beating while it swims.",
     "whyItMatters": "It's part of why octopuses prefer crawling over swimming: swimming exhausts them.",
-    "tags": ["biology", "animals"]
+    "tags": ["biology", "animals"],
+    "translations": {
+      "fr": {
+        "hook": "Les poulpes ont trois cœurs.",
+        "fact": "Deux des cœurs du poulpe pompent le sang vers ses branchies, tandis que le troisième l'envoie vers le reste du corps — et ce cœur principal s'arrête même de battre quand il nage.",
+        "whyItMatters": "C'est en partie pourquoi les poulpes préfèrent ramper plutôt que nager : nager les épuise."
+      },
+      "nl": {
+        "hook": "Octopussen hebben drie harten.",
+        "fact": "Twee van de harten van een octopus pompen bloed naar de kieuwen, terwijl het derde bloed naar de rest van het lichaam pompt — en dat hoofdhart stopt zelfs met kloppen terwijl het dier zwemt.",
+        "whyItMatters": "Dat is mede waarom octopussen liever kruipen dan zwemmen: zwemmen put ze uit."
+      },
+      "es": {
+        "hook": "Los pulpos tienen tres corazones.",
+        "fact": "Dos de los corazones del pulpo bombean sangre hacia las branquias, mientras que el tercero la envía al resto del cuerpo — y ese corazón principal deja de latir mientras nada.",
+        "whyItMatters": "Es en parte por eso que los pulpos prefieren arrastrarse antes que nadar: nadar los agota."
+      }
+    }
   },
   {
     "id": "science-004",
     "domain": "science",
     "hook": "Glass is technically still moving.",
     "fact": "Glass is an amorphous solid, meaning its molecules are arranged more like a very slow-flowing liquid than a crystal — though at room temperature that flow is so slow it would take longer than the age of the universe to notice.",
-    "tags": ["physics", "materials"]
+    "tags": ["physics", "materials"],
+    "translations": {
+      "fr": {
+        "hook": "Le verre est techniquement toujours en mouvement.",
+        "fact": "Le verre est un solide amorphe, ce qui signifie que ses molécules sont organisées plus comme un liquide s'écoulant très lentement que comme un cristal — mais à température ambiante, cet écoulement est si lent qu'il faudrait plus longtemps que l'âge de l'univers pour le remarquer."
+      },
+      "nl": {
+        "hook": "Glas is technisch gezien nog altijd in beweging.",
+        "fact": "Glas is een amorfe vaste stof, wat betekent dat de moleculen meer gerangschikt zijn zoals een zeer traag stromende vloeistof dan zoals een kristal — al is die stroming bij kamertemperatuur zo traag dat het langer zou duren dan de leeftijd van het heelal om het te merken."
+      },
+      "es": {
+        "hook": "Técnicamente, el vidrio todavía se mueve.",
+        "fact": "El vidrio es un sólido amorfo, lo que significa que sus moléculas están dispuestas más como un líquido que fluye muy lentamente que como un cristal — aunque a temperatura ambiente ese flujo es tan lento que se tardaría más que la edad del universo en notarlo."
+      }
+    }
   },
   {
     "id": "science-005",
@@ -36,28 +101,87 @@
     "hook": "You share about 60% of your DNA with a banana.",
     "fact": "Because so much of DNA codes for basic cellular machinery shared across all life, humans and bananas overlap significantly at the genetic level despite looking nothing alike.",
     "whyItMatters": "It's a reminder that DNA similarity measures shared ancient biology, not overall likeness.",
-    "tags": ["biology", "genetics"]
+    "tags": ["biology", "genetics"],
+    "translations": {
+      "fr": {
+        "hook": "Vous partagez environ 60 % de votre ADN avec une banane.",
+        "fact": "Comme une grande partie de l'ADN code pour la machinerie cellulaire de base commune à toutes les formes de vie, les humains et les bananes se ressemblent beaucoup au niveau génétique, malgré des apparences totalement différentes.",
+        "whyItMatters": "C'est un rappel que la similarité de l'ADN reflète une biologie ancienne partagée, pas une ressemblance générale."
+      },
+      "nl": {
+        "hook": "Je deelt ongeveer 60% van je DNA met een banaan.",
+        "fact": "Omdat een groot deel van het DNA codeert voor basale celmachinerie die alle levensvormen delen, overlappen mensen en bananen aanzienlijk op genetisch niveau, ondanks dat ze er totaal anders uitzien.",
+        "whyItMatters": "Het is een herinnering dat DNA-overeenkomst gedeelde oeroude biologie meet, niet algemene gelijkenis."
+      },
+      "es": {
+        "hook": "Compartes cerca del 60% de tu ADN con un plátano.",
+        "fact": "Como gran parte del ADN codifica la maquinaria celular básica compartida por todas las formas de vida, los humanos y los plátanos se parecen mucho a nivel genético, aunque no se parezcan en nada por fuera.",
+        "whyItMatters": "Es un recordatorio de que la similitud del ADN mide una biología ancestral compartida, no un parecido general."
+      }
+    }
   },
   {
     "id": "science-006",
     "domain": "science",
     "hook": "Lightning is hotter than the sun's surface.",
     "fact": "A single lightning bolt can reach around 30,000 Kelvin — roughly five times hotter than the surface of the sun, for a flash lasting a fraction of a second.",
-    "tags": ["physics", "weather"]
+    "tags": ["physics", "weather"],
+    "translations": {
+      "fr": {
+        "hook": "La foudre est plus chaude que la surface du soleil.",
+        "fact": "Un seul éclair peut atteindre environ 30 000 kelvins — soit près de cinq fois la température de la surface du soleil, le temps d'un éclair qui ne dure qu'une fraction de seconde."
+      },
+      "nl": {
+        "hook": "Bliksem is heter dan het oppervlak van de zon.",
+        "fact": "Eén enkele bliksemschicht kan zo'n 30.000 kelvin bereiken — ruwweg vijf keer heter dan het oppervlak van de zon, gedurende een flits van een fractie van een seconde."
+      },
+      "es": {
+        "hook": "Un rayo es más caliente que la superficie del sol.",
+        "fact": "Un solo rayo puede alcanzar unos 30.000 kelvin, casi cinco veces más caliente que la superficie del sol, durante un destello que dura una fracción de segundo."
+      }
+    }
   },
   {
     "id": "science-007",
     "domain": "science",
     "hook": "Your stomach lining renews itself every few days.",
     "fact": "Stomach acid is strong enough to dissolve metal over time, so the stomach replaces its protective mucus lining every 3 to 4 days to keep from digesting itself.",
-    "tags": ["biology", "human-body"]
+    "tags": ["biology", "human-body"],
+    "translations": {
+      "fr": {
+        "hook": "La paroi de votre estomac se renouvelle tous les quelques jours.",
+        "fact": "L'acide gastrique est assez puissant pour dissoudre du métal avec le temps, c'est pourquoi l'estomac remplace sa muqueuse protectrice tous les 3 à 4 jours pour éviter de se digérer lui-même."
+      },
+      "nl": {
+        "hook": "Het slijmvlies van je maag vernieuwt zich elke paar dagen.",
+        "fact": "Maagzuur is sterk genoeg om na verloop van tijd metaal op te lossen, dus vervangt de maag zijn beschermende slijmlaag elke 3 tot 4 dagen om te voorkomen dat hij zichzelf verteert."
+      },
+      "es": {
+        "hook": "El revestimiento de tu estómago se renueva cada pocos días.",
+        "fact": "El ácido estomacal es lo bastante fuerte como para disolver metal con el tiempo, así que el estómago renueva su capa protectora de mucosa cada 3 o 4 días para no digerirse a sí mismo."
+      }
+    }
   },
   {
     "id": "science-008",
     "domain": "science",
     "hook": "There's a metal that melts in your hand.",
     "fact": "Gallium has a melting point of about 29.8°C (85.6°F), just below normal body temperature, so a solid piece will slowly liquefy when held in your palm.",
-    "tags": ["chemistry", "materials"]
+    "tags": ["chemistry", "materials"],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un métal qui fond dans la main.",
+        "fact": "Le gallium a un point de fusion d'environ 29,8 °C, juste en dessous de la température corporelle normale, si bien qu'un morceau solide se liquéfie lentement dans la paume de la main."
+      },
+      "nl": {
+        "hook": "Er bestaat een metaal dat smelt in je hand.",
+        "fact": "Gallium heeft een smeltpunt van ongeveer 29,8°C, net onder de normale lichaamstemperatuur, waardoor een vast stukje langzaam vloeibaar wordt als je het in je handpalm houdt."
+      },
+      "es": {
+        "hook": "Existe un metal que se derrite en la mano.",
+        "fact": "El galio tiene un punto de fusión de unos 29,8 °C, justo por debajo de la temperatura corporal normal, así que un trozo sólido se licúa poco a poco al sostenerlo en la palma de la mano."
+      }
+    }
   },
   {
     "id": "science-009",
@@ -65,70 +189,213 @@
     "hook": "Antibiotics don't work on colds.",
     "fact": "Antibiotics kill bacteria, but the common cold is caused by viruses — which is why doctors say antibiotics won't help, and overusing them instead speeds up antibiotic resistance.",
     "whyItMatters": "Misusing antibiotics for viral infections is a major driver of drug-resistant bacteria.",
-    "tags": ["medicine", "biology"]
+    "tags": ["medicine", "biology"],
+    "translations": {
+      "fr": {
+        "hook": "Les antibiotiques n'ont aucun effet sur un rhume.",
+        "fact": "Les antibiotiques tuent les bactéries, mais le rhume est causé par des virus — c'est pourquoi les médecins disent qu'ils ne servent à rien dans ce cas, et leur usage abusif accélère au contraire la résistance aux antibiotiques.",
+        "whyItMatters": "L'usage inapproprié des antibiotiques contre des infections virales est l'un des principaux moteurs des bactéries résistantes."
+      },
+      "nl": {
+        "hook": "Antibiotica werken niet tegen een verkoudheid.",
+        "fact": "Antibiotica doden bacteriën, maar een gewone verkoudheid wordt veroorzaakt door virussen — daarom helpen antibiotica niet, en overmatig gebruik ervan versnelt juist de antibioticaresistentie.",
+        "whyItMatters": "Verkeerd gebruik van antibiotica bij virale infecties is een belangrijke oorzaak van resistente bacteriën."
+      },
+      "es": {
+        "hook": "Los antibióticos no sirven contra un resfriado.",
+        "fact": "Los antibióticos matan bacterias, pero el resfriado común lo causan virus — por eso los médicos dicen que no ayudan, y usarlos de más acelera la resistencia a los antibióticos.",
+        "whyItMatters": "El mal uso de antibióticos contra infecciones virales es una de las principales causas de las bacterias resistentes."
+      }
+    }
   },
   {
     "id": "science-010",
     "domain": "science",
     "hook": "Sound can't travel through space.",
     "fact": "Sound needs a medium — air, water, or solid matter — to travel as vibrations. The vacuum of space has essentially no particles, so it's completely silent.",
-    "tags": ["physics"]
+    "tags": ["physics"],
+    "translations": {
+      "fr": {
+        "hook": "Le son ne peut pas voyager dans l'espace.",
+        "fact": "Le son a besoin d'un milieu — air, eau ou matière solide — pour se propager sous forme de vibrations. Le vide spatial ne contient pratiquement aucune particule, donc il y règne un silence total."
+      },
+      "nl": {
+        "hook": "Geluid kan niet door de ruimte reizen.",
+        "fact": "Geluid heeft een medium nodig — lucht, water of vaste stof — om als trilling te reizen. Het vacuüm van de ruimte bevat vrijwel geen deeltjes, dus er heerst volledige stilte."
+      },
+      "es": {
+        "hook": "El sonido no puede viajar por el espacio.",
+        "fact": "El sonido necesita un medio — aire, agua o materia sólida — para propagarse como vibraciones. El vacío del espacio prácticamente no tiene partículas, así que reina un silencio total."
+      }
+    }
   },
   {
     "id": "science-011",
     "domain": "science",
     "hook": "Some jellyfish are biologically immortal.",
     "fact": "Turritopsis dohrnii, sometimes called the 'immortal jellyfish,' can revert its cells back to an earlier stage of life when stressed or injured, effectively resetting its age.",
-    "tags": ["biology", "animals"]
+    "tags": ["biology", "animals"],
+    "translations": {
+      "fr": {
+        "hook": "Certaines méduses sont biologiquement immortelles.",
+        "fact": "Turritopsis dohrnii, parfois surnommée la « méduse immortelle », peut faire revenir ses cellules à un stade de vie antérieur en cas de stress ou de blessure, remettant ainsi son âge à zéro."
+      },
+      "nl": {
+        "hook": "Sommige kwallen zijn biologisch onsterfelijk.",
+        "fact": "Turritopsis dohrnii, ook wel de 'onsterfelijke kwal' genoemd, kan zijn cellen bij stress of verwonding terugbrengen naar een eerder levensstadium, waardoor de kwal zijn leeftijd als het ware kan resetten."
+      },
+      "es": {
+        "hook": "Algunas medusas son biológicamente inmortales.",
+        "fact": "Turritopsis dohrnii, a veces llamada la «medusa inmortal», puede hacer que sus células regresen a una etapa vital anterior cuando sufre estrés o heridas, reiniciando así su edad."
+      }
+    }
   },
   {
     "id": "science-012",
     "domain": "science",
     "hook": "A teaspoon of neutron star would weigh billions of tons.",
     "fact": "Neutron stars pack roughly the mass of the sun into a sphere about 20km wide, making their material so dense that a teaspoon of it would weigh around 4 billion tons on Earth.",
-    "tags": ["physics", "astronomy"]
+    "tags": ["physics", "astronomy"],
+    "translations": {
+      "fr": {
+        "hook": "Une cuillère à café d'étoile à neutrons pèserait des milliards de tonnes.",
+        "fact": "Les étoiles à neutrons compriment environ la masse du soleil dans une sphère d'à peine 20 km de diamètre, rendant leur matière si dense qu'une cuillère à café en pèserait environ 4 milliards de tonnes sur Terre."
+      },
+      "nl": {
+        "hook": "Een theelepel neutronenster zou miljarden tonnen wegen.",
+        "fact": "Neutronensterren persen ongeveer de massa van de zon samen in een bol van zo'n 20 km breed, waardoor hun materiaal zo dicht is dat een theelepel ervan op aarde zo'n 4 miljard ton zou wegen."
+      },
+      "es": {
+        "hook": "Una cucharadita de estrella de neutrones pesaría miles de millones de toneladas.",
+        "fact": "Las estrellas de neutrones comprimen aproximadamente la masa del sol en una esfera de unos 20 km de ancho, haciendo que su materia sea tan densa que una cucharadita pesaría cerca de 4.000 millones de toneladas en la Tierra."
+      }
+    }
   },
   {
     "id": "science-013",
     "domain": "science",
     "hook": "Bananas are naturally, mildly radioactive.",
     "fact": "Bananas are high in potassium, a small fraction of which is the naturally occurring radioactive isotope potassium-40 — though the dose is far too tiny to pose any health risk.",
-    "tags": ["chemistry", "physics"]
+    "tags": ["chemistry", "physics"],
+    "translations": {
+      "fr": {
+        "hook": "Les bananes sont naturellement, légèrement radioactives.",
+        "fact": "Les bananes sont riches en potassium, dont une petite fraction est l'isotope radioactif naturel potassium-40 — mais la dose est bien trop faible pour représenter un risque pour la santé."
+      },
+      "nl": {
+        "hook": "Bananen zijn van nature licht radioactief.",
+        "fact": "Bananen bevatten veel kalium, waarvan een klein deel het van nature voorkomende radioactieve isotoop kalium-40 is — al is de dosis veel te klein om een gezondheidsrisico te vormen."
+      },
+      "es": {
+        "hook": "Los plátanos son, de forma natural, ligeramente radiactivos.",
+        "fact": "Los plátanos son ricos en potasio, del cual una pequeña fracción es el isótopo radiactivo natural potasio-40 — aunque la dosis es demasiado pequeña para suponer ningún riesgo para la salud."
+      }
+    }
   },
   {
     "id": "science-014",
     "domain": "science",
     "hook": "Your body has more bacterial cells than you'd think.",
     "fact": "Estimates suggest the human body hosts roughly as many microbial cells as human cells, most living in the gut and playing a role in digestion and immunity.",
-    "tags": ["biology", "human-body"]
+    "tags": ["biology", "human-body"],
+    "translations": {
+      "fr": {
+        "hook": "Votre corps abrite plus de cellules bactériennes que vous ne le pensez.",
+        "fact": "Selon les estimations, le corps humain héberge à peu près autant de cellules microbiennes que de cellules humaines, la plupart vivant dans l'intestin et jouant un rôle dans la digestion et l'immunité."
+      },
+      "nl": {
+        "hook": "Je lichaam herbergt meer bacteriecellen dan je zou denken.",
+        "fact": "Schattingen suggereren dat het menselijk lichaam ongeveer evenveel microbiële cellen herbergt als menselijke cellen, waarvan de meeste in de darmen leven en een rol spelen bij spijsvertering en immuniteit."
+      },
+      "es": {
+        "hook": "Tu cuerpo alberga más células bacterianas de lo que crees.",
+        "fact": "Se estima que el cuerpo humano alberga aproximadamente tantas células microbianas como células humanas, la mayoría viviendo en el intestino y desempeñando un papel en la digestión y la inmunidad."
+      }
+    }
   },
   {
     "id": "science-015",
     "domain": "science",
     "hook": "Diamonds can be made from thin air, sort of.",
     "fact": "Some companies now grow diamonds in labs by using carbon captured from the atmosphere, replicating the heat and pressure conditions found deep underground.",
-    "tags": ["chemistry", "technology"]
+    "tags": ["chemistry", "technology"],
+    "translations": {
+      "fr": {
+        "hook": "On peut désormais fabriquer des diamants à partir de l'air, ou presque.",
+        "fact": "Certaines entreprises cultivent aujourd'hui des diamants en laboratoire en utilisant du carbone capté dans l'atmosphère, en reproduisant les conditions de chaleur et de pression que l'on trouve en profondeur sous terre."
+      },
+      "nl": {
+        "hook": "Diamanten kunnen tegenwoordig zo goed als uit dunne lucht gemaakt worden.",
+        "fact": "Sommige bedrijven kweken tegenwoordig diamanten in het lab met koolstof die uit de atmosfeer is gehaald, waarbij ze de hitte en druk diep onder de grond nabootsen."
+      },
+      "es": {
+        "hook": "Los diamantes ya casi se pueden fabricar del aire.",
+        "fact": "Algunas empresas ahora cultivan diamantes en laboratorio usando carbono capturado de la atmósfera, replicando las condiciones de calor y presión que se encuentran en las profundidades del subsuelo."
+      }
+    }
   },
   {
     "id": "science-016",
     "domain": "science",
     "hook": "Honey never spoils.",
     "fact": "Archaeologists have found pots of honey in ancient Egyptian tombs that were still edible thousands of years later, thanks to honey's low moisture and natural acidity, which prevent bacteria from surviving.",
-    "tags": ["chemistry", "biology"]
+    "tags": ["chemistry", "biology"],
+    "translations": {
+      "fr": {
+        "hook": "Le miel ne se périme jamais.",
+        "fact": "Des archéologues ont retrouvé des pots de miel dans des tombes égyptiennes antiques, encore comestibles des milliers d'années plus tard, grâce à sa faible teneur en eau et à son acidité naturelle, qui empêchent les bactéries de survivre."
+      },
+      "nl": {
+        "hook": "Honing bederft nooit.",
+        "fact": "Archeologen hebben potten honing gevonden in oude Egyptische graven die duizenden jaren later nog steeds eetbaar waren, dankzij het lage vochtgehalte en de natuurlijke zuurgraad van honing, die bacteriën beletten te overleven."
+      },
+      "es": {
+        "hook": "La miel nunca caduca.",
+        "fact": "Los arqueólogos han encontrado tarros de miel en tumbas del antiguo Egipto que seguían siendo comestibles miles de años después, gracias a su baja humedad y su acidez natural, que impiden que sobrevivan las bacterias."
+      }
+    }
   },
   {
     "id": "science-017",
     "domain": "science",
     "hook": "Your brain uses about 20% of your body's energy.",
     "fact": "Despite being only about 2% of body weight, the brain consumes roughly a fifth of the body's total energy, mostly to keep neurons firing and maintaining electrical signals.",
-    "tags": ["biology", "human-body"]
+    "tags": ["biology", "human-body"],
+    "translations": {
+      "fr": {
+        "hook": "Votre cerveau consomme environ 20 % de l'énergie de votre corps.",
+        "fact": "Bien qu'il ne représente qu'environ 2 % du poids corporel, le cerveau consomme près d'un cinquième de l'énergie totale du corps, principalement pour faire fonctionner les neurones et maintenir les signaux électriques."
+      },
+      "nl": {
+        "hook": "Je hersenen verbruiken zo'n 20% van de energie van je lichaam.",
+        "fact": "Hoewel de hersenen maar zo'n 2% van het lichaamsgewicht uitmaken, verbruiken ze ongeveer een vijfde van de totale energie van het lichaam, vooral om neuronen te laten vuren en elektrische signalen in stand te houden."
+      },
+      "es": {
+        "hook": "Tu cerebro consume cerca del 20% de la energía de tu cuerpo.",
+        "fact": "Aunque representa solo un 2% del peso corporal, el cerebro consume aproximadamente una quinta parte de la energía total del cuerpo, sobre todo para mantener a las neuronas activas y las señales eléctricas en marcha."
+      }
+    }
   },
   {
     "id": "science-018",
     "domain": "science",
     "hook": "Sharks existed before trees.",
     "fact": "Sharks appeared in the fossil record around 400 million years ago, roughly 50 million years before the first trees evolved.",
-    "tags": ["biology", "evolution"]
+    "tags": ["biology", "evolution"],
+    "translations": {
+      "fr": {
+        "hook": "Les requins existaient avant les arbres.",
+        "fact": "Les requins sont apparus dans les archives fossiles il y a environ 400 millions d'années, soit près de 50 millions d'années avant l'apparition des premiers arbres."
+      },
+      "nl": {
+        "hook": "Haaien bestonden al voor er bomen waren.",
+        "fact": "Haaien verschijnen zo'n 400 miljoen jaar geleden in het fossielenbestand, ongeveer 50 miljoen jaar vóór de eerste bomen ontstonden."
+      },
+      "es": {
+        "hook": "Los tiburones existían antes que los árboles.",
+        "fact": "Los tiburones aparecen en el registro fósil hace unos 400 millones de años, cerca de 50 millones de años antes de que evolucionaran los primeros árboles."
+      }
+    }
   },
   {
     "id": "science-019",
@@ -136,118 +403,359 @@
     "hook": "Ice is one of the few solids that floats on its own liquid.",
     "fact": "Water is unusual in that it expands when it freezes, making ice less dense than liquid water — which is why it floats.",
     "whyItMatters": "Frozen lakes freeze from the top down, insulating the water below so fish and other life can survive winter.",
-    "tags": ["chemistry", "physics"]
+    "tags": ["chemistry", "physics"],
+    "translations": {
+      "fr": {
+        "hook": "La glace est l'un des rares solides qui flottent sur leur propre liquide.",
+        "fact": "L'eau a la particularité de se dilater en gelant, ce qui rend la glace moins dense que l'eau liquide — c'est pour cela qu'elle flotte.",
+        "whyItMatters": "Les lacs gèlent de la surface vers le fond, ce qui isole l'eau en dessous et permet aux poissons et à la vie aquatique de survivre à l'hiver."
+      },
+      "nl": {
+        "hook": "IJs is een van de weinige vaste stoffen die drijven op hun eigen vloeistof.",
+        "fact": "Water is bijzonder omdat het uitzet wanneer het bevriest, waardoor ijs minder dicht is dan vloeibaar water — daarom drijft het.",
+        "whyItMatters": "Meren bevriezen van boven naar beneden, waardoor het water eronder geïsoleerd blijft en vissen en ander leven de winter kunnen overleven."
+      },
+      "es": {
+        "hook": "El hielo es uno de los pocos sólidos que flotan en su propio líquido.",
+        "fact": "El agua es peculiar porque se expande al congelarse, lo que hace que el hielo sea menos denso que el agua líquida — por eso flota.",
+        "whyItMatters": "Los lagos se congelan de arriba hacia abajo, lo que aísla el agua de debajo y permite que los peces y otras formas de vida sobrevivan al invierno."
+      }
+    }
   },
   {
     "id": "science-020",
     "domain": "science",
     "hook": "Octopus blood is blue.",
     "fact": "Octopuses and squid use a copper-based molecule called hemocyanin to carry oxygen in their blood, instead of the iron-based hemoglobin that makes human blood red.",
-    "tags": ["biology", "animals"]
+    "tags": ["biology", "animals"],
+    "translations": {
+      "fr": {
+        "hook": "Le sang du poulpe est bleu.",
+        "fact": "Les poulpes et les calmars utilisent une molécule à base de cuivre appelée hémocyanine pour transporter l'oxygène dans leur sang, au lieu de l'hémoglobine à base de fer qui donne sa couleur rouge au sang humain."
+      },
+      "nl": {
+        "hook": "Het bloed van een octopus is blauw.",
+        "fact": "Octopussen en inktvissen gebruiken een molecuul op basis van koper, hemocyanine genaamd, om zuurstof door hun bloed te vervoeren, in plaats van de ijzerhoudende hemoglobine die mensenbloed rood kleurt."
+      },
+      "es": {
+        "hook": "La sangre del pulpo es azul.",
+        "fact": "Los pulpos y los calamares usan una molécula a base de cobre llamada hemocianina para transportar oxígeno en la sangre, en lugar de la hemoglobina a base de hierro que da el color rojo a la sangre humana."
+      }
+    }
   },
   {
     "id": "science-021",
     "domain": "science",
     "hook": "Lightning strikes Earth 44 times every second.",
     "fact": "On average, lightning strikes somewhere on the planet about 44 times per second, adding up to roughly 8 million strikes a day.",
-    "tags": ["weather", "physics"]
+    "tags": ["weather", "physics"],
+    "translations": {
+      "fr": {
+        "hook": "La foudre frappe la Terre 44 fois par seconde.",
+        "fact": "En moyenne, la foudre frappe quelque part sur la planète environ 44 fois par seconde, soit près de 8 millions d'impacts par jour."
+      },
+      "nl": {
+        "hook": "De bliksem slaat 44 keer per seconde in op aarde.",
+        "fact": "Gemiddeld slaat de bliksem ergens ter wereld zo'n 44 keer per seconde in, wat neerkomt op ongeveer 8 miljoen inslagen per dag."
+      },
+      "es": {
+        "hook": "Un rayo cae en la Tierra 44 veces por segundo.",
+        "fact": "En promedio, cae un rayo en algún punto del planeta unas 44 veces por segundo, lo que suma cerca de 8 millones de rayos al día."
+      }
+    }
   },
   {
     "id": "science-022",
     "domain": "science",
     "hook": "The Eiffel Tower grows taller in summer.",
     "fact": "Heat makes the Eiffel Tower's iron structure expand, adding around 15 centimeters to its height on hot summer days compared to winter.",
-    "tags": ["physics", "materials"]
+    "tags": ["physics", "materials"],
+    "translations": {
+      "fr": {
+        "hook": "La tour Eiffel grandit en été.",
+        "fact": "La chaleur dilate la structure en fer de la tour Eiffel, ce qui ajoute environ 15 centimètres à sa hauteur les jours chauds d'été par rapport à l'hiver."
+      },
+      "nl": {
+        "hook": "De Eiffeltoren wordt groter in de zomer.",
+        "fact": "Door de hitte zet de ijzeren structuur van de Eiffeltoren uit, waardoor hij op warme zomerdagen zo'n 15 centimeter hoger is dan in de winter."
+      },
+      "es": {
+        "hook": "La torre Eiffel crece en verano.",
+        "fact": "El calor hace que la estructura de hierro de la torre Eiffel se dilate, añadiendo unos 15 centímetros a su altura en los días calurosos de verano en comparación con el invierno."
+      }
+    }
   },
   {
     "id": "science-023",
     "domain": "science",
     "hook": "Sound moves about four times faster through water than air.",
     "fact": "Because water molecules are packed much more tightly than air molecules, sound waves travel through water at roughly 1,480 meters per second, compared to about 340 in air.",
-    "tags": ["physics"]
+    "tags": ["physics"],
+    "translations": {
+      "fr": {
+        "hook": "Le son se déplace environ quatre fois plus vite dans l'eau que dans l'air.",
+        "fact": "Comme les molécules d'eau sont beaucoup plus serrées que celles de l'air, les ondes sonores se propagent dans l'eau à environ 1 480 mètres par seconde, contre environ 340 dans l'air."
+      },
+      "nl": {
+        "hook": "Geluid reist ongeveer vier keer sneller door water dan door lucht.",
+        "fact": "Omdat watermoleculen veel dichter op elkaar zitten dan luchtmoleculen, reizen geluidsgolven door water met zo'n 1.480 meter per seconde, tegenover ongeveer 340 in lucht."
+      },
+      "es": {
+        "hook": "El sonido viaja unas cuatro veces más rápido en el agua que en el aire.",
+        "fact": "Como las moléculas de agua están mucho más apretadas que las del aire, las ondas sonoras viajan por el agua a unos 1.480 metros por segundo, frente a unos 340 en el aire."
+      }
+    }
   },
   {
     "id": "science-024",
     "domain": "science",
     "hook": "Hot water can sometimes freeze faster than cold water.",
     "fact": "Under certain conditions, hot water freezes faster than cold water — a puzzling effect named after Erasto Mpemba, the Tanzanian student who documented it in 1963. Scientists still debate exactly why it happens.",
-    "tags": ["physics", "chemistry"]
+    "tags": ["physics", "chemistry"],
+    "translations": {
+      "fr": {
+        "hook": "L'eau chaude peut parfois geler plus vite que l'eau froide.",
+        "fact": "Dans certaines conditions, l'eau chaude gèle plus vite que l'eau froide — un phénomène déroutant baptisé effet Mpemba, du nom d'Erasto Mpemba, l'étudiant tanzanien qui l'a documenté en 1963. Les scientifiques débattent encore de son explication exacte."
+      },
+      "nl": {
+        "hook": "Warm water kan soms sneller bevriezen dan koud water.",
+        "fact": "Onder bepaalde omstandigheden bevriest warm water sneller dan koud water — een raadselachtig effect genoemd naar Erasto Mpemba, de Tanzaniaanse student die het in 1963 documenteerde. Wetenschappers discussiëren nog steeds over de precieze oorzaak."
+      },
+      "es": {
+        "hook": "A veces el agua caliente se congela más rápido que el agua fría.",
+        "fact": "Bajo ciertas condiciones, el agua caliente se congela más rápido que el agua fría — un efecto desconcertante llamado efecto Mpemba, en honor a Erasto Mpemba, el estudiante tanzano que lo documentó en 1963. Los científicos aún debaten por qué ocurre exactamente."
+      }
+    }
   },
   {
     "id": "science-025",
     "domain": "science",
     "hook": "Your cells repair tens of thousands of DNA errors every day.",
     "fact": "Everyday processes like sunlight, chemicals, and simple cell division damage DNA constantly — the body's repair enzymes fix tens of thousands of these breaks and errors per cell, per day.",
-    "tags": ["biology", "genetics"]
+    "tags": ["biology", "genetics"],
+    "translations": {
+      "fr": {
+        "hook": "Vos cellules réparent des dizaines de milliers d'erreurs d'ADN chaque jour.",
+        "fact": "Des processus quotidiens comme le soleil, les produits chimiques et la simple division cellulaire endommagent constamment l'ADN — les enzymes de réparation du corps corrigent des dizaines de milliers de ces cassures et erreurs par cellule, chaque jour."
+      },
+      "nl": {
+        "hook": "Je cellen herstellen elke dag tienduizenden DNA-fouten.",
+        "fact": "Alledaagse processen zoals zonlicht, chemicaliën en gewone celdeling beschadigen voortdurend DNA — de reparatie-enzymen van het lichaam herstellen dagelijks tienduizenden van deze breuken en fouten per cel."
+      },
+      "es": {
+        "hook": "Tus células reparan decenas de miles de errores de ADN cada día.",
+        "fact": "Procesos cotidianos como el sol, los productos químicos y la simple división celular dañan el ADN constantemente — las enzimas reparadoras del cuerpo corrigen decenas de miles de estas roturas y errores por célula, cada día."
+      }
+    }
   },
   {
     "id": "science-026",
     "domain": "science",
     "hook": "There are more possible chess games than atoms in the universe.",
     "fact": "The number of distinct ways a chess game can unfold, known as the Shannon number, is estimated at around 10^120 — far more than the roughly 10^80 atoms thought to exist in the observable universe.",
-    "tags": ["math", "trivia"]
+    "tags": ["math", "trivia"],
+    "translations": {
+      "fr": {
+        "hook": "Il existe plus de parties d'échecs possibles que d'atomes dans l'univers.",
+        "fact": "Le nombre de façons distinctes dont une partie d'échecs peut se dérouler, appelé nombre de Shannon, est estimé à environ 10^120 — bien plus que les quelque 10^80 atomes que compterait l'univers observable."
+      },
+      "nl": {
+        "hook": "Er zijn meer mogelijke schaakpartijen dan atomen in het heelal.",
+        "fact": "Het aantal verschillende manieren waarop een schaakpartij kan verlopen, het Shannon-getal genoemd, wordt geschat op ongeveer 10^120 — veel meer dan de ongeveer 10^80 atomen die het waarneembare heelal naar schatting telt."
+      },
+      "es": {
+        "hook": "Hay más partidas de ajedrez posibles que átomos en el universo.",
+        "fact": "El número de formas distintas en que puede desarrollarse una partida de ajedrez, conocido como número de Shannon, se estima en unos 10^120 — muchísimo más que los aproximadamente 10^80 átomos que se cree existen en el universo observable."
+      }
+    }
   },
   {
     "id": "science-027",
     "domain": "science",
     "hook": "Your jaw muscle is the strongest one in your body, pound for pound.",
     "fact": "The masseter, the muscle used for chewing, can generate more force relative to its size than any other muscle in the human body.",
-    "tags": ["biology", "human-body"]
+    "tags": ["biology", "human-body"],
+    "translations": {
+      "fr": {
+        "hook": "Votre muscle de la mâchoire est le plus puissant de votre corps, à taille égale.",
+        "fact": "Le masséter, le muscle utilisé pour mâcher, peut générer plus de force par rapport à sa taille que n'importe quel autre muscle du corps humain."
+      },
+      "nl": {
+        "hook": "Je kaakspier is, in verhouding tot zijn grootte, de sterkste spier van je lichaam.",
+        "fact": "De masseter, de spier die je gebruikt om te kauwen, kan meer kracht genereren in verhouding tot zijn grootte dan enige andere spier in het menselijk lichaam."
+      },
+      "es": {
+        "hook": "Tu músculo de la mandíbula es el más fuerte de tu cuerpo en relación con su tamaño.",
+        "fact": "El masetero, el músculo que se usa para masticar, puede generar más fuerza en relación con su tamaño que cualquier otro músculo del cuerpo humano."
+      }
+    }
   },
   {
     "id": "science-028",
     "domain": "science",
     "hook": "Elephants can recognize themselves in a mirror.",
     "fact": "Elephants are among a small handful of species — along with humans, great apes, and dolphins — that have passed the mirror self-recognition test, suggesting a form of self-awareness.",
-    "tags": ["biology", "animals"]
+    "tags": ["biology", "animals"],
+    "translations": {
+      "fr": {
+        "hook": "Les éléphants se reconnaissent dans un miroir.",
+        "fact": "Les éléphants font partie d'une poignée d'espèces — aux côtés des humains, des grands singes et des dauphins — qui ont réussi le test de reconnaissance de soi dans un miroir, ce qui suggère une forme de conscience de soi."
+      },
+      "nl": {
+        "hook": "Olifanten herkennen zichzelf in een spiegel.",
+        "fact": "Olifanten behoren tot een klein groepje diersoorten — samen met mensen, mensapen en dolfijnen — die de spiegeltest voor zelfherkenning hebben doorstaan, wat wijst op een vorm van zelfbewustzijn."
+      },
+      "es": {
+        "hook": "Los elefantes se reconocen a sí mismos en un espejo.",
+        "fact": "Los elefantes están entre el puñado de especies — junto con los humanos, los grandes simios y los delfines — que han superado la prueba de autorreconocimiento en el espejo, lo que sugiere una forma de conciencia de sí mismos."
+      }
+    }
   },
   {
     "id": "science-029",
     "domain": "science",
     "hook": "A single cloud can weigh over a million pounds.",
     "fact": "A typical cumulus cloud contains so many water droplets that it can weigh well over a million pounds — the droplets are simply spread out and light enough to stay airborne.",
-    "tags": ["weather", "physics"]
+    "tags": ["weather", "physics"],
+    "translations": {
+      "fr": {
+        "hook": "Un seul nuage peut peser plus d'un million de livres.",
+        "fact": "Un cumulus typique contient tellement de gouttelettes d'eau qu'il peut peser bien plus d'un million de livres — les gouttelettes sont simplement dispersées et assez légères pour rester en suspension dans l'air."
+      },
+      "nl": {
+        "hook": "Eén enkele wolk kan meer dan een miljoen pond wegen.",
+        "fact": "Een gewone cumuluswolk bevat zoveel waterdruppeltjes dat hij ruim meer dan een miljoen pond kan wegen — de druppeltjes zijn simpelweg verspreid en licht genoeg om in de lucht te blijven zweven."
+      },
+      "es": {
+        "hook": "Una sola nube puede pesar más de un millón de libras.",
+        "fact": "Una nube cúmulo típica contiene tantas gotas de agua que puede pesar bastante más de un millón de libras — las gotas simplemente están dispersas y son lo bastante ligeras como para flotar en el aire."
+      }
+    }
   },
   {
     "id": "science-030",
     "domain": "science",
     "hook": "The human eye can distinguish about 10 million colors.",
     "fact": "Three types of light-sensitive cone cells in the retina work together to let most people perceive an estimated 10 million distinct shades of color.",
-    "tags": ["biology", "human-body"]
+    "tags": ["biology", "human-body"],
+    "translations": {
+      "fr": {
+        "hook": "L'œil humain peut distinguer environ 10 millions de couleurs.",
+        "fact": "Trois types de cellules photosensibles, les cônes, situées dans la rétine, travaillent ensemble pour permettre à la plupart des gens de percevoir environ 10 millions de nuances de couleur distinctes."
+      },
+      "nl": {
+        "hook": "Het menselijk oog kan ongeveer 10 miljoen kleuren onderscheiden.",
+        "fact": "Drie soorten lichtgevoelige kegeltjes in het netvlies werken samen zodat de meeste mensen naar schatting 10 miljoen verschillende kleurtinten kunnen waarnemen."
+      },
+      "es": {
+        "hook": "El ojo humano puede distinguir cerca de 10 millones de colores.",
+        "fact": "Tres tipos de células fotosensibles llamadas conos, presentes en la retina, trabajan juntas para permitir que la mayoría de las personas perciban unos 10 millones de tonos de color distintos."
+      }
+    }
   },
   {
     "id": "science-031",
     "domain": "science",
     "hook": "Tardigrades can survive being frozen, boiled, and shot into space.",
     "fact": "These microscopic 'water bears' can survive extreme cold near absolute zero, intense heat, total dehydration, and even the vacuum of space, entering a dormant state until conditions improve.",
-    "tags": ["biology", "animals"]
+    "tags": ["biology", "animals"],
+    "translations": {
+      "fr": {
+        "hook": "Les tardigrades peuvent survivre au gel, à l'ébullition et même au vide spatial.",
+        "fact": "Ces « oursons d'eau » microscopiques peuvent survivre à un froid extrême proche du zéro absolu, à une chaleur intense, à une déshydratation totale et même au vide de l'espace, en entrant dans un état de dormance jusqu'à ce que les conditions s'améliorent."
+      },
+      "nl": {
+        "hook": "Beerdiertjes overleven bevriezing, koken en zelfs de ruimte.",
+        "fact": "Deze microscopisch kleine 'beerdiertjes' kunnen extreme kou tot bijna het absolute nulpunt, intense hitte, volledige uitdroging en zelfs het vacuüm van de ruimte overleven, door in een sluimertoestand te gaan tot de omstandigheden verbeteren."
+      },
+      "es": {
+        "hook": "Los tardígrados sobreviven a la congelación, la ebullición e incluso al espacio.",
+        "fact": "Estos microscópicos «osos de agua» pueden sobrevivir a un frío extremo cercano al cero absoluto, a un calor intenso, a la deshidratación total e incluso al vacío del espacio, entrando en un estado latente hasta que las condiciones mejoran."
+      }
+    }
   },
   {
     "id": "science-032",
     "domain": "science",
     "hook": "Wombats poop in cubes.",
     "fact": "Wombat droppings come out cube-shaped, a quirk caused by varying elasticity in sections of their intestines — the flat sides keep the droppings from rolling away once used to mark territory.",
-    "tags": ["biology", "animals"]
+    "tags": ["biology", "animals"],
+    "translations": {
+      "fr": {
+        "hook": "Les wombats font des crottes cubiques.",
+        "fact": "Les excréments du wombat sortent en forme de cube, une particularité due à l'élasticité variable de certaines sections de son intestin — les faces plates empêchent les crottes de rouler une fois utilisées pour marquer le territoire."
+      },
+      "nl": {
+        "hook": "Wombats poepen in kubusvorm.",
+        "fact": "De uitwerpselen van een wombat komen kubusvormig naar buiten, een eigenaardigheid veroorzaakt door de wisselende elasticiteit van delen van de darmen — de platte zijden voorkomen dat de keutels wegrollen zodra ze gebruikt worden om territorium af te bakenen."
+      },
+      "es": {
+        "hook": "Los wombats hacen caca en forma de cubo.",
+        "fact": "Los excrementos del wombat salen con forma de cubo, una peculiaridad causada por la elasticidad variable de partes de su intestino — los lados planos evitan que las heces rueden una vez que se usan para marcar territorio."
+      }
+    }
   },
   {
     "id": "science-033",
     "domain": "science",
     "hook": "Venom and poison aren't the same thing.",
     "fact": "Venom has to be injected into the body to cause harm, usually through a bite or sting, while poison causes harm if it's touched, inhaled, or eaten.",
-    "tags": ["biology"]
+    "tags": ["biology"],
+    "translations": {
+      "fr": {
+        "hook": "Venin et poison ne sont pas la même chose.",
+        "fact": "Le venin doit être injecté dans le corps pour faire du mal, généralement par une morsure ou une piqûre, tandis que le poison agit s'il est touché, inhalé ou avalé."
+      },
+      "nl": {
+        "hook": "Gif dat wordt ingespoten, is iets anders dan gif waar je alleen mee in aanraking hoeft te komen.",
+        "fact": "Gif dat via een beet of steek in het lichaam wordt gebracht, noemen we venijn; gif dat al schade aanricht zodra je het aanraakt, inademt of inslikt, noemen we gewoon gif."
+      },
+      "es": {
+        "hook": "Veneno inyectado y veneno de contacto no son lo mismo.",
+        "fact": "El veneno debe inyectarse en el cuerpo para hacer daño, normalmente mediante una mordedura o picadura, mientras que un tóxico causa daño con solo tocarlo, inhalarlo o comerlo."
+      }
+    }
   },
   {
     "id": "science-034",
     "domain": "science",
     "hook": "The five-second rule doesn't really hold up.",
     "fact": "Research on dropped food has found that bacteria can transfer to food almost instantly on contact with a surface — often in under a second, regardless of how quickly it's picked back up.",
-    "tags": ["biology", "myths"]
+    "tags": ["biology", "myths"],
+    "translations": {
+      "fr": {
+        "hook": "La règle des cinq secondes ne tient pas vraiment la route.",
+        "fact": "Des recherches sur la nourriture tombée par terre ont montré que les bactéries peuvent se transférer sur un aliment presque instantanément au contact d'une surface — souvent en moins d'une seconde, peu importe la rapidité avec laquelle on le ramasse."
+      },
+      "nl": {
+        "hook": "De vijfsecondenregel klopt eigenlijk niet.",
+        "fact": "Onderzoek naar eten dat op de grond valt, heeft aangetoond dat bacteriën vrijwel meteen overspringen op voedsel bij contact met een oppervlak — vaak binnen een seconde, ongeacht hoe snel je het weer opraapt."
+      },
+      "es": {
+        "hook": "La regla de los cinco segundos en realidad no se sostiene.",
+        "fact": "Investigaciones sobre la comida que se cae al suelo han comprobado que las bacterias pueden pasar a un alimento casi al instante al tocar una superficie — a menudo en menos de un segundo, sin importar lo rápido que se recoja."
+      }
+    }
   },
   {
     "id": "science-035",
     "domain": "science",
     "hook": "Crows can recognize individual human faces — and hold grudges.",
     "fact": "Studies have shown crows can distinguish specific human faces, remember people who have threatened them, and even pass that information on to other crows for years afterward.",
-    "tags": ["biology", "animals"]
+    "tags": ["biology", "animals"],
+    "translations": {
+      "fr": {
+        "hook": "Les corbeaux reconnaissent des visages humains précis — et gardent rancune.",
+        "fact": "Des études ont montré que les corbeaux peuvent distinguer des visages humains précis, se souvenir des personnes qui les ont menacés, et même transmettre cette information à d'autres corbeaux pendant des années."
+      },
+      "nl": {
+        "hook": "Kraaien herkennen individuele menselijke gezichten — en dragen wraakgevoelens met zich mee.",
+        "fact": "Onderzoek heeft aangetoond dat kraaien specifieke menselijke gezichten kunnen onderscheiden, mensen onthouden die hen bedreigd hebben, en die informatie zelfs jarenlang doorgeven aan andere kraaien."
+      },
+      "es": {
+        "hook": "Los cuervos reconocen caras humanas concretas — y guardan rencor.",
+        "fact": "Estudios han demostrado que los cuervos pueden distinguir caras humanas concretas, recordar a las personas que los han amenazado e incluso transmitir esa información a otros cuervos durante años."
+      }
+    }
   }
 ]

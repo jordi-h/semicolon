@@ -2,6 +2,7 @@ import { useCallback, useRef, useState } from 'react'
 import { toBlob } from 'html-to-image'
 
 import { factShareUrl } from '@/features/share/factShareUrl'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import type { Fact } from '@/lib/types'
 
 export type ShareStatus = 'idle' | 'generating' | 'error'
@@ -16,6 +17,7 @@ function downloadBlob(blob: Blob, filename: string) {
 }
 
 export function useShareFact(fact: Fact) {
+  const { t } = useLocale()
   const nodeRef = useRef<HTMLDivElement>(null)
   const [status, setStatus] = useState<ShareStatus>('idle')
   const [message, setMessage] = useState<string | null>(null)
@@ -38,14 +40,14 @@ export function useShareFact(fact: Fact) {
 
       if (navigator.canShare?.({ files: [file] })) {
         await navigator.share({ files: [file], title: 'semicolon', text: fact.hook, url: shareUrl })
-        setMessage('Shared!')
+        setMessage(t('share.shared'))
       } else {
         downloadBlob(blob, filename)
         try {
           await navigator.clipboard.writeText(shareUrl)
-          setMessage('Image saved & link copied!')
+          setMessage(t('share.imageSavedLinkCopied'))
         } catch {
-          setMessage('Image saved!')
+          setMessage(t('share.imageSaved'))
         }
       }
       setStatus('idle')
@@ -56,11 +58,11 @@ export function useShareFact(fact: Fact) {
         return
       }
       setStatus('error')
-      setMessage('Could not share — try again')
+      setMessage(t('share.error'))
     } finally {
       setTimeout(() => setMessage(null), 2200)
     }
-  }, [fact, status])
+  }, [fact, status, t])
 
   return { nodeRef, share, status, message }
 }

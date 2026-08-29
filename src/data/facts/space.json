@@ -4,209 +4,359 @@
     "domain": "space",
     "hook": "A day on Venus is longer than its year.",
     "fact": "Venus takes about 243 Earth days to rotate once on its axis, but only about 225 Earth days to orbit the sun — making its day longer than its year.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Une journée sur Vénus dure plus longtemps qu'une année.", "fact": "Vénus met environ 243 jours terrestres pour effectuer une rotation sur elle-même, mais seulement environ 225 jours terrestres pour faire le tour du Soleil — ce qui rend sa journée plus longue que son année." },
+      "nl": { "hook": "Een dag op Venus duurt langer dan een jaar.", "fact": "Venus doet er ongeveer 243 aardse dagen over om één keer om zijn as te draaien, maar slechts zo'n 225 aardse dagen om rond de zon te draaien — waardoor een dag er langer duurt dan een jaar." },
+      "es": { "hook": "Un día en Venus dura más que su año.", "fact": "Venus tarda unos 243 días terrestres en rotar una vez sobre su eje, pero solo unos 225 días terrestres en orbitar el Sol, lo que hace que su día sea más largo que su año." }
+    }
   },
   {
     "id": "space-002",
     "domain": "space",
     "hook": "There's a planet where it may rain diamonds.",
     "fact": "Scientists believe the immense pressure inside Neptune and Uranus could compress carbon into diamonds that rain down toward their cores.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Sur certaines planètes, il pourrait pleuvoir des diamants.", "fact": "Les scientifiques pensent que l'immense pression régnant à l'intérieur de Neptune et d'Uranus pourrait comprimer le carbone en diamants, qui tomberaient alors en pluie vers leur noyau." },
+      "nl": { "hook": "Op sommige planeten zou het diamanten kunnen regenen.", "fact": "Wetenschappers denken dat de enorme druk binnen in Neptunus en Uranus koolstof kan samenpersen tot diamanten, die vervolgens richting de kern neerregenen." },
+      "es": { "hook": "En algunos planetas podría llover diamantes.", "fact": "Los científicos creen que la enorme presión en el interior de Neptuno y Urano podría comprimir el carbono en diamantes, que caerían como lluvia hacia sus núcleos." }
+    }
   },
   {
     "id": "space-003",
     "domain": "space",
     "hook": "The footprints on the Moon could last millions of years.",
     "fact": "With no wind, water, or atmosphere to erode them, footprints left by Apollo astronauts on the Moon's surface could remain visible for millions of years.",
-    "tags": ["moon", "exploration"]
+    "tags": ["moon", "exploration"],
+    "translations": {
+      "fr": { "hook": "Les empreintes de pas sur la Lune pourraient durer des millions d'années.", "fact": "En l'absence de vent, d'eau ou d'atmosphère pour les éroder, les empreintes laissées par les astronautes d'Apollo à la surface de la Lune pourraient rester visibles pendant des millions d'années." },
+      "nl": { "hook": "De voetafdrukken op de maan kunnen miljoenen jaren blijven bestaan.", "fact": "Zonder wind, water of atmosfeer om ze te eroderen, kunnen de voetafdrukken die Apollo-astronauten op het maanoppervlak achterlieten miljoenen jaren zichtbaar blijven." },
+      "es": { "hook": "Las huellas en la Luna podrían durar millones de años.", "fact": "Sin viento, agua ni atmósfera que las erosionen, las huellas dejadas por los astronautas del Apolo en la superficie lunar podrían seguir siendo visibles durante millones de años." }
+    }
   },
   {
     "id": "space-004",
     "domain": "space",
     "hook": "One teaspoon of a neutron star outweighs Mount Everest.",
     "fact": "Neutron stars are so dense that a single teaspoon of their material would weigh billions of tons — far more than any mountain on Earth.",
-    "tags": ["stars"]
+    "tags": ["stars"],
+    "translations": {
+      "fr": { "hook": "Une cuillère à café de matière d'étoile à neutrons pèse plus que le mont Everest.", "fact": "Les étoiles à neutrons sont si denses qu'une simple cuillère à café de leur matière pèserait plusieurs milliards de tonnes — bien plus que n'importe quelle montagne sur Terre." },
+      "nl": { "hook": "Eén theelepel materie van een neutronenster weegt meer dan de Mount Everest.", "fact": "Neutronensterren zijn zo dicht dat een enkele theelepel van hun materie miljarden tonnen zou wegen — veel meer dan welke berg op aarde dan ook." },
+      "es": { "hook": "Una cucharadita de una estrella de neutrones pesa más que el Everest.", "fact": "Las estrellas de neutrones son tan densas que una simple cucharadita de su materia pesaría miles de millones de toneladas, mucho más que cualquier montaña de la Tierra." }
+    }
   },
   {
     "id": "space-005",
     "domain": "space",
     "hook": "The Sun accounts for 99.8% of the mass in our solar system.",
     "fact": "The Sun is so massive that nearly everything else in the solar system — all eight planets, moons, asteroids, and comets combined — makes up only about 0.2% of its total mass.",
-    "tags": ["sun", "solar-system"]
+    "tags": ["sun", "solar-system"],
+    "translations": {
+      "fr": { "hook": "Le Soleil représente 99,8 % de la masse de notre système solaire.", "fact": "Le Soleil est si massif que presque tout le reste du système solaire — les huit planètes, les lunes, les astéroïdes et les comètes réunis — ne représente qu'environ 0,2 % de sa masse totale." },
+      "nl": { "hook": "De zon vertegenwoordigt 99,8% van de massa van ons zonnestelsel.", "fact": "De zon is zo massief dat bijna al het andere in het zonnestelsel — alle acht planeten, manen, asteroïden en kometen samen — slechts ongeveer 0,2% van de totale massa uitmaakt." },
+      "es": { "hook": "El Sol representa el 99,8% de la masa de nuestro sistema solar.", "fact": "El Sol es tan masivo que casi todo lo demás en el sistema solar —los ocho planetas, las lunas, los asteroides y los cometas juntos— apenas suma un 0,2% de su masa total." }
+    }
   },
   {
     "id": "space-006",
     "domain": "space",
     "hook": "Space isn't completely silent everywhere.",
     "fact": "While sound can't travel through the vacuum of space, dense clouds of gas and plasma can carry pressure waves — NASA has 'sonified' data from black holes into audible sound by mapping detected waves to frequencies humans can hear.",
-    "tags": ["astronomy"]
+    "tags": ["astronomy"],
+    "translations": {
+      "fr": { "hook": "L'espace n'est pas partout totalement silencieux.", "fact": "Si le son ne peut pas se propager dans le vide spatial, les nuages denses de gaz et de plasma peuvent transporter des ondes de pression — la NASA a 'sonifié' des données issues de trous noirs en son audible, en convertissant les ondes détectées en fréquences perceptibles par l'oreille humaine." },
+      "nl": { "hook": "De ruimte is niet overal volledig stil.", "fact": "Geluid kan zich niet voortplanten in het vacuüm van de ruimte, maar dichte wolken van gas en plasma kunnen drukgolven dragen — NASA heeft data van zwarte gaten 'gesonificeerd' tot hoorbaar geluid door de gedetecteerde golven om te zetten naar frequenties die mensen kunnen horen." },
+      "es": { "hook": "El espacio no es completamente silencioso en todas partes.", "fact": "Aunque el sonido no puede viajar por el vacío del espacio, las densas nubes de gas y plasma pueden transportar ondas de presión — la NASA ha 'sonificado' datos de agujeros negros convirtiéndolos en sonido audible, traduciendo las ondas detectadas a frecuencias que el oído humano puede percibir." }
+    }
   },
   {
     "id": "space-007",
     "domain": "space",
     "hook": "There are more stars than grains of sand on every beach on Earth.",
     "fact": "Astronomers estimate there are roughly 10^24 stars in the observable universe, a number that likely exceeds the total grains of sand on every beach and desert on the planet combined.",
-    "tags": ["stars", "universe"]
+    "tags": ["stars", "universe"],
+    "translations": {
+      "fr": { "hook": "Il y a plus d'étoiles que de grains de sable sur toutes les plages de la Terre.", "fact": "Les astronomes estiment qu'il existe environ 10^24 étoiles dans l'univers observable, un nombre qui dépasserait le total des grains de sable de toutes les plages et déserts de la planète réunis." },
+      "nl": { "hook": "Er zijn meer sterren dan zandkorrels op alle stranden van de aarde samen.", "fact": "Astronomen schatten dat er ongeveer 10^24 sterren zijn in het waarneembare heelal — een aantal dat vermoedelijk groter is dan alle zandkorrels op elk strand en in elke woestijn op aarde samen." },
+      "es": { "hook": "Hay más estrellas que granos de arena en todas las playas de la Tierra.", "fact": "Los astrónomos calculan que hay unas 10^24 estrellas en el universo observable, una cifra que probablemente supera el total de granos de arena de todas las playas y desiertos del planeta juntos." }
+    }
   },
   {
     "id": "space-008",
     "domain": "space",
     "hook": "Saturn would float in water.",
     "fact": "Saturn's average density is lower than water's, so if you could find an ocean big enough, the entire planet would theoretically float on the surface.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Saturne flotterait sur l'eau.", "fact": "La densité moyenne de Saturne est inférieure à celle de l'eau, donc si l'on trouvait un océan assez grand, la planète entière flotterait théoriquement à sa surface." },
+      "nl": { "hook": "Saturnus zou drijven op water.", "fact": "De gemiddelde dichtheid van Saturnus is lager dan die van water, dus als er een oceaan groot genoeg was, zou de hele planeet in theorie aan het oppervlak drijven." },
+      "es": { "hook": "Saturno flotaría en el agua.", "fact": "La densidad media de Saturno es menor que la del agua, así que si existiera un océano lo bastante grande, el planeta entero flotaría teóricamente en la superficie." }
+    }
   },
   {
     "id": "space-009",
     "domain": "space",
     "hook": "The largest known star could swallow our entire solar system.",
     "fact": "UY Scuti, one of the largest known stars by radius, is so vast that if placed at the center of our solar system, its surface would extend out past the orbit of Jupiter.",
-    "tags": ["stars"]
+    "tags": ["stars"],
+    "translations": {
+      "fr": { "hook": "La plus grande étoile connue pourrait engloutir tout notre système solaire.", "fact": "UY Scuti, l'une des plus grandes étoiles connues par son rayon, est si immense que si elle était placée au centre de notre système solaire, sa surface s'étendrait au-delà de l'orbite de Jupiter." },
+      "nl": { "hook": "De grootste bekende ster zou ons hele zonnestelsel kunnen opslokken.", "fact": "UY Scuti, een van de grootste bekende sterren qua straal, is zo enorm dat als hij in het midden van ons zonnestelsel zou staan, zijn oppervlak tot voorbij de baan van Jupiter zou reiken." },
+      "es": { "hook": "La estrella más grande conocida podría engullir todo nuestro sistema solar.", "fact": "UY Scuti, una de las estrellas más grandes conocidas por su radio, es tan inmensa que si se colocara en el centro de nuestro sistema solar, su superficie se extendería más allá de la órbita de Júpiter." }
+    }
   },
   {
     "id": "space-010",
     "domain": "space",
     "hook": "A year on Mercury is shorter than a day.",
     "fact": "Mercury orbits the sun in just 88 Earth days, but it rotates so slowly that a single solar day there — sunrise to sunrise — lasts about 176 Earth days.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Une année sur Mercure est plus courte qu'un jour.", "fact": "Mercure fait le tour du Soleil en seulement 88 jours terrestres, mais elle tourne si lentement sur elle-même qu'un seul jour solaire — d'un lever de Soleil à l'autre — y dure environ 176 jours terrestres." },
+      "nl": { "hook": "Een jaar op Mercurius is korter dan een dag.", "fact": "Mercurius draait in slechts 88 aardse dagen rond de zon, maar draait zo traag om zijn as dat één enkele zonnedag — van zonsopgang tot zonsopgang — daar ongeveer 176 aardse dagen duurt." },
+      "es": { "hook": "Un año en Mercurio es más corto que un día.", "fact": "Mercurio orbita el Sol en tan solo 88 días terrestres, pero gira tan lentamente sobre sí mismo que un solo día solar allí —de amanecer a amanecer— dura unos 176 días terrestres." }
+    }
   },
   {
     "id": "space-011",
     "domain": "space",
     "hook": "Black holes can't be seen directly.",
     "fact": "Because not even light can escape a black hole's gravity, astronomers detect them indirectly by observing how they bend light and affect the motion of nearby stars and gas.",
-    "tags": ["black-holes"]
+    "tags": ["black-holes"],
+    "translations": {
+      "fr": { "hook": "Les trous noirs sont invisibles à l'œil nu.", "fact": "Comme même la lumière ne peut échapper à la gravité d'un trou noir, les astronomes les détectent indirectement en observant comment ils déforment la lumière et influencent le mouvement des étoiles et gaz environnants." },
+      "nl": { "hook": "Zwarte gaten zijn niet rechtstreeks te zien.", "fact": "Omdat zelfs licht niet aan de zwaartekracht van een zwart gat kan ontsnappen, sporen astronomen ze indirect op door te kijken hoe ze licht buigen en de beweging van nabije sterren en gas beïnvloeden." },
+      "es": { "hook": "Los agujeros negros no se pueden ver directamente.", "fact": "Como ni siquiera la luz puede escapar de la gravedad de un agujero negro, los astrónomos los detectan de forma indirecta observando cómo curvan la luz y afectan el movimiento de las estrellas y el gas cercanos." }
+    }
   },
   {
     "id": "space-012",
     "domain": "space",
     "hook": "The International Space Station orbits Earth every 90 minutes.",
     "fact": "The ISS travels at roughly 28,000 km/h, completing a full orbit of Earth about every 90 minutes — meaning astronauts on board see around 16 sunrises and sunsets each day.",
-    "tags": ["exploration"]
+    "tags": ["exploration"],
+    "translations": {
+      "fr": { "hook": "La Station spatiale internationale fait le tour de la Terre toutes les 90 minutes.", "fact": "L'ISS se déplace à environ 28 000 km/h et achève une orbite complète de la Terre toutes les 90 minutes environ — les astronautes à bord assistent donc à près de 16 levers et couchers de Soleil chaque jour." },
+      "nl": { "hook": "Het internationale ruimtestation draait elke 90 minuten rond de aarde.", "fact": "Het ISS beweegt met ongeveer 28.000 km/u en voltooit ongeveer elke 90 minuten een volledige omloop rond de aarde — waardoor de astronauten aan boord dagelijks zo'n 16 zonsopgangen en zonsondergangen meemaken." },
+      "es": { "hook": "La Estación Espacial Internacional orbita la Tierra cada 90 minutos.", "fact": "La ISS viaja a unos 28.000 km/h y completa una órbita entera alrededor de la Tierra cada 90 minutos aproximadamente, lo que significa que los astronautas a bordo ven unos 16 amaneceres y atardeceres cada día." }
+    }
   },
   {
     "id": "space-013",
     "domain": "space",
     "hook": "The universe is still expanding, and speeding up.",
     "fact": "Observations of distant supernovae in the late 1990s revealed that the universe's expansion isn't slowing down — it's accelerating, attributed to a mysterious force called dark energy.",
-    "tags": ["universe", "cosmology"]
+    "tags": ["universe", "cosmology"],
+    "translations": {
+      "fr": { "hook": "L'univers continue de s'étendre, et de plus en plus vite.", "fact": "Des observations de supernovae lointaines à la fin des années 1990 ont révélé que l'expansion de l'univers ne ralentit pas — elle accélère, un phénomène attribué à une force mystérieuse appelée énergie noire." },
+      "nl": { "hook": "Het heelal blijft uitdijen, en steeds sneller.", "fact": "Waarnemingen van verre supernova's eind jaren negentig toonden aan dat de uitdijing van het heelal niet vertraagt, maar juist versnelt — toegeschreven aan een mysterieuze kracht die donkere energie wordt genoemd." },
+      "es": { "hook": "El universo sigue expandiéndose, y cada vez más rápido.", "fact": "Observaciones de supernovas lejanas a finales de los años noventa revelaron que la expansión del universo no se ralentiza, sino que se acelera, un fenómeno atribuido a una misteriosa fuerza llamada energía oscura." }
+    }
   },
   {
     "id": "space-014",
     "domain": "space",
     "hook": "There's a giant storm on Jupiter older than any living human.",
     "fact": "Jupiter's Great Red Spot is a storm larger than Earth that has been observed continuously since at least the 1830s, and possibly much longer.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Une tempête géante sur Jupiter est plus vieille que n'importe quel être humain vivant.", "fact": "La Grande Tache rouge de Jupiter est une tempête plus grande que la Terre, observée en continu depuis au moins les années 1830, et peut-être depuis bien plus longtemps encore." },
+      "nl": { "hook": "Op Jupiter woedt een reusachtige storm die ouder is dan wie dan ook nu levend.", "fact": "De Grote Rode Vlek op Jupiter is een storm groter dan de aarde, die al minstens sinds de jaren 1830 ononderbroken wordt waargenomen — en mogelijk al veel langer." },
+      "es": { "hook": "En Júpiter hay una tormenta gigante más antigua que cualquier persona viva.", "fact": "La Gran Mancha Roja de Júpiter es una tormenta más grande que la Tierra que se ha observado sin interrupción desde al menos la década de 1830, y posiblemente desde mucho antes." }
+    }
   },
   {
     "id": "space-015",
     "domain": "space",
     "hook": "The tallest volcano in the solar system is on Mars.",
     "fact": "Olympus Mons on Mars is the largest known volcano in the solar system, standing about three times taller than Mount Everest.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Le plus haut volcan du système solaire se trouve sur Mars.", "fact": "Olympus Mons, sur Mars, est le plus grand volcan connu du système solaire, culminant à environ trois fois la hauteur du mont Everest." },
+      "nl": { "hook": "De hoogste vulkaan van het zonnestelsel staat op Mars.", "fact": "Olympus Mons op Mars is de grootste bekende vulkaan in het zonnestelsel en is ongeveer drie keer zo hoog als de Mount Everest." },
+      "es": { "hook": "El volcán más alto del sistema solar está en Marte.", "fact": "El monte Olimpo, en Marte, es el volcán más grande conocido del sistema solar, con una altura de casi el triple del monte Everest." }
+    }
   },
   {
     "id": "space-016",
     "domain": "space",
     "hook": "A single spacesuit costs around $12 million.",
     "fact": "Most of the cost of a NASA spacewalk suit comes from its life-support backpack, which supplies oxygen, regulates temperature, and removes carbon dioxide.",
-    "tags": ["exploration"]
+    "tags": ["exploration"],
+    "translations": {
+      "fr": { "hook": "Une seule combinaison spatiale coûte environ 12 millions de dollars.", "fact": "L'essentiel du coût d'une combinaison de sortie extravéhiculaire de la NASA provient de son sac de survie, qui fournit l'oxygène, régule la température et élimine le dioxyde de carbone." },
+      "nl": { "hook": "Eén ruimtepak kost ongeveer 12 miljoen dollar.", "fact": "Het grootste deel van de kosten van een NASA-ruimtewandelpak zit in het levensondersteunende rugzakje, dat zuurstof levert, de temperatuur regelt en koolstofdioxide verwijdert." },
+      "es": { "hook": "Un solo traje espacial cuesta unos 12 millones de dólares.", "fact": "La mayor parte del coste de un traje de paseo espacial de la NASA proviene de su mochila de soporte vital, que suministra oxígeno, regula la temperatura y elimina el dióxido de carbono." }
+    }
   },
   {
     "id": "space-017",
     "domain": "space",
     "hook": "A day on Mars is only 40 minutes longer than a day on Earth.",
     "fact": "Mars rotates on its axis at nearly the same rate as Earth, giving it a day — called a 'sol' — of about 24 hours and 40 minutes.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Une journée sur Mars ne dure que 40 minutes de plus qu'une journée sur Terre.", "fact": "Mars tourne sur elle-même à un rythme presque identique à celui de la Terre, ce qui donne un jour — appelé 'sol' — d'environ 24 heures et 40 minutes." },
+      "nl": { "hook": "Een dag op Mars duurt maar 40 minuten langer dan een dag op aarde.", "fact": "Mars draait bijna even snel om zijn as als de aarde, waardoor een dag daar — een 'sol' genoemd — ongeveer 24 uur en 40 minuten duurt." },
+      "es": { "hook": "Un día en Marte dura solo 40 minutos más que un día en la Tierra.", "fact": "Marte gira sobre su eje casi al mismo ritmo que la Tierra, lo que da lugar a un día —llamado 'sol'— de unas 24 horas y 40 minutos." }
+    }
   },
   {
     "id": "space-018",
     "domain": "space",
     "hook": "Our galaxy is on a collision course with our closest large neighbor.",
     "fact": "The Milky Way is slowly moving toward the Andromeda galaxy and the two are expected to merge in roughly 4.5 billion years.",
-    "tags": ["universe", "cosmology"]
+    "tags": ["universe", "cosmology"],
+    "translations": {
+      "fr": { "hook": "Notre galaxie fonce droit vers sa plus grande voisine.", "fact": "La Voie lactée se rapproche lentement de la galaxie d'Andromède, et les deux devraient fusionner dans environ 4,5 milliards d'années." },
+      "nl": { "hook": "Onze melkweg koerst recht op zijn grootste buur af.", "fact": "De Melkweg beweegt langzaam richting de Andromedanevel, en de twee sterrenstelsels zullen naar verwachting over ongeveer 4,5 miljard jaar samensmelten." },
+      "es": { "hook": "Nuestra galaxia va camino de chocar con su vecina más grande.", "fact": "La Vía Láctea se acerca lentamente a la galaxia de Andrómeda, y se espera que ambas se fusionen dentro de unos 4.500 millones de años." }
+    }
   },
   {
     "id": "space-019",
     "domain": "space",
     "hook": "Even 'empty' space isn't completely empty.",
     "fact": "Interstellar space still contains a few atoms per cubic centimeter — far sparser than any vacuum scientists can create on Earth, but not a true void.",
-    "tags": ["universe", "astronomy"]
+    "tags": ["universe", "astronomy"],
+    "translations": {
+      "fr": { "hook": "Même le vide spatial n'est pas vraiment vide.", "fact": "L'espace interstellaire contient encore quelques atomes par centimètre cube — bien plus dilué que n'importe quel vide créé en laboratoire sur Terre, mais ce n'est pas un vide absolu." },
+      "nl": { "hook": "Zelfs de 'lege' ruimte is niet echt leeg.", "fact": "De interstellaire ruimte bevat nog altijd een paar atomen per kubieke centimeter — veel ijler dan elk vacuüm dat wetenschappers op aarde kunnen creëren, maar toch geen echte leegte." },
+      "es": { "hook": "Incluso el espacio 'vacío' no está del todo vacío.", "fact": "El espacio interestelar todavía contiene unos pocos átomos por centímetro cúbico —mucho más disperso que cualquier vacío que los científicos puedan crear en la Tierra, pero no un vacío absoluto." }
+    }
   },
   {
     "id": "space-020",
     "domain": "space",
     "hook": "Astronauts can grow a few centimeters taller in space.",
     "fact": "Without Earth's gravity compressing the spine, astronauts' bodies stretch slightly during long missions, sometimes gaining a few centimeters in height.",
-    "tags": ["exploration"]
+    "tags": ["exploration"],
+    "translations": {
+      "fr": { "hook": "Les astronautes peuvent grandir de quelques centimètres dans l'espace.", "fact": "Sans la gravité terrestre pour comprimer la colonne vertébrale, le corps des astronautes s'étire légèrement lors des longues missions, leur faisant parfois gagner quelques centimètres." },
+      "nl": { "hook": "Astronauten kunnen in de ruimte een paar centimeter groeien.", "fact": "Zonder de zwaartekracht van de aarde die de wervelkolom samendrukt, rekt het lichaam van astronauten tijdens lange missies lichtjes uit, waardoor ze soms een paar centimeter langer worden." },
+      "es": { "hook": "Los astronautas pueden crecer unos centímetros en el espacio.", "fact": "Sin la gravedad terrestre comprimiendo la columna vertebral, el cuerpo de los astronautas se estira ligeramente durante las misiones largas, lo que a veces les hace ganar unos centímetros de altura." }
+    }
   },
   {
     "id": "space-021",
     "domain": "space",
     "hook": "One dwarf planet holds a third of the entire asteroid belt's mass.",
     "fact": "Ceres, the largest object in the asteroid belt, is classified as a dwarf planet and contains roughly a third of the belt's total mass by itself.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Une seule planète naine concentre un tiers de la masse de toute la ceinture d'astéroïdes.", "fact": "Cérès, le plus grand objet de la ceinture d'astéroïdes, est classée comme planète naine et représente à elle seule environ un tiers de la masse totale de la ceinture." },
+      "nl": { "hook": "Eén dwergplaneet bevat een derde van de massa van de hele planetoïdengordel.", "fact": "Ceres, het grootste object in de planetoïdengordel, wordt geclassificeerd als dwergplaneet en bevat in zijn eentje ongeveer een derde van de totale massa van de gordel." },
+      "es": { "hook": "Un solo planeta enano contiene un tercio de la masa de todo el cinturón de asteroides.", "fact": "Ceres, el objeto más grande del cinturón de asteroides, está clasificado como planeta enano y contiene por sí solo alrededor de un tercio de la masa total del cinturón." }
+    }
   },
   {
     "id": "space-022",
     "domain": "space",
     "hook": "Neptune has completed only one orbit since its discovery.",
     "fact": "A year on Neptune lasts about 165 Earth years, meaning the planet has finished just one full trip around the sun since it was discovered in 1846.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Neptune n'a bouclé qu'une seule orbite depuis sa découverte.", "fact": "Une année sur Neptune dure environ 165 années terrestres, ce qui signifie que la planète n'a effectué qu'un seul tour complet autour du Soleil depuis sa découverte en 1846." },
+      "nl": { "hook": "Neptunus heeft sinds zijn ontdekking pas één omloop voltooid.", "fact": "Een jaar op Neptunus duurt ongeveer 165 aardse jaren, wat betekent dat de planeet sinds zijn ontdekking in 1846 pas één volledige omloop rond de zon heeft voltooid." },
+      "es": { "hook": "Neptuno solo ha completado una órbita desde su descubrimiento.", "fact": "Un año en Neptuno dura unos 165 años terrestres, lo que significa que el planeta solo ha completado una vuelta entera alrededor del Sol desde que fue descubierto en 1846." }
+    }
   },
   {
     "id": "space-023",
     "domain": "space",
     "hook": "The ISS is the most expensive single structure ever built.",
     "fact": "The International Space Station's total cost is estimated at more than $150 billion, making it the most expensive object ever constructed.",
-    "tags": ["exploration"]
+    "tags": ["exploration"],
+    "translations": {
+      "fr": { "hook": "L'ISS est la structure la plus chère jamais construite.", "fact": "Le coût total de la Station spatiale internationale est estimé à plus de 150 milliards de dollars, ce qui en fait l'objet le plus cher jamais construit." },
+      "nl": { "hook": "Het ISS is de duurste constructie ooit gebouwd.", "fact": "De totale kosten van het internationale ruimtestation worden geschat op meer dan 150 miljard dollar, waarmee het het duurste object is dat ooit is gebouwd." },
+      "es": { "hook": "La ISS es la estructura más cara jamás construida.", "fact": "El coste total de la Estación Espacial Internacional se estima en más de 150.000 millones de dólares, lo que la convierte en el objeto más caro jamás construido." }
+    }
   },
   {
     "id": "space-024",
     "domain": "space",
     "hook": "Saturn's rings are made of ice and rock, not solid bands.",
     "fact": "The rings are actually made of countless individual chunks of ice and rock, ranging from tiny grains of dust to pieces as large as a house.",
-    "tags": ["planets"]
+    "tags": ["planets"],
+    "translations": {
+      "fr": { "hook": "Les anneaux de Saturne sont faits de glace et de roche, pas de bandes solides.", "fact": "Les anneaux sont en réalité constitués d'innombrables fragments de glace et de roche, allant de minuscules grains de poussière à des blocs aussi gros qu'une maison." },
+      "nl": { "hook": "De ringen van Saturnus bestaan uit ijs en rots, geen solide banden.", "fact": "De ringen bestaan in werkelijkheid uit ontelbare afzonderlijke brokken ijs en rots, variërend van piepkleine stofkorrels tot stukken zo groot als een huis." },
+      "es": { "hook": "Los anillos de Saturno están hechos de hielo y roca, no son bandas sólidas.", "fact": "Los anillos están formados en realidad por innumerables fragmentos individuales de hielo y roca, que van desde diminutos granos de polvo hasta trozos del tamaño de una casa." }
+    }
   },
   {
     "id": "space-025",
     "domain": "space",
     "hook": "The Sun loses 4 million tons of mass every second.",
     "fact": "Nuclear fusion in the Sun's core converts roughly 4 million tons of matter into pure energy every second — and it's been doing this for about 4.6 billion years.",
-    "tags": ["sun"]
+    "tags": ["sun"],
+    "translations": {
+      "fr": { "hook": "Le Soleil perd 4 millions de tonnes de masse chaque seconde.", "fact": "La fusion nucléaire au cœur du Soleil convertit environ 4 millions de tonnes de matière en pure énergie chaque seconde — et ce, depuis environ 4,6 milliards d'années." },
+      "nl": { "hook": "De zon verliest elke seconde 4 miljoen ton massa.", "fact": "Kernfusie in de kern van de zon zet elke seconde ongeveer 4 miljoen ton materie om in pure energie — en dat gebeurt al zo'n 4,6 miljard jaar." },
+      "es": { "hook": "El Sol pierde 4 millones de toneladas de masa cada segundo.", "fact": "La fusión nuclear en el núcleo del Sol convierte cada segundo unos 4 millones de toneladas de materia en pura energía, y lleva haciéndolo desde hace unos 4.600 millones de años." }
+    }
   },
   {
     "id": "space-026",
     "domain": "space",
     "hook": "There's a white dwarf star nicknamed 'Lucy' that may have a diamond core.",
     "fact": "Astronomers believe the white dwarf star BPM 37093, nicknamed 'Lucy' after the Beatles song, has crystallized into a core made largely of carbon — potentially the largest diamond-like object known.",
-    "tags": ["stars"]
+    "tags": ["stars"],
+    "translations": {
+      "fr": { "hook": "Une naine blanche surnommée 'Lucy' aurait un noyau de diamant.", "fact": "Les astronomes pensent que la naine blanche BPM 37093, surnommée 'Lucy' en référence à la chanson des Beatles, s'est cristallisée en un noyau principalement composé de carbone — potentiellement le plus grand objet semblable à un diamant jamais connu." },
+      "nl": { "hook": "Een witte dwergster met de bijnaam 'Lucy' zou een diamanten kern hebben.", "fact": "Astronomen denken dat de witte dwergster BPM 37093, bijgenaamd 'Lucy' naar het Beatles-nummer, is uitgekristalliseerd tot een kern die grotendeels uit koolstof bestaat — mogelijk het grootste diamantachtige object dat bekend is." },
+      "es": { "hook": "Hay una enana blanca apodada 'Lucy' que podría tener un núcleo de diamante.", "fact": "Los astrónomos creen que la enana blanca BPM 37093, apodada 'Lucy' en referencia a la canción de los Beatles, se ha cristalizado en un núcleo formado en gran parte por carbono, posiblemente el objeto similar a un diamante más grande conocido." }
+    }
   },
   {
     "id": "space-027",
     "domain": "space",
     "hook": "Total solar eclipses exist because of a cosmic coincidence.",
     "fact": "The Sun is about 400 times wider than the Moon, but also about 400 times farther away — a coincidence that makes them appear almost exactly the same size in Earth's sky, enabling total eclipses.",
-    "tags": ["sun", "moon"]
+    "tags": ["sun", "moon"],
+    "translations": {
+      "fr": { "hook": "Les éclipses solaires totales existent grâce à une coïncidence cosmique.", "fact": "Le Soleil est environ 400 fois plus large que la Lune, mais aussi environ 400 fois plus éloigné — une coïncidence qui les fait paraître presque exactement de la même taille dans le ciel terrestre, rendant possibles les éclipses totales." },
+      "nl": { "hook": "Totale zonsverduisteringen bestaan dankzij een kosmisch toeval.", "fact": "De zon is ongeveer 400 keer breder dan de maan, maar staat ook ongeveer 400 keer verder weg — een toeval waardoor ze aan de hemel bijna exact even groot lijken, wat totale zonsverduisteringen mogelijk maakt." },
+      "es": { "hook": "Los eclipses solares totales existen gracias a una coincidencia cósmica.", "fact": "El Sol es unas 400 veces más ancho que la Luna, pero también está unas 400 veces más lejos, una coincidencia que hace que parezcan casi del mismo tamaño en el cielo terrestre y que hace posibles los eclipses totales." }
+    }
   },
   {
     "id": "space-028",
     "domain": "space",
     "hook": "Voyager 1 is the most distant human-made object ever launched.",
     "fact": "Launched in 1977, Voyager 1 has traveled beyond our solar system into interstellar space and is now more than 24 billion kilometers from Earth.",
-    "tags": ["exploration"]
+    "tags": ["exploration"],
+    "translations": {
+      "fr": { "hook": "Voyager 1 est l'objet humain le plus éloigné jamais envoyé dans l'espace.", "fact": "Lancée en 1977, la sonde Voyager 1 a quitté notre système solaire pour entrer dans l'espace interstellaire et se trouve aujourd'hui à plus de 24 milliards de kilomètres de la Terre." },
+      "nl": { "hook": "Voyager 1 is het verst verwijderde door mensen gemaakte object ooit gelanceerd.", "fact": "Voyager 1, gelanceerd in 1977, heeft ons zonnestelsel verlaten en bevindt zich nu in de interstellaire ruimte, op meer dan 24 miljard kilometer van de aarde." },
+      "es": { "hook": "Voyager 1 es el objeto humano más lejano jamás lanzado.", "fact": "Lanzada en 1977, la sonda Voyager 1 ha viajado más allá de nuestro sistema solar hasta el espacio interestelar y se encuentra ahora a más de 24.000 millones de kilómetros de la Tierra." }
+    }
   },
   {
     "id": "space-029",
     "domain": "space",
     "hook": "Some stars you see tonight might not exist anymore.",
     "fact": "Because light takes time to travel, looking at a distant star means seeing light that left it years, centuries, or even millions of years ago — meaning the star itself may have already changed or died.",
-    "tags": ["stars", "astronomy"]
+    "tags": ["stars", "astronomy"],
+    "translations": {
+      "fr": { "hook": "Certaines étoiles que vous voyez ce soir n'existent peut-être plus.", "fact": "Comme la lumière met du temps à voyager, observer une étoile lointaine revient à voir une lumière partie il y a des années, des siècles, voire des millions d'années — l'étoile elle-même a donc peut-être déjà changé ou disparu." },
+      "nl": { "hook": "Sommige sterren die je vanavond ziet, bestaan misschien niet meer.", "fact": "Omdat licht tijd nodig heeft om te reizen, zie je bij het kijken naar een verre ster licht dat jaren, eeuwen of zelfs miljoenen jaren geleden is vertrokken — de ster zelf kan dus intussen al veranderd of gestorven zijn." },
+      "es": { "hook": "Algunas estrellas que ves esta noche podrían ya no existir.", "fact": "Como la luz tarda tiempo en viajar, mirar una estrella lejana significa ver una luz que partió de ella hace años, siglos o incluso millones de años, así que la propia estrella podría haber cambiado ya o haber dejado de existir." }
+    }
   },
   {
     "id": "space-030",
     "domain": "space",
     "hook": "Astronaut footprints on the Moon are considered historic sites.",
     "fact": "The footprints, equipment, and flags left by Apollo astronauts are treated as protected heritage sites by space agencies, even though no binding international law currently enforces it.",
-    "tags": ["moon", "exploration"]
+    "tags": ["moon", "exploration"],
+    "translations": {
+      "fr": { "hook": "Les empreintes des astronautes sur la Lune sont considérées comme des sites historiques.", "fact": "Les empreintes, équipements et drapeaux laissés par les astronautes d'Apollo sont traités comme des sites patrimoniaux protégés par les agences spatiales, même si aucune loi internationale contraignante ne l'impose actuellement." },
+      "nl": { "hook": "Astronautenvoetafdrukken op de maan gelden als historische locaties.", "fact": "De voetafdrukken, apparatuur en vlaggen die de Apollo-astronauten achterlieten, worden door ruimtevaartorganisaties behandeld als beschermd erfgoed, ook al bestaat er momenteel geen bindende internationale wet die dit afdwingt." },
+      "es": { "hook": "Las huellas de los astronautas en la Luna se consideran sitios históricos.", "fact": "Las huellas, el equipo y las banderas dejados por los astronautas del Apolo son tratados como sitios patrimoniales protegidos por las agencias espaciales, aunque actualmente ninguna ley internacional vinculante lo exija." }
+    }
   }
 ]

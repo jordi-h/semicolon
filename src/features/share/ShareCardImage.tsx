@@ -2,6 +2,7 @@ import { forwardRef } from 'react'
 
 import { Logo } from '@/components/Logo'
 import { DOMAIN_ACCENT } from '@/lib/domainTheme'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import { DOMAIN_LABELS, type Fact } from '@/lib/types'
 
 /** Pixel dimensions of the rendered share image — a 9:16 "story" ratio,
@@ -22,6 +23,7 @@ interface ShareCardImageProps {
  */
 export const ShareCardImage = forwardRef<HTMLDivElement, ShareCardImageProps>(
   function ShareCardImage({ fact }, ref) {
+    const { locale } = useLocale()
     const accent = DOMAIN_ACCENT[fact.domain]
 
     return (
@@ -41,7 +43,7 @@ export const ShareCardImage = forwardRef<HTMLDivElement, ShareCardImageProps>(
             style={{ color: accent, fontSize: 34, letterSpacing: '0.08em' }}
             className="font-semibold uppercase"
           >
-            {DOMAIN_LABELS[fact.domain]}
+            {DOMAIN_LABELS[locale][fact.domain]}
           </span>
         </div>
 

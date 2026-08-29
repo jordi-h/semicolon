@@ -1,5 +1,6 @@
 import { ThumbsDown, ThumbsUp } from 'lucide-react'
 
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import type { Reaction } from '@/lib/types'
 import { cn } from '@/lib/utils'
 
@@ -11,6 +12,7 @@ interface ReactionToastProps {
 /** Brief acknowledgment shown when the user taps 👍/👎, since that action
  * has no other visible effect — it only quietly reweights the feed. */
 export function ReactionToast({ reaction, visible }: ReactionToastProps) {
+  const { t } = useLocale()
   const isMore = reaction === 'more'
 
   return (
@@ -28,7 +30,7 @@ export function ReactionToast({ reaction, visible }: ReactionToastProps) {
         ) : (
           <ThumbsDown size={16} className="text-rose-400" />
         )}
-        {isMore ? 'Showing you more like this' : 'Showing you less like this'}
+        {isMore ? t('reaction.toastMore') : t('reaction.toastLess')}
       </div>
     </div>
   )

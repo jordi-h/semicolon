@@ -15,13 +15,58 @@ export const DOMAINS = [
 
 export type Domain = (typeof DOMAINS)[number]
 
-export const DOMAIN_LABELS: Record<Domain, string> = {
-  science: 'Science',
-  technology: 'Technology',
-  history: 'History',
-  geography: 'Geography',
-  culture: 'Culture & Society',
-  space: 'Space & Universe',
+/** The four UI + content languages available at launch. */
+export const LOCALES = ['en', 'fr', 'nl', 'es'] as const
+
+export type Locale = (typeof LOCALES)[number]
+
+/** Language names shown in the language picker itself — always shown in
+ * their own language (e.g. "Français" even when the UI is in English), a
+ * standard convention so users can find their language regardless of
+ * what's currently selected. */
+export const LOCALE_NATIVE_NAMES: Record<Locale, string> = {
+  en: 'English',
+  fr: 'Français',
+  nl: 'Nederlands',
+  es: 'Español',
+}
+
+/** Domain display names, localized. Facts' own text is localized
+ * separately (see fact.translations / fact_translations table) since it's
+ * curated per-fact content rather than a short fixed label. */
+export const DOMAIN_LABELS: Record<Locale, Record<Domain, string>> = {
+  en: {
+    science: 'Science',
+    technology: 'Technology',
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture & Society',
+    space: 'Space & Universe',
+  },
+  fr: {
+    science: 'Sciences',
+    technology: 'Technologie',
+    history: 'Histoire',
+    geography: 'Géographie',
+    culture: 'Culture & société',
+    space: 'Espace & Univers',
+  },
+  nl: {
+    science: 'Wetenschap',
+    technology: 'Technologie',
+    history: 'Geschiedenis',
+    geography: 'Aardrijkskunde',
+    culture: 'Cultuur & maatschappij',
+    space: 'Ruimte & heelal',
+  },
+  es: {
+    science: 'Ciencia',
+    technology: 'Tecnología',
+    history: 'Historia',
+    geography: 'Geografía',
+    culture: 'Cultura y sociedad',
+    space: 'Espacio y universo',
+  },
 }
 
 export const DOMAIN_EMOJI: Record<Domain, string> = {
@@ -33,7 +78,9 @@ export const DOMAIN_EMOJI: Record<Domain, string> = {
   space: '🪐',
 }
 
-/** A single self-contained trivia card. */
+/** A single self-contained trivia card, resolved to the caller's locale.
+ * hook/fact/whyItMatters are always in that locale (falling back to the
+ * English original when no translation exists yet for a given fact). */
 export interface Fact {
   id: string
   domain: Domain
@@ -42,12 +89,24 @@ export interface Fact {
   whyItMatters?: string
   tags: string[]
   sourceUrl?: string
+  /** Non-English curated text, keyed by locale. Only present on the raw
+   * local seed data (src/data/facts/*.json) — used to resolve the fields
+   * above in the no-Supabase local fallback; never present on a Fact
+   * returned from the API, which is already resolved. */
+  translations?: Partial<Record<Exclude<Locale, 'en'>, FactTranslation>>
 }
 
-/** A user's selected domains, editable any time from settings. */
+export interface FactTranslation {
+  hook: string
+  fact: string
+  whyItMatters?: string
+}
+
+/** A user's selected domains and language, editable any time from settings. */
 export interface UserPreferences {
   userId: string
   domains: Domain[]
+  locale: Locale
   updatedAt: string
 }
 

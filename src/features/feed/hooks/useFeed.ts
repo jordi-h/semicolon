@@ -9,6 +9,7 @@ import { bumpLastShown, getSeenFacts, recordFirstSeen } from '@/lib/api/seenFact
 import { markPoolExhaustedNoticeShown } from '@/lib/api/stats'
 import { computeDomainWeight } from '@/lib/engagement'
 import { useStats } from '@/lib/hooks/useStats'
+import { useLocale } from '@/lib/i18n/LocaleContext'
 import type { Domain, Reaction, SeenFact } from '@/lib/types'
 
 /** How many upcoming cards to keep pre-selected. */
@@ -16,13 +17,14 @@ const QUEUE_SIZE = 5
 
 export function useFeed(domains: Domain[]) {
   const { user } = useAuth()
+  const { locale } = useLocale()
   const queryClient = useQueryClient()
   const { stats, recordLearned } = useStats()
   const domainsKey = [...domains].sort().join(',')
 
   const poolQuery = useQuery({
-    queryKey: ['facts', domainsKey],
-    queryFn: () => fetchFactsByDomains(domains),
+    queryKey: ['facts', domainsKey, locale],
+    queryFn: () => fetchFactsByDomains(domains, locale),
     enabled: domains.length > 0,
     staleTime: Infinity,
   })
