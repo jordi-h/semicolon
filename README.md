@@ -167,31 +167,54 @@ in `vite.config.ts`) — visiting the deployed site on a phone and choosing
 "Add to Home Screen" (iOS Safari) or the install prompt (Android Chrome)
 installs it with the semicolon icon, full-screen, no browser chrome.
 
-**Native App Store / Play Store listing:** this needs a wrapper — the
-straightforward path is [Capacitor](https://capacitorjs.com), which packages
-this same web build into a native iOS/Android shell without a rewrite. That
-part isn't set up yet because it needs decisions and accounts only you can
-provide:
+**Native App Store / Play Store listing:** the app is wrapped with
+[Capacitor](https://capacitorjs.com) (appId `com.semicolon.app`,
+`capacitor.config.ts`), which packages this same web build into a native
+shell without a rewrite. The **Android** project is already generated
+(`android/`), icons and splash screens included — see `resources/` for the
+source SVGs and `npm run generate-icons` sibling script
+`node scripts/generate-icons.mjs` for the web favicons (native app icons
+are regenerated separately, see below).
 
-- A **bundle identifier** (e.g. `com.yourname.semicolon`)
-- An **Apple Developer account** ($99/yr) and a **Mac with Xcode** to build,
-  sign, and submit the iOS app — none of which can be done from this
-  Windows environment
-- A **Google Play Console account** ($25 one-time) to submit the Android app
-  (the Android build itself can be done from Windows with Android
-  Studio/the Android SDK installed)
+To build and run the Android app:
 
-Once you've got those, adding Capacitor is:
+1. Install [Android Studio](https://developer.android.com/studio) (includes
+   the Android SDK).
+2. `npm run build && npx cap sync android` — rebuilds the web app and
+   copies it into the native project. Run this after any web app change.
+3. `npx cap open android` — opens the project in Android Studio, where you
+   can run it on an emulator/device (▶) or build a signed release bundle
+   (Build → Generate Signed App Bundle) once you have a
+   [Google Play Console account](https://play.google.com/console/) ($25
+   one-time) to upload it to.
+
+If you change the logo, edit `resources/icon*.svg` / `resources/splash.svg`,
+then regenerate everything with:
 
 ```bash
-npm install @capacitor/core @capacitor/cli
-npx cap init semicolon com.yourname.semicolon --web-dir dist
-npm install @capacitor/ios @capacitor/android
-npx cap add ios      # requires macOS + Xcode
-npx cap add android  # requires Android Studio/SDK
-npm run build && npx cap sync
+npm install -D @capacitor/assets   # dev-only, one-shot tool
+npx capacitor-assets generate --android
+npm uninstall @capacitor/assets    # remove again — see note below
 ```
 
-Then open each platform's project (`npx cap open ios` / `npx cap open android`)
-to run it on a device/simulator and, when ready, submit through Xcode
-(App Store Connect) and Android Studio (Play Console).
+(`@capacitor/assets` pulls in a few CVEs through its own nested
+dependencies, all inside a build-time-only tool that's never shipped — the
+project only installs it transiently when regenerating icons, then removes
+it, same as this repo's history.)
+
+**iOS** needs `npx cap add ios`, which requires **macOS + Xcode** — this
+Windows machine can't run that step. Once you have a Mac:
+
+```bash
+npm install @capacitor/ios
+npx cap add ios
+npm run build && npx cap sync ios
+npx cap open ios   # opens Xcode
+```
+
+From Xcode you'll need an **Apple Developer account** ($99/yr) to sign and
+submit through App Store Connect.
+
+**Node version note:** the Capacitor CLI requires Node ≥22 (this project
+now assumes Node 24 LTS) — if `npx cap` commands fail with a Node version
+error, check `node -v`.
