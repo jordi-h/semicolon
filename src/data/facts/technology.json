@@ -1,0 +1,114 @@
+[
+  {
+    "id": "technology-001",
+    "domain": "technology",
+    "hook": "The first computer 'bug' was an actual bug.",
+    "fact": "In 1947, engineers working on the Harvard Mark II computer found a moth trapped in a relay causing a malfunction — they taped it into their logbook, popularizing the term 'debugging.'",
+    "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-002",
+    "domain": "technology",
+    "hook": "QWERTY was designed to slow you down.",
+    "fact": "The QWERTY keyboard layout was arranged in the 1870s partly to reduce jamming in mechanical typewriters by separating commonly paired letters, not to maximize typing speed.",
+    "tags": ["design", "history"]
+  },
+  {
+    "id": "technology-003",
+    "domain": "technology",
+    "hook": "The first 1GB hard drive weighed over 500 pounds.",
+    "fact": "The 1980 IBM 3380 was the first hard drive to store a gigabyte, was roughly the size of a large refrigerator, and cost around $40,000.",
+    "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-004",
+    "domain": "technology",
+    "hook": "Wi-Fi doesn't stand for anything.",
+    "fact": "Despite popular belief it means 'Wireless Fidelity,' Wi-Fi is actually just a trademarked brand name coined by a marketing firm — it has no technical expansion.",
+    "tags": ["computing", "trivia"]
+  },
+  {
+    "id": "technology-005",
+    "domain": "technology",
+    "hook": "The @ symbol predates email by centuries.",
+    "fact": "The @ symbol appeared in merchant ledgers as far back as the 16th century meaning 'at the rate of,' long before Ray Tomlinson repurposed it for email addresses in 1971.",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-006",
+    "domain": "technology",
+    "hook": "More computing power than the moon landing sits in your pocket.",
+    "fact": "The guidance computer for Apollo 11 had roughly 4KB of RAM and a processor running at about 0.043 MHz — a modern smartphone is many millions of times more powerful.",
+    "tags": ["computing", "space"]
+  },
+  {
+    "id": "technology-007",
+    "domain": "technology",
+    "hook": "The first webcam watched a coffee pot.",
+    "fact": "Researchers at Cambridge University in 1991 pointed a camera at their office coffee pot and streamed the feed online so they wouldn't waste trips checking if it was empty.",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-008",
+    "domain": "technology",
+    "hook": "The first message sent over the internet crashed the system.",
+    "fact": "In 1969, researchers tried to transmit the word 'LOGIN' between two computers on ARPANET, but the system crashed after just the letters 'L' and 'O' went through.",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-009",
+    "domain": "technology",
+    "hook": "USB connectors are deliberately '50/50' in a bad way.",
+    "fact": "The original USB-A connector's asymmetric design meant users had roughly even odds of plugging it in wrong on the first try, a design quirk widely mocked before USB-C fixed it with a reversible shape.",
+    "tags": ["design", "computing"]
+  },
+  {
+    "id": "technology-010",
+    "domain": "technology",
+    "hook": "The first computer mouse was made of wood.",
+    "fact": "Douglas Engelbart's 1964 prototype mouse had a carved wooden shell with two metal wheels underneath to track movement on a surface.",
+    "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-011",
+    "domain": "technology",
+    "hook": "Email predates the World Wide Web by over 20 years.",
+    "fact": "Basic electronic messaging between users on the same computer existed by the early 1960s, and networked email arrived in 1971 — the web wasn't invented until 1989.",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-012",
+    "domain": "technology",
+    "hook": "A single Google search uses very little energy — but billions add up.",
+    "fact": "One typical search query is estimated to use a small fraction of a watt-hour of energy, but multiplied by billions of searches per day, data centers consume enormous amounts of electricity worldwide.",
+    "tags": ["internet", "sustainability"]
+  },
+  {
+    "id": "technology-013",
+    "domain": "technology",
+    "hook": "The floppy disk save icon outlived the floppy disk by decades.",
+    "fact": "Floppy disks were largely obsolete by the early 2000s, yet the 3.5-inch disk icon remains the universal symbol for 'save' in software used by people who've never touched one.",
+    "tags": ["design", "computing"]
+  },
+  {
+    "id": "technology-014",
+    "domain": "technology",
+    "hook": "Bluetooth is named after a Viking king.",
+    "fact": "Bluetooth technology is named after Harald 'Bluetooth' Gormsson, a 10th-century Scandinavian king known for uniting Danish tribes — the logo even merges the runes for his initials.",
+    "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-015",
+    "domain": "technology",
+    "hook": "The first YouTube video was about an elephant.",
+    "fact": "Uploaded in April 2005, 'Me at the zoo' shows YouTube co-founder Jawed Karim standing in front of elephants at the San Diego Zoo — it remains on the platform today.",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-016",
+    "domain": "technology",
+    "hook": "Early computers were literally people.",
+    "fact": "Before electronic machines, 'computer' was a job title for people, often women, who performed complex calculations by hand for scientific and engineering projects.",
+    "tags": ["computing", "history"]
+  }
+]

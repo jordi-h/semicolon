@@ -1,0 +1,117 @@
+import { useState } from 'react'
+import { Navigate, useNavigate } from 'react-router-dom'
+
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
+import { Label } from '@/components/ui/label'
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
+import { useAuth } from '@/features/auth/AuthContext'
+
+export function AuthPage() {
+  const { user, authRequired, signInWithPassword, signUpWithPassword, signInWithMagicLink } =
+    useAuth()
+  const navigate = useNavigate()
+
+  const [email, setEmail] = useState('')
+  const [password, setPassword] = useState('')
+  const [error, setError] = useState<string | null>(null)
+  const [magicLinkSent, setMagicLinkSent] = useState(false)
+  const [submitting, setSubmitting] = useState(false)
+
+  if (!authRequired || user) {
+    return <Navigate to="/feed" replace />
+  }
+
+  async function handleSubmit(mode: 'signin' | 'signup') {
+    setError(null)
+    setSubmitting(true)
+    const result =
+      mode === 'signin'
+        ? await signInWithPassword(email, password)
+        : await signUpWithPassword(email, password)
+    setSubmitting(false)
+
+    if (result.error) {
+      setError(result.error)
+      return
+    }
+    navigate('/onboarding')
+  }
+
+  async function handleMagicLink() {
+    setError(null)
+    setSubmitting(true)
+    const result = await signInWithMagicLink(email)
+    setSubmitting(false)
+    if (result.error) {
+      setError(result.error)
+      return
+    }
+    setMagicLinkSent(true)
+  }
+
+  return (
+    <div className="mx-auto flex h-full max-w-sm flex-col justify-center gap-6 p-6">
+      <div className="text-center">
+        <h1 className="text-2xl font-bold">InfiniScroll</h1>
+        <p className="text-muted-foreground">Bite-sized knowledge, one card at a time.</p>
+      </div>
+
+      <Tabs defaultValue="signin">
+        <TabsList className="grid w-full grid-cols-2">
+          <TabsTrigger value="signin">Sign in</TabsTrigger>
+          <TabsTrigger value="signup">Sign up</TabsTrigger>
+        </TabsList>
+
+        {(['signin', 'signup'] as const).map((mode) => (
+          <TabsContent key={mode} value={mode} className="space-y-4">
+            <div className="space-y-1.5">
+              <Label htmlFor={`${mode}-email`}>Email</Label>
+              <Input
+                id={`${mode}-email`}
+                type="email"
+                autoComplete="email"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+              />
+            </div>
+            <div className="space-y-1.5">
+              <Label htmlFor={`${mode}-password`}>Password</Label>
+              <Input
+                id={`${mode}-password`}
+                type="password"
+                autoComplete={mode === 'signin' ? 'current-password' : 'new-password'}
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+              />
+            </div>
+
+            {error && <p className="text-sm text-destructive">{error}</p>}
+            {magicLinkSent && (
+              <p className="text-sm text-muted-foreground">
+                Check your email for a magic link to sign in.
+              </p>
+            )}
+
+            <Button
+              className="w-full"
+              disabled={submitting || !email || !password}
+              onClick={() => handleSubmit(mode)}
+            >
+              {mode === 'signin' ? 'Sign in' : 'Create account'}
+            </Button>
+
+            <Button
+              variant="ghost"
+              className="w-full"
+              disabled={submitting || !email}
+              onClick={handleMagicLink}
+            >
+              Email me a magic link instead
+            </Button>
+          </TabsContent>
+        ))}
+      </Tabs>
+    </div>
+  )
+}

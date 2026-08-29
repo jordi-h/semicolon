@@ -1,0 +1,101 @@
+[
+  {
+    "id": "geography-001",
+    "domain": "geography",
+    "hook": "Russia spans 11 time zones.",
+    "fact": "Russia is so vast that when it's morning in Kaliningrad on its western edge, it's already the middle of the night in Kamchatka on its eastern edge.",
+    "tags": ["countries", "time"]
+  },
+  {
+    "id": "geography-002",
+    "domain": "geography",
+    "hook": "Africa is bigger than most maps show.",
+    "fact": "Because the standard Mercator map projection distorts size near the poles, Africa is actually large enough to fit the United States, China, India, and much of Europe inside it.",
+    "tags": ["maps", "africa"]
+  },
+  {
+    "id": "geography-003",
+    "domain": "geography",
+    "hook": "There's a desert made of ice.",
+    "fact": "Antarctica is technically the largest desert in the world — deserts are defined by low precipitation, not heat, and Antarctica receives very little snowfall in its driest regions.",
+    "tags": ["climate", "antarctica"]
+  },
+  {
+    "id": "geography-004",
+    "domain": "geography",
+    "hook": "Canada has more lakes than the rest of the world combined.",
+    "fact": "Canada contains an estimated 2 million lakes, accounting for roughly 60% of the world's total — a legacy of glaciers carving the landscape during the last ice age.",
+    "tags": ["water", "north-america"]
+  },
+  {
+    "id": "geography-005",
+    "domain": "geography",
+    "hook": "Some countries are entirely surrounded by just one other country.",
+    "fact": "Lesotho is completely enclosed within South Africa, and San Marino and Vatican City are entirely surrounded by Italy — a rare geographic setup called an 'enclave.'",
+    "tags": ["countries", "borders"]
+  },
+  {
+    "id": "geography-006",
+    "domain": "geography",
+    "hook": "The Amazon rainforest produces a huge share of the world's oxygen.",
+    "fact": "The Amazon generates an estimated 6–9% of the planet's oxygen and absorbs vast amounts of carbon dioxide, earning it the nickname 'the lungs of the Earth.'",
+    "whyItMatters": "Deforestation there directly affects global climate regulation.",
+    "tags": ["environment", "south-america"]
+  },
+  {
+    "id": "geography-007",
+    "domain": "geography",
+    "hook": "Mount Everest isn't the tallest mountain on Earth.",
+    "fact": "Measured from base to peak rather than sea level, Hawaii's Mauna Kea is taller than Everest — most of it is just hidden underwater.",
+    "tags": ["mountains", "records"]
+  },
+  {
+    "id": "geography-008",
+    "domain": "geography",
+    "hook": "A river can flow in two different oceans.",
+    "fact": "At Peru's Pasco region, a natural drainage divide splits water so closely that rain falling meters apart can end up flowing into either the Atlantic or Pacific Ocean.",
+    "tags": ["rivers", "south-america"]
+  },
+  {
+    "id": "geography-009",
+    "domain": "geography",
+    "hook": "The Sahara wasn't always a desert.",
+    "fact": "Around 6,000 years ago, the Sahara was a green savanna with lakes, rivers, and abundant wildlife, before a shift in Earth's orbit dried the region out over centuries.",
+    "tags": ["climate", "africa"]
+  },
+  {
+    "id": "geography-010",
+    "domain": "geography",
+    "hook": "There's a country with no rivers at all.",
+    "fact": "Saudi Arabia has no permanent rivers or lakes, relying instead on groundwater, desalination, and seasonal wadis that only fill after rare rainfall.",
+    "tags": ["water", "middle-east"]
+  },
+  {
+    "id": "geography-011",
+    "domain": "geography",
+    "hook": "Indonesia is made up of over 17,000 islands.",
+    "fact": "Indonesia's archipelago spans more than 17,000 islands, though only about 6,000 of them are inhabited.",
+    "tags": ["islands", "asia"]
+  },
+  {
+    "id": "geography-012",
+    "domain": "geography",
+    "hook": "Chicago moved its entire downtown upward in the 1800s.",
+    "fact": "In the 1850s–60s, engineers physically jacked up buildings in Chicago several feet using thousands of screw jacks to install proper sewage drainage below street level.",
+    "tags": ["cities", "engineering"]
+  },
+  {
+    "id": "geography-013",
+    "domain": "geography",
+    "hook": "The Dead Sea is dropping about a meter a year.",
+    "fact": "Reduced inflow from the Jordan River and heavy mineral extraction cause the Dead Sea's water level to fall roughly one meter annually, shrinking its shoreline dramatically.",
+    "tags": ["water", "middle-east"]
+  },
+  {
+    "id": "geography-014",
+    "domain": "geography",
+    "hook": "There's a spot where four countries almost meet.",
+    "fact": "Southern Africa's 'Four Corners' near Zambia, Zimbabwe, Botswana, and Namibia comes remarkably close to a true quadripoint, though surveys confirm they meet at two very close tripoints rather than one exact point.",
+    "tags": ["borders", "africa"]
+  }
+]

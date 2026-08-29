@@ -1,0 +1,107 @@
+[
+  {
+    "id": "history-001",
+    "domain": "history",
+    "hook": "Cleopatra lived closer to the Moon landing than to the pyramids.",
+    "fact": "The Great Pyramid of Giza was built around 2560 BCE, while Cleopatra ruled Egypt around 30 BCE — meaning more time separates the pyramid's construction from her reign than separates her from the 1969 Moon landing.",
+    "tags": ["ancient-egypt", "timelines"]
+  },
+  {
+    "id": "history-002",
+    "domain": "history",
+    "hook": "The shortest war in history lasted under an hour.",
+    "fact": "The Anglo-Zanzibar War of 1896 lasted approximately 38 to 45 minutes, making it the shortest recorded war in history.",
+    "tags": ["war", "records"]
+  },
+  {
+    "id": "history-003",
+    "domain": "history",
+    "hook": "Oxford University is older than the Aztec Empire.",
+    "fact": "Teaching at Oxford began as early as 1096, while the Aztec city of Tenochtitlan wasn't founded until 1325 — making Oxford roughly two centuries older.",
+    "tags": ["education", "timelines"]
+  },
+  {
+    "id": "history-004",
+    "domain": "history",
+    "hook": "Napoleon wasn't actually short.",
+    "fact": "Napoleon Bonaparte stood about 5'7\" (170cm), average for a Frenchman of his era — the 'short' myth likely came from British propaganda and a mix-up between French and English measurement units.",
+    "tags": ["myths", "europe"]
+  },
+  {
+    "id": "history-005",
+    "domain": "history",
+    "hook": "The Great Wall of China wasn't built all at once.",
+    "fact": "The wall is a patchwork of fortifications built and rebuilt by different dynasties over roughly 2,000 years, not a single continuous construction project.",
+    "tags": ["china", "architecture"]
+  },
+  {
+    "id": "history-006",
+    "domain": "history",
+    "hook": "Vikings never actually wore horned helmets.",
+    "fact": "No archaeological evidence supports horned Viking helmets — the image was largely popularized by 19th-century opera costume design, centuries after the Viking Age ended.",
+    "tags": ["myths", "vikings"]
+  },
+  {
+    "id": "history-007",
+    "domain": "history",
+    "hook": "A woman ruled Egypt as pharaoh for over 20 years.",
+    "fact": "Hatshepsut, who reigned around 1479–1458 BCE, was one of the most successful pharaohs in Egyptian history, overseeing major building projects and trade expeditions while sometimes depicted with a false pharaonic beard.",
+    "tags": ["ancient-egypt", "leaders"]
+  },
+  {
+    "id": "history-008",
+    "domain": "history",
+    "hook": "The Roman Empire's currency was debased into worthlessness.",
+    "fact": "Roman emperors repeatedly reduced the silver content of coins to fund wars and spending, causing severe inflation that contributed to the empire's economic instability.",
+    "tags": ["rome", "economics"]
+  },
+  {
+    "id": "history-009",
+    "domain": "history",
+    "hook": "The guillotine was used in France until 1977.",
+    "fact": "France's last execution by guillotine took place in September 1977 — the same year Star Wars was released in theaters.",
+    "tags": ["france", "law"]
+  },
+  {
+    "id": "history-010",
+    "domain": "history",
+    "hook": "The first known census dates back over 5,000 years.",
+    "fact": "Ancient Babylonian records show population and resource counts dating to around 3800 BCE, making census-taking one of humanity's oldest administrative practices.",
+    "tags": ["ancient-history", "governance"]
+  },
+  {
+    "id": "history-011",
+    "domain": "history",
+    "hook": "World War I ended with soldiers who didn't know yet.",
+    "fact": "News of the November 1918 armistice traveled slowly to some remote fronts, and isolated skirmishes reportedly continued for hours after the official ceasefire began.",
+    "tags": ["war", "20th-century"]
+  },
+  {
+    "id": "history-012",
+    "domain": "history",
+    "hook": "Ancient Rome had a version of fast food.",
+    "fact": "Archaeologists have uncovered thermopolia — counter-service shops in Pompeii and elsewhere — where Romans bought hot ready-to-eat food, much like a modern takeout counter.",
+    "tags": ["rome", "daily-life"]
+  },
+  {
+    "id": "history-013",
+    "domain": "history",
+    "hook": "The printing press transformed Europe within decades.",
+    "fact": "After Johannes Gutenberg introduced movable-type printing around 1440, the number of books in Europe exploded from a few thousand hand-copied manuscripts to millions of printed copies within just 50 years.",
+    "tags": ["invention", "europe"]
+  },
+  {
+    "id": "history-014",
+    "domain": "history",
+    "hook": "Ancient Sparta left almost no written history of its own.",
+    "fact": "Much of what we know about Sparta comes from outside writers like Athenian historians, since Spartan culture prioritized military discipline over literature and record-keeping.",
+    "tags": ["greece", "ancient-history"]
+  },
+  {
+    "id": "history-015",
+    "domain": "history",
+    "hook": "The Berlin Wall fell almost by accident.",
+    "fact": "In 1989, an East German official misspoke at a press conference, implying travel restrictions were lifted immediately rather than the next day — crowds rushed the checkpoints that same night, and the wall effectively fell.",
+    "tags": ["germany", "20th-century"]
+  }
+]

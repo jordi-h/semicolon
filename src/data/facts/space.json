@@ -1,0 +1,100 @@
+[
+  {
+    "id": "space-001",
+    "domain": "space",
+    "hook": "A day on Venus is longer than its year.",
+    "fact": "Venus takes about 243 Earth days to rotate once on its axis, but only about 225 Earth days to orbit the sun — making its day longer than its year.",
+    "tags": ["planets"]
+  },
+  {
+    "id": "space-002",
+    "domain": "space",
+    "hook": "There's a planet where it may rain diamonds.",
+    "fact": "Scientists believe the immense pressure inside Neptune and Uranus could compress carbon into diamonds that rain down toward their cores.",
+    "tags": ["planets"]
+  },
+  {
+    "id": "space-003",
+    "domain": "space",
+    "hook": "The footprints on the Moon could last millions of years.",
+    "fact": "With no wind, water, or atmosphere to erode them, footprints left by Apollo astronauts on the Moon's surface could remain visible for millions of years.",
+    "tags": ["moon", "exploration"]
+  },
+  {
+    "id": "space-004",
+    "domain": "space",
+    "hook": "One teaspoon of a neutron star outweighs Mount Everest.",
+    "fact": "Neutron stars are so dense that a single teaspoon of their material would weigh billions of tons — far more than any mountain on Earth.",
+    "tags": ["stars"]
+  },
+  {
+    "id": "space-005",
+    "domain": "space",
+    "hook": "The Sun accounts for 99.8% of the mass in our solar system.",
+    "fact": "The Sun is so massive that nearly everything else in the solar system — all eight planets, moons, asteroids, and comets combined — makes up only about 0.2% of its total mass.",
+    "tags": ["sun", "solar-system"]
+  },
+  {
+    "id": "space-006",
+    "domain": "space",
+    "hook": "Space isn't completely silent everywhere.",
+    "fact": "While sound can't travel through the vacuum of space, dense clouds of gas and plasma can carry pressure waves — NASA has 'sonified' data from black holes into audible sound by mapping detected waves to frequencies humans can hear.",
+    "tags": ["astronomy"]
+  },
+  {
+    "id": "space-007",
+    "domain": "space",
+    "hook": "There are more stars than grains of sand on every beach on Earth.",
+    "fact": "Astronomers estimate there are roughly 10^24 stars in the observable universe, a number that likely exceeds the total grains of sand on every beach and desert on the planet combined.",
+    "tags": ["stars", "universe"]
+  },
+  {
+    "id": "space-008",
+    "domain": "space",
+    "hook": "Saturn would float in water.",
+    "fact": "Saturn's average density is lower than water's, so if you could find an ocean big enough, the entire planet would theoretically float on the surface.",
+    "tags": ["planets"]
+  },
+  {
+    "id": "space-009",
+    "domain": "space",
+    "hook": "The largest known star could swallow our entire solar system.",
+    "fact": "UY Scuti, one of the largest known stars by radius, is so vast that if placed at the center of our solar system, its surface would extend out past the orbit of Jupiter.",
+    "tags": ["stars"]
+  },
+  {
+    "id": "space-010",
+    "domain": "space",
+    "hook": "A year on Mercury is shorter than a day.",
+    "fact": "Mercury orbits the sun in just 88 Earth days, but it rotates so slowly that a single solar day there — sunrise to sunrise — lasts about 176 Earth days.",
+    "tags": ["planets"]
+  },
+  {
+    "id": "space-011",
+    "domain": "space",
+    "hook": "Black holes can't be seen directly.",
+    "fact": "Because not even light can escape a black hole's gravity, astronomers detect them indirectly by observing how they bend light and affect the motion of nearby stars and gas.",
+    "tags": ["black-holes"]
+  },
+  {
+    "id": "space-012",
+    "domain": "space",
+    "hook": "The International Space Station orbits Earth every 90 minutes.",
+    "fact": "The ISS travels at roughly 28,000 km/h, completing a full orbit of Earth about every 90 minutes — meaning astronauts on board see around 16 sunrises and sunsets each day.",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "space-013",
+    "domain": "space",
+    "hook": "The universe is still expanding, and speeding up.",
+    "fact": "Observations of distant supernovae in the late 1990s revealed that the universe's expansion isn't slowing down — it's accelerating, attributed to a mysterious force called dark energy.",
+    "tags": ["universe", "cosmology"]
+  },
+  {
+    "id": "space-014",
+    "domain": "space",
+    "hook": "There's a giant storm on Jupiter older than any living human.",
+    "fact": "Jupiter's Great Red Spot is a storm larger than Earth that has been observed continuously since at least the 1830s, and possibly much longer.",
+    "tags": ["planets"]
+  }
+]

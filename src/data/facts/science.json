@@ -1,0 +1,133 @@
+[
+  {
+    "id": "science-001",
+    "domain": "science",
+    "hook": "Your bones are basically alive scaffolding.",
+    "fact": "The human skeleton completely replaces itself roughly every 10 years through a constant cycle of cells breaking down old bone and building new bone.",
+    "whyItMatters": "It's why bones can heal from fractures and adapt their density to how much load they carry.",
+    "tags": ["biology", "human-body"]
+  },
+  {
+    "id": "science-002",
+    "domain": "science",
+    "hook": "Water can boil and freeze at the same time.",
+    "fact": "At a specific combination of temperature and pressure called the 'triple point,' a substance like water can exist as solid, liquid, and gas simultaneously.",
+    "whyItMatters": "Triple points are so precise and reproducible that they're used to calibrate thermometers worldwide.",
+    "tags": ["physics", "chemistry"]
+  },
+  {
+    "id": "science-003",
+    "domain": "science",
+    "hook": "Octopuses have three hearts.",
+    "fact": "Two of an octopus's hearts pump blood to its gills, while the third pumps blood to the rest of its body — and that main heart actually stops beating while it swims.",
+    "whyItMatters": "It's part of why octopuses prefer crawling over swimming: swimming exhausts them.",
+    "tags": ["biology", "animals"]
+  },
+  {
+    "id": "science-004",
+    "domain": "science",
+    "hook": "Glass is technically still moving.",
+    "fact": "Glass is an amorphous solid, meaning its molecules are arranged more like a very slow-flowing liquid than a crystal — though at room temperature that flow is so slow it would take longer than the age of the universe to notice.",
+    "tags": ["physics", "materials"]
+  },
+  {
+    "id": "science-005",
+    "domain": "science",
+    "hook": "You share about 60% of your DNA with a banana.",
+    "fact": "Because so much of DNA codes for basic cellular machinery shared across all life, humans and bananas overlap significantly at the genetic level despite looking nothing alike.",
+    "whyItMatters": "It's a reminder that DNA similarity measures shared ancient biology, not overall likeness.",
+    "tags": ["biology", "genetics"]
+  },
+  {
+    "id": "science-006",
+    "domain": "science",
+    "hook": "Lightning is hotter than the sun's surface.",
+    "fact": "A single lightning bolt can reach around 30,000 Kelvin — roughly five times hotter than the surface of the sun, for a flash lasting a fraction of a second.",
+    "tags": ["physics", "weather"]
+  },
+  {
+    "id": "science-007",
+    "domain": "science",
+    "hook": "Your stomach lining renews itself every few days.",
+    "fact": "Stomach acid is strong enough to dissolve metal over time, so the stomach replaces its protective mucus lining every 3 to 4 days to keep from digesting itself.",
+    "tags": ["biology", "human-body"]
+  },
+  {
+    "id": "science-008",
+    "domain": "science",
+    "hook": "There's a metal that melts in your hand.",
+    "fact": "Gallium has a melting point of about 29.8°C (85.6°F), just below normal body temperature, so a solid piece will slowly liquefy when held in your palm.",
+    "tags": ["chemistry", "materials"]
+  },
+  {
+    "id": "science-009",
+    "domain": "science",
+    "hook": "Antibiotics don't work on colds.",
+    "fact": "Antibiotics kill bacteria, but the common cold is caused by viruses — which is why doctors say antibiotics won't help, and overusing them instead speeds up antibiotic resistance.",
+    "whyItMatters": "Misusing antibiotics for viral infections is a major driver of drug-resistant bacteria.",
+    "tags": ["medicine", "biology"]
+  },
+  {
+    "id": "science-010",
+    "domain": "science",
+    "hook": "Sound can't travel through space.",
+    "fact": "Sound needs a medium — air, water, or solid matter — to travel as vibrations. The vacuum of space has essentially no particles, so it's completely silent.",
+    "tags": ["physics"]
+  },
+  {
+    "id": "science-011",
+    "domain": "science",
+    "hook": "Some jellyfish are biologically immortal.",
+    "fact": "Turritopsis dohrnii, sometimes called the 'immortal jellyfish,' can revert its cells back to an earlier stage of life when stressed or injured, effectively resetting its age.",
+    "tags": ["biology", "animals"]
+  },
+  {
+    "id": "science-012",
+    "domain": "science",
+    "hook": "A teaspoon of neutron star would weigh billions of tons.",
+    "fact": "Neutron stars pack roughly the mass of the sun into a sphere about 20km wide, making their material so dense that a teaspoon of it would weigh around 4 billion tons on Earth.",
+    "tags": ["physics", "astronomy"]
+  },
+  {
+    "id": "science-013",
+    "domain": "science",
+    "hook": "Bananas are naturally, mildly radioactive.",
+    "fact": "Bananas are high in potassium, a small fraction of which is the naturally occurring radioactive isotope potassium-40 — though the dose is far too tiny to pose any health risk.",
+    "tags": ["chemistry", "physics"]
+  },
+  {
+    "id": "science-014",
+    "domain": "science",
+    "hook": "Your body has more bacterial cells than you'd think.",
+    "fact": "Estimates suggest the human body hosts roughly as many microbial cells as human cells, most living in the gut and playing a role in digestion and immunity.",
+    "tags": ["biology", "human-body"]
+  },
+  {
+    "id": "science-015",
+    "domain": "science",
+    "hook": "Diamonds can be made from thin air, sort of.",
+    "fact": "Some companies now grow diamonds in labs by using carbon captured from the atmosphere, replicating the heat and pressure conditions found deep underground.",
+    "tags": ["chemistry", "technology"]
+  },
+  {
+    "id": "science-016",
+    "domain": "science",
+    "hook": "Honey never spoils.",
+    "fact": "Archaeologists have found pots of honey in ancient Egyptian tombs that were still edible thousands of years later, thanks to honey's low moisture and natural acidity, which prevent bacteria from surviving.",
+    "tags": ["chemistry", "biology"]
+  },
+  {
+    "id": "science-017",
+    "domain": "science",
+    "hook": "Your brain uses about 20% of your body's energy.",
+    "fact": "Despite being only about 2% of body weight, the brain consumes roughly a fifth of the body's total energy, mostly to keep neurons firing and maintaining electrical signals.",
+    "tags": ["biology", "human-body"]
+  },
+  {
+    "id": "science-018",
+    "domain": "science",
+    "hook": "Sharks existed before trees.",
+    "fact": "Sharks appeared in the fossil record around 400 million years ago, roughly 50 million years before the first trees evolved.",
+    "tags": ["biology", "evolution"]
+  }
+]
