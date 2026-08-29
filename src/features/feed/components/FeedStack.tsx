@@ -1,7 +1,8 @@
-import { useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { ChevronDown, ChevronUp } from 'lucide-react'
 
 import { FactCard } from '@/features/feed/components/FactCard'
+import { ReactionToast } from '@/features/feed/components/ReactionToast'
 import type { Fact, Reaction } from '@/lib/types'
 
 interface FeedStackProps {
@@ -15,11 +16,40 @@ interface FeedStackProps {
 const SWIPE_THRESHOLD_PX = 45
 /** Minimum time between advances, so one gesture can't fire twice. */
 const ADVANCE_COOLDOWN_MS = 350
+/** How long the reaction toast stays fully visible before fading out. */
+const REACTION_TOAST_VISIBLE_MS = 900
+/** Total lifetime of the toast, including its fade-out transition. */
+const REACTION_TOAST_TOTAL_MS = 1200
 
 export function FeedStack({ currentFact, savedIds, onAdvance, onToggleSave }: FeedStackProps) {
   const touchStartY = useRef<number | null>(null)
   const lastAdvanceAt = useRef(0)
   const wheelAccumulator = useRef(0)
+  const [reactionToast, setReactionToast] = useState<{
+    reaction: Reaction
+    visible: boolean
+  } | null>(null)
+  const toastHideTimer = useRef<ReturnType<typeof setTimeout>>(undefined)
+  const toastClearTimer = useRef<ReturnType<typeof setTimeout>>(undefined)
+
+  useEffect(() => {
+    return () => {
+      clearTimeout(toastHideTimer.current)
+      clearTimeout(toastClearTimer.current)
+    }
+  }, [])
+
+  function handleReact(reaction: Reaction) {
+    clearTimeout(toastHideTimer.current)
+    clearTimeout(toastClearTimer.current)
+    setReactionToast({ reaction, visible: true })
+    toastHideTimer.current = setTimeout(
+      () => setReactionToast((t) => (t ? { ...t, visible: false } : t)),
+      REACTION_TOAST_VISIBLE_MS,
+    )
+    toastClearTimer.current = setTimeout(() => setReactionToast(null), REACTION_TOAST_TOTAL_MS)
+    onAdvance(reaction)
+  }
 
   function tryAdvance() {
     const now = Date.now()
@@ -76,10 +106,14 @@ export function FeedStack({ currentFact, savedIds, onAdvance, onToggleSave }: Fe
           fact={currentFact}
           saved={savedIds.has(currentFact.id)}
           onToggleSave={() => onToggleSave(currentFact.id)}
-          onReact={(reaction) => onAdvance(reaction)}
+          onReact={handleReact}
           active
         />
       </div>
+
+      {reactionToast && (
+        <ReactionToast reaction={reactionToast.reaction} visible={reactionToast.visible} />
+      )}
 
       <div className="pointer-events-none absolute inset-x-0 bottom-2 flex flex-col items-center gap-0.5 text-white/50">
         <ChevronUp size={16} className="hidden sm:block" aria-hidden="true" />
