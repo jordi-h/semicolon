@@ -5,6 +5,7 @@ import { FeedPage } from '@/features/feed/FeedPage'
 import { OnboardingPage } from '@/features/onboarding/OnboardingPage'
 import { SavedPage } from '@/features/saved/SavedPage'
 import { SettingsPage } from '@/features/settings/SettingsPage'
+import { SharedFactPage } from '@/features/share/SharedFactPage'
 import { ProtectedRoute } from '@/routes/ProtectedRoute'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Navigate to="/feed" replace />} />
           <Route path="/login" element={<AuthPage />} />
+          <Route path="/f/:factId" element={<SharedFactPage />} />
           <Route
             path="/onboarding"
             element={

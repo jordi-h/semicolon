@@ -116,6 +116,33 @@ random unseen fact within it. A domain's seen set only resets once every
 fact in it has been shown — so a card never repeats until its domain's
 pool is exhausted.
 
+## Sharing a fact
+
+Every card has a share button (`src/features/share/`) that renders a
+polished, off-screen 1080×1920 graphic for that single fact — hook, fact
+text, a domain accent color, and the semicolon wordmark — using
+`html-to-image` (`ShareCardImage.tsx` is the template, `useShareFact.ts`
+does the capture + share). On a device that supports the Web Share API
+with file attachments, it opens the native share sheet with the image
+attached; otherwise it downloads the PNG and copies a shareable link
+(`factShareUrl.ts`, `/f/:factId`) to the clipboard.
+
+That `/f/:factId` link (`SharedFactPage.tsx`) is a public route — not
+behind `ProtectedRoute` — so it works for people who don't have an
+account yet, which is the whole point of a share link. That required
+opening up the `facts` table's RLS policy to the `anon` role too (see
+`supabase/schema.sql`); nothing else changed, since `facts` content was
+already meant to be non-sensitive, publicly-shareable trivia.
+
+**Not built yet:** rich link previews (the image WhatsApp/iMessage/Slack/
+Twitter show when you paste the raw `/f/:id` link, before anyone clicks
+it) need per-URL Open Graph meta tags served to crawlers that don't run
+JavaScript — which means a server or edge-function step, and the specific
+approach (e.g. Vercel's `@vercel/og`, a Netlify/Cloudflare edge function,
+or a Supabase Edge Function) depends on wherever this ends up hosted.
+Worth revisiting once that's decided; the in-app "share image directly"
+flow above doesn't need it and works today.
+
 ## Content pipeline (future)
 
 All content is hand-seeded, static, and reviewed ahead of time — there is
@@ -137,6 +164,7 @@ src/
     onboarding/          domain picker
     saved/                saved facts list
     settings/            profile, stats, edit preferences
+    share/                share-image generation, Web Share API, /f/:id page
   lib/
     api/                data-access layer (Supabase ⇄ local fallback)
     hooks/              shared TanStack Query hooks

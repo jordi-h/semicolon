@@ -3,17 +3,10 @@ import { Search } from 'lucide-react'
 import { HeartButton } from '@/features/feed/components/HeartButton'
 import { ReactionButtons } from '@/features/feed/components/ReactionButtons'
 import { factSearchUrl } from '@/features/feed/lib/factSearchUrl'
-import { DOMAIN_EMOJI, DOMAIN_LABELS, type Domain, type Fact, type Reaction } from '@/lib/types'
+import { ShareButton } from '@/features/share/ShareButton'
+import { DOMAIN_GRADIENTS } from '@/lib/domainTheme'
+import { DOMAIN_EMOJI, DOMAIN_LABELS, type Fact, type Reaction } from '@/lib/types'
 import { cn } from '@/lib/utils'
-
-const DOMAIN_GRADIENTS: Record<Domain, string> = {
-  science: 'from-emerald-600 via-teal-700 to-slate-900',
-  technology: 'from-indigo-600 via-blue-700 to-slate-900',
-  history: 'from-amber-700 via-orange-800 to-slate-900',
-  geography: 'from-cyan-600 via-sky-700 to-slate-900',
-  culture: 'from-fuchsia-600 via-pink-700 to-slate-900',
-  space: 'from-violet-700 via-purple-900 to-slate-950',
-}
 
 interface FactCardProps {
   fact: Fact
@@ -60,7 +53,10 @@ export function FactCard({ fact, saved, onToggleSave, onReact, active }: FactCar
 
       <div className="relative z-10 mt-6 flex items-center justify-between">
         <ReactionButtons onReact={onReact} />
-        <HeartButton saved={saved} onToggle={onToggleSave} size="lg" />
+        <div className="flex items-center gap-2">
+          <ShareButton fact={fact} size="lg" />
+          <HeartButton saved={saved} onToggle={onToggleSave} size="lg" />
+        </div>
       </div>
     </article>
   )

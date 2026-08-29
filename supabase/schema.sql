@@ -1,10 +1,13 @@
--- InfiniScroll database schema.
+-- semicolon database schema.
 -- Run this once against a fresh Supabase project (SQL Editor, or `supabase db push`
 -- if you use the Supabase CLI) before running `npm run seed`.
 
 -- ─────────────────────────────────────────────────────────────────────────
--- facts: the curated content pool. Publicly readable, written only by the
--- seed script (which uses the service_role key and therefore bypasses RLS).
+-- facts: the curated content pool. Publicly readable -- including by
+-- anonymous (logged-out) visitors, since shared fact links
+-- (src/features/share/SharedFactPage.tsx) need to work for people who
+-- don't have an account yet. Written only by the seed script (which uses
+-- the service_role key and therefore bypasses RLS).
 -- ─────────────────────────────────────────────────────────────────────────
 create table if not exists public.facts (
   id text primary key,
@@ -19,9 +22,9 @@ create table if not exists public.facts (
 
 alter table public.facts enable row level security;
 
-create policy "facts are readable by any signed-in user"
+create policy "facts are publicly readable"
   on public.facts for select
-  to authenticated
+  to anon, authenticated
   using (true);
 
 -- ─────────────────────────────────────────────────────────────────────────
