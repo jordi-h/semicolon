@@ -103,5 +103,124 @@
     "hook": "The Berlin Wall fell almost by accident.",
     "fact": "In 1989, an East German official misspoke at a press conference, implying travel restrictions were lifted immediately rather than the next day — crowds rushed the checkpoints that same night, and the wall effectively fell.",
     "tags": ["germany", "20th-century"]
+  },
+  {
+    "id": "history-016",
+    "domain": "history",
+    "hook": "The Statue of Liberty wasn't always green.",
+    "fact": "The statue's copper skin was originally a shiny brownish-orange, like a new penny. Over decades of exposure to the air, it oxidized into the green patina we see today.",
+    "tags": ["america", "monuments"]
+  },
+  {
+    "id": "history-017",
+    "domain": "history",
+    "hook": "Egyptian embalmers removed the brain through the nose.",
+    "fact": "During mummification, embalmers pulled the brain out through the nostrils and discarded it, since ancient Egyptians believed the heart, not the brain, was the seat of intelligence and the soul.",
+    "tags": ["ancient-egypt", "daily-life"]
+  },
+  {
+    "id": "history-018",
+    "domain": "history",
+    "hook": "The Library of Alexandria wasn't destroyed in one dramatic fire.",
+    "fact": "Rather than a single catastrophic blaze, the famous library's decline happened gradually over centuries, through multiple smaller fires, funding cuts, and neglect.",
+    "tags": ["ancient-history", "myths"]
+  },
+  {
+    "id": "history-019",
+    "domain": "history",
+    "hook": "The Colosseum could be flooded for mock naval battles.",
+    "fact": "In its early years, Rome's Colosseum was reportedly capable of being flooded to stage naumachiae — recreated naval battles — for public entertainment.",
+    "tags": ["rome", "entertainment"]
+  },
+  {
+    "id": "history-020",
+    "domain": "history",
+    "hook": "The Hundred Years' War actually lasted 116 years.",
+    "fact": "Fought between England and France on and off from 1337 to 1453, the conflict's traditional name undersells its real length by more than a decade.",
+    "tags": ["war", "europe"]
+  },
+  {
+    "id": "history-021",
+    "domain": "history",
+    "hook": "Genghis Khan's empire was bigger than Alexander the Great's and Rome's combined.",
+    "fact": "At its height, the Mongol Empire founded by Genghis Khan covered more territory than the empires of Alexander the Great and ancient Rome added together.",
+    "tags": ["mongolia", "empires"]
+  },
+  {
+    "id": "history-022",
+    "domain": "history",
+    "hook": "The guillotine was invented to make execution more humane.",
+    "fact": "Proposed during the French Revolution, the guillotine was designed to kill instantly and painlessly, seen at the time as a more merciful alternative to the slower methods it replaced.",
+    "tags": ["france", "law"]
+  },
+  {
+    "id": "history-023",
+    "domain": "history",
+    "hook": "Ancient Romans used urine to whiten their teeth.",
+    "fact": "Because of its ammonia content, urine was used by Romans as a cleaning agent — including, according to historical accounts, as an ingredient in some teeth-whitening formulas.",
+    "tags": ["rome", "daily-life"]
+  },
+  {
+    "id": "history-024",
+    "domain": "history",
+    "hook": "One French king reigned for only about 20 minutes.",
+    "fact": "Louis XIX became King of France in 1830 but abdicated roughly 20 minutes later, making his reign one of the shortest of any monarch in recorded history.",
+    "tags": ["france", "leaders"]
+  },
+  {
+    "id": "history-025",
+    "domain": "history",
+    "hook": "The Titanic's wreck wasn't found for over 70 years.",
+    "fact": "The Titanic sank in 1912, but its wreckage on the ocean floor wasn't located until 1985, when oceanographer Robert Ballard's team finally found it.",
+    "tags": ["20th-century", "exploration"]
+  },
+  {
+    "id": "history-026",
+    "domain": "history",
+    "hook": "Paul Revere never finished his famous ride.",
+    "fact": "Revere was one of several riders warning colonists of British troop movements in 1775, and was actually captured by British soldiers before he could complete the full route to Concord.",
+    "tags": ["america", "war"]
+  },
+  {
+    "id": "history-027",
+    "domain": "history",
+    "hook": "The Wright brothers' first flight was shorter than a jumbo jet's wingspan.",
+    "fact": "The Wright brothers' historic 1903 flight covered just 120 feet — less than the wingspan of a modern Boeing 747.",
+    "tags": ["invention", "america"]
+  },
+  {
+    "id": "history-028",
+    "domain": "history",
+    "hook": "China gave the world paper, gunpowder, the compass, and printing.",
+    "fact": "These four innovations, often called China's 'Four Great Inventions,' reshaped communication, navigation, and warfare across the ancient and medieval world.",
+    "tags": ["china", "invention"]
+  },
+  {
+    "id": "history-029",
+    "domain": "history",
+    "hook": "Pilots kept West Berlin fed and fueled entirely by air for nearly a year.",
+    "fact": "After Soviet forces blocked land access to West Berlin in 1948, Allied pilots flew in food, coal, and supplies around the clock for almost a year in what became known as the Berlin Airlift.",
+    "tags": ["germany", "20th-century"]
+  },
+  {
+    "id": "history-030",
+    "domain": "history",
+    "hook": "Cleopatra wasn't ethnically Egyptian.",
+    "fact": "Cleopatra descended from the Ptolemaic dynasty, a Greek Macedonian family that ruled Egypt after Alexander the Great's conquest — making her Greek by ancestry despite ruling Egypt.",
+    "tags": ["ancient-egypt", "leaders"]
+  },
+  {
+    "id": "history-031",
+    "domain": "history",
+    "hook": "The first recorded labor strike happened in ancient Egypt.",
+    "fact": "Around 1157 BCE, royal tomb workers in Egypt stopped working over unpaid wages — an event documented on papyrus and considered the earliest known labor strike in history.",
+    "tags": ["ancient-egypt", "labor"]
+  },
+  {
+    "id": "history-032",
+    "domain": "history",
+    "hook": "Medieval knights' armor wasn't as heavy or clumsy as movies suggest.",
+    "fact": "A full suit of plate armor was carefully balanced and distributed across the body, letting knights run, climb, and mount a horse unassisted — nothing like the immobilizing weight often shown on screen.",
+    "tags": ["europe", "myths"]
   }
 ]

@@ -90,5 +90,117 @@
     "hook": "Fortune cookies aren't actually from China.",
     "fact": "Fortune cookies are widely believed to have originated with Japanese immigrants in California in the early 1900s and were later popularized by Chinese-American restaurants — they're largely unknown in China itself.",
     "tags": ["food", "myths"]
+  },
+  {
+    "id": "culture-014",
+    "domain": "culture",
+    "hook": "Chopsticks were originally cooking tools, not eating utensils.",
+    "fact": "Chopsticks have been used in China for more than 3,000 years, but were first used mainly for cooking and serving food from communal pots before becoming common eating utensils.",
+    "tags": ["food", "china"]
+  },
+  {
+    "id": "culture-015",
+    "domain": "culture",
+    "hook": "A thumbs up isn't a friendly gesture everywhere.",
+    "fact": "While it signals approval across much of the West, the thumbs up gesture is considered offensive in parts of the Middle East and West Africa.",
+    "tags": ["gestures", "customs"]
+  },
+  {
+    "id": "culture-016",
+    "domain": "culture",
+    "hook": "The Bible is the most translated book in the world.",
+    "fact": "It's been translated, at least in part, into over 3,000 languages — far more than any other written work in history.",
+    "tags": ["language", "history-of-culture"]
+  },
+  {
+    "id": "culture-017",
+    "domain": "culture",
+    "hook": "Slurping your noodles loudly is a compliment in Japan.",
+    "fact": "In Japan, audibly slurping noodles like ramen or soba is considered a sign that you're enjoying the meal, not bad manners.",
+    "tags": ["food", "japan"]
+  },
+  {
+    "id": "culture-018",
+    "domain": "culture",
+    "hook": "Piñatas didn't originate in Mexico.",
+    "fact": "The piñata tradition is believed to have started in China, later spread to Europe, and was eventually brought to Mexico by Spanish colonizers, where it took on its modern form.",
+    "tags": ["customs", "history-of-culture"]
+  },
+  {
+    "id": "culture-019",
+    "domain": "culture",
+    "hook": "Valentine's Day has roots in an ancient Roman festival.",
+    "fact": "Valentine's Day traces back to Lupercalia, an ancient Roman fertility festival, which was later Christianized and renamed after a martyred saint.",
+    "tags": ["customs", "rome"]
+  },
+  {
+    "id": "culture-020",
+    "domain": "culture",
+    "hook": "Using your left hand to eat is considered rude in many cultures.",
+    "fact": "In much of South Asia and the Middle East, the left hand is traditionally reserved for hygiene tasks, so eating or handing something to someone with it is seen as impolite.",
+    "tags": ["customs", "food"]
+  },
+  {
+    "id": "culture-021",
+    "domain": "culture",
+    "hook": "Origami came to Japan from China, along with paper itself.",
+    "fact": "The art of paper folding developed in Japan around the 6th century, after papermaking techniques were introduced from China.",
+    "tags": ["japan", "art"]
+  },
+  {
+    "id": "culture-022",
+    "domain": "culture",
+    "hook": "Clinking glasses during a toast may have started as superstition.",
+    "fact": "One popular theory holds that the custom of clinking glasses began from a belief that the sound would scare away evil spirits lurking nearby.",
+    "tags": ["customs"]
+  },
+  {
+    "id": "culture-023",
+    "domain": "culture",
+    "hook": "Yoga is thousands of years older than most people realize.",
+    "fact": "Yoga originated in ancient India more than 5,000 years ago as a spiritual and philosophical discipline, long before it became associated primarily with physical exercise.",
+    "tags": ["india", "history-of-culture"]
+  },
+  {
+    "id": "culture-024",
+    "domain": "culture",
+    "hook": "In Russia, an even number of flowers is for funerals only.",
+    "fact": "Russian custom reserves even-numbered flower bouquets for funerals and mourning — bouquets given for celebrations should always have an odd number of stems.",
+    "tags": ["customs", "russia"]
+  },
+  {
+    "id": "culture-025",
+    "domain": "culture",
+    "hook": "Saying 'bless you' after a sneeze may date back to a 6th-century plague.",
+    "fact": "One popular account credits Pope Gregory I with urging people to say a blessing after sneezing during a deadly outbreak, since a sneeze was feared to be an early plague symptom.",
+    "tags": ["customs", "history-of-culture"]
+  },
+  {
+    "id": "culture-026",
+    "domain": "culture",
+    "hook": "Carnival celebrations predate Christianity.",
+    "fact": "Festivals like Brazil's Carnival, held before the Christian season of Lent, trace back to pre-Christian spring celebrations that were later absorbed into the Christian calendar.",
+    "tags": ["customs", "south-america"]
+  },
+  {
+    "id": "culture-027",
+    "domain": "culture",
+    "hook": "Flamenco blends far more cultures than just Spanish ones.",
+    "fact": "Though closely associated with Spain, flamenco developed from a mix of Romani, Andalusian, Jewish, and Moorish influences that mingled in southern Spain over centuries.",
+    "tags": ["art", "spain"]
+  },
+  {
+    "id": "culture-028",
+    "domain": "culture",
+    "hook": "White wedding cakes once symbolized wealth, not just purity.",
+    "fact": "In earlier centuries, refined white sugar was expensive and difficult to produce, so a pure-white wedding cake was also a visible display of a family's wealth.",
+    "tags": ["customs", "weddings"]
+  },
+  {
+    "id": "culture-029",
+    "domain": "culture",
+    "hook": "The high five is a fairly recent invention.",
+    "fact": "Unlike older gestures such as the handshake or bow, the high five is widely credited to American baseball players in the late 1970s.",
+    "tags": ["gestures", "america"]
   }
 ]

@@ -1,5 +1,6 @@
-import { ExternalLink, Heart } from 'lucide-react'
+import { Heart, Search } from 'lucide-react'
 
+import { factSearchUrl } from '@/features/feed/lib/factSearchUrl'
 import { DOMAIN_EMOJI, DOMAIN_LABELS, type Fact } from '@/lib/types'
 
 interface SavedFactCardProps {
@@ -26,16 +27,15 @@ export function SavedFactCard({ fact, onUnsave }: SavedFactCardProps) {
       </div>
       <h3 className="font-semibold">{fact.hook}</h3>
       <p className="text-sm text-muted-foreground">{fact.fact}</p>
-      {fact.sourceUrl && (
-        <a
-          href={fact.sourceUrl}
-          target="_blank"
-          rel="noreferrer"
-          className="inline-flex w-fit items-center gap-1 text-xs text-primary hover:underline"
-        >
-          Learn more <ExternalLink size={12} />
-        </a>
-      )}
+      <a
+        href={factSearchUrl(fact)}
+        target="_blank"
+        rel="noreferrer"
+        className="inline-flex w-fit items-center gap-1 text-xs text-primary hover:underline"
+      >
+        <Search size={12} />
+        Dive deeper
+      </a>
     </div>
   )
 }

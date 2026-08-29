@@ -97,5 +97,124 @@
     "hook": "There's a spot where four countries almost meet.",
     "fact": "Southern Africa's 'Four Corners' near Zambia, Zimbabwe, Botswana, and Namibia comes remarkably close to a true quadripoint, though surveys confirm they meet at two very close tripoints rather than one exact point.",
     "tags": ["borders", "africa"]
+  },
+  {
+    "id": "geography-015",
+    "domain": "geography",
+    "hook": "Mount Everest's official height changed by 86 centimeters in 2020.",
+    "fact": "Nepal and China jointly re-measured Mount Everest using modern GPS technology and set its new official height at 8,848.86 meters — about 86 centimeters taller than the previously accepted figure.",
+    "tags": ["mountains", "asia"]
+  },
+  {
+    "id": "geography-016",
+    "domain": "geography",
+    "hook": "Australia's longest fence stretches over 5,600 kilometers.",
+    "fact": "The Dingo Fence was built to keep dingoes away from sheep grazing land in southeastern Australia, and remains one of the longest structures ever built by humans.",
+    "tags": ["australia", "records"]
+  },
+  {
+    "id": "geography-017",
+    "domain": "geography",
+    "hook": "New Zealand was one of the last places on Earth settled by humans.",
+    "fact": "Polynesian voyagers first reached New Zealand around 1250–1300 CE, making it one of the final major landmasses to be settled — thousands of years after most of the world.",
+    "tags": ["islands", "oceania"]
+  },
+  {
+    "id": "geography-018",
+    "domain": "geography",
+    "hook": "South America has only two landlocked countries.",
+    "fact": "Bolivia and Paraguay are the only two countries in South America without direct ocean access, despite the continent's long coastlines.",
+    "tags": ["countries", "south-america"]
+  },
+  {
+    "id": "geography-019",
+    "domain": "geography",
+    "hook": "The Amazon carries more water than the next seven biggest rivers combined.",
+    "fact": "The Amazon River's flow into the Atlantic Ocean is so massive that it outpaces the combined discharge of the next seven largest rivers on Earth.",
+    "tags": ["rivers", "south-america"]
+  },
+  {
+    "id": "geography-020",
+    "domain": "geography",
+    "hook": "Singapore has grown its land area by over 20% since independence.",
+    "fact": "Through decades of land reclamation projects, Singapore has expanded its total land area by more than a fifth since becoming independent in 1965.",
+    "tags": ["cities", "asia"]
+  },
+  {
+    "id": "geography-021",
+    "domain": "geography",
+    "hook": "There's a point on Earth more than 2,600 km from any ocean.",
+    "fact": "Located in northwestern China, the 'Eurasian pole of inaccessibility' is the spot on Earth's surface farthest from any coastline in every direction.",
+    "tags": ["asia", "trivia"]
+  },
+  {
+    "id": "geography-022",
+    "domain": "geography",
+    "hook": "Iceland is icier in name than in reality — and Greenland is the opposite.",
+    "fact": "Iceland is only about 10% covered in glaciers, while much of Greenland's southern coast is comparatively green — a naming mismatch that traces back to medieval Norse settlers.",
+    "tags": ["climate", "trivia"]
+  },
+  {
+    "id": "geography-023",
+    "domain": "geography",
+    "hook": "The Nile might not be the longest river after all.",
+    "fact": "The Nile has long been considered the world's longest river, but some modern measurements suggest the Amazon could actually be longer, depending on exactly where its source is defined.",
+    "tags": ["rivers", "records"]
+  },
+  {
+    "id": "geography-024",
+    "domain": "geography",
+    "hook": "There's a patch of desert no country wants to claim.",
+    "fact": "Bir Tawil, a strip of land between Egypt and Sudan, is unclaimed by either country — claiming it would weaken each nation's position in a separate, more valuable border dispute nearby.",
+    "tags": ["borders", "africa"]
+  },
+  {
+    "id": "geography-025",
+    "domain": "geography",
+    "hook": "Japan has more than double the islands it was once thought to have.",
+    "fact": "A 2023 government recount using precise digital mapping revised Japan's official island count from 6,852 to 14,125.",
+    "tags": ["islands", "asia"]
+  },
+  {
+    "id": "geography-026",
+    "domain": "geography",
+    "hook": "Parts of Chile's Atacama Desert have never recorded rain.",
+    "fact": "The Atacama is considered the driest inhabited place on Earth — some of its weather stations have no recorded rainfall in their entire history of operation.",
+    "tags": ["climate", "south-america"]
+  },
+  {
+    "id": "geography-027",
+    "domain": "geography",
+    "hook": "Vatican City is smaller than most golf courses.",
+    "fact": "The world's smallest country covers just 0.49 square kilometers, making it tinier than the average 18-hole golf course.",
+    "tags": ["countries", "records"]
+  },
+  {
+    "id": "geography-028",
+    "domain": "geography",
+    "hook": "Australia is the only continent-spanning country with no land borders.",
+    "fact": "Because it's surrounded entirely by ocean, Australia is the sole country that covers an entire continent while sharing a land border with absolutely no other nation.",
+    "tags": ["australia", "borders"]
+  },
+  {
+    "id": "geography-029",
+    "domain": "geography",
+    "hook": "Geographers still argue about whether the Caspian is a sea or a lake.",
+    "fact": "The Caspian Sea is the largest inland body of water on Earth, and whether it technically counts as a sea or the world's biggest lake remains a genuine debate among geographers.",
+    "tags": ["water", "trivia"]
+  },
+  {
+    "id": "geography-030",
+    "domain": "geography",
+    "hook": "Kilimanjaro is the tallest mountain that isn't part of a range.",
+    "fact": "Mount Kilimanjaro in Tanzania is the world's tallest freestanding mountain, rising on its own rather than as part of a larger mountain chain.",
+    "tags": ["mountains", "africa"]
+  },
+  {
+    "id": "geography-031",
+    "domain": "geography",
+    "hook": "The Chile–Argentina border runs over 5,300 kilometers along the Andes.",
+    "fact": "One of the longest international borders on Earth follows the spine of the Andes mountains between Chile and Argentina, stretching more than 5,300 kilometers.",
+    "tags": ["borders", "south-america"]
   }
 ]

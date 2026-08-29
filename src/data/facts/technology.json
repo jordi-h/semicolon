@@ -110,5 +110,124 @@
     "hook": "Early computers were literally people.",
     "fact": "Before electronic machines, 'computer' was a job title for people, often women, who performed complex calculations by hand for scientific and engineering projects.",
     "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-017",
+    "domain": "technology",
+    "hook": "The first computer virus to spread in the wild was a 1982 prank.",
+    "fact": "'Elk Cloner,' written by a 15-year-old, spread between Apple II computers via floppy disks and displayed a short poem on every 50th boot — one of the earliest examples of malware spreading outside a lab.",
+    "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-018",
+    "domain": "technology",
+    "hook": "The word 'bug' predates computers by decades.",
+    "fact": "Engineers used 'bug' to describe mechanical glitches long before software existed — Thomas Edison used the term in his notes as early as the 1870s.",
+    "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-019",
+    "domain": "technology",
+    "hook": "The first text message ever sent just said 'Merry Christmas.'",
+    "fact": "In December 1992, engineer Neil Papworth sent the first SMS text message from a computer to a mobile phone on the Vodafone network, reading simply 'Merry Christmas.'",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-020",
+    "domain": "technology",
+    "hook": "The PlayStation started as a joint project with Nintendo.",
+    "fact": "Sony was originally developing a CD-ROM add-on for the Super Nintendo. When that partnership collapsed, Sony built its own console instead — which became the PlayStation.",
+    "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-021",
+    "domain": "technology",
+    "hook": "The word 'spam' for junk email comes from a Monty Python sketch.",
+    "fact": "A 1970 sketch featured a cafe where every dish came with Spam, and the word was repeated so relentlessly it became internet slang for unwanted, repetitive messages.",
+    "tags": ["internet", "language"]
+  },
+  {
+    "id": "technology-022",
+    "domain": "technology",
+    "hook": "The first domain name ever registered was symbolics.com.",
+    "fact": "Registered in March 1985 by a computer manufacturer, symbolics.com was the very first .com domain — years before the web as we know it existed.",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-023",
+    "domain": "technology",
+    "hook": "Most of the world's money doesn't physically exist.",
+    "fact": "More than 90% of the world's currency exists only as digital records in banking systems, rather than as physical cash or coins.",
+    "tags": ["computing", "economics"]
+  },
+  {
+    "id": "technology-024",
+    "domain": "technology",
+    "hook": "The first web banner ad had a 44% click-through rate.",
+    "fact": "AT&T's 1994 'You Will' banner ad on HotWired is considered the first of its kind — and reportedly saw about 44% of viewers click it, an almost unthinkable rate by today's standards.",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-025",
+    "domain": "technology",
+    "hook": "CAPTCHA is actually an acronym.",
+    "fact": "CAPTCHA stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart' — the little puzzles designed to block bots from web forms.",
+    "tags": ["internet", "computing"]
+  },
+  {
+    "id": "technology-026",
+    "domain": "technology",
+    "hook": "The first tweet was about setting up Twitter itself.",
+    "fact": "Twitter co-founder Jack Dorsey posted the platform's first-ever tweet in 2006: 'just setting up my twttr.'",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-027",
+    "domain": "technology",
+    "hook": "QR codes were invented to track car parts, not for marketing.",
+    "fact": "A Japanese company called Denso Wave created QR codes in 1994 to track automotive components during manufacturing — decades before they became a staple of restaurant menus and ads.",
+    "tags": ["technology", "history"]
+  },
+  {
+    "id": "technology-028",
+    "domain": "technology",
+    "hook": "The @ symbol has some fun nicknames around the world.",
+    "fact": "While English just calls it 'at,' other languages have their own names for the @ symbol — it's often called 'little dog' or 'monkey tail' in Slavic languages, among other nicknames.",
+    "tags": ["internet", "language"]
+  },
+  {
+    "id": "technology-029",
+    "domain": "technology",
+    "hook": "Nintendo is over 130 years old.",
+    "fact": "Nintendo was founded in 1889, originally making handcrafted Japanese playing cards called hanafuda — more than a century before it ever made a video game.",
+    "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-030",
+    "domain": "technology",
+    "hook": "It took 27 years to go from the first 1GB hard drive to the first 1TB one.",
+    "fact": "The first gigabyte hard drive shipped in 1980; the first consumer terabyte drive didn't arrive until 2007 — a thousandfold jump in capacity in under three decades.",
+    "tags": ["computing", "history"]
+  },
+  {
+    "id": "technology-031",
+    "domain": "technology",
+    "hook": "Text messages were capped at 160 characters for a very specific reason.",
+    "fact": "Engineer Friedhelm Hillebrand found that most postcards and Telex messages naturally stayed under 160 characters, and used that research to help set the original SMS length limit.",
+    "tags": ["internet", "history"]
+  },
+  {
+    "id": "technology-032",
+    "domain": "technology",
+    "hook": "The trash bin icon is almost as old as the modern computer interface.",
+    "fact": "The trash/recycle bin icon for deleting files was introduced with the original Apple Macintosh in 1984, and its basic look has barely changed since.",
+    "tags": ["design", "computing"]
+  },
+  {
+    "id": "technology-033",
+    "domain": "technology",
+    "hook": "One of the first mobile games was Snake, preloaded on Nokia phones.",
+    "fact": "Nokia included the game Snake on its phones starting with the Nokia 6110 in 1997, introducing millions of people to mobile gaming years before app stores existed.",
+    "tags": ["computing", "history"]
   }
 ]

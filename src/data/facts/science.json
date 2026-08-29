@@ -129,5 +129,125 @@
     "hook": "Sharks existed before trees.",
     "fact": "Sharks appeared in the fossil record around 400 million years ago, roughly 50 million years before the first trees evolved.",
     "tags": ["biology", "evolution"]
+  },
+  {
+    "id": "science-019",
+    "domain": "science",
+    "hook": "Ice is one of the few solids that floats on its own liquid.",
+    "fact": "Water is unusual in that it expands when it freezes, making ice less dense than liquid water — which is why it floats.",
+    "whyItMatters": "Frozen lakes freeze from the top down, insulating the water below so fish and other life can survive winter.",
+    "tags": ["chemistry", "physics"]
+  },
+  {
+    "id": "science-020",
+    "domain": "science",
+    "hook": "Octopus blood is blue.",
+    "fact": "Octopuses and squid use a copper-based molecule called hemocyanin to carry oxygen in their blood, instead of the iron-based hemoglobin that makes human blood red.",
+    "tags": ["biology", "animals"]
+  },
+  {
+    "id": "science-021",
+    "domain": "science",
+    "hook": "Lightning strikes Earth 44 times every second.",
+    "fact": "On average, lightning strikes somewhere on the planet about 44 times per second, adding up to roughly 8 million strikes a day.",
+    "tags": ["weather", "physics"]
+  },
+  {
+    "id": "science-022",
+    "domain": "science",
+    "hook": "The Eiffel Tower grows taller in summer.",
+    "fact": "Heat makes the Eiffel Tower's iron structure expand, adding around 15 centimeters to its height on hot summer days compared to winter.",
+    "tags": ["physics", "materials"]
+  },
+  {
+    "id": "science-023",
+    "domain": "science",
+    "hook": "Sound moves about four times faster through water than air.",
+    "fact": "Because water molecules are packed much more tightly than air molecules, sound waves travel through water at roughly 1,480 meters per second, compared to about 340 in air.",
+    "tags": ["physics"]
+  },
+  {
+    "id": "science-024",
+    "domain": "science",
+    "hook": "Hot water can sometimes freeze faster than cold water.",
+    "fact": "Under certain conditions, hot water freezes faster than cold water — a puzzling effect named after Erasto Mpemba, the Tanzanian student who documented it in 1963. Scientists still debate exactly why it happens.",
+    "tags": ["physics", "chemistry"]
+  },
+  {
+    "id": "science-025",
+    "domain": "science",
+    "hook": "Your cells repair tens of thousands of DNA errors every day.",
+    "fact": "Everyday processes like sunlight, chemicals, and simple cell division damage DNA constantly — the body's repair enzymes fix tens of thousands of these breaks and errors per cell, per day.",
+    "tags": ["biology", "genetics"]
+  },
+  {
+    "id": "science-026",
+    "domain": "science",
+    "hook": "There are more possible chess games than atoms in the universe.",
+    "fact": "The number of distinct ways a chess game can unfold, known as the Shannon number, is estimated at around 10^120 — far more than the roughly 10^80 atoms thought to exist in the observable universe.",
+    "tags": ["math", "trivia"]
+  },
+  {
+    "id": "science-027",
+    "domain": "science",
+    "hook": "Your jaw muscle is the strongest one in your body, pound for pound.",
+    "fact": "The masseter, the muscle used for chewing, can generate more force relative to its size than any other muscle in the human body.",
+    "tags": ["biology", "human-body"]
+  },
+  {
+    "id": "science-028",
+    "domain": "science",
+    "hook": "Elephants can recognize themselves in a mirror.",
+    "fact": "Elephants are among a small handful of species — along with humans, great apes, and dolphins — that have passed the mirror self-recognition test, suggesting a form of self-awareness.",
+    "tags": ["biology", "animals"]
+  },
+  {
+    "id": "science-029",
+    "domain": "science",
+    "hook": "A single cloud can weigh over a million pounds.",
+    "fact": "A typical cumulus cloud contains so many water droplets that it can weigh well over a million pounds — the droplets are simply spread out and light enough to stay airborne.",
+    "tags": ["weather", "physics"]
+  },
+  {
+    "id": "science-030",
+    "domain": "science",
+    "hook": "The human eye can distinguish about 10 million colors.",
+    "fact": "Three types of light-sensitive cone cells in the retina work together to let most people perceive an estimated 10 million distinct shades of color.",
+    "tags": ["biology", "human-body"]
+  },
+  {
+    "id": "science-031",
+    "domain": "science",
+    "hook": "Tardigrades can survive being frozen, boiled, and shot into space.",
+    "fact": "These microscopic 'water bears' can survive extreme cold near absolute zero, intense heat, total dehydration, and even the vacuum of space, entering a dormant state until conditions improve.",
+    "tags": ["biology", "animals"]
+  },
+  {
+    "id": "science-032",
+    "domain": "science",
+    "hook": "Wombats poop in cubes.",
+    "fact": "Wombat droppings come out cube-shaped, a quirk caused by varying elasticity in sections of their intestines — the flat sides keep the droppings from rolling away once used to mark territory.",
+    "tags": ["biology", "animals"]
+  },
+  {
+    "id": "science-033",
+    "domain": "science",
+    "hook": "Venom and poison aren't the same thing.",
+    "fact": "Venom has to be injected into the body to cause harm, usually through a bite or sting, while poison causes harm if it's touched, inhaled, or eaten.",
+    "tags": ["biology"]
+  },
+  {
+    "id": "science-034",
+    "domain": "science",
+    "hook": "The five-second rule doesn't really hold up.",
+    "fact": "Research on dropped food has found that bacteria can transfer to food almost instantly on contact with a surface — often in under a second, regardless of how quickly it's picked back up.",
+    "tags": ["biology", "myths"]
+  },
+  {
+    "id": "science-035",
+    "domain": "science",
+    "hook": "Crows can recognize individual human faces — and hold grudges.",
+    "fact": "Studies have shown crows can distinguish specific human faces, remember people who have threatened them, and even pass that information on to other crows for years afterward.",
+    "tags": ["biology", "animals"]
   }
 ]

@@ -96,5 +96,117 @@
     "hook": "There's a giant storm on Jupiter older than any living human.",
     "fact": "Jupiter's Great Red Spot is a storm larger than Earth that has been observed continuously since at least the 1830s, and possibly much longer.",
     "tags": ["planets"]
+  },
+  {
+    "id": "space-015",
+    "domain": "space",
+    "hook": "The tallest volcano in the solar system is on Mars.",
+    "fact": "Olympus Mons on Mars is the largest known volcano in the solar system, standing about three times taller than Mount Everest.",
+    "tags": ["planets"]
+  },
+  {
+    "id": "space-016",
+    "domain": "space",
+    "hook": "A single spacesuit costs around $12 million.",
+    "fact": "Most of the cost of a NASA spacewalk suit comes from its life-support backpack, which supplies oxygen, regulates temperature, and removes carbon dioxide.",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "space-017",
+    "domain": "space",
+    "hook": "A day on Mars is only 40 minutes longer than a day on Earth.",
+    "fact": "Mars rotates on its axis at nearly the same rate as Earth, giving it a day — called a 'sol' — of about 24 hours and 40 minutes.",
+    "tags": ["planets"]
+  },
+  {
+    "id": "space-018",
+    "domain": "space",
+    "hook": "Our galaxy is on a collision course with our closest large neighbor.",
+    "fact": "The Milky Way is slowly moving toward the Andromeda galaxy and the two are expected to merge in roughly 4.5 billion years.",
+    "tags": ["universe", "cosmology"]
+  },
+  {
+    "id": "space-019",
+    "domain": "space",
+    "hook": "Even 'empty' space isn't completely empty.",
+    "fact": "Interstellar space still contains a few atoms per cubic centimeter — far sparser than any vacuum scientists can create on Earth, but not a true void.",
+    "tags": ["universe", "astronomy"]
+  },
+  {
+    "id": "space-020",
+    "domain": "space",
+    "hook": "Astronauts can grow a few centimeters taller in space.",
+    "fact": "Without Earth's gravity compressing the spine, astronauts' bodies stretch slightly during long missions, sometimes gaining a few centimeters in height.",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "space-021",
+    "domain": "space",
+    "hook": "One dwarf planet holds a third of the entire asteroid belt's mass.",
+    "fact": "Ceres, the largest object in the asteroid belt, is classified as a dwarf planet and contains roughly a third of the belt's total mass by itself.",
+    "tags": ["planets"]
+  },
+  {
+    "id": "space-022",
+    "domain": "space",
+    "hook": "Neptune has completed only one orbit since its discovery.",
+    "fact": "A year on Neptune lasts about 165 Earth years, meaning the planet has finished just one full trip around the sun since it was discovered in 1846.",
+    "tags": ["planets"]
+  },
+  {
+    "id": "space-023",
+    "domain": "space",
+    "hook": "The ISS is the most expensive single structure ever built.",
+    "fact": "The International Space Station's total cost is estimated at more than $150 billion, making it the most expensive object ever constructed.",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "space-024",
+    "domain": "space",
+    "hook": "Saturn's rings are made of ice and rock, not solid bands.",
+    "fact": "The rings are actually made of countless individual chunks of ice and rock, ranging from tiny grains of dust to pieces as large as a house.",
+    "tags": ["planets"]
+  },
+  {
+    "id": "space-025",
+    "domain": "space",
+    "hook": "The Sun loses 4 million tons of mass every second.",
+    "fact": "Nuclear fusion in the Sun's core converts roughly 4 million tons of matter into pure energy every second — and it's been doing this for about 4.6 billion years.",
+    "tags": ["sun"]
+  },
+  {
+    "id": "space-026",
+    "domain": "space",
+    "hook": "There's a white dwarf star nicknamed 'Lucy' that may have a diamond core.",
+    "fact": "Astronomers believe the white dwarf star BPM 37093, nicknamed 'Lucy' after the Beatles song, has crystallized into a core made largely of carbon — potentially the largest diamond-like object known.",
+    "tags": ["stars"]
+  },
+  {
+    "id": "space-027",
+    "domain": "space",
+    "hook": "Total solar eclipses exist because of a cosmic coincidence.",
+    "fact": "The Sun is about 400 times wider than the Moon, but also about 400 times farther away — a coincidence that makes them appear almost exactly the same size in Earth's sky, enabling total eclipses.",
+    "tags": ["sun", "moon"]
+  },
+  {
+    "id": "space-028",
+    "domain": "space",
+    "hook": "Voyager 1 is the most distant human-made object ever launched.",
+    "fact": "Launched in 1977, Voyager 1 has traveled beyond our solar system into interstellar space and is now more than 24 billion kilometers from Earth.",
+    "tags": ["exploration"]
+  },
+  {
+    "id": "space-029",
+    "domain": "space",
+    "hook": "Some stars you see tonight might not exist anymore.",
+    "fact": "Because light takes time to travel, looking at a distant star means seeing light that left it years, centuries, or even millions of years ago — meaning the star itself may have already changed or died.",
+    "tags": ["stars", "astronomy"]
+  },
+  {
+    "id": "space-030",
+    "domain": "space",
+    "hook": "Astronaut footprints on the Moon are considered historic sites.",
+    "fact": "The footprints, equipment, and flags left by Apollo astronauts are treated as protected heritage sites by space agencies, even though no binding international law currently enforces it.",
+    "tags": ["moon", "exploration"]
   }
 ]

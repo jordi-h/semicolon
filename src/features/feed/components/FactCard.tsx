@@ -1,7 +1,8 @@
-import { ExternalLink } from 'lucide-react'
+import { Search } from 'lucide-react'
 
 import { HeartButton } from '@/features/feed/components/HeartButton'
 import { ReactionButtons } from '@/features/feed/components/ReactionButtons'
+import { factSearchUrl } from '@/features/feed/lib/factSearchUrl'
 import { DOMAIN_EMOJI, DOMAIN_LABELS, type Domain, type Fact, type Reaction } from '@/lib/types'
 import { cn } from '@/lib/utils'
 
@@ -46,16 +47,15 @@ export function FactCard({ fact, saved, onToggleSave, onReact, active }: FactCar
             Why it matters: {fact.whyItMatters}
           </p>
         )}
-        {fact.sourceUrl && (
-          <a
-            href={fact.sourceUrl}
-            target="_blank"
-            rel="noreferrer"
-            className="inline-flex w-fit items-center gap-1 text-sm text-white/70 underline-offset-2 hover:text-white hover:underline"
-          >
-            Learn more <ExternalLink size={14} />
-          </a>
-        )}
+        <a
+          href={factSearchUrl(fact)}
+          target="_blank"
+          rel="noreferrer"
+          className="inline-flex w-fit items-center gap-1.5 rounded-full bg-white/15 px-3 py-1.5 text-sm font-medium text-white backdrop-blur-sm transition-colors hover:bg-white/25"
+        >
+          <Search size={14} />
+          Dive deeper
+        </a>
       </div>
 
       <div className="relative z-10 mt-6 flex items-center justify-between">
