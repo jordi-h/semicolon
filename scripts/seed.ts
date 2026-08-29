@@ -14,10 +14,18 @@
  */
 import { config } from 'dotenv'
 import { createClient } from '@supabase/supabase-js'
+import WebSocket from 'ws'
 
 import { allFacts } from '../src/data/facts'
 
 config({ path: '.env.local' })
+
+// Node 20 has no built-in WebSocket global (added in Node 22), which
+// @supabase/supabase-js needs even though this script never uses realtime.
+if (!globalThis.WebSocket) {
+  // @ts-expect-error -- `ws` is a close-enough polyfill for this purpose.
+  globalThis.WebSocket = WebSocket
+}
 
 const url = process.env.VITE_SUPABASE_URL
 const serviceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY
