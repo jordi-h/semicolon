@@ -3,7 +3,7 @@ import { readLocal, writeLocal } from '@/lib/localStorage'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 import type { Domain, DomainAffinity, Reaction } from '@/lib/types'
 
-const localKey = (userId: string) => `infiniscroll:domain-affinity:${userId}`
+const localKey = (userId: string) => `semicolon:domain-affinity:${userId}`
 
 export async function getDomainAffinities(userId: string): Promise<DomainAffinity[]> {
   if (!isSupabaseConfigured) {

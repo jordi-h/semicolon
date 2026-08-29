@@ -1,7 +1,7 @@
 import { readLocal, writeLocal } from '@/lib/localStorage'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 
-const localKey = (userId: string) => `infiniscroll:seen-facts:${userId}`
+const localKey = (userId: string) => `semicolon:seen-facts:${userId}`
 
 export async function getSeenFactIds(userId: string): Promise<Set<string>> {
   if (!isSupabaseConfigured) {

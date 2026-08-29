@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
+import { Logo } from '@/components/Logo'
 import { useAuth } from '@/features/auth/AuthContext'
 
 export function AuthPage() {
@@ -52,9 +53,12 @@ export function AuthPage() {
 
   return (
     <div className="mx-auto flex h-full max-w-sm flex-col justify-center gap-6 p-6">
-      <div className="text-center">
-        <h1 className="text-2xl font-bold">InfiniScroll</h1>
-        <p className="text-muted-foreground">Bite-sized knowledge, one card at a time.</p>
+      <div className="flex flex-col items-center gap-3 text-center">
+        <Logo className="h-16 w-16 rounded-2xl shadow-md" />
+        <div>
+          <h1 className="text-2xl font-bold">semicolon</h1>
+          <p className="text-muted-foreground">Bite-sized knowledge, one card at a time.</p>
+        </div>
       </div>
 
       <Tabs defaultValue="signin">

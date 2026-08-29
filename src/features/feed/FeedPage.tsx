@@ -4,6 +4,7 @@ import { Loader2, Settings } from 'lucide-react'
 import { FeedStack } from '@/features/feed/components/FeedStack'
 import { StreakBadge } from '@/features/feed/components/StreakBadge'
 import { useFeed } from '@/features/feed/hooks/useFeed'
+import { Logo } from '@/components/Logo'
 import { usePreferences } from '@/lib/hooks/usePreferences'
 import { useSavedFacts } from '@/lib/hooks/useSavedFacts'
 import { useStats } from '@/lib/hooks/useStats'
@@ -27,7 +28,10 @@ export function FeedPage() {
   return (
     <div className="mx-auto flex h-full w-full max-w-md flex-col sm:py-4">
       <header className="flex items-center justify-between px-4 py-3 sm:px-0">
-        <h1 className="text-lg font-bold">InfiniScroll</h1>
+        <div className="flex items-center gap-2">
+          <Logo className="h-7 w-7 rounded-lg" />
+          <h1 className="text-lg font-bold">semicolon</h1>
+        </div>
         <div className="flex items-center gap-2">
           <StreakBadge streak={stats?.currentStreak ?? 0} />
           <Link

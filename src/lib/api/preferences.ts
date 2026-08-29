@@ -2,7 +2,7 @@ import { readLocal, writeLocal } from '@/lib/localStorage'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 import type { Domain, UserPreferences } from '@/lib/types'
 
-const localKey = (userId: string) => `infiniscroll:preferences:${userId}`
+const localKey = (userId: string) => `semicolon:preferences:${userId}`
 
 export async function getUserPreferences(userId: string): Promise<UserPreferences | null> {
   if (!isSupabaseConfigured) {

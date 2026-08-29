@@ -19,7 +19,7 @@ export function writeLocal<T>(key: string, value: T): void {
   }
 }
 
-const GUEST_ID_KEY = 'infiniscroll:guest-id'
+const GUEST_ID_KEY = 'semicolon:guest-id'
 
 /** Stable per-browser id used to namespace local data when no one is
  * signed in via Supabase (i.e. Supabase isn't configured yet). */

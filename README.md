@@ -1,4 +1,4 @@
-# InfiniScroll
+# semicolon
 
 A TikTok-style feed of bite-sized knowledge. Swipe, scroll, or press ↓
 through short trivia cards across six broad domains — Science, Technology,
@@ -13,6 +13,7 @@ you like, and build a daily streak.
 - [TanStack Query](https://tanstack.com/query) for server state; plain React state/context for UI state
 - [Supabase](https://supabase.com) for Postgres + Auth + Row-Level Security
 - [Vitest](https://vitest.dev) + React Testing Library for tests
+- [vite-plugin-pwa](https://vite-pwa-org.netlify.app) — installable on a phone home screen today; see [Mobile / app stores](#mobile--app-stores) for the native app-store path
 
 ## Getting started
 
@@ -147,3 +148,50 @@ supabase/schema.sql      tables + row-level security policies
 | `npm run lint`          | Lint with ESLint                               |
 | `npm run format`        | Format with Prettier                           |
 | `npm run seed`          | Push `src/data/facts/*.json` into Supabase      |
+| `npm run generate-icons`| Rebuild favicons/app icons from `public/logo*.svg` |
+
+## Branding
+
+The mark is a semicolon on a purple gradient — source vectors live in
+`public/logo.svg` (rounded, used in-app via `src/components/Logo.tsx`),
+`public/logo-square.svg` (edge-to-edge, for platform icons that apply
+their own mask, like iOS), and `public/logo-maskable.svg` (glyph scaled
+into the safe zone for Android's circular mask). Edit the SVGs, then run
+`npm run generate-icons` to regenerate every favicon/app-icon PNG
+(`public/favicon-*.png`, `public/apple-touch-icon.png`, `public/icons/*`).
+
+## Mobile / app stores
+
+**Installable today, no store needed:** the app is a PWA (`vite-plugin-pwa`
+in `vite.config.ts`) — visiting the deployed site on a phone and choosing
+"Add to Home Screen" (iOS Safari) or the install prompt (Android Chrome)
+installs it with the semicolon icon, full-screen, no browser chrome.
+
+**Native App Store / Play Store listing:** this needs a wrapper — the
+straightforward path is [Capacitor](https://capacitorjs.com), which packages
+this same web build into a native iOS/Android shell without a rewrite. That
+part isn't set up yet because it needs decisions and accounts only you can
+provide:
+
+- A **bundle identifier** (e.g. `com.yourname.semicolon`)
+- An **Apple Developer account** ($99/yr) and a **Mac with Xcode** to build,
+  sign, and submit the iOS app — none of which can be done from this
+  Windows environment
+- A **Google Play Console account** ($25 one-time) to submit the Android app
+  (the Android build itself can be done from Windows with Android
+  Studio/the Android SDK installed)
+
+Once you've got those, adding Capacitor is:
+
+```bash
+npm install @capacitor/core @capacitor/cli
+npx cap init semicolon com.yourname.semicolon --web-dir dist
+npm install @capacitor/ios @capacitor/android
+npx cap add ios      # requires macOS + Xcode
+npx cap add android  # requires Android Studio/SDK
+npm run build && npx cap sync
+```
+
+Then open each platform's project (`npx cap open ios` / `npx cap open android`)
+to run it on a device/simulator and, when ready, submit through Xcode
+(App Store Connect) and Android Studio (Play Console).

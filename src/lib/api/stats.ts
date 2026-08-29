@@ -3,7 +3,7 @@ import { readLocal, writeLocal } from '@/lib/localStorage'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 import type { UserStats } from '@/lib/types'
 
-const localKey = (userId: string) => `infiniscroll:stats:${userId}`
+const localKey = (userId: string) => `semicolon:stats:${userId}`
 
 const emptyStats = (userId: string): UserStats => ({
   userId,
