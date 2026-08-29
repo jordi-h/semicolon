@@ -30,10 +30,10 @@ export function OnboardingPage() {
   return (
     <div className="mx-auto flex h-full max-w-lg flex-col gap-6 overflow-y-auto p-6">
       <div className="space-y-2 text-center">
-        <h1 className="text-2xl font-bold">
+        <h1 className="font-display text-display-title text-balance">
           {isEditing ? t('onboarding.titleEdit') : t('onboarding.titleNew')}
         </h1>
-        <p className="text-muted-foreground">{t('onboarding.subtitle')}</p>
+        <p className="text-body-md text-muted-foreground">{t('onboarding.subtitle')}</p>
       </div>
 
       <DomainPicker selected={selected} onChange={setSelected} />

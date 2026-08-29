@@ -2,67 +2,46 @@
 @tailwind components;
 @tailwind utilities;
 
+/**
+ * semicolon is dark-native by design — not a light theme with a night
+ * mode bolted on. See the "Semicolon Identity" design plan for the full
+ * rationale: two surfaces (Ink/Surface), two accents in deliberate
+ * tension (Signal Violet/Ember), two text tones (Paper/Dust).
+ */
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 240 10% 3.9%;
+    --background: 260 35% 7%; /* Ink   #0F0B17 */
+    --foreground: 262 52% 96%; /* Paper #F3EFFA */
 
-    --card: 0 0% 100%;
-    --card-foreground: 240 10% 3.9%;
+    --card: 259 27% 12%; /* Surface #1B1626 */
+    --card-foreground: 262 52% 96%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 240 10% 3.9%;
+    --popover: 259 27% 12%;
+    --popover-foreground: 262 52% 96%;
 
-    --primary: 262 83% 58%;
-    --primary-foreground: 0 0% 98%;
+    --primary: 260 100% 71%; /* Signal Violet #9D6BFF */
+    --primary-foreground: 260 40% 9%;
 
-    --secondary: 240 4.8% 95.9%;
-    --secondary-foreground: 240 5.9% 10%;
+    --secondary: 259 28% 16%; /* Surface-2 #241D33 */
+    --secondary-foreground: 262 52% 96%;
 
-    --muted: 240 4.8% 95.9%;
-    --muted-foreground: 240 3.8% 46.1%;
+    --muted: 259 27% 12%;
+    --muted-foreground: 257 17% 58%; /* Dust #8C82A6 */
 
-    --accent: 240 4.8% 95.9%;
-    --accent-foreground: 240 5.9% 10%;
+    --accent: 259 28% 16%;
+    --accent-foreground: 262 52% 96%;
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
+    --ember: 14 100% 62%; /* Ember #FF6A3D */
+    --ember-foreground: 260 40% 9%;
 
-    --border: 240 5.9% 90%;
-    --input: 240 5.9% 90%;
-    --ring: 262 83% 58%;
+    --destructive: 0 72% 58%;
+    --destructive-foreground: 262 52% 96%;
+
+    --border: 258 24% 22%; /* Line #322A45 */
+    --input: 258 24% 22%;
+    --ring: 260 100% 71%;
 
     --radius: 0.75rem;
-  }
-
-  .dark {
-    --background: 240 10% 3.9%;
-    --foreground: 0 0% 98%;
-
-    --card: 240 10% 6%;
-    --card-foreground: 0 0% 98%;
-
-    --popover: 240 10% 3.9%;
-    --popover-foreground: 0 0% 98%;
-
-    --primary: 263 85% 66%;
-    --primary-foreground: 240 5.9% 10%;
-
-    --secondary: 240 3.7% 15.9%;
-    --secondary-foreground: 0 0% 98%;
-
-    --muted: 240 3.7% 15.9%;
-    --muted-foreground: 240 5% 64.9%;
-
-    --accent: 240 3.7% 15.9%;
-    --accent-foreground: 0 0% 98%;
-
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
-
-    --border: 240 3.7% 15.9%;
-    --input: 240 3.7% 15.9%;
-    --ring: 263 85% 66%;
   }
 }
 
@@ -78,16 +57,15 @@
   }
 
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground font-body;
     overscroll-behavior-y: none;
   }
-}
 
-/* Hide scrollbars on the snap feed while keeping it scrollable */
-.no-scrollbar {
-  scrollbar-width: none;
-  -ms-overflow-style: none;
-}
-.no-scrollbar::-webkit-scrollbar {
-  display: none;
+  /* Keyboard focus must stay unmistakable on a dark surface — a visible
+   * ring is layered on top of shadcn's default outline removal, not
+   * traded away for a "cleaner" look. */
+  :focus-visible {
+    outline: 2px solid hsl(var(--ring));
+    outline-offset: 2px;
+  }
 }

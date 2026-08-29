@@ -1,5 +1,5 @@
 import { Navigate, Link } from 'react-router-dom'
-import { Loader2, Settings } from 'lucide-react'
+import { Compass, Settings } from 'lucide-react'
 
 import { FeedStack } from '@/features/feed/components/FeedStack'
 import { StreakBadge } from '@/features/feed/components/StreakBadge'
@@ -21,6 +21,8 @@ export function FeedPage() {
     currentFact,
     currentCardSource,
     advance,
+    undo,
+    canUndo,
     isLoading,
     isEmpty,
     showExhaustionNotice,
@@ -40,14 +42,14 @@ export function FeedPage() {
       <header className="flex items-center justify-between px-4 py-3 sm:px-0">
         <div className="flex items-center gap-2">
           <Logo className="h-7 w-7 rounded-lg" />
-          <h1 className="text-lg font-bold">semicolon</h1>
+          <h1 className="font-display text-display-title">semicolon</h1>
         </div>
         <div className="flex items-center gap-2">
           <StreakBadge streak={stats?.currentStreak ?? 0} />
           <Link
             to="/settings"
             aria-label={t('feed.settingsAriaLabel')}
-            className="flex h-9 w-9 items-center justify-center rounded-full text-foreground/70 hover:bg-muted"
+            className="flex h-9 w-9 items-center justify-center rounded-full text-foreground/70 transition-colors hover:bg-muted hover:text-foreground"
           >
             <Settings size={18} />
           </Link>
@@ -56,23 +58,14 @@ export function FeedPage() {
 
       <main className="relative flex-1 px-0 sm:px-0">
         {isLoading && <CenteredState />}
-        {!isLoading && isEmpty && (
-          <div className="flex h-full flex-col items-center justify-center gap-2 p-8 text-center text-muted-foreground">
-            <p className="font-medium text-foreground">{t('feed.emptyTitle')}</p>
-            <p className="text-sm">
-              {t('feed.emptyBefore')}{' '}
-              <Link to="/settings" className="underline">
-                {t('feed.emptyLink')}
-              </Link>
-              .
-            </p>
-          </div>
-        )}
+        {!isLoading && isEmpty && <EmptyDomainsState />}
         {!isLoading && !isEmpty && currentFact && (
           <FeedStack
             currentFact={currentFact}
             savedIds={savedIds}
             onAdvance={advance}
+            onUndo={undo}
+            canUndo={canUndo}
             onToggleSave={toggle}
             resurfaced={currentCardSource === 'resurfaced'}
             showExhaustionNotice={showExhaustionNotice}
@@ -87,7 +80,28 @@ export function FeedPage() {
 function CenteredState() {
   return (
     <div className="flex h-full items-center justify-center">
-      <Loader2 className="animate-spin text-muted-foreground" />
+      <Logo className="h-10 w-10 animate-pulse rounded-xl" />
+    </div>
+  )
+}
+
+function EmptyDomainsState() {
+  const { t } = useLocale()
+  return (
+    <div className="flex h-full flex-col items-center justify-center gap-4 p-8 text-center">
+      <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-secondary text-primary">
+        <Compass size={26} />
+      </div>
+      <div className="space-y-1.5">
+        <p className="font-display text-display-title">{t('feed.emptyTitle')}</p>
+        <p className="text-body-md text-muted-foreground">
+          {t('feed.emptyBefore')}{' '}
+          <Link to="/settings" className="text-primary underline underline-offset-2">
+            {t('feed.emptyLink')}
+          </Link>
+          .
+        </p>
+      </div>
     </div>
   )
 }

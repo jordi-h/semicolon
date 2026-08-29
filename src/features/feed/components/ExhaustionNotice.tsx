@@ -17,7 +17,7 @@ export function ExhaustionNotice({ onDismiss }: { onDismiss: () => void }) {
   return (
     <div
       role="status"
-      className="pointer-events-none absolute inset-x-4 top-6 z-20 flex animate-in fade-in slide-in-from-top-2 items-start gap-2 rounded-xl bg-black/70 px-4 py-3 text-sm text-white shadow-lg backdrop-blur-sm"
+      className="pointer-events-none absolute inset-x-4 top-6 z-20 flex animate-in fade-in slide-in-from-top-2 items-start gap-2 rounded-xl border border-white/10 bg-card/90 px-4 py-3 text-body-sm text-foreground shadow-lg backdrop-blur-md"
     >
       <Sparkles size={16} className="mt-0.5 shrink-0 text-primary" />
       <span>{t('exhaustion.notice')}</span>

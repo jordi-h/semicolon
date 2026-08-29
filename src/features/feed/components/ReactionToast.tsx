@@ -24,7 +24,7 @@ export function ReactionToast({ reaction, visible }: ReactionToastProps) {
         visible ? 'translate-y-0 opacity-100' : '-translate-y-2 opacity-0',
       )}
     >
-      <div className="flex items-center gap-2 rounded-full bg-black/70 px-4 py-2 text-sm font-medium text-white shadow-lg backdrop-blur-sm">
+      <div className="flex items-center gap-2 rounded-full border border-white/10 bg-card/90 px-4 py-2 text-body-sm font-medium text-foreground shadow-lg backdrop-blur-md">
         {isMore ? (
           <ThumbsUp size={16} className="text-emerald-400" />
         ) : (

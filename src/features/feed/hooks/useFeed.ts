@@ -44,9 +44,15 @@ export function useFeed(domains: Domain[]) {
   const pool = poolQuery.data ?? []
   const [seenByFactId, setSeenByFactId] = useState<Map<string, SeenFact>>(new Map())
   const [queue, setQueue] = useState<QueuedCard[]>([])
+  const [history, setHistory] = useState<QueuedCard[]>([])
   const [exhaustionNoticePending, setExhaustionNoticePending] = useState(false)
   const shownAtRef = useRef<number>(Date.now())
   const initializedRef = useRef(false)
+  // Facts already recorded (seen/learned) this session — advance() must
+  // not re-record a card that reappears via undo(), since
+  // recordFactLearned is a plain increment, not idempotent.
+  const recordedFactIdsRef = useRef<Set<string>>(new Set())
+  const MAX_HISTORY = 10
 
   // Seed local seen-map from the server/local-storage once it loads.
   useEffect(() => {
@@ -128,19 +134,35 @@ export function useFeed(domains: Domain[]) {
       return next
     })
     setQueue((q) => q.slice(1))
+    setHistory((h) => [...h.slice(-(MAX_HISTORY - 1)), current])
 
-    if (source === 'normal') {
-      recordFirstSeen(user.id, fact.id).catch(() => {})
-      recordLearned()
-    } else {
-      // Resurfaced and fallback cards are re-shows of already-seen facts —
-      // only their last_shown_at moves, and they don't inflate "facts learned".
-      bumpLastShown(user.id, fact.id).catch(() => {})
+    if (!recordedFactIdsRef.current.has(fact.id)) {
+      recordedFactIdsRef.current.add(fact.id)
+      if (source === 'normal') {
+        recordFirstSeen(user.id, fact.id).catch(() => {})
+        recordLearned()
+      } else {
+        // Resurfaced and fallback cards are re-shows of already-seen facts —
+        // only their last_shown_at moves, and they don't inflate "facts learned".
+        bumpLastShown(user.id, fact.id).catch(() => {})
+      }
     }
 
     recordDomainEngagement(user.id, fact.domain, dwellMs, reaction).then(() =>
       queryClient.invalidateQueries({ queryKey: ['domain-affinity', user.id] }),
     )
+  }
+
+  /** Brings back the fact that was just skipped — the down-swipe mirror
+   * of advance(). This is "let me look at that again," not a database
+   * undo: the seen/learned/engagement writes advance() already made are
+   * left as-is (recordedFactIdsRef prevents them firing a second time if
+   * the card is skipped again after being brought back). */
+  function undo() {
+    if (!user || history.length === 0) return
+    const previous = history[history.length - 1]
+    setHistory((h) => h.slice(0, -1))
+    setQueue((q) => [previous, ...q])
   }
 
   /** Call once the UI has shown the one-time exhaustion notice, so it's
@@ -159,6 +181,8 @@ export function useFeed(domains: Domain[]) {
     currentCardSource: current?.source ?? null,
     upcoming: queue.slice(1).map((c) => c.fact),
     advance,
+    undo,
+    canUndo: history.length > 0,
     isLoading: poolQuery.isLoading || seenQuery.isLoading,
     isEmpty: ready && pool.length === 0,
     showExhaustionNotice: exhaustionNoticePending,

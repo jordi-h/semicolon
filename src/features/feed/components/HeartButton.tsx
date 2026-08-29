@@ -18,12 +18,19 @@ export function HeartButton({ saved, onToggle }: HeartButtonProps) {
       active={saved}
       aria-pressed={saved}
       aria-label={saved ? t('heart.remove') : t('heart.save')}
+      className="relative overflow-visible"
     >
+      {saved && (
+        <span
+          aria-hidden="true"
+          className="pointer-events-none absolute inset-[-10px] animate-heart-glow rounded-full bg-ember"
+        />
+      )}
       <Heart
         size={CIRCLE_ICON_SIZE}
         className={cn(
-          'transition-colors',
-          saved ? 'fill-red-500 text-red-500 animate-heart-pop' : 'fill-transparent text-white',
+          'relative transition-colors',
+          saved ? 'animate-heart-pop fill-ember text-ember' : 'fill-transparent text-white',
         )}
       />
     </CircleIconButton>

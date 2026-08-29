@@ -14,9 +14,9 @@ export function Logo({ className, markOnly = false }: LogoProps) {
         <>
           <defs>
             <linearGradient id="semicolon-logo-bg" x1="0" y1="0" x2="1" y2="1">
-              <stop offset="0%" stopColor="#a78bfa" />
-              <stop offset="55%" stopColor="#8b5cf6" />
-              <stop offset="100%" stopColor="#4c1d95" />
+              <stop offset="0%" stopColor="#c4a6ff" />
+              <stop offset="55%" stopColor="#9d6bff" />
+              <stop offset="100%" stopColor="#4a2f8a" />
             </linearGradient>
           </defs>
           <rect width="512" height="512" rx="112" fill="url(#semicolon-logo-bg)" />

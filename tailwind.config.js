@@ -45,6 +45,30 @@ export default {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))',
         },
+        ember: {
+          DEFAULT: 'hsl(var(--ember))',
+          foreground: 'hsl(var(--ember-foreground))',
+        },
+      },
+      fontFamily: {
+        // Body/UI face — everything except card hooks and page titles.
+        body: ['"Hanken Grotesk"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        sans: ['"Hanken Grotesk"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        // Display face — used with restraint, see fontSize.display-*.
+        display: ['"Bricolage Grotesque"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+      },
+      fontSize: {
+        // The app's whole type scale lives here — components reach for
+        // these tokens instead of ad-hoc text-2xl/text-xl sizing.
+        'display-hook': [
+          'clamp(1.75rem, 5vw, 2.25rem)',
+          { lineHeight: '1.15', fontWeight: '700', letterSpacing: '-0.01em' },
+        ],
+        'display-title': ['1.5rem', { lineHeight: '1.2', fontWeight: '700', letterSpacing: '-0.01em' }],
+        'body-lg': ['1.0625rem', { lineHeight: '1.55' }],
+        'body-md': ['0.9375rem', { lineHeight: '1.4' }],
+        'body-sm': ['0.8125rem', { lineHeight: '1.4' }],
+        label: ['0.6875rem', { lineHeight: '1.3', letterSpacing: '0.06em', fontWeight: '600' }],
       },
       borderRadius: {
         lg: 'var(--radius)',
@@ -61,15 +85,21 @@ export default {
           to: { height: '0' },
         },
         'heart-pop': {
-          '0%': { transform: 'scale(0.6)', opacity: '0' },
-          '50%': { transform: 'scale(1.3)', opacity: '1' },
-          '100%': { transform: 'scale(1)', opacity: '1' },
+          '0%': { transform: 'scale(1)' },
+          '35%': { transform: 'scale(1.32) rotate(-6deg)' },
+          '60%': { transform: 'scale(0.94)' },
+          '100%': { transform: 'scale(1)' },
+        },
+        'heart-glow': {
+          '0%': { opacity: '0.55', transform: 'scale(0.6)' },
+          '100%': { opacity: '0', transform: 'scale(1.5)' },
         },
       },
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',
         'accordion-up': 'accordion-up 0.2s ease-out',
-        'heart-pop': 'heart-pop 0.35s ease-out',
+        'heart-pop': 'heart-pop 0.5s cubic-bezier(.34,1.8,.64,1) forwards',
+        'heart-glow': 'heart-glow 0.5s ease-out forwards',
       },
     },
   },

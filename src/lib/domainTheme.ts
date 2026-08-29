@@ -1,32 +1,41 @@
 import type { Domain } from '@/lib/types'
 
-/** Tailwind gradient stops used for each domain's in-feed card background. */
-export const DOMAIN_GRADIENTS: Record<Domain, string> = {
-  science: 'from-emerald-600 via-teal-700 to-slate-900',
-  technology: 'from-indigo-600 via-blue-700 to-slate-900',
-  history: 'from-amber-700 via-orange-800 to-slate-900',
-  geography: 'from-cyan-600 via-sky-700 to-slate-900',
-  culture: 'from-fuchsia-600 via-pink-700 to-slate-900',
-  space: 'from-violet-700 via-purple-900 to-slate-950',
-  language: 'from-rose-600 via-red-700 to-slate-900',
-  psychology: 'from-blue-600 via-blue-800 to-slate-900',
-  art: 'from-yellow-500 via-yellow-800 to-slate-900',
-  food: 'from-green-600 via-lime-700 to-slate-900',
-  sports: 'from-teal-600 via-teal-800 to-slate-900',
+/** Matches --background in src/index.css (Ink). Duplicated here because
+ * this file produces plain CSS strings for inline styles, outside
+ * Tailwind's class system. */
+const INK = '#0F0B17'
+
+/**
+ * One accent hue per domain, all drawn from the same 75% saturation /
+ * 62% lightness formula so the eleven read as a matched set rather than
+ * stock Tailwind colors — and all kept clear of the UI's own Signal
+ * Violet (~260°) and Ember (~14°), which stay reserved for chrome, never
+ * content, so a domain accent is never mistaken for an action.
+ */
+export const DOMAIN_ACCENT: Record<Domain, string> = {
+  history: '#E7B655',
+  sports: '#D3E755',
+  food: '#90E755',
+  science: '#55E75D',
+  geography: '#55E7A1',
+  technology: '#55E7E4',
+  psychology: '#55A5E7',
+  space: '#5561E7',
+  art: '#CF55E7',
+  culture: '#E755BB',
+  language: '#E7557A',
 }
 
-/** Solid accent color per domain — used anywhere a single flat color reads
- * better than a gradient (share images, badges). */
-export const DOMAIN_ACCENT: Record<Domain, string> = {
-  science: '#10b981',
-  technology: '#6366f1',
-  history: '#f97316',
-  geography: '#0ea5e9',
-  culture: '#ec4899',
-  space: '#8b5cf6',
-  language: '#e11d48',
-  psychology: '#2563eb',
-  art: '#eab308',
-  food: '#16a34a',
-  sports: '#0d9488',
+/** Full-bleed card background for a domain: its accent, darkening into
+ * Ink via color-mix() rather than a hand-picked second gradient stop —
+ * every domain fades to black the exact same way. */
+export function domainGradient(domain: Domain): string {
+  const accent = DOMAIN_ACCENT[domain]
+  return `linear-gradient(165deg, ${accent} 0%, color-mix(in srgb, ${accent} 45%, ${INK}) 55%, ${INK} 100%)`
+}
+
+/** A domain's accent at low opacity, for tinting badges/pills so they
+ * read as "this domain's own chrome" instead of generic white-on-glass. */
+export function domainTint(domain: Domain, alpha: number): string {
+  return `color-mix(in srgb, ${DOMAIN_ACCENT[domain]} ${Math.round(alpha * 100)}%, transparent)`
 }

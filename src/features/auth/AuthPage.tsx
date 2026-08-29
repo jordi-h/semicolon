@@ -78,8 +78,8 @@ export function AuthPage() {
       <div className="flex flex-col items-center gap-3 text-center">
         <Logo className="h-16 w-16 rounded-2xl shadow-md" />
         <div>
-          <h1 className="text-2xl font-bold">semicolon</h1>
-          <p className="text-muted-foreground">{t('appTagline')}</p>
+          <h1 className="font-display text-display-title">semicolon</h1>
+          <p className="text-body-md text-muted-foreground">{t('appTagline')}</p>
         </div>
       </div>
 

@@ -32,8 +32,8 @@ export const ShareCardImage = forwardRef<HTMLDivElement, ShareCardImageProps>(
         style={{
           width: SHARE_IMAGE_WIDTH,
           height: SHARE_IMAGE_HEIGHT,
-          background: '#0b0b12',
-          fontFamily: 'ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif',
+          background: '#0F0B17',
+          fontFamily: '"Hanken Grotesk", ui-sans-serif, system-ui, sans-serif',
         }}
         className="flex flex-col justify-between p-24"
       >
@@ -48,7 +48,15 @@ export const ShareCardImage = forwardRef<HTMLDivElement, ShareCardImageProps>(
         </div>
 
         <div className="flex flex-col gap-16">
-          <h1 style={{ fontSize: 76, lineHeight: 1.15 }} className="font-bold text-white">
+          <h1
+            style={{
+              fontFamily: '"Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif',
+              fontSize: 76,
+              lineHeight: 1.15,
+              letterSpacing: '-0.01em',
+            }}
+            className="font-bold text-white"
+          >
             {fact.hook}
           </h1>
           <p style={{ fontSize: 38, lineHeight: 1.5 }} className="text-white/85">
@@ -58,7 +66,13 @@ export const ShareCardImage = forwardRef<HTMLDivElement, ShareCardImageProps>(
 
         <div className="flex items-center gap-4">
           <Logo className="h-[56px] w-[56px] rounded-2xl" />
-          <span style={{ fontSize: 40 }} className="font-bold text-white">
+          <span
+            style={{
+              fontFamily: '"Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif',
+              fontSize: 40,
+            }}
+            className="font-bold text-white"
+          >
             semicolon
           </span>
         </div>
