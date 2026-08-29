@@ -1,4 +1,4 @@
-import { useState, type ReactNode } from 'react'
+import { useState } from 'react'
 import { Navigate, useNavigate } from 'react-router-dom'
 
 import { Button } from '@/components/ui/button'
@@ -7,15 +7,7 @@ import { Label } from '@/components/ui/label'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Logo } from '@/components/Logo'
 import { GoogleIcon } from '@/components/icons/GoogleIcon'
-import { GithubIcon } from '@/components/icons/GithubIcon'
-import { FacebookIcon } from '@/components/icons/FacebookIcon'
-import { useAuth, type OAuthProvider } from '@/features/auth/AuthContext'
-
-const OAUTH_PROVIDERS: { id: OAuthProvider; label: string; icon: ReactNode }[] = [
-  { id: 'google', label: 'Google', icon: <GoogleIcon className="h-4 w-4" /> },
-  { id: 'github', label: 'GitHub', icon: <GithubIcon className="h-4 w-4" /> },
-  { id: 'facebook', label: 'Facebook', icon: <FacebookIcon className="h-4 w-4" /> },
-]
+import { useAuth } from '@/features/auth/AuthContext'
 
 export function AuthPage() {
   const {
@@ -33,7 +25,7 @@ export function AuthPage() {
   const [error, setError] = useState<string | null>(null)
   const [magicLinkSent, setMagicLinkSent] = useState(false)
   const [submitting, setSubmitting] = useState(false)
-  const [oauthPending, setOauthPending] = useState<OAuthProvider | null>(null)
+  const [oauthPending, setOauthPending] = useState(false)
 
   if (!authRequired || user) {
     return <Navigate to="/feed" replace />
@@ -67,15 +59,15 @@ export function AuthPage() {
     setMagicLinkSent(true)
   }
 
-  async function handleOAuth(provider: OAuthProvider) {
+  async function handleGoogleSignIn() {
     setError(null)
-    setOauthPending(provider)
-    const result = await signInWithOAuth(provider)
+    setOauthPending(true)
+    const result = await signInWithOAuth()
     // A successful call navigates the browser away immediately, so only
     // reaching here with an error means it's worth resetting the button.
     if (result.error) {
       setError(result.error)
-      setOauthPending(null)
+      setOauthPending(false)
     }
   }
 
@@ -89,20 +81,15 @@ export function AuthPage() {
         </div>
       </div>
 
-      <div className="space-y-2">
-        {OAUTH_PROVIDERS.map(({ id, label, icon }) => (
-          <Button
-            key={id}
-            variant="outline"
-            className="w-full gap-2"
-            disabled={oauthPending !== null}
-            onClick={() => handleOAuth(id)}
-          >
-            {icon}
-            {oauthPending === id ? 'Redirecting…' : `Continue with ${label}`}
-          </Button>
-        ))}
-      </div>
+      <Button
+        variant="outline"
+        className="w-full gap-2"
+        disabled={oauthPending}
+        onClick={handleGoogleSignIn}
+      >
+        <GoogleIcon className="h-4 w-4" />
+        {oauthPending ? 'Redirecting…' : 'Continue with Google'}
+      </Button>
 
       <div className="flex items-center gap-3">
         <div className="h-px flex-1 bg-border" />

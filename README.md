@@ -45,37 +45,16 @@ without any setup — see [Local dev mode](#local-dev-mode) below.
 5. `npm run dev` again — the app now talks to Supabase, and real email/password
    or magic-link auth is required to use it.
 
-### OAuth sign-in (Google, GitHub, Facebook)
+### OAuth sign-in (Google)
 
-The Sign In / Sign Up screen has "Continue with…" buttons for Google,
-GitHub, and Facebook (`src/features/auth/AuthPage.tsx`,
-`AuthContext.signInWithOAuth`). Each one requires enabling that provider
-in Supabase **and** creating an OAuth app in the provider's own console —
-nothing here works until both sides are done:
+The Sign In / Sign Up screen has a "Continue with Google" button
+(`src/features/auth/AuthPage.tsx`, `AuthContext.signInWithOAuth`). It
+requires enabling Google in the Supabase dashboard **and** creating an
+OAuth app in Google Cloud Console — nothing here works until both sides
+are done. Full walkthrough below.
 
-1. In Supabase: **Authentication → Providers**, note the **Callback URL**
-   shown there (`https://<project-ref>.supabase.co/auth/v1/callback`) —
-   every provider below needs this exact URL.
-2. Create an OAuth app with each provider you want and paste its client
-   ID/secret into that provider's toggle in the Supabase Providers list:
-   - **Google**: [Google Cloud Console](https://console.cloud.google.com/apis/credentials) →
-     Create Credentials → OAuth client ID → Web application → add the
-     Supabase callback URL under Authorized redirect URIs.
-   - **GitHub**: [GitHub Developer Settings](https://github.com/settings/developers) →
-     New OAuth App → set Authorization callback URL to the Supabase one.
-   - **Facebook**: [Meta for Developers](https://developers.facebook.com/apps) →
-     create an app → add the Facebook Login product → set the same
-     callback URL under Valid OAuth Redirect URIs. Meta requires the app
-     to go through review before it works for anyone besides accounts
-     added as testers.
-3. In Supabase: **Authentication → URL Configuration**, make sure
-   `http://localhost:5173` (dev) and your production domain are both
-   listed under Redirect URLs — the app requests a redirect back to
-   `<origin>/feed` after sign-in, which must match one of these.
-
-Until a provider is enabled, its button redirects to a Supabase error page
-instead of the provider's login screen — that's expected, not a bug in
-the app.
+Until it's enabled, the button redirects to a Supabase error page instead
+of the Google consent screen — that's expected, not a bug in the app.
 
 ## Local dev mode
 

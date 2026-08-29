@@ -9,11 +9,6 @@ export interface AuthUser {
   email: string | null
 }
 
-/** OAuth providers wired up in the Sign In / Sign Up screen — each one must
- * also be enabled in the Supabase dashboard (Authentication > Providers)
- * with a client ID/secret from that provider's own developer console. */
-export type OAuthProvider = 'google' | 'github' | 'facebook'
-
 interface AuthContextValue {
   user: AuthUser | null
   loading: boolean
@@ -23,7 +18,7 @@ interface AuthContextValue {
   signInWithPassword: (email: string, password: string) => Promise<{ error: string | null }>
   signUpWithPassword: (email: string, password: string) => Promise<{ error: string | null }>
   signInWithMagicLink: (email: string) => Promise<{ error: string | null }>
-  signInWithOAuth: (provider: OAuthProvider) => Promise<{ error: string | null }>
+  signInWithOAuth: () => Promise<{ error: string | null }>
   signOut: () => Promise<void>
 }
 
@@ -72,10 +67,10 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         const { error } = await supabase!.auth.signInWithOtp({ email })
         return { error: error?.message ?? null }
       },
-      async signInWithOAuth(provider) {
+      async signInWithOAuth() {
         if (!isSupabaseConfigured) return { error: null }
         const { error } = await supabase!.auth.signInWithOAuth({
-          provider,
+          provider: 'google',
           options: { redirectTo: `${window.location.origin}/feed` },
         })
         // On success this navigates the browser away to the provider, so
