@@ -32,30 +32,30 @@ export function FactCard({ fact, saved, onToggleSave, onReact, active }: FactCar
         <span>{DOMAIN_LABELS[fact.domain]}</span>
       </div>
 
-      <div className="relative z-10 flex flex-1 flex-col justify-center gap-4">
-        <h2 className="text-2xl font-bold leading-tight sm:text-3xl">{fact.hook}</h2>
-        <p className="text-lg leading-relaxed text-white/95">{fact.fact}</p>
-        {fact.whyItMatters && (
-          <p className="border-l-2 border-white/40 pl-3 text-sm italic text-white/75">
-            Why it matters: {fact.whyItMatters}
-          </p>
-        )}
-        <a
-          href={factSearchUrl(fact)}
-          target="_blank"
-          rel="noreferrer"
-          className="inline-flex w-fit items-center gap-1.5 rounded-full bg-white/15 px-3 py-1.5 text-sm font-medium text-white backdrop-blur-sm transition-colors hover:bg-white/25"
-        >
-          <Search size={14} />
-          Dive deeper
-        </a>
-      </div>
+      <div className="relative z-10 flex flex-1 items-center gap-3">
+        <div className="flex flex-1 flex-col gap-4">
+          <h2 className="text-2xl font-bold leading-tight sm:text-3xl">{fact.hook}</h2>
+          <p className="text-lg leading-relaxed text-white/95">{fact.fact}</p>
+          {fact.whyItMatters && (
+            <p className="border-l-2 border-white/40 pl-3 text-sm italic text-white/75">
+              Why it matters: {fact.whyItMatters}
+            </p>
+          )}
+          <a
+            href={factSearchUrl(fact)}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex w-fit items-center gap-1.5 rounded-full bg-white/15 px-3 py-1.5 text-sm font-medium text-white backdrop-blur-sm transition-colors hover:bg-white/25"
+          >
+            <Search size={14} />
+            Dive deeper
+          </a>
+        </div>
 
-      <div className="relative z-10 mt-6 flex items-center justify-between">
-        <ReactionButtons onReact={onReact} />
-        <div className="flex items-center gap-2">
-          <ShareButton fact={fact} size="lg" />
-          <HeartButton saved={saved} onToggle={onToggleSave} size="lg" />
+        <div className="flex flex-col items-center gap-4">
+          <HeartButton saved={saved} onToggle={onToggleSave} />
+          <ReactionButtons onReact={onReact} />
+          <ShareButton fact={fact} />
         </div>
       </div>
     </article>

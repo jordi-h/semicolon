@@ -98,7 +98,7 @@ export function SharedFactPage() {
         </div>
 
         <div className="relative z-10 mt-6 flex justify-end">
-          <ShareButton fact={fact} size="lg" />
+          <ShareButton fact={fact} />
         </div>
       </article>
 
