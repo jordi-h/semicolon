@@ -11,6 +11,7 @@ const emptyStats = (userId: string): UserStats => ({
   currentStreak: 0,
   longestStreak: 0,
   lastActiveDate: '',
+  poolExhaustedNoticeShown: false,
 })
 
 export async function getUserStats(userId: string): Promise<UserStats> {
@@ -32,11 +33,13 @@ export async function getUserStats(userId: string): Promise<UserStats> {
     currentStreak: data.current_streak,
     longestStreak: data.longest_streak,
     lastActiveDate: data.last_active_date ?? '',
+    poolExhaustedNoticeShown: data.pool_exhausted_notice_shown,
   }
 }
 
-/** Call once per card viewed: bumps the facts-learned counter and rolls
- * the daily streak forward (idempotent per calendar day). */
+/** Call once per new (never-before-seen) card viewed: bumps the
+ * facts-learned counter and rolls the daily streak forward (idempotent
+ * per calendar day). Resurfaced/fallback re-shows don't count. */
 export async function recordFactLearned(userId: string): Promise<UserStats> {
   const current = await getUserStats(userId)
   const withStreak = applyDailyActivity(current)
@@ -45,10 +48,24 @@ export async function recordFactLearned(userId: string): Promise<UserStats> {
     ...withStreak,
     factsLearned: current.factsLearned + 1,
   }
+  await saveStats(userId, next)
+  return next
+}
 
+/** Marks the one-time "you've seen everything" notice as shown, so it
+ * never appears again for this user. */
+export async function markPoolExhaustedNoticeShown(userId: string): Promise<UserStats> {
+  const current = await getUserStats(userId)
+  if (current.poolExhaustedNoticeShown) return current
+  const next: UserStats = { ...current, poolExhaustedNoticeShown: true }
+  await saveStats(userId, next)
+  return next
+}
+
+async function saveStats(userId: string, next: UserStats): Promise<void> {
   if (!isSupabaseConfigured) {
     writeLocal(localKey(userId), next)
-    return next
+    return
   }
 
   const { error } = await supabase!.from('user_stats').upsert({
@@ -57,7 +74,7 @@ export async function recordFactLearned(userId: string): Promise<UserStats> {
     current_streak: next.currentStreak,
     longest_streak: next.longestStreak,
     last_active_date: next.lastActiveDate,
+    pool_exhausted_notice_shown: next.poolExhaustedNoticeShown,
   })
   if (error) throw error
-  return next
 }

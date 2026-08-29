@@ -1,4 +1,4 @@
-import { Search } from 'lucide-react'
+import { History, Search } from 'lucide-react'
 
 import { HeartButton } from '@/features/feed/components/HeartButton'
 import { ReactionButtons } from '@/features/feed/components/ReactionButtons'
@@ -14,9 +14,19 @@ interface FactCardProps {
   onToggleSave: () => void
   onReact: (reaction: Reaction) => void
   active: boolean
+  /** True only for the deliberate "resurface an old fact" branch — never
+   * set for the exhausted-pool fallback, which stays unlabeled. */
+  resurfaced?: boolean
 }
 
-export function FactCard({ fact, saved, onToggleSave, onReact, active }: FactCardProps) {
+export function FactCard({
+  fact,
+  saved,
+  onToggleSave,
+  onReact,
+  active,
+  resurfaced = false,
+}: FactCardProps) {
   return (
     <article
       className={cn(
@@ -27,9 +37,17 @@ export function FactCard({ fact, saved, onToggleSave, onReact, active }: FactCar
     >
       <div className="pointer-events-none absolute inset-0 bg-black/10" />
 
-      <div className="relative z-10 mb-4 flex items-center gap-2 text-sm font-medium text-white/80">
-        <span aria-hidden="true">{DOMAIN_EMOJI[fact.domain]}</span>
-        <span>{DOMAIN_LABELS[fact.domain]}</span>
+      <div className="relative z-10 mb-4 flex items-center justify-between gap-2">
+        <div className="flex items-center gap-2 text-sm font-medium text-white/80">
+          <span aria-hidden="true">{DOMAIN_EMOJI[fact.domain]}</span>
+          <span>{DOMAIN_LABELS[fact.domain]}</span>
+        </div>
+        {resurfaced && (
+          <div className="flex items-center gap-1.5 rounded-full bg-white/15 px-3 py-1 text-xs font-medium text-white backdrop-blur-sm">
+            <History size={13} />
+            Remember this?
+          </div>
+        )}
       </div>
 
       <div className="relative z-10 flex flex-1 items-center gap-3">

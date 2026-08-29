@@ -78,4 +78,20 @@ export interface UserStats {
   currentStreak: number
   longestStreak: number
   lastActiveDate: string
+  /** Whether the one-time "you've seen everything" notice has been shown. */
+  poolExhaustedNoticeShown: boolean
 }
+
+/** One row of the per-user seen-facts log — see src/features/feed/lib/pickNextFact.ts
+ * for how firstSeenAt vs. lastShownAt are used differently: firstSeenAt gates
+ * "resurface" eligibility (must be >1 week old) and is never overwritten;
+ * lastShownAt updates every re-show and drives the exhausted-pool fallback
+ * ("least-recently-shown first"). */
+export interface SeenFact {
+  factId: string
+  firstSeenAt: string
+  lastShownAt: string
+}
+
+/** Which of the three explicit feed-selection branches produced a card. */
+export type CardSource = 'normal' | 'resurfaced' | 'fallback'

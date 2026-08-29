@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { ChevronDown, ChevronUp } from 'lucide-react'
 
+import { ExhaustionNotice } from '@/features/feed/components/ExhaustionNotice'
 import { FactCard } from '@/features/feed/components/FactCard'
 import { ReactionToast } from '@/features/feed/components/ReactionToast'
 import type { Fact, Reaction } from '@/lib/types'
@@ -10,6 +11,10 @@ interface FeedStackProps {
   savedIds: Set<string>
   onAdvance: (reaction?: Reaction) => void
   onToggleSave: (factId: string) => void
+  /** True only for a deliberately resurfaced card — see FactCard. */
+  resurfaced?: boolean
+  showExhaustionNotice?: boolean
+  onDismissExhaustionNotice?: () => void
 }
 
 /** How much wheel/touch movement counts as an intentional swipe. */
@@ -21,7 +26,15 @@ const REACTION_TOAST_VISIBLE_MS = 900
 /** Total lifetime of the toast, including its fade-out transition. */
 const REACTION_TOAST_TOTAL_MS = 1200
 
-export function FeedStack({ currentFact, savedIds, onAdvance, onToggleSave }: FeedStackProps) {
+export function FeedStack({
+  currentFact,
+  savedIds,
+  onAdvance,
+  onToggleSave,
+  resurfaced = false,
+  showExhaustionNotice = false,
+  onDismissExhaustionNotice,
+}: FeedStackProps) {
   const touchStartY = useRef<number | null>(null)
   const lastAdvanceAt = useRef(0)
   const wheelAccumulator = useRef(0)
@@ -108,11 +121,16 @@ export function FeedStack({ currentFact, savedIds, onAdvance, onToggleSave }: Fe
           onToggleSave={() => onToggleSave(currentFact.id)}
           onReact={handleReact}
           active
+          resurfaced={resurfaced}
         />
       </div>
 
       {reactionToast && (
         <ReactionToast reaction={reactionToast.reaction} visible={reactionToast.visible} />
+      )}
+
+      {showExhaustionNotice && onDismissExhaustionNotice && (
+        <ExhaustionNotice onDismiss={onDismissExhaustionNotice} />
       )}
 
       <div className="pointer-events-none absolute inset-x-0 bottom-2 flex flex-col items-center gap-0.5 text-white/50">

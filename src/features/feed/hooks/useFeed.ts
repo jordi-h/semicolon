@@ -2,13 +2,14 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useQuery, useQueryClient } from '@tanstack/react-query'
 
 import { useAuth } from '@/features/auth/AuthContext'
-import { buildQueue } from '@/features/feed/lib/pickNextFact'
+import { pickNextCard, type QueuedCard } from '@/features/feed/lib/pickNextFact'
 import { getDomainAffinities, recordDomainEngagement } from '@/lib/api/domainAffinity'
 import { fetchFactsByDomains } from '@/lib/api/facts'
-import { markFactSeen, recycleDomain, getSeenFactIds } from '@/lib/api/seenFacts'
+import { bumpLastShown, getSeenFacts, recordFirstSeen } from '@/lib/api/seenFacts'
+import { markPoolExhaustedNoticeShown } from '@/lib/api/stats'
 import { computeDomainWeight } from '@/lib/engagement'
 import { useStats } from '@/lib/hooks/useStats'
-import type { Domain, Fact, Reaction } from '@/lib/types'
+import type { Domain, Reaction, SeenFact } from '@/lib/types'
 
 /** How many upcoming cards to keep pre-selected. */
 const QUEUE_SIZE = 5
@@ -16,7 +17,7 @@ const QUEUE_SIZE = 5
 export function useFeed(domains: Domain[]) {
   const { user } = useAuth()
   const queryClient = useQueryClient()
-  const { recordLearned } = useStats()
+  const { stats, recordLearned } = useStats()
   const domainsKey = [...domains].sort().join(',')
 
   const poolQuery = useQuery({
@@ -28,7 +29,7 @@ export function useFeed(domains: Domain[]) {
 
   const seenQuery = useQuery({
     queryKey: ['seen-facts', user?.id],
-    queryFn: () => getSeenFactIds(user!.id),
+    queryFn: () => getSeenFacts(user!.id),
     enabled: Boolean(user),
   })
 
@@ -39,15 +40,16 @@ export function useFeed(domains: Domain[]) {
   })
 
   const pool = poolQuery.data ?? []
-  const [seenIds, setSeenIds] = useState<Set<string>>(new Set())
-  const [queue, setQueue] = useState<Fact[]>([])
+  const [seenByFactId, setSeenByFactId] = useState<Map<string, SeenFact>>(new Map())
+  const [queue, setQueue] = useState<QueuedCard[]>([])
+  const [exhaustionNoticePending, setExhaustionNoticePending] = useState(false)
   const shownAtRef = useRef<number>(Date.now())
   const initializedRef = useRef(false)
 
-  // Seed local seen-set from the server/local-storage once it loads.
+  // Seed local seen-map from the server/local-storage once it loads.
   useEffect(() => {
     if (seenQuery.data && !initializedRef.current) {
-      setSeenIds(new Set(seenQuery.data))
+      setSeenByFactId(new Map(seenQuery.data.map((s) => [s.factId, s])))
       initializedRef.current = true
     }
   }, [seenQuery.data])
@@ -66,66 +68,98 @@ export function useFeed(domains: Domain[]) {
 
   const ready = poolQuery.isSuccess && seenQuery.isSuccess && initializedRef.current
 
-  // Keep the queue topped up, recycling any domain whose pool runs dry.
+  // Keep the queue topped up, one explicit branch pick (pickNextCard) per slot.
   useEffect(() => {
     if (!ready || pool.length === 0) return
     if (queue.length >= QUEUE_SIZE) return
 
-    const excludeIds = new Set([...seenIds, ...queue.map((f) => f.id)])
-    const needed = QUEUE_SIZE - queue.length
-    const { queue: additions, recycledDomains } = buildQueue(
-      pool,
-      excludeIds,
-      domains,
-      weights,
-      needed,
-    )
+    const additions: QueuedCard[] = []
+    const queuedIds = new Set(queue.map((c) => c.fact.id))
 
-    if (recycledDomains.length > 0) {
-      setSeenIds((prev) => {
-        const next = new Set(prev)
-        for (const domain of recycledDomains) {
-          for (const f of pool) if (f.domain === domain) next.delete(f.id)
-        }
-        return next
+    for (let i = queue.length; i < QUEUE_SIZE; i++) {
+      const card = pickNextCard({
+        pool,
+        domains,
+        weights,
+        seenByFactId,
+        excludeIds: queuedIds,
       })
-      for (const domain of recycledDomains) {
-        const ids = pool.filter((f) => f.domain === domain).map((f) => f.id)
-        if (user) recycleDomain(user.id, ids).catch(() => {})
-      }
+      if (!card) break
+      additions.push(card)
+      queuedIds.add(card.fact.id)
     }
 
     if (additions.length > 0) {
       setQueue((q) => [...q, ...additions])
+      if (
+        additions.some((c) => c.source === 'fallback') &&
+        stats &&
+        !stats.poolExhaustedNoticeShown
+      ) {
+        setExhaustionNoticePending(true)
+      }
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [ready, pool.length, queue.length, seenIds, domainsKey, weights])
+  }, [ready, pool.length, queue.length, seenByFactId, domainsKey, weights, stats])
 
-  const currentFact = queue[0] ?? null
+  const current = queue[0] ?? null
+  const currentFact = current?.fact ?? null
 
   useEffect(() => {
     shownAtRef.current = Date.now()
   }, [currentFact?.id])
 
   function advance(reaction?: Reaction) {
-    if (!currentFact || !user) return
+    if (!current || !user) return
+    const { fact, source } = current
     const dwellMs = Date.now() - shownAtRef.current
+    const now = new Date().toISOString()
 
-    setSeenIds((prev) => new Set(prev).add(currentFact.id))
+    setSeenByFactId((prev) => {
+      const next = new Map(prev)
+      const existing = next.get(fact.id)
+      next.set(fact.id, {
+        factId: fact.id,
+        firstSeenAt: existing?.firstSeenAt ?? now,
+        lastShownAt: now,
+      })
+      return next
+    })
     setQueue((q) => q.slice(1))
 
-    markFactSeen(user.id, currentFact.id).catch(() => {})
-    recordDomainEngagement(user.id, currentFact.domain, dwellMs, reaction).then(() =>
+    if (source === 'normal') {
+      recordFirstSeen(user.id, fact.id).catch(() => {})
+      recordLearned()
+    } else {
+      // Resurfaced and fallback cards are re-shows of already-seen facts —
+      // only their last_shown_at moves, and they don't inflate "facts learned".
+      bumpLastShown(user.id, fact.id).catch(() => {})
+    }
+
+    recordDomainEngagement(user.id, fact.domain, dwellMs, reaction).then(() =>
       queryClient.invalidateQueries({ queryKey: ['domain-affinity', user.id] }),
     )
-    recordLearned()
+  }
+
+  /** Call once the UI has shown the one-time exhaustion notice, so it's
+   * never shown again for this user. */
+  function acknowledgeExhaustionNotice() {
+    if (!user) return
+    setExhaustionNoticePending(false)
+    queryClient.setQueryData(['stats', user.id], (prev: typeof stats) =>
+      prev ? { ...prev, poolExhaustedNoticeShown: true } : prev,
+    )
+    markPoolExhaustedNoticeShown(user.id).catch(() => {})
   }
 
   return {
     currentFact,
-    upcoming: queue.slice(1),
+    currentCardSource: current?.source ?? null,
+    upcoming: queue.slice(1).map((c) => c.fact),
     advance,
     isLoading: poolQuery.isLoading || seenQuery.isLoading,
     isEmpty: ready && pool.length === 0,
+    showExhaustionNotice: exhaustionNoticePending,
+    acknowledgeExhaustionNotice,
   }
 }

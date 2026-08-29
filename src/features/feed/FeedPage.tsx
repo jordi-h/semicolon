@@ -15,7 +15,15 @@ export function FeedPage() {
   const { savedIds, toggle } = useSavedFacts()
 
   const domains = preferences?.domains ?? []
-  const { currentFact, advance, isLoading, isEmpty } = useFeed(domains)
+  const {
+    currentFact,
+    currentCardSource,
+    advance,
+    isLoading,
+    isEmpty,
+    showExhaustionNotice,
+    acknowledgeExhaustionNotice,
+  } = useFeed(domains)
 
   if (preferencesLoading) {
     return <CenteredState />
@@ -64,6 +72,9 @@ export function FeedPage() {
             savedIds={savedIds}
             onAdvance={advance}
             onToggleSave={toggle}
+            resurfaced={currentCardSource === 'resurfaced'}
+            showExhaustionNotice={showExhaustionNotice}
+            onDismissExhaustionNotice={acknowledgeExhaustionNotice}
           />
         )}
       </main>

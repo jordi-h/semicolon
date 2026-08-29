@@ -65,13 +65,21 @@ create policy "users manage their own saved facts"
 
 -- ─────────────────────────────────────────────────────────────────────────
 -- seen_facts: which facts a user has already been shown, so the feed never
--- repeats a card until the domain's pool is exhausted (see
--- src/features/feed/lib/pickNextFact.ts, which recycles this per domain).
+-- repeats a card. Two separate timestamps, both maintained by
+-- src/features/feed/lib/pickNextFact.ts's three explicit branches:
+--   - first_seen_at is set once and never overwritten -- it gates whether a
+--     fact is old enough (>1 week) to be a "Remember this?" resurfacing
+--     candidate.
+--   - last_shown_at updates on every re-show (resurfaced or fallback) --
+--     it's what "least-recently-shown first" sorts by once a user has
+--     exhausted every fact in their selected domains, so that fallback
+--     rotates through old content instead of getting stuck on one fact.
 -- ─────────────────────────────────────────────────────────────────────────
 create table if not exists public.seen_facts (
   user_id uuid not null references auth.users (id) on delete cascade,
   fact_id text not null references public.facts (id) on delete cascade,
-  seen_at timestamptz not null default now(),
+  first_seen_at timestamptz not null default now(),
+  last_shown_at timestamptz not null default now(),
   primary key (user_id, fact_id)
 );
 
@@ -112,7 +120,10 @@ create table if not exists public.user_stats (
   facts_learned integer not null default 0,
   current_streak integer not null default 0,
   longest_streak integer not null default 0,
-  last_active_date date
+  last_active_date date,
+  -- One-time "you've seen everything in your topics" notice, shown the
+  -- first time the exhausted-pool fallback kicks in and never again.
+  pool_exhausted_notice_shown boolean not null default false
 );
 
 alter table public.user_stats enable row level security;

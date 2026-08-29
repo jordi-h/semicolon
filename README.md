@@ -108,13 +108,35 @@ facts to Supabase (it's an upsert, so it's safe to re-run any time).
 ## How the feed picks the next card
 
 `src/features/feed/lib/pickNextFact.ts` holds the (ML-free) selection
-logic: each domain gets a weight from `computeDomainWeight` in
-`src/lib/engagement.ts` (neutral by default, pulled up by longer dwell
-time and "more like this", pulled down by fast skips and "less like
-this"), then the next card is a weighted-random domain pick followed by a
-random unseen fact within it. A domain's seen set only resets once every
-fact in it has been shown — so a card never repeats until its domain's
-pool is exhausted.
+logic. Every card comes from exactly one of three explicit branches,
+decided in this order by the `pickNextCard` orchestrator — never an
+accidental fallthrough baked into how the random picker happens to be
+written:
+
+1. **Fallback** (`pickFallbackCard`) — once every fact in the user's
+   selected domains has been seen (`isPoolExhausted`), the feed stops
+   excluding seen facts and instead serves the **least-recently-shown**
+   fact first, so it rotates through old content instead of repeating
+   one fact. No "Remember this?" label here — see below.
+2. **Resurface** (`pickResurfaceCandidate`) — otherwise, a small per-card
+   chance (`RESURFACE_CHANCE`, ~1 in 35, landing in the "1 in every
+   30–40" target) deliberately shows a fact the user saw more than a
+   week ago (`RESURFACE_MIN_AGE_MS`), labeled "Remember this?" on the
+   card. This is the _only_ branch that gets that label.
+3. **Normal** (`pickNormalCard`, the default) — a domain gets a weight
+   from `computeDomainWeight` in `src/lib/engagement.ts` (neutral by
+   default, pulled up by longer dwell time and "more like this", pulled
+   down by fast skips and "less like this"), then the card is a
+   weighted-random domain pick followed by a random _unseen_ fact
+   within it.
+
+This relies on two separate timestamps per seen fact
+(`src/lib/api/seenFacts.ts`, `supabase/schema.sql`): `first_seen_at` is
+set once and never overwritten (it gates resurface eligibility),
+`last_shown_at` updates on every re-show (it drives the fallback
+ordering). A one-time "you've seen everything in your topics" notice
+(`ExhaustionNotice.tsx`) shows the first time branch 1 kicks in, tracked
+via `user_stats.pool_exhausted_notice_shown` so it never shows twice.
 
 ## Sharing a fact
 
