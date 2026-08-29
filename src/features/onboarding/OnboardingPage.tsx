@@ -28,7 +28,7 @@ export function OnboardingPage() {
   if (isLoading) return null
 
   return (
-    <div className="mx-auto flex h-full max-w-lg flex-col justify-center gap-6 p-6">
+    <div className="mx-auto flex h-full max-w-lg flex-col gap-6 overflow-y-auto p-6">
       <div className="space-y-2 text-center">
         <h1 className="text-2xl font-bold">
           {isEditing ? t('onboarding.titleEdit') : t('onboarding.titleNew')}
@@ -42,7 +42,7 @@ export function OnboardingPage() {
         size="lg"
         disabled={selected.length === 0 || isSaving}
         onClick={handleContinue}
-        className="mt-2"
+        className="mt-2 shrink-0"
       >
         {isSaving
           ? t('onboarding.saving')
