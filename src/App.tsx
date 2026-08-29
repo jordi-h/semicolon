@@ -10,7 +10,13 @@ import { ProtectedRoute } from '@/routes/ProtectedRoute'
 
 function App() {
   return (
-    <div className="h-dvh w-full bg-muted/30 sm:flex sm:items-center sm:justify-center sm:p-6">
+    <div
+      className="h-dvh w-full bg-muted/30 sm:flex sm:items-center sm:justify-center sm:p-6"
+      style={{
+        paddingTop: 'env(safe-area-inset-top)',
+        paddingBottom: 'env(safe-area-inset-bottom)',
+      }}
+    >
       <div className="mx-auto h-full w-full sm:h-[calc(100dvh-3rem)] sm:max-w-md">
         <Routes>
           <Route path="/" element={<Navigate to="/feed" replace />} />
