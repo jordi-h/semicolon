@@ -3912,7 +3912,21 @@
     "tags": [
       "calcio-storico",
       "italy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le football original de Florence ressemble plus à une bagarre de rue.",
+        "fact": "Le calcio storico, toujours pratiqué à Florence, en Italie, combine des éléments de football, de rugby et de lutte, avec presque aucune restriction sur le contact physique, coups de poing et coups de tête compris."
+      },
+      "nl": {
+        "hook": "Florences oorspronkelijke voetbal lijkt meer op een straatgevecht.",
+        "fact": "Calcio storico, nog steeds gespeeld in Florence, Italië, combineert elementen van voetbal, rugby en worstelen met bijna geen beperkingen op fysiek contact, inclusief stompen en kopstoten."
+      },
+      "es": {
+        "hook": "El fútbol original de Florencia se parece más a una pelea callejera.",
+        "fact": "El calcio storico, que todavía se juega en Florencia, Italia, combina elementos de fútbol, rugby y lucha con casi ninguna restricción al contacto físico, incluidos los puñetazos y los cabezazos."
+      }
+    }
   },
   {
     "id": "sports-162",
@@ -3922,7 +3936,21 @@
     "tags": [
       "hurling",
       "ireland"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce jeu irlandais de crosse et de balle se joue à l'allure d'un sprinteur.",
+        "fact": "Le hurling, l'un des jeux gaéliques traditionnels d'Irlande, se joue avec un bâton en bois appelé hurley et une petite balle appelée sliotar, que les joueurs peuvent frapper en l'air ou au sol à grande vitesse."
+      },
+      "nl": {
+        "hook": "Dit Ierse stok-en-balspel wordt gespeeld op het tempo van een sprinter.",
+        "fact": "Hurling, een van Ierlands traditionele Gaelic games, wordt gespeeld met een houten stok, een hurley, en een kleine bal, een sliotar, die spelers in de lucht of op de grond met hoge snelheid kunnen raken."
+      },
+      "es": {
+        "hook": "Este juego irlandés de palo y pelota se juega al ritmo de un velocista.",
+        "fact": "El hurling, uno de los juegos gaélicos tradicionales de Irlanda, se juega con un palo de madera llamado hurley y una pequeña pelota llamada sliotar, que los jugadores pueden golpear en el aire o en el suelo a gran velocidad."
+      }
+    }
   },
   {
     "id": "sports-163",
@@ -3932,7 +3960,21 @@
     "tags": [
       "shin-kicking",
       "england"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des adultes s'affrontent à coups de pied dans les tibias.",
+        "fact": "Le shin-kicking, une épreuve traditionnelle des Cotswold Olimpick Games en Angleterre, oppose deux concurrents qui s'agrippent aux épaules l'un de l'autre tout en essayant de se donner des coups de pied dans les tibias assez forts pour provoquer une chute."
+      },
+      "nl": {
+        "hook": "Volwassenen wedijveren om elkaar tegen de schenen te schoppen.",
+        "fact": "Shin-kicking, een traditioneel onderdeel van de Cotswold Olimpick Games in Engeland, laat twee deelnemers elkaars schouders vastgrijpen terwijl ze proberen elkaar zo hard tegen de schenen te schoppen dat de ander valt."
+      },
+      "es": {
+        "hook": "Adultos hechos y derechos compiten a patadas en las espinillas.",
+        "fact": "El shin-kicking, una prueba tradicional de los Cotswold Olimpick Games de Inglaterra, enfrenta a dos competidores que se agarran de los hombros mientras intentan darse patadas en las espinillas lo bastante fuertes como para hacer caer al otro."
+      }
+    }
   },
   {
     "id": "sports-164",
@@ -3942,7 +3984,21 @@
     "tags": [
       "underwater-hockey",
       "aquatic-sport"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il existe une version du hockey qui se joue entièrement sous l'eau.",
+        "fact": "Le hockey subaquatique, aussi appelé octopush, oppose deux équipes qui utilisent de courtes crosses pour manœuvrer un palet au fond d'une piscine, en nageant sous l'eau en apnée."
+      },
+      "nl": {
+        "hook": "Er bestaat een versie van hockey die volledig onder water wordt gespeeld.",
+        "fact": "Onderwaterhockey, ook wel octopush genoemd, laat twee teams met korte stokjes een puck over de bodem van een zwembad manoeuvreren terwijl ze op een enkele adem onder water zwemmen."
+      },
+      "es": {
+        "hook": "Existe una versión del hockey que se juega enteramente bajo el agua.",
+        "fact": "El hockey subacuático, también llamado octopush, enfrenta a dos equipos que usan palas cortas para mover un disco por el fondo de una piscina mientras nadan bajo el agua conteniendo la respiración."
+      }
+    }
   },
   {
     "id": "sports-165",
@@ -3952,7 +4008,21 @@
     "tags": [
       "bossaball",
       "hybrid-sport"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce sport combine volley-ball, football et trampoline.",
+        "fact": "Le bossaball se joue sur un terrain gonflable équipé d'un trampoline de chaque côté, permettant aux joueurs de s'élancer dans des smashs et des frappes acrobatiques qui combinent les règles du volley-ball et du football."
+      },
+      "nl": {
+        "hook": "Deze sport combineert volleybal, voetbal en een trampoline.",
+        "fact": "Bossaball wordt gespeeld op een opblaasbaar veld met aan elke kant een ingebouwde trampoline, waardoor spelers acrobatische smashes en trappen kunnen maken die regels van volleybal en voetbal combineren."
+      },
+      "es": {
+        "hook": "Este deporte combina voleibol, fútbol y una cama elástica.",
+        "fact": "El bossaball se juega en una cancha inflable con una cama elástica integrada en cada lado, lo que permite a los jugadores lanzarse a rematar y patear de forma acrobática combinando las reglas del voleibol y el fútbol."
+      }
+    }
   },
   {
     "id": "sports-166",
@@ -3962,7 +4032,21 @@
     "tags": [
       "camel-wrestling",
       "turkey"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans cette épreuve de lutte turque, les athlètes sont des chameaux, pas des humains.",
+        "fact": "La lutte de chameaux, populaire dans l'ouest de la Turquie, oppose deux chameaux mâles pendant la saison des amours, tandis que des soigneurs gèrent les animaux et que des arbitres veillent à la sécurité."
+      },
+      "nl": {
+        "hook": "Kamelen, niet mensen, zijn de atleten bij dit Turkse worstelevenement.",
+        "fact": "Kamelenworstelen, populair in het westen van Turkije, laat twee mannelijke kamelen tijdens het paarseizoen tegen elkaar strijden, terwijl verzorgers de dieren begeleiden en scheidsrechters op de veiligheid toezien."
+      },
+      "es": {
+        "hook": "En esta prueba de lucha turca, los atletas son camellos, no personas.",
+        "fact": "La lucha de camellos, popular en el oeste de Turquía, enfrenta a dos camellos machos durante la temporada de apareamiento, mientras los cuidadores manejan a los animales y los árbitros velan por la seguridad."
+      }
+    }
   },
   {
     "id": "sports-167",
@@ -3972,7 +4056,21 @@
     "tags": [
       "elephant-polo",
       "nepal"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le polo, mais les joueurs montent des éléphants au lieu de chevaux.",
+        "fact": "Le polo sur éléphant, pratiqué notamment au Népal et en Thaïlande, reprend les règles de base du polo à cheval, mais avec des cornacs qui dirigent les éléphants et des joueurs qui manient des maillets bien plus longs."
+      },
+      "nl": {
+        "hook": "Polo, maar dan rijden de spelers op olifanten in plaats van paarden.",
+        "fact": "Olifantenpolo, gespeeld in onder meer Nepal en Thailand, volgt dezelfde basisregels als polo te paard, maar met mahouts die de olifanten besturen en spelers die extra lange hamers zwaaien."
+      },
+      "es": {
+        "hook": "Polo, pero los jugadores montan elefantes en lugar de caballos.",
+        "fact": "El polo sobre elefantes, que se practica en países como Nepal y Tailandia, sigue las reglas básicas del polo a caballo, pero con mahouts que guían a los elefantes y jugadores que manejan mazos mucho más largos."
+      }
+    }
   },
   {
     "id": "sports-168",
@@ -3982,7 +4080,21 @@
     "tags": [
       "bandy",
       "scandinavia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Russie et la Scandinavie ont leur propre version du hockey, jouée avec une balle sur une immense patinoire.",
+        "fact": "Le bandy se joue sur glace avec une petite balle orange plutôt qu'un palet, sur une patinoire à peu près de la taille d'un terrain de football, ce qui en fait un jeu bien plus ouvert et axé sur la course que le hockey sur glace."
+      },
+      "nl": {
+        "hook": "Rusland en Scandinavië hebben hun eigen versie van hockey, gespeeld met een bal op een reusachtige ijsbaan.",
+        "fact": "Bandy wordt op ijs gespeeld met een kleine oranje bal in plaats van een puck, op een ijsbaan die ongeveer zo groot is als een voetbalveld, waardoor het spel veel opener en loopintensiever is dan ijshockey."
+      },
+      "es": {
+        "hook": "Rusia y Escandinavia tienen su propia versión del hockey, jugada con una pelota en una pista gigante.",
+        "fact": "El bandy se juega sobre hielo con una pequeña pelota naranja en lugar de un disco, en una pista de aproximadamente el tamaño de un campo de fútbol, lo que lo convierte en un juego mucho más abierto y con más carrera que el hockey sobre hielo."
+      }
+    }
   },
   {
     "id": "sports-169",
@@ -3992,7 +4104,21 @@
     "tags": [
       "pesapallo",
       "finland"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La réponse finlandaise au baseball fait courir les joueurs en zigzag.",
+        "fact": "Le pesäpallo, sport national de la Finlande, ressemble au baseball, mais avec une balle lancée verticalement et des chemins de base en zigzag plutôt qu'en losange, ce qui rend le jeu de course stratégiquement très différent."
+      },
+      "nl": {
+        "hook": "Finlands eigen antwoord op honkbal laat lopers in zigzag bewegen.",
+        "fact": "Pesäpallo, Finlands nationale sport, lijkt op honkbal, maar met een verticaal gegooide bal en honkpaden die zigzaggen in plaats van een ruit vormen, waardoor het loopspel strategisch heel anders is."
+      },
+      "es": {
+        "hook": "La respuesta finlandesa al béisbol hace que los corredores se muevan en zigzag.",
+        "fact": "El pesäpallo, el deporte nacional de Finlandia, se parece al béisbol, pero con una pelota lanzada verticalmente y recorridos de base en zigzag en lugar de un diamante, lo que hace que el juego de carreras sea estratégicamente muy distinto."
+      }
+    }
   },
   {
     "id": "sports-170",
@@ -4002,7 +4128,21 @@
     "tags": [
       "kite-fighting",
       "south-asia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le vol de cerf-volant compétitif peut se transformer en duel aérien.",
+        "fact": "Dans le combat de cerfs-volants traditionnel, populaire dans des pays comme l'Inde et le Pakistan, les concurrents enduisent leurs fils de verre pilé ou de poudre métallique et essaient de couper les cerfs-volants adverses en plein ciel."
+      },
+      "nl": {
+        "hook": "Competitief vliegeren kan uitmonden in een luchtduel.",
+        "fact": "Bij het traditionele vliegergevecht, populair in landen als India en Pakistan, bedekken deelnemers hun vliegerlijnen met fijngemalen glas of metaalpoeder en proberen ze de vliegers van hun tegenstanders uit de lucht te snijden."
+      },
+      "es": {
+        "hook": "El vuelo de cometas competitivo puede convertirse en un duelo aéreo.",
+        "fact": "En las tradicionales peleas de cometas, populares en países como India y Pakistán, los competidores recubren sus hilos con vidrio molido o polvo metálico e intentan cortar las cometas de sus rivales en pleno cielo."
+      }
+    }
   },
   {
     "id": "sports-171",
@@ -4012,7 +4152,21 @@
     "tags": [
       "molkky",
       "finland"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce jeu finlandais ressemble au bowling, mais avec des quilles qui ont chacune leur propre valeur.",
+        "fact": "Le mölkky est un jeu de lancer finlandais où les joueurs lancent une quille en bois sur un groupe de quilles numérotées, marquant le numéro de la quille renversée si une seule tombe, ou le nombre de quilles renversées si plusieurs tombent, l'objectif étant d'atteindre exactement 50 points."
+      },
+      "nl": {
+        "hook": "Dit Finse spel lijkt op bowlen, maar met kegels die elk hun eigen puntenwaarde hebben.",
+        "fact": "Mölkky is een Fins werpspel waarbij spelers een houten pin naar een groep genummerde kegels gooien, waarbij ze het nummer van de omvergegooide kegel scoren als er één valt, of het aantal omgevallen kegels als er meerdere vallen, met als doel precies op 50 punten uit te komen."
+      },
+      "es": {
+        "hook": "Este juego finlandés se parece a los bolos, pero con bolos que tienen su propio valor numérico.",
+        "fact": "El mölkky es un juego de lanzamiento finlandés en el que los jugadores arrojan un bolo de madera contra un grupo de bolos numerados, anotando el número del bolo derribado si cae uno solo, o la cantidad de bolos derribados si caen varios, con el objetivo de llegar exactamente a 50."
+      }
+    }
   },
   {
     "id": "sports-172",
@@ -4022,7 +4176,21 @@
     "tags": [
       "fierljeppen",
       "netherlands"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Aux Pays-Bas, des athlètes sautent à la perche par-dessus des canaux plutôt que par-dessus des barres.",
+        "fact": "Le fierljeppen, pratiqué aux Pays-Bas, voit des athlètes sprinter vers un canal, saisir une longue perche plantée dans l'eau, grimper le long de celle-ci pendant qu'elle bascule vers l'avant, puis essayer d'atterrir le plus loin possible de l'autre côté de l'eau."
+      },
+      "nl": {
+        "hook": "Nederlandse atleten polsstokspringen over kanalen in plaats van over een lat.",
+        "fact": "Bij fierljeppen, dat in Nederland wordt beoefend, sprinten atleten naar een sloot, grijpen een lange polsstok die in het water is geplant, klimmen omhoog terwijl de stok naar voren kantelt, en proberen zo ver mogelijk aan de overkant te landen."
+      },
+      "es": {
+        "hook": "Atletas neerlandeses saltan con pértiga sobre canales en lugar de sobre una barra.",
+        "fact": "En el fierljeppen, que se practica en los Países Bajos, los atletas corren hacia un canal, agarran una larga pértiga clavada en el agua, trepan por ella mientras se inclina hacia adelante e intentan aterrizar lo más lejos posible al otro lado del agua."
+      }
+    }
   },
   {
     "id": "sports-173",
@@ -4032,7 +4200,21 @@
     "tags": [
       "yukigassen",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Japon a transformé les batailles de boules de neige en sport d'équipe organisé, arbitre compris.",
+        "fact": "Le yukigassen est un sport organisé de bataille de boules de neige, inventé au Japon, où deux équipes retranchées derrière des fortifications essaient de toucher leurs adversaires avec des boules de neige ou de capturer leur drapeau dans un temps limité."
+      },
+      "nl": {
+        "hook": "Japan maakte van sneeuwbalgevechten een georganiseerde teamsport met een scheidsrechter.",
+        "fact": "Yukigassen is een georganiseerde sneeuwbalgevechtsport, uitgevonden in Japan, waarbij twee teams achter versterkingen proberen tegenstanders met sneeuwballen te raken of binnen een vastgestelde tijd de vlag van het andere team te veroveren."
+      },
+      "es": {
+        "hook": "Japón convirtió las guerras de bolas de nieve en un deporte de equipo organizado, con árbitro incluido.",
+        "fact": "El yukigassen es un deporte organizado de guerra de bolas de nieve, inventado en Japón, en el que dos equipos, protegidos tras fortificaciones, intentan alcanzar a sus rivales con bolas de nieve o capturar la bandera del otro equipo dentro de un tiempo límite."
+      }
+    }
   },
   {
     "id": "sports-174",
@@ -4042,7 +4224,21 @@
     "tags": [
       "segway-polo",
       "hybrid-sport"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce sport, c'est du polo, mais tout le monde roule sur un gyropode à deux roues au lieu d'un cheval.",
+        "fact": "Le polo en Segway voit des équipes rouler sur des gyropodes autostabilisés tout en utilisant des maillets pour envoyer une balle dans un but, selon des règles adaptées du polo à cheval traditionnel."
+      },
+      "nl": {
+        "hook": "Deze sport is polo, maar iedereen rijdt op een tweewielige step in plaats van op een paard.",
+        "fact": "Bij Segwaypolo rijden teams op zelfbalancerende Segways terwijl ze met hamers proberen een bal in een doel te slaan, volgens regels die zijn aangepast van het traditionele polo te paard."
+      },
+      "es": {
+        "hook": "Este deporte es polo, pero todos montan un patinete de dos ruedas en lugar de un caballo.",
+        "fact": "En el polo en Segway, los equipos se desplazan en patinetes autoequilibrados Segway mientras usan mazos para golpear una pelota hacia una portería, siguiendo reglas adaptadas del polo tradicional a caballo."
+      }
+    }
   },
   {
     "id": "sports-175",
@@ -4052,7 +4248,21 @@
     "tags": [
       "underwater-rugby",
       "germany"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le rugby, mais joué entièrement au fond d'une piscine.",
+        "fact": "Le rugby subaquatique, originaire d'Allemagne, oppose deux équipes qui essaient de marquer avec un ballon rempli d'eau salée dans un panier situé à l'autre bout d'un bassin de plongée, en nageant en apnée."
+      },
+      "nl": {
+        "hook": "Rugby, maar volledig gespeeld op de bodem van een zwembad.",
+        "fact": "Onderwaterrugby, dat zijn oorsprong heeft in Duitsland, laat twee teams proberen een met zout water gevulde bal in een mand aan de andere kant van een duikbad te scoren, terwijl ze zwemmend hun adem inhouden."
+      },
+      "es": {
+        "hook": "Rugby, pero jugado enteramente en el fondo de una piscina.",
+        "fact": "El rugby subacuático, originario de Alemania, enfrenta a dos equipos que intentan anotar con una pelota llena de agua salada en una cesta situada en el extremo opuesto de una piscina de buceo, nadando y conteniendo la respiración."
+      }
+    }
   },
   {
     "id": "sports-176",
@@ -4062,7 +4272,21 @@
     "tags": [
       "zorbing",
       "new-zealand"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des gens paient pour dévaler des collines à l'intérieur d'immenses boules gonflables.",
+        "fact": "Le zorbing, inventé en Nouvelle-Zélande, consiste à grimper à l'intérieur d'une grande sphère gonflable transparente et à dévaler une colline ou rouler sur terrain plat, parfois avec de l'eau ajoutée à l'intérieur pour glisser davantage."
+      },
+      "nl": {
+        "hook": "Mensen betalen om in reusachtige opblaasbare ballen van heuvels af te rollen.",
+        "fact": "Zorbing, uitgevonden in Nieuw-Zeeland, houdt in dat je in een grote doorzichtige opblaasbare bol klimt en van een heuvel af rolt of over vlak terrein rolt, soms met water erin voor extra glijplezier."
+      },
+      "es": {
+        "hook": "La gente paga por rodar cuesta abajo dentro de gigantescas bolas inflables.",
+        "fact": "El zorbing, inventado en Nueva Zelanda, consiste en meterse dentro de una gran esfera inflable transparente y rodar cuesta abajo o por terreno llano, a veces con agua añadida dentro para deslizarse más."
+      }
+    }
   },
   {
     "id": "sports-177",
@@ -4072,7 +4296,21 @@
     "tags": [
       "extreme-ironing",
       "england"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un circuit compétitif de repassage de vêtements dans des lieux extrêmes.",
+        "fact": "Le repassage extrême, apparu en Angleterre, voit des participants installer une planche à repasser et repasser du linge dans des lieux insolites ou dangereux, comme des parois rocheuses, sous l'eau ou en chute libre, une activité que sa communauté considère comme un véritable sport."
+      },
+      "nl": {
+        "hook": "Er bestaat een competitief circuit voor het strijken van kleren op extreme locaties.",
+        "fact": "Extreme strijken, dat in Engeland is ontstaan, laat deelnemers een strijkplank opzetten en kleding strijken op ongewone of gevaarlijke plekken, zoals rotswanden, onder water of tijdens een parachutesprong, en wordt door de eigen gemeenschap als een volwaardige sport beschouwd."
+      },
+      "es": {
+        "hook": "Existe un circuito competitivo de planchado de ropa en lugares extremos.",
+        "fact": "El planchado extremo, que empezó en Inglaterra, consiste en instalar una tabla de planchar y planchar ropa en entornos insólitos o peligrosos, como paredes de roca, bajo el agua o durante un salto en paracaídas, y su comunidad lo trata como un deporte genuino."
+      }
+    }
   },
   {
     "id": "sports-178",
@@ -4082,7 +4320,21 @@
     "tags": [
       "quadball",
       "hybrid-sport"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un sport de sorciers fictif dispose désormais de tournois et de règlements bien réels.",
+        "fact": "Le quadball, autrefois appelé quidditch moldu, adapte le sport fictif de Harry Potter en un vrai jeu de contact pratiqué à pied, les joueurs tenant un manche à balai entre les jambes tout en s'affrontant dans un mélange d'éléments de ballon prisonnier, de rugby et de chat perché."
+      },
+      "nl": {
+        "hook": "Een fictieve tovenaarssport heeft nu echte toernooien en reglementen.",
+        "fact": "Quadball, vroeger bekend als muggle quidditch, past de fictieve sport uit Harry Potter aan tot een echt fysiek contactspel te voet, waarbij spelers een bezemsteel tussen hun benen houden terwijl ze strijden met een mix van elementen uit trefbal, rugby en tikkertje."
+      },
+      "es": {
+        "hook": "Un deporte de magos ficticio ahora tiene torneos y reglamentos reales.",
+        "fact": "El quadball, antes conocido como quidditch muggle, adapta el deporte ficticio de Harry Potter a un juego real de contacto pleno jugado a pie, con jugadores que sostienen una escoba entre las piernas mientras compiten en una mezcla de elementos de balón prisionero, rugby y pillapilla."
+      }
+    }
   },
   {
     "id": "sports-179",
@@ -4092,7 +4344,21 @@
     "tags": [
       "naadam",
       "mongolia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le plus grand festival sportif de Mongolie met à l'épreuve lutte, tir à l'arc et équitation en même temps.",
+        "fact": "Le festival mongol du Naadam est centré sur trois sports traditionnels, la lutte, la course de chevaux et le tir à l'arc, chacun porteur de coutumes séculaires, comme la danse de la victoire des lutteurs imitant le vol de l'aigle."
+      },
+      "nl": {
+        "hook": "Mongolië's grootste sportfestival test worstelen, boogschieten en paardrijkunst tegelijk.",
+        "fact": "Het Mongoolse Naadam-festival draait om drie traditionele sporten, worstelen, paardenrennen en boogschieten, elk met eigen eeuwenoude gebruiken, zoals de overwinningsdans van worstelaars die een adelaar nabootst."
+      },
+      "es": {
+        "hook": "El mayor festival deportivo de Mongolia pone a prueba a la vez la lucha, el tiro con arco y la equitación.",
+        "fact": "El festival mongol de Naadam gira en torno a tres deportes tradicionales, la lucha, las carreras de caballos y el tiro con arco, cada uno con sus propias costumbres centenarias, como la danza de la victoria de los luchadores que imita el vuelo de un águila."
+      }
+    }
   },
   {
     "id": "sports-180",
@@ -4102,7 +4368,21 @@
     "tags": [
       "ferret-legging",
       "england"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Cette obscure épreuve d'endurance britannique consiste à glisser des furets vivants dans son pantalon.",
+        "fact": "Le ferret-legging, une compétition traditionnelle de pub pratiquée dans certaines régions du nord de l'Angleterre, met les concurrents au défi de garder des furets vivants dans leur pantalon, noué aux chevilles, le plus longtemps possible, sans entraves, sous-vêtements ni drogues."
+      },
+      "nl": {
+        "hook": "Deze obscure Britse uithoudingswedstrijd draait om levende fretten in je broek.",
+        "fact": "Ferret-legging, een traditionele pubwedstrijd in delen van Noord-Engeland, daagt deelnemers uit om levende fretten zo lang mogelijk in een bij de enkels dichtgebonden broek te houden, zonder hulpmiddelen, ondergoed of drugs."
+      },
+      "es": {
+        "hook": "Esta oscura prueba de resistencia británica consiste en meterse hurones vivos en el pantalón.",
+        "fact": "El ferret-legging, una competición tradicional de pub en partes del norte de Inglaterra, reta a los participantes a mantener hurones vivos dentro de un pantalón atado a los tobillos durante el mayor tiempo posible, sin sujeciones, ropa interior ni drogas."
+      }
+    }
   },
   {
     "id": "sports-181",
@@ -4112,7 +4392,21 @@
     "tags": [
       "toe-wrestling",
       "england"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Lutter avec les pieds au lieu des mains est un véritable sport de compétition.",
+        "fact": "Le toe wrestling, disputé lors d'un championnat anglais annuel, oppose deux concurrents qui accrochent leurs gros orteils et tentent de plaquer le pied de l'autre sur une planche surélevée, dans un esprit proche du bras de fer."
+      },
+      "nl": {
+        "hook": "Worstelen met je voeten in plaats van je handen is een echte competitiesport.",
+        "fact": "Toe wrestling, uitgevochten tijdens een jaarlijks Engels kampioenschap, laat tegenstanders hun grote tenen haken en proberen de voet van de ander op een verhoogd bord te pinnen, in de geest van armworstelen."
+      },
+      "es": {
+        "hook": "Luchar con los pies en lugar de las manos es un deporte de competición real.",
+        "fact": "El toe wrestling, disputado en un campeonato inglés anual, enfrenta a dos rivales que enganchan sus dedos gordos del pie e intentan clavar el pie del otro contra una tabla elevada, en un espíritu parecido al pulso."
+      }
+    }
   },
   {
     "id": "sports-182",
@@ -4122,7 +4416,21 @@
     "tags": [
       "jorkyball",
       "france"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce sport français fait tenir le football dans une cage entourée de murs, de la taille d'un petit terrain.",
+        "fact": "Le jorkyball, développé en France, est une variante rapide et à effectif réduit du football, jouée dans une enceinte entourée de murs mais à ciel ouvert, où le ballon peut rebondir sur les murs, un peu comme un mélange de squash et de football."
+      },
+      "nl": {
+        "hook": "Deze Franse sport perst voetbal in een door muren omsloten kooi ter grootte van een klein veld.",
+        "fact": "Jorkyball, ontwikkeld in Frankrijk, is een snelle voetbalvariant met kleine teams, gespeeld in een door muren omsloten, dakloze ruimte waar de bal van de muren mag stuiten, vergelijkbaar met squash gemengd met voetbal."
+      },
+      "es": {
+        "hook": "Este deporte francés comprime el fútbol en una jaula rodeada de muros del tamaño de una pequeña cancha.",
+        "fact": "El jorkyball, desarrollado en Francia, es una variante rápida del fútbol con equipos reducidos, jugada dentro de un recinto rodeado de muros pero sin techo, donde el balón puede rebotar en las paredes, algo parecido a una mezcla de squash y fútbol."
+      }
+    }
   },
   {
     "id": "sports-183",
@@ -4132,7 +4440,21 @@
     "tags": [
       "jai-alai",
       "basque-country"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un sport basque se joue avec un panier en osier recourbé attaché à la main.",
+        "fact": "La pelote basque, plus précisément le jai alai, originaire du Pays basque, se joue avec un long panier d'osier recourbé appelé cesta, attaché à la main, que les joueurs utilisent pour attraper et lancer une balle dure contre un mur de fronton."
+      },
+      "nl": {
+        "hook": "Een Baskische sport wordt gespeeld met een gebogen mand van teenhout die aan de hand is vastgemaakt.",
+        "fact": "Jai alai, afkomstig uit het Baskenland, wordt gespeeld met een lange, gebogen mand van teenhout, een cesta genaamd, die aan de hand is vastgebonden en waarmee spelers een harde bal opvangen en tegen een ommuurde baan slingeren."
+      },
+      "es": {
+        "hook": "Un deporte vasco se juega con una cesta de mimbre curva atada a la mano.",
+        "fact": "La cesta punta o jai alai, originaria del País Vasco, se juega con una larga cesta curva de mimbre, atada a la mano, que los jugadores usan para atrapar y lanzar una pelota dura contra un frontón con paredes."
+      }
+    }
   },
   {
     "id": "sports-184",
@@ -4142,7 +4464,21 @@
     "tags": [
       "australian-rules-football",
       "rules-trivia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il n'y a absolument aucune règle de hors-jeu dans ce code de football rapide et à haut score.",
+        "fact": "Le football australien n'a aucune règle de hors-jeu, ce qui explique en grande partie pourquoi le jeu se caractérise par des courses et des actions constantes d'un bout à l'autre du terrain, contrairement au football ou au rugby."
+      },
+      "nl": {
+        "hook": "In deze snelle voetbalcode met veel doelpunten bestaat helemaal geen buitenspelregel.",
+        "fact": "Australian rules football kent geen buitenspelregel, wat een belangrijke reden is waarom het spel wordt gekenmerkt door voortdurend lopen en scoren over het hele veld, in tegenstelling tot codes zoals voetbal of rugby."
+      },
+      "es": {
+        "hook": "En este código de fútbol rápido y de altas puntuaciones no existe la regla del fuera de juego.",
+        "fact": "El fútbol australiano no tiene regla de fuera de juego, lo que explica en gran parte por qué el juego se caracteriza por carreras y anotaciones constantes de un extremo a otro del campo, a diferencia de códigos como el fútbol o el rugby."
+      }
+    }
   },
   {
     "id": "sports-185",
@@ -4152,7 +4488,21 @@
     "tags": [
       "netball",
       "rules-trivia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans ce sport de balle, les joueurs se figent sur place dès qu'ils attrapent le ballon.",
+        "fact": "Le netball interdit de dribbler et de courir avec le ballon, limite les joueurs à des zones désignées du terrain selon leur poste, et exige qu'un joueur passe ou tire dans les trois secondes suivant sa réception."
+      },
+      "nl": {
+        "hook": "Bij deze balsport bevriezen spelers op de plek zodra ze de bal vangen.",
+        "fact": "Netbal verbiedt dribbelen en rennen met de bal, beperkt spelers tot aangewezen zones van het veld op basis van hun positie, en vereist dat een speler binnen drie seconden na het vangen passt of schiet."
+      },
+      "es": {
+        "hook": "En este deporte de pelota, los jugadores se quedan congelados en el sitio en el instante en que atrapan la pelota.",
+        "fact": "El netball prohíbe driblar y correr con el balón, restringe a los jugadores a zonas designadas de la cancha según su posición, y exige que un jugador pase o lance dentro de los tres segundos posteriores a atraparlo."
+      }
+    }
   },
   {
     "id": "sports-186",
@@ -4162,7 +4512,21 @@
     "tags": [
       "dwile-flonking",
       "england"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce jeu de pub anglais consiste à lancer un chiffon imbibé de bière sur un adversaire qui danse.",
+        "fact": "Le dwile flonking est un jeu traditionnel anglais dans lequel une équipe danse en cercle pendant qu'un membre de l'équipe adverse tente de la toucher avec un chiffon imbibé de bière lancé depuis un manche, avec des règles qui varient énormément d'un village à l'autre et sont souvent inventées au fil du jeu."
+      },
+      "nl": {
+        "hook": "Dit Engelse pubspel draait om het gooien van een biernatte doek naar een dansende tegenstander.",
+        "fact": "Dwile flonking is een traditioneel Engels spel waarbij het ene team in een kring danst terwijl een lid van het andere team probeert hen te raken met een biernatte doek die vanaf een stok wordt geslingerd, met regels die per dorp sterk verschillen en vaak ter plekke worden verzonnen."
+      },
+      "es": {
+        "hook": "Este juego de pub inglés consiste en arrojar un trapo empapado en cerveza a un rival que baila.",
+        "fact": "El dwile flonking es un juego tradicional inglés en el que un equipo baila en círculo mientras un miembro del equipo contrario intenta golpearlos con un trapo empapado en cerveza lanzado desde un palo, con reglas que varían enormemente de un pueblo a otro y que a menudo se inventan sobre la marcha."
+      }
+    }
   },
   {
     "id": "sports-187",
@@ -4172,7 +4536,21 @@
     "tags": [
       "welly-throwing",
       "england"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le lancer de bottes en caoutchouc a ses propres compétitions organisées à travers l'Europe du Nord.",
+        "fact": "Le welly wanging, ou lancer de bottes en caoutchouc, a débuté comme un passe-temps rural et est devenu une compétition organisée au Royaume-Uni et en Finlande, où les concurrents lancent des bottes en caoutchouc pour la distance."
+      },
+      "nl": {
+        "hook": "Het gooien met rubberen laarzen heeft zijn eigen georganiseerde wedstrijden in Noord-Europa.",
+        "fact": "Welly wanging, oftewel het gooien met regenlaarzen, begon als een landelijk tijdverdrijf en is uitgegroeid tot georganiseerde wedstrijden in het Verenigd Koninkrijk en Finland, waarbij deelnemers rubberen laarzen zo ver mogelijk proberen te gooien."
+      },
+      "es": {
+        "hook": "El lanzamiento de botas de goma tiene sus propias competiciones organizadas por el norte de Europa.",
+        "fact": "El welly wanging, o lanzamiento de botas de agua, empezó como un pasatiempo rural y se ha convertido en competiciones organizadas por el Reino Unido y Finlandia, donde los participantes lanzan botas de goma buscando la máxima distancia."
+      }
+    }
   },
   {
     "id": "sports-188",
@@ -4183,7 +4561,21 @@
       "sumo",
       "ritual",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les lutteurs de sumo lancent du sel avant chaque combat.",
+        "fact": "Dans le sumo professionnel, les rikishi lancent des poignées de sel dans le cercle avant un combat, un rituel de purification d'origine shinto censé chasser les mauvais esprits du dohyo et prévenir les blessures."
+      },
+      "nl": {
+        "hook": "Sumoworstelaars gooien zout voordat elk gevecht begint.",
+        "fact": "In het professionele sumo gooien rikishi voor een wedstrijd handenvol zout in de ring, een op het shintoïsme geworteld zuiveringsritueel bedoeld om kwade geesten uit de ring te verdrijven en blessures te voorkomen."
+      },
+      "es": {
+        "hook": "Los luchadores de sumo lanzan sal antes de cada combate.",
+        "fact": "En el sumo profesional, los rikishi arrojan puñados de sal al ring antes de un combate como un ritual de purificación de raíz sintoísta destinado a limpiar el ring de espíritus malignos y prevenir lesiones."
+      }
+    }
   },
   {
     "id": "sports-189",
@@ -4194,7 +4586,21 @@
       "sumo",
       "referee",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La tenue d'un arbitre de sumo indique en fait son rang, comme un uniforme militaire.",
+        "fact": "Le gyoji, l'arbitre du sumo, porte des robes traditionnelles élaborées dont la couleur et le motif indiquent son rang, et certains gyoji de haut rang portaient autrefois un poignard, symbole de leur volonté de mettre fin à leur carrière en cas d'erreur grave d'arbitrage."
+      },
+      "nl": {
+        "hook": "Het kostuum van een sumoscheidsrechter geeft eigenlijk zijn rang aan, net als een militair uniform.",
+        "fact": "De gyoji, de scheidsrechter van het sumo, draagt uitgebreide traditionele gewaden waarvan de kleur en het ontwerp zijn rang aangeven, en historisch droegen sommige hooggeplaatste gyoji een dolk als symbool van hun bereidheid hun carrière te beëindigen als ze een ernstige fout maakten."
+      },
+      "es": {
+        "hook": "El traje de un árbitro de sumo en realidad indica su rango, como un uniforme militar.",
+        "fact": "El gyoji, el árbitro del sumo, viste elaboradas túnicas tradicionales cuyo color y diseño indican su rango, y históricamente algunos gyoji de alto rango llevaban una daga que simbolizaba su disposición a poner fin a su carrera si cometían un error de arbitraje grave."
+      }
+    }
   },
   {
     "id": "sports-190",
@@ -4204,7 +4610,21 @@
     "tags": [
       "motorsport",
       "tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Du champagne a été aspergé sur un podium par accident, et c'est devenu une tradition mondiale.",
+        "fact": "La tradition aujourd'hui universelle d'asperger de champagne sur le podium d'une course remonterait souvent au pilote Dan Gurney, qui a secoué une bouteille et aspergé la foule après avoir remporté les 24 Heures du Mans en 1967."
+      },
+      "nl": {
+        "hook": "Champagne werd per ongeluk over een podium gespoten, en het werd een wereldwijde traditie.",
+        "fact": "De tegenwoordig universele traditie om champagne over een racepodium te spuiten, wordt vaak toegeschreven aan coureur Dan Gurney, die een fles schudde en het publiek natspoot na zijn overwinning bij de 24 uur van Le Mans in 1967."
+      },
+      "es": {
+        "hook": "Se roció champán en un podio por accidente, y se convirtió en una tradición mundial.",
+        "fact": "La ahora universal tradición de rociar champán en el podio de una carrera suele atribuirse al piloto Dan Gurney, que agitó una botella y roció a la multitud tras ganar las 24 Horas de Le Mans de 1967."
+      }
+    }
   },
   {
     "id": "sports-191",
@@ -4215,7 +4635,21 @@
       "haka",
       "rugby",
       "new-zealand"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'équipe de rugby de Nouvelle-Zélande exécute un défi cérémoniel avant le coup d'envoi, et les adversaires ont le droit d'y répondre.",
+        "fact": "Le haka exécuté par les équipes nationales de rugby néo-zélandaises avant les matchs internationaux est une danse cérémonielle traditionnelle maorie, et les équipes adverses ont parfois mis en scène leur propre formation ou réponse avant le début du match."
+      },
+      "nl": {
+        "hook": "Nieuw-Zeelands rugbyteam voert voor de aftrap een ceremoniële uitdaging uit, en tegenstanders mogen erop reageren.",
+        "fact": "De haka die de nationale rugbyteams van Nieuw-Zeeland voor internationale wedstrijden uitvoeren, is een traditionele ceremoniële Maori-dans, en tegenstanders hebben soms hun eigen opstelling of reactie erop opgevoerd voordat de wedstrijd begint."
+      },
+      "es": {
+        "hook": "El equipo de rugby de Nueva Zelanda ejecuta un desafío ceremonial antes del saque inicial, y los rivales pueden responder.",
+        "fact": "El haka que realizan los equipos nacionales de rugby de Nueva Zelanda antes de los partidos internacionales es una danza ceremonial tradicional maorí, y los equipos rivales en ocasiones han organizado su propia formación o respuesta antes de que comience el partido."
+      }
+    }
   },
   {
     "id": "sports-192",
@@ -4226,7 +4660,24 @@
     "tags": [
       "golf",
       "sportsmanship"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le golf est l'un des rares grands sports où l'on attend des joueurs qu'ils se pénalisent eux-mêmes.",
+        "fact": "Le golf repose en grande partie sur un système d'honneur où les joueurs signalent eux-mêmes leurs infractions au règlement, même lorsqu'aucun officiel ni adversaire n'en a été témoin, une tradition ancrée dans l'importance que ce sport accorde à l'intégrité personnelle.",
+        "whyItMatters": "Cette culture de l'autoarbitrage est souvent citée en exemple de ce qui manque à d'autres sports professionnels lorsqu'il s'agit de faire confiance aux joueurs pour se contrôler eux-mêmes."
+      },
+      "nl": {
+        "hook": "Golf is een van de weinige grote sporten waarbij van spelers wordt verwacht dat ze zichzelf bestraffen.",
+        "fact": "Golf steunt grotendeels op een erecode waarbij spelers zelf overtredingen van de regels melden, zelfs wanneer geen official of tegenstander de overtreding heeft gezien, een traditie die geworteld is in de nadruk die de sport legt op persoonlijke integriteit.",
+        "whyItMatters": "Deze cultuur van zelfarbitrage wordt vaak aangehaald als voorbeeld van wat andere proftaksporten missen als het gaat om vertrouwen dat spelers zichzelf controleren."
+      },
+      "es": {
+        "hook": "El golf es uno de los pocos grandes deportes en los que se espera que los jugadores se penalicen a sí mismos.",
+        "fact": "El golf se basa en gran medida en un sistema de honor en el que los jugadores declaran sus propias infracciones de las reglas, incluso cuando ningún árbitro ni rival ha presenciado la infracción, una tradición arraigada en el énfasis del deporte en la integridad personal.",
+        "whyItMatters": "Esta cultura de autoarbitraje se cita a menudo como ejemplo de lo que les falta a otros deportes profesionales a la hora de confiar en que los jugadores se vigilen a sí mismos."
+      }
+    }
   },
   {
     "id": "sports-193",
@@ -4236,7 +4687,21 @@
     "tags": [
       "curling",
       "sportsmanship"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les joueurs de curling doivent eux aussi signaler leurs propres fautes.",
+        "fact": "Connu sous le nom d'« esprit du curling », le règlement même de ce sport stipule explicitement qu'un joueur qui enfreint une règle, même sans témoin, est censé signaler l'infraction, reflet de la forte culture d'autoarbitrage de ce sport."
+      },
+      "nl": {
+        "hook": "Ook curlingspelers worden geacht overtredingen bij zichzelf te melden.",
+        "fact": "Bekend als de 'Spirit of Curling', stelt het eigen reglement van de sport expliciet dat een speler die een regel overtreedt, zelfs onopgemerkt, wordt geacht de overtreding te melden, wat de sterke cultuur van zelfarbitrage van de sport weerspiegelt."
+      },
+      "es": {
+        "hook": "Se espera que los jugadores de curling también señalen sus propias faltas.",
+        "fact": "Conocido como el 'Espíritu del Curling', el propio reglamento del deporte establece explícitamente que un jugador que infringe una regla, incluso sin ser advertido, debe declarar la infracción, lo que refleja la fuerte cultura de autoarbitraje del deporte."
+      }
+    }
   },
   {
     "id": "sports-194",
@@ -4246,7 +4711,21 @@
     "tags": [
       "tennis",
       "etymology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le tennis utilise le mot « love » pour désigner zéro, et personne n'en connaît vraiment la raison.",
+        "fact": "Une théorie populaire fait remonter l'usage du mot « love » pour désigner un score nul au tennis au mot français « l'œuf », symbolisant un zéro rond sur le tableau des scores, bien que cette étymologie soit débattue parmi les historiens."
+      },
+      "nl": {
+        "hook": "Bij tennis wordt het woord 'love' gebruikt voor nul punten, en niemand weet precies waarom.",
+        "fact": "Een populaire theorie herleidt het gebruik van 'love' voor een nulscore in tennis tot het Franse woord 'l'œuf' (ei), dat een rond nulletje op het scorebord symboliseert, al is deze etymologie omstreden onder historici."
+      },
+      "es": {
+        "hook": "El tenis usa la palabra 'love' para el cero, y nadie sabe con certeza por qué.",
+        "fact": "Una teoría popular atribuye el uso de 'love' para un marcador de cero en el tenis a la palabra francesa 'l'oeuf' (huevo), que simboliza un cero redondo en el marcador, aunque la etimología es objeto de debate entre los historiadores."
+      }
+    }
   },
   {
     "id": "sports-195",
@@ -4256,7 +4735,21 @@
     "tags": [
       "baseball",
       "unwritten-rules"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Voler un but avec une grosse avance peut valoir un regard noir au baseball, même si c'est parfaitement légal.",
+        "fact": "Le baseball possède une longue liste de règles non écrites, qui n'entraînent aucune sanction dans le règlement mais peuvent provoquer des représailles de la part des adversaires, comme voler un but ou faire un amorti pour interrompre un match sans coup sûr en fin de rencontre largement déséquilibrée."
+      },
+      "nl": {
+        "hook": "Een honk stelen met een grote voorsprong kan bij honkbal een boze blik opleveren, ook al is het volkomen legaal.",
+        "fact": "Honkbal kent een lange lijst ongeschreven regels die geen straf opleveren volgens het reglement, maar wel vergelding van tegenstanders kunnen uitlokken, zoals een honk stelen of een bunt slaan om laat in een eenzijdige wedstrijd een no-hitter te doorbreken."
+      },
+      "es": {
+        "hook": "Robar una base con una gran ventaja puede provocar una mirada de enfado en el béisbol, aunque sea perfectamente legal.",
+        "fact": "El béisbol tiene una larga lista de reglas no escritas que no conllevan sanción en el reglamento pero pueden provocar represalias de los rivales, como robar una base o hacer un toque de bola para interrumpir un no-hitter en la parte final de un partido muy desigual."
+      }
+    }
   },
   {
     "id": "sports-196",
@@ -4266,7 +4759,21 @@
     "tags": [
       "american-football",
       "tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les fans de football américain attrapent littéralement les joueurs qui sautent dans la foule.",
+        "fact": "Le « Lambeau Leap », initié par des joueurs des Green Bay Packers sautant dans les tribunes après un touchdown, est devenu une tradition célèbre où les fans sont censés rattraper le joueur et célébrer brièvement avec lui."
+      },
+      "nl": {
+        "hook": "Fans van American football vangen letterlijk spelers op die de menigte in springen.",
+        "fact": "De 'Lambeau Leap', ontstaan doordat spelers van de Green Bay Packers na touchdowns de tribune in sprongen, is een gevierde traditie geworden waarbij fans worden geacht de scorende speler op te vangen en kort met hem te vieren."
+      },
+      "es": {
+        "hook": "Los aficionados al fútbol americano literalmente atrapan a los jugadores que saltan a la grada.",
+        "fact": "El 'Lambeau Leap', iniciado por jugadores de los Green Bay Packers al saltar a las gradas tras un touchdown, se ha convertido en una tradición célebre en la que se espera que los aficionados atrapen al jugador anotador y celebren brevemente con él."
+      }
+    }
   },
   {
     "id": "sports-197",
@@ -4277,7 +4784,21 @@
       "sumo",
       "nutrition",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les lutteurs de sumo mangent un ragoût précis pour prendre du poids délibérément.",
+        "fact": "Le chanko nabe, un ragoût mijoté riche en protéines, est un pilier de l'alimentation des lutteurs de sumo, consommé en grande quantité avec du riz et de la bière dans le cadre d'une stratégie délibérée pour atteindre le gabarit requis par ce sport."
+      },
+      "nl": {
+        "hook": "Sumoworstelaars eten een specifieke stoofpot om doelbewust aan te komen.",
+        "fact": "Chanko nabe, een eiwitrijke hutspot, is een vast onderdeel van het dieet van sumoworstelaars, in grote hoeveelheden gegeten samen met rijst en bier als onderdeel van een doelbewuste strategie om het formaat op te bouwen dat de sport vereist."
+      },
+      "es": {
+        "hook": "Los luchadores de sumo comen un guiso específico para engordar a propósito.",
+        "fact": "El chanko nabe, un guiso rico en proteínas, es un pilar de la dieta del luchador de sumo, consumido en grandes cantidades junto con arroz y cerveza como parte de una estrategia deliberada para desarrollar el tamaño que exige el deporte."
+      }
+    }
   },
   {
     "id": "sports-198",
@@ -4287,7 +4808,21 @@
     "tags": [
       "fencing",
       "tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les escrimeurs se saluent avec leurs armes avant d'essayer de se marquer des points.",
+        "fact": "Avant et après chaque assaut, les escrimeurs doivent saluer leur adversaire et l'arbitre avec leur lame, un geste formel de respect hérité des origines duellistes de ce sport."
+      },
+      "nl": {
+        "hook": "Schermers groeten elkaar met hun wapens voordat ze proberen punten tegen elkaar te scoren.",
+        "fact": "Voor en na elke partij zijn schermers verplicht hun tegenstander en de scheidsrechter met hun wapen te groeten, een formeel gebaar van respect dat is overgeleverd uit de duellerende oorsprong van de sport."
+      },
+      "es": {
+        "hook": "Los esgrimistas se saludan con sus armas antes de intentar anotarse puntos mutuamente.",
+        "fact": "Antes y después de cada asalto, los esgrimistas deben saludar a su rival y al árbitro con su arma como gesto formal de respeto, una tradición heredada de los orígenes duelísticos del deporte."
+      }
+    }
   },
   {
     "id": "sports-199",
@@ -4297,7 +4832,21 @@
     "tags": [
       "judo",
       "tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les judokas s'inclinent avant de monter sur le tatami, puis de nouveau avant de le quitter.",
+        "fact": "L'étiquette du judo exige que les compétiteurs s'inclinent en entrant et en sortant de l'aire de compétition, puis de nouveau devant leur adversaire avant et après un combat, ce qui reflète les racines de ce sport dans le respect et la discipline."
+      },
+      "nl": {
+        "hook": "Judoka's buigen voordat ze de mat betreden, en opnieuw voordat ze hem verlaten.",
+        "fact": "De judo-etiquette vereist dat deelnemers buigen bij het betreden en verlaten van het wedstrijdgebied, en opnieuw voor hun tegenstander voor en na een partij, wat de wortels van de sport in respect en discipline weerspiegelt."
+      },
+      "es": {
+        "hook": "Los judocas hacen una reverencia antes de pisar el tatami, y otra antes de abandonarlo.",
+        "fact": "La etiqueta del judo exige que los competidores hagan una reverencia al entrar y salir del área de competición, y otra a su rival antes y después de un combate, lo que refleja las raíces del deporte en el respeto y la disciplina."
+      }
+    }
   },
   {
     "id": "sports-200",
@@ -4307,6 +4856,20 @@
     "tags": [
       "cricket",
       "tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le cricket intègre une pause thé programmée dans un match de cinq jours.",
+        "fact": "Dans le cricket-test, le jeu est interrompu chaque jour pour une pause thé officielle, une tradition qui remonte aux origines anglaises de ce sport, à côté d'une pause déjeuner distincte, structurant la journée autant autour des repas que des manches."
+      },
+      "nl": {
+        "hook": "Cricket heeft een geplande theepauze ingebouwd in een wedstrijd van vijf dagen.",
+        "fact": "Bij testcricket wordt het spel elke dag onderbroken voor een formele theepauze, een traditie die teruggaat op de Engelse oorsprong van de sport, naast een aparte lunchpauze, waardoor de dag net zo goed rond maaltijden als rond innings is gestructureerd."
+      },
+      "es": {
+        "hook": "El críquet incluye una pausa para el té programada dentro de un partido de cinco días.",
+        "fact": "En el críquet de test, el juego se detiene cada día para una pausa formal del té, una tradición que se remonta a los orígenes ingleses del deporte, junto con una pausa de almuerzo aparte, que estructura el día tanto en torno a las comidas como a las entradas."
+      }
+    }
   }
 ]
