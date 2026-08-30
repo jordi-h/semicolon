@@ -3641,7 +3641,21 @@
     "tags": [
       "space",
       "soviet-union"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier homme dans l'espace a fait le tour de la Terre en moins de deux heures.",
+        "fact": "Le cosmonaute soviétique Youri Gagarine est devenu le premier homme à voyager dans l'espace en avril 1961, bouclant une orbite complète autour de la Terre en environ 108 minutes à bord de Vostok 1."
+      },
+      "nl": {
+        "hook": "De eerste mens in de ruimte cirkelde in minder dan twee uur om de aarde.",
+        "fact": "De Sovjet-kosmonaut Joeri Gagarin werd in april 1961 de eerste mens in de ruimte. Aan boord van de Vostok 1 legde hij één omwenteling rond de aarde af in ongeveer 108 minuten."
+      },
+      "es": {
+        "hook": "El primer ser humano en el espacio dio la vuelta a la Tierra en menos de dos horas.",
+        "fact": "El cosmonauta soviético Yuri Gagarin se convirtió en el primer ser humano en viajar al espacio en abril de 1961, completando una única órbita alrededor de la Tierra en unos 108 minutos a bordo de la Vostok 1."
+      }
+    }
   },
   {
     "id": "history-198",
@@ -3651,7 +3665,21 @@
     "tags": [
       "south-africa",
       "apartheid"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Afrique du Sud de l'apartheid a emprisonné son futur président pendant 27 ans.",
+        "fact": "Nelson Mandela est incarcéré en 1962 et passe 27 ans derrière les barreaux, en grande partie sur l'île de Robben, pour son combat contre le régime d'apartheid sud-africain, avant sa libération en 1990 et son élection à la présidence en 1994."
+      },
+      "nl": {
+        "hook": "Het apartheidsregime in Zuid-Afrika zette zijn toekomstige president 27 jaar vast.",
+        "fact": "Nelson Mandela werd in 1962 gevangengezet en bracht 27 jaar achter de tralies door, grotendeels op Robbeneiland, vanwege zijn verzet tegen het Zuid-Afrikaanse apartheidssysteem. In 1990 kwam hij vrij en in 1994 werd hij tot president verkozen."
+      },
+      "es": {
+        "hook": "La Sudáfrica del apartheid encarceló a su futuro presidente durante 27 años.",
+        "fact": "Nelson Mandela fue encarcelado en 1962 y pasó 27 años entre rejas, la mayor parte en la isla de Robben, por su lucha contra el sistema de apartheid sudafricano, antes de ser liberado en 1990 y elegido presidente en 1994."
+      }
+    }
   },
   {
     "id": "history-199",
@@ -3661,7 +3689,21 @@
     "tags": [
       "south-africa",
       "apartheid"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La police sud-africaine a tué des dizaines de manifestants pacifiques lors d'un seul rassemblement en 1960.",
+        "fact": "Lors du massacre de Sharpeville, en mars 1960, la police sud-africaine a ouvert le feu sur une foule qui protestait contre les lois sur les laissez-passer de l'apartheid, tuant 69 personnes et suscitant une condamnation internationale du régime."
+      },
+      "nl": {
+        "hook": "De Zuid-Afrikaanse politie doodde tientallen vreedzame betogers tijdens één bijeenkomst in 1960.",
+        "fact": "Bij het bloedbad van Sharpeville in maart 1960 opende de Zuid-Afrikaanse politie het vuur op een menigte die demonstreerde tegen de pasjeswetten van de apartheid. Er vielen 69 doden, en het regime werd wereldwijd veroordeeld."
+      },
+      "es": {
+        "hook": "La policía sudafricana mató a decenas de manifestantes pacíficos en una sola concentración de 1960.",
+        "fact": "En la masacre de Sharpeville, en marzo de 1960, la policía sudafricana abrió fuego contra una multitud que protestaba contra las leyes de pases del apartheid: murieron 69 personas y el régimen fue condenado internacionalmente."
+      }
+    }
   },
   {
     "id": "history-200",
@@ -3671,6 +3713,20 @@
     "tags": [
       "cambodia",
       "genocide"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le régime au pouvoir au Cambodge a tenté de vider sa propre capitale du jour au lendemain.",
+        "fact": "Après avoir pris le pouvoir en 1975, les Khmers rouges ont chassé en quelques jours toute la population de Phnom Penh vers les campagnes, dans le cadre d'une révolution agraire radicale qui a coûté la vie à environ 1,5 à 2 millions de Cambodgiens."
+      },
+      "nl": {
+        "hook": "Het regime in Cambodja probeerde zijn eigen hoofdstad van de ene op de andere dag leeg te maken.",
+        "fact": "Na de machtsovername in 1975 dreven de Rode Khmer binnen enkele dagen de volledige bevolking van Phnom Penh het platteland op, als onderdeel van een radicale agrarische revolutie die naar schatting 1,5 tot 2 miljoen Cambodjanen het leven kostte."
+      },
+      "es": {
+        "hook": "El régimen que gobernaba Camboya intentó vaciar su propia capital de la noche a la mañana.",
+        "fact": "Tras tomar el poder en 1975, los Jemeres Rojos obligaron a toda la población de Nom Pen a marcharse al campo en cuestión de días, como parte de una revolución agraria radical que causó la muerte de entre 1,5 y 2 millones de camboyanos."
+      }
+    }
   }
 ]

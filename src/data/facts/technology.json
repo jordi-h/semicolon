@@ -2852,7 +2852,21 @@
     "tags": [
       "invention",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Velcro est né d'une promenade en forêt.",
+        "fact": "L'ingénieur suisse George de Mestral a eu l'idée du Velcro en 1941 en remarquant que des bardanes s'accrochaient au pelage de son chien et à ses vêtements. Il a étudié leurs crochets au microscope et a breveté la fermeture à crochets et boucles en 1955."
+      },
+      "nl": {
+        "hook": "Klittenband ontstond tijdens een boswandeling.",
+        "fact": "De Zwitserse ingenieur George de Mestral kreeg het idee voor klittenband in 1941, toen hij zag hoe klissen aan de vacht van zijn hond en aan zijn kleren bleven hangen. Hij bestudeerde de haakjes onder de microscoop en patenteerde de haak-en-lussluiting in 1955."
+      },
+      "es": {
+        "hook": "El velcro nació de un paseo por el bosque.",
+        "fact": "El ingeniero suizo George de Mestral tuvo la idea del velcro en 1941 al notar cómo los abrojos se pegaban al pelo de su perro y a su ropa. Estudió sus ganchos al microscopio y patentó el cierre de gancho y bucle en 1955."
+      }
+    }
   },
   {
     "id": "technology-119",
@@ -2862,7 +2876,21 @@
     "tags": [
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le four à micro-ondes est né d'un accident.",
+        "fact": "En 1945, l'ingénieur Percy Spencer testait un magnétron destiné à un radar lorsque la barre de chocolat dans sa poche a fondu. Il a ensuite essayé de faire éclater du maïs avec l'appareil, puis a mis au point le premier four à micro-ondes."
+      },
+      "nl": {
+        "hook": "De magnetron is bij toeval uitgevonden.",
+        "fact": "In 1945 testte ingenieur Percy Spencer een magnetron voor radarapparatuur toen een reep chocolade in zijn zak smolt. Vervolgens probeerde hij er popcorn mee te poffen en ontwikkelde hij de eerste magnetronoven."
+      },
+      "es": {
+        "hook": "El microondas se inventó por accidente.",
+        "fact": "En 1945, el ingeniero Percy Spencer probaba un magnetrón para equipos de radar cuando se le derritió una barra de chocolate en el bolsillo. Después probó a hacer palomitas con el aparato y acabó desarrollando el primer horno microondas."
+      }
+    }
   },
   {
     "id": "technology-120",
@@ -2872,7 +2900,21 @@
     "tags": [
       "invention",
       "packaging"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le papier bulle devait servir de papier peint.",
+        "fact": "En 1957, les ingénieurs Alfred Fielding et Marc Chavannes ont soudé deux rideaux de douche pour obtenir une feuille de plastique texturée, qu'ils comptaient vendre comme papier peint en relief. Elle a finalement trouvé sa vraie vocation dans l'emballage de protection."
+      },
+      "nl": {
+        "hook": "Bubbeltjesplastic was bedoeld als behang.",
+        "fact": "In 1957 lasten de ingenieurs Alfred Fielding en Marc Chavannes twee douchegordijnen aan elkaar tot een geribbeld plastic vel, dat ze als reliëfbehang wilden verkopen. Pas later vond het zijn echte bestemming als beschermend verpakkingsmateriaal."
+      },
+      "es": {
+        "hook": "El plástico de burbujas iba a ser papel pintado.",
+        "fact": "En 1957, los ingenieros Alfred Fielding y Marc Chavannes sellaron dos cortinas de ducha para crear una lámina de plástico texturizada que pensaban vender como papel pintado en relieve. Más tarde encontró su verdadero uso como embalaje protector."
+      }
+    }
   },
   {
     "id": "technology-121",
@@ -2882,7 +2924,21 @@
     "tags": [
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le nom du WD-40 vient de ses échecs, pas de son succès.",
+        "fact": "Le nom du lubrifiant signifie « Water Displacement, 40th formula », soit « déplacement de l'eau, 40e formule » : la 40e tentative d'une petite entreprise californienne, en 1953, pour créer un solvant antirouille qui fonctionne vraiment."
+      },
+      "nl": {
+        "hook": "WD-40 dankt zijn naam aan mislukkingen, niet aan succes.",
+        "fact": "De naam van het smeermiddel staat voor 'Water Displacement, 40th formula' — de veertigste poging van een klein Californisch bedrijf in 1953 om een roestwerend oplosmiddel te maken dat echt werkte."
+      },
+      "es": {
+        "hook": "El nombre de WD-40 viene de sus fracasos, no de su éxito.",
+        "fact": "El nombre del lubricante significa 'Water Displacement, 40th formula' (desplazamiento de agua, fórmula 40): el intento número 40 de una pequeña empresa californiana, en 1953, de crear un disolvente antioxidante que de verdad funcionara."
+      }
+    }
   },
   {
     "id": "technology-122",
@@ -2892,7 +2948,21 @@
     "tags": [
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Post-it est né d'une colle qui ne collait pas assez.",
+        "fact": "En 1968, un chercheur de 3M qui travaillait sur des adhésifs puissants a créé à la place une colle faiblement adhésive et réutilisable, jugée inutile — jusqu'à ce qu'un collègue s'en serve pour empêcher ses marque-pages de tomber de son recueil de cantiques. Le Post-it est né de là, en 1980."
+      },
+      "nl": {
+        "hook": "De Post-it kwam voort uit lijm die niet plakkerig genoeg was.",
+        "fact": "Een 3M-wetenschapper die in 1968 aan sterke lijmsoorten werkte, maakte in plaats daarvan een zwak klevende, herbruikbare lijm die nutteloos leek — tot een collega er zijn bladwijzers mee op hun plek hield in een liedboek. Dat leidde in 1980 tot de Post-it."
+      },
+      "es": {
+        "hook": "El Post-it surgió de un pegamento que no pegaba lo suficiente.",
+        "fact": "Un científico de 3M que en 1968 desarrollaba adhesivos potentes creó en su lugar un pegamento reutilizable de baja adherencia que parecía inútil, hasta que un colega lo usó para que los marcapáginas no se le cayeran del cantoral. Así nació el Post-it en 1980."
+      }
+    }
   },
   {
     "id": "technology-123",
@@ -2902,7 +2972,21 @@
     "tags": [
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La fermeture éclair a mis près de 80 ans à s'imposer.",
+        "fact": "Un premier système de fermeture à glissière a été breveté en 1851, mais il a fallu attendre 1913 et Gideon Sundback pour obtenir une fermeture éclair fiable et pratique, qui ne s'est généralisée dans les vêtements que dans les années 1930."
+      },
+      "nl": {
+        "hook": "De ritssluiting had bijna 80 jaar nodig om aan te slaan.",
+        "fact": "Al in 1851 werd een vroege schuifsluiting gepatenteerd, maar pas in 1913 perfectioneerde Gideon Sundback een betrouwbare, praktische rits, en pas in de jaren dertig werd die op grote schaal in kleding gebruikt."
+      },
+      "es": {
+        "hook": "La cremallera tardó casi 80 años en imponerse.",
+        "fact": "En 1851 se patentó un primer cierre deslizante, pero hasta 1913 Gideon Sundback no perfeccionó una cremallera fiable y práctica, y no se usó de forma generalizada en la ropa hasta los años treinta."
+      }
+    }
   },
   {
     "id": "technology-124",
@@ -2912,7 +2996,21 @@
     "tags": [
       "materials",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La bakélite fut le premier plastique entièrement synthétique.",
+        "fact": "Le chimiste Leo Baekeland a créé la bakélite en 1907 à partir de dérivés d'énergies fossiles, ce qui en fait le premier plastique composé uniquement d'éléments synthétiques, et non de matériaux naturels modifiés."
+      },
+      "nl": {
+        "hook": "Bakeliet was de eerste volledig synthetische kunststof.",
+        "fact": "Chemicus Leo Baekeland maakte bakeliet in 1907 uit derivaten van fossiele brandstoffen. Daarmee was het de eerste kunststof die volledig uit synthetische componenten bestond in plaats van uit bewerkte natuurlijke materialen."
+      },
+      "es": {
+        "hook": "La baquelita fue el primer plástico totalmente sintético.",
+        "fact": "El químico Leo Baekeland creó la baquelita en 1907 a partir de derivados de combustibles fósiles, lo que la convirtió en el primer plástico hecho íntegramente con componentes sintéticos y no con materiales naturales modificados."
+      }
+    }
   },
   {
     "id": "technology-125",
@@ -2923,7 +3021,24 @@
     "tags": [
       "materials",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Kevlar devait à l'origine remplacer l'acier dans les pneus.",
+        "fact": "La chimiste Stephanie Kwolek a découvert cette fibre ultrarésistante chez DuPont en 1965, alors qu'elle cherchait des matériaux légers pour les pneus. Elle est devenue célèbre par la suite pour son usage dans les gilets pare-balles.",
+        "whyItMatters": "La fibre qu'elle a découverte a depuis sauvé des milliers de vies en équipant policiers et soldats de gilets de protection."
+      },
+      "nl": {
+        "hook": "Kevlar was oorspronkelijk bedoeld om staal in autobanden te vervangen.",
+        "fact": "Chemicus Stephanie Kwolek ontdekte de supersterke vezel in 1965 bij DuPont tijdens onderzoek naar lichtgewicht materialen voor banden. Later werd de vezel vooral bekend van kogelwerende vesten.",
+        "whyItMatters": "De vezel die zij ontdekte heeft sindsdien duizenden levens gered als lichaamsbescherming voor politie en militairen."
+      },
+      "es": {
+        "hook": "El kevlar se creó para sustituir al acero en los neumáticos.",
+        "fact": "La química Stephanie Kwolek descubrió esta fibra superresistente en DuPont en 1965 mientras investigaba materiales ligeros para neumáticos. Después se hizo famosa por su uso en chalecos antibalas.",
+        "whyItMatters": "La fibra que descubrió ha salvado desde entonces miles de vidas como blindaje corporal para policías y soldados."
+      }
+    }
   },
   {
     "id": "technology-126",
@@ -2933,7 +3048,21 @@
     "tags": [
       "materials",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Téflon aussi est une découverte accidentelle.",
+        "fact": "Le chimiste Roy Plunkett a découvert le polymère antiadhésif PTFE (Téflon) en 1938 : une bouteille de gaz qu'il croyait vide contenait en réalité un étrange résidu solide et glissant."
+      },
+      "nl": {
+        "hook": "Teflon was óók een toevalstreffer.",
+        "fact": "Chemicus Roy Plunkett ontdekte het antiaanbakpolymeer PTFE (teflon) in 1938, toen een gasfles die leeg had moeten zijn een vreemd, glibberig vast residu bleek te bevatten."
+      },
+      "es": {
+        "hook": "El teflón fue otro hallazgo accidental.",
+        "fact": "El químico Roy Plunkett descubrió el polímero antiadherente PTFE (teflón) en 1938, cuando una bombona de gas supuestamente vacía resultó contener un extraño residuo sólido y resbaladizo."
+      }
+    }
   },
   {
     "id": "technology-127",
@@ -2943,7 +3072,21 @@
     "tags": [
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ouvre-boîte n'est arrivé que des décennies après la boîte de conserve.",
+        "fact": "Les boîtes de conserve en fer-blanc ont été brevetées en 1810, mais il a fallu attendre 1858 pour un ouvre-boîte vraiment pratique : pendant près de 50 ans, on les ouvrait au marteau, au burin ou à la baïonnette."
+      },
+      "nl": {
+        "hook": "De blikopener kwam pas decennia na het conservenblik.",
+        "fact": "Blikken voor voedselconservering werden in 1810 gepatenteerd, maar een praktische blikopener kwam er pas in 1858. Bijna vijftig jaar lang openden mensen blikken met een hamer, een beitel of een bajonet."
+      },
+      "es": {
+        "hook": "El abrelatas llegó décadas después que la lata.",
+        "fact": "Las latas de conserva se patentaron en 1810, pero hasta 1858 no se inventó un abrelatas práctico: durante casi 50 años la gente abría las latas con martillos, cinceles o bayonetas."
+      }
+    }
   },
   {
     "id": "technology-128",
@@ -2953,7 +3096,21 @@
     "tags": [
       "invention",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le verre de sécurité doit sa naissance à un heureux accident de laboratoire.",
+        "fact": "En 1903, le chimiste français Édouard Bénédictus remarqua qu'un ballon en verre tombé au sol, recouvert d'un film plastique séché, s'était fissuré sans se briser en éclats. Cette observation le conduisit à mettre au point le verre feuilleté de sécurité, utilisé plus tard dans les pare-brise."
+      },
+      "nl": {
+        "hook": "Veiligheidsglas dankt zijn bestaan aan een gelukkig laboratoriumongelukje.",
+        "fact": "De Franse chemicus Édouard Bénédictus merkte in 1903 dat een gevallen glazen kolf met een opgedroogd plasticlaagje wel barstte, maar niet uiteenspatte. Die waarneming bracht hem tot de ontwikkeling van gelaagd veiligheidsglas, later gebruikt in autoruiten."
+      },
+      "es": {
+        "hook": "El vidrio de seguridad nació de un afortunado accidente de laboratorio.",
+        "fact": "En 1903, el químico francés Édouard Bénédictus observó que un matraz de vidrio que se le cayó, recubierto de una película plástica seca, se agrietó pero no se hizo añicos. Esa observación le llevó a desarrollar el vidrio laminado de seguridad, usado después en los parabrisas."
+      }
+    }
   },
   {
     "id": "technology-129",
@@ -2963,7 +3120,21 @@
     "tags": [
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le fil de fer barbelé a contribué à refermer la frontière américaine.",
+        "fact": "Breveté par Joseph Glidden en 1874, le fil barbelé a permis de clôturer la grande prairie à moindre coût et de façon efficace, transformant rapidement l'usage des terres et l'élevage bovin dans l'Ouest américain."
+      },
+      "nl": {
+        "hook": "Prikkeldraad hielp de Amerikaanse frontier te sluiten.",
+        "fact": "Prikkeldraad, in 1874 gepatenteerd door Joseph Glidden, maakte goedkope en doeltreffende omheiningen op de open prairie mogelijk en veranderde het landgebruik en de veeteelt in het Amerikaanse Westen razendsnel."
+      },
+      "es": {
+        "hook": "El alambre de púas ayudó a cerrar la frontera estadounidense.",
+        "fact": "Patentado por Joseph Glidden en 1874, el alambre de púas permitió vallar la pradera abierta de forma barata y eficaz, y transformó rápidamente el uso de la tierra y la ganadería en el Oeste americano."
+      }
+    }
   },
   {
     "id": "technology-130",
@@ -2973,7 +3144,21 @@
     "tags": [
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le stylo à bille a mis des décennies à fonctionner correctement.",
+        "fact": "László Bíró a breveté en 1938 un stylo à bille réellement utilisable, grâce à une encre à séchage rapide inspirée de celle des journaux. Il résolvait ainsi des décennies de fuites et de bavures qui plombaient les tentatives antérieures, remontant aux années 1880."
+      },
+      "nl": {
+        "hook": "De balpen worstelde decennialang voordat hij betrouwbaar werkte.",
+        "fact": "László Bíró patenteerde in 1938 een bruikbaar balpenontwerp met sneldrogende krantendrukinkt. Daarmee loste hij de lekkages en vlekken op die eerdere pogingen sinds de jaren 1880 hadden geplaagd."
+      },
+      "es": {
+        "hook": "El bolígrafo tardó décadas en funcionar de forma fiable.",
+        "fact": "László Bíró patentó en 1938 un diseño práctico de bolígrafo con tinta de secado rápido, como la de los periódicos, resolviendo décadas de fugas y manchas que habían arruinado los intentos anteriores desde los años 1880."
+      }
+    }
   },
   {
     "id": "technology-131",
@@ -2983,7 +3168,21 @@
     "tags": [
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les allumettes modernes ne datent que des années 1820.",
+        "fact": "Avant l'invention des allumettes à friction, vers 1826, par le chimiste anglais John Walker, on faisait du feu avec un silex et un briquet à acier, avec des mélanges chimiques, ou en transportant des braises."
+      },
+      "nl": {
+        "hook": "Moderne lucifers bestaan pas sinds de jaren 1820.",
+        "fact": "Voordat de Engelse chemicus John Walker rond 1826 de strijklucifer uitvond, maakten mensen vuur met vuursteen en staal, met chemische mengsels, of door gloeiende kolen mee te dragen."
+      },
+      "es": {
+        "hook": "Las cerillas modernas solo datan de la década de 1820.",
+        "fact": "Antes de que el químico inglés John Walker inventara las cerillas de fricción hacia 1826, la gente encendía fuego con pedernal y acero, con mezclas químicas o transportando brasas."
+      }
+    }
   },
   {
     "id": "technology-132",
@@ -2993,7 +3192,21 @@
     "tags": [
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le lave-vaisselle a été inventé par une femme lassée de voir ses domestiques ébrécher sa porcelaine.",
+        "fact": "Josephine Cochrane a breveté un lave-vaisselle mécanique en 1886, en partie exaspérée de voir sa belle vaisselle abîmée par le lavage à la main. Elle a ensuite fondé une entreprise qui a fini par intégrer KitchenAid."
+      },
+      "nl": {
+        "hook": "De vaatwasser werd bedacht door een vrouw die het beu was dat haar personeel haar porselein beschadigde.",
+        "fact": "Josephine Cochrane patenteerde in 1886 een mechanische vaatwasser, deels uit ergernis dat haar fijne servies bij het handmatig afwassen steeds beschadigd raakte. Later richtte ze een bedrijf op dat onderdeel werd van KitchenAid."
+      },
+      "es": {
+        "hook": "El lavavajillas lo inventó una mujer harta de que el servicio le desportillara la porcelana.",
+        "fact": "Josephine Cochrane patentó un lavavajillas mecánico en 1886, en parte por la frustración de que el lavado a mano le estropeara la vajilla fina. Después fundó una empresa que acabó formando parte de KitchenAid."
+      }
+    }
   },
   {
     "id": "technology-133",
@@ -3003,7 +3216,21 @@
     "tags": [
       "engineering",
       "landmarks"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La tour Eiffel grandit en été.",
+        "fact": "La chaleur dilate la structure en fer : la tour Eiffel peut mesurer jusqu'à environ 15 centimètres de plus pendant les mois chauds de l'été qu'en hiver."
+      },
+      "nl": {
+        "hook": "De Eiffeltoren wordt in de zomer hoger.",
+        "fact": "Door de warmte zet de ijzeren constructie uit, waardoor de Eiffeltoren tijdens hete zomermaanden tot zo'n 15 centimeter hoger is dan in de winter."
+      },
+      "es": {
+        "hook": "La Torre Eiffel crece en verano.",
+        "fact": "El calor dilata la estructura de hierro, de modo que la Torre Eiffel llega a medir unos 15 centímetros más durante los meses calurosos del verano que en invierno."
+      }
+    }
   },
   {
     "id": "technology-134",
@@ -3013,7 +3240,21 @@
     "tags": [
       "engineering",
       "construction"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le barrage Hoover a englouti assez de béton pour paver une autoroute d'un bout à l'autre du pays.",
+        "fact": "Achevé en 1936, le barrage contient environ 3,25 millions de yards cubes (près de 2,5 millions de mètres cubes) de béton. Les ingénieurs ont noyé des tuyaux de refroidissement dans la coulée, car une masse solide de cette taille aurait mis plus d'un siècle à refroidir naturellement."
+      },
+      "nl": {
+        "hook": "In de Hooverdam ging genoeg beton om een snelweg dwars door het land aan te leggen.",
+        "fact": "De dam, voltooid in 1936, bevat ongeveer 3,25 miljoen kubieke yard (zo'n 2,5 miljoen kubieke meter) beton. Ingenieurs legden overal koelbuizen in het gestorte beton, omdat een massief blok van dat formaat er van nature meer dan een eeuw over zou doen om af te koelen."
+      },
+      "es": {
+        "hook": "La presa Hoover usó hormigón suficiente para pavimentar una autopista de costa a costa.",
+        "fact": "Terminada en 1936, la presa contiene unos 3,25 millones de yardas cúbicas (cerca de 2,5 millones de metros cúbicos) de hormigón. Los ingenieros incrustaron tuberías de refrigeración por todo el vertido, porque una masa sólida de ese tamaño habría tardado más de un siglo en enfriarse de forma natural."
+      }
+    }
   },
   {
     "id": "technology-135",
@@ -3023,7 +3264,21 @@
     "tags": [
       "engineering",
       "bridges"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le concepteur du pont de Brooklyn ne l'a jamais vu achevé.",
+        "fact": "L'ingénieur John A. Roebling est mort des suites d'une blessure liée au chantier avant même le début des travaux, en 1869. Son fils Washington Roebling a pris la relève, puis a été handicapé par un accident de décompression dû au travail dans les caissons ; il a dirigé l'achèvement du pont, en 1883, depuis la fenêtre de son appartement."
+      },
+      "nl": {
+        "hook": "De ontwerper van de Brooklyn Bridge heeft de brug nooit af gezien.",
+        "fact": "Ingenieur John A. Roebling stierf aan een verwonding die met de bouw te maken had, nog voor de werken in 1869 begonnen. Zijn zoon Washington Roebling nam het over, raakte later invalide door caissonziekte, en leidde de voltooiing van de brug in 1883 vanuit het raam van zijn appartement."
+      },
+      "es": {
+        "hook": "El diseñador del puente de Brooklyn nunca lo vio terminado.",
+        "fact": "El ingeniero John A. Roebling murió por una lesión relacionada con la obra antes de que empezaran los trabajos en 1869. Su hijo Washington Roebling tomó el relevo, quedó luego incapacitado por la enfermedad descompresiva del trabajo en los cajones, y dirigió la finalización del puente en 1883 observando desde la ventana de su apartamento."
+      }
+    }
   },
   {
     "id": "technology-136",
@@ -3034,7 +3289,24 @@
     "tags": [
       "engineering",
       "bridges"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le pont de Tacoma Narrows s'est effondré à cause du vent, pas du poids.",
+        "fact": "En 1940, le premier pont de Tacoma Narrows s'est disloqué en se tordant sous des vents modérés, à cause d'une instabilité aérodynamique. Cet échec célèbre a transformé la façon dont les ingénieurs étudient l'effet du vent sur les ponts suspendus.",
+        "whyItMatters": "Cet effondrement a directement modifié les normes internationales de conception des ponts en matière de résistance au vent."
+      },
+      "nl": {
+        "hook": "De Tacoma Narrows Bridge bezweek door wind, niet door gewicht.",
+        "fact": "In 1940 draaide de oorspronkelijke Tacoma Narrows Bridge zichzelf kapot bij matige wind, door aerodynamische instabiliteit. Dat beruchte falen veranderde de manier waarop ingenieurs windeffecten op hangbruggen bestuderen.",
+        "whyItMatters": "De instorting veranderde rechtstreeks de internationale ontwerpnormen voor de windbestendigheid van bruggen."
+      },
+      "es": {
+        "hook": "El puente de Tacoma Narrows se derrumbó por el viento, no por el peso.",
+        "fact": "En 1940, el puente original de Tacoma Narrows se retorció hasta destrozarse con vientos moderados debido a una inestabilidad aerodinámica, un fallo célebre que cambió la forma en que los ingenieros estudian el efecto del viento en los puentes colgantes.",
+        "whyItMatters": "El derrumbe cambió directamente las normas internacionales de diseño de puentes en cuanto a resistencia al viento."
+      }
+    }
   },
   {
     "id": "technology-137",
@@ -3044,7 +3316,21 @@
     "tags": [
       "engineering",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le béton romain se renforce avec le temps dans l'eau de mer.",
+        "fact": "Le béton marin de la Rome antique, à base de cendres volcaniques, se renforce en réalité au fil des siècles, à mesure que l'eau de mer réagit avec ses minéraux — une durabilité que le béton moderne n'égale généralement pas."
+      },
+      "nl": {
+        "hook": "Romeins beton wordt in zeewater juist sterker.",
+        "fact": "Antiek Romeins zeebeton, gemaakt met vulkanische as, blijkt door de eeuwen heen sterker te worden doordat zeewater met de mineralen reageert — een duurzaamheid die modern beton doorgaans niet haalt."
+      },
+      "es": {
+        "hook": "El hormigón romano se hace más fuerte con el tiempo en agua de mar.",
+        "fact": "El hormigón marino de la antigua Roma, hecho con ceniza volcánica, se refuerza a lo largo de los siglos a medida que el agua de mar reacciona con sus minerales, una durabilidad que el hormigón moderno no suele igualar."
+      }
+    }
   },
   {
     "id": "technology-138",
@@ -3054,7 +3340,21 @@
     "tags": [
       "engineering",
       "transportation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le canal de Panama épargne aux navires des milliers de kilomètres.",
+        "fact": "Sans le canal, un navire reliant New York à San Francisco devrait contourner la pointe sud de l'Amérique du Sud — un trajet que le canal, achevé en 1914, raccourcit d'environ 8 000 milles (quelque 13 000 kilomètres)."
+      },
+      "nl": {
+        "hook": "Het Panamakanaal bespaart schepen duizenden zeemijlen.",
+        "fact": "Zonder het kanaal zou een schip tussen New York en San Francisco om de zuidpunt van Zuid-Amerika moeten varen — een route die het kanaal, voltooid in 1914, met zo'n 8.000 mijl (ruim 13.000 kilometer) inkort."
+      },
+      "es": {
+        "hook": "El Canal de Panamá ahorra a los barcos miles de kilómetros de navegación.",
+        "fact": "Sin el canal, un barco que fuera de Nueva York a San Francisco tendría que rodear el extremo sur de Sudamérica, una ruta que el canal, terminado en 1914, acorta en unas 8.000 millas (unos 13.000 kilómetros)."
+      }
+    }
   },
   {
     "id": "technology-139",
@@ -3064,7 +3364,21 @@
     "tags": [
       "engineering",
       "infrastructure"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Londres a construit ses égouts quand les députés n'ont plus supporté l'odeur.",
+        "fact": "La « Grande Puanteur » de 1858, lorsque la Tamise polluée a empesté le Parlement, a enfin poussé les élus à financer l'immense réseau d'égouts de l'ingénieur Joseph Bazalgette, qui a fait reculer les épidémies de choléra dans la ville."
+      },
+      "nl": {
+        "hook": "Londen bouwde zijn riolering pas toen politici de stank niet meer verdroegen.",
+        "fact": "De 'Great Stink' van 1858, toen de vervuilde Theems het parlement met zijn stank overspoelde, bracht de wetgevers er eindelijk toe het enorme rioolnetwerk van ingenieur Joseph Bazalgette te financieren, dat de cholera-uitbraken in de stad terugdrong."
+      },
+      "es": {
+        "hook": "Londres construyó su alcantarillado cuando los políticos ya no soportaron el olor.",
+        "fact": "El 'Gran Hedor' de 1858, cuando el Támesis contaminado inundó el Parlamento con su peste, empujó por fin a los legisladores a financiar la enorme red de alcantarillado del ingeniero Joseph Bazalgette, que frenó los brotes de cólera en la ciudad."
+      }
+    }
   },
   {
     "id": "technology-140",
@@ -3074,7 +3388,21 @@
     "tags": [
       "engineering",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les dômes géodésiques tirent leur solidité des triangles, pas des courbes.",
+        "fact": "Popularisés par Buckminster Fuller au milieu du XXe siècle, les dômes géodésiques répartissent uniformément les contraintes sur un maillage de triangles, ce qui leur permet de couvrir de grands volumes avec très peu de matière structurelle par rapport à leur taille."
+      },
+      "nl": {
+        "hook": "Geodetische koepels ontlenen hun sterkte aan driehoeken, niet aan rondingen.",
+        "fact": "Geodetische koepels, in het midden van de twintigste eeuw populair gemaakt door Buckminster Fuller, verdelen de krachten gelijkmatig over een raster van driehoeken. Daardoor overspannen ze grote volumes met bijzonder weinig constructiemateriaal voor hun omvang."
+      },
+      "es": {
+        "hook": "Las cúpulas geodésicas deben su resistencia a los triángulos, no a las curvas.",
+        "fact": "Popularizadas por Buckminster Fuller a mediados del siglo XX, las cúpulas geodésicas reparten los esfuerzos de forma uniforme por una retícula de triángulos, lo que les permite cubrir grandes volúmenes con muy poco material estructural para su tamaño."
+      }
+    }
   },
   {
     "id": "technology-141",
@@ -3084,7 +3412,21 @@
     "tags": [
       "engineering",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La forme du Burj Khalifa s'inspire d'une fleur du désert.",
+        "fact": "Le plus haut gratte-ciel du monde, achevé en 2010, repose sur un plan en Y qui se déploie en spirale, inspiré de la fleur d'Hymenocallis — une conception qui réduit aussi la prise au vent à mesure que la tour s'élève."
+      },
+      "nl": {
+        "hook": "Het ontwerp van de Burj Khalifa is geïnspireerd op een woestijnbloem.",
+        "fact": "Het hoogste gebouw ter wereld, voltooid in 2010, heeft een spiraalvormige plattegrond in Y-vorm, geïnspireerd op de Hymenocallis-bloem. Dat ontwerp vermindert bovendien de windbelasting naarmate de toren hoger wordt."
+      },
+      "es": {
+        "hook": "El diseño del Burj Khalifa se inspiró en una flor del desierto.",
+        "fact": "El edificio más alto del mundo, terminado en 2010, tiene una planta en forma de Y que asciende en espiral, inspirada en la flor Hymenocallis, un diseño que además reduce las cargas de viento a medida que la torre gana altura."
+      }
+    }
   },
   {
     "id": "technology-142",
@@ -3094,7 +3436,21 @@
     "tags": [
       "engineering",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les gratte-ciel oscillent volontairement.",
+        "fact": "Les tours sont conçues pour fléchir de l'ordre du mètre par vent fort, et beaucoup sont équipées d'énormes dispositifs pendulaires, les amortisseurs à masse accordée, qui contrent le balancement et préservent le confort des occupants."
+      },
+      "nl": {
+        "hook": "Wolkenkrabbers zwaaien met opzet.",
+        "fact": "Hoge gebouwen zijn zo ontworpen dat ze bij harde wind ongeveer een meter kunnen meebuigen, en veel ervan gebruiken reusachtige slingerachtige constructies, tuned mass dampers, om het zwaaien tegen te gaan en de gebruikers comfortabel te houden."
+      },
+      "es": {
+        "hook": "Los rascacielos se balancean a propósito.",
+        "fact": "Los edificios altos están diseñados para flexionarse cerca de un metro con vientos fuertes, y muchos usan enormes dispositivos tipo péndulo, llamados amortiguadores de masa sintonizada, para contrarrestar el balanceo y mantener cómodos a sus ocupantes."
+      }
+    }
   },
   {
     "id": "technology-143",
@@ -3104,7 +3460,21 @@
     "tags": [
       "engineering",
       "transportation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le canal de Suez ne compte aucune écluse.",
+        "fact": "Contrairement au canal de Panama, le canal de Suez relie la Méditerranée à la mer Rouge à un niveau pratiquement identique, si bien que les navires le traversent sans avoir besoin de la moindre écluse."
+      },
+      "nl": {
+        "hook": "Het Suezkanaal heeft helemaal geen sluizen.",
+        "fact": "Anders dan het Panamakanaal verbindt het Suezkanaal de Middellandse Zee en de Rode Zee op vrijwel hetzelfde zeeniveau, zodat schepen er zonder ook maar één sluis doorheen varen."
+      },
+      "es": {
+        "hook": "El Canal de Suez no tiene ni una sola esclusa.",
+        "fact": "A diferencia del Canal de Panamá, el de Suez conecta el Mediterráneo y el mar Rojo prácticamente al mismo nivel del mar, así que los barcos lo atraviesan sin necesidad de esclusas."
+      }
+    }
   },
   {
     "id": "technology-144",
@@ -3115,7 +3485,24 @@
     "tags": [
       "engineering",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ascenseur n'est devenu praticable qu'avec l'invention du frein de sécurité.",
+        "fact": "En 1854, Elisha Otis a fait la démonstration d'un dispositif capable d'empêcher la cabine de chuter si son câble de levage se rompait — une avancée qui a rendu possibles les immeubles de grande hauteur équipés d'ascenseurs.",
+        "whyItMatters": "Ce simple mécanisme de sécurité a directement permis l'essor des gratte-ciel qui a suivi."
+      },
+      "nl": {
+        "hook": "Liften werden pas bruikbaar na de uitvinding van een veiligheidsrem.",
+        "fact": "Elisha Otis demonstreerde in 1854 een mechanisme dat een liftkooi tegenhield als de hijskabel brak — een doorbraak die hoge gebouwen met personenliften mogelijk maakte.",
+        "whyItMatters": "Dat ene veiligheidsmechanisme maakte de opmars van de wolkenkrabber die erop volgde rechtstreeks mogelijk."
+      },
+      "es": {
+        "hook": "Los ascensores solo fueron viables tras inventarse el freno de seguridad.",
+        "fact": "Elisha Otis demostró en 1854 un dispositivo que impedía que la cabina cayera si se rompía el cable de izado, un avance que hizo posibles los edificios altos con ascensores para pasajeros.",
+        "whyItMatters": "Ese único mecanismo de seguridad hizo posible directamente el auge de los rascacielos que vino después."
+      }
+    }
   },
   {
     "id": "technology-145",
@@ -3125,7 +3512,21 @@
     "tags": [
       "hardware",
       "semiconductors"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le transistor a été inventé pour remplacer les fragiles tubes à vide.",
+        "fact": "Les chercheurs des Bell Labs John Bardeen, Walter Brattain et William Shockley ont fait fonctionner le premier transistor en décembre 1947 : un composant à l'état solide capable d'amplifier et de commuter des signaux électriques bien plus fiablement que les tubes en verre."
+      },
+      "nl": {
+        "hook": "De transistor werd uitgevonden als vervanging van breekbare vacuümbuizen.",
+        "fact": "Bell Labs-onderzoekers John Bardeen, Walter Brattain en William Shockley demonstreerden in december 1947 de eerste werkende transistor: een vastestofcomponent die elektrische signalen veel betrouwbaarder kon versterken en schakelen dan glazen vacuümbuizen."
+      },
+      "es": {
+        "hook": "El transistor se inventó para sustituir a las frágiles válvulas de vacío.",
+        "fact": "Los investigadores de Bell Labs John Bardeen, Walter Brattain y William Shockley demostraron el primer transistor funcional en diciembre de 1947: un dispositivo de estado sólido capaz de amplificar y conmutar señales eléctricas con mucha más fiabilidad que las válvulas de vidrio."
+      }
+    }
   },
   {
     "id": "technology-146",
@@ -3135,7 +3536,21 @@
     "tags": [
       "semiconductors",
       "hardware"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les puces en silicium sont gravées avec de la lumière, pas avec de minuscules outils.",
+        "fact": "La photolithographie, le procédé qui dessine les circuits sur les galettes de silicium, projette de la lumière à travers des masques pour définir des motifs bien plus fins qu'un cheveu. La fabrication moderne recourt à l'ultraviolet extrême, d'une longueur d'onde d'environ 13,5 nanomètres."
+      },
+      "nl": {
+        "hook": "Siliciumchips worden met licht geëtst, niet met piepkleine gereedschappen.",
+        "fact": "Fotolithografie, het proces waarmee schakelingen op siliciumwafers worden aangebracht, projecteert licht door maskers om structuren te definiëren die veel kleiner zijn dan een mensenhaar. Moderne chipfabricage gebruikt extreem ultraviolet licht met een golflengte van ongeveer 13,5 nanometer."
+      },
+      "es": {
+        "hook": "Los chips de silicio se graban con luz, no con herramientas diminutas.",
+        "fact": "La fotolitografía, el proceso con el que se dibujan los circuitos sobre obleas de silicio, proyecta luz a través de máscaras para definir detalles mucho más pequeños que un cabello humano. La fabricación actual de chips emplea luz ultravioleta extrema, con longitudes de onda de unos 13,5 nanómetros."
+      }
+    }
   },
   {
     "id": "technology-147",
@@ -3145,7 +3560,21 @@
     "tags": [
       "semiconductors",
       "hardware"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La loi de Moore était une prédiction, pas une loi de la physique.",
+        "fact": "En 1965, Gordon Moore, cofondateur d'Intel, a observé que le nombre de transistors sur une puce semblait doubler environ tous les deux ans ; l'industrie des semi-conducteurs a ensuite passé des décennies à traiter cette observation comme une feuille de route à suivre."
+      },
+      "nl": {
+        "hook": "De wet van Moore was een voorspelling, geen natuurwet.",
+        "fact": "Intel-medeoprichter Gordon Moore merkte in 1965 op dat het aantal transistors op een chip ongeveer elke twee jaar leek te verdubbelen. De halfgeleiderindustrie behandelde die observatie vervolgens decennialang als een routekaart om na te jagen."
+      },
+      "es": {
+        "hook": "La ley de Moore era una predicción, no una ley física.",
+        "fact": "Gordon Moore, cofundador de Intel, observó en 1965 que el número de transistores de un chip parecía duplicarse aproximadamente cada dos años, y la industria de los semiconductores se pasó décadas tratando esa observación como una hoja de ruta que había que cumplir."
+      }
+    }
   },
   {
     "id": "technology-148",
@@ -3155,7 +3584,21 @@
     "tags": [
       "semiconductors",
       "hardware"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier microprocesseur a été conçu pour une calculatrice.",
+        "fact": "L'Intel 4004, sorti en 1971, devait au départ équiper une calculatrice de bureau japonaise ; il est devenu le premier processeur complet sur une seule puce disponible dans le commerce."
+      },
+      "nl": {
+        "hook": "De eerste microprocessor werd voor een rekenmachine gebouwd.",
+        "fact": "De Intel 4004 uit 1971 was oorspronkelijk ontworpen om een Japanse bureaurekenmachine aan te drijven, maar werd de eerste commercieel verkrijgbare complete processor op één chip."
+      },
+      "es": {
+        "hook": "El primer microprocesador se construyó para una calculadora.",
+        "fact": "El 4004 de Intel, lanzado en 1971, se diseñó originalmente para una calculadora de sobremesa japonesa, pero se convirtió en la primera CPU completa en un solo chip disponible comercialmente."
+      }
+    }
   },
   {
     "id": "technology-149",
@@ -3165,7 +3608,21 @@
     "tags": [
       "semiconductors",
       "hardware"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une usine de puces de pointe peut coûter plus cher que la plupart des stades réunis.",
+        "fact": "Édifier une usine moderne de fabrication de semi-conducteurs peut dépasser 10 à 20 milliards de dollars, en raison des équipements d'une précision extraordinaire — comme les machines de lithographie à ultraviolet extrême — nécessaires pour graver des circuits à l'échelle du nanomètre."
+      },
+      "nl": {
+        "hook": "Een geavanceerde chipfabriek kost meer dan de meeste stadions bij elkaar.",
+        "fact": "De bouw van een moderne halfgeleiderfabriek kan 10 tot 20 miljard dollar of meer kosten, door de buitengewoon precieze apparatuur — zoals machines voor extreem-ultravioletlithografie — die nodig is om schakelingen op nanometerschaal te etsen."
+      },
+      "es": {
+        "hook": "Una fábrica de chips punteros puede costar más que la mayoría de estadios juntos.",
+        "fact": "Construir una planta moderna de fabricación de semiconductores puede costar más de 10.000 a 20.000 millones de dólares, por los equipos de precisión extraordinaria, como las máquinas de litografía ultravioleta extrema, necesarios para grabar circuitos a escala nanométrica."
+      }
+    }
   },
   {
     "id": "technology-150",
@@ -3176,7 +3633,24 @@
     "tags": [
       "hardware",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les LED existaient depuis des décennies avant de pouvoir produire de la lumière blanche.",
+        "fact": "Les LED rouges ont été commercialisées dans les années 1960, mais il a fallu attendre le début des années 1990 pour obtenir une LED bleue efficace et exploitable — une percée indispensable à l'éclairage blanc à LED, qui a valu à ses inventeurs le prix Nobel de physique 2014.",
+        "whyItMatters": "Les LED blanches performantes ont depuis fait chuter spectaculairement la consommation mondiale d'électricité pour l'éclairage par rapport aux ampoules à incandescence."
+      },
+      "nl": {
+        "hook": "Leds bestonden al decennia voordat ze wit licht konden maken.",
+        "fact": "Rode leds kwamen in de jaren zestig op de markt, maar pas begin jaren negentig lukte het een praktische, efficiënte blauwe led te maken — een doorbraak die onmisbaar was voor witte ledverlichting en de uitvinders in 2014 de Nobelprijs voor Natuurkunde opleverde.",
+        "whyItMatters": "Efficiënte witte leds hebben het wereldwijde elektriciteitsverbruik voor verlichting sindsdien drastisch verlaagd vergeleken met gloeilampen."
+      },
+      "es": {
+        "hook": "Los LED existieron durante décadas antes de poder dar luz blanca.",
+        "fact": "Los LED rojos se comercializaron en los años sesenta, pero hasta principios de los noventa no se logró un LED azul eficiente y práctico, un avance imprescindible para la iluminación LED blanca que valió a sus inventores el Premio Nobel de Física de 2014.",
+        "whyItMatters": "Los LED blancos eficientes han reducido drásticamente el consumo mundial de electricidad para iluminación frente a las bombillas incandescentes."
+      }
+    }
   },
   {
     "id": "technology-151",
@@ -3186,7 +3660,21 @@
     "tags": [
       "hardware",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « laser » est en fait un acronyme.",
+        "fact": "LASER signifie « Light Amplification by Stimulated Emission of Radiation », soit l'amplification de la lumière par émission stimulée de rayonnement. Le premier laser fonctionnel a été présenté en 1960 par le physicien Theodore Maiman, à l'aide d'un cristal de rubis synthétique."
+      },
+      "nl": {
+        "hook": "'Laser' is eigenlijk een acroniem.",
+        "fact": "LASER staat voor 'Light Amplification by Stimulated Emission of Radiation', oftewel lichtversterking door gestimuleerde emissie van straling. De eerste werkende laser werd in 1960 gedemonstreerd door natuurkundige Theodore Maiman, met een synthetisch robijnkristal."
+      },
+      "es": {
+        "hook": "'Láser' es en realidad un acrónimo.",
+        "fact": "LASER significa 'Light Amplification by Stimulated Emission of Radiation', es decir, amplificación de luz por emisión estimulada de radiación. El primer láser funcional lo presentó en 1960 el físico Theodore Maiman con un cristal de rubí sintético."
+      }
+    }
   },
   {
     "id": "technology-152",
@@ -3196,7 +3684,21 @@
     "tags": [
       "hardware",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les montres à quartz mesurent le temps grâce à un cristal qui vibre des milliers de fois par seconde.",
+        "fact": "Dans la plupart des montres, un minuscule cristal de quartz vibre à une fréquence très précise lorsqu'un courant électrique le traverse ; un circuit compte ces vibrations pour donner l'heure avec une exactitude remarquable, bien supérieure à celle des anciens mouvements mécaniques."
+      },
+      "nl": {
+        "hook": "Quartzhorloges houden de tijd bij met een kristal dat duizenden keren per seconde trilt.",
+        "fact": "Een piepklein kwartskristal in de meeste horloges trilt op een exacte frequentie zodra er stroom door loopt, en elektronica telt die trillingen om opmerkelijk nauwkeurig de tijd bij te houden — veel preciezer dan de oude mechanische uurwerken."
+      },
+      "es": {
+        "hook": "Los relojes de cuarzo miden el tiempo con un cristal que vibra miles de veces por segundo.",
+        "fact": "Un diminuto cristal de cuarzo dentro de la mayoría de los relojes vibra a una frecuencia exacta cuando se le aplica corriente eléctrica, y un circuito cuenta esas vibraciones para marcar la hora con una precisión notable, muy superior a la de los viejos movimientos mecánicos."
+      }
+    }
   },
   {
     "id": "technology-153",
@@ -3206,7 +3708,21 @@
     "tags": [
       "hardware",
       "energy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première cellule solaire pratique n'atteignait qu'environ 6 % de rendement.",
+        "fact": "Les Bell Labs ont dévoilé en 1954 la première cellule solaire au silicium réellement utilisable, qui convertissait environ 6 % de la lumière du soleil en électricité. Les panneaux commerciaux actuels dépassent couramment 20 % de rendement."
+      },
+      "nl": {
+        "hook": "De eerste bruikbare zonnecel haalde maar zo'n 6 procent rendement.",
+        "fact": "Bell Labs presenteerde in 1954 de eerste praktische siliciumzonnecel, die ongeveer 6 procent van het zonlicht in elektriciteit omzette. Moderne commerciële panelen halen tegenwoordig doorgaans meer dan 20 procent."
+      },
+      "es": {
+        "hook": "La primera célula solar práctica solo tenía un 6 % de eficiencia.",
+        "fact": "Bell Labs presentó en 1954 la primera célula solar de silicio práctica, que convertía cerca del 6 % de la luz solar en electricidad. Los paneles comerciales actuales suelen superar el 20 % de eficiencia."
+      }
+    }
   },
   {
     "id": "technology-154",
@@ -3216,7 +3732,21 @@
     "tags": [
       "hardware",
       "energy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les batteries lithium-ion ont mis près de vingt ans à arriver en magasin après leurs percées décisives.",
+        "fact": "La chimie fondatrice des batteries lithium-ion a été mise au point au cours des années 1970 et 1980, mais Sony n'a commercialisé la première batterie lithium-ion qu'en 1991, dans un caméscope."
+      },
+      "nl": {
+        "hook": "Lithium-ionbatterijen deden er bijna twee decennia over om na hun doorbraken in de winkel te liggen.",
+        "fact": "De fundamentele chemie van lithium-ionbatterijen werd in de jaren zeventig en tachtig ontwikkeld, maar pas in 1991 bracht Sony de eerste lithium-ionbatterij op de markt, in een camcorder."
+      },
+      "es": {
+        "hook": "Las baterías de ion de litio tardaron casi dos décadas en llegar a las tiendas tras sus avances clave.",
+        "fact": "La química fundamental de las baterías de ion de litio se desarrolló a lo largo de los años setenta y ochenta, pero Sony no comercializó la primera batería de ion de litio hasta 1991, en una videocámara."
+      }
+    }
   },
   {
     "id": "technology-155",
@@ -3226,7 +3756,21 @@
     "tags": [
       "hardware",
       "semiconductors"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une puce RFID peut être plus petite qu'un grain de riz.",
+        "fact": "Les étiquettes RFID passives, utilisées aussi bien pour les puces d'identification des animaux que pour la gestion des stocks en magasin, n'ont pas besoin de pile : elles tirent leur énergie du signal radio du lecteur qui les interroge."
+      },
+      "nl": {
+        "hook": "Rfid-chips kunnen kleiner zijn dan een rijstkorrel.",
+        "fact": "Passieve rfid-tags, gebruikt voor van alles, van huisdierchips tot voorraadbeheer in winkels, hebben geen eigen batterij nodig: ze halen hun energie uit het radiosignaal van de scanner die ze uitleest."
+      },
+      "es": {
+        "hook": "Un chip RFID puede ser más pequeño que un grano de arroz.",
+        "fact": "Las etiquetas RFID pasivas, usadas para todo, desde microchips de mascotas hasta el control de inventario en tiendas, no necesitan batería interna: obtienen la energía de la señal de radio del lector que las consulta."
+      }
+    }
   },
   {
     "id": "technology-156",
@@ -3236,7 +3780,21 @@
     "tags": [
       "hardware",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il fallait autrefois des pièces entières de tubes à vide pour faire ce qu'une puce grande comme un ongle fait aujourd'hui.",
+        "fact": "Les premiers ordinateurs à tubes à vide, comme l'ENIAC (1945), utilisaient environ 18 000 tubes, dégageaient une chaleur énorme et exigeaient une maintenance constante, car les tubes grillaient sans arrêt."
+      },
+      "nl": {
+        "hook": "Vacuümbuizen vulden ooit hele zalen om te doen wat een chip ter grootte van een vingernagel nu doet.",
+        "fact": "Vroege buizencomputers zoals de ENIAC (1945) gebruikten ongeveer 18.000 buizen, produceerden enorme hitte en vergden constant onderhoud, omdat de buizen voortdurend doorbrandden."
+      },
+      "es": {
+        "hook": "Las válvulas de vacío llenaban salas enteras para hacer lo que hoy hace un chip del tamaño de una uña.",
+        "fact": "Los primeros ordenadores de válvulas, como el ENIAC (1945), usaban unas 18.000 válvulas, generaban un calor enorme y exigían mantenimiento constante porque las válvulas se fundían continuamente."
+      }
+    }
   },
   {
     "id": "technology-157",
@@ -3246,7 +3804,21 @@
     "tags": [
       "semiconductors",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le germanium a précédé le silicium dans l'histoire du transistor.",
+        "fact": "Les premiers transistors, à la fin des années 1940 et au début des années 1950, étaient en germanium. Le silicium s'est ensuite imposé comme standard de l'industrie parce qu'il supportait mieux les températures élevées et qu'il était plus abondant."
+      },
+      "nl": {
+        "hook": "Germanium ging vooraf aan silicium in de geschiedenis van de transistor.",
+        "fact": "De eerste transistors, uit de late jaren veertig en vroege jaren vijftig, waren van germanium gemaakt. Silicium werd later de industriestandaard omdat het beter presteerde bij hoge temperaturen en ruimer voorhanden was."
+      },
+      "es": {
+        "hook": "El germanio llegó antes que el silicio en la historia del transistor.",
+        "fact": "Los primeros transistores, de finales de los años cuarenta y principios de los cincuenta, se hacían de germanio. El silicio se impuso después como estándar de la industria porque rendía mejor a altas temperaturas y era más abundante."
+      }
+    }
   },
   {
     "id": "technology-158",
@@ -4240,7 +4812,21 @@
     "tags": [
       "gadgets",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier cœur artificiel a maintenu un patient en vie pendant 112 jours.",
+        "fact": "En 1982, Barney Clark, un dentiste à la retraite, a reçu le Jarvik-7, le premier cœur artificiel permanent implanté chez un être humain. Il a survécu 112 jours, relié à une console externe équipée d'un compresseur d'air."
+      },
+      "nl": {
+        "hook": "Het eerste kunsthart hield een patiënt 112 dagen in leven.",
+        "fact": "In 1982 kreeg gepensioneerd tandarts Barney Clark de Jarvik-7, het eerste permanente kunsthart dat bij een mens werd ingeplant. Hij overleefde er 112 dagen mee, aangesloten op een externe console met luchtcompressor."
+      },
+      "es": {
+        "hook": "El primer corazón artificial mantuvo con vida a un paciente 112 días.",
+        "fact": "En 1982, el dentista jubilado Barney Clark recibió el Jarvik-7, el primer corazón artificial permanente implantado en un ser humano, y sobrevivió 112 días conectado a una consola externa con un compresor de aire."
+      }
+    }
   },
   {
     "id": "technology-199",
@@ -4250,7 +4836,21 @@
     "tags": [
       "robotics",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les exosquelettes robotisés ont d'abord servi à porter des charges, pas à la rééducation.",
+        "fact": "Les premières recherches sur les exosquelettes motorisés, dans les années 1960, comme le projet Hardiman de General Electric, visaient à permettre aux soldats et aux ouvriers de soulever de lourdes charges sans effort. Les exosquelettes médicaux qui aident les personnes paralysées à marcher ne sont apparus que des décennies plus tard."
+      },
+      "nl": {
+        "hook": "Robotexoskeletten waren eerst bedoeld om zwaar te tillen bij het leger, niet voor revalidatie.",
+        "fact": "Vroeg onderzoek naar aangedreven exoskeletten in de jaren zestig, zoals het Hardiman-project van General Electric, moest soldaten en arbeiders in staat stellen om moeiteloos zware lasten te tillen. Medische exoskeletten die verlamde patiënten helpen lopen, kwamen pas decennia later."
+      },
+      "es": {
+        "hook": "Los exoesqueletos robóticos nacieron para cargar peso en el ejército, no para la rehabilitación.",
+        "fact": "Las primeras investigaciones sobre exoesqueletos motorizados en los años sesenta, como el proyecto Hardiman de General Electric, buscaban que soldados y trabajadores levantaran cargas pesadas sin esfuerzo. Los exoesqueletos médicos que ayudan a caminar a personas con parálisis llegaron décadas después."
+      }
+    }
   },
   {
     "id": "technology-200",
@@ -4260,6 +4860,20 @@
     "tags": [
       "gadgets",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le tout premier scan de code-barres portait sur un paquet de chewing-gum.",
+        "fact": "Le premier produit de grande distribution scanné avec un code-barres UPC était un paquet de dix chewing-gums Juicy Fruit de Wrigley, passé en caisse dans un supermarché de l'Ohio en juin 1974."
+      },
+      "nl": {
+        "hook": "De allereerste barcodescan ging over een pakje kauwgom.",
+        "fact": "Het eerste winkelproduct dat ooit met een UPC-barcode werd gescand, was een pakje van tien Juicy Fruit-kauwgommen van Wrigley, in juni 1974 in een supermarkt in Ohio."
+      },
+      "es": {
+        "hook": "El primer código de barras escaneado fue el de un paquete de chicles.",
+        "fact": "El primer producto de venta al público escaneado con un código de barras UPC fue un paquete de diez chicles Juicy Fruit de Wrigley, en un supermercado de Ohio en junio de 1974."
+      }
+    }
   }
 ]
