@@ -40,6 +40,24 @@ interface AuthContextValue {
   signOut: () => Promise<void>
 }
 
+/**
+ * Where Supabase should send someone back to after they authenticate —
+ * always the origin the request actually came from.
+ *
+ * Every auth entry point passes this explicitly. Omit it and Supabase
+ * falls back to the project's "Site URL" dashboard setting, which is a
+ * single hardcoded host: the app then sends people to whatever domain
+ * that field happened to be set to, no matter where they signed in.
+ * That broke sign-in after the rename, and would break it again on any
+ * future domain change or preview deployment.
+ *
+ * The dashboard still has to allowlist the origin under Redirect URLs,
+ * or Supabase ignores this and falls back to Site URL anyway.
+ */
+function authRedirectUrl(): string {
+  return `${window.location.origin}/feed`
+}
+
 /** Maps a Supabase AuthError's stable `.code` to one of our own codes.
  * Deliberately NOT localized here — AuthContext/AuthProvider is rendered
  * above LocaleProvider (which itself needs auth, to load the signed-in
@@ -101,19 +119,26 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       },
       async signUpWithPassword(email, password) {
         if (!isSupabaseConfigured) return { errorCode: null }
-        const { error } = await supabase!.auth.signUp({ email, password })
+        const { error } = await supabase!.auth.signUp({
+          email,
+          password,
+          options: { emailRedirectTo: authRedirectUrl() },
+        })
         return { errorCode: toAuthErrorCode(error) }
       },
       async signInWithMagicLink(email) {
         if (!isSupabaseConfigured) return { errorCode: null }
-        const { error } = await supabase!.auth.signInWithOtp({ email })
+        const { error } = await supabase!.auth.signInWithOtp({
+          email,
+          options: { emailRedirectTo: authRedirectUrl() },
+        })
         return { errorCode: toAuthErrorCode(error) }
       },
       async signInWithOAuth() {
         if (!isSupabaseConfigured) return { errorCode: null }
         const { error } = await supabase!.auth.signInWithOAuth({
           provider: 'google',
-          options: { redirectTo: `${window.location.origin}/feed` },
+          options: { redirectTo: authRedirectUrl() },
         })
         // On success this navigates the browser away to the provider, so
         // there's nothing further to do here — only a pre-redirect failure
