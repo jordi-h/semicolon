@@ -35,7 +35,7 @@
     "translations": {
       "fr": {
         "hook": "Van Gogh n'a vendu qu'un seul tableau de son vivant.",
-        "fact": "« La Vigne rouge » fut achetée en 1890, quelques mois avant sa mort, par une mécène belge nommée Anna Boch. Il a créé plus de 2 000 œuvres au cours de sa vie."
+        "fact": "« La Vigne rouge » fut achetée en 1890, quelques mois avant sa mort, par une mécène belge nommée Anna Boch. Il a créé plus de 2 000 œuvres au cours de sa vie."
       },
       "nl": {
         "hook": "Van Gogh verkocht tijdens zijn leven maar één schilderij.",
@@ -161,8 +161,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« La Ronde de nuit » de Rembrandt ne se déroule pas vraiment la nuit.",
-        "fact": "Le vrai titre du tableau est « La Compagnie de milice du district II sous le commandement du capitaine Frans Banning Cocq ». Des siècles de vernis assombri lui ont donné une apparence nocturne, d'où le surnom qui lui est resté."
+        "hook": "« La Ronde de nuit » de Rembrandt ne se déroule pas vraiment la nuit.",
+        "fact": "Le vrai titre du tableau est « La Compagnie de milice du district II sous le commandement du capitaine Frans Banning Cocq ». Des siècles de vernis assombri lui ont donné une apparence nocturne, d'où le surnom qui lui est resté."
       },
       "nl": {
         "hook": "Rembrandts Nachtwacht speelt zich niet echt 's nachts af.",
@@ -186,7 +186,7 @@
     "translations": {
       "fr": {
         "hook": "On connaît moins de 40 tableaux de Vermeer.",
-        "fact": "Johannes Vermeer travaillait lentement et minutieusement ; sa faible production, combinée à un manque de documentation, l'a fait tomber dans un oubli quasi total pendant deux siècles après sa mort, jusqu'à ce qu'un critique d'art du XIXe siècle relance l'intérêt pour son œuvre."
+        "fact": "Johannes Vermeer travaillait lentement et minutieusement ; sa faible production, combinée à un manque de documentation, l'a fait tomber dans un oubli quasi total pendant deux siècles après sa mort, jusqu'à ce qu'un critique d'art du XIXe siècle relance l'intérêt pour son œuvre."
       },
       "nl": {
         "hook": "Er zijn minder dan 40 schilderijen van Vermeer bekend.",
@@ -334,8 +334,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« La Jeune Fille à la perle » n'est pas le portrait d'une personne réelle et identifiée.",
-        "fact": "Le tableau de Vermeer est une « tronie », une étude d'un visage imaginaire ou idéalisé plutôt qu'un portrait de commande. Sa qualité onirique lui a valu le surnom de « Joconde du Nord »."
+        "hook": "« La Jeune Fille à la perle » n'est pas le portrait d'une personne réelle et identifiée.",
+        "fact": "Le tableau de Vermeer est une « tronie », une étude d'un visage imaginaire ou idéalisé plutôt qu'un portrait de commande. Sa qualité onirique lui a valu le surnom de « Joconde du Nord »."
       },
       "nl": {
         "hook": "\"Meisje met de parel\" is geen portret van een echte, met naam bekende persoon.",
@@ -358,8 +358,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« La Mère de Whistler » n'est pas le vrai titre du tableau.",
-        "fact": "James McNeill Whistler avait intitulé ce tableau de 1871 « Arrangement en gris et noir n° 1 : portrait de la mère de l'artiste », mettant l'accent sur la composition tonale plutôt que sur le sujet sentimental."
+        "hook": "« La Mère de Whistler » n'est pas le vrai titre du tableau.",
+        "fact": "James McNeill Whistler avait intitulé ce tableau de 1871 « Arrangement en gris et noir n° 1 : portrait de la mère de l'artiste », mettant l'accent sur la composition tonale plutôt que sur le sujet sentimental."
       },
       "nl": {
         "hook": "\"Whistlers moeder\" is niet echt de titel van het schilderij.",
@@ -483,7 +483,7 @@
     "translations": {
       "fr": {
         "hook": "Andy Warhol a peint 32 boîtes de soupe parce que Campbell's en vendait 32 variétés.",
-        "fact": "Sa série de 1962 « Campbell's Soup Cans » représentait tous les parfums vendus par la marque à l'époque, transformant un emballage de supermarché banal en œuvre d'art."
+        "fact": "Sa série de 1962 « Campbell's Soup Cans » représentait tous les parfums vendus par la marque à l'époque, transformant un emballage de supermarché banal en œuvre d'art."
       },
       "nl": {
         "hook": "Andy Warhol schilderde 32 soepblikken omdat Campbell's 32 varianten verkocht.",
@@ -507,7 +507,7 @@
     "translations": {
       "fr": {
         "hook": "Les montres molles de Salvador Dalí auraient été inspirées par du fromage.",
-        "fact": "Dalí a raconté que l'idée des montres molles et affaissées de « La Persistance de la mémoire » (1931) lui était venue en contemplant une meule de camembert coulante, laissée au soleil."
+        "fact": "Dalí a raconté que l'idée des montres molles et affaissées de « La Persistance de la mémoire » (1931) lui était venue en contemplant une meule de camembert coulante, laissée au soleil."
       },
       "nl": {
         "hook": "De smeltende klokken van Salvador Dalí zouden zijn geïnspireerd door kaas.",
@@ -583,7 +583,7 @@
     "translations": {
       "fr": {
         "hook": "Un faussaire a trompé le chef nazi Hermann Göring avec un faux Vermeer.",
-        "fact": "Le peintre néerlandais Han van Meegeren a vendu à Göring un faux « Vermeer » pendant la Seconde Guerre mondiale. Après la guerre, accusé de trahison pour collaboration avec les nazis, van Meegeren a préféré avouer la falsification et l'a prouvée en peignant un nouveau faux Vermeer sous surveillance."
+        "fact": "Le peintre néerlandais Han van Meegeren a vendu à Göring un faux « Vermeer » pendant la Seconde Guerre mondiale. Après la guerre, accusé de trahison pour collaboration avec les nazis, van Meegeren a préféré avouer la falsification et l'a prouvée en peignant un nouveau faux Vermeer sous surveillance."
       },
       "nl": {
         "hook": "Een vervalser misleidde nazileider Hermann Göring met een nep-Vermeer.",
@@ -606,7 +606,7 @@
     "translations": {
       "fr": {
         "hook": "L'un des faussaires les plus célèbres du XXe siècle a inspiré un documentaire d'Orson Welles.",
-        "fact": "Elmyr de Hory a falsifié des milliers de tableaux dans le style de Picasso, Matisse et Modigliani, trompant galeries et collectionneurs pendant des décennies, avant que son histoire ne serve de base au film de Welles de 1973, « Vérités et mensonges »."
+        "fact": "Elmyr de Hory a falsifié des milliers de tableaux dans le style de Picasso, Matisse et Modigliani, trompant galeries et collectionneurs pendant des décennies, avant que son histoire ne serve de base au film de Welles de 1973, « Vérités et mensonges »."
       },
       "nl": {
         "hook": "Een van de beruchtste kunstvervalsers van de 20e eeuw inspireerde een documentaire van Orson Welles.",
@@ -631,7 +631,7 @@
     "translations": {
       "fr": {
         "hook": "Un tableau vendu 45 livres s'est revendu 450 millions de dollars.",
-        "fact": "« Salvator Mundi », attribué à Léonard de Vinci, s'était vendu pour une somme modeste lors d'une vente aux enchères à Londres en 1958, avant d'être redécouvert et authentifié des décennies plus tard. Il a été vendu chez Christie's en 2017 pour 450,3 millions de dollars, le prix le plus élevé jamais payé pour un tableau aux enchères.",
+        "fact": "« Salvator Mundi », attribué à Léonard de Vinci, s'était vendu pour une somme modeste lors d'une vente aux enchères à Londres en 1958, avant d'être redécouvert et authentifié des décennies plus tard. Il a été vendu chez Christie's en 2017 pour 450,3 millions de dollars, le prix le plus élevé jamais payé pour un tableau aux enchères.",
         "whyItMatters": "Certains chercheurs contestent encore la part réellement peinte de la main de Léonard, faisant de ce tableau l'une des questions ouvertes les plus coûteuses de l'histoire de l'art."
       },
       "nl": {
@@ -659,8 +659,8 @@
     "translations": {
       "fr": {
         "hook": "Un portrait de Klimt a été restitué à sa propriétaire légitime après des décennies de bataille judiciaire.",
-        "fact": "« Portrait d'Adele Bloch-Bauer I » de Gustav Klimt avait été pillé par les nazis à une famille juive autrichienne. La nièce d'Adele, Maria Altmann, a remporté dans les années 2000 un procès historique contre l'État autrichien pour le récupérer.",
-        "whyItMatters": "Cette affaire a redéfini le droit international en matière de restitution des œuvres d'art spoliées par les nazis et a inspiré le film « La Femme au tableau »."
+        "fact": "« Portrait d'Adele Bloch-Bauer I » de Gustav Klimt avait été pillé par les nazis à une famille juive autrichienne. La nièce d'Adele, Maria Altmann, a remporté dans les années 2000 un procès historique contre l'État autrichien pour le récupérer.",
+        "whyItMatters": "Cette affaire a redéfini le droit international en matière de restitution des œuvres d'art spoliées par les nazis et a inspiré le film « La Femme au tableau »."
       },
       "nl": {
         "hook": "Een Klimt-portret werd na een decennialange juridische strijd teruggegeven aan de rechtmatige eigenaar.",
@@ -686,7 +686,7 @@
     "translations": {
       "fr": {
         "hook": "Le cubisme est né d'un tableau qui a choqué jusqu'aux amis de Picasso.",
-        "fact": "« Les Demoiselles d'Avignon » (1907), avec ses figures nues fragmentées et anguleuses influencées par les masques africains, est considérée comme l'œuvre proto-cubiste ayant lancé le mouvement que Picasso a développé avec Georges Braque."
+        "fact": "« Les Demoiselles d'Avignon » (1907), avec ses figures nues fragmentées et anguleuses influencées par les masques africains, est considérée comme l'œuvre proto-cubiste ayant lancé le mouvement que Picasso a développé avec Georges Braque."
       },
       "nl": {
         "hook": "Het kubisme begon met een schilderij dat zelfs Picasso's vrienden choqueerde.",
@@ -710,7 +710,7 @@
     "translations": {
       "fr": {
         "hook": "Marcel Duchamp a transformé un urinoir en l'une des œuvres les plus influentes du XXe siècle.",
-        "fact": "En 1917, Duchamp a soumis à une exposition new-yorkaise un urinoir en porcelaine signé « R. Mutt » et intitulé « Fontaine ». Son rejet et le débat qui s'ensuivit ont contribué à définir l'art conceptuel et le mouvement dada."
+        "fact": "En 1917, Duchamp a soumis à une exposition new-yorkaise un urinoir en porcelaine signé « R. Mutt » et intitulé « Fontaine ». Son rejet et le débat qui s'ensuivit ont contribué à définir l'art conceptuel et le mouvement dada."
       },
       "nl": {
         "hook": "Marcel Duchamp veranderde een urinoir in een van de invloedrijkste kunstwerken van de 20e eeuw.",
@@ -734,7 +734,7 @@
     "translations": {
       "fr": {
         "hook": "Roy Lichtenstein a agrandi des cases de bande dessinée en tableaux de format monumental.",
-        "fact": "Des œuvres comme « Whaam! » et « Drowning Girl » recréaient l'apparence des bandes dessinées imprimées en masse, avec des trames de points Ben-Day méticuleusement peintes à la main, interrogeant la frontière entre art savant et culture populaire."
+        "fact": "Des œuvres comme « Whaam! » et « Drowning Girl » recréaient l'apparence des bandes dessinées imprimées en masse, avec des trames de points Ben-Day méticuleusement peintes à la main, interrogeant la frontière entre art savant et culture populaire."
       },
       "nl": {
         "hook": "Roy Lichtenstein blies strippanelen op tot schilderijen op galerieformaat.",
@@ -758,7 +758,7 @@
     "translations": {
       "fr": {
         "hook": "Mark Rothko voulait que ses tableaux fassent pleurer les spectateurs.",
-        "fact": "Les grandes toiles de champs colorés de Rothko, rectangles lumineux de pigments superposés, étaient conçues pour être vécues de près et à grande échelle ; il aurait affirmé avoir fait pleurer certains spectateurs devant ses œuvres."
+        "fact": "Les grandes toiles de champs colorés de Rothko, rectangles lumineux de pigments superposés, étaient conçues pour être vécues de près et à grande échelle ; il aurait affirmé avoir fait pleurer certains spectateurs devant ses œuvres."
       },
       "nl": {
         "hook": "Mark Rothko wilde dat zijn schilderijen kijkers aan het huilen maakten.",
@@ -830,7 +830,7 @@
     "translations": {
       "fr": {
         "hook": "Les peintres paysagistes chinois ne cherchaient pas à représenter fidèlement un lieu.",
-        "fact": "La tradition du shan shui (« montagne-eau ») privilégiait la captation de l'esprit et du rythme de la nature à travers la touche du pinceau et les espaces vides, plutôt qu'une représentation réaliste, en lien étroit avec la poésie et la philosophie."
+        "fact": "La tradition du shan shui (« montagne-eau ») privilégiait la captation de l'esprit et du rythme de la nature à travers la touche du pinceau et les espaces vides, plutôt qu'une représentation réaliste, en lien étroit avec la poésie et la philosophie."
       },
       "nl": {
         "hook": "Chinese landschapsschilders probeerden niet vast te leggen hoe een plek er echt uitzag.",
@@ -854,8 +854,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« La Grande Vague » de Hokusai n'est qu'une estampe parmi une série de 36.",
-        "fact": "« Sous la vague au large de Kanagawa » fait partie de la série d'estampes sur bois de Hokusai, « Trente-six vues du mont Fuji », créée au début des années 1830, alors que l'artiste avait déjà dépassé soixante-dix ans."
+        "hook": "« La Grande Vague » de Hokusai n'est qu'une estampe parmi une série de 36.",
+        "fact": "« Sous la vague au large de Kanagawa » fait partie de la série d'estampes sur bois de Hokusai, « Trente-six vues du mont Fuji », créée au début des années 1830, alors que l'artiste avait déjà dépassé soixante-dix ans."
       },
       "nl": {
         "hook": "Hokusai's Grote Golf is slechts één prent uit een reeks van 36.",
@@ -1004,7 +1004,7 @@
     "translations": {
       "fr": {
         "hook": "Léonard de Vinci a inventé une technique pour effacer entièrement les contours nets.",
-        "fact": "Le sfumato, de l'italien signifiant « enfumé », consiste à fondre les tons si progressivement qu'aucun contour visible ne les sépare, donnant au visage de la Joconde sa douceur presque brumeuse."
+        "fact": "Le sfumato, de l'italien signifiant « enfumé », consiste à fondre les tons si progressivement qu'aucun contour visible ne les sépare, donnant au visage de la Joconde sa douceur presque brumeuse."
       },
       "nl": {
         "hook": "Leonardo da Vinci bedacht een techniek om harde contouren volledig te laten verdwijnen.",
@@ -1029,7 +1029,7 @@
     "translations": {
       "fr": {
         "hook": "Georges Seurat peignait avec des milliers de petits points plutôt qu'à coups de pinceau.",
-        "fact": "Sa technique, le pointillisme, appliquait de petites touches de couleur pure qui se mélangent optiquement dans l'œil du spectateur. Son exemple le plus célèbre, « Un dimanche après-midi à l'Île de la Grande Jatte », lui a demandé environ deux ans de travail."
+        "fact": "Sa technique, le pointillisme, appliquait de petites touches de couleur pure qui se mélangent optiquement dans l'œil du spectateur. Son exemple le plus célèbre, « Un dimanche après-midi à l'Île de la Grande Jatte », lui a demandé environ deux ans de travail."
       },
       "nl": {
         "hook": "Georges Seurat schilderde met duizenden kleine stippen in plaats van penseelstreken.",
@@ -1052,8 +1052,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Matisse et son cercle ont été raillés comme des « bêtes fauves ».",
-        "fact": "En 1905, un critique a surnommé Henri Matisse, André Derain et leurs confrères peintres « les fauves » après avoir vu leur exposition de tableaux aux couleurs vives et improbables. L'insulte est restée comme nom du mouvement : le fauvisme."
+        "hook": "Matisse et son cercle ont été raillés comme des « bêtes fauves ».",
+        "fact": "En 1905, un critique a surnommé Henri Matisse, André Derain et leurs confrères peintres « les fauves » après avoir vu leur exposition de tableaux aux couleurs vives et improbables. L'insulte est restée comme nom du mouvement : le fauvisme."
       },
       "nl": {
         "hook": "Matisse en zijn kring werden bespot als 'wilde beesten'.",
@@ -1101,7 +1101,7 @@
     "translations": {
       "fr": {
         "hook": "Gustav Klimt a recouvert un couple de véritable feuille d'or.",
-        "fact": "« Le Baiser » (1908), issu de ce qu'on appelle la période dorée de Klimt, intègre de la véritable feuille d'or sur la toile, une technique influencée par ses voyages pour admirer les mosaïques byzantines de Ravenne, en Italie."
+        "fact": "« Le Baiser » (1908), issu de ce qu'on appelle la période dorée de Klimt, intègre de la véritable feuille d'or sur la toile, une technique influencée par ses voyages pour admirer les mosaïques byzantines de Ravenne, en Italie."
       },
       "nl": {
         "hook": "Gustav Klimt bedekte een koppel met echt bladgoud.",
@@ -1149,7 +1149,7 @@
     "translations": {
       "fr": {
         "hook": "Paul Gauguin a abandonné sa carrière d'agent de change pour peindre dans le Pacifique Sud.",
-        "fact": "Gauguin a quitté la France pour Tahiti en 1891, en quête de ce qu'il percevait comme un mode de vie « primitif » et préservé, et y a produit nombre de ses œuvres les plus célèbres, bien que sa vision colonialiste romancée des îles reste aujourd'hui largement critiquée."
+        "fact": "Gauguin a quitté la France pour Tahiti en 1891, en quête de ce qu'il percevait comme un mode de vie « primitif » et préservé, et y a produit nombre de ses œuvres les plus célèbres, bien que sa vision colonialiste romancée des îles reste aujourd'hui largement critiquée."
       },
       "nl": {
         "hook": "Paul Gauguin gaf zijn carrière als effectenmakelaar op om in de Stille Zuidzee te schilderen.",
@@ -1222,7 +1222,7 @@
     "translations": {
       "fr": {
         "hook": "Un tableau s'est autodétruit à la seconde même où il a été vendu aux enchères.",
-        "fact": "Juste après la vente de « Girl with Balloon » de Banksy pour plus d'un million de livres sterling chez Sotheby's en 2018, une déchiqueteuse dissimulée dans le cadre a détruit la moitié de la toile. Le coup d'éclat a fait grimper la valeur de l'œuvre, rebaptisée depuis « Love is in the Bin ».",
+        "fact": "Juste après la vente de « Girl with Balloon » de Banksy pour plus d'un million de livres sterling chez Sotheby's en 2018, une déchiqueteuse dissimulée dans le cadre a détruit la moitié de la toile. Le coup d'éclat a fait grimper la valeur de l'œuvre, rebaptisée depuis « Love is in the Bin ».",
         "whyItMatters": "Le coup d'éclat est devenu un commentaire viral sur le marché de l'art lui-même, et l'œuvre à moitié déchiquetée s'est revendue plus tard pour plus de 18 millions de livres sterling."
       },
       "nl": {
@@ -1321,7 +1321,7 @@
     "translations": {
       "fr": {
         "hook": "Une gigantesque araignée en bronze a été installée sur presque tous les continents.",
-        "fact": "La sculpture « Maman » de Louise Bourgeois, haute de plus de 9 mètres, existe en plusieurs fontes de bronze, d'acier et de marbre exposées dans des musées du monde entier, conçue comme un hommage à la mère de l'artiste, qui était tisserande."
+        "fact": "La sculpture « Maman » de Louise Bourgeois, haute de plus de 9 mètres, existe en plusieurs fontes de bronze, d'acier et de marbre exposées dans des musées du monde entier, conçue comme un hommage à la mère de l'artiste, qui était tisserande."
       },
       "nl": {
         "hook": "Een reusachtige bronzen spin staat inmiddels op bijna elk continent opgesteld.",
@@ -1344,8 +1344,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Le Penseur » de Rodin devait à l'origine être bien plus petit et anonyme.",
-        "fact": "La figure n'était au départ qu'un petit élément de la commande monumentale et jamais achevée de Rodin, « La Porte de l'Enfer », représentant le poète Dante contemplant la scène en contrebas, avant d'être agrandie en une sculpture indépendante."
+        "hook": "« Le Penseur » de Rodin devait à l'origine être bien plus petit et anonyme.",
+        "fact": "La figure n'était au départ qu'un petit élément de la commande monumentale et jamais achevée de Rodin, « La Porte de l'Enfer », représentant le poète Dante contemplant la scène en contrebas, avant d'être agrandie en une sculpture indépendante."
       },
       "nl": {
         "hook": "Rodins 'De Denker' was oorspronkelijk bedoeld als een veel kleinere, anonieme figuur.",
@@ -1395,7 +1395,7 @@
     "translations": {
       "fr": {
         "hook": "La première statue nue autoportante depuis l'Antiquité représentait un adolescent biblique.",
-        "fact": "Le « David » en bronze de Donatello, coulé vers les années 1440, fut la première sculpture masculine nue et autoportante créée en Europe depuis l'Antiquité romaine, une déclaration radicale en plein essor de la première Renaissance."
+        "fact": "Le « David » en bronze de Donatello, coulé vers les années 1440, fut la première sculpture masculine nue et autoportante créée en Europe depuis l'Antiquité romaine, une déclaration radicale en plein essor de la première Renaissance."
       },
       "nl": {
         "hook": "Het eerste vrijstaande naakte beeld sinds de oudheid stelde een bijbelse tiener voor.",
@@ -1420,7 +1420,7 @@
     "translations": {
       "fr": {
         "hook": "Bernin sculptait le marbre pour lui donner l'air de respirer.",
-        "fact": "Sa sculpture « L'Extase de sainte Thérèse » (1652), dans la chapelle Cornaro à Rome, utilise un éclairage dramatique, des drapés gonflés et des poses dynamiques pour faire paraître le marbre massif léger et vivant, une signature de la sculpture baroque."
+        "fact": "Sa sculpture « L'Extase de sainte Thérèse » (1652), dans la chapelle Cornaro à Rome, utilise un éclairage dramatique, des drapés gonflés et des poses dynamiques pour faire paraître le marbre massif léger et vivant, une signature de la sculpture baroque."
       },
       "nl": {
         "hook": "Bernini beeldhouwde marmer zodat het leek te ademen.",
@@ -1444,7 +1444,7 @@
     "translations": {
       "fr": {
         "hook": "Raphaël a caché les portraits de ses rivaux dans une fresque de philosophes antiques.",
-        "fact": "Dans « L'École d'Athènes », peinte pour le Vatican, Raphaël a modelé la figure de Platon sur Léonard de Vinci et le philosophe mélancolique Héraclite sur Michel-Ange, tout en glissant son propre autoportrait en bordure de la foule."
+        "fact": "Dans « L'École d'Athènes », peinte pour le Vatican, Raphaël a modelé la figure de Platon sur Léonard de Vinci et le philosophe mélancolique Héraclite sur Michel-Ange, tout en glissant son propre autoportrait en bordure de la foule."
       },
       "nl": {
         "hook": "Rafaël verstopte portretten van zijn rivalen in een fresco van antieke filosofen.",
@@ -1516,7 +1516,7 @@
     "translations": {
       "fr": {
         "hook": "Goya a peint ses œuvres les plus sombres à même les murs de sa propre maison.",
-        "fact": "Sourd, vieillissant et désabusé après les troubles politiques en Espagne, Goya a couvert les murs de sa maison de fresques hantées et cauchemardesques connues sous le nom de « Peintures noires », jamais destinées à être montrées au public."
+        "fact": "Sourd, vieillissant et désabusé après les troubles politiques en Espagne, Goya a couvert les murs de sa maison de fresques hantées et cauchemardesques connues sous le nom de « Peintures noires », jamais destinées à être montrées au public."
       },
       "nl": {
         "hook": "Goya schilderde zijn duisterste werken rechtstreeks op de muren van zijn eigen huis.",
@@ -1540,7 +1540,7 @@
     "translations": {
       "fr": {
         "hook": "Vélasquez s'est peint lui-même dans un portrait de la famille royale.",
-        "fact": "« Les Ménines » (1656) montre l'artiste devant son chevalet aux côtés de la famille royale espagnole, avec un miroir reflétant le roi et la reine comme s'ils se tenaient, avec le spectateur, à l'endroit d'où la scène est observée."
+        "fact": "« Les Ménines » (1656) montre l'artiste devant son chevalet aux côtés de la famille royale espagnole, avec un miroir reflétant le roi et la reine comme s'ils se tenaient, avec le spectateur, à l'endroit d'où la scène est observée."
       },
       "nl": {
         "hook": "Velázquez schilderde zichzelf in een portret van de koninklijke familie.",
@@ -1613,7 +1613,7 @@
     "translations": {
       "fr": {
         "hook": "Un peintre d'Europe du Nord a contribué à faire de la peinture à l'huile la norme pendant des siècles.",
-        "fact": "Jan van Eyck n'a pas inventé la peinture à l'huile, mais son perfectionnement de la technique dans des œuvres comme « Les Époux Arnolfini » (1434) a démontré un niveau de détail et une couleur lumineuse qui ont fait de l'huile le médium dominant en Europe."
+        "fact": "Jan van Eyck n'a pas inventé la peinture à l'huile, mais son perfectionnement de la technique dans des œuvres comme « Les Époux Arnolfini » (1434) a démontré un niveau de détail et une couleur lumineuse qui ont fait de l'huile le médium dominant en Europe."
       },
       "nl": {
         "hook": "Eén Noord-Europese schilder hielp olieverf eeuwenlang tot de standaard te maken.",
@@ -1637,7 +1637,7 @@
     "translations": {
       "fr": {
         "hook": "Un tableau vieux de 500 ans regorge de créatures plus bizarres qu'un délire fiévreux.",
-        "fact": "Le triptyque de Jérôme Bosch « Le Jardin des délices » grouille de créatures hybrides fantastiques et d'images surréalistes dont la signification symbolique exacte divise encore les historiens de l'art."
+        "fact": "Le triptyque de Jérôme Bosch « Le Jardin des délices » grouille de créatures hybrides fantastiques et d'images surréalistes dont la signification symbolique exacte divise encore les historiens de l'art."
       },
       "nl": {
         "hook": "Eén 500 jaar oud schilderij zit vol met vreemdere wezens dan een koortsdroom.",
@@ -1661,7 +1661,7 @@
     "translations": {
       "fr": {
         "hook": "Pieter Brueghel l'Ancien peignait des paysans quand la plupart des artistes peignaient saints et nobles.",
-        "fact": "Les scènes de vie villageoise, de moissons et de paysages hivernaux de Brueghel, comme « Chasseurs dans la neige », ont conféré à la vie rurale flamande ordinaire le même poids visuel habituellement réservé aux sujets religieux ou aristocratiques."
+        "fact": "Les scènes de vie villageoise, de moissons et de paysages hivernaux de Brueghel, comme « Chasseurs dans la neige », ont conféré à la vie rurale flamande ordinaire le même poids visuel habituellement réservé aux sujets religieux ou aristocratiques."
       },
       "nl": {
         "hook": "Pieter Bruegel de Oude schilderde boeren terwijl de meeste kunstenaars heiligen en edelen schilderden.",
@@ -1685,7 +1685,7 @@
     "translations": {
       "fr": {
         "hook": "La déesse la plus célèbre de Botticelli a été peinte pour une riche famille de banquiers.",
-        "fact": "« La Naissance de Vénus » aurait été commandée par un membre de la famille Médicis, la dynastie politique et bancaire dominante de Florence, qui a financé une grande partie des plus grands chefs-d'œuvre de l'époque."
+        "fact": "« La Naissance de Vénus » aurait été commandée par un membre de la famille Médicis, la dynastie politique et bancaire dominante de Florence, qui a financé une grande partie des plus grands chefs-d'œuvre de l'époque."
       },
       "nl": {
         "hook": "Botticelli's beroemdste godin werd geschilderd voor een rijke bankiersfamilie.",
@@ -1830,7 +1830,7 @@
     "translations": {
       "fr": {
         "hook": "Les immenses têtes de pierre de l'île de Pâques ont en réalité un corps entier enterré dessous.",
-        "fact": "Les statues moaï de Rapa Nui (l'île de Pâques) ont été sculptées avec un torse complet ; nombre d'entre elles sont aujourd'hui enterrées jusqu'aux épaules sous des siècles d'accumulation de terre et d'érosion."
+        "fact": "Les statues moaï de Rapa Nui (l'île de Pâques) ont été sculptées avec un torse complet ; nombre d'entre elles sont aujourd'hui enterrées jusqu'aux épaules sous des siècles d'accumulation de terre et d'érosion."
       },
       "nl": {
         "hook": "De reusachtige stenen hoofden van Paaseiland hebben in werkelijkheid volledige lichamen die eronder begraven liggen.",
@@ -1926,7 +1926,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Bon nombre de célèbres statues de bronze « grecques » que vous connaissez sont en réalité romaines.",
+        "hook": "Bon nombre de célèbres statues de bronze « grecques » que vous connaissez sont en réalité romaines.",
         "fact": "D'innombrables originaux grecs en bronze, pourtant célèbres, ont été fondus pour leur métal au fil des siècles, et ne survivent aujourd'hui que sous forme de copies en marbre commandées des siècles plus tard par de riches Romains."
       },
       "nl": {
@@ -2076,7 +2076,7 @@
     "translations": {
       "fr": {
         "hook": "Un artiste a rempli le hall des turbines de la Tate Modern avec 100 millions de graines en porcelaine.",
-        "fact": "L'installation « Sunflower Seeds » (2010) de l'artiste chinois Ai Weiwei était constituée de millions de graines en porcelaine sculptées et peintes à la main une à une par des artisans de la ville chinoise de Jingdezhen."
+        "fact": "L'installation « Sunflower Seeds » (2010) de l'artiste chinois Ai Weiwei était constituée de millions de graines en porcelaine sculptées et peintes à la main une à une par des artisans de la ville chinoise de Jingdezhen."
       },
       "nl": {
         "hook": "Een kunstenaar vulde de turbinehal van Tate Modern met 100 miljoen porseleinen zaadjes.",
@@ -2124,7 +2124,7 @@
     "translations": {
       "fr": {
         "hook": "Une peintre du XVIIe siècle a survécu à un procès public pour agression avant de devenir l'une des artistes les plus reconnues de son époque.",
-        "fact": "Artemisia Gentileschi a subi un procès humiliant après avoir été agressée par un autre peintre, avant de devenir l'une des plus grandes peintres baroques d'Europe, connue pour des œuvres puissantes comme « Judith décapitant Holopherne »."
+        "fact": "Artemisia Gentileschi a subi un procès humiliant après avoir été agressée par un autre peintre, avant de devenir l'une des plus grandes peintres baroques d'Europe, connue pour des œuvres puissantes comme « Judith décapitant Holopherne »."
       },
       "nl": {
         "hook": "Een 17e-eeuwse schilderes overleefde een openbaar proces na een aanranding en werd een van de meest succesvolle kunstenaars van haar tijd.",
@@ -2196,7 +2196,7 @@
     "translations": {
       "fr": {
         "hook": "La célèbre figure aux bras et jambes écartés dans un cercle n'est pas une peinture, c'est un croquis de carnet.",
-        "fact": "L'« Homme de Vitruve » de Léonard de Vinci est un dessin à la plume et à l'encre figurant dans l'un de ses carnets, illustrant les proportions idéales du corps humain décrites par l'architecte romain antique Vitruve."
+        "fact": "L'« Homme de Vitruve » de Léonard de Vinci est un dessin à la plume et à l'encre figurant dans l'un de ses carnets, illustrant les proportions idéales du corps humain décrites par l'architecte romain antique Vitruve."
       },
       "nl": {
         "hook": "De beroemde figuur met gespreide armen en benen in een cirkel is geen schilderij, maar een schetsboektekening.",
@@ -2300,7 +2300,7 @@
     "translations": {
       "fr": {
         "hook": "Jean-François Millet peignait les paysans comme s'ils étaient des saints.",
-        "fact": "Son tableau de 1857 « Des glaneuses », représentant des paysannes ramassant les épis restants, a élevé l'humble travail rural à l'échelle et à la dignité habituellement réservées aux scènes religieuses ou historiques, et a plus tard influencé Van Gogh."
+        "fact": "Son tableau de 1857 « Des glaneuses », représentant des paysannes ramassant les épis restants, a élevé l'humble travail rural à l'échelle et à la dignité habituellement réservées aux scènes religieuses ou historiques, et a plus tard influencé Van Gogh."
       },
       "nl": {
         "hook": "Jean-François Millet schilderde boerenarbeiders alsof het heiligen waren.",
@@ -2324,7 +2324,7 @@
     "translations": {
       "fr": {
         "hook": "Un nu a provoqué un scandale retentissant au Salon de Paris.",
-        "fact": "« Olympia » (1865) d'Édouard Manet représentait une femme nue fixant le spectateur sans détour ni gêne, perçue par ses contemporains comme une courtisane plutôt qu'une figure mythologique, ce qui a provoqué l'indignation générale lors de son exposition."
+        "fact": "« Olympia » (1865) d'Édouard Manet représentait une femme nue fixant le spectateur sans détour ni gêne, perçue par ses contemporains comme une courtisane plutôt qu'une figure mythologique, ce qui a provoqué l'indignation générale lors de son exposition."
       },
       "nl": {
         "hook": "Eén naaktschilderij zorgde voor een regelrecht schandaal op de Parijse Salon.",
@@ -2348,7 +2348,7 @@
     "translations": {
       "fr": {
         "hook": "Un peintre britannique captait le mouvement flou et la lumière des décennies avant que l'impressionnisme n'ait un nom.",
-        "fact": "Les œuvres atmosphériques de J.M.W. Turner, comme « Pluie, vapeur et vitesse » (1844), dissolvaient les formes solides en tourbillons de lumière et de couleur, anticipant des techniques que les peintres impressionnistes français développeraient plus tard dans le siècle."
+        "fact": "Les œuvres atmosphériques de J.M.W. Turner, comme « Pluie, vapeur et vitesse » (1844), dissolvaient les formes solides en tourbillons de lumière et de couleur, anticipant des techniques que les peintres impressionnistes français développeraient plus tard dans le siècle."
       },
       "nl": {
         "hook": "Een Britse schilder legde vervaagde beweging en licht vast, decennia voordat het impressionisme een naam had.",
@@ -2371,7 +2371,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "L'artiste derrière « La Grande Vague » a changé de nom une trentaine de fois.",
+        "hook": "L'artiste derrière « La Grande Vague » a changé de nom une trentaine de fois.",
         "fact": "Katsushika Hokusai a utilisé des dizaines de pseudonymes différents au cours de sa carrière, une pratique courante chez les artistes japonais de l'époque pour marquer un changement de style ou de période. Il a vécu jusqu'à environ 90 ans, un âge inhabituellement avancé pour son époque."
       },
       "nl": {
@@ -2444,7 +2444,7 @@
     "translations": {
       "fr": {
         "hook": "Un tableau est souvent considéré comme la première œuvre entièrement abstraite exposée en Russie.",
-        "fact": "Le « Carré noir » (1915) de Kazimir Malevitch, un simple carré noir sur fond blanc, a été créé comme l'image fondatrice du suprématisme, un mouvement radical visant à réduire la peinture à une pure sensation géométrique, libérée de toute référence au monde réel."
+        "fact": "Le « Carré noir » (1915) de Kazimir Malevitch, un simple carré noir sur fond blanc, a été créé comme l'image fondatrice du suprématisme, un mouvement radical visant à réduire la peinture à une pure sensation géométrique, libérée de toute référence au monde réel."
       },
       "nl": {
         "hook": "Eén schilderij wordt vaak beschouwd als het eerste volledig abstracte werk dat in Rusland werd tentoongesteld.",
@@ -2621,7 +2621,7 @@
     "translations": {
       "fr": {
         "hook": "Le plus haut bâtiment du monde a la forme d'une fleur du désert.",
-        "fact": "Le Burj Khalifa, à Dubaï, atteint 828 mètres grâce à un système structurel en « noyau contreventé » en forme de Y, et sa silhouette effilée s'inspire de l'Hymenocallis, une fleur du désert local aux pétales étroits et en spirale."
+        "fact": "Le Burj Khalifa, à Dubaï, atteint 828 mètres grâce à un système structurel en « noyau contreventé » en forme de Y, et sa silhouette effilée s'inspire de l'Hymenocallis, une fleur du désert local aux pétales étroits et en spirale."
       },
       "nl": {
         "hook": "Het hoogste gebouw ter wereld heeft de vorm van een woestijnbloem.",
@@ -2646,7 +2646,7 @@
     "translations": {
       "fr": {
         "hook": "Le Corbusier a un jour résumé toute l'architecture moderne en cinq règles.",
-        "fact": "Ses « cinq points de l'architecture moderne » — les pilotis, la façade libre, le plan libre, les fenêtres en bandeau et le toit-jardin — ont été pleinement réalisés dans la Villa Savoye, près de Paris, achevée en 1931."
+        "fact": "Ses « cinq points de l'architecture moderne » — les pilotis, la façade libre, le plan libre, les fenêtres en bandeau et le toit-jardin — ont été pleinement réalisés dans la Villa Savoye, près de Paris, achevée en 1931."
       },
       "nl": {
         "hook": "Le Corbusier vatte de hele moderne architectuur ooit samen in vijf regels.",
@@ -2670,7 +2670,7 @@
     "translations": {
       "fr": {
         "hook": "Une maison de verre censée offrir la tranquillité d'esprit a fini devant les tribunaux.",
-        "fact": "La Farnsworth House (1951) de Mies van der Rohe est une boîte minimaliste d'acier et de verre presque dépourvue de murs intérieurs. Sa cliente, le Dr Edith Farnsworth, l'a poursuivi en justice pour d'importants dépassements de coûts et a plus tard comparé le fait d'y vivre à habiter « une boîte de verre sur pilotis »."
+        "fact": "La Farnsworth House (1951) de Mies van der Rohe est une boîte minimaliste d'acier et de verre presque dépourvue de murs intérieurs. Sa cliente, le Dr Edith Farnsworth, l'a poursuivi en justice pour d'importants dépassements de coûts et a plus tard comparé le fait d'y vivre à habiter « une boîte de verre sur pilotis »."
       },
       "nl": {
         "hook": "Een glazen huis, bedoeld om gemoedsrust te bieden, eindigde in een rechtszaak.",
@@ -2744,7 +2744,7 @@
     "translations": {
       "fr": {
         "hook": "Un musée dans une ville portuaire espagnole en difficulté a déclenché un boom architectural mondial.",
-        "fact": "Le Guggenheim Bilbao de Frank Gehry, revêtu de titane, a ouvert en 1997 et a transformé une ville industrielle en déclin en destination touristique majeure presque du jour au lendemain, un phénomène que les urbanistes appellent aujourd'hui l'« effet Bilbao ».",
+        "fact": "Le Guggenheim Bilbao de Frank Gehry, revêtu de titane, a ouvert en 1997 et a transformé une ville industrielle en déclin en destination touristique majeure presque du jour au lendemain, un phénomène que les urbanistes appellent aujourd'hui l'« effet Bilbao ».",
         "whyItMatters": "Depuis, des villes du monde entier ont commandé des bâtiments signature à des architectes vedettes, espérant reproduire l'essor touristique et l'investissement de Bilbao, sans toujours y parvenir."
       },
       "nl": {
@@ -2771,7 +2771,7 @@
     "translations": {
       "fr": {
         "hook": "Le Centre Pompidou porte sa plomberie à l'extérieur.",
-        "fact": "Le musée parisien de Renzo Piano et Richard Rogers (1977) place poutres structurelles, gaines d'air, escaliers mécaniques et tuyaux à l'extérieur du bâtiment, avec un code couleur selon leur fonction : bleu pour l'air, vert pour l'eau, jaune pour l'électricité, rouge pour la circulation."
+        "fact": "Le musée parisien de Renzo Piano et Richard Rogers (1977) place poutres structurelles, gaines d'air, escaliers mécaniques et tuyaux à l'extérieur du bâtiment, avec un code couleur selon leur fonction : bleu pour l'air, vert pour l'eau, jaune pour l'électricité, rouge pour la circulation."
       },
       "nl": {
         "hook": "Het Centre Pompidou draagt zijn leidingwerk aan de buitenkant.",
@@ -2914,8 +2914,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "L'architecture brutaliste n'a rien à voir avec le mot « brutal ».",
-        "fact": "Le terme vient de l'expression française « béton brut », désignant les surfaces non finies et apparentes de ce matériau, plutôt qu'une quelconque volonté de paraître dur ou agressif."
+        "hook": "L'architecture brutaliste n'a rien à voir avec le mot « brutal ».",
+        "fact": "Le terme vient de l'expression française « béton brut », désignant les surfaces non finies et apparentes de ce matériau, plutôt qu'une quelconque volonté de paraître dur ou agressif."
       },
       "nl": {
         "hook": "Brutalistische architectuur heeft niets te maken met het woord 'bruut'.",
@@ -2986,7 +2986,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La formule « la forme suit la fonction » vient d'un architecte, pas d'un ingénieur.",
+        "hook": "La formule « la forme suit la fonction » vient d'un architecte, pas d'un ingénieur.",
         "fact": "Louis Sullivan, mentor de Frank Lloyd Wright et figure clé de l'école de Chicago, a inventé cette formule dans un essai de 1896, affirmant que la forme d'un bâtiment devait être dictée par sa fonction."
       },
       "nl": {
@@ -3112,7 +3112,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un architecte a répondu au « less is more » par un « less is a bore ».",
+        "hook": "Un architecte a répondu au « less is more » par un « less is a bore ».",
         "fact": "Le livre de Robert Venturi paru en 1966, Complexity and Contradiction in Architecture, s'opposait au minimalisme moderniste de Mies van der Rohe et a contribué à lancer le retour postmoderne à l'ornement, au symbolisme et aux références historiques."
       },
       "nl": {
@@ -3136,7 +3136,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le surnom d'un gratte-ciel de Pékin se traduit par « grand pantalon ».",
+        "hook": "Le surnom d'un gratte-ciel de Pékin se traduit par « grand pantalon ».",
         "fact": "Le siège de la CCTV conçu par Rem Koolhaas, achevé en 2012, forme une boucle continue de tours inclinées reliées en haut et en bas, et les habitants l'ont immédiatement surnommé ainsi pour sa silhouette de pantalon."
       },
       "nl": {
@@ -3233,7 +3233,7 @@
     "translations": {
       "fr": {
         "hook": "Un fauteuil a été conçu pour avoir l'air déjà assis.",
-        "fact": "Charles et Ray Eames ont conçu leur Lounge Chair de 1956 en contreplaqué moulé et cuir dans le but explicite d'obtenir « l'apparence chaleureuse et accueillante d'un gant de premier but bien usé »."
+        "fact": "Charles et Ray Eames ont conçu leur Lounge Chair de 1956 en contreplaqué moulé et cuir dans le but explicite d'obtenir « l'apparence chaleureuse et accueillante d'un gant de premier but bien usé »."
       },
       "nl": {
         "hook": "Een stoel werd ontworpen om eruit te zien alsof er al in gezeten was.",
@@ -3257,7 +3257,7 @@
     "translations": {
       "fr": {
         "hook": "Les dix règles du bon design d'un designer guident encore aujourd'hui les produits Apple.",
-        "fact": "Dieter Rams, chef du design chez Braun pendant des décennies, a publié ses « Dix principes du bon design », mettant l'accent sur la simplicité et l'honnêteté des formes. Ses produits minimalistes ont directement influencé Jony Ive chez Apple."
+        "fact": "Dieter Rams, chef du design chez Braun pendant des décennies, a publié ses « Dix principes du bon design », mettant l'accent sur la simplicité et l'honnêteté des formes. Ses produits minimalistes ont directement influencé Jony Ive chez Apple."
       },
       "nl": {
         "hook": "De tien regels voor goed design van één ontwerper sturen vandaag nog steeds Apple-producten.",
@@ -3307,7 +3307,7 @@
       "fr": {
         "hook": "Les Post-it existent grâce à une colle ratée.",
         "fact": "Le chercheur de 3M Spencer Silver a mis au point en 1968 un adhésif faible et réutilisable qui semblait inutile. Son collègue Art Fry a réalisé en 1974 qu'il était parfait pour des marque-pages n'abîmant pas les pages, et le Post-it a été lancé en 1980.",
-        "whyItMatters": "C'est l'un des exemples les plus cités en théorie de l'innovation d'une invention « ratée » trouvant un succès commercial inattendu une fois associée au bon problème."
+        "whyItMatters": "C'est l'un des exemples les plus cités en théorie de l'innovation d'une invention « ratée » trouvant un succès commercial inattendu une fois associée au bon problème."
       },
       "nl": {
         "hook": "Post-its bestaan dankzij een mislukte lijm.",
@@ -3653,7 +3653,7 @@
     "translations": {
       "fr": {
         "hook": "Le trombone standard n'a presque pas changé depuis les années 1890.",
-        "fact": "Le trombone de style « Gem », si familier, n'a jamais été breveté, et sa simple forme de fil à double boucle est restée pratiquement inchangée depuis plus d'un siècle, car aucune refonte n'a réellement réussi à l'améliorer."
+        "fact": "Le trombone de style « Gem », si familier, n'a jamais été breveté, et sa simple forme de fil à double boucle est restée pratiquement inchangée depuis plus d'un siècle, car aucune refonte n'a réellement réussi à l'améliorer."
       },
       "nl": {
         "hook": "Het standaard paperclipontwerp is sinds de jaren 1890 nauwelijks veranderd.",
@@ -3945,7 +3945,7 @@
     "translations": {
       "fr": {
         "hook": "Le logo FedEx cache une flèche que presque personne ne remarque.",
-        "fact": "Le designer Lindon Leader a créé, dans l'espace négatif entre le « E » et le « X » du logo FedEx, une flèche pointant vers l'avant, symbole de vitesse et de précision, lors de sa refonte de 1994."
+        "fact": "Le designer Lindon Leader a créé, dans l'espace négatif entre le « E » et le « X » du logo FedEx, une flèche pointant vers l'avant, symbole de vitesse et de précision, lors de sa refonte de 1994."
       },
       "nl": {
         "hook": "Het FedEx-logo verbergt een pijl die bijna niemand opmerkt.",
@@ -4017,7 +4017,7 @@
     "translations": {
       "fr": {
         "hook": "Les imprimeurs avaient un dicton : dans le doute, utilisez cette police.",
-        "fact": "« Dans le doute, utilisez le Caslon » est devenu un adage courant chez les imprimeurs, car cette police anglaise du XVIIIe siècle créée par William Caslon était considérée comme un choix fiable et polyvalent par défaut. Elle a même servi à imprimer la Déclaration d'indépendance des États-Unis."
+        "fact": "« Dans le doute, utilisez le Caslon » est devenu un adage courant chez les imprimeurs, car cette police anglaise du XVIIIe siècle créée par William Caslon était considérée comme un choix fiable et polyvalent par défaut. Elle a même servi à imprimer la Déclaration d'indépendance des États-Unis."
       },
       "nl": {
         "hook": "Drukkers hadden een gezegde: bij twijfel, gebruik dit lettertype.",
@@ -4089,7 +4089,7 @@
     "translations": {
       "fr": {
         "hook": "La NASA a brièvement abandonné son logo classique pour un sobre logotype rouge.",
-        "fact": "Entre 1975 et 1992, la NASA a utilisé un logo typographique rouge minimaliste surnommé « le ver », remplaçant l'ancien insigne circulaire « meatball ». Le logo du ver a ensuite été réutilisé pour certaines missions à partir de 2020."
+        "fact": "Entre 1975 et 1992, la NASA a utilisé un logo typographique rouge minimaliste surnommé « le ver », remplaçant l'ancien insigne circulaire « meatball ». Le logo du ver a ensuite été réutilisé pour certaines missions à partir de 2020."
       },
       "nl": {
         "hook": "NASA verruilde zijn klassieke logo tijdelijk voor een strak rood woordmerk.",
@@ -4136,7 +4136,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Une police du XVIIIe siècle a été jugée, à sa sortie, controversée pour être « trop parfaite ».",
+        "hook": "Une police du XVIIIe siècle a été jugée, à sa sortie, controversée pour être « trop parfaite ».",
         "fact": "La police créée par John Baskerville au milieu du XVIIIe siècle utilisait un contraste plus marqué entre pleins et déliés que les polices antérieures, et certains contemporains estimaient que cette netteté fatiguait les yeux des lecteurs. Elle a ensuite fortement influencé la conception des polices à empattements modernes."
       },
       "nl": {
@@ -4412,7 +4412,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le tout premier « appareil photo » n'avait ni objectif, ni pellicule, ni moyen de conserver l'image.",
+        "hook": "Le tout premier « appareil photo » n'avait ni objectif, ni pellicule, ni moyen de conserver l'image.",
         "fact": "La chambre noire, décrite dès l'époque d'Aristote, projette l'image inversée du monde extérieur à travers un petit trou dans une pièce ou une boîte obscure. Des artistes s'en sont servis pendant des siècles comme aide au dessin, bien avant l'invention de la photographie."
       },
       "nl": {
@@ -4484,7 +4484,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le slogan d'un appareil photo promettait une simplicité totale : « vous appuyez sur le bouton, nous faisons le reste ».",
+        "hook": "Le slogan d'un appareil photo promettait une simplicité totale : « vous appuyez sur le bouton, nous faisons le reste ».",
         "fact": "Le Brownie de Kodak, lancé en 1900, était assez bon marché et facile d'utilisation pour le grand public, contribuant à transformer la photographie d'une spécialité technique en un loisir de masse."
       },
       "nl": {
@@ -4801,7 +4801,7 @@
     "translations": {
       "fr": {
         "hook": "La vision d'un artiste concept d'un futur pluvieux et néon a façonné des décennies de films de science-fiction.",
-        "fact": "La conception artistique de Syd Mead pour Blade Runner (1982) a instauré une esthétique cyberpunk « rafistolée », mêlant bâtiments anciens délabrés et publicités néon high-tech, un style qui a influencé d'innombrables films de science-fiction par la suite."
+        "fact": "La conception artistique de Syd Mead pour Blade Runner (1982) a instauré une esthétique cyberpunk « rafistolée », mêlant bâtiments anciens délabrés et publicités néon high-tech, un style qui a influencé d'innombrables films de science-fiction par la suite."
       },
       "nl": {
         "hook": "De visie van één conceptkunstenaar op een regenachtige neonfuture bepaalde decennialang sciencefictionfilms.",

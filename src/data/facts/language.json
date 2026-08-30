@@ -11,7 +11,7 @@
     "translations": {
       "fr": {
         "hook": "Les soldats romains n'ont sans doute jamais été payés en sel, au sens littéral.",
-        "fact": "Le mot « salary » (salaire) vient du latin salarium, un terme lié à sal (le sel), probablement à l'origine une allocation destinée aux soldats pour acheter du sel ou d'autres provisions. L'idée répandue selon laquelle les légionnaires recevaient littéralement du sel en guise de solde est une exagération largement répétée, peu étayée par des preuves solides."
+        "fact": "Le mot « salary » (salaire) vient du latin salarium, un terme lié à sal (le sel), probablement à l'origine une allocation destinée aux soldats pour acheter du sel ou d'autres provisions. L'idée répandue selon laquelle les légionnaires recevaient littéralement du sel en guise de solde est une exagération largement répétée, peu étayée par des preuves solides."
       },
       "nl": {
         "hook": "Romeinse soldaten werden waarschijnlijk nooit letterlijk in zout betaald.",
@@ -34,8 +34,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « clue » (indice) vient d'une pelote de fil dans un mythe grec.",
-        "fact": "« Clue » descend du moyen anglais « clew », qui désignait une pelote de fil. Il a pris le sens d'un élément qui aide à résoudre un mystère à cause du mythe de Thésée, qui déroula une pelote de fil pour retrouver son chemin hors du labyrinthe du Minotaure."
+        "hook": "Le mot « clue » (indice) vient d'une pelote de fil dans un mythe grec.",
+        "fact": "« Clue » descend du moyen anglais « clew », qui désignait une pelote de fil. Il a pris le sens d'un élément qui aide à résoudre un mystère à cause du mythe de Thésée, qui déroula une pelote de fil pour retrouver son chemin hors du labyrinthe du Minotaure."
       },
       "nl": {
         "hook": "Het woord \"clue\" (aanwijzing) komt van een kluwen garen uit een Griekse mythe.",
@@ -59,7 +59,7 @@
     "translations": {
       "fr": {
         "hook": "Contracter son biceps, c'est techniquement faire bouger une petite souris.",
-        "fact": "« Muscle » vient du latin musculus, littéralement « petite souris ». Les Romains trouvaient qu'un muscle en contraction, surtout le biceps, ressemblait à une petite souris se déplaçant sous la peau."
+        "fact": "« Muscle » vient du latin musculus, littéralement « petite souris ». Les Romains trouvaient qu'un muscle en contraction, surtout le biceps, ressemblait à une petite souris se déplaçant sous la peau."
       },
       "nl": {
         "hook": "Als je je biceps aanspant, laat je technisch gezien een muisje bewegen.",
@@ -82,8 +82,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un « companion » (compagnon) est littéralement quelqu'un avec qui on partage le pain.",
-        "fact": "« Companion » vient du latin com- (« ensemble avec ») et panis (« pain »). Un compagnon était à l'origine quelqu'un avec qui l'on rompait le pain."
+        "hook": "Un « companion » (compagnon) est littéralement quelqu'un avec qui on partage le pain.",
+        "fact": "« Companion » vient du latin com- (« ensemble avec ») et panis (« pain »). Un compagnon était à l'origine quelqu'un avec qui l'on rompait le pain."
       },
       "nl": {
         "hook": "Een \"companion\" (metgezel) is letterlijk iemand met wie je brood deelt.",
@@ -106,8 +106,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un « disaster » (désastre) était à l'origine imputé aux étoiles.",
-        "fact": "« Disaster » vient de l'italien disastro, formé du préfixe d'origine grecque dis- (« mauvais ») et astro (« étoile »). Le mot reflète une ancienne croyance astrologique selon laquelle les catastrophes étaient causées par la position défavorable d'une étoile ou d'une planète."
+        "hook": "Un « disaster » (désastre) était à l'origine imputé aux étoiles.",
+        "fact": "« Disaster » vient de l'italien disastro, formé du préfixe d'origine grecque dis- (« mauvais ») et astro (« étoile »). Le mot reflète une ancienne croyance astrologique selon laquelle les catastrophes étaient causées par la position défavorable d'une étoile ou d'une planète."
       },
       "nl": {
         "hook": "Een \"disaster\" (ramp) werd oorspronkelijk de sterren aangewreven.",
@@ -132,8 +132,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Quarantine » (quarantaine) signifie « quarante jours », pour une raison bien littérale.",
-        "fact": "Pendant la peste noire, la République de Venise exigeait que les navires arrivant de ports touchés par la peste restent au mouillage pendant 40 jours avant que quiconque puisse débarquer. Cette pratique s'appelait quarantena, du mot vénitien pour « quarante ».",
+        "hook": "« Quarantine » (quarantaine) signifie « quarante jours », pour une raison bien littérale.",
+        "fact": "Pendant la peste noire, la République de Venise exigeait que les navires arrivant de ports touchés par la peste restent au mouillage pendant 40 jours avant que quiconque puisse débarquer. Cette pratique s'appelait quarantena, du mot vénitien pour « quarante ».",
         "whyItMatters": "La même idée de base, isoler les personnes potentiellement infectées pendant une période fixe, est encore utilisée aujourd'hui dans la gestion moderne des épidémies et des pandémies."
       },
       "nl": {
@@ -159,8 +159,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le « mare » de « nightmare » (cauchemar) n'a rien à voir avec les chevaux.",
-        "fact": "Le « mare » de « nightmare » vient du vieil anglais mare, un terme désignant un démon ou un lutin mythique censé s'asseoir sur la poitrine d'un dormeur pour l'étouffer, provoquant de mauvais rêves. Ce mot n'a aucun lien avec « mare », qui désigne une jument."
+        "hook": "Le « mare » de « nightmare » (cauchemar) n'a rien à voir avec les chevaux.",
+        "fact": "Le « mare » de « nightmare » vient du vieil anglais mare, un terme désignant un démon ou un lutin mythique censé s'asseoir sur la poitrine d'un dormeur pour l'étouffer, provoquant de mauvais rêves. Ce mot n'a aucun lien avec « mare », qui désigne une jument."
       },
       "nl": {
         "hook": "De \"mare\" in \"nightmare\" (nachtmerrie) heeft niets met paarden te maken.",
@@ -183,8 +183,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Sarcasm » (sarcasme) signifie littéralement « déchirer la chair ».",
-        "fact": "« Sarcasm » vient du verbe grec sarkazein, « déchirer la chair comme un chien », dérivé de sarx (« chair »). Le mot est arrivé en anglais via le latin tardif et le français pour désigner des remarques mordantes et cinglantes."
+        "hook": "« Sarcasm » (sarcasme) signifie littéralement « déchirer la chair ».",
+        "fact": "« Sarcasm » vient du verbe grec sarkazein, « déchirer la chair comme un chien », dérivé de sarx (« chair »). Le mot est arrivé en anglais via le latin tardif et le français pour désigner des remarques mordantes et cinglantes."
       },
       "nl": {
         "hook": "\"Sarcasm\" betekent letterlijk \"vlees verscheuren.\"",
@@ -207,8 +207,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Panic » (panique) tire son nom d'un dieu grec qui vivait dans les bois.",
-        "fact": "« Panic » vient du dieu grec Pan, une divinité champêtre associée aux lieux sauvages, qui aurait provoqué une terreur soudaine et irrationnelle chez les voyageurs et les troupeaux traversant ses forêts."
+        "hook": "« Panic » (panique) tire son nom d'un dieu grec qui vivait dans les bois.",
+        "fact": "« Panic » vient du dieu grec Pan, une divinité champêtre associée aux lieux sauvages, qui aurait provoqué une terreur soudaine et irrationnelle chez les voyageurs et les troupeaux traversant ses forêts."
       },
       "nl": {
         "hook": "\"Panic\" (paniek) is vernoemd naar een Griekse god die in de bossen leefde.",
@@ -231,8 +231,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Tantalize » (tantaliser), c'est punir quelqu'un comme un roi grec.",
-        "fact": "« Tantalize » vient de Tantale, une figure de la mythologie grecque condamnée aux enfers à se tenir dans l'eau sous un arbre fruitier, la nourriture et la boisson s'éloignant sans cesse hors de portée dès qu'il tentait de les saisir."
+        "hook": "« Tantalize » (tantaliser), c'est punir quelqu'un comme un roi grec.",
+        "fact": "« Tantalize » vient de Tantale, une figure de la mythologie grecque condamnée aux enfers à se tenir dans l'eau sous un arbre fruitier, la nourriture et la boisson s'éloignant sans cesse hors de portée dès qu'il tentait de les saisir."
       },
       "nl": {
         "hook": "Iemand \"tantalizen\" betekent hem straffen zoals een Griekse koning.",
@@ -255,8 +255,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Lunatic » (lunatique) accuse la lune de rendre fou.",
-        "fact": "« Lunatic » vient du latin luna, « lune ». Le mot reflète une vieille croyance populaire, encore répandue bien après le Moyen Âge, selon laquelle les phases de la lune pouvaient déclencher la folie ou un comportement erratique."
+        "hook": "« Lunatic » (lunatique) accuse la lune de rendre fou.",
+        "fact": "« Lunatic » vient du latin luna, « lune ». Le mot reflète une vieille croyance populaire, encore répandue bien après le Moyen Âge, selon laquelle les phases de la lune pouvaient déclencher la folie ou un comportement erratique."
       },
       "nl": {
         "hook": "\"Lunatic\" (krankzinnige) geeft de maan de schuld van waanzin.",
@@ -279,8 +279,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Algebra » (algèbre) tire son nom du titre d'un livre du IXe siècle, pas d'une personne.",
-        "fact": "« Algebra » vient de l'arabe al-jabr, signifiant « la réunion des parties brisées ». Le mot est tiré du titre d'un traité mathématique écrit vers 820 apr. J.-C. par le savant persan al-Khwarizmi."
+        "hook": "« Algebra » (algèbre) tire son nom du titre d'un livre du IXe siècle, pas d'une personne.",
+        "fact": "« Algebra » vient de l'arabe al-jabr, signifiant « la réunion des parties brisées ». Le mot est tiré du titre d'un traité mathématique écrit vers 820 apr. J.-C. par le savant persan al-Khwarizmi."
       },
       "nl": {
         "hook": "\"Algebra\" is vernoemd naar een boektitel uit de 9e eeuw, niet naar een persoon.",
@@ -305,9 +305,9 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Chaque « algorithm » (algorithme) porte discrètement le nom d'un mathématicien du IXe siècle.",
-        "fact": "« Algorithm » vient d'Algorismus, la forme latinisée du nom du mathématicien persan al-Khwarizmi, dont les travaux ont introduit les chiffres indo-arabes et des méthodes de calcul systématiques dans le monde islamique, puis en Europe.",
-        "whyItMatters": "Presque tous les logiciels modernes reposent sur des « algorithms », un mot qui remonte directement au nom d'un véritable savant du IXe siècle."
+        "hook": "Chaque « algorithm » (algorithme) porte discrètement le nom d'un mathématicien du IXe siècle.",
+        "fact": "« Algorithm » vient d'Algorismus, la forme latinisée du nom du mathématicien persan al-Khwarizmi, dont les travaux ont introduit les chiffres indo-arabes et des méthodes de calcul systématiques dans le monde islamique, puis en Europe.",
+        "whyItMatters": "Presque tous les logiciels modernes reposent sur des « algorithms », un mot qui remonte directement au nom d'un véritable savant du IXe siècle."
       },
       "nl": {
         "hook": "Elk \"algorithm\" (algoritme) is stilletjes vernoemd naar één wiskundige uit de 9e eeuw.",
@@ -332,8 +332,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un « admiral » (amiral) n'était à l'origine que « le commandant ».",
-        "fact": "« Admiral » vient de l'arabe amir (« commandant »), souvent utilisé dans le titre complet amir al-bahr, « commandant de la mer ». Le mot est passé en anglais via le français médiéval et le latin."
+        "hook": "Un « admiral » (amiral) n'était à l'origine que « le commandant ».",
+        "fact": "« Admiral » vient de l'arabe amir (« commandant »), souvent utilisé dans le titre complet amir al-bahr, « commandant de la mer ». Le mot est passé en anglais via le français médiéval et le latin."
       },
       "nl": {
         "hook": "Een \"admiral\" (admiraal) was oorspronkelijk gewoon \"de bevelhebber.\"",
@@ -356,8 +356,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Alcohol » (alcool) désignait au départ un maquillage pour les yeux.",
-        "fact": "« Alcohol » vient de l'arabe al-kuhl, une poudre fine d'antimoine utilisée comme eye-liner (le khôl). Les Européens ont d'abord employé « alcohol » pour désigner toute poudre fine obtenue par distillation, avant que le mot ne se restreigne aux spiritueux distillés."
+        "hook": "« Alcohol » (alcool) désignait au départ un maquillage pour les yeux.",
+        "fact": "« Alcohol » vient de l'arabe al-kuhl, une poudre fine d'antimoine utilisée comme eye-liner (le khôl). Les Européens ont d'abord employé « alcohol » pour désigner toute poudre fine obtenue par distillation, avant que le mot ne se restreigne aux spiritueux distillés."
       },
       "nl": {
         "hook": "\"Alcohol\" begon als een woord voor oogmake-up.",
@@ -381,8 +381,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « coffee » (café) a traversé trois langues avant d'arriver en anglais.",
-        "fact": "« Coffee » vient de l'arabe qahwa, devenu kahve en turc avant d'entrer dans les langues européennes, arrivant en anglais via l'italien et le néerlandais au XVIIe siècle."
+        "hook": "Le mot « coffee » (café) a traversé trois langues avant d'arriver en anglais.",
+        "fact": "« Coffee » vient de l'arabe qahwa, devenu kahve en turc avant d'entrer dans les langues européennes, arrivant en anglais via l'italien et le néerlandais au XVIIe siècle."
       },
       "nl": {
         "hook": "Het woord \"coffee\" (koffie) reisde langs drie talen voordat het het Engels bereikte.",
@@ -406,8 +406,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Safari » signifie simplement « voyage ».",
-        "fact": "« Safari » vient du swahili safari, signifiant « voyage », lui-même dérivé de l'arabe safar, « voyager ». Le mot n'a pris sa connotation spécifique de chasse au gros gibier en anglais qu'à l'époque coloniale en Afrique de l'Est."
+        "hook": "« Safari » signifie simplement « voyage ».",
+        "fact": "« Safari » vient du swahili safari, signifiant « voyage », lui-même dérivé de l'arabe safar, « voyager ». Le mot n'a pris sa connotation spécifique de chasse au gros gibier en anglais qu'à l'époque coloniale en Afrique de l'Est."
       },
       "nl": {
         "hook": "\"Safari\" betekent gewoon \"reis.\"",
@@ -431,8 +431,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Zero » (zéro) est arrivé en Europe comme un mot arabe signifiant « vide ».",
-        "fact": "« Zero » remonte à l'arabe sifr, signifiant « vide » ou « rien », qui a aussi donné le mot anglais « cipher ». Les savants arabes ont transmis le concept du zéro, développé à l'origine en Inde, à l'Europe médiévale.",
+        "hook": "« Zero » (zéro) est arrivé en Europe comme un mot arabe signifiant « vide ».",
+        "fact": "« Zero » remonte à l'arabe sifr, signifiant « vide » ou « rien », qui a aussi donné le mot anglais « cipher ». Les savants arabes ont transmis le concept du zéro, développé à l'origine en Inde, à l'Europe médiévale.",
         "whyItMatters": "L'adoption du zéro et du système de numération positionnelle qu'il a rendu possible est considérée comme un tournant qui a rendu praticables les mathématiques et la comptabilité modernes."
       },
       "nl": {
@@ -458,8 +458,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Checkmate » (échec et mat) signifie « le roi est impuissant ».",
-        "fact": "« Checkmate » vient du persan shah mat, approximativement « le roi est impuissant » ou « le roi est bloqué », via l'arabe et l'ancien français. Les échecs eux-mêmes sont arrivés en Europe depuis la Perse, qui les avait adaptés d'un jeu indien plus ancien."
+        "hook": "« Checkmate » (échec et mat) signifie « le roi est impuissant ».",
+        "fact": "« Checkmate » vient du persan shah mat, approximativement « le roi est impuissant » ou « le roi est bloqué », via l'arabe et l'ancien français. Les échecs eux-mêmes sont arrivés en Europe depuis la Perse, qui les avait adaptés d'un jeu indien plus ancien."
       },
       "nl": {
         "hook": "\"Checkmate\" (schaakmat) betekent \"de koning is hulpeloos.\"",
@@ -482,8 +482,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Les oranges n'ont pas été nommées d'après la couleur ; c'est l'inverse.",
-        "fact": "« Orange » vient du persan narang, via l'arabe naranj et l'ancien français. Le nom du fruit est apparu en premier ; le nom de la couleur a suivi une fois le fruit assez répandu en Europe pour désigner une teinte."
+        "hook": "Les oranges n'ont pas été nommées d'après la couleur ; c'est l'inverse.",
+        "fact": "« Orange » vient du persan narang, via l'arabe naranj et l'ancien français. Le nom du fruit est apparu en premier ; le nom de la couleur a suivi une fois le fruit assez répandu en Europe pour désigner une teinte."
       },
       "nl": {
         "hook": "Sinaasappels zijn niet naar de kleur genoemd; het is net andersom.",
@@ -506,8 +506,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un « magazine » était à l'origine un entrepôt d'armes.",
-        "fact": "« Magazine » vient de l'arabe makhazin, « entrepôts », passé par l'italien et le français avant d'entrer en anglais, où il désignait à l'origine un lieu de stockage de marchandises ou de munitions. Le sens de publication n'est apparu qu'au XVIIIe siècle, lorsque « magazine » a servi à désigner un entrepôt d'informations."
+        "hook": "Un « magazine » était à l'origine un entrepôt d'armes.",
+        "fact": "« Magazine » vient de l'arabe makhazin, « entrepôts », passé par l'italien et le français avant d'entrer en anglais, où il désignait à l'origine un lieu de stockage de marchandises ou de munitions. Le sens de publication n'est apparu qu'au XVIIIe siècle, lorsque « magazine » a servi à désigner un entrepôt d'informations."
       },
       "nl": {
         "hook": "Een \"magazine\" (tijdschrift) was oorspronkelijk een opslagplaats voor wapens.",
@@ -530,8 +530,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Monsoon » (mousson) signifie littéralement « saison ».",
-        "fact": "« Monsoon » vient de l'arabe mawsim, « saison », via le portugais monção. Le mot désignait à l'origine, de façon générale, les régimes de vents saisonniers de la mer d'Arabie, avant de se restreindre aux vents porteurs de pluie propres à l'Asie du Sud."
+        "hook": "« Monsoon » (mousson) signifie littéralement « saison ».",
+        "fact": "« Monsoon » vient de l'arabe mawsim, « saison », via le portugais monção. Le mot désignait à l'origine, de façon générale, les régimes de vents saisonniers de la mer d'Arabie, avant de se restreindre aux vents porteurs de pluie propres à l'Asie du Sud."
       },
       "nl": {
         "hook": "\"Monsoon\" (moesson) betekent letterlijk gewoon \"seizoen.\"",
@@ -554,8 +554,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Hazard » (hasard) a débuté comme un jeu de dés.",
-        "fact": "« Hazard » vient de l'arabe az-zahr, « le dé », via l'ancien français hasard, qui désignait à l'origine un jeu d'argent médiéval joué aux dés. Son sens moderne de « danger » est né du risque lié aux paris."
+        "hook": "« Hazard » (hasard) a débuté comme un jeu de dés.",
+        "fact": "« Hazard » vient de l'arabe az-zahr, « le dé », via l'ancien français hasard, qui désignait à l'origine un jeu d'argent médiéval joué aux dés. Son sens moderne de « danger » est né du risque lié aux paris."
       },
       "nl": {
         "hook": "\"Hazard\" begon als een dobbelspel.",
@@ -579,7 +579,7 @@
     "translations": {
       "fr": {
         "hook": "Le nom de la girafe a à peine changé en arrivant en anglais.",
-        "fact": "« Giraffe » vient presque directement de l'arabe zarafa, entré en anglais via l'italien et le français avec peu de changement sonore."
+        "fact": "« Giraffe » vient presque directement de l'arabe zarafa, entré en anglais via l'italien et le français avec peu de changement sonore."
       },
       "nl": {
         "hook": "De naam van de giraf veranderde nauwelijks op weg naar het Engels.",
@@ -603,8 +603,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Candy » (bonbon) remonte, via l'arabe, à un mot sanskrit désignant un morceau de sucre.",
-        "fact": "« Candy » vient de l'arabe qandi, lui-même issu du sanskrit khanda, signifiant un morceau ou un fragment de sucre. Le mot décrit la façon dont le sucre était vendu à l'origine, cassé en morceaux cristallisés."
+        "hook": "« Candy » (bonbon) remonte, via l'arabe, à un mot sanskrit désignant un morceau de sucre.",
+        "fact": "« Candy » vient de l'arabe qandi, lui-même issu du sanskrit khanda, signifiant un morceau ou un fragment de sucre. Le mot décrit la façon dont le sucre était vendu à l'origine, cassé en morceaux cristallisés."
       },
       "nl": {
         "hook": "\"Candy\" (snoep) gaat via het Arabisch terug op een Sanskrietwoord voor een stuk suiker.",
@@ -630,7 +630,7 @@
     "translations": {
       "fr": {
         "hook": "Un mot désignant une force inarrêtable vient d'un festival hindou mal compris.",
-        "fact": "« Juggernaut » vient de Jagannath, une forme de la divinité hindoue Krishna vénérée à Puri, en Inde, dont l'immense char de temple était promené dans les rues lors des festivals. Les premiers voyageurs européens croyaient à tort que les fidèles se jetaient délibérément sous ses roues, et le mot est entré en anglais pour désigner toute force inarrêtable et écrasante.",
+        "fact": "« Juggernaut » vient de Jagannath, une forme de la divinité hindoue Krishna vénérée à Puri, en Inde, dont l'immense char de temple était promené dans les rues lors des festivals. Les premiers voyageurs européens croyaient à tort que les fidèles se jetaient délibérément sous ses roues, et le mot est entré en anglais pour désigner toute force inarrêtable et écrasante.",
         "whyItMatters": "C'est un exemple frappant d'une incompréhension coloniale d'une pratique religieuse qui a fini par se figer en un mot anglais durable."
       },
       "nl": {
@@ -656,8 +656,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Avatar » signifiait « descente du ciel » bien avant de désigner une photo de profil.",
-        "fact": "« Avatar » vient du sanskrit avatara, désignant la « descente » d'une divinité sur terre sous une forme corporelle. L'anglais l'a d'abord emprunté pour désigner les incarnations terrestres des dieux hindous, avant que le mot ne soit réemployé pour les représentations numériques d'une personne."
+        "hook": "« Avatar » signifiait « descente du ciel » bien avant de désigner une photo de profil.",
+        "fact": "« Avatar » vient du sanskrit avatara, désignant la « descente » d'une divinité sur terre sous une forme corporelle. L'anglais l'a d'abord emprunté pour désigner les incarnations terrestres des dieux hindous, avant que le mot ne soit réemployé pour les représentations numériques d'une personne."
       },
       "nl": {
         "hook": "\"Avatar\" betekende \"nederdaling uit de hemel\" lang voordat het een profielfoto betekende.",
@@ -680,8 +680,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Shampoo » (shampooing) désignait autrefois un massage complet du corps, pas un lavage de cheveux.",
-        "fact": "« Shampoo » vient du hindi champo, une forme impérative de champna, « presser » ou « pétrir ». Le mot est entré en anglais au XVIIIe siècle pour décrire une pratique de massage thérapeutique, avant que son sens ne se restreigne au lavage des cheveux."
+        "hook": "« Shampoo » (shampooing) désignait autrefois un massage complet du corps, pas un lavage de cheveux.",
+        "fact": "« Shampoo » vient du hindi champo, une forme impérative de champna, « presser » ou « pétrir ». Le mot est entré en anglais au XVIIIe siècle pour décrire une pratique de massage thérapeutique, avant que son sens ne se restreigne au lavage des cheveux."
       },
       "nl": {
         "hook": "\"Shampoo\" betekende vroeger een lichaamsmassage, geen haarwas.",
@@ -705,8 +705,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Thug » désignait à l'origine un réseau criminel précis en Inde.",
-        "fact": "« Thug » vient du hindi thag, désignant les membres d'un réseau organisé de voleurs en Inde qui, selon les récits coloniaux britanniques du XIXe siècle, opéraient sous ce nom. Le mot est entré en anglais via ces récits coloniaux et s'est élargi pour désigner tout criminel violent."
+        "hook": "« Thug » désignait à l'origine un réseau criminel précis en Inde.",
+        "fact": "« Thug » vient du hindi thag, désignant les membres d'un réseau organisé de voleurs en Inde qui, selon les récits coloniaux britanniques du XIXe siècle, opéraient sous ce nom. Le mot est entré en anglais via ces récits coloniaux et s'est élargi pour désigner tout criminel violent."
       },
       "nl": {
         "hook": "\"Thug\" (schurk) benoemde oorspronkelijk een specifiek crimineel netwerk in India.",
@@ -729,8 +729,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Loot » (butin) est un emprunt direct au hindi.",
-        "fact": "« Loot » vient directement du hindi lut, signifiant pillage ou biens volés, adopté en anglais par les soldats et fonctionnaires britanniques en poste dans l'Inde coloniale."
+        "hook": "« Loot » (butin) est un emprunt direct au hindi.",
+        "fact": "« Loot » vient directement du hindi lut, signifiant pillage ou biens volés, adopté en anglais par les soldats et fonctionnaires britanniques en poste dans l'Inde coloniale."
       },
       "nl": {
         "hook": "\"Loot\" (buit) is rechtstreeks overgenomen uit het Hindi.",
@@ -754,8 +754,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un « punch » au rhum tire son nom de ses cinq ingrédients.",
-        "fact": "« Punch », la boisson mélangée, vient du hindi et du sanskrit panch, signifiant « cinq ». Le nom faisait référence aux cinq ingrédients traditionnels : alcool, eau, citron, sucre et épices."
+        "hook": "Un « punch » au rhum tire son nom de ses cinq ingrédients.",
+        "fact": "« Punch », la boisson mélangée, vient du hindi et du sanskrit panch, signifiant « cinq ». Le nom faisait référence aux cinq ingrédients traditionnels : alcool, eau, citron, sucre et épices."
       },
       "nl": {
         "hook": "Een rumpunch is genoemd naar zijn vijf ingrediënten.",
@@ -779,8 +779,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le « pyjama » tire son nom d'un vêtement porté sur les jambes.",
-        "fact": "« Pajamas » (pyjama) vient du hindi et de l'ourdou payjama, lui-même issu du persan pay (« jambe ») et jama (« vêtement »). Le mot désignait à l'origine un pantalon ample noué à la taille, porté en Asie du Sud bien avant de devenir, en anglais, le mot pour les vêtements de nuit."
+        "hook": "Le « pyjama » tire son nom d'un vêtement porté sur les jambes.",
+        "fact": "« Pajamas » (pyjama) vient du hindi et de l'ourdou payjama, lui-même issu du persan pay (« jambe ») et jama (« vêtement »). Le mot désignait à l'origine un pantalon ample noué à la taille, porté en Asie du Sud bien avant de devenir, en anglais, le mot pour les vêtements de nuit."
       },
       "nl": {
         "hook": "\"Pajamas\" (pyjama) is vernoemd naar een kledingstuk voor de benen.",
@@ -804,8 +804,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Paradise » (paradis) désignait à l'origine un jardin clos.",
-        "fact": "« Paradise » vient du vieux persan pairidaeza, désignant un parc clos ou un jardin entouré de murs. Le mot est passé en grec sous la forme paradeisos, puis en anglais via le latin et le français, prenant peu à peu son sens céleste."
+        "hook": "« Paradise » (paradis) désignait à l'origine un jardin clos.",
+        "fact": "« Paradise » vient du vieux persan pairidaeza, désignant un parc clos ou un jardin entouré de murs. Le mot est passé en grec sous la forme paradeisos, puis en anglais via le latin et le français, prenant peu à peu son sens céleste."
       },
       "nl": {
         "hook": "\"Paradise\" (paradijs) betekende oorspronkelijk een omheinde tuin.",
@@ -828,8 +828,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Bazaar » (bazar) est un emprunt direct au persan.",
-        "fact": "« Bazaar » vient du persan bazar, signifiant un marché, et est entré en anglais quasiment sans changement grâce aux échanges commerciaux et à l'usage colonial en Asie du Sud."
+        "hook": "« Bazaar » (bazar) est un emprunt direct au persan.",
+        "fact": "« Bazaar » vient du persan bazar, signifiant un marché, et est entré en anglais quasiment sans changement grâce aux échanges commerciaux et à l'usage colonial en Asie du Sud."
       },
       "nl": {
         "hook": "\"Bazaar\" (bazaar) is een rechtstreeks leenwoord uit het Perzisch.",
@@ -853,8 +853,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Khaki » tire son nom d'une couleur, pas d'un tissu.",
-        "fact": "« Khaki » vient de l'ourdou et du persan khaki, signifiant « couleur de poussière », de khak (« poussière »). Les troupes coloniales britanniques en Inde ont adopté des uniformes couleur poussière pour se camoufler, et le nom de la couleur est devenu celui du tissu."
+        "hook": "« Khaki » tire son nom d'une couleur, pas d'un tissu.",
+        "fact": "« Khaki » vient de l'ourdou et du persan khaki, signifiant « couleur de poussière », de khak (« poussière »). Les troupes coloniales britanniques en Inde ont adopté des uniformes couleur poussière pour se camoufler, et le nom de la couleur est devenu celui du tissu."
       },
       "nl": {
         "hook": "\"Khaki\" is vernoemd naar een kleur, niet naar een stof.",
@@ -877,8 +877,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La couleur « azure » (azur) tire son nom d'un lieu où l'on extrayait une pierre bleue.",
-        "fact": "« Azure » vient du persan lazhward, une région réputée pour être une source de lapis-lazuli, le minéral bleu profond. Le mot est passé par l'arabe puis l'ancien français avant de s'installer en anglais comme nom de couleur."
+        "hook": "La couleur « azure » (azur) tire son nom d'un lieu où l'on extrayait une pierre bleue.",
+        "fact": "« Azure » vient du persan lazhward, une région réputée pour être une source de lapis-lazuli, le minéral bleu profond. Le mot est passé par l'arabe puis l'ancien français avant de s'installer en anglais comme nom de couleur."
       },
       "nl": {
         "hook": "De kleur \"azure\" (azuurblauw) is vernoemd naar een plaats waar blauwe steen werd gedolven.",
@@ -902,8 +902,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « robot » n'a qu'un siècle environ, et il est né sur une scène de théâtre.",
-        "fact": "« Robot » vient du tchèque robota, signifiant travail forcé ou corvée. Le mot a été inventé pour la pièce de Karel Čapek de 1920, R.U.R. (Rossum's Universal Robots), le terme précis ayant, selon les récits, été suggéré par son frère, le peintre et écrivain Josef Čapek."
+        "hook": "Le mot « robot » n'a qu'un siècle environ, et il est né sur une scène de théâtre.",
+        "fact": "« Robot » vient du tchèque robota, signifiant travail forcé ou corvée. Le mot a été inventé pour la pièce de Karel Čapek de 1920, R.U.R. (Rossum's Universal Robots), le terme précis ayant, selon les récits, été suggéré par son frère, le peintre et écrivain Josef Čapek."
       },
       "nl": {
         "hook": "Het woord \"robot\" is pas ongeveer een eeuw oud en ontstond op een toneel.",
@@ -927,8 +927,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Vampire » est un emprunt venu des Balkans.",
-        "fact": "« Vampire » est entré en anglais au début du XVIIIe siècle via le français et l'allemand, provenant en définitive d'un mot slave (comparer au serbe vampir), à la suite d'une vague de récits et de folklore sur des frayeurs liées aux vampires dans les Balkans et en Europe centrale."
+        "hook": "« Vampire » est un emprunt venu des Balkans.",
+        "fact": "« Vampire » est entré en anglais au début du XVIIIe siècle via le français et l'allemand, provenant en définitive d'un mot slave (comparer au serbe vampir), à la suite d'une vague de récits et de folklore sur des frayeurs liées aux vampires dans les Balkans et en Europe centrale."
       },
       "nl": {
         "hook": "\"Vampire\" (vampier) is een leenwoord uit de Balkan.",
@@ -952,8 +952,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un « kiosk » (kiosque) était à l'origine un pavillon de jardin persan.",
-        "fact": "« Kiosk » vient du turc köşk, lui-même issu du persan kushk, qui désignait à l'origine un pavillon ouvert et couvert dans un jardin ou un palais. Le mot s'est restreint en Europe occidentale pour désigner un petit stand ou une échoppe."
+        "hook": "Un « kiosk » (kiosque) était à l'origine un pavillon de jardin persan.",
+        "fact": "« Kiosk » vient du turc köşk, lui-même issu du persan kushk, qui désignait à l'origine un pavillon ouvert et couvert dans un jardin ou un palais. Le mot s'est restreint en Europe occidentale pour désigner un petit stand ou une échoppe."
       },
       "nl": {
         "hook": "Een \"kiosk\" was oorspronkelijk een Perzisch tuinpaviljoen.",
@@ -977,8 +977,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « coach » (voiture, entraîneur) tire son nom d'un village hongrois.",
-        "fact": "« Coach » vient du hongrois kocsi (szekér), littéralement « chariot de Kocs », un village de Hongrie réputé au XVe siècle pour produire un style distinctif de calèche à chevaux, bien suspendue."
+        "hook": "Le mot « coach » (voiture, entraîneur) tire son nom d'un village hongrois.",
+        "fact": "« Coach » vient du hongrois kocsi (szekér), littéralement « chariot de Kocs », un village de Hongrie réputé au XVe siècle pour produire un style distinctif de calèche à chevaux, bien suspendue."
       },
       "nl": {
         "hook": "Het woord \"coach\" is vernoemd naar een Hongaars dorp.",
@@ -2023,8 +2023,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Silhouette » doit son nom à un ministre des Finances réputé pour son avarice.",
-        "fact": "Le mot « silhouette » vient d'Étienne de Silhouette, ministre des Finances de la France en 1759, dont les mesures d'austérité sévères ont fait de son nom un synonyme de tout ce qui était fait à moindre coût, y compris les portraits en papier découpé bon marché qui ont ensuite pris son nom."
+        "hook": "« Silhouette » doit son nom à un ministre des Finances réputé pour son avarice.",
+        "fact": "Le mot « silhouette » vient d'Étienne de Silhouette, ministre des Finances de la France en 1759, dont les mesures d'austérité sévères ont fait de son nom un synonyme de tout ce qui était fait à moindre coût, y compris les portraits en papier découpé bon marché qui ont ensuite pris son nom."
       },
       "nl": {
         "hook": "\"Silhouet\" is vernoemd naar een berucht gierige minister van Financiën.",
@@ -2120,7 +2120,7 @@
     "translations": {
       "fr": {
         "hook": "Le justaucorps doit son nom à un trapéziste français.",
-        "fact": "Le justaucorps (« leotard » en anglais) doit son nom à Jules Léotard, un acrobate français du XIXe siècle qui popularisa ce vêtement moulant d'une seule pièce pour les numéros de trapèze, et qui inspira la chanson « The Daring Young Man on the Flying Trapeze » (« Le jeune homme intrépide sur le trapèze volant »)."
+        "fact": "Le justaucorps (« leotard » en anglais) doit son nom à Jules Léotard, un acrobate français du XIXe siècle qui popularisa ce vêtement moulant d'une seule pièce pour les numéros de trapèze, et qui inspira la chanson « The Daring Young Man on the Flying Trapeze » (« Le jeune homme intrépide sur le trapèze volant »)."
       },
       "nl": {
         "hook": "Het leotard-pak is vernoemd naar een Franse trapezeartiest.",
@@ -2143,8 +2143,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Maverick » doit son nom à un éleveur qui refusait de marquer son bétail.",
-        "fact": "Le mot anglais « maverick » vient de Samuel Maverick, un éleveur et avocat texan du XIXe siècle connu pour ne jamais marquer son bétail au fer rouge. Tout veau errant et non marqué de la région devint « a maverick », et le mot en vint à désigner toute personne indépendante et peu conventionnelle."
+        "hook": "« Maverick » doit son nom à un éleveur qui refusait de marquer son bétail.",
+        "fact": "Le mot anglais « maverick » vient de Samuel Maverick, un éleveur et avocat texan du XIXe siècle connu pour ne jamais marquer son bétail au fer rouge. Tout veau errant et non marqué de la région devint « a maverick », et le mot en vint à désigner toute personne indépendante et peu conventionnelle."
       },
       "nl": {
         "hook": "\"Maverick\" is vernoemd naar een veehouder die zijn vee niet wilde brandmerken.",
@@ -2167,7 +2167,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le « chauvinisme » doit son nom à un soldat dont l'histoire tient peut-être en partie de la légende.",
+        "hook": "Le « chauvinisme » doit son nom à un soldat dont l'histoire tient peut-être en partie de la légende.",
         "fact": "Le chauvinisme tire son nom de Nicolas Chauvin, un soldat français réputé pour son dévouement excessif et aveugle envers Napoléon. Les historiens débattent de la part d'exagération ou de fiction dans son histoire, mais le mot désignant un patriotisme fanatique et aveugle s'est imposé malgré tout."
       },
       "nl": {
@@ -2193,8 +2193,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Gerrymander » doit son nom à un gouverneur et à une salamandre.",
-        "fact": "Le mot anglais « gerrymander » fut inventé en 1812 après que le gouverneur du Massachusetts, Elbridge Gerry, eut signé une loi créant une circonscription électorale à la forme étrange, qu'un caricaturiste de presse trouva semblable à une salamandre. Le journal fusionna « Gerry » et « salamander » (salamandre) en un nouveau mot désignant la manipulation des limites électorales.",
+        "hook": "« Gerrymander » doit son nom à un gouverneur et à une salamandre.",
+        "fact": "Le mot anglais « gerrymander » fut inventé en 1812 après que le gouverneur du Massachusetts, Elbridge Gerry, eut signé une loi créant une circonscription électorale à la forme étrange, qu'un caricaturiste de presse trouva semblable à une salamandre. Le journal fusionna « Gerry » et « salamander » (salamandre) en un nouveau mot désignant la manipulation des limites électorales.",
         "whyItMatters": "La pratique que décrit ce mot, le découpage des circonscriptions électorales pour favoriser un parti, reste aujourd'hui un enjeu majeur et vivement contesté lors des élections."
       },
       "nl": {
@@ -2220,8 +2220,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Sideburns » est une version brouillée du nom d'un général.",
-        "fact": "Le mot anglais « sideburns » (favoris) doit son nom au général de l'Union Ambrose Burnside, pendant la guerre de Sécession, connu pour sa pilosité faciale caractéristique reliée à sa moustache. Le style s'appelait d'abord « burnsides », avant que les deux syllabes ne s'inversent en « sideburns »."
+        "hook": "« Sideburns » est une version brouillée du nom d'un général.",
+        "fact": "Le mot anglais « sideburns » (favoris) doit son nom au général de l'Union Ambrose Burnside, pendant la guerre de Sécession, connu pour sa pilosité faciale caractéristique reliée à sa moustache. Le style s'appelait d'abord « burnsides », avant que les deux syllabes ne s'inversent en « sideburns »."
       },
       "nl": {
         "hook": "\"Sideburns\" is een omgekeerde versie van de achternaam van een generaal.",
@@ -2244,7 +2244,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « shrapnel » doit son nom à l'officier d'artillerie qui l'a inventé.",
+        "hook": "Le mot « shrapnel » doit son nom à l'officier d'artillerie qui l'a inventé.",
         "fact": "Le shrapnel doit son nom à l'officier d'artillerie britannique Henry Shrapnel, qui mit au point, à la fin du XVIIIe et au début du XIXe siècle, un obus antipersonnel explosif conçu pour disperser des éclats de métal sur une large zone."
       },
       "nl": {
@@ -2268,8 +2268,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Jumping on the bandwagon » vient de véritables parades de cirque.",
-        "fact": "L'expression anglaise vient des parades de cirque et des cortèges politiques américains du XIXe siècle, où un chariot, le « bandwagon », transportait la fanfare. Les partisans d'un candidat politique populaire montaient sur ce chariot pour afficher publiquement leur soutien."
+        "hook": "« Jumping on the bandwagon » vient de véritables parades de cirque.",
+        "fact": "L'expression anglaise vient des parades de cirque et des cortèges politiques américains du XIXe siècle, où un chariot, le « bandwagon », transportait la fanfare. Les partisans d'un candidat politique populaire montaient sur ce chariot pour afficher publiquement leur soutien."
       },
       "nl": {
         "hook": "\"Jumping on the bandwagon\" komt van echte circusparades.",
@@ -2292,8 +2292,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un « dark horse » était à l'origine un cheval de course inconnu de tous.",
-        "fact": "L'expression anglaise « dark horse » vient des courses hippiques et désigne un concurrent dont les capacités sont inconnues des parieurs, faute d'informations en circulation. Elle fut popularisée par un roman de Benjamin Disraeli en 1831, avant de s'étendre à la politique pour désigner des candidats inattendus."
+        "hook": "Un « dark horse » était à l'origine un cheval de course inconnu de tous.",
+        "fact": "L'expression anglaise « dark horse » vient des courses hippiques et désigne un concurrent dont les capacités sont inconnues des parieurs, faute d'informations en circulation. Elle fut popularisée par un roman de Benjamin Disraeli en 1831, avant de s'étendre à la politique pour désigner des candidats inattendus."
       },
       "nl": {
         "hook": "Een \"dark horse\" was oorspronkelijk een renpaard waar niemand iets van wist.",
@@ -2316,8 +2316,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Under the weather » vient des marins malades envoyés sous le pont.",
-        "fact": "Cette expression aurait une origine maritime souvent citée : un marin tombé malade était envoyé sous le pont, à l'abri du vent, de la pluie et des intempéries sur le pont exposé, pour s'y rétablir loin du mauvais temps."
+        "hook": "« Under the weather » vient des marins malades envoyés sous le pont.",
+        "fact": "Cette expression aurait une origine maritime souvent citée : un marin tombé malade était envoyé sous le pont, à l'abri du vent, de la pluie et des intempéries sur le pont exposé, pour s'y rétablir loin du mauvais temps."
       },
       "nl": {
         "hook": "\"Under the weather\" komt van zieke matrozen die onderdeks werden gestuurd.",
@@ -2340,8 +2340,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Showing your true colors » vient des navires de guerre qui arboraient de faux drapeaux.",
-        "fact": "L'expression vient de la guerre navale, où un navire pouvait hisser un faux pavillon pour approcher un vaisseau ennemi sans être repéré, ne levant son véritable drapeau national, ses « vraies couleurs », qu'au moment de l'attaque."
+        "hook": "« Showing your true colors » vient des navires de guerre qui arboraient de faux drapeaux.",
+        "fact": "L'expression vient de la guerre navale, où un navire pouvait hisser un faux pavillon pour approcher un vaisseau ennemi sans être repéré, ne levant son véritable drapeau national, ses « vraies couleurs », qu'au moment de l'attaque."
       },
       "nl": {
         "hook": "\"Showing your true colors\" komt van oorlogsschepen die valse vlaggen hesen.",
@@ -2364,8 +2364,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« The doldrums » est un véritable lieu, pas seulement un état d'esprit.",
-        "fact": "Le mot « doldrums » désigne une région océanique équatoriale précise, connue pour ses vents calmes et imprévisibles, où les navires à voile pouvaient rester bloqués, parfois pendant des semaines, sans pouvoir avancer. Le nom en est venu à désigner de façon générale une période de stagnation ou de morosité."
+        "hook": "« The doldrums » est un véritable lieu, pas seulement un état d'esprit.",
+        "fact": "Le mot « doldrums » désigne une région océanique équatoriale précise, connue pour ses vents calmes et imprévisibles, où les navires à voile pouvaient rester bloqués, parfois pendant des semaines, sans pouvoir avancer. Le nom en est venu à désigner de façon générale une période de stagnation ou de morosité."
       },
       "nl": {
         "hook": "\"The doldrums\" is een echte plek, niet alleen een gemoedstoestand.",
@@ -2388,7 +2388,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un « loose cannon » était un véritable danger à bord des navires.",
+        "hook": "Un « loose cannon » était un véritable danger à bord des navires.",
         "fact": "L'expression vient des navires à voile, où un lourd canon échappé de ses amarres pouvait rouler de façon imprévisible et dangereuse sur le pont par gros temps, capable d'écraser un membre d'équipage ou de percer la coque."
       },
       "nl": {
@@ -2412,7 +2412,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Knowing the ropes » signifiait autrefois connaître littéralement le gréement d'un navire.",
+        "hook": "« Knowing the ropes » signifiait autrefois connaître littéralement le gréement d'un navire.",
         "fact": "L'expression vient des navires à voile, où un marin compétent devait mémoriser la fonction de dizaines de cordages différents contrôlant les voiles et le gréement, un savoir essentiel pour manœuvrer le navire en toute sécurité."
       },
       "nl": {
@@ -2437,8 +2437,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Passing the buck » vient d'un jeton utilisé au poker.",
-        "fact": "L'expression vient du poker américain, où un jeton appelé « buck », parfois un couteau au manche en corne de cerf, circulait entre les joueurs pour indiquer à qui revenait le tour de distribuer les cartes. C'est aussi l'origine de la pancarte sur le bureau du président Truman, « The buck stops here » (« C'est ici que ça s'arrête »)."
+        "hook": "« Passing the buck » vient d'un jeton utilisé au poker.",
+        "fact": "L'expression vient du poker américain, où un jeton appelé « buck », parfois un couteau au manche en corne de cerf, circulait entre les joueurs pour indiquer à qui revenait le tour de distribuer les cartes. C'est aussi l'origine de la pancarte sur le bureau du président Truman, « The buck stops here » (« C'est ici que ça s'arrête »)."
       },
       "nl": {
         "hook": "\"Passing the buck\" komt van een fiche die bij poker werd gebruikt.",
@@ -2461,7 +2461,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Cut to the chase » vient des notes de montage des débuts d'Hollywood.",
+        "hook": "« Cut to the chase » vient des notes de montage des débuts d'Hollywood.",
         "fact": "L'expression trouve son origine à l'époque du cinéma muet, quand on conseillait aux réalisateurs et aux monteurs de sauter les longues scènes d'exposition bavardes pour aller droit à la scène de poursuite riche en action que le public voulait voir."
       },
       "nl": {
@@ -2631,7 +2631,7 @@
     "translations": {
       "fr": {
         "hook": "L'Australie aurait compté plus de 250 langues avant la colonisation européenne.",
-        "fact": "Les linguistes estiment que l'Australie abritait plus de 250 langues aborigènes distinctes, avec des centaines de dialectes supplémentaires, avant la colonisation européenne ; aujourd'hui, seule une petite fraction est encore parlée couramment, et la plupart d'entre elles sont gravement menacées."
+        "fact": "Les linguistes estiment que l'Australie abritait plus de 250 langues aborigènes distinctes, avec des centaines de dialectes supplémentaires, avant la colonisation européenne ; aujourd'hui, seule une petite fraction est encore parlée couramment, et la plupart d'entre elles sont gravement menacées."
       },
       "nl": {
         "hook": "Australië telde mogelijk meer dan 250 talen vóór de Europese kolonisatie.",
@@ -2678,7 +2678,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le « chinois » est en réalité une famille de langues mutuellement inintelligibles.",
+        "hook": "Le « chinois » est en réalité une famille de langues mutuellement inintelligibles.",
         "fact": "Le mandarin, le cantonais, le wu (le shanghaïen) et d'autres variétés du chinois partagent un même système d'écriture, mais sont souvent mutuellement inintelligibles à l'oral, une différence comparable à celle qui sépare des langues romanes distinctes comme l'espagnol et l'italien."
       },
       "nl": {
@@ -3017,7 +3017,7 @@
     "translations": {
       "fr": {
         "hook": "Une seule syllabe mandarine peut désigner quatre choses totalement différentes.",
-        "fact": "La syllabe mandarine « ma » peut signifier « mère », « chanvre », « cheval » ou marquer une question grammaticale, selon le seul ton employé parmi les quatre tons du mandarin, sans aucun changement de consonnes ni de voyelles."
+        "fact": "La syllabe mandarine « ma » peut signifier « mère », « chanvre », « cheval » ou marquer une question grammaticale, selon le seul ton employé parmi les quatre tons du mandarin, sans aucun changement de consonnes ni de voyelles."
       },
       "nl": {
         "hook": "Eén Mandarijnse lettergreep kan vier volkomen verschillende dingen betekenen.",
@@ -3040,8 +3040,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Certaines langues ne distinguent pas « bleu » et « vert » par deux mots différents.",
-        "fact": "De nombreuses langues, dont le vietnamien et plusieurs langues africaines et du Pacifique, utilisent traditionnellement un seul terme pour désigner à la fois le bleu et le vert, une catégorie que les linguistes appellent parfois « grue » (de l'anglais « green » et « blue »), preuve que le vocabulaire des couleurs ne se calque pas à l'identique d'une culture à l'autre."
+        "hook": "Certaines langues ne distinguent pas « bleu » et « vert » par deux mots différents.",
+        "fact": "De nombreuses langues, dont le vietnamien et plusieurs langues africaines et du Pacifique, utilisent traditionnellement un seul terme pour désigner à la fois le bleu et le vert, une catégorie que les linguistes appellent parfois « grue » (de l'anglais « green » et « blue »), preuve que le vocabulaire des couleurs ne se calque pas à l'identique d'une culture à l'autre."
       },
       "nl": {
         "hook": "Sommige talen maken geen onderscheid tussen \"blauw\" en \"groen\".",
@@ -3066,7 +3066,7 @@
     "translations": {
       "fr": {
         "hook": "Le russe traite le bleu clair et le bleu foncé comme deux couleurs de base distinctes.",
-        "fact": "Contrairement à l'anglais, le russe n'a pas de mot générique unique pour « bleu » : goluboy (bleu clair) et siniy (bleu foncé) sont considérés comme deux couleurs de base à part entière, et certaines études suggèrent que cela pourrait même influencer la rapidité avec laquelle les russophones distinguent les nuances de bleu."
+        "fact": "Contrairement à l'anglais, le russe n'a pas de mot générique unique pour « bleu » : goluboy (bleu clair) et siniy (bleu foncé) sont considérés comme deux couleurs de base à part entière, et certaines études suggèrent que cela pourrait même influencer la rapidité avec laquelle les russophones distinguent les nuances de bleu."
       },
       "nl": {
         "hook": "Het Russisch behandelt lichtblauw en donkerblauw als twee aparte basiskleuren.",
@@ -3090,7 +3090,7 @@
     "translations": {
       "fr": {
         "hook": "Le portugais a un mot pour la nostalgie qui résiste à la traduction.",
-        "fact": "Le mot portugais « saudade » décrit une nostalgie profonde et mélancolique envers une personne ou une chose absente, et il est souvent cité comme l'un des mots les plus difficiles au monde à traduire par un seul équivalent dans une autre langue."
+        "fact": "Le mot portugais « saudade » décrit une nostalgie profonde et mélancolique envers une personne ou une chose absente, et il est souvent cité comme l'un des mots les plus difficiles au monde à traduire par un seul équivalent dans une autre langue."
       },
       "nl": {
         "hook": "Het Portugees heeft een woord voor verlangen dat zich niet laat vertalen.",
@@ -3114,7 +3114,7 @@
     "translations": {
       "fr": {
         "hook": "Le japonais a un seul mot pour la lumière du soleil filtrant à travers les feuilles.",
-        "fact": "Le mot japonais « komorebi » désigne spécifiquement la lumière du soleil filtrant à travers les feuilles des arbres, un concept que la plupart des langues, y compris l'anglais et le français, doivent exprimer par toute une phrase descriptive."
+        "fact": "Le mot japonais « komorebi » désigne spécifiquement la lumière du soleil filtrant à travers les feuilles des arbres, un concept que la plupart des langues, y compris l'anglais et le français, doivent exprimer par toute une phrase descriptive."
       },
       "nl": {
         "hook": "Het Japans heeft één woord voor zonlicht dat door bladeren valt.",
@@ -3138,7 +3138,7 @@
     "translations": {
       "fr": {
         "hook": "Le finnois a un mot pour boire seul chez soi en sous-vêtements.",
-        "fact": "Le terme finnois « kalsarikännit » décrit l'acte précis de boire seul chez soi sans avoir la moindre intention de sortir, un concept si spécifique que la plupart des langues n'ont aucun mot équivalent."
+        "fact": "Le terme finnois « kalsarikännit » décrit l'acte précis de boire seul chez soi sans avoir la moindre intention de sortir, un concept si spécifique que la plupart des langues n'ont aucun mot équivalent."
       },
       "nl": {
         "hook": "Het Fins heeft een woord voor alleen thuis drinken in je onderbroek.",
@@ -3163,7 +3163,7 @@
     "translations": {
       "fr": {
         "hook": "Certaines langues obligent à préciser comment on sait ce que l'on affirme.",
-        "fact": "Des langues comme le turc, le quechua et de nombreuses langues autochtones des Amériques possèdent des marqueurs grammaticaux d'« évidentialité », qui obligent les locuteurs à indiquer, dans presque chaque phrase, s'ils ont été témoins directs d'un fait, en ont entendu parler ou l'ont simplement déduit.",
+        "fact": "Des langues comme le turc, le quechua et de nombreuses langues autochtones des Amériques possèdent des marqueurs grammaticaux d'« évidentialité », qui obligent les locuteurs à indiquer, dans presque chaque phrase, s'ils ont été témoins directs d'un fait, en ont entendu parler ou l'ont simplement déduit.",
         "whyItMatters": "Parce que la grammaire elle-même oblige les locuteurs à signaler la source de leur information, ces langues rendent bien plus difficile le fait de présenter une rumeur comme un fait directement constaté."
       },
       "nl": {
@@ -3189,8 +3189,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Une langue aborigène utilise les points cardinaux à la place de « gauche » et « droite ».",
-        "fact": "Les locuteurs du guugu yimithirr, parlé dans le nord de l'Australie, utilisent des points cardinaux comme le nord et le sud même pour décrire de petites choses, disant qu'une fourmi se trouve sur la « jambe sud » de quelqu'un plutôt que sur sa jambe gauche, ce qui exige une conscience spatiale constante."
+        "hook": "Une langue aborigène utilise les points cardinaux à la place de « gauche » et « droite ».",
+        "fact": "Les locuteurs du guugu yimithirr, parlé dans le nord de l'Australie, utilisent des points cardinaux comme le nord et le sud même pour décrire de petites choses, disant qu'une fourmi se trouve sur la « jambe sud » de quelqu'un plutôt que sur sa jambe gauche, ce qui exige une conscience spatiale constante."
       },
       "nl": {
         "hook": "Eén Aboriginal-taal gebruikt windrichtingen in plaats van \"links\" en \"rechts\".",
@@ -3214,7 +3214,7 @@
     "translations": {
       "fr": {
         "hook": "Une langue amazonienne serait dépourvue de mots pour les nombres exacts.",
-        "fact": "La langue pirahã, parlée en Amazonie brésilienne, serait dépourvue de mots précis pour les nombres, ne disposant que de termes approximativement équivalents à « peu » et « beaucoup », une affirmation qui a alimenté de vifs débats parmi les linguistes sur le lien entre langage et pensée."
+        "fact": "La langue pirahã, parlée en Amazonie brésilienne, serait dépourvue de mots précis pour les nombres, ne disposant que de termes approximativement équivalents à « peu » et « beaucoup », une affirmation qui a alimenté de vifs débats parmi les linguistes sur le lien entre langage et pensée."
       },
       "nl": {
         "hook": "Eén taal uit het Amazonegebied zou geen woorden voor exacte getallen hebben.",
@@ -3238,7 +3238,7 @@
     "translations": {
       "fr": {
         "hook": "Une langue presque éteinte avait un mot pour un regard partagé et silencieux.",
-        "fact": "Le yagan, langue presque éteinte de Terre de Feu, comportait selon certains un mot, « mamihlapinatapai », décrivant un regard silencieux et chargé de sens échangé entre deux personnes qui désirent la même chose mais hésitent chacune à faire le premier pas."
+        "fact": "Le yagan, langue presque éteinte de Terre de Feu, comportait selon certains un mot, « mamihlapinatapai », décrivant un regard silencieux et chargé de sens échangé entre deux personnes qui désirent la même chose mais hésitent chacune à faire le premier pas."
       },
       "nl": {
         "hook": "Een bijna uitgestorven taal had een woord voor een onuitgesproken, gedeelde blik.",
@@ -3263,7 +3263,7 @@
     "translations": {
       "fr": {
         "hook": "Un même mot peut vouloir dire deux choses opposées en japonais et en chinois.",
-        "fact": "Les kanjis empruntés aux caractères chinois peuvent avoir un sens très différent en japonais et en chinois moderne : ainsi, 手紙 signifie « lettre » (au sens du courrier) en japonais, mais « papier toilette » en chinois, un exemple classique de faux ami entre les deux systèmes d'écriture."
+        "fact": "Les kanjis empruntés aux caractères chinois peuvent avoir un sens très différent en japonais et en chinois moderne : ainsi, 手紙 signifie « lettre » (au sens du courrier) en japonais, mais « papier toilette » en chinois, un exemple classique de faux ami entre les deux systèmes d'écriture."
       },
       "nl": {
         "hook": "Hetzelfde woord kan in het Japans en het Chinees tegenovergestelde dingen betekenen.",
@@ -3286,8 +3286,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot espagnol pour « enceinte » ressemble à l'anglais « embarrassed » (gêné).",
-        "fact": "« Embarazada » est un faux ami classique pour les anglophones qui apprennent l'espagnol : il signifie en réalité « enceinte », et non « embarrassed » (gêné), une confusion qui a causé d'innombrables moments gênants aux apprenants."
+        "hook": "Le mot espagnol pour « enceinte » ressemble à l'anglais « embarrassed » (gêné).",
+        "fact": "« Embarazada » est un faux ami classique pour les anglophones qui apprennent l'espagnol : il signifie en réalité « enceinte », et non « embarrassed » (gêné), une confusion qui a causé d'innombrables moments gênants aux apprenants."
       },
       "nl": {
         "hook": "Het Spaanse woord voor \"zwanger\" lijkt sprekend op het Engelse \"embarrassed\" (gegeneerd).",
@@ -3310,8 +3310,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "En allemand, « Gift » ne veut pas dire cadeau.",
-        "fact": "En allemand, « Gift » signifie poison, et non cadeau, l'un des faux amis les plus dangereux entre l'allemand et l'anglais, car les confondre dans le mauvais contexte pourrait entraîner un malentendu réellement risqué."
+        "hook": "En allemand, « Gift » ne veut pas dire cadeau.",
+        "fact": "En allemand, « Gift » signifie poison, et non cadeau, l'un des faux amis les plus dangereux entre l'allemand et l'anglais, car les confondre dans le mauvais contexte pourrait entraîner un malentendu réellement risqué."
       },
       "nl": {
         "hook": "Het Duitse \"Gift\" betekent geen cadeau.",
@@ -3334,8 +3334,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le même mot signifie « amusant » en suédois et « calme » en danois.",
-        "fact": "Le mot suédois « rolig » signifie « drôle » ou « amusant », mais en danois et en norvégien, le mot quasi identique « rolig » signifie « calme » ou « tranquille », un faux ami qui piège régulièrement les locuteurs de ces langues scandinaves pourtant très proches."
+        "hook": "Le même mot signifie « amusant » en suédois et « calme » en danois.",
+        "fact": "Le mot suédois « rolig » signifie « drôle » ou « amusant », mais en danois et en norvégien, le mot quasi identique « rolig » signifie « calme » ou « tranquille », un faux ami qui piège régulièrement les locuteurs de ces langues scandinaves pourtant très proches."
       },
       "nl": {
         "hook": "Hetzelfde woord betekent \"leuk\" in het Zweeds en \"rustig\" in het Deens.",
@@ -3358,8 +3358,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "En italien, c'est du beurre ; en espagnol, c'est un âne.",
-        "fact": "En italien, « burro » signifie beurre, mais en espagnol, le mot presque identique « burro » signifie âne, un faux ami classique entre deux langues romanes pourtant très proches."
+        "hook": "En italien, c'est du beurre ; en espagnol, c'est un âne.",
+        "fact": "En italien, « burro » signifie beurre, mais en espagnol, le mot presque identique « burro » signifie âne, un faux ami classique entre deux langues romanes pourtant très proches."
       },
       "nl": {
         "hook": "In het Italiaans is het boter; in het Spaans is het een ezel.",
@@ -3382,8 +3382,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "En français, « coin » n'a rien à voir avec l'argent.",
-        "fact": "En français, « coin » signifie simplement un angle ou un endroit, pas une pièce de monnaie, ce qui en fait l'un des faux amis les plus courants pour les anglophones qui apprennent le français."
+        "hook": "En français, « coin » n'a rien à voir avec l'argent.",
+        "fact": "En français, « coin » signifie simplement un angle ou un endroit, pas une pièce de monnaie, ce qui en fait l'un des faux amis les plus courants pour les anglophones qui apprennent le français."
       },
       "nl": {
         "hook": "Het Franse \"coin\" heeft niets met geld te maken.",
@@ -3406,8 +3406,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "En serbe, « brak » signifie mariage.",
-        "fact": "Le mot serbe et croate « brak » signifie « mariage », un faux ami amusant pour les anglophones, sans aucun rapport avec le mot anglais « brake » (frein)."
+        "hook": "En serbe, « brak » signifie mariage.",
+        "fact": "Le mot serbe et croate « brak » signifie « mariage », un faux ami amusant pour les anglophones, sans aucun rapport avec le mot anglais « brake » (frein)."
       },
       "nl": {
         "hook": "In het Servisch betekent \"brak\" huwelijk.",
@@ -3503,7 +3503,7 @@
     "translations": {
       "fr": {
         "hook": "L'alphabet coréen a été délibérément inventé par un roi dans les années 1440.",
-        "fact": "Le hangeul, le système d'écriture coréen, a été créé sous le règne du roi Sejong le Grand et promulgué en 1446 pour offrir au peuple une alternative plus simple aux caractères chinois ; la forme de ses lettres a été conçue pour imiter la position de la bouche et de la langue utilisées pour prononcer chaque son."
+        "fact": "Le hangeul, le système d'écriture coréen, a été créé sous le règne du roi Sejong le Grand et promulgué en 1446 pour offrir au peuple une alternative plus simple aux caractères chinois ; la forme de ses lettres a été conçue pour imiter la position de la bouche et de la langue utilisées pour prononcer chaque son."
       },
       "nl": {
         "hook": "Het Koreaanse alfabet werd in de jaren 1440 doelbewust uitgevonden door een koning.",
@@ -3887,7 +3887,7 @@
     "translations": {
       "fr": {
         "hook": "Les bébés du monde entier babillent d'abord avec les mêmes sons.",
-        "fact": "Partout dans le monde, quelle que soit la langue parlée autour d'eux, les nourrissons ont tendance à commencer à babiller avec des sons consonne-voyelle similaires comme « ba » et « da », avant que leur babillage ne se resserre progressivement autour des sons spécifiques de leur langue maternelle."
+        "fact": "Partout dans le monde, quelle que soit la langue parlée autour d'eux, les nourrissons ont tendance à commencer à babiller avec des sons consonne-voyelle similaires comme « ba » et « da », avant que leur babillage ne se resserre progressivement autour des sons spécifiques de leur langue maternelle."
       },
       "nl": {
         "hook": "Baby's over de hele wereld brabbelen eerst met dezelfde handvol klanken.",
@@ -4008,7 +4008,7 @@
     "translations": {
       "fr": {
         "hook": "Le cas d'une enfant isolée est devenu une preuve centrale sur l'acquisition de la grammaire.",
-        "fact": "Le cas d'une fille connue sous le nom de « Genie », découverte en 1970 après des années d'isolement sévère la privant de tout langage jusqu'à l'âge de 13 ans, a fourni aux chercheurs des preuves rares, quoique controversées, en faveur de l'hypothèse de la période critique, puisqu'elle n'a jamais pleinement acquis un langage grammatical malgré des années d'intervention par la suite.",
+        "fact": "Le cas d'une fille connue sous le nom de « Genie », découverte en 1970 après des années d'isolement sévère la privant de tout langage jusqu'à l'âge de 13 ans, a fourni aux chercheurs des preuves rares, quoique controversées, en faveur de l'hypothèse de la période critique, puisqu'elle n'a jamais pleinement acquis un langage grammatical malgré des années d'intervention par la suite.",
         "whyItMatters": "Son cas reste l'un des seuls exemples concrets documentés de ce qu'il advient de la capacité de langage humaine lorsqu'un enfant ne reçoit aucun apport linguistique durant la petite enfance, une telle expérience étant évidemment impossible à provoquer délibérément pour des raisons éthiques."
       },
       "nl": {
@@ -4087,7 +4087,7 @@
     "translations": {
       "fr": {
         "hook": "De nouvelles langues peuvent naître en l'espace d'une seule vie.",
-        "fact": "Un pidgin est une langue de contact simplifiée qui se développe lorsque des locuteurs de langues différentes ont besoin de communiquer, souvent pour le commerce ; quand des enfants grandissent en apprenant un pidgin comme langue maternelle et en enrichissent la grammaire, celui-ci devient un créole, une langue à part entière et stable."
+        "fact": "Un pidgin est une langue de contact simplifiée qui se développe lorsque des locuteurs de langues différentes ont besoin de communiquer, souvent pour le commerce ; quand des enfants grandissent en apprenant un pidgin comme langue maternelle et en enrichissent la grammaire, celui-ci devient un créole, une langue à part entière et stable."
       },
       "nl": {
         "hook": "Nieuwe talen kunnen ontstaan binnen één mensenleven.",
@@ -4134,7 +4134,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le créole haïtien n'est pas du « français cassé » ; c'est une langue à part entière.",
+        "hook": "Le créole haïtien n'est pas du « français cassé » ; c'est une langue à part entière.",
         "fact": "Le créole haïtien s'est développé au contact du français et de langues d'Afrique de l'Ouest durant l'époque coloniale, et possède sa propre grammaire et phonologie cohérentes, suffisamment distinctes du français pour que les francophones standards ne puissent généralement pas le comprendre sans l'avoir étudié."
       },
       "nl": {
@@ -4230,8 +4230,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Certains « dialectes » sont moins intercompréhensibles que certaines « langues distinctes ».",
-        "fact": "Les linguistes font souvent remarquer que la frontière entre une « langue » et un « dialecte » est autant politique que linguistique : le mandarin et le cantonais sont mutuellement inintelligibles à l'oral et pourtant tous deux qualifiés de « dialectes » du chinois, tandis que le suédois et le norvégien sont mutuellement intelligibles et pourtant classés comme des langues distinctes."
+        "hook": "Certains « dialectes » sont moins intercompréhensibles que certaines « langues distinctes ».",
+        "fact": "Les linguistes font souvent remarquer que la frontière entre une « langue » et un « dialecte » est autant politique que linguistique : le mandarin et le cantonais sont mutuellement inintelligibles à l'oral et pourtant tous deux qualifiés de « dialectes » du chinois, tandis que le suédois et le norvégien sont mutuellement intelligibles et pourtant classés comme des langues distinctes."
       },
       "nl": {
         "hook": "Sommige \"dialecten\" zijn minder onderling verstaanbaar dan sommige \"aparte talen\".",
@@ -4351,7 +4351,7 @@
     "translations": {
       "fr": {
         "hook": "Presque toutes les langues d'Afrique se regroupent en une poignée de grandes familles.",
-        "fact": "La grande majorité des quelque 2 000 langues d'Afrique appartiennent à l'une de quelques grandes familles, dont l'afro-asiatique, le nilo-saharien et le niger-congo, bien que l'ancien regroupement « khoïsan » soit désormais considéré par de nombreux linguistes moins comme une véritable famille que comme une catégorie fourre-tout pour les langues à consonnes clics."
+        "fact": "La grande majorité des quelque 2 000 langues d'Afrique appartiennent à l'une de quelques grandes familles, dont l'afro-asiatique, le nilo-saharien et le niger-congo, bien que l'ancien regroupement « khoïsan » soit désormais considéré par de nombreux linguistes moins comme une véritable famille que comme une catégorie fourre-tout pour les langues à consonnes clics."
       },
       "nl": {
         "hook": "Bijna alle talen van Afrika vallen onder slechts een handvol grote taalfamilies.",
@@ -4423,7 +4423,7 @@
     "translations": {
       "fr": {
         "hook": "Les Amériques précolombiennes comptaient bien plus d'un millier de langues.",
-        "fact": "Avant la colonisation européenne, les Amériques auraient abrité bien plus d'un millier de langues autochtones distinctes ; aujourd'hui, une grande partie d'entre elles sont éteintes ou ne comptent plus qu'un petit nombre de locuteurs âgés."
+        "fact": "Avant la colonisation européenne, les Amériques auraient abrité bien plus d'un millier de langues autochtones distinctes ; aujourd'hui, une grande partie d'entre elles sont éteintes ou ne comptent plus qu'un petit nombre de locuteurs âgés."
       },
       "nl": {
         "hook": "De Amerika's van vóór het Europese contact telden ruim duizend talen.",
@@ -4526,8 +4526,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "L'UNESCO évalue les langues menacées sur une échelle allant de « vulnérable » à « éteinte ».",
-        "fact": "L'Atlas des langues en danger dans le monde de l'UNESCO classe le degré de menace par étapes, de « vulnérable » (parlée par les enfants mais uniquement dans des contextes limités) jusqu'à « éteinte », en passant par « en danger », « sérieusement en danger » et « en danger critique », afin d'aider à prioriser les efforts de documentation et de revitalisation."
+        "hook": "L'UNESCO évalue les langues menacées sur une échelle allant de « vulnérable » à « éteinte ».",
+        "fact": "L'Atlas des langues en danger dans le monde de l'UNESCO classe le degré de menace par étapes, de « vulnérable » (parlée par les enfants mais uniquement dans des contextes limités) jusqu'à « éteinte », en passant par « en danger », « sérieusement en danger » et « en danger critique », afin d'aider à prioriser les efforts de documentation et de revitalisation."
       },
       "nl": {
         "hook": "UNESCO beoordeelt bedreigde talen op een schaal van \"kwetsbaar\" tot \"uitgestorven\".",
@@ -4598,7 +4598,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le latin n'est jamais vraiment mort ; il s'est lentement transformé en six langues modernes ou plus.",
+        "hook": "Le latin n'est jamais vraiment mort ; il s'est lentement transformé en six langues modernes ou plus.",
         "fact": "Le latin n'est pas tant éteint qu'il ne s'est graduellement transformé en langues romanes modernes, dont l'espagnol, le français, l'italien, le portugais et le roumain, au fil de siècles de divergence régionale, plutôt que d'être remplacé en bloc par une langue sans rapport."
       },
       "nl": {
@@ -4671,7 +4671,7 @@
     "translations": {
       "fr": {
         "hook": "Les langues des signes ont des accents régionaux et un argot générationnel, tout comme les langues parlées.",
-        "fact": "Tout comme les langues parlées, les langues des signes telles que la langue des signes américaine présentent des variations régionales, un argot générationnel et même des « accents » distincts dans la façon de former les signes, façonnés par la géographie et l'histoire locale des communautés sourdes."
+        "fact": "Tout comme les langues parlées, les langues des signes telles que la langue des signes américaine présentent des variations régionales, un argot générationnel et même des « accents » distincts dans la façon de former les signes, façonnés par la géographie et l'histoire locale des communautés sourdes."
       },
       "nl": {
         "hook": "Gebarentalen hebben regionale accenten en generatiegebonden slang, net als gesproken talen.",
@@ -4694,7 +4694,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le « signe international » n'est pas vraiment une langue naturelle à part entière.",
+        "hook": "Le « signe international » n'est pas vraiment une langue naturelle à part entière.",
         "fact": "Le signe international est un système de communication simplifié, de type pidgin, utilisé lors d'événements comme les Deaflympics ou les conférences internationales, qui puise dans des gestes et un vocabulaire partagés entre plusieurs langues des signes, mais qui n'a pas la pleine complexité grammaticale d'une langue des signes naturelle."
       },
       "nl": {
@@ -4718,8 +4718,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Certaines langues ont deux mots différents pour « nous ».",
-        "fact": "De nombreuses langues, dont le tok pisin, le tagalog et de nombreuses autres langues austronésiennes, possèdent deux mots distincts pour « nous » : l'un incluant la personne à qui l'on parle, l'autre l'excluant, une distinction que les anglophones ne peuvent exprimer qu'à l'aide d'un contexte supplémentaire."
+        "hook": "Certaines langues ont deux mots différents pour « nous ».",
+        "fact": "De nombreuses langues, dont le tok pisin, le tagalog et de nombreuses autres langues austronésiennes, possèdent deux mots distincts pour « nous » : l'un incluant la personne à qui l'on parle, l'autre l'excluant, une distinction que les anglophones ne peuvent exprimer qu'à l'aide d'un contexte supplémentaire."
       },
       "nl": {
         "hook": "Sommige talen hebben twee verschillende woorden voor \"wij\".",
@@ -4743,7 +4743,7 @@
     "translations": {
       "fr": {
         "hook": "Certains systèmes de numération se construisent sur la base vingt plutôt que dix.",
-        "fact": "Certaines langues comptent traditionnellement en base vingt plutôt qu'en base dix, comme en témoigne le vestige historique du français « quatre-vingts » (littéralement « quatre fois vingt ») pour désigner 80, ou encore des systèmes complets en base vingt que l'on retrouve dans des langues comme le yoruba et le nahuatl."
+        "fact": "Certaines langues comptent traditionnellement en base vingt plutôt qu'en base dix, comme en témoigne le vestige historique du français « quatre-vingts » (littéralement « quatre fois vingt ») pour désigner 80, ou encore des systèmes complets en base vingt que l'on retrouve dans des langues comme le yoruba et le nahuatl."
       },
       "nl": {
         "hook": "Sommige telsystemen zijn gebaseerd op twintig in plaats van tien.",
@@ -4790,7 +4790,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Certaines langues marquent grammaticalement si un objet est « vivant » ou non.",
+        "hook": "Certaines langues marquent grammaticalement si un objet est « vivant » ou non.",
         "fact": "L'ojibwé et de nombreuses autres langues algonquiennes d'Amérique du Nord classent chaque nom comme animé ou inanimé, une distinction grammaticale qui influence les formes verbales et les pronoms dans toute la phrase."
       },
       "nl": {
@@ -4888,7 +4888,7 @@
     "translations": {
       "fr": {
         "hook": "La traduction automatique peine encore le plus avec les langues qui manquent de texte numérique.",
-        "fact": "Les outils de traduction automatique fonctionnent bien mieux sur les langues à ressources abondantes comme l'anglais, l'espagnol et le mandarin, qui disposent de vastes jeux de données textuelles numériques pour s'entraîner, tandis que de nombreuses langues du monde restent « à faibles ressources », produisant des traductions automatiques bien moins précises.",
+        "fact": "Les outils de traduction automatique fonctionnent bien mieux sur les langues à ressources abondantes comme l'anglais, l'espagnol et le mandarin, qui disposent de vastes jeux de données textuelles numériques pour s'entraîner, tandis que de nombreuses langues du monde restent « à faibles ressources », produisant des traductions automatiques bien moins précises.",
         "whyItMatters": "Cet écart signifie que des millions de locuteurs de langues à faibles ressources ont un moins bon accès aux informations et services en ligne traduits vers ou depuis leur propre langue."
       },
       "nl": {

@@ -40,7 +40,7 @@
     "translations": {
       "fr": {
         "hook": "L'eau peut bouillir et geler en même temps.",
-        "fact": "À une combinaison précise de température et de pression appelée le « point triple », une substance comme l'eau peut exister simultanément à l'état solide, liquide et gazeux.",
+        "fact": "À une combinaison précise de température et de pression appelée le « point triple », une substance comme l'eau peut exister simultanément à l'état solide, liquide et gazeux.",
         "whyItMatters": "Les points triples sont si précis et reproductibles qu'ils servent à étalonner les thermomètres partout dans le monde."
       },
       "nl": {
@@ -69,7 +69,7 @@
       "fr": {
         "hook": "Les poulpes ont trois cœurs.",
         "fact": "Deux des cœurs du poulpe pompent le sang vers ses branchies, tandis que le troisième l'envoie vers le reste du corps — et ce cœur principal s'arrête même de battre quand il nage.",
-        "whyItMatters": "C'est en partie pourquoi les poulpes préfèrent ramper plutôt que nager : nager les épuise."
+        "whyItMatters": "C'est en partie pourquoi les poulpes préfèrent ramper plutôt que nager : nager les épuise."
       },
       "nl": {
         "hook": "Octopussen hebben drie harten.",
@@ -270,7 +270,7 @@
     "translations": {
       "fr": {
         "hook": "Certaines méduses sont biologiquement immortelles.",
-        "fact": "Turritopsis dohrnii, parfois surnommée la « méduse immortelle », peut faire revenir ses cellules à un stade de vie antérieur en cas de stress ou de blessure, remettant ainsi son âge à zéro."
+        "fact": "Turritopsis dohrnii, parfois surnommée la « méduse immortelle », peut faire revenir ses cellules à un stade de vie antérieur en cas de stress ou de blessure, remettant ainsi son âge à zéro."
       },
       "nl": {
         "hook": "Sommige kwallen zijn biologisch onsterfelijk.",
@@ -753,7 +753,7 @@
     "translations": {
       "fr": {
         "hook": "Les tardigrades peuvent survivre au gel, à l'ébullition et même au vide spatial.",
-        "fact": "Ces « oursons d'eau » microscopiques peuvent survivre à un froid extrême proche du zéro absolu, à une chaleur intense, à une déshydratation totale et même au vide de l'espace, en entrant dans un état de dormance jusqu'à ce que les conditions s'améliorent."
+        "fact": "Ces « oursons d'eau » microscopiques peuvent survivre à un froid extrême proche du zéro absolu, à une chaleur intense, à une déshydratation totale et même au vide de l'espace, en entrant dans un état de dormance jusqu'à ce que les conditions s'améliorent."
       },
       "nl": {
         "hook": "Beerdiertjes overleven bevriezing, koken en zelfs de ruimte.",
@@ -1192,7 +1192,7 @@
     "translations": {
       "fr": {
         "hook": "Un minuscule village suédois a donné son nom à quatre éléments.",
-        "fact": "Le village d'Ytterby, en Suède, se trouve près d'une carrière où des minéraux rares ont été découverts, donnant son nom à quatre éléments distincts : l'yttrium, l'ytterbium, le terbium et l'erbium."
+        "fact": "Le village d'Ytterby, en Suède, se trouve près d'une carrière où des minéraux rares ont été découverts, donnant son nom à quatre éléments distincts : l'yttrium, l'ytterbium, le terbium et l'erbium."
       },
       "nl": {
         "hook": "Eén piepklein Zweeds dorpje heeft vier elementen naar zich vernoemd gekregen.",
@@ -1631,7 +1631,7 @@
     "translations": {
       "fr": {
         "hook": "L'antimatière est réelle, et des scientifiques l'ont créée en laboratoire.",
-        "fact": "Chaque particule a une contrepartie d'antimatière de charge opposée ; quand matière et antimatière se rencontrent, elles s'annihilent et convertissent toute leur masse en énergie. Le CERN a créé et brièvement piégé des atomes d'antihydrogène."
+        "fact": "Chaque particule a une contrepartie d'antimatière de charge opposée ; quand matière et antimatière se rencontrent, elles s'annihilent et convertissent toute leur masse en énergie. Le CERN a créé et brièvement piégé des atomes d'antihydrogène."
       },
       "nl": {
         "hook": "Antimaterie is echt, en wetenschappers hebben het in een lab gemaakt.",
@@ -2366,7 +2366,7 @@
     "translations": {
       "fr": {
         "hook": "Les archéologues peuvent dater un os vieux de 10 000 ans grâce à une horloge cachée dans ses atomes.",
-        "fact": "La datation au carbone compare le ratio de carbone-14 radioactif au carbone-12 stable dans une matière ayant été vivante ; comme le C-14 se désintègre à un rythme connu et régulier après la mort d'un organisme, ce ratio révèle approximativement depuis combien de temps il est mort."
+        "fact": "La datation au carbone compare le ratio de carbone-14 radioactif au carbone-12 stable dans une matière ayant été vivante ; comme le C-14 se désintègre à un rythme connu et régulier après la mort d'un organisme, ce ratio révèle approximativement depuis combien de temps il est mort."
       },
       "nl": {
         "hook": "Archeologen kunnen een bot van 10.000 jaar oud dateren met een klok in zijn atomen.",
@@ -2438,7 +2438,7 @@
     "translations": {
       "fr": {
         "hook": "Toute une ère de l'histoire humaine porte le nom d'un alliage.",
-        "fact": "Le bronze, obtenu en combinant du cuivre et de l'étain, était assez durable et tranchant pour transformer profondément la fabrication d'outils et la guerre, à tel point que les historiens ont nommé la période d'après lui : l'âge du bronze."
+        "fact": "Le bronze, obtenu en combinant du cuivre et de l'étain, était assez durable et tranchant pour transformer profondément la fabrication d'outils et la guerre, à tel point que les historiens ont nommé la période d'après lui : l'âge du bronze."
       },
       "nl": {
         "hook": "Een hele periode van de menselijke geschiedenis is vernoemd naar een legering.",
@@ -2485,7 +2485,7 @@
     "translations": {
       "fr": {
         "hook": "Les lunettes de soleil polarisées bloquent une direction précise de lumière, pas juste la luminosité.",
-        "fact": "L'éblouissement sur des surfaces planes comme l'eau ou les routes mouillées est surtout de la lumière vibrant dans une seule direction ; les verres polarisés contiennent un filtre qui bloque cette orientation tout en laissant passer les autres lumières, réduisant l'éblouissement sans assombrir tout uniformément."
+        "fact": "L'éblouissement sur des surfaces planes comme l'eau ou les routes mouillées est surtout de la lumière vibrant dans une seule direction ; les verres polarisés contiennent un filtre qui bloque cette orientation tout en laissant passer les autres lumières, réduisant l'éblouissement sans assombrir tout uniformément."
       },
       "nl": {
         "hook": "Gepolariseerde zonnebrillen blokkeren een specifieke lichtrichting, niet gewoon helderheid.",
@@ -2649,7 +2649,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le graphite conduit l'électricité ; le diamant non — même élément, comportement opposé.",
+        "hook": "Le graphite conduit l'électricité ; le diamant non — même élément, comportement opposé.",
         "fact": "Dans le graphite, les atomes de carbone forment des feuillets empilés librement qui laissent certains électrons libres de circuler et de transporter le courant, tandis que chaque électron du diamant est verrouillé dans un réseau 3D rigide et entièrement lié, sans nulle part où bouger."
       },
       "nl": {
@@ -2989,7 +2989,7 @@
       "fr": {
         "hook": "Votre foie peut repousser même après avoir perdu l'essentiel de sa masse.",
         "fact": "Le foie humain est capable de régénérer une quantité fonctionnelle de tissu même après l'ablation ou la destruction de 70 % de son volume, ce qui en fait l'un des rares organes capables de se réparer à ce point.",
-        "whyItMatters": "C'est grâce à cette capacité de régénération que les greffes de foie à partir de donneurs vivants sont possibles : le foie restant du donneur comme la portion greffée peuvent retrouver presque leur taille d'origine."
+        "whyItMatters": "C'est grâce à cette capacité de régénération que les greffes de foie à partir de donneurs vivants sont possibles : le foie restant du donneur comme la portion greffée peuvent retrouver presque leur taille d'origine."
       },
       "nl": {
         "hook": "Je lever groeit weer aan, zelfs na het verlies van het grootste deel ervan.",
@@ -3039,7 +3039,7 @@
     "translations": {
       "fr": {
         "hook": "Vos empreintes digitales étaient fixées avant votre naissance — et elles ne changeront jamais.",
-        "fact": "Les crêtes des empreintes se forment dans l'utérus vers le quatrième mois de grossesse et gardent la même forme toute la vie : elles grandissent en taille, jamais en motif."
+        "fact": "Les crêtes des empreintes se forment dans l'utérus vers le quatrième mois de grossesse et gardent la même forme toute la vie : elles grandissent en taille, jamais en motif."
       },
       "nl": {
         "hook": "Je vingerafdrukken lagen al vast voor je geboorte — en ze veranderen nooit.",
@@ -3087,7 +3087,7 @@
     "translations": {
       "fr": {
         "hook": "Votre poumon gauche est plus petit que le droit.",
-        "fact": "Le poumon gauche présente une échancrure cardiaque qui laisse la place au cœur : il n'a que deux lobes contre trois pour le poumon droit, et un volume total légèrement inférieur."
+        "fact": "Le poumon gauche présente une échancrure cardiaque qui laisse la place au cœur : il n'a que deux lobes contre trois pour le poumon droit, et un volume total légèrement inférieur."
       },
       "nl": {
         "hook": "Je linkerlong is kleiner dan je rechter.",
@@ -3135,7 +3135,7 @@
     "translations": {
       "fr": {
         "hook": "La chair de poule est un réflexe hérité d'ancêtres bien plus poilus.",
-        "fact": "De minuscules muscles situés à la base de chaque follicule pileux se contractent pour redresser le poil : c'est la piloérection. Chez les animaux à fourrure, elle emprisonne une couche d'air isolante ou les fait paraître plus gros face aux prédateurs — chez l'humain, elle ne sert plus à grand-chose."
+        "fact": "De minuscules muscles situés à la base de chaque follicule pileux se contractent pour redresser le poil : c'est la piloérection. Chez les animaux à fourrure, elle emprisonne une couche d'air isolante ou les fait paraître plus gros face aux prédateurs — chez l'humain, elle ne sert plus à grand-chose."
       },
       "nl": {
         "hook": "Kippenvel is een overblijfsel van veel harigere voorouders.",
@@ -3159,7 +3159,7 @@
     "translations": {
       "fr": {
         "hook": "Rougir est peut-être ce que votre corps fait de plus humain.",
-        "fact": "Le rougissement est une dilatation involontaire des vaisseaux sanguins du visage, déclenchée par une émotion liée à la conscience de soi. Charles Darwin y voyait « la plus singulière et la plus humaine de toutes les expressions », et aucun autre animal ne semble en être capable."
+        "fact": "Le rougissement est une dilatation involontaire des vaisseaux sanguins du visage, déclenchée par une émotion liée à la conscience de soi. Charles Darwin y voyait « la plus singulière et la plus humaine de toutes les expressions », et aucun autre animal ne semble en être capable."
       },
       "nl": {
         "hook": "Blozen is misschien wel het meest menselijke wat je lichaam doet.",
@@ -3183,7 +3183,7 @@
     "translations": {
       "fr": {
         "hook": "Les nouveau-nés pleurent sans verser une seule larme.",
-        "fact": "Les canaux lacrymaux d'un bébé ne sont pas encore tout à fait formés à la naissance : le nourrisson peut donc pleurer à pleins poumons, avec toutes les mimiques de la détresse, mais sans presque produire de larmes avant plusieurs semaines, voire plusieurs mois."
+        "fact": "Les canaux lacrymaux d'un bébé ne sont pas encore tout à fait formés à la naissance : le nourrisson peut donc pleurer à pleins poumons, avec toutes les mimiques de la détresse, mais sans presque produire de larmes avant plusieurs semaines, voire plusieurs mois."
       },
       "nl": {
         "hook": "Pasgeborenen kunnen huilen zonder één traan te laten.",
@@ -3206,7 +3206,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Votre intestin a son propre système nerveux, surnommé « deuxième cerveau ».",
+        "hook": "Votre intestin a son propre système nerveux, surnommé « deuxième cerveau ».",
         "fact": "Le système nerveux entérique qui tapisse l'intestin compte des centaines de millions de neurones — plus que la moelle épinière — et peut piloter la digestion en grande partie tout seul, indépendamment du cerveau."
       },
       "nl": {
@@ -3326,7 +3326,7 @@
     "translations": {
       "fr": {
         "hook": "Un placebo peut agir même quand on sait que c'est un placebo.",
-        "fact": "Dans les essais de placebo « en ouvert », on annonce d'emblée aux patients qu'ils prennent un comprimé sans principe actif — et ils rapportent malgré tout un vrai soulagement des symptômes, dans le syndrome de l'intestin irritable ou les douleurs chroniques par exemple."
+        "fact": "Dans les essais de placebo « en ouvert », on annonce d'emblée aux patients qu'ils prennent un comprimé sans principe actif — et ils rapportent malgré tout un vrai soulagement des symptômes, dans le syndrome de l'intestin irritable ou les douleurs chroniques par exemple."
       },
       "nl": {
         "hook": "Placebo's kunnen werken, zelfs als je wéét dat ze nep zijn.",
@@ -3374,7 +3374,7 @@
     "translations": {
       "fr": {
         "hook": "Les rayons X aussi ont été découverts par hasard.",
-        "fact": "En 1895, le physicien Wilhelm Röntgen remarque une lueur mystérieuse sur un écran voisin alors qu'il expérimente avec des rayons cathodiques — un rayonnement inconnu qu'il baptise « rayons X » et qui va bientôt révolutionner la médecine."
+        "fact": "En 1895, le physicien Wilhelm Röntgen remarque une lueur mystérieuse sur un écran voisin alors qu'il expérimente avec des rayons cathodiques — un rayonnement inconnu qu'il baptise « rayons X » et qui va bientôt révolutionner la médecine."
       },
       "nl": {
         "hook": "Ook röntgenstraling werd bij toeval ontdekt.",
@@ -3472,7 +3472,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Certaines personnes sont « supergoûteuses » et vivent dans un monde de saveurs bien plus intenses.",
+        "hook": "Certaines personnes sont « supergoûteuses » et vivent dans un monde de saveurs bien plus intenses.",
         "fact": "Les supergoûteurs possèdent une densité de papilles gustatives supérieure à la moyenne, ce qui leur fait percevoir l'amertume, le sucré et les autres saveurs beaucoup plus intensément que la plupart des gens."
       },
       "nl": {
@@ -3521,7 +3521,7 @@
     "translations": {
       "fr": {
         "hook": "Certaines migraines provoquent des effets visuels saisissants sans la moindre douleur.",
-        "fact": "Une « migraine silencieuse », ou aura migraineuse, peut faire apparaître des éclairs lumineux, des taches aveugles ou des motifs en zigzag dans le champ de vision, sous l'effet de vagues d'activité cérébrale anormale — parfois sans aucun mal de tête à la clé."
+        "fact": "Une « migraine silencieuse », ou aura migraineuse, peut faire apparaître des éclairs lumineux, des taches aveugles ou des motifs en zigzag dans le champ de vision, sous l'effet de vagues d'activité cérébrale anormale — parfois sans aucun mal de tête à la clé."
       },
       "nl": {
         "hook": "Sommige migraines geven levendige visuele effecten zonder ook maar enige pijn.",
@@ -3689,7 +3689,7 @@
     "translations": {
       "fr": {
         "hook": "L'édition génétique CRISPR a été empruntée aux bactéries.",
-        "fact": "Le système CRISPR que les scientifiques utilisent aujourd'hui pour modifier les génomes est apparu naturellement chez les bactéries comme une défense immunitaire : il leur permet de découper l'ADN des virus qui les ont attaquées et d'en garder la mémoire."
+        "fact": "Le système CRISPR que les scientifiques utilisent aujourd'hui pour modifier les génomes est apparu naturellement chez les bactéries comme une défense immunitaire : il leur permet de découper l'ADN des virus qui les ont attaquées et d'en garder la mémoire."
       },
       "nl": {
         "hook": "CRISPR-gentechnologie is geleend van bacteriën.",
@@ -3713,7 +3713,7 @@
     "translations": {
       "fr": {
         "hook": "Certains gènes se déplacent dans le génome.",
-        "fact": "La généticienne Barbara McClintock a découvert les « gènes sauteurs », ou transposons : des segments d'ADN capables de changer de position au sein d'un génome. Une découverte tellement en avance sur son temps qu'elle ne lui a valu le prix Nobel que des décennies plus tard."
+        "fact": "La généticienne Barbara McClintock a découvert les « gènes sauteurs », ou transposons : des segments d'ADN capables de changer de position au sein d'un génome. Une découverte tellement en avance sur son temps qu'elle ne lui a valu le prix Nobel que des décennies plus tard."
       },
       "nl": {
         "hook": "Genen kunnen door je genoom springen.",
@@ -3737,7 +3737,7 @@
     "translations": {
       "fr": {
         "hook": "Les champignons vous sont plus proches parents que les plantes.",
-        "fact": "Les champignons se sont séparés d'un ancêtre commun partagé avec les animaux après que les plantes se soient déjà détachées de la lignée : génétiquement, champignons, moisissures et levures sont donc plus proches de l'humain que du règne végétal."
+        "fact": "Les champignons se sont séparés d'un ancêtre commun partagé avec les animaux après que les plantes se soient déjà détachées de la lignée : génétiquement, champignons, moisissures et levures sont donc plus proches de l'humain que du règne végétal."
       },
       "nl": {
         "hook": "Paddenstoelen zijn nauwer aan jou verwant dan aan planten.",
@@ -3838,7 +3838,7 @@
     "translations": {
       "fr": {
         "hook": "Chez la tortue marine, c'est le sable qui décide du sexe.",
-        "fact": "Les œufs de tortue marine ne possèdent pas de chromosomes sexuels déterminant le sexe : ce sont les températures du nid qui décident, les plus chaudes donnant surtout des femelles et les plus fraîches surtout des mâles.",
+        "fact": "Les œufs de tortue marine ne possèdent pas de chromosomes sexuels déterminant le sexe : ce sont les températures du nid qui décident, les plus chaudes donnant surtout des femelles et les plus fraîches surtout des mâles.",
         "whyItMatters": "La hausse des températures mondiales déséquilibre fortement de nombreuses populations de tortues marines en faveur des femelles, ce qui menace leur reproduction future."
       },
       "nl": {
@@ -3961,7 +3961,7 @@
     "translations": {
       "fr": {
         "hook": "Les chats ne perçoivent pas le goût sucré.",
-        "fact": "Les chats n'ont pas de version fonctionnelle du gène nécessaire à la fabrication des récepteurs du sucré : les aliments sucrés n'ont donc pratiquement aucun goût pour eux, une particularité rare chez les mammifères."
+        "fact": "Les chats n'ont pas de version fonctionnelle du gène nécessaire à la fabrication des récepteurs du sucré : les aliments sucrés n'ont donc pratiquement aucun goût pour eux, une particularité rare chez les mammifères."
       },
       "nl": {
         "hook": "Katten proeven geen zoet.",
@@ -4129,7 +4129,7 @@
     "translations": {
       "fr": {
         "hook": "Une forêt de 47 000 arbres dans l'Utah n'est en réalité qu'un seul organisme.",
-        "fact": "Pando, une peupleraie de trembles de l'Utah, est en fait un unique organisme génétiquement identique relié par un système racinaire commun : chaque tronc est un clone issu du même arbre d'origine."
+        "fact": "Pando, une peupleraie de trembles de l'Utah, est en fait un unique organisme génétiquement identique relié par un système racinaire commun : chaque tronc est un clone issu du même arbre d'origine."
       },
       "nl": {
         "hook": "Een bos van 47.000 bomen in Utah is technisch gezien één organisme.",
@@ -4153,7 +4153,7 @@
     "translations": {
       "fr": {
         "hook": "Les dionées savent compter.",
-        "fact": "Les poils sensitifs à l'intérieur d'une dionée attrape-mouche doivent être touchés deux fois en une vingtaine de secondes pour que le piège se referme, et un troisième contact est nécessaire pour lancer la digestion : un mécanisme qui évite à la plante de gaspiller son énergie pour de fausses alertes, comme une goutte de pluie."
+        "fact": "Les poils sensitifs à l'intérieur d'une dionée attrape-mouche doivent être touchés deux fois en une vingtaine de secondes pour que le piège se referme, et un troisième contact est nécessaire pour lancer la digestion : un mécanisme qui évite à la plante de gaspiller son énergie pour de fausses alertes, comme une goutte de pluie."
       },
       "nl": {
         "hook": "Venusvliegenvangers kunnen tellen.",
@@ -4201,7 +4201,7 @@
     "translations": {
       "fr": {
         "hook": "Les arbres s'échangent discrètement des nutriments via un réseau souterrain de champignons.",
-        "fact": "De nombreux arbres sont reliés sous terre par des champignons mycorhiziens qui connectent leurs racines, ce qui leur permet de partager eau, carbone et signaux d'alerte face aux ravageurs : un phénomène que les chercheurs surnomment le « wood wide web »."
+        "fact": "De nombreux arbres sont reliés sous terre par des champignons mycorhiziens qui connectent leurs racines, ce qui leur permet de partager eau, carbone et signaux d'alerte face aux ravageurs : un phénomène que les chercheurs surnomment le « wood wide web »."
       },
       "nl": {
         "hook": "Bomen ruilen in stilte voedingsstoffen via een ondergronds schimmelnetwerk.",
@@ -4224,7 +4224,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Certaines fleurs « écoutent » le bourdonnement des abeilles et sucrent leur nectar en retour.",
+        "hook": "Certaines fleurs « écoutent » le bourdonnement des abeilles et sucrent leur nectar en retour.",
         "fact": "Des recherches sur l'onagre ont montré que les fleurs peuvent percevoir les vibrations des battements d'ailes d'un pollinisateur qui approche et augmenter, en quelques minutes, la concentration en sucre de leur nectar."
       },
       "nl": {
@@ -4321,7 +4321,7 @@
     "translations": {
       "fr": {
         "hook": "Les dauphins et des reptiles marins disparus ont développé la même silhouette, chacun de leur côté.",
-        "fact": "Les ichtyosaures, reptiles marins anciens sans lien de parenté avec les mammifères, ont développé un corps profilé pourvu de nageoires étonnamment proche de celui des dauphins : un cas d'évolution convergente dicté par les mêmes exigences de nage rapide sous l'eau."
+        "fact": "Les ichtyosaures, reptiles marins anciens sans lien de parenté avec les mammifères, ont développé un corps profilé pourvu de nageoires étonnamment proche de celui des dauphins : un cas d'évolution convergente dicté par les mêmes exigences de nage rapide sous l'eau."
       },
       "nl": {
         "hook": "Dolfijnen en uitgestorven zeereptielen ontwikkelden onafhankelijk vrijwel dezelfde lichaamsvorm.",
@@ -4397,7 +4397,7 @@
     "translations": {
       "fr": {
         "hook": "Retirer une seule espèce peut faire s'effondrer tout un écosystème.",
-        "fact": "Les espèces clés de voûte, comme les loutres de mer et les loups, ont sur leur écosystème un impact bien plus grand que leur nombre ne le suggère : les loutres limitent les populations d'oursins et protègent ainsi les forêts de kelp, tandis que les loups réintroduits à Yellowstone ont remodelé les rivières en modifiant les habitudes de pâturage des wapitis."
+        "fact": "Les espèces clés de voûte, comme les loutres de mer et les loups, ont sur leur écosystème un impact bien plus grand que leur nombre ne le suggère : les loutres limitent les populations d'oursins et protègent ainsi les forêts de kelp, tandis que les loups réintroduits à Yellowstone ont remodelé les rivières en modifiant les habitudes de pâturage des wapitis."
       },
       "nl": {
         "hook": "Eén soort weghalen kan een heel ecosysteem doen ontrafelen.",
@@ -4470,7 +4470,7 @@
     "translations": {
       "fr": {
         "hook": "La résistance aux antibiotiques, c'est l'évolution en temps réel.",
-        "fact": "Chaque fois que des bactéries sont exposées à des antibiotiques, les rares qui portent des mutations aléatoires favorisant leur survie se reproduisent et transmettent cette résistance à la génération suivante : la sélection naturelle à l'œuvre en quelques années plutôt qu'en millénaires.",
+        "fact": "Chaque fois que des bactéries sont exposées à des antibiotiques, les rares qui portent des mutations aléatoires favorisant leur survie se reproduisent et transmettent cette résistance à la génération suivante : la sélection naturelle à l'œuvre en quelques années plutôt qu'en millénaires.",
         "whyItMatters": "C'est l'une des grandes raisons pour lesquelles les autorités sanitaires prônent un usage limité et raisonné des antibiotiques plutôt qu'une prescription systématique."
       },
       "nl": {
@@ -4665,7 +4665,7 @@
     "translations": {
       "fr": {
         "hook": "L'un des parcs nationaux les plus célèbres des États-Unis repose sur un supervolcan.",
-        "fact": "Le parc national de Yellowstone se situe au-dessus d'un point chaud volcanique capable d'éruptions colossales ; la dernière remonte à environ 640 000 ans et a laissé l'immense caldeira que l'on voit aujourd'hui."
+        "fact": "Le parc national de Yellowstone se situe au-dessus d'un point chaud volcanique capable d'éruptions colossales ; la dernière remonte à environ 640 000 ans et a laissé l'immense caldeira que l'on voit aujourd'hui."
       },
       "nl": {
         "hook": "Een van Amerika's beroemdste nationale parken ligt boven op een supervulkaan.",
@@ -4689,7 +4689,7 @@
     "translations": {
       "fr": {
         "hook": "Techniquement, nous vivons encore dans une ère glaciaire.",
-        "fact": "Les géologues définissent une ère glaciaire par la présence de calottes glaciaires permanentes ; comme l'Antarctique et le Groenland sont toujours couverts de glace, la Terre traverse actuellement une période interglaciaire chaude au sein d'une ère glaciaire commencée il y a environ 2,6 millions d'années."
+        "fact": "Les géologues définissent une ère glaciaire par la présence de calottes glaciaires permanentes ; comme l'Antarctique et le Groenland sont toujours couverts de glace, la Terre traverse actuellement une période interglaciaire chaude au sein d'une ère glaciaire commencée il y a environ 2,6 millions d'années."
       },
       "nl": {
         "hook": "Technisch gezien leven we nog steeds in een ijstijd.",
@@ -4713,7 +4713,7 @@
     "translations": {
       "fr": {
         "hook": "Environ trois quarts des volcans actifs du monde se trouvent dans une seule zone en fer à cheval.",
-        "fact": "La « ceinture de feu » du Pacifique, une chaîne d'environ 40 000 kilomètres (25 000 miles) qui encercle le bassin de l'océan Pacifique, abrite près de 75 % des volcans actifs de la planète, du fait des nombreuses frontières de plaques tectoniques qui la traversent."
+        "fact": "La « ceinture de feu » du Pacifique, une chaîne d'environ 40 000 kilomètres (25 000 miles) qui encercle le bassin de l'océan Pacifique, abrite près de 75 % des volcans actifs de la planète, du fait des nombreuses frontières de plaques tectoniques qui la traversent."
       },
       "nl": {
         "hook": "Ongeveer driekwart van alle actieve vulkanen ligt in één hoefijzervormige zone.",
@@ -4761,7 +4761,7 @@
     "translations": {
       "fr": {
         "hook": "Les concrétions des grottes poussent à une vitesse presque imperceptible.",
-        "fact": "Stalactites et stalagmites se forment quand une eau riche en minéraux s'infiltre goutte à goutte dans les grottes calcaires et y dépose de minuscules quantités de calcite ; beaucoup ne gagnent que quelques centimètres par millénaire."
+        "fact": "Stalactites et stalagmites se forment quand une eau riche en minéraux s'infiltre goutte à goutte dans les grottes calcaires et y dépose de minuscules quantités de calcite ; beaucoup ne gagnent que quelques centimètres par millénaire."
       },
       "nl": {
         "hook": "Druipsteen groeit in een nauwelijks waarneembaar tempo.",
@@ -4809,7 +4809,7 @@
     "translations": {
       "fr": {
         "hook": "Chaque degré sur l'échelle de magnitude des séismes correspond à des secousses environ 10 fois plus fortes.",
-        "fact": "Les échelles de magnitude des séismes sont logarithmiques : un séisme de magnitude 6 fait trembler le sol environ 10 fois plus qu'un séisme de magnitude 5, et libère à peu près 32 fois plus d'énergie."
+        "fact": "Les échelles de magnitude des séismes sont logarithmiques : un séisme de magnitude 6 fait trembler le sol environ 10 fois plus qu'un séisme de magnitude 5, et libère à peu près 32 fois plus d'énergie."
       },
       "nl": {
         "hook": "Elke stap op de schaal van aardbevingsmagnitude betekent ongeveer 10 keer meer schudden.",
@@ -4833,7 +4833,7 @@
     "translations": {
       "fr": {
         "hook": "Le carburant de votre voiture a des millions d'années.",
-        "fact": "Le charbon, le pétrole et le gaz naturel se sont formés à partir des restes de plantes anciennes et d'organismes marins, enfouis et comprimés sous l'effet de la chaleur et de la pression pendant des millions d'années : d'où leur nom d'énergies fossiles."
+        "fact": "Le charbon, le pétrole et le gaz naturel se sont formés à partir des restes de plantes anciennes et d'organismes marins, enfouis et comprimés sous l'effet de la chaleur et de la pression pendant des millions d'années : d'où leur nom d'énergies fossiles."
       },
       "nl": {
         "hook": "De brandstof in je auto is miljoenen jaren oud.",

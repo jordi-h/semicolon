@@ -283,7 +283,7 @@
     "translations": {
       "fr": {
         "hook": "Le ramen était à l'origine une importation chinoise.",
-        "fact": "Les soupes de nouilles de blé sont arrivées au Japon depuis la Chine et étaient à l'origine vendues sous le nom de « Shina soba ». Les cuisiniers japonais ont adapté bouillons et garnitures tout au long du XXe siècle pour créer le ramen reconnu aujourd'hui dans le monde entier."
+        "fact": "Les soupes de nouilles de blé sont arrivées au Japon depuis la Chine et étaient à l'origine vendues sous le nom de « Shina soba ». Les cuisiniers japonais ont adapté bouillons et garnitures tout au long du XXe siècle pour créer le ramen reconnu aujourd'hui dans le monde entier."
       },
       "nl": {
         "hook": "Ramen begon als Chinese import.",
@@ -306,8 +306,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Il n'existe pas de plat unique appelé « curry » en Inde.",
-        "fact": "Le mot « curry » vient du terme tamoul kari et a été popularisé par les colons britanniques comme étiquette générique pour désigner divers plats régionaux en sauce d'Asie du Sud, qui n'ont ni nom ni recette unifiés."
+        "hook": "Il n'existe pas de plat unique appelé « curry » en Inde.",
+        "fact": "Le mot « curry » vient du terme tamoul kari et a été popularisé par les colons britanniques comme étiquette générique pour désigner divers plats régionaux en sauce d'Asie du Sud, qui n'ont ni nom ni recette unifiés."
       },
       "nl": {
         "hook": "Er bestaat geen enkel gerecht dat 'curry' heet in India.",
@@ -379,7 +379,7 @@
     "translations": {
       "fr": {
         "hook": "Le bibimbap est peut-être né comme moyen d'utiliser les restes.",
-        "fact": "Ce plat coréen de riz mélangé trouverait son origine dans la combinaison du riz avec les restes de banchan, les accompagnements ; certains font remonter une version de cette pratique aux offrandes alimentaires mélangées après les rites ancestraux."
+        "fact": "Ce plat coréen de riz mélangé trouverait son origine dans la combinaison du riz avec les restes de banchan, les accompagnements ; certains font remonter une version de cette pratique aux offrandes alimentaires mélangées après les rites ancestraux."
       },
       "nl": {
         "hook": "Bibimbap is mogelijk ontstaan als manier om restjes op te maken.",
@@ -476,7 +476,7 @@
     "translations": {
       "fr": {
         "hook": "Le riz jollof tire son nom d'un empire d'Afrique de l'Ouest.",
-        "fact": "Le riz jollof remonterait à l'Empire wolof, dans la région de la Sénégambie, en Afrique de l'Ouest ; des variantes de ce plat de riz à base de tomate sont aujourd'hui revendiquées avec fierté par de nombreuses nations ouest-africaines."
+        "fact": "Le riz jollof remonterait à l'Empire wolof, dans la région de la Sénégambie, en Afrique de l'Ouest ; des variantes de ce plat de riz à base de tomate sont aujourd'hui revendiquées avec fierté par de nombreuses nations ouest-africaines."
       },
       "nl": {
         "hook": "Jollofrijst dankt zijn naam aan een West-Afrikaans rijk.",
@@ -549,7 +549,7 @@
     "translations": {
       "fr": {
         "hook": "Les spaghettis aux boulettes de viande sont une invention américaine.",
-        "fact": "La cuisine italienne sert rarement de grosses boulettes de viande empilées sur des pâtes en sauce ; cette combinaison a été popularisée par les immigrants italiens aux États-Unis au début du XXe siècle, et non en Italie."
+        "fact": "La cuisine italienne sert rarement de grosses boulettes de viande empilées sur des pâtes en sauce ; cette combinaison a été popularisée par les immigrants italiens aux États-Unis au début du XXe siècle, et non en Italie."
       },
       "nl": {
         "hook": "Spaghetti met gehaktballen is een Amerikaanse uitvinding.",
@@ -598,7 +598,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « naan » n'est pas du tout sud-asiatique.",
+        "hook": "Le mot « naan » n'est pas du tout sud-asiatique.",
         "fact": "Le mot naan vient du persan désignant le pain et s'est répandu en Asie du Sud principalement grâce à la cuisine de cour moghole, influencée par la Perse, devenant un aliment de base dans la région au fil des siècles."
       },
       "nl": {
@@ -646,7 +646,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le nom de la paella pourrait simplement signifier « poêle ».",
+        "hook": "Le nom de la paella pourrait simplement signifier « poêle ».",
         "fact": "La plupart des étymologistes font remonter le mot paella au latin patella, signifiant poêle, en référence au large plat peu profond dans lequel le riz valencien est traditionnellement cuit et servi."
       },
       "nl": {
@@ -672,7 +672,7 @@
     "translations": {
       "fr": {
         "hook": "Le ragoût national de la Hongrie est antérieur de plusieurs siècles à son épice emblématique.",
-        "fact": "Le goulasch a commencé comme un simple ragoût préparé par des bergers magyars, dont le nom gulyás signifie « berger ». Le paprika, aujourd'hui central dans ce plat, n'y a été ajouté que des générations plus tard, une fois les piments venus des Amériques cultivés en Hongrie."
+        "fact": "Le goulasch a commencé comme un simple ragoût préparé par des bergers magyars, dont le nom gulyás signifie « berger ». Le paprika, aujourd'hui central dans ce plat, n'y a été ajouté que des générations plus tard, une fois les piments venus des Amériques cultivés en Hongrie."
       },
       "nl": {
         "hook": "Hongarije's nationale stoofpot bestond al eeuwen vóór zijn kenmerkende specerij.",
@@ -939,7 +939,7 @@
     "translations": {
       "fr": {
         "hook": "Le nom du biryani est un indice de ses origines perses.",
-        "fact": "Le nom biryani viendrait du mot persan birian, signifiant « frit avant cuisson », et ce plat de riz en couches a été popularisé en Asie du Sud dans les cuisines royales de l'époque moghole."
+        "fact": "Le nom biryani viendrait du mot persan birian, signifiant « frit avant cuisson », et ce plat de riz en couches a été popularisé en Asie du Sud dans les cuisines royales de l'époque moghole."
       },
       "nl": {
         "hook": "De naam biryani verraadt zijn Perzische afkomst.",
@@ -987,7 +987,7 @@
     "translations": {
       "fr": {
         "hook": "Une restauratrice au visage grêlé a donné à la cuisine sichuanaise l'une de ses icônes.",
-        "fact": "Le mapo tofu aurait été inventé au XIXe siècle par une femme surnommée « Chen Mapo », qui tenait un petit restaurant près de Chengdu et associait le tofu à une pâte de fèves fermentée et au poivre du Sichuan."
+        "fact": "Le mapo tofu aurait été inventé au XIXe siècle par une femme surnommée « Chen Mapo », qui tenait un petit restaurant près de Chengdu et associait le tofu à une pâte de fèves fermentée et au poivre du Sichuan."
       },
       "nl": {
         "hook": "Een pokdalige restauranthoudster gaf de Sichuanese keuken een van haar iconen.",
@@ -1111,7 +1111,7 @@
     "translations": {
       "fr": {
         "hook": "Les Européens médiévaux payaient parfois leur loyer en grains de poivre.",
-        "fact": "Le poivre noir avait une telle valeur dans l'Europe médiévale qu'il servait parfois de monnaie ou permettait de payer loyers et dots ; le commerce du poivre a d'ailleurs contribué à lancer l'ère des grandes explorations.",
+        "fact": "Le poivre noir avait une telle valeur dans l'Europe médiévale qu'il servait parfois de monnaie ou permettait de payer loyers et dots ; le commerce du poivre a d'ailleurs contribué à lancer l'ère des grandes explorations.",
         "whyItMatters": "La quête de routes commerciales directes vers les épices a redessiné l'exploration mondiale, la colonisation et les réseaux commerciaux pendant des siècles."
       },
       "nl": {
@@ -1414,7 +1414,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Les Incas appelaient le quinoa le « grain-mère ».",
+        "hook": "Les Incas appelaient le quinoa le « grain-mère ».",
         "fact": "Le quinoa a été domestiqué par les peuples andins il y a des milliers d'années et jouissait d'un statut sacré chez les Incas, qui l'appelaient chisiya mama, soit le grain-mère."
       },
       "nl": {
@@ -1662,8 +1662,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « salaire » vient d'un conservateur alimentaire.",
-        "fact": "Le sel avait une telle valeur dans la Rome antique que les soldats recevaient parfois une allocation pour s'en procurer, donnant naissance au mot latin salarium, à l'origine du mot français « salaire »."
+        "hook": "Le mot « salaire » vient d'un conservateur alimentaire.",
+        "fact": "Le sel avait une telle valeur dans la Rome antique que les soldats recevaient parfois une allocation pour s'en procurer, donnant naissance au mot latin salarium, à l'origine du mot français « salaire »."
       },
       "nl": {
         "hook": "Het woord 'salaris' komt van een voedselconserveringsmiddel.",
@@ -1711,7 +1711,7 @@
     "translations": {
       "fr": {
         "hook": "Le piment de la Jamaïque doit son nom à une méprise.",
-        "fact": "Le piment de la Jamaïque est originaire des Caraïbes et d'Amérique centrale. Les premiers marchands européens l'ont appelé « toutes-épices » (allspice) car ils pensaient que sa saveur combinait cannelle, noix de muscade et clou de girofle, alors qu'il provient d'une seule baie séchée."
+        "fact": "Le piment de la Jamaïque est originaire des Caraïbes et d'Amérique centrale. Les premiers marchands européens l'ont appelé « toutes-épices » (allspice) car ils pensaient que sa saveur combinait cannelle, noix de muscade et clou de girofle, alors qu'il provient d'une seule baie séchée."
       },
       "nl": {
         "hook": "Piment dankt zijn Engelse naam 'allspice' aan een misvatting.",
@@ -1734,7 +1734,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La cardamome a mérité le surnom de « reine des épices ».",
+        "hook": "La cardamome a mérité le surnom de « reine des épices ».",
         "fact": "La cardamome est originaire des forêts des Ghâts occidentaux, en Inde, et reste, au poids, l'une des épices les plus chères au monde, prisée aussi bien dans la cuisine sud-asiatique que moyen-orientale."
       },
       "nl": {
@@ -1787,7 +1787,7 @@
     "translations": {
       "fr": {
         "hook": "Les agriculteurs autochtones d'Amérique du Nord avaient compris les cultures associées bien avant que le terme n'existe.",
-        "fact": "La méthode des Trois Sœurs consistait à planter ensemble le maïs, les haricots et la courge : les tiges de maïs servaient de support aux haricots, les haricots fixaient l'azote dans le sol, et les larges feuilles de la courge faisaient de l'ombre aux mauvaises herbes concurrentes."
+        "fact": "La méthode des Trois Sœurs consistait à planter ensemble le maïs, les haricots et la courge : les tiges de maïs servaient de support aux haricots, les haricots fixaient l'azote dans le sol, et les larges feuilles de la courge faisaient de l'ombre aux mauvaises herbes concurrentes."
       },
       "nl": {
         "hook": "Inheemse Noord-Amerikaanse boeren doorgrondden combinatieteelt lang voordat de term bestond.",
@@ -1980,7 +1980,7 @@
     "translations": {
       "fr": {
         "hook": "Les cornichons se conservent de deux façons bien différentes.",
-        "fact": "La mise en saumure peut conserver les aliments soit en les immergeant dans un liquide acide comme le vinaigre, soit par lacto-fermentation dans une saumure salée ; ces deux méthodes abaissent suffisamment le pH pour empêcher les bactéries nocives de se développer."
+        "fact": "La mise en saumure peut conserver les aliments soit en les immergeant dans un liquide acide comme le vinaigre, soit par lacto-fermentation dans une saumure salée ; ces deux méthodes abaissent suffisamment le pH pour empêcher les bactéries nocives de se développer."
       },
       "nl": {
         "hook": "Augurken worden op twee heel verschillende manieren bewaard.",
@@ -2104,7 +2104,7 @@
     "translations": {
       "fr": {
         "hook": "Les aliments lyophilisés évitent complètement l'eau liquide.",
-        "fact": "La lyophilisation retire l'eau des aliments par sublimation : sous vide, la glace se transforme directement en vapeur, préservant la structure de l'aliment et la plupart de ses nutriments bien mieux que le séchage à la chaleur."
+        "fact": "La lyophilisation retire l'eau des aliments par sublimation : sous vide, la glace se transforme directement en vapeur, préservant la structure de l'aliment et la plupart de ses nutriments bien mieux que le séchage à la chaleur."
       },
       "nl": {
         "hook": "Vriesgedroogd voedsel slaat vloeibaar water helemaal over.",
@@ -2528,7 +2528,7 @@
     "translations": {
       "fr": {
         "hook": "Une soupe aigre persane a donné son nom à toute une cuisine mondiale.",
-        "fact": "Le mot « sorbet » et le mot « sirop » remontent tous deux à des termes persans et arabes désignant une boisson sucrée et glacée, un signe de la façon dont le vocabulaire culinaire persan s'est diffusé jusqu'en Europe via les réseaux commerciaux islamiques."
+        "fact": "Le mot « sorbet » et le mot « sirop » remontent tous deux à des termes persans et arabes désignant une boisson sucrée et glacée, un signe de la façon dont le vocabulaire culinaire persan s'est diffusé jusqu'en Europe via les réseaux commerciaux islamiques."
       },
       "nl": {
         "hook": "Een Perzische zure soep gaf haar naam aan een hele wereldkeuken.",
@@ -2720,7 +2720,7 @@
     "translations": {
       "fr": {
         "hook": "Le cinq-épices chinois, ce n'est pas que du goût, c'est aussi de l'équilibre.",
-        "fact": "Le cinq-épices, généralement un mélange d'anis étoilé, de clous de girofle, de cannelle, de poivre du Sichuan et de graines de fenouil, a traditionnellement été conçu pour représenter les cinq saveurs fondamentales reconnues par la philosophie culinaire chinoise : sucré, acide, amer, salé et umami."
+        "fact": "Le cinq-épices, généralement un mélange d'anis étoilé, de clous de girofle, de cannelle, de poivre du Sichuan et de graines de fenouil, a traditionnellement été conçu pour représenter les cinq saveurs fondamentales reconnues par la philosophie culinaire chinoise : sucré, acide, amer, salé et umami."
       },
       "nl": {
         "hook": "Chinees vijfkruidenpoeder draait niet alleen om smaak, maar om balans.",
@@ -2767,7 +2767,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un seul fruit séché a donné le mot « raisin » au français comme à l'anglais.",
+        "hook": "Un seul fruit séché a donné le mot « raisin » au français comme à l'anglais.",
         "fact": "Les raisins sont séchés en raisins secs depuis l'Antiquité au Moyen-Orient et dans le bassin méditerranéen, et le séchage au soleil fut l'une des premières méthodes simples de conservation des aliments à long terme accessibles aux marchands anciens."
       },
       "nl": {
@@ -3251,7 +3251,7 @@
     "translations": {
       "fr": {
         "hook": "Le plat du seder de Pessah transforme un repas en leçon d'histoire que l'on mange.",
-        "fact": "Chaque élément du plat du seder est symbolique : les herbes amères représentent la dureté de l'esclavage en Égypte, une pâte sucrée aux fruits et aux noix appelée « harosset » évoque le mortier utilisé par les esclaves, et un os rôti rappelle le sacrifice de l'ancien Temple."
+        "fact": "Chaque élément du plat du seder est symbolique : les herbes amères représentent la dureté de l'esclavage en Égypte, une pâte sucrée aux fruits et aux noix appelée « harosset » évoque le mortier utilisé par les esclaves, et un os rôti rappelle le sacrifice de l'ancien Temple."
       },
       "nl": {
         "hook": "Het sederbord met Pesach maakt van een maaltijd een geschiedenisles die je opeet.",
@@ -3347,7 +3347,7 @@
     "translations": {
       "fr": {
         "hook": "Ne pas trinquer avec un verre vide est une vraie superstition en Russie.",
-        "fact": "Les coutumes russes du toast déconseillent de boire à un toast avec un verre vide, de trinquer avec des verres sans alcool, ou de reposer sur la table une bouteille vide : tout cela est considéré comme porte-malheur ou irrespectueux envers l'occasion."
+        "fact": "Les coutumes russes du toast déconseillent de boire à un toast avec un verre vide, de trinquer avec des verres sans alcool, ou de reposer sur la table une bouteille vide : tout cela est considéré comme porte-malheur ou irrespectueux envers l'occasion."
       },
       "nl": {
         "hook": "Niet klinken met een leeg glas is een echt bijgeloof in Rusland.",
@@ -3371,7 +3371,7 @@
     "translations": {
       "fr": {
         "hook": "Dans une grande partie du monde arabe, une assiette vide est un signal pour la resservir, pas un signe que l'on a fini.",
-        "fact": "Laisser une assiette complètement vide peut être interprété comme un signe que l'hôte n'a pas servi assez ; c'est pourquoi, dans de nombreux foyers arabes, les invités laissent traditionnellement un peu de nourriture pour montrer qu'ils en ont eu largement assez."
+        "fact": "Laisser une assiette complètement vide peut être interprété comme un signe que l'hôte n'a pas servi assez ; c'est pourquoi, dans de nombreux foyers arabes, les invités laissent traditionnellement un peu de nourriture pour montrer qu'ils en ont eu largement assez."
       },
       "nl": {
         "hook": "In grote delen van de Arabische wereld is een leeg bord een teken om het bij te vullen, niet dat je klaar bent.",
@@ -3614,7 +3614,7 @@
     "translations": {
       "fr": {
         "hook": "La même boisson s'écrit de deux façons différentes selon le pays qui l'a produite.",
-        "fact": "L'Écosse, le Canada et le Japon écrivent « whisky », tandis que l'Irlande et les États-Unis écrivent « whiskey ». Cette différence remonte à des choix de traduction faits par des distillateurs gaéliques au XIXe siècle et s'est maintenue depuis comme une convention régionale."
+        "fact": "L'Écosse, le Canada et le Japon écrivent « whisky », tandis que l'Irlande et les États-Unis écrivent « whiskey ». Cette différence remonte à des choix de traduction faits par des distillateurs gaéliques au XIXe siècle et s'est maintenue depuis comme une convention régionale."
       },
       "nl": {
         "hook": "Dezelfde drank wordt op twee verschillende manieren gespeld, afhankelijk van het land dat hem maakte.",
@@ -3931,7 +3931,7 @@
     "translations": {
       "fr": {
         "hook": "Le gin a débuté comme médicament, pas comme ingrédient à cocktail.",
-        "fact": "Le gin trouve son origine dans le genièvre néerlandais, à l'origine aromatisé au genévrier pour ses supposées vertus médicinales. Les soldats anglais combattant aux Pays-Bas auraient rapporté cette eau-de-vie chez eux, ainsi que l'expression « Dutch courage » (le courage puisé dans l'alcool)."
+        "fact": "Le gin trouve son origine dans le genièvre néerlandais, à l'origine aromatisé au genévrier pour ses supposées vertus médicinales. Les soldats anglais combattant aux Pays-Bas auraient rapporté cette eau-de-vie chez eux, ainsi que l'expression « Dutch courage » (le courage puisé dans l'alcool)."
       },
       "nl": {
         "hook": "Gin begon als medicijn, niet als cocktailingrediënt.",
@@ -3955,7 +3955,7 @@
     "translations": {
       "fr": {
         "hook": "Personne ne s'accorde vraiment sur le pays qui a inventé la vodka.",
-        "fact": "La Russie et la Pologne revendiquent toutes deux l'invention de la vodka : des traces historiques de distillation d'alcool à base de céréales et de pommes de terre existent dans les deux régions depuis des siècles, et le débat sur son véritable lieu de naissance reste non résolu."
+        "fact": "La Russie et la Pologne revendiquent toutes deux l'invention de la vodka : des traces historiques de distillation d'alcool à base de céréales et de pommes de terre existent dans les deux régions depuis des siècles, et le débat sur son véritable lieu de naissance reste non résolu."
       },
       "nl": {
         "hook": "Niemand is het er echt over eens welk land wodka nu eigenlijk heeft uitgevonden.",
@@ -4172,7 +4172,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « brut » sur une étiquette de champagne ne dit presque rien sur les cépages, mais tout sur le sucre.",
+        "hook": "Le mot « brut » sur une étiquette de champagne ne dit presque rien sur les cépages, mais tout sur le sucre.",
         "fact": "Après la seconde fermentation, les vignerons ajoutent un mélange de sucre et de vin appelé liqueur d'expédition pour ajuster la douceur. La quantité ajoutée détermine si la bouteille finale sera étiquetée brut, extra brut, sec ou demi-sec."
       },
       "nl": {
@@ -4273,7 +4273,7 @@
     "translations": {
       "fr": {
         "hook": "L'autocuiseur a plus de 300 ans.",
-        "fact": "Le physicien français Denis Papin a inventé une version primitive appelée « digesteur à vapeur » en 1679, utilisant la pression de la vapeur emprisonnée pour élever le point d'ébullition de l'eau et cuire les aliments plus vite, le même principe que les autocuiseurs modernes utilisent aujourd'hui."
+        "fact": "Le physicien français Denis Papin a inventé une version primitive appelée « digesteur à vapeur » en 1679, utilisant la pression de la vapeur emprisonnée pour élever le point d'ébullition de l'eau et cuire les aliments plus vite, le même principe que les autocuiseurs modernes utilisent aujourd'hui."
       },
       "nl": {
         "hook": "De snelkookpan is al meer dan 300 jaar oud.",
@@ -4321,8 +4321,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Julienne, brunoise et chiffonade ne sont que des noms français chics pour dire « couper plus petit ».",
-        "fact": "Le vocabulaire culinaire français a standardisé des coupes de couteau précises : la julienne donne de fines allumettes, la brunoise détaille ces allumettes en minuscules dés, et la chiffonade tranche les herbes ou légumes-feuilles en fins rubans."
+        "hook": "Julienne, brunoise et chiffonade ne sont que des noms français chics pour dire « couper plus petit ».",
+        "fact": "Le vocabulaire culinaire français a standardisé des coupes de couteau précises : la julienne donne de fines allumettes, la brunoise détaille ces allumettes en minuscules dés, et la chiffonade tranche les herbes ou légumes-feuilles en fins rubans."
       },
       "nl": {
         "hook": "Julienne, brunoise en chiffonade zijn allemaal gewoon chique Franse namen voor 'dingen kleiner snijden'.",
@@ -4610,7 +4610,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La forme incurvée du wok n'est pas qu'une question de tradition : elle est conçue pour un style de cuisson précis.",
+        "hook": "La forme incurvée du wok n'est pas qu'une question de tradition : elle est conçue pour un style de cuisson précis.",
         "fact": "Le fond arrondi concentre une chaleur intense au centre tandis que les parois inclinées offrent des zones plus fraîches, permettant aux cuisiniers de sauter rapidement les ingrédients à haute température avec peu d'huile tout en contrôlant la cuisson."
       },
       "nl": {
@@ -4831,7 +4831,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La forme en ballon d'un fouet métallique existe pour une raison précise : emprisonner l'air.",
+        "hook": "La forme en ballon d'un fouet métallique existe pour une raison précise : emprisonner l'air.",
         "fact": "Les fils arrondis et bouclés d'un fouet ballon sont conçus pour incorporer l'air aussi efficacement que possible dans des ingrédients comme les blancs d'œufs ou la crème, ce qui explique pourquoi c'est la forme privilégiée pour fouetter plutôt que pour simplement mélanger."
       },
       "nl": {

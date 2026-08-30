@@ -10,8 +10,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le premier « bug » informatique était un vrai insecte.",
-        "fact": "En 1947, des ingénieurs travaillant sur l'ordinateur Harvard Mark II ont trouvé un papillon de nuit coincé dans un relais, provoquant une panne — ils l'ont collé dans leur carnet de bord, popularisant le terme « debugging »."
+        "hook": "Le premier « bug » informatique était un vrai insecte.",
+        "fact": "En 1947, des ingénieurs travaillant sur l'ordinateur Harvard Mark II ont trouvé un papillon de nuit coincé dans un relais, provoquant une panne — ils l'ont collé dans leur carnet de bord, popularisant le terme « debugging »."
       },
       "nl": {
         "hook": "De eerste computer 'bug' was een echt insect.",
@@ -59,7 +59,7 @@
     "translations": {
       "fr": {
         "hook": "Le premier disque dur de 1 Go pesait plus de 225 kg.",
-        "fact": "L'IBM 3380, sorti en 1980, fut le premier disque dur capable de stocker un gigaoctet ; il avait à peu près la taille d'un grand réfrigérateur et coûtait environ 40 000 dollars."
+        "fact": "L'IBM 3380, sorti en 1980, fut le premier disque dur capable de stocker un gigaoctet ; il avait à peu près la taille d'un grand réfrigérateur et coûtait environ 40 000 dollars."
       },
       "nl": {
         "hook": "De eerste harde schijf van 1GB woog meer dan 225 kilo.",
@@ -83,7 +83,7 @@
     "translations": {
       "fr": {
         "hook": "Wi-Fi ne veut rien dire.",
-        "fact": "Contrairement à la croyance populaire selon laquelle cela signifierait « Wireless Fidelity », Wi-Fi n'est en réalité qu'une marque déposée inventée par une agence de marketing — le sigle n'a aucune signification technique."
+        "fact": "Contrairement à la croyance populaire selon laquelle cela signifierait « Wireless Fidelity », Wi-Fi n'est en réalité qu'une marque déposée inventée par une agence de marketing — le sigle n'a aucune signification technique."
       },
       "nl": {
         "hook": "Wifi staat eigenlijk nergens voor.",
@@ -107,7 +107,7 @@
     "translations": {
       "fr": {
         "hook": "Le symbole @ existait bien avant l'e-mail.",
-        "fact": "Le symbole @ apparaissait déjà dans les registres commerciaux au 16e siècle avec le sens de « au taux de », bien avant que Ray Tomlinson ne le réutilise pour les adresses e-mail en 1971."
+        "fact": "Le symbole @ apparaissait déjà dans les registres commerciaux au 16e siècle avec le sens de « au taux de », bien avant que Ray Tomlinson ne le réutilise pour les adresses e-mail en 1971."
       },
       "nl": {
         "hook": "Het @-symbool bestond eeuwen voor e-mail.",
@@ -179,7 +179,7 @@
     "translations": {
       "fr": {
         "hook": "Le premier message envoyé sur Internet a fait planter le système.",
-        "fact": "En 1969, des chercheurs ont tenté de transmettre le mot « LOGIN » entre deux ordinateurs sur ARPANET, mais le système a planté après le passage des seules lettres « L » et « O »."
+        "fact": "En 1969, des chercheurs ont tenté de transmettre le mot « LOGIN » entre deux ordinateurs sur ARPANET, mais le système a planté après le passage des seules lettres « L » et « O »."
       },
       "nl": {
         "hook": "Het eerste bericht ooit via internet deed het systeem crashen.",
@@ -299,7 +299,7 @@
     "translations": {
       "fr": {
         "hook": "L'icône de la disquette a survécu des décennies à la disquette elle-même.",
-        "fact": "Les disquettes étaient largement obsolètes dès le début des années 2000, mais l'icône de la disquette 3,5 pouces reste le symbole universel du bouton « enregistrer », utilisé par des gens qui n'en ont jamais touché une."
+        "fact": "Les disquettes étaient largement obsolètes dès le début des années 2000, mais l'icône de la disquette 3,5 pouces reste le symbole universel du bouton « enregistrer », utilisé par des gens qui n'en ont jamais touché une."
       },
       "nl": {
         "hook": "Het floppy-disk-opslaanicoontje overleefde de floppy disk met tientallen jaren.",
@@ -323,7 +323,7 @@
     "translations": {
       "fr": {
         "hook": "Le Bluetooth doit son nom à un roi viking.",
-        "fact": "La technologie Bluetooth tient son nom de Harald « Dent bleue » Gormsson, un roi scandinave du 10e siècle connu pour avoir uni les tribus danoises — le logo fusionne même les runes de ses initiales."
+        "fact": "La technologie Bluetooth tient son nom de Harald « Dent bleue » Gormsson, un roi scandinave du 10e siècle connu pour avoir uni les tribus danoises — le logo fusionne même les runes de ses initiales."
       },
       "nl": {
         "hook": "Bluetooth is vernoemd naar een Vikingkoning.",
@@ -347,7 +347,7 @@
     "translations": {
       "fr": {
         "hook": "La première vidéo YouTube parlait d'éléphants.",
-        "fact": "Mise en ligne en avril 2005, « Me at the zoo » montre le cofondateur de YouTube Jawed Karim se tenant devant des éléphants au zoo de San Diego — elle est toujours visible sur la plateforme aujourd'hui."
+        "fact": "Mise en ligne en avril 2005, « Me at the zoo » montre le cofondateur de YouTube Jawed Karim se tenant devant des éléphants au zoo de San Diego — elle est toujours visible sur la plateforme aujourd'hui."
       },
       "nl": {
         "hook": "De eerste YouTube-video ging over een olifant.",
@@ -370,8 +370,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Les premiers « ordinateurs » étaient littéralement des personnes.",
-        "fact": "Avant les machines électroniques, « computer » (calculateur) était un métier exercé par des personnes, souvent des femmes, qui effectuaient à la main des calculs complexes pour des projets scientifiques et techniques."
+        "hook": "Les premiers « ordinateurs » étaient littéralement des personnes.",
+        "fact": "Avant les machines électroniques, « computer » (calculateur) était un métier exercé par des personnes, souvent des femmes, qui effectuaient à la main des calculs complexes pour des projets scientifiques et techniques."
       },
       "nl": {
         "hook": "De eerste 'computers' waren letterlijk mensen.",
@@ -395,7 +395,7 @@
     "translations": {
       "fr": {
         "hook": "Le premier virus informatique à s'être propagé dans la nature était une blague de 1982.",
-        "fact": "« Elk Cloner », écrit par un adolescent de 15 ans, se propageait entre ordinateurs Apple II via des disquettes et affichait un court poème tous les 50 démarrages — l'un des premiers exemples de logiciel malveillant à se répandre hors d'un laboratoire."
+        "fact": "« Elk Cloner », écrit par un adolescent de 15 ans, se propageait entre ordinateurs Apple II via des disquettes et affichait un court poème tous les 50 démarrages — l'un des premiers exemples de logiciel malveillant à se répandre hors d'un laboratoire."
       },
       "nl": {
         "hook": "Het eerste computervirus dat zich in het wild verspreidde, was een grap uit 1982.",
@@ -418,8 +418,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « bug » existait des décennies avant les ordinateurs.",
-        "fact": "Les ingénieurs utilisaient le mot « bug » pour décrire des dysfonctionnements mécaniques bien avant l'existence des logiciels — Thomas Edison employait déjà ce terme dans ses notes dès les années 1870."
+        "hook": "Le mot « bug » existait des décennies avant les ordinateurs.",
+        "fact": "Les ingénieurs utilisaient le mot « bug » pour décrire des dysfonctionnements mécaniques bien avant l'existence des logiciels — Thomas Edison employait déjà ce terme dans ses notes dès les années 1870."
       },
       "nl": {
         "hook": "Het woord 'bug' bestond al tientallen jaren voor de computer.",
@@ -442,8 +442,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le tout premier SMS disait simplement « Joyeux Noël ».",
-        "fact": "En décembre 1992, l'ingénieur Neil Papworth a envoyé le tout premier SMS, d'un ordinateur vers un téléphone mobile sur le réseau Vodafone, avec pour seul contenu « Merry Christmas »."
+        "hook": "Le tout premier SMS disait simplement « Joyeux Noël ».",
+        "fact": "En décembre 1992, l'ingénieur Neil Papworth a envoyé le tout premier SMS, d'un ordinateur vers un téléphone mobile sur le réseau Vodafone, avec pour seul contenu « Merry Christmas »."
       },
       "nl": {
         "hook": "Het allereerste sms'je zei gewoon 'Merry Christmas'.",
@@ -490,7 +490,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « spam » vient d'un sketch des Monty Python.",
+        "hook": "Le mot « spam » vient d'un sketch des Monty Python.",
         "fact": "Un sketch de 1970 mettait en scène un café où chaque plat était servi avec du Spam, et le mot était répété si inlassablement qu'il est devenu l'argot internet désignant les messages indésirables et répétitifs."
       },
       "nl": {
@@ -563,7 +563,7 @@
     "translations": {
       "fr": {
         "hook": "La première bannière publicitaire du web affichait un taux de clic de 44 %.",
-        "fact": "La bannière « You Will » d'AT&T, diffusée en 1994 sur HotWired, est considérée comme la première du genre — et aurait été cliquée par environ 44 % des visiteurs, un taux presque impensable selon les standards actuels."
+        "fact": "La bannière « You Will » d'AT&T, diffusée en 1994 sur HotWired, est considérée comme la première du genre — et aurait été cliquée par environ 44 % des visiteurs, un taux presque impensable selon les standards actuels."
       },
       "nl": {
         "hook": "De eerste bannerreclame op het web had een klikpercentage van 44%.",
@@ -587,7 +587,7 @@
     "translations": {
       "fr": {
         "hook": "CAPTCHA est en réalité un acronyme.",
-        "fact": "CAPTCHA signifie « Completely Automated Public Turing test to tell Computers and Humans Apart » (test de Turing public entièrement automatisé pour différencier les humains des ordinateurs) — ces petites énigmes conçues pour empêcher les robots d'accéder aux formulaires web."
+        "fact": "CAPTCHA signifie « Completely Automated Public Turing test to tell Computers and Humans Apart » (test de Turing public entièrement automatisé pour différencier les humains des ordinateurs) — ces petites énigmes conçues pour empêcher les robots d'accéder aux formulaires web."
       },
       "nl": {
         "hook": "CAPTCHA is eigenlijk een afkorting.",
@@ -611,7 +611,7 @@
     "translations": {
       "fr": {
         "hook": "Le tout premier tweet parlait de la création de Twitter lui-même.",
-        "fact": "Le cofondateur de Twitter, Jack Dorsey, a publié le tout premier tweet de la plateforme en 2006 : « just setting up my twttr »."
+        "fact": "Le cofondateur de Twitter, Jack Dorsey, a publié le tout premier tweet de la plateforme en 2006 : « just setting up my twttr »."
       },
       "nl": {
         "hook": "De eerste tweet ging over het opzetten van Twitter zelf.",
@@ -659,7 +659,7 @@
     "translations": {
       "fr": {
         "hook": "Le symbole @ a des surnoms amusants dans le monde entier.",
-        "fact": "Alors qu'en anglais on l'appelle simplement « at », d'autres langues ont leurs propres noms pour le symbole @ — dans les langues slaves, on l'appelle souvent « petit chien » ou « queue de singe », parmi d'autres surnoms."
+        "fact": "Alors qu'en anglais on l'appelle simplement « at », d'autres langues ont leurs propres noms pour le symbole @ — dans les langues slaves, on l'appelle souvent « petit chien » ou « queue de singe », parmi d'autres surnoms."
       },
       "nl": {
         "hook": "Het @-symbool heeft grappige bijnamen over de hele wereld.",
@@ -707,7 +707,7 @@
     "translations": {
       "fr": {
         "hook": "Il a fallu 27 ans pour passer du premier disque dur de 1 Go au premier de 1 To.",
-        "fact": "Le premier disque dur d'un gigaoctet est sorti en 1980 ; le premier disque dur grand public d'un téraoctet n'est arrivé qu'en 2007 — un bond de capacité par mille en moins de trois décennies."
+        "fact": "Le premier disque dur d'un gigaoctet est sorti en 1980 ; le premier disque dur grand public d'un téraoctet n'est arrivé qu'en 2007 — un bond de capacité par mille en moins de trois décennies."
       },
       "nl": {
         "hook": "Het duurde 27 jaar om van de eerste harde schijf van 1GB naar de eerste van 1TB te gaan.",
@@ -899,7 +899,7 @@
     "translations": {
       "fr": {
         "hook": "Le schéma théorique de tous les ordinateurs vient d'un article de mathématiques de 1936.",
-        "fact": "Le concept de « machine de Turing » d'Alan Turing — un simple dispositif abstrait lisant et écrivant des symboles sur un ruban infini — a défini ce que signifie « calculable », et cela précède de près d'une décennie le premier ordinateur électronique."
+        "fact": "Le concept de « machine de Turing » d'Alan Turing — un simple dispositif abstrait lisant et écrivant des symboles sur un ruban infini — a défini ce que signifie « calculable », et cela précède de près d'une décennie le premier ordinateur électronique."
       },
       "nl": {
         "hook": "De theoretische blauwdruk voor elke computer komt uit een wiskundig artikel uit 1936.",
@@ -924,7 +924,7 @@
     "translations": {
       "fr": {
         "hook": "Percer Enigma a nécessité l'invention d'un des premiers ordinateurs.",
-        "fact": "Pour casser les codes militaires allemands durant la Seconde Guerre mondiale, Alan Turing et ses collègues de Bletchley Park ont conçu des machines électromécaniques appelées « bombes », qui automatisaient la recherche des réglages d'Enigma et accéléraient considérablement le décryptage."
+        "fact": "Pour casser les codes militaires allemands durant la Seconde Guerre mondiale, Alan Turing et ses collègues de Bletchley Park ont conçu des machines électromécaniques appelées « bombes », qui automatisaient la recherche des réglages d'Enigma et accéléraient considérablement le décryptage."
       },
       "nl": {
         "hook": "Het kraken van Enigma vereiste de uitvinding van een vroege computer.",
@@ -948,7 +948,7 @@
     "translations": {
       "fr": {
         "hook": "Presque tous les ordinateurs actuels reposent sur une note de 1945.",
-        "fact": "La description par John von Neumann du stockage des instructions d'un programme et de ses données dans la même mémoire — l'architecture dite « à programme enregistré » — est devenue le schéma de base que suivent encore presque tous les ordinateurs modernes."
+        "fact": "La description par John von Neumann du stockage des instructions d'un programme et de ses données dans la même mémoire — l'architecture dite « à programme enregistré » — est devenue le schéma de base que suivent encore presque tous les ordinateurs modernes."
       },
       "nl": {
         "hook": "Bijna elke computer vandaag draait nog op een memo uit 1945.",
@@ -1020,7 +1020,7 @@
     "translations": {
       "fr": {
         "hook": "Les cartes perforées des ordinateurs viennent à l'origine de l'industrie textile.",
-        "fact": "Les cartes perforées ont d'abord servi à contrôler les motifs de tissage des métiers Jacquard en 1801 ; près d'un siècle plus tard, Herman Hollerith a adapté l'idée pour dépouiller le recensement américain de 1890, et son entreprise est finalement devenue IBM."
+        "fact": "Les cartes perforées ont d'abord servi à contrôler les motifs de tissage des métiers Jacquard en 1801 ; près d'un siècle plus tard, Herman Hollerith a adapté l'idée pour dépouiller le recensement américain de 1890, et son entreprise est finalement devenue IBM."
       },
       "nl": {
         "hook": "Computerponskaarten zijn ontstaan in de textielindustrie.",
@@ -1043,8 +1043,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « byte » a été mal orthographié exprès.",
-        "fact": "L'ingénieur IBM Werner Buchholz a inventé le terme « byte » en 1956 pour désigner un groupe de bits, en l'orthographiant délibérément avec un « y » au lieu de « bite » afin d'éviter toute confusion avec « bit » à l'écrit."
+        "hook": "Le mot « byte » a été mal orthographié exprès.",
+        "fact": "L'ingénieur IBM Werner Buchholz a inventé le terme « byte » en 1956 pour désigner un groupe de bits, en l'orthographiant délibérément avec un « y » au lieu de « bite » afin d'éviter toute confusion avec « bit » à l'écrit."
       },
       "nl": {
         "hook": "Het woord 'byte' werd expres verkeerd gespeld.",
@@ -1068,7 +1068,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La « loi de Moore » n'est pas vraiment une loi de la physique.",
+        "hook": "La « loi de Moore » n'est pas vraiment une loi de la physique.",
         "fact": "En 1965, Gordon Moore, cofondateur d'Intel, a observé que le nombre de transistors sur une puce semblait doubler environ tous les un à deux ans, et cette tendance s'est maintenue pendant des décennies — mais il s'agissait toujours d'une tendance industrielle et d'un objectif commercial, pas d'une loi physique.",
         "whyItMatters": "Les fabricants de puces ont ouvertement utilisé la loi de Moore comme feuille de route pour planifier leurs investissements, ce qui explique en grande partie pourquoi la prédiction s'est réalisée si longtemps."
       },
@@ -1119,7 +1119,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La personne qui a écrit le premier compilateur a aussi popularisé le terme « débogage ».",
+        "hook": "La personne qui a écrit le premier compilateur a aussi popularisé le terme « débogage ».",
         "fact": "Grace Hopper a développé le système A-0 en 1952, l'un des premiers compilateurs capables de traduire du code lisible par l'humain en instructions machine, posant les bases qui mèneront plus tard à COBOL."
       },
       "nl": {
@@ -1244,7 +1244,7 @@
     "translations": {
       "fr": {
         "hook": "Le langage qui a construit Unix a été créé pour réécrire Unix lui-même.",
-        "fact": "Dennis Ritchie a développé le langage de programmation C aux Bell Labs au début des années 1970, en grande partie pour permettre de réécrire Unix — initialement en assembleur — dans un langage plus portable ; le C a ensuite influencé d'innombrables langages ultérieurs."
+        "fact": "Dennis Ritchie a développé le langage de programmation C aux Bell Labs au début des années 1970, en grande partie pour permettre de réécrire Unix — initialement en assembleur — dans un langage plus portable ; le C a ensuite influencé d'innombrables langages ultérieurs."
       },
       "nl": {
         "hook": "De taal waarmee Unix werd gebouwd, is gemaakt om Unix zelf te herschrijven.",
@@ -1268,7 +1268,7 @@
     "translations": {
       "fr": {
         "hook": "Unix doit son nom à une plaisanterie sur un projet plus grand et plus ambitieux.",
-        "fact": "Développé aux Bell Labs en 1969, Unix a été nommé comme un jeu de mots sur « Multics », le projet de système d'exploitation tentaculaire et trop ambitieux dont il devait être une alternative plus simple et plus modeste."
+        "fact": "Développé aux Bell Labs en 1969, Unix a été nommé comme un jeu de mots sur « Multics », le projet de système d'exploitation tentaculaire et trop ambitieux dont il devait être une alternative plus simple et plus modeste."
       },
       "nl": {
         "hook": "Unix kreeg zijn naam als grap over een groter, ambitieuzer project.",
@@ -1292,7 +1292,7 @@
     "translations": {
       "fr": {
         "hook": "Python ne doit pas son nom au serpent.",
-        "fact": "Son créateur, Guido van Rossum, a nommé le langage Python d'après la troupe comique britannique Monty Python, et non le reptile — il lisait des scripts de « Monty Python's Flying Circus » au moment de démarrer le projet en 1989."
+        "fact": "Son créateur, Guido van Rossum, a nommé le langage Python d'après la troupe comique britannique Monty Python, et non le reptile — il lisait des scripts de « Monty Python's Flying Circus » au moment de démarrer le projet en 1989."
       },
       "nl": {
         "hook": "Python is niet vernoemd naar de slang.",
@@ -1341,7 +1341,7 @@
     "translations": {
       "fr": {
         "hook": "Java portait à l'origine le nom d'un arbre devant le bureau de son créateur.",
-        "fact": "Le projet de langage de Sun Microsystems s'appelait d'abord « Oak », d'après un chêne visible depuis la fenêtre d'un développeur, mais le nom était déjà déposé, alors l'équipe l'a renommé Java — apparemment inspiré par leur consommation de café."
+        "fact": "Le projet de langage de Sun Microsystems s'appelait d'abord « Oak », d'après un chêne visible depuis la fenêtre d'un développeur, mais le nom était déjà déposé, alors l'équipe l'a renommé Java — apparemment inspiré par leur consommation de café."
       },
       "nl": {
         "hook": "Java heette oorspronkelijk naar een boom voor het raam van de bedenker.",
@@ -1586,7 +1586,7 @@
     "translations": {
       "fr": {
         "hook": "Le nom d'origine de Google évoquait plutôt une appli de chiropracteur.",
-        "fact": "Avant de s'appeler Google, le projet de recherche de Larry Page et Sergey Brin à Stanford, analysant les liens entre pages web, s'appelait « BackRub »."
+        "fact": "Avant de s'appeler Google, le projet de recherche de Larry Page et Sergey Brin à Stanford, analysant les liens entre pages web, s'appelait « BackRub »."
       },
       "nl": {
         "hook": "Googles oorspronkelijke naam klonk als een chiropractie-app.",
@@ -1634,7 +1634,7 @@
     "translations": {
       "fr": {
         "hook": "Le nom d'origine de Yahoo ressemblait à une simple liste de tâches.",
-        "fact": "Quand Jerry Yang et David Filo ont lancé leur répertoire web en 1994, il s'appelait « Jerry and David's Guide to the World Wide Web » avant d'être renommé Yahoo!"
+        "fact": "Quand Jerry Yang et David Filo ont lancé leur répertoire web en 1994, il s'appelait « Jerry and David's Guide to the World Wide Web » avant d'être renommé Yahoo!"
       },
       "nl": {
         "hook": "Yahoo's oorspronkelijke naam was in feite gewoon een omschrijving van een to-dolijstje.",
@@ -1706,7 +1706,7 @@
     "translations": {
       "fr": {
         "hook": "L'émoticône souriante a une date de naissance documentée.",
-        "fact": "L'informaticien Scott Fahlman a proposé d'utiliser :-) pour signaler les blagues dans les messages en ligne sur un forum de Carnegie Mellon en septembre 1982, un moment souvent considéré comme l'invention de l'émoticône."
+        "fact": "L'informaticien Scott Fahlman a proposé d'utiliser :-) pour signaler les blagues dans les messages en ligne sur un forum de Carnegie Mellon en septembre 1982, un moment souvent considéré comme l'invention de l'émoticône."
       },
       "nl": {
         "hook": "Het lachende smiley-emoticon heeft een gedocumenteerde geboortedag.",
@@ -1729,7 +1729,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La célèbre histoire de la « salle 404 du CERN » est un mythe.",
+        "hook": "La célèbre histoire de la « salle 404 du CERN » est un mythe.",
         "fact": "Une légende populaire prétend que le code d'erreur 404 vient d'une salle réellement numérotée 404 au CERN — le CERN lui-même a démenti cette histoire. Le code fait simplement partie de la plage standard 4xx de HTTP pour les erreurs côté client, définie lors de la rédaction du standard."
       },
       "nl": {
@@ -1826,7 +1826,7 @@
     "translations": {
       "fr": {
         "hook": "Le système d'exploitation qui a fait la fortune de Microsoft a été acheté pour une fraction de sa valeur future.",
-        "fact": "Microsoft a acquis les droits d'un système d'exploitation surnommé QDOS (« Quick and Dirty Operating System ») auprès de Seattle Computer Products pour environ 75 000 dollars, avant d'en concéder une version modifiée sous licence à IBM sous le nom de MS-DOS."
+        "fact": "Microsoft a acquis les droits d'un système d'exploitation surnommé QDOS (« Quick and Dirty Operating System ») auprès de Seattle Computer Products pour environ 75 000 dollars, avant d'en concéder une version modifiée sous licence à IBM sous le nom de MS-DOS."
       },
       "nl": {
         "hook": "Het besturingssysteem dat Microsoft maakte, werd gekocht voor een fractie van zijn toekomstige waarde.",
@@ -1850,7 +1850,7 @@
     "translations": {
       "fr": {
         "hook": "Linux a commencé comme le projet de loisir d'un étudiant qui ne pensait pas qu'il compterait vraiment.",
-        "fact": "En 1991, l'étudiant finlandais Linus Torvalds a posté sur un groupe Usenet qu'il écrivait « un système d'exploitation (libre) (juste un hobby, ne sera pas grand ni professionnel) » — ce hobby est devenu Linux, qui fait aujourd'hui tourner la majorité des serveurs du monde."
+        "fact": "En 1991, l'étudiant finlandais Linus Torvalds a posté sur un groupe Usenet qu'il écrivait « un système d'exploitation (libre) (juste un hobby, ne sera pas grand ni professionnel) » — ce hobby est devenu Linux, qui fait aujourd'hui tourner la majorité des serveurs du monde."
       },
       "nl": {
         "hook": "Linux begon als een hobbyproject van een student die niet dacht dat het iets zou worden.",
@@ -1898,7 +1898,7 @@
     "translations": {
       "fr": {
         "hook": "Photoshop a commencé sa vie comme un simple visualiseur d'images en noir et blanc.",
-        "fact": "Thomas Knoll a écrit ce programme à l'origine en 1987 pour afficher des images en niveaux de gris sur un Macintosh ; avec son frère John, il l'a transformé en logiciel complet de retouche d'images, qu'Adobe a acquis sous licence et lancé sous le nom de Photoshop en 1990."
+        "fact": "Thomas Knoll a écrit ce programme à l'origine en 1987 pour afficher des images en niveaux de gris sur un Macintosh ; avec son frère John, il l'a transformé en logiciel complet de retouche d'images, qu'Adobe a acquis sous licence et lancé sous le nom de Photoshop en 1990."
       },
       "nl": {
         "hook": "Photoshop begon als een eenvoudige zwart-witbeeldviewer.",
@@ -1995,7 +1995,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Les cookies ont été inventés pour résoudre un problème très simple : le panier d'achat.",
+        "hook": "Les cookies ont été inventés pour résoudre un problème très simple : le panier d'achat.",
         "fact": "Le programmeur de Netscape Lou Montulli a créé le cookie web en 1994 pour permettre aux sites de se souvenir d'informations d'une visite à l'autre, comme les articles qu'un acheteur avait déjà ajoutés à son panier."
       },
       "nl": {
@@ -2046,7 +2046,7 @@
     "translations": {
       "fr": {
         "hook": "Un navigateur que la plupart des gens ont oublié vit encore aujourd'hui dans Firefox.",
-        "fact": "Après avoir perdu la « guerre des navigateurs » face à Internet Explorer, Netscape a rendu son code source public en 1998 ; cette base de code a fini par évoluer en projet Mozilla, puis, plus tard, en Firefox."
+        "fact": "Après avoir perdu la « guerre des navigateurs » face à Internet Explorer, Netscape a rendu son code source public en 1998 ; cette base de code a fini par évoluer en projet Mozilla, puis, plus tard, en Firefox."
       },
       "nl": {
         "hook": "Een browser die de meeste mensen vergeten zijn, leeft vandaag voort binnen Firefox.",
@@ -2094,8 +2094,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "L'expression « intelligence artificielle » a été inventée lors d'un atelier de recherche estival.",
-        "fact": "L'expression « intelligence artificielle » a été introduite par John McCarthy pour un atelier de l'été 1956 au Dartmouth College, où des chercheurs proposaient avec optimisme que l'intelligence machine pourrait être considérablement avancée en seulement quelques mois."
+        "hook": "L'expression « intelligence artificielle » a été inventée lors d'un atelier de recherche estival.",
+        "fact": "L'expression « intelligence artificielle » a été introduite par John McCarthy pour un atelier de l'été 1956 au Dartmouth College, où des chercheurs proposaient avec optimisme que l'intelligence machine pourrait être considérablement avancée en seulement quelques mois."
       },
       "nl": {
         "hook": "De term 'kunstmatige intelligentie' werd bedacht tijdens een zomerworkshop.",
@@ -2142,8 +2142,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La question « les machines peuvent-elles penser ? » a une origine précise, en 1950.",
-        "fact": "Alan Turing a proposé son fameux « jeu de l'imitation » — aujourd'hui appelé test de Turing — dans un article de 1950, suggérant qu'une machine pourrait être considérée comme intelligente si sa conversation était indiscernable de celle d'un humain."
+        "hook": "La question « les machines peuvent-elles penser ? » a une origine précise, en 1950.",
+        "fact": "Alan Turing a proposé son fameux « jeu de l'imitation » — aujourd'hui appelé test de Turing — dans un article de 1950, suggérant qu'une machine pourrait être considérée comme intelligente si sa conversation était indiscernable de celle d'un humain."
       },
       "nl": {
         "hook": "De vraag 'kunnen machines denken?' heeft een specifieke oorsprong in 1950.",
@@ -2191,7 +2191,7 @@
     "translations": {
       "fr": {
         "hook": "La recherche en IA a failli s'éteindre — deux fois.",
-        "fact": "Les périodes appelées « hivers de l'IA », grosso modo au milieu des années 1970 puis à nouveau à la fin des années 1980 et au début des années 1990, ont vu le financement et l'intérêt pour l'intelligence artificielle s'effondrer après que le battage médiatique précédent n'ait pas tenu ses promesses."
+        "fact": "Les périodes appelées « hivers de l'IA », grosso modo au milieu des années 1970 puis à nouveau à la fin des années 1980 et au début des années 1990, ont vu le financement et l'intérêt pour l'intelligence artificielle s'effondrer après que le battage médiatique précédent n'ait pas tenu ses promesses."
       },
       "nl": {
         "hook": "AI-onderzoek stierf bijna uit — twee keer.",
@@ -2340,7 +2340,7 @@
     "translations": {
       "fr": {
         "hook": "Le titre d'un seul article de recherche de 2017 est devenu l'histoire fondatrice des chatbots modernes.",
-        "fact": "L'article de 2017 intitulé « Attention Is All You Need » a introduit l'architecture transformer, qui a remplacé les anciens modèles de traitement séquentiel et est devenue le fondement des grands modèles de langage, y compris les systèmes derrière les chatbots d'IA modernes.",
+        "fact": "L'article de 2017 intitulé « Attention Is All You Need » a introduit l'architecture transformer, qui a remplacé les anciens modèles de traitement séquentiel et est devenue le fondement des grands modèles de langage, y compris les systèmes derrière les chatbots d'IA modernes.",
         "whyItMatters": "Presque tous les grands modèles de langage sortis depuis ont été construits sur l'architecture transformer introduite par cet article, ce qui en fait l'un des articles d'informatique les plus marquants de la décennie."
       },
       "nl": {
@@ -2390,8 +2390,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le terme « apprentissage automatique » vient d'un programme de jeu de dames de 1959.",
-        "fact": "L'informaticien Arthur Samuel a inventé le terme « machine learning » en 1959 pour décrire un programme de jeu de dames qu'il avait créé, capable d'améliorer ses performances en apprenant de ses parties précédentes plutôt qu'en suivant des règles fixes."
+        "hook": "Le terme « apprentissage automatique » vient d'un programme de jeu de dames de 1959.",
+        "fact": "L'informaticien Arthur Samuel a inventé le terme « machine learning » en 1959 pour décrire un programme de jeu de dames qu'il avait créé, capable d'améliorer ses performances en apprenant de ses parties précédentes plutôt qu'en suivant des règles fixes."
       },
       "nl": {
         "hook": "De term 'machine learning' komt van een dammenprogramma uit 1959.",
@@ -2439,7 +2439,7 @@
     "translations": {
       "fr": {
         "hook": "En 2004, absolument aucune voiture autonome n'a terminé une grande compétition.",
-        "fact": "Le DARPA Grand Challenge de 2004 offrait un prix pour tout véhicule autonome capable de terminer un parcours dans le désert, mais aucun n'y est parvenu — le meilleur n'a parcouru qu'environ 11 kilomètres avant de rester bloqué ; un an plus tard, cinq véhicules ont terminé le parcours."
+        "fact": "Le DARPA Grand Challenge de 2004 offrait un prix pour tout véhicule autonome capable de terminer un parcours dans le désert, mais aucun n'y est parvenu — le meilleur n'a parcouru qu'environ 11 kilomètres avant de rester bloqué ; un an plus tard, cinq véhicules ont terminé le parcours."
       },
       "nl": {
         "hook": "In 2004 faalde bij een grote wedstrijd letterlijk elke zelfrijdende auto.",
@@ -2487,7 +2487,7 @@
     "translations": {
       "fr": {
         "hook": "Le premier virus informatique affichait un message narquois et avait son propre antidote.",
-        "fact": "Creeper, écrit en 1971, se propageait entre les premiers ordinateurs d'ARPANET en affichant le message « I'M THE CREEPER: CATCH ME IF YOU CAN » — un programme baptisé Reaper fut alors créé pour le traquer et le supprimer, ce qui en fait sans doute le tout premier antivirus."
+        "fact": "Creeper, écrit en 1971, se propageait entre les premiers ordinateurs d'ARPANET en affichant le message « I'M THE CREEPER: CATCH ME IF YOU CAN » — un programme baptisé Reaper fut alors créé pour le traquer et le supprimer, ce qui en fait sans doute le tout premier antivirus."
       },
       "nl": {
         "hook": "Het eerste computervirus toonde een treiterend bericht en had zijn eigen tegengif.",
@@ -2563,7 +2563,7 @@
     "translations": {
       "fr": {
         "hook": "Le tout premier rançongiciel a été diffusé par courrier postal, pas par Internet.",
-        "fact": "En 1989, le « cheval de Troie SIDA » fut distribué sur des disquettes envoyées par la poste aux participants d'une conférence de l'Organisation mondiale de la santé ; une fois installé, il chiffrait les noms de fichiers et exigeait un paiement à envoyer par courrier à une boîte postale au Panama."
+        "fact": "En 1989, le « cheval de Troie SIDA » fut distribué sur des disquettes envoyées par la poste aux participants d'une conférence de l'Organisation mondiale de la santé ; une fois installé, il chiffrait les noms de fichiers et exigeait un paiement à envoyer par courrier à une boîte postale au Panama."
       },
       "nl": {
         "hook": "De eerste ransomware werd per post verspreid, niet via het internet.",
@@ -2587,7 +2587,7 @@
     "translations": {
       "fr": {
         "hook": "Des programmeurs économisant quelques octets des décennies plus tôt ont provoqué une panique mondiale en l'an 2000.",
-        "fact": "De nombreux systèmes anciens stockaient les années sur seulement deux chiffres pour économiser une mémoire rare, créant la peur du « bug de l'an 2000 » selon laquelle les ordinateurs liraient à tort l'an 2000 comme 1900 — entreprises et gouvernements ont passé des années et dépensé des milliards de dollars à auditer et corriger le code avant l'échéance."
+        "fact": "De nombreux systèmes anciens stockaient les années sur seulement deux chiffres pour économiser une mémoire rare, créant la peur du « bug de l'an 2000 » selon laquelle les ordinateurs liraient à tort l'an 2000 comme 1900 — entreprises et gouvernements ont passé des années et dépensé des milliards de dollars à auditer et corriger le code avant l'échéance."
       },
       "nl": {
         "hook": "Programmeurs die tientallen jaren geleden een paar bytes bespaarden, veroorzaakten tegen 2000 wereldwijde paniek.",
@@ -2708,7 +2708,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "« Le cloud » tel qu'on le connaît a commencé avec l'infrastructure excédentaire d'une librairie en ligne.",
+        "hook": "« Le cloud » tel qu'on le connaît a commencé avec l'infrastructure excédentaire d'une librairie en ligne.",
         "fact": "Amazon a lancé ses services de stockage S3 et de calcul EC2 en 2006, louant la capacité inutilisée de ses centres de données qu'elle avait construits pour son propre commerce de détail — ce lancement est largement crédité d'avoir amorcé l'industrie moderne du cloud computing.",
         "whyItMatters": "Le cloud computing a supprimé la nécessité pour les start-ups d'acheter leurs propres serveurs, réduisant drastiquement le coût de lancement d'une nouvelle entreprise Internet."
       },
@@ -2807,7 +2807,7 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le tout premier e-mail de spam a été envoyé en 1978, des décennies avant que le mot « spam » ne s'impose.",
+        "hook": "Le tout premier e-mail de spam a été envoyé en 1978, des décennies avant que le mot « spam » ne s'impose.",
         "fact": "Un employé marketing de Digital Equipment Corporation a envoyé une annonce commerciale non sollicitée à des centaines d'utilisateurs d'ARPANET en 1978, largement considérée comme le tout premier e-mail de spam — des années avant que le spam ne devienne une nuisance généralisée."
       },
       "nl": {
@@ -2928,7 +2928,7 @@
     "translations": {
       "fr": {
         "hook": "Le nom du WD-40 vient de ses échecs, pas de son succès.",
-        "fact": "Le nom du lubrifiant signifie « Water Displacement, 40th formula », soit « déplacement de l'eau, 40e formule » : la 40e tentative d'une petite entreprise californienne, en 1953, pour créer un solvant antirouille qui fonctionne vraiment."
+        "fact": "Le nom du lubrifiant signifie « Water Displacement, 40th formula », soit « déplacement de l'eau, 40e formule » : la 40e tentative d'une petite entreprise californienne, en 1953, pour créer un solvant antirouille qui fonctionne vraiment."
       },
       "nl": {
         "hook": "WD-40 dankt zijn naam aan mislukkingen, niet aan succes.",
@@ -3052,7 +3052,7 @@
     "translations": {
       "fr": {
         "hook": "Le Téflon aussi est une découverte accidentelle.",
-        "fact": "Le chimiste Roy Plunkett a découvert le polymère antiadhésif PTFE (Téflon) en 1938 : une bouteille de gaz qu'il croyait vide contenait en réalité un étrange résidu solide et glissant."
+        "fact": "Le chimiste Roy Plunkett a découvert le polymère antiadhésif PTFE (Téflon) en 1938 : une bouteille de gaz qu'il croyait vide contenait en réalité un étrange résidu solide et glissant."
       },
       "nl": {
         "hook": "Teflon was óók een toevalstreffer.",
@@ -3076,7 +3076,7 @@
     "translations": {
       "fr": {
         "hook": "L'ouvre-boîte n'est arrivé que des décennies après la boîte de conserve.",
-        "fact": "Les boîtes de conserve en fer-blanc ont été brevetées en 1810, mais il a fallu attendre 1858 pour un ouvre-boîte vraiment pratique : pendant près de 50 ans, on les ouvrait au marteau, au burin ou à la baïonnette."
+        "fact": "Les boîtes de conserve en fer-blanc ont été brevetées en 1810, mais il a fallu attendre 1858 pour un ouvre-boîte vraiment pratique : pendant près de 50 ans, on les ouvrait au marteau, au burin ou à la baïonnette."
       },
       "nl": {
         "hook": "De blikopener kwam pas decennia na het conservenblik.",
@@ -3220,7 +3220,7 @@
     "translations": {
       "fr": {
         "hook": "La tour Eiffel grandit en été.",
-        "fact": "La chaleur dilate la structure en fer : la tour Eiffel peut mesurer jusqu'à environ 15 centimètres de plus pendant les mois chauds de l'été qu'en hiver."
+        "fact": "La chaleur dilate la structure en fer : la tour Eiffel peut mesurer jusqu'à environ 15 centimètres de plus pendant les mois chauds de l'été qu'en hiver."
       },
       "nl": {
         "hook": "De Eiffeltoren wordt in de zomer hoger.",
@@ -3268,7 +3268,7 @@
     "translations": {
       "fr": {
         "hook": "Le concepteur du pont de Brooklyn ne l'a jamais vu achevé.",
-        "fact": "L'ingénieur John A. Roebling est mort des suites d'une blessure liée au chantier avant même le début des travaux, en 1869. Son fils Washington Roebling a pris la relève, puis a été handicapé par un accident de décompression dû au travail dans les caissons ; il a dirigé l'achèvement du pont, en 1883, depuis la fenêtre de son appartement."
+        "fact": "L'ingénieur John A. Roebling est mort des suites d'une blessure liée au chantier avant même le début des travaux, en 1869. Son fils Washington Roebling a pris la relève, puis a été handicapé par un accident de décompression dû au travail dans les caissons ; il a dirigé l'achèvement du pont, en 1883, depuis la fenêtre de son appartement."
       },
       "nl": {
         "hook": "De ontwerper van de Brooklyn Bridge heeft de brug nooit af gezien.",
@@ -3368,7 +3368,7 @@
     "translations": {
       "fr": {
         "hook": "Londres a construit ses égouts quand les députés n'ont plus supporté l'odeur.",
-        "fact": "La « Grande Puanteur » de 1858, lorsque la Tamise polluée a empesté le Parlement, a enfin poussé les élus à financer l'immense réseau d'égouts de l'ingénieur Joseph Bazalgette, qui a fait reculer les épidémies de choléra dans la ville."
+        "fact": "La « Grande Puanteur » de 1858, lorsque la Tamise polluée a empesté le Parlement, a enfin poussé les élus à financer l'immense réseau d'égouts de l'ingénieur Joseph Bazalgette, qui a fait reculer les épidémies de choléra dans la ville."
       },
       "nl": {
         "hook": "Londen bouwde zijn riolering pas toen politici de stank niet meer verdroegen.",
@@ -3516,7 +3516,7 @@
     "translations": {
       "fr": {
         "hook": "Le transistor a été inventé pour remplacer les fragiles tubes à vide.",
-        "fact": "Les chercheurs des Bell Labs John Bardeen, Walter Brattain et William Shockley ont fait fonctionner le premier transistor en décembre 1947 : un composant à l'état solide capable d'amplifier et de commuter des signaux électriques bien plus fiablement que les tubes en verre."
+        "fact": "Les chercheurs des Bell Labs John Bardeen, Walter Brattain et William Shockley ont fait fonctionner le premier transistor en décembre 1947 : un composant à l'état solide capable d'amplifier et de commuter des signaux électriques bien plus fiablement que les tubes en verre."
       },
       "nl": {
         "hook": "De transistor werd uitgevonden als vervanging van breekbare vacuümbuizen.",
@@ -3564,7 +3564,7 @@
     "translations": {
       "fr": {
         "hook": "La loi de Moore était une prédiction, pas une loi de la physique.",
-        "fact": "En 1965, Gordon Moore, cofondateur d'Intel, a observé que le nombre de transistors sur une puce semblait doubler environ tous les deux ans ; l'industrie des semi-conducteurs a ensuite passé des décennies à traiter cette observation comme une feuille de route à suivre."
+        "fact": "En 1965, Gordon Moore, cofondateur d'Intel, a observé que le nombre de transistors sur une puce semblait doubler environ tous les deux ans ; l'industrie des semi-conducteurs a ensuite passé des décennies à traiter cette observation comme une feuille de route à suivre."
       },
       "nl": {
         "hook": "De wet van Moore was een voorspelling, geen natuurwet.",
@@ -3588,7 +3588,7 @@
     "translations": {
       "fr": {
         "hook": "Le premier microprocesseur a été conçu pour une calculatrice.",
-        "fact": "L'Intel 4004, sorti en 1971, devait au départ équiper une calculatrice de bureau japonaise ; il est devenu le premier processeur complet sur une seule puce disponible dans le commerce."
+        "fact": "L'Intel 4004, sorti en 1971, devait au départ équiper une calculatrice de bureau japonaise ; il est devenu le premier processeur complet sur une seule puce disponible dans le commerce."
       },
       "nl": {
         "hook": "De eerste microprocessor werd voor een rekenmachine gebouwd.",
@@ -3663,8 +3663,8 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le mot « laser » est en fait un acronyme.",
-        "fact": "LASER signifie « Light Amplification by Stimulated Emission of Radiation », soit l'amplification de la lumière par émission stimulée de rayonnement. Le premier laser fonctionnel a été présenté en 1960 par le physicien Theodore Maiman, à l'aide d'un cristal de rubis synthétique."
+        "hook": "Le mot « laser » est en fait un acronyme.",
+        "fact": "LASER signifie « Light Amplification by Stimulated Emission of Radiation », soit l'amplification de la lumière par émission stimulée de rayonnement. Le premier laser fonctionnel a été présenté en 1960 par le physicien Theodore Maiman, à l'aide d'un cristal de rubis synthétique."
       },
       "nl": {
         "hook": "'Laser' is eigenlijk een acroniem.",
@@ -3688,7 +3688,7 @@
     "translations": {
       "fr": {
         "hook": "Les montres à quartz mesurent le temps grâce à un cristal qui vibre des milliers de fois par seconde.",
-        "fact": "Dans la plupart des montres, un minuscule cristal de quartz vibre à une fréquence très précise lorsqu'un courant électrique le traverse ; un circuit compte ces vibrations pour donner l'heure avec une exactitude remarquable, bien supérieure à celle des anciens mouvements mécaniques."
+        "fact": "Dans la plupart des montres, un minuscule cristal de quartz vibre à une fréquence très précise lorsqu'un courant électrique le traverse ; un circuit compte ces vibrations pour donner l'heure avec une exactitude remarquable, bien supérieure à celle des anciens mouvements mécaniques."
       },
       "nl": {
         "hook": "Quartzhorloges houden de tijd bij met een kristal dat duizenden keren per seconde trilt.",
@@ -3760,7 +3760,7 @@
     "translations": {
       "fr": {
         "hook": "Une puce RFID peut être plus petite qu'un grain de riz.",
-        "fact": "Les étiquettes RFID passives, utilisées aussi bien pour les puces d'identification des animaux que pour la gestion des stocks en magasin, n'ont pas besoin de pile : elles tirent leur énergie du signal radio du lecteur qui les interroge."
+        "fact": "Les étiquettes RFID passives, utilisées aussi bien pour les puces d'identification des animaux que pour la gestion des stocks en magasin, n'ont pas besoin de pile : elles tirent leur énergie du signal radio du lecteur qui les interroge."
       },
       "nl": {
         "hook": "Rfid-chips kunnen kleiner zijn dan een rijstkorrel.",
@@ -4036,7 +4036,7 @@
     "translations": {
       "fr": {
         "hook": "La boîte noire d'un avion n'est pas noire du tout.",
-        "fact": "Les enregistreurs de vol et de conversations du cockpit sont peints en orange vif pour être plus faciles à repérer dans les débris. L'origine du surnom « boîte noire » n'est pas tranchée, mais elle n'a rien à voir avec leur vraie couleur."
+        "fact": "Les enregistreurs de vol et de conversations du cockpit sont peints en orange vif pour être plus faciles à repérer dans les débris. L'origine du surnom « boîte noire » n'est pas tranchée, mais elle n'a rien à voir avec leur vraie couleur."
       },
       "nl": {
         "hook": "De zwarte doos in een vliegtuig is helemaal niet zwart.",
@@ -4180,7 +4180,7 @@
     "translations": {
       "fr": {
         "hook": "Le pilote automatique existait des décennies avant l'aviation commerciale à réaction.",
-        "fact": "Le premier pilote automatique réellement fonctionnel, mis au point par la Sperry Corporation, a été présenté en 1914 : il permettait à un avion de voler en palier sans les mains — des décennies avant les premiers avions de ligne à réaction."
+        "fact": "Le premier pilote automatique réellement fonctionnel, mis au point par la Sperry Corporation, a été présenté en 1914 : il permettait à un avion de voler en palier sans les mains — des décennies avant les premiers avions de ligne à réaction."
       },
       "nl": {
         "hook": "De automatische piloot bestond decennia vóór de eerste straalverkeersvliegtuigen.",
@@ -4376,7 +4376,7 @@
     "translations": {
       "fr": {
         "hook": "La première télécommande de télé était reliée par un câble sur lequel tout le monde trébuchait.",
-        "fact": "Zenith a lancé en 1950 le « Lazy Bones », l'une des toutes premières télécommandes de télévision — mais elle était reliée au téléviseur par un fil qui traversait le salon."
+        "fact": "Zenith a lancé en 1950 le « Lazy Bones », l'une des toutes premières télécommandes de télévision — mais elle était reliée au téléviseur par un fil qui traversait le salon."
       },
       "nl": {
         "hook": "De eerste tv-afstandsbediening zat aan een snoer waar iedereen over struikelde.",
@@ -4568,7 +4568,7 @@
     "translations": {
       "fr": {
         "hook": "Le Roomba n'a pas été le premier aspirateur robot imaginé, seulement le premier à réussir.",
-        "fact": "iRobot a lancé le Roomba en 2002 après des années de recherche en robotique pour des applications militaires et spatiales ; il est devenu l'un des premiers robots domestiques autonomes à percer sur le marché grand public."
+        "fact": "iRobot a lancé le Roomba en 2002 après des années de recherche en robotique pour des applications militaires et spatiales ; il est devenu l'un des premiers robots domestiques autonomes à percer sur le marché grand public."
       },
       "nl": {
         "hook": "De Roomba was niet het eerste idee voor een robotstofzuiger, wel het eerste dat aansloeg.",
@@ -4592,7 +4592,7 @@
     "translations": {
       "fr": {
         "hook": "Les drones ont commencé comme cibles d'entraînement radiocommandées.",
-        "fact": "Les premiers avions sans pilote des années 1930, comme le « Queen Bee » britannique, étaient conçus comme des cibles radiocommandées pour l'entraînement de la DCA — un usage qui a donné naissance au terme « drone »."
+        "fact": "Les premiers avions sans pilote des années 1930, comme le « Queen Bee » britannique, étaient conçus comme des cibles radiocommandées pour l'entraînement de la DCA — un usage qui a donné naissance au terme « drone »."
       },
       "nl": {
         "hook": "Drones begonnen als radiografisch bestuurde schietschijven.",
@@ -4689,7 +4689,7 @@
     "translations": {
       "fr": {
         "hook": "Le pacemaker moderne est né d'une erreur de composant.",
-        "fact": "L'ingénieur Wilson Greatbatch construisait en 1958 un appareil d'enregistrement du rythme cardiaque quand il a attrapé la mauvaise résistance : le circuit obtenu s'est mis à pulser régulièrement, comme un cœur — ce qui l'a conduit à mettre au point le premier stimulateur cardiaque implantable réellement utilisable.",
+        "fact": "L'ingénieur Wilson Greatbatch construisait en 1958 un appareil d'enregistrement du rythme cardiaque quand il a attrapé la mauvaise résistance : le circuit obtenu s'est mis à pulser régulièrement, comme un cœur — ce qui l'a conduit à mettre au point le premier stimulateur cardiaque implantable réellement utilisable.",
         "whyItMatters": "Ce circuit accidentel fait depuis battre des millions de cœurs au bon rythme."
       },
       "nl": {
