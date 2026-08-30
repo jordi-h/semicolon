@@ -1,19 +1,25 @@
-import { loadPreviewFact, normalizeLocale } from './edge/preview'
+import { loadPreviewFact, normalizeLocale } from '../edge/preview'
+
+export const config = { runtime: 'edge' }
 
 /**
- * Gives shared fact links (`/f/:factId`) real link previews.
+ * Serves `/f/:factId` (via the rewrite in vercel.json) with real link
+ * previews.
  *
  * The app is a client-rendered SPA, so its static index.html carries
- * generic meta tags — crawlers for WhatsApp, iMessage, Slack, Discord
- * and X don't run JavaScript, so a pasted link showed nothing but a bare
- * URL. Sharing is the app's main growth lever, so that's worth fixing.
+ * generic meta tags — the crawlers behind WhatsApp, iMessage, Slack,
+ * Discord and X don't run JavaScript, so a pasted fact link showed
+ * nothing but a bare URL. Sharing is the app's main growth lever, so
+ * that's worth fixing.
  *
- * This runs only on /f/* (see config.matcher), fetches the real built
- * index.html, and injects per-fact Open Graph / Twitter tags before
- * </head>. Human visitors still receive the full SPA and hydrate
- * normally — the extra tags are inert for them.
+ * This fetches the real built index.html (keeping its hashed asset
+ * references correct) and injects per-fact Open Graph / Twitter tags.
+ * Human visitors still receive the full SPA and hydrate normally; the
+ * extra tags are inert for them.
+ *
+ * Implemented as an edge function rather than middleware.ts because
+ * Vercel's middleware bundler rejects the module graph this needs.
  */
-export const config = { matcher: '/f/:path*' }
 
 /** Escapes text for use inside a double-quoted HTML attribute. */
 function escapeAttr(value: string): string {
@@ -24,35 +30,35 @@ function escapeAttr(value: string): string {
     .replace(/"/g, '&quot;')
 }
 
-export default async function middleware(request: Request): Promise<Response> {
+export default async function handler(request: Request): Promise<Response> {
   const url = new URL(request.url)
-  const shell = await fetch(new URL('/index.html', url))
 
-  // If the shell itself is unavailable there's nothing to enhance.
-  if (!shell.ok) return shell
-
+  const shell = await fetch(new URL('/index.html', url.origin))
+  if (!shell.ok) {
+    return new Response('Not found', { status: 404 })
+  }
   const html = await shell.text()
-  const htmlResponse = (body: string) =>
+
+  const respond = (body: string) =>
     new Response(body, {
       status: 200,
       headers: {
         'content-type': 'text/html; charset=utf-8',
-        // Short shared cache: the fact is immutable but the shell's
-        // hashed asset names change on every deploy.
+        // The fact is immutable, but the shell's hashed asset names
+        // change every deploy — so cache briefly at the edge only.
         'cache-control': 'public, max-age=0, s-maxage=300',
       },
     })
 
-  const factId = url.pathname.split('/')[2]
-  if (!factId) return htmlResponse(html)
+  const factId = url.searchParams.get('id')
+  if (!factId) return respond(html)
 
   const locale = normalizeLocale(url.searchParams.get('lang'))
   const fact = await loadPreviewFact(factId, locale)
-  if (!fact) return htmlResponse(html)
+  if (!fact) return respond(html)
 
   const pageUrl = `${url.origin}/f/${encodeURIComponent(factId)}`
-  const imageUrl =
-    `${url.origin}/api/og?id=${encodeURIComponent(factId)}&lang=${encodeURIComponent(locale)}`
+  const imageUrl = `${url.origin}/api/og?id=${encodeURIComponent(factId)}&lang=${encodeURIComponent(locale)}`
 
   const tags = [
     `<meta property="og:type" content="article" />`,
@@ -67,12 +73,11 @@ export default async function middleware(request: Request): Promise<Response> {
     `<meta name="twitter:title" content="${escapeAttr(fact.hook)}" />`,
     `<meta name="twitter:description" content="${escapeAttr(fact.fact)}" />`,
     `<meta name="twitter:image" content="${escapeAttr(imageUrl)}" />`,
-    // The generic <title>/description from index.html would otherwise win
-    // for crawlers that read them; give them the fact instead.
     `<title>${escapeAttr(fact.hook)}</title>`,
   ].join('\n    ')
 
-  // Drop the shell's generic title so the fact-specific one is unambiguous.
+  // Drop the shell's generic <title> so the fact-specific one is the
+  // only candidate a crawler sees.
   const withoutStaticTitle = html.replace(/<title>[\s\S]*?<\/title>/, '')
-  return htmlResponse(withoutStaticTitle.replace('</head>', `    ${tags}\n  </head>`))
+  return respond(withoutStaticTitle.replace('</head>', `    ${tags}\n  </head>`))
 }

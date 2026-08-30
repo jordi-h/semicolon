@@ -1,3 +1,6 @@
 {
-  "rewrites": [{ "source": "/((?!api/).*)", "destination": "/index.html" }]
+  "rewrites": [
+    { "source": "/f/:factId", "destination": "/api/fact-page?id=:factId" },
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
+  ]
 }
