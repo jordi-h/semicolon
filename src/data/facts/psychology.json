@@ -7,7 +7,21 @@
     "tags": [
       "confirmation-bias",
       "cognitive-bias"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre cerveau réécrit les infos pour vous donner raison.",
+        "fact": "Le biais de confirmation pousse les gens à rechercher, interpréter et retenir en priorité les informations qui confirment ce qu'ils croient déjà, tout en écartant ou en oubliant les preuves contraires."
+      },
+      "nl": {
+        "hook": "Je brein herschrijft het nieuws zodat het jou gelijk geeft.",
+        "fact": "Bevestigingsbias zorgt ervoor dat mensen informatie die hun bestaande overtuigingen bevestigt, sneller opzoeken, interpreteren en onthouden, terwijl ze tegenstrijdig bewijs negeren of vergeten."
+      },
+      "es": {
+        "hook": "Tu cerebro edita las noticias para darte la razón.",
+        "fact": "El sesgo de confirmación hace que las personas tiendan a buscar, interpretar y recordar la información que confirma lo que ya creen, mientras ignoran u olvidan las pruebas contrarias."
+      }
+    }
   },
   {
     "id": "psychology-002",
@@ -18,7 +32,24 @@
     "tags": [
       "anchoring-effect",
       "decision-making"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier chiffre que vous entendez fixe secrètement le prix que vous accepterez.",
+        "fact": "Dans les négociations et les estimations, les gens s'appuient trop sur la première information reçue, l'« ancre », même si elle est arbitraire ou sans rapport avec la valeur réelle.",
+        "whyItMatters": "Les commerçants exploitent ce biais en affichant des « prix d'origine » gonflés à côté des prix soldés, pour que les réductions paraissent plus importantes qu'elles ne le sont réellement."
+      },
+      "nl": {
+        "hook": "Het eerste getal dat je hoort, bepaalt stiekem de prijs die je accepteert.",
+        "fact": "Bij onderhandelingen en schattingen steunen mensen te sterk op de eerst genoemde informatie, het 'anker', zelfs als dat willekeurig of irrelevant is voor de werkelijke waarde.",
+        "whyItMatters": "Winkels maken hier gebruik van door opgeblazen 'oorspronkelijke prijzen' naast de aanbiedingsprijs te tonen, zodat de korting groter lijkt dan hij werkelijk is."
+      },
+      "es": {
+        "hook": "El primer número que oyes fija en secreto el precio que aceptarás.",
+        "fact": "En negociaciones y estimaciones, las personas se apoyan demasiado en la primera información ofrecida, el «ancla», aunque sea arbitraria o irrelevante para el valor real.",
+        "whyItMatters": "Los comercios aprovechan esto mostrando 'precios originales' inflados junto a los precios de oferta, para que los descuentos parezcan mayores de lo que realmente son."
+      }
+    }
   },
   {
     "id": "psychology-003",
@@ -28,7 +59,21 @@
     "tags": [
       "availability-heuristic",
       "risk-perception"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Vous surestimez les attaques de requins et sous-estimez les maladies cardiaques.",
+        "fact": "L'heuristique de disponibilité fait paraître les événements marquants, mémorables ou récemment relayés, comme les crashs d'avion ou les attaques de requins, bien plus fréquents qu'ils ne le sont statistiquement, simplement parce qu'ils viennent plus facilement à l'esprit."
+      },
+      "nl": {
+        "hook": "Je overschat haaienaanvallen en onderschat hartziekten.",
+        "fact": "De beschikbaarheidsheuristiek zorgt ervoor dat opvallende, memorabele of recent in het nieuws gekomen gebeurtenissen, zoals vliegtuigongelukken of haaienaanvallen, veel vaker lijken voor te komen dan statistisch het geval is, simpelweg omdat ze makkelijker in herinnering komen."
+      },
+      "es": {
+        "hook": "Sobrestimas los ataques de tiburón y subestimas las enfermedades cardíacas.",
+        "fact": "La heurística de disponibilidad hace que los sucesos llamativos, memorables o difundidos recientemente, como accidentes aéreos o ataques de tiburón, parezcan mucho más frecuentes de lo que son en realidad, simplemente porque resulta más fácil recordarlos."
+      }
+    }
   },
   {
     "id": "psychology-004",
@@ -38,7 +83,21 @@
     "tags": [
       "hindsight-bias",
       "memory-distortion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une fois le résultat connu, on a l'impression de l'avoir toujours su.",
+        "fact": "Après qu'un événement s'est produit, les gens ont tendance à surestimer à quel point il était prévisible à l'avance, une distorsion appelée le biais rétrospectif."
+      },
+      "nl": {
+        "hook": "Zodra je de uitkomst kent, lijkt het alsof je het altijd al wist.",
+        "fact": "Nadat een gebeurtenis heeft plaatsgevonden, overschatten mensen vaak hoe voorspelbaar die vooraf was, een vertekening die bekendstaat als hindsight bias."
+      },
+      "es": {
+        "hook": "Una vez que conoces el resultado, sientes que siempre lo supiste.",
+        "fact": "Después de que ocurre un evento, las personas tienden a sobrestimar lo predecible que era de antemano, una distorsión conocida como sesgo retrospectivo."
+      }
+    }
   },
   {
     "id": "psychology-005",
@@ -48,7 +107,21 @@
     "tags": [
       "sunk-cost-fallacy",
       "decision-making"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Finir un mauvais film parce qu'on a déjà payé sa place est un piège logique.",
+        "fact": "Le sophisme des coûts irrécupérables pousse les gens à continuer d'investir du temps, de l'argent ou des efforts dans une entreprise vouée à l'échec à cause de ce qui a déjà été dépensé, même quand abandonner serait le choix le plus rationnel."
+      },
+      "nl": {
+        "hook": "Een slechte film uitzitten omdat je het kaartje al hebt betaald, is een denkfout.",
+        "fact": "De sunk-costfallacy zorgt ervoor dat mensen tijd, geld of moeite blijven investeren in een mislukkend project vanwege wat er al is uitgegeven, zelfs wanneer stoppen de verstandigste keuze zou zijn."
+      },
+      "es": {
+        "hook": "Terminar una mala película porque ya pagaste la entrada es una trampa lógica.",
+        "fact": "La falacia del costo hundido lleva a las personas a seguir invirtiendo tiempo, dinero o esfuerzo en un proyecto fracasado por lo que ya se ha gastado, incluso cuando abandonar sería la decisión más inteligente."
+      }
+    }
   },
   {
     "id": "psychology-006",
@@ -59,7 +132,24 @@
     "tags": [
       "dunning-kruger",
       "overconfidence"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Moins on connaît un sujet, plus on peut paraître sûr de soi en en parlant.",
+        "fact": "Les personnes ayant des connaissances ou des compétences limitées dans un domaine manquent souvent de la lucidité nécessaire pour reconnaître leur propre incompétence et surestiment leurs capacités, tandis que les véritables experts ont tendance, par comparaison, à sous-estimer les leurs. C'est l'effet Dunning-Kruger.",
+        "whyItMatters": "Ce décalage explique en partie pourquoi la voix la plus sûre d'elle dans une pièce n'est pas toujours la plus informée."
+      },
+      "nl": {
+        "hook": "Hoe minder iemand van een onderwerp weet, hoe zelfverzekerder die erover kan klinken.",
+        "fact": "Mensen met beperkte kennis of vaardigheid op een gebied missen vaak het zelfinzicht om hun eigen onkunde te herkennen en overschatten hun bekwaamheid, terwijl echte experts hun eigen kunnen juist onderschatten. Dit staat bekend als het dunning-krugereffect.",
+        "whyItMatters": "Deze mismatch verklaart mede waarom de zelfverzekerdste stem in de kamer niet altijd de best geïnformeerde is."
+      },
+      "es": {
+        "hook": "Cuanto menos sabe alguien de un tema, más seguro puede sonar al hablar de él.",
+        "fact": "Las personas con conocimientos o habilidades limitadas en un ámbito suelen carecer de la autoconciencia necesaria para reconocer su propia incompetencia y sobrestiman su capacidad, mientras que los verdaderos expertos tienden, en comparación, a subestimar la suya. Es el efecto Dunning-Kruger.",
+        "whyItMatters": "Este desajuste ayuda a explicar por qué la voz más segura de una sala no siempre es la más informada."
+      }
+    }
   },
   {
     "id": "psychology-007",
@@ -69,7 +159,21 @@
     "tags": [
       "negativity-bias",
       "emotion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une seule insulte pèse plus lourd que dix compliments dans votre mémoire.",
+        "fact": "Les expériences, critiques et informations négatives ont généralement un impact psychologique plus fort et restent plus mémorables que leurs équivalents positifs de même intensité, un phénomène appelé le biais de négativité."
+      },
+      "nl": {
+        "hook": "Eén belediging weegt zwaarder in je geheugen dan tien complimenten.",
+        "fact": "Negatieve ervaringen, kritiek en informatie hebben over het algemeen een sterkere psychologische impact en blijven beter hangen dan positieve tegenhangers van gelijke intensiteit, een patroon dat negativiteitsbias wordt genoemd."
+      },
+      "es": {
+        "hook": "Un solo insulto pesa más en tu memoria que diez elogios.",
+        "fact": "Las experiencias, críticas e información negativas suelen tener un impacto psicológico más fuerte y ser más memorables que sus equivalentes positivos de la misma intensidad, un patrón llamado sesgo de negatividad."
+      }
+    }
   },
   {
     "id": "psychology-008",
@@ -79,7 +183,21 @@
     "tags": [
       "halo-effect",
       "social-perception"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "On suppose aussi que les personnes séduisantes sont plus intelligentes et plus gentilles.",
+        "fact": "L'effet de halo décrit comment un seul trait positif, comme l'attrait physique, biaise inconsciemment notre impression globale d'une personne, nous poussant à lui supposer d'autres qualités positives sans rapport."
+      },
+      "nl": {
+        "hook": "Aantrekkelijke mensen worden ook al snel slimmer en aardiger geacht.",
+        "fact": "Het halo-effect beschrijft hoe één positieve eigenschap, zoals fysieke aantrekkelijkheid, onbewust onze totale indruk van iemand kleurt, waardoor we aannemen dat die persoon ook andere, ongerelateerde positieve kwaliteiten heeft."
+      },
+      "es": {
+        "hook": "A las personas atractivas también se las supone más inteligentes y amables.",
+        "fact": "El efecto halo describe cómo un solo rasgo positivo, como el atractivo físico, sesga de forma inconsciente nuestra impresión general de una persona, haciéndonos suponer que tiene otras cualidades positivas sin relación alguna."
+      }
+    }
   },
   {
     "id": "psychology-009",
@@ -89,7 +207,21 @@
     "tags": [
       "illusory-correlation",
       "pattern-recognition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre cerveau peut « voir » des liens entre des choses qui n'ont rien à voir entre elles.",
+        "fact": "La corrélation illusoire se produit lorsqu'on perçoit un lien entre deux variables sans rapport réel, comme croire qu'une vieille blessure annonce la pluie, souvent parce que les coïncidences qui confirment cette croyance sont remarquées et retenues plus que celles qui la contredisent."
+      },
+      "nl": {
+        "hook": "Je brein kan patronen 'zien' tussen dingen die niets met elkaar te maken hebben.",
+        "fact": "Illusoire correlatie ontstaat wanneer mensen een verband waarnemen tussen twee onafhankelijke variabelen, zoals het geloof dat een oude blessure regen voorspelt, vaak omdat toevalligheden die bij die overtuiging passen, meer worden opgemerkt en onthouden dan die welke dat niet doen."
+      },
+      "es": {
+        "hook": "Tu cerebro puede 'ver' patrones entre cosas que no tienen nada que ver entre sí.",
+        "fact": "La correlación ilusoria ocurre cuando las personas perciben una relación entre dos variables no relacionadas, como creer que una lesión antigua predice la lluvia, a menudo porque las coincidencias que encajan con esa creencia se notan y recuerdan más que las que no."
+      }
+    }
   },
   {
     "id": "psychology-010",
@@ -99,7 +231,21 @@
     "tags": [
       "bandwagon-effect",
       "social-influence"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Croire que quelque chose est vrai parce que tout le monde semble y croire aussi.",
+        "fact": "L'effet moutonnier désigne la tendance à adopter des croyances ou des comportements simplement parce que beaucoup d'autres personnes l'ont déjà fait, indépendamment des preuves réelles."
+      },
+      "nl": {
+        "hook": "Denken dat iets waar is omdat iedereen het schijnbaar ook gelooft.",
+        "fact": "Het meeloopeffect (bandwagon-effect) beschrijft de neiging om overtuigingen of gedrag over te nemen simpelweg omdat veel andere mensen dat al doen, los van het onderliggende bewijs."
+      },
+      "es": {
+        "hook": "Creer que algo es verdad porque todos los demás parecen creerlo también.",
+        "fact": "El efecto de arrastre (o efecto bandwagon) describe la tendencia a adoptar creencias o comportamientos simplemente porque muchas otras personas ya lo han hecho, independientemente de la evidencia real."
+      }
+    }
   },
   {
     "id": "psychology-011",
@@ -109,7 +255,21 @@
     "tags": [
       "optimism-bias",
       "risk-perception"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plupart des gens pensent avoir moins de risques que la moyenne de divorcer ou de perdre leur emploi.",
+        "fact": "Le biais d'optimisme pousse la plupart des gens à sous-estimer leur propre risque de vivre des événements négatifs, comme une maladie ou une perte d'emploi, comparé au risque qu'ils attribuent aux autres."
+      },
+      "nl": {
+        "hook": "De meeste mensen denken dat ze minder kans dan gemiddeld hebben om te scheiden of hun baan te verliezen.",
+        "fact": "Optimismebias zorgt ervoor dat de meeste mensen hun eigen kans op negatieve gebeurtenissen, zoals ziekte of baanverlies, onderschatten in vergelijking met het risico dat ze anderen toedichten."
+      },
+      "es": {
+        "hook": "La mayoría cree que tiene menos probabilidades que la media de divorciarse o perder su empleo.",
+        "fact": "El sesgo de optimismo hace que la mayoría de las personas subestime su propia probabilidad de sufrir eventos negativos, como una enfermedad o la pérdida del empleo, en comparación con el riesgo que atribuyen a los demás."
+      }
+    }
   },
   {
     "id": "psychology-012",
@@ -120,7 +280,24 @@
     "tags": [
       "framing-effect",
       "decision-making"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« 90 % sans matières grasses » et « 10 % de matières grasses » décrivent le même aliment, mais ne se vendent pas du tout pareil.",
+        "fact": "L'effet de cadrage montre que la façon de présenter une information change la manière dont on l'évalue, même quand les faits sous-jacents sont identiques, comme préférer un traitement présenté avec un taux de survie de 90 % plutôt qu'un taux de mortalité de 10 %.",
+        "whyItMatters": "Les campagnes de santé publique misent beaucoup sur ce cadrage, car des statistiques présentées de façon positive peuvent nettement augmenter le pouvoir de persuasion d'une même information."
+      },
+      "nl": {
+        "hook": "'90% vetvrij' en '10% vet' beschrijven precies hetzelfde product, maar verkopen heel anders.",
+        "fact": "Het framing-effect toont aan dat de manier waarop informatie wordt gepresenteerd, verandert hoe mensen die beoordelen, zelfs als de onderliggende feiten identiek zijn, zoals de voorkeur voor een behandeling die als '90% overlevingskans' wordt omschreven boven een met '10% sterftekans'.",
+        "whyItMatters": "Voorlichting over volksgezondheid steunt sterk op framing, omdat positief geformuleerde statistieken dezelfde informatie merkbaar overtuigender laten klinken."
+      },
+      "es": {
+        "hook": "'90% sin grasa' y '10% de grasa' describen el mismo alimento, pero se venden de forma muy distinta.",
+        "fact": "El efecto de encuadre (framing) muestra que la forma de presentar la información cambia cómo la evalúan las personas, aunque los datos subyacentes sean idénticos, como preferir un tratamiento descrito con un 90% de supervivencia frente a uno descrito con un 10% de mortalidad.",
+        "whyItMatters": "Las campañas de salud pública dependen mucho del encuadre, ya que las estadísticas formuladas en positivo pueden aumentar notablemente lo persuasiva que resulta la misma información."
+      }
+    }
   },
   {
     "id": "psychology-013",
@@ -131,7 +308,24 @@
     "tags": [
       "base-rate-neglect",
       "statistics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un résultat de test positif peut sembler certain, même quand la maladie recherchée est rare.",
+        "fact": "Les gens ignorent souvent les taux de base statistiques généraux au profit d'informations précises et marquantes, ce qui explique pourquoi un résultat positif à un test très fiable pour une maladie rare peut malgré tout être plus probablement un faux positif qu'un vrai positif.",
+        "whyItMatters": "Cette mauvaise appréciation des taux de base peut pousser patients et cliniciens à surréagir aux résultats de dépistage sans tenir compte de la rareté réelle de la maladie concernée."
+      },
+      "nl": {
+        "hook": "Een positieve testuitslag kan zeker aanvoelen, zelfs als de ziekte waarop getest wordt zeldzaam is.",
+        "fact": "Mensen negeren vaak algemene statistische basisfrequenties ten gunste van specifieke, opvallende informatie, waardoor een positieve uitslag op een zeer nauwkeurige test voor een zeldzame aandoening toch vaker een fout-positieve dan een terecht-positieve uitslag kan zijn.",
+        "whyItMatters": "Het verkeerd inschatten van basisfrequenties kan ertoe leiden dat patiënten en zelfs artsen overdreven reageren op screeningsresultaten zonder rekening te houden met hoe zeldzaam de aandoening daadwerkelijk is."
+      },
+      "es": {
+        "hook": "Un resultado positivo en una prueba puede parecer una certeza, aunque la enfermedad que detecta sea rara.",
+        "fact": "Las personas suelen ignorar las tasas base estadísticas generales en favor de información concreta y llamativa, lo que explica por qué un resultado positivo en una prueba muy precisa para una enfermedad rara puede seguir siendo, con más probabilidad, un falso positivo que uno verdadero.",
+        "whyItMatters": "Interpretar mal las tasas base puede llevar a pacientes e incluso a médicos a reaccionar de forma exagerada ante resultados de cribado sin valorar lo poco frecuente que es realmente la enfermedad."
+      }
+    }
   },
   {
     "id": "psychology-014",
@@ -141,7 +335,21 @@
     "tags": [
       "gamblers-fallacy",
       "probability"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Après cinq « pile » d'affilée, « face » n'est pas plus « dû » pour autant.",
+        "fact": "L'erreur du parieur est la croyance erronée que des événements aléatoires passés et indépendants influencent les événements futurs, comme penser qu'une roulette est « due » pour un rouge après une longue série de noirs."
+      },
+      "nl": {
+        "hook": "Na vijf keer kop bij een muntworp is munt niet ineens 'aan de beurt.'",
+        "fact": "De gokkersdwaling is het foutieve geloof dat onafhankelijke toevalsgebeurtenissen uit het verleden toekomstige gebeurtenissen beïnvloeden, zoals denken dat een roulettewiel 'toe is aan' rood na een lange reeks zwart."
+      },
+      "es": {
+        "hook": "Después de cinco caras seguidas, la cruz no está más 'a punto de salir.'",
+        "fact": "La falacia del jugador es la creencia errónea de que sucesos aleatorios independientes del pasado influyen en los futuros, como pensar que a la ruleta ya le 'toca' salir rojo tras una larga racha de negro."
+      }
+    }
   },
   {
     "id": "psychology-015",
@@ -151,7 +359,21 @@
     "tags": [
       "loss-aversion",
       "decision-making"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Perdre 20 $ fait plus mal que trouver 20 $ ne fait plaisir.",
+        "fact": "L'aversion à la perte décrit le fait que la douleur psychologique liée à la perte de quelque chose est généralement ressentie plus intensément que le plaisir d'un gain équivalent, ce qui façonne de nombreuses décisions financières et personnelles au quotidien."
+      },
+      "nl": {
+        "hook": "20 dollar verliezen doet meer pijn dan 20 dollar vinden goed voelt.",
+        "fact": "Verliesaversie beschrijft hoe de psychologische pijn van het verliezen van iets doorgaans intenser wordt gevoeld dan het plezier van een gelijkwaardige winst, wat veel alledaagse financiële en persoonlijke beslissingen beïnvloedt."
+      },
+      "es": {
+        "hook": "Perder 20 dólares duele más de lo que place encontrar 20 dólares.",
+        "fact": "La aversión a la pérdida describe cómo el dolor psicológico de perder algo suele sentirse con más intensidad que el placer de ganar una cantidad equivalente, lo cual influye en muchas decisiones financieras y personales cotidianas."
+      }
+    }
   },
   {
     "id": "psychology-016",
@@ -161,7 +383,21 @@
     "tags": [
       "in-group-bias",
       "social-psychology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "On fait instinctivement confiance aux gens perçus comme faisant partie de « notre équipe ».",
+        "fact": "Le biais endogroupe pousse les gens à favoriser les membres de leur propre groupe, que ce soit par nationalité, équipe sportive ou même des catégories attribuées au hasard, en les jugeant souvent plus dignes de confiance ou plus compétents que les autres."
+      },
+      "nl": {
+        "hook": "We vertrouwen instinctief mensen die we als 'ons team' beschouwen.",
+        "fact": "In-groepsbias zorgt ervoor dat mensen leden van hun eigen groep bevoordelen, of dat nu gebaseerd is op nationaliteit, sportclub of zelfs willekeurig toegewezen categorieën, en hen vaak betrouwbaarder of competenter inschatten dan buitenstaanders."
+      },
+      "es": {
+        "hook": "Confiamos instintivamente en quienes percibimos como parte de 'nuestro equipo.'",
+        "fact": "El sesgo endogrupal lleva a las personas a favorecer a los miembros de su propio grupo, ya sea por nacionalidad, equipo deportivo o incluso categorías asignadas al azar, considerándolos a menudo más fiables o competentes que a los de fuera."
+      }
+    }
   },
   {
     "id": "psychology-017",
@@ -171,7 +407,21 @@
     "tags": [
       "just-world-hypothesis",
       "social-cognition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Ils ont dû faire quelque chose pour le mériter » est un biais, pas un fait.",
+        "fact": "L'hypothèse du monde juste est la tendance à croire que le monde est fondamentalement équitable, ce qui peut amener à blâmer les victimes de malheurs afin de préserver l'idée que les mauvaises choses n'arrivent qu'aux mauvaises personnes."
+      },
+      "nl": {
+        "hook": "'Ze zullen wel iets gedaan hebben om het te verdienen' is een vooroordeel, geen feit.",
+        "fact": "De rechtvaardige-wereldhypothese is de neiging om te geloven dat de wereld fundamenteel eerlijk is, wat mensen ertoe kan brengen slachtoffers van pech de schuld te geven om het idee in stand te houden dat slechte dingen alleen slechte mensen overkomen."
+      },
+      "es": {
+        "hook": "'Algo habrán hecho para merecerlo' es un sesgo, no un hecho.",
+        "fact": "La hipótesis del mundo justo es la tendencia a creer que el mundo es fundamentalmente equitativo, lo que puede llevar a culpar a las víctimas de la mala suerte para preservar la idea de que las cosas malas solo les pasan a las malas personas."
+      }
+    }
   },
   {
     "id": "psychology-018",
@@ -181,7 +431,21 @@
     "tags": [
       "curse-of-knowledge",
       "communication"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une fois qu'on sait quelque chose, il est presque impossible d'imaginer ne pas le savoir.",
+        "fact": "La malédiction du savoir rend difficile, pour les personnes bien informées sur un sujet, d'imaginer avec justesse ce que c'est que d'être débutant, ce qui pousse souvent les experts à donner des explications confuses aux novices."
+      },
+      "nl": {
+        "hook": "Zodra je iets weet, is het bijna onmogelijk je voor te stellen dat je het niet wist.",
+        "fact": "De vloek van kennis maakt het voor mensen die goed geïnformeerd zijn over een onderwerp moeilijk om zich accuraat voor te stellen hoe het is om een beginner te zijn, wat experts er vaak toe brengt verwarrende uitleg te geven aan beginners."
+      },
+      "es": {
+        "hook": "Una vez que sabes algo, es casi imposible imaginar no saberlo.",
+        "fact": "La maldición del conocimiento hace que a las personas bien informadas sobre un tema les cueste imaginar con precisión cómo es ser un principiante, lo que a menudo lleva a los expertos a dar explicaciones confusas a los novatos."
+      }
+    }
   },
   {
     "id": "psychology-019",
@@ -191,7 +455,21 @@
     "tags": [
       "planning-fallacy",
       "decision-making"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Presque tout projet prend plus de temps que prévu, même quand on le sait par expérience.",
+        "fact": "Le biais de planification décrit la tendance des gens à sous-estimer le temps que prendra une tâche, même lorsqu'ils ont déjà constaté par expérience que des tâches similaires ont pris plus de temps que prévu."
+      },
+      "nl": {
+        "hook": "Bijna elk project duurt langer dan gedacht, zelfs als je dat uit ervaring weet.",
+        "fact": "De planningsdrogreden beschrijft de neiging van mensen om de duur van een taak te onderschatten, zelfs wanneer ze uit eigen ervaring weten dat vergelijkbare taken eerder ook langer duurden dan gepland."
+      },
+      "es": {
+        "hook": "Casi todo proyecto tarda más de lo previsto, incluso cuando ya lo sabes por experiencia.",
+        "fact": "La falacia de planificación describe la tendencia de las personas a subestimar cuánto tiempo llevará una tarea, incluso cuando tienen experiencia previa directa que muestra que tareas similares tardaron más de lo planeado."
+      }
+    }
   },
   {
     "id": "psychology-020",
@@ -201,7 +479,21 @@
     "tags": [
       "spotlight-effect",
       "self-perception"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Personne ne remarque votre tenue autant que vous ne le pensez.",
+        "fact": "L'effet de projecteur est la tendance à surestimer à quel point les autres remarquent notre apparence, nos erreurs ou notre comportement, parce que nous sommes si centrés sur nous-mêmes que nous supposons que les autres le sont tout autant."
+      },
+      "nl": {
+        "hook": "Niemand let zoveel op je outfit als jij denkt.",
+        "fact": "Het spotlight-effect is de neiging om te overschatten hoezeer andere mensen ons uiterlijk, onze fouten of ons gedrag opmerken, omdat we zo op onszelf gericht zijn dat we aannemen dat anderen dat ook zijn."
+      },
+      "es": {
+        "hook": "Nadie se fija en tu ropa tanto como crees.",
+        "fact": "El efecto foco es la tendencia a sobrestimar cuánto notan los demás nuestra apariencia, errores o comportamiento, porque estamos tan centrados en nosotros mismos que suponemos que los demás también lo están."
+      }
+    }
   },
   {
     "id": "psychology-021",
@@ -211,7 +503,21 @@
     "tags": [
       "serial-position-effect",
       "memory"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Vous vous souvenez bien mieux du début et de la fin d'une liste que du milieu.",
+        "fact": "L'effet de position sérielle décrit comment les éléments présentés en premier ou en dernier dans une séquence sont rappelés plus précisément que ceux du milieu, car les premiers bénéficient de davantage de répétition mentale et les derniers restent encore frais en mémoire à court terme."
+      },
+      "nl": {
+        "hook": "Je onthoudt het begin en einde van een lijst veel beter dan het midden.",
+        "fact": "Het serial-position-effect beschrijft hoe items die als eerste of laatste in een reeks worden getoond, nauwkeuriger worden onthouden dan die in het midden, omdat de eerste items meer mentale herhaling krijgen en de laatste nog vers zijn in het kortetermijngeheugen."
+      },
+      "es": {
+        "hook": "Recuerdas mucho mejor el principio y el final de una lista que la parte central.",
+        "fact": "El efecto de posición serial describe cómo los elementos presentados al principio o al final de una secuencia se recuerdan con más precisión que los del medio, porque los primeros reciben más repaso mental y los últimos siguen frescos en la memoria a corto plazo."
+      }
+    }
   },
   {
     "id": "psychology-022",
@@ -222,7 +528,24 @@
     "tags": [
       "misinformation-effect",
       "false-memory"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une simple question orientée peut réécrire ce dont vous vous souvenez avoir vu.",
+        "fact": "L'effet de désinformation montre que l'exposition à des détails trompeurs après un événement, par exemple via des questions suggestives, peut altérer le souvenir qu'une personne garde de l'événement original, jusqu'à lui faire se rappeler des détails qui ne se sont jamais produits.",
+        "whyItMatters": "C'est l'une des raisons majeures pour lesquelles le témoignage oculaire peut être déformé simplement par la façon dont les enquêteurs formulent leurs questions de suivi."
+      },
+      "nl": {
+        "hook": "Een simpele suggestieve vraag kan herschrijven wat je denkt gezien te hebben.",
+        "fact": "Het misinformatie-effect toont aan dat blootstelling aan misleidende details na een gebeurtenis, bijvoorbeeld door suggestieve vraagstelling, iemands herinnering aan het oorspronkelijke voorval kan veranderen, tot het punt waarop die persoon zich details herinnert die nooit hebben plaatsgevonden.",
+        "whyItMatters": "Dit is een belangrijke reden waarom ooggetuigenverklaringen vervormd kunnen raken simpelweg door hoe rechercheurs hun vervolgvragen formuleren."
+      },
+      "es": {
+        "hook": "Una simple pregunta capciosa puede reescribir lo que crees haber visto.",
+        "fact": "El efecto de desinformación muestra que la exposición a detalles engañosos después de un suceso, por ejemplo mediante preguntas sugestivas, puede alterar el recuerdo que una persona tiene del evento original, llegando incluso a hacerle recordar detalles que nunca ocurrieron.",
+        "whyItMatters": "Esta es una de las principales razones por las que el testimonio de un testigo ocular puede distorsionarse simplemente por cómo los investigadores formulan sus preguntas de seguimiento."
+      }
+    }
   },
   {
     "id": "psychology-023",
@@ -232,7 +555,21 @@
     "tags": [
       "flashbulb-memory",
       "memory-distortion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre souvenir vif du genre « je me souviens exactement où j'étais » est probablement faux dans le détail.",
+        "fact": "Les souvenirs dits « flashs » d'événements choquants semblent anormalement vivaces et fiables, mais des études suivant les mêmes personnes pendant des années montrent que ces souvenirs se dégradent et se déforment tout autant que les souvenirs ordinaires, alors même que la confiance des gens en leur exactitude reste élevée."
+      },
+      "nl": {
+        "hook": "Je levendige 'ik weet nog precies waar ik was'-herinnering klopt waarschijnlijk niet in de details.",
+        "fact": "Zogeheten flashbulb-herinneringen aan schokkende gebeurtenissen voelen ongewoon levendig en zeker aan, maar studies die dezelfde mensen jarenlang volgen, tonen aan dat deze herinneringen net zo goed vervagen en vervormen als gewone herinneringen, ook al blijft het vertrouwen van mensen in de nauwkeurigheid ervan hoog."
+      },
+      "es": {
+        "hook": "Tu vívido recuerdo de 'sé exactamente dónde estaba' probablemente esté equivocado en los detalles.",
+        "fact": "Los llamados recuerdos flashbulb (o recuerdos destello) de sucesos impactantes se sienten inusualmente vívidos y fiables, pero los estudios que siguen a las mismas personas durante años muestran que estos recuerdos se degradan y distorsionan tanto como los ordinarios, aunque la confianza de la gente en su exactitud se mantenga alta."
+      }
+    }
   },
   {
     "id": "psychology-024",
@@ -242,7 +579,21 @@
     "tags": [
       "reminiscence-bump",
       "autobiographical-memory"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Demandez à une personne âgée ses meilleurs souvenirs : la plupart dateront de son adolescence et de sa vingtaine.",
+        "fact": "Le pic de réminiscence désigne le nombre disproportionné de souvenirs autobiographiques vifs que les gens rappellent de leur adolescence et du début de l'âge adulte par rapport aux autres périodes de la vie, probablement parce que c'est à ce moment que se produisent de nombreuses « premières fois » marquantes."
+      },
+      "nl": {
+        "hook": "Vraag een ouder iemand naar hun mooiste herinneringen, en de meeste komen uit hun tienerjaren en twintiger jaren.",
+        "fact": "De reminiscentiepiek verwijst naar het onevenredig grote aantal levendige autobiografische herinneringen die mensen ophalen uit hun adolescentie en vroege volwassenheid vergeleken met andere levensfasen, waarschijnlijk omdat dan veel belangrijke 'eerste keren' plaatsvinden."
+      },
+      "es": {
+        "hook": "Pregunta a una persona mayor por sus mejores recuerdos: la mayoría serán de su adolescencia y sus veinte.",
+        "fact": "El pico de reminiscencia se refiere a la cantidad desproporcionada de recuerdos autobiográficos vívidos que las personas evocan de la adolescencia y la adultez temprana en comparación con otras etapas de la vida, probablemente porque es entonces cuando ocurren muchas 'primeras veces' formativas."
+      }
+    }
   },
   {
     "id": "psychology-025",
@@ -252,7 +603,21 @@
     "tags": [
       "childhood-amnesia",
       "memory-development"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Presque personne n'a de vrais souvenirs d'avant trois ou quatre ans.",
+        "fact": "L'amnésie infantile est l'incapacité quasi universelle à se rappeler des souvenirs épisodiques de la petite enfance, que l'on pense due en partie au fait que les régions cérébrales liées à la mémoire et les compétences langagières nécessaires à une mémoire autobiographique durable sont encore immatures à cet âge."
+      },
+      "nl": {
+        "hook": "Bijna niemand heeft echte herinneringen van voor de leeftijd van drie of vier jaar.",
+        "fact": "Kinderlijke amnesie is het bijna universele onvermogen om episodische herinneringen uit de vroege kindertijd op te halen, waarvan wordt gedacht dat het deels komt doordat de hersengebieden voor geheugen en de taalvaardigheden die nodig zijn voor blijvend autobiografisch geheugen op die leeftijd nog onvoldoende ontwikkeld zijn."
+      },
+      "es": {
+        "hook": "Casi nadie tiene recuerdos reales de antes de los tres o cuatro años.",
+        "fact": "La amnesia infantil es la incapacidad casi universal de recordar recuerdos episódicos de la primera infancia, que se cree que se debe en parte a que las regiones cerebrales relacionadas con la memoria y las habilidades lingüísticas necesarias para una memoria autobiográfica duradera aún son inmaduras a esa edad."
+      }
+    }
   },
   {
     "id": "psychology-026",
@@ -262,7 +627,21 @@
     "tags": [
       "state-dependent-memory",
       "encoding"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce que vous apprenez sous caféine se rappelle parfois plus facilement... sous caféine.",
+        "fact": "La mémoire dépendante de l'état désigne le fait que le rappel est souvent amélioré lorsque l'état interne d'une personne, comme son humeur ou son niveau de stimulation, correspond à l'état dans lequel elle se trouvait au moment de la formation du souvenir."
+      },
+      "nl": {
+        "hook": "Wat je leert terwijl je cafeïne op hebt, herinner je later makkelijker weer terwijl je cafeïne op hebt.",
+        "fact": "Toestandsafhankelijk geheugen betekent dat het ophalen van herinneringen vaak beter lukt wanneer iemands innerlijke toestand, zoals stemming of prikkelingsniveau, overeenkomt met de toestand waarin die persoon verkeerde toen de herinnering oorspronkelijk werd gevormd."
+      },
+      "es": {
+        "hook": "Lo que aprendes con cafeína en el cuerpo puede recordarse mejor cuando vuelves a tener cafeína en el cuerpo.",
+        "fact": "La memoria dependiente del estado significa que el recuerdo suele mejorar cuando el estado interno de una persona, como su estado de ánimo o nivel de estimulación, coincide con el estado en que se encontraba cuando se formó originalmente ese recuerdo."
+      }
+    }
   },
   {
     "id": "psychology-027",
@@ -272,7 +651,21 @@
     "tags": [
       "context-dependent-memory",
       "encoding"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Étudier dans la salle où vous passerez l'examen peut réellement améliorer votre note.",
+        "fact": "La mémoire dépendante du contexte montre que le rappel est généralement meilleur lorsque l'environnement physique au moment de la restitution correspond à celui de l'apprentissage, car les indices environnementaux agissent comme des déclencheurs de rappel."
+      },
+      "nl": {
+        "hook": "Studeren in de ruimte waar je straks je toets maakt, kan je cijfer echt verbeteren.",
+        "fact": "Contextafhankelijk geheugen toont aan dat het ophalen van herinneringen doorgaans beter verloopt wanneer de fysieke omgeving tijdens het terughalen overeenkomt met die tijdens het leren, omdat omgevingssignalen als geheugentriggers werken."
+      },
+      "es": {
+        "hook": "Estudiar en la sala donde harás el examen puede mejorar de verdad tu nota.",
+        "fact": "La memoria dependiente del contexto muestra que el recuerdo suele ser mejor cuando el entorno físico durante la recuperación coincide con el del aprendizaje, porque las señales del entorno actúan como disparadores del recuerdo."
+      }
+    }
   },
   {
     "id": "psychology-028",
@@ -283,7 +676,24 @@
     "tags": [
       "testing-effect",
       "learning"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Se tester bat la relecture de ses notes quand il s'agit de vraiment les retenir.",
+        "fact": "L'effet de test, ou pratique de récupération, montre que le rappel actif d'informations, par exemple via des quiz ou des flashcards, produit une rétention à long terme bien plus solide que la simple relecture passive du même contenu.",
+        "whyItMatters": "C'est l'une des stratégies d'étude les plus solidement validées par la recherche sur l'apprentissage, et pourtant la plupart des étudiants continuent par défaut à relire et surligner leurs notes."
+      },
+      "nl": {
+        "hook": "Jezelf overhoren werkt beter dan je aantekeningen herlezen om ze echt te onthouden.",
+        "fact": "Het testeffect, of retrieval practice, toont aan dat actief informatie ophalen, bijvoorbeeld met oefentoetsen of flashcards, veel sterkere langetermijnretentie oplevert dan hetzelfde materiaal passief herlezen.",
+        "whyItMatters": "Dit is een van de best onderbouwde leerstrategieën uit leeronderzoek, en toch vallen de meeste studenten nog steeds standaard terug op herlezen en markeren."
+      },
+      "es": {
+        "hook": "Ponerte a prueba supera a releer tus apuntes cuando se trata de recordarlos de verdad.",
+        "fact": "El efecto de prueba, o práctica de recuperación, muestra que recordar activamente la información, por ejemplo con cuestionarios de práctica o tarjetas de memoria, produce una retención a largo plazo mucho más sólida que releer pasivamente el mismo material.",
+        "whyItMatters": "Es una de las estrategias de estudio más respaldadas de forma constante por la investigación sobre el aprendizaje, y sin embargo la mayoría de los estudiantes sigue recurriendo por defecto a releer y subrayar."
+      }
+    }
   },
   {
     "id": "psychology-029",
@@ -293,7 +703,21 @@
     "tags": [
       "spacing-effect",
       "learning"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le bachotage fonctionne pour le contrôle de demain, mais vous lâche un mois plus tard.",
+        "fact": "L'effet d'espacement démontre que l'information est bien mieux retenue lorsque les séances d'étude sont réparties dans le temps plutôt que concentrées en une seule session, même quand le temps total d'étude est identique."
+      },
+      "nl": {
+        "hook": "Blokken werkt voor de toets van morgen, maar laat je een maand later in de steek.",
+        "fact": "Het spacing-effect toont aan dat informatie veel beter wordt onthouden wanneer studiesessies over de tijd worden verspreid in plaats van in één keer geconcentreerd, zelfs wanneer de totale studietijd gelijk is."
+      },
+      "es": {
+        "hook": "Estudiar todo de golpe funciona para el examen de mañana, pero te falla un mes después.",
+        "fact": "El efecto de espaciamiento demuestra que la información se retiene mucho mejor cuando las sesiones de estudio se reparten en el tiempo en lugar de concentrarse en una sola, incluso cuando el tiempo total de estudio es idéntico."
+      }
+    }
   },
   {
     "id": "psychology-030",
@@ -303,7 +727,21 @@
     "tags": [
       "tip-of-the-tongue",
       "word-retrieval"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Cette sensation exaspérante d'avoir presque un mot en tête porte un vrai nom.",
+        "fact": "Le phénomène du mot sur le bout de la langue est cette expérience frustrante de ne pas parvenir à retrouver un mot familier en mémoire malgré la certitude de le connaître, tout en se rappelant souvent des indices partiels comme sa première lettre ou son nombre de syllabes."
+      },
+      "nl": {
+        "hook": "Dat mateloos irritante gevoel bijna op een woord te komen, heeft een echte naam.",
+        "fact": "Het tip-of-the-tongue-fenomeen is de frustrerende ervaring waarbij je een bekend woord niet uit je geheugen kunt ophalen terwijl je zeker weet dat je het kent, vaak terwijl je nog wel gedeeltelijke aanwijzingen herinnert, zoals de eerste letter of het aantal lettergrepen."
+      },
+      "es": {
+        "hook": "Esa sensación exasperante de casi recordar una palabra tiene un nombre de verdad.",
+        "fact": "El fenómeno de la punta de la lengua es la frustrante experiencia de no poder recuperar de la memoria una palabra familiar a pesar de estar seguro de conocerla, a menudo mientras aún se recuerdan pistas parciales como su primera letra o el número de sílabas."
+      }
+    }
   },
   {
     "id": "psychology-031",
@@ -313,7 +751,21 @@
     "tags": [
       "chunking",
       "working-memory"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un numéro de carte bancaire à 16 chiffres est bien plus facile à retenir découpé en quatre groupes de quatre.",
+        "fact": "Le chunking est une stratégie mnémonique qui regroupe des éléments d'information individuels en unités plus grandes et significatives, permettant à la mémoire de travail de retenir davantage d'informations au total qu'élément par élément."
+      },
+      "nl": {
+        "hook": "Een creditcardnummer van 16 cijfers onthoud je veel makkelijker opgedeeld in vier groepjes van vier.",
+        "fact": "Chunking is een geheugenstrategie waarbij losse stukjes informatie worden samengevoegd tot grotere, betekenisvolle eenheden, waardoor het werkgeheugen in totaal meer informatie kan vasthouden dan wanneer het item voor item zou moeten onthouden."
+      },
+      "es": {
+        "hook": "Un número de tarjeta de crédito de 16 dígitos es mucho más fácil de recordar dividido en cuatro grupos de cuatro.",
+        "fact": "El chunking (agrupamiento) es una estrategia de memoria que agrupa piezas individuales de información en unidades más grandes y significativas, permitiendo que la memoria de trabajo retenga en total más información de la que podría elemento por elemento."
+      }
+    }
   },
   {
     "id": "psychology-032",
@@ -323,7 +775,21 @@
     "tags": [
       "working-memory",
       "cognitive-capacity"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre mémoire à court terme ne peut vraiment jongler qu'avec trois ou quatre éléments à la fois.",
+        "fact": "Des recherches plus récentes ont révisé l'estimation classique de l'empan mnésique, suggérant que la capacité réelle de la mémoire de travail pour des éléments sans lien est plus proche de trois ou quatre unités que du chiffre bien plus élevé souvent admis."
+      },
+      "nl": {
+        "hook": "Je kortetermijngeheugen kan écht maar zo'n drie of vier dingen tegelijk jongleren.",
+        "fact": "Recenter onderzoek heeft de klassieke schatting van de geheugenspanne bijgesteld en suggereert dat de werkelijke capaciteit van het werkgeheugen voor niet-gerelateerde items dichter bij drie of vier eenheden ligt dan bij het veel grotere getal dat vaak wordt aangenomen."
+      },
+      "es": {
+        "hook": "Tu memoria a corto plazo en realidad solo puede hacer malabares con tres o cuatro cosas a la vez.",
+        "fact": "Investigaciones más recientes han revisado la estimación clásica del alcance de la memoria, sugiriendo que la capacidad real de la memoria de trabajo para elementos no relacionados está más cerca de tres o cuatro unidades que del número mucho mayor que suele suponerse."
+      }
+    }
   },
   {
     "id": "psychology-033",
@@ -333,7 +799,21 @@
     "tags": [
       "memory-reconsolidation",
       "memory-distortion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque fois que vous vous souvenez de quelque chose, vous le réécrivez discrètement.",
+        "fact": "Lorsqu'un souvenir est rappelé, il devient brièvement instable et doit être reconsolidé dans la mémoire à long terme, un processus durant lequel il peut être subtilement modifié par de nouvelles informations ou par votre état émotionnel du moment."
+      },
+      "nl": {
+        "hook": "Elke keer dat je je iets herinnert, herschrijf je het stiekem een beetje.",
+        "fact": "Wanneer een herinnering wordt opgehaald, wordt ze kortstondig instabiel en moet ze opnieuw worden geconsolideerd in het langetermijngeheugen, een proces waarbij ze subtiel kan worden aangepast door nieuwe informatie of je huidige gemoedstoestand."
+      },
+      "es": {
+        "hook": "Cada vez que recuerdas algo, lo reescribes en silencio un poco.",
+        "fact": "Cuando se recupera un recuerdo, este se vuelve brevemente inestable y debe reconsolidarse en el almacenamiento a largo plazo, un proceso durante el cual puede alterarse sutilmente por información nueva o por tu estado emocional actual."
+      }
+    }
   },
   {
     "id": "psychology-034",
@@ -343,7 +823,21 @@
     "tags": [
       "source-monitoring",
       "memory-errors"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "On peut se « souvenir » parfaitement d'un fait tout en se trompant complètement sur son origine.",
+        "fact": "Une erreur de surveillance de la source se produit quand quelqu'un se rappelle correctement une information mais se trompe sur l'endroit, le moment ou la façon dont il l'a apprise, par exemple en confondant quelque chose qu'il a lu avec quelque chose qu'un ami lui a raconté."
+      },
+      "nl": {
+        "hook": "Je kunt een feit perfect 'onthouden' terwijl je het totaal mis hebt over waar je het geleerd hebt.",
+        "fact": "Een bronmonitoringfout ontstaat wanneer iemand een stukje informatie correct herinnert, maar zich vergist over waar, wanneer of hoe die informatie is geleerd, bijvoorbeeld door iets wat hij heeft gelezen te verwarren met iets wat een vriend hem heeft verteld."
+      },
+      "es": {
+        "hook": "Puedes 'recordar' un dato perfectamente y equivocarte por completo sobre dónde lo aprendiste.",
+        "fact": "Un error de monitoreo de la fuente ocurre cuando alguien recuerda correctamente un dato, pero se equivoca sobre dónde, cuándo o cómo lo aprendió, por ejemplo al confundir algo que leyó con algo que le contó un amigo."
+      }
+    }
   },
   {
     "id": "psychology-035",
@@ -353,7 +847,21 @@
     "tags": [
       "deja-vu",
       "perception"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Cette sensation étrange d'avoir déjà vécu exactement ce moment est probablement un raté de la mémoire.",
+        "fact": "Le déjà-vu se produirait lorsqu'une nouvelle expérience déclenche un fort sentiment de familiarité sans qu'aucun souvenir précis n'y soit réellement rattaché, peut-être à cause d'un bref dysfonctionnement dans le processus habituel de mise en correspondance de la mémoire par le cerveau."
+      },
+      "nl": {
+        "hook": "Dat griezelige gevoel dit exacte moment al eens te hebben meegemaakt, is waarschijnlijk een geheugenstoringetje.",
+        "fact": "Deja vu zou ontstaan wanneer een nieuwe ervaring een sterk gevoel van herkenning oproept zonder dat daar een specifieke herinnering aan verbonden is, mogelijk door een kortstondige storing in het gebruikelijke geheugenvergelijkingsproces van de hersenen."
+      },
+      "es": {
+        "hook": "Esa sensación inquietante de haber vivido este momento exacto antes probablemente sea un fallo de la memoria.",
+        "fact": "Se cree que el déjà vu ocurre cuando una nueva experiencia desencadena una fuerte sensación de familiaridad sin que haya ningún recuerdo específico real asociado a ella, posiblemente debido a un breve desajuste en el proceso habitual del cerebro para comparar recuerdos."
+      }
+    }
   },
   {
     "id": "psychology-036",
@@ -363,7 +871,21 @@
     "tags": [
       "interference",
       "forgetting"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Apprendre l'espagnol peut compliquer le rappel du français que vous connaissiez déjà.",
+        "fact": "L'interférence mnésique se produit lorsque des informations similaires entrent en concurrence et perturbent le rappel, soit parce qu'un nouvel apprentissage rend plus difficile la récupération de souvenirs plus anciens (interférence rétroactive), soit parce que d'anciens souvenirs rendent plus difficile l'apprentissage d'un nouveau contenu similaire (interférence proactive)."
+      },
+      "nl": {
+        "hook": "Spaans leren kan het lastiger maken om het Frans dat je al kende terug te halen.",
+        "fact": "Geheugeninterferentie ontstaat wanneer gelijksoortige informatie met elkaar concurreert en het ophalen verstoort, hetzij doordat nieuw geleerde stof het lastiger maakt om oudere herinneringen terug te halen (retroactieve interferentie), hetzij doordat oude herinneringen het lastiger maken om nieuw, vergelijkbaar materiaal te leren (proactieve interferentie)."
+      },
+      "es": {
+        "hook": "Aprender español puede dificultar recordar el francés que ya sabías.",
+        "fact": "La interferencia de memoria ocurre cuando información similar compite y altera el recuerdo, ya sea porque un aprendizaje nuevo dificulta recuperar recuerdos más antiguos (interferencia retroactiva), o porque los recuerdos antiguos dificultan aprender material nuevo y similar (interferencia proactiva)."
+      }
+    }
   },
   {
     "id": "psychology-037",
@@ -373,7 +895,21 @@
     "tags": [
       "method-of-loci",
       "mnemonics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les champions de mémoire n'ont pas un cerveau hors norme, ils utilisent une technique vieille de plus de deux mille ans.",
+        "fact": "La méthode des loci est une technique mnémotechnique consistant à placer mentalement des informations à des endroits précis le long d'un trajet familier, comme les pièces de sa maison, puis à les récupérer en parcourant mentalement ce trajet à nouveau."
+      },
+      "nl": {
+        "hook": "Geheugenkampioenen hebben geen bijzonder brein, ze gebruiken een techniek van meer dan tweeduizend jaar oud.",
+        "fact": "De loci-methode is een geheugentechniek waarbij informatie mentaal wordt geplaatst op specifieke plekken langs een vertrouwde route, zoals kamers in je huis, om vervolgens te worden opgehaald door die route in gedachten opnieuw af te lopen."
+      },
+      "es": {
+        "hook": "Los campeones de memoria no tienen un cerebro fuera de lo común, usan una técnica de más de dos mil años de antigüedad.",
+        "fact": "El método de loci es una técnica mnemotécnica en la que la información se coloca mentalmente en lugares concretos a lo largo de un recorrido familiar, como las habitaciones de tu casa, para luego recuperarla recorriendo mentalmente ese trayecto de nuevo."
+      }
+    }
   },
   {
     "id": "psychology-038",
@@ -384,7 +920,24 @@
     "tags": [
       "eyewitness-memory",
       "memory-accuracy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un témoignage oculaire donné avec assurance n'est pas la même chose qu'un témoignage exact.",
+        "fact": "Des décennies de recherche sur la mémoire montrent que les identifications par témoin oculaire sont souvent peu fiables et peuvent être faussées par le stress, la focalisation sur une arme, la difficulté d'identification entre groupes ethniques différents, et la formulation exacte des questions, quel que soit le degré de confiance ressenti par le témoin par la suite.",
+        "whyItMatters": "L'identification erronée par un témoin oculaire est l'un des principaux facteurs contribuant aux condamnations injustifiées ensuite annulées grâce à des preuves ADN."
+      },
+      "nl": {
+        "hook": "Zelfverzekerde ooggetuigenverklaringen zijn niet hetzelfde als accurate ooggetuigenverklaringen.",
+        "fact": "Decennia aan geheugenonderzoek tonen aan dat identificaties door ooggetuigen vaak onbetrouwbaar zijn en kunnen worden vertekend door stress, focus op een wapen, de moeilijkheid van identificatie over etnische grenzen heen, en de exacte formulering van vragen, ongeacht hoe zeker de getuige zich achteraf voelt.",
+        "whyItMatters": "Foutieve ooggetuigenidentificatie is een van de belangrijkste bijdragende factoren bij gerechtelijke dwalingen die later door DNA-bewijs zijn teruggedraaid."
+      },
+      "es": {
+        "hook": "Un testimonio ocular dado con seguridad no es lo mismo que un testimonio ocular preciso.",
+        "fact": "Décadas de investigación sobre la memoria muestran que las identificaciones de testigos oculares suelen ser poco fiables y pueden distorsionarse por el estrés, la atención puesta en un arma, la dificultad de identificación entre grupos étnicos distintos, y la formulación exacta de las preguntas, sin importar cuán segura se sienta la persona testigo después.",
+        "whyItMatters": "La identificación errónea por parte de testigos oculares es uno de los principales factores que contribuyen a las condenas injustas que luego han sido revocadas gracias a pruebas de ADN."
+      }
+    }
   },
   {
     "id": "psychology-039",
@@ -394,7 +947,21 @@
     "tags": [
       "generation-effect",
       "learning"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une information que vous trouvez vous-même reste mieux en mémoire qu'une information qu'on vous donne toute faite.",
+        "fact": "L'effet de génération montre que les gens retiennent nettement mieux un contenu lorsqu'ils le produisent activement eux-mêmes, par exemple en complétant un mot manquant à partir d'un indice, que lorsqu'ils lisent passivement le même contenu déjà complet."
+      },
+      "nl": {
+        "hook": "Informatie die je zelf bedenkt, blijft beter hangen dan informatie die je gewoon krijgt aangereikt.",
+        "fact": "Het generatie-effect toont aan dat mensen materiaal aanzienlijk beter onthouden wanneer ze het actief zelf produceren, bijvoorbeeld door een ontbrekend woord in te vullen op basis van een aanwijzing, dan wanneer ze hetzelfde afgeronde materiaal passief lezen."
+      },
+      "es": {
+        "hook": "La información que se te ocurre a ti mismo se queda mejor que la que simplemente te dan.",
+        "fact": "El efecto de generación muestra que las personas recuerdan el material significativamente mejor cuando lo generan ellas mismas de forma activa, por ejemplo completando una palabra que falta a partir de una pista, en comparación con leer pasivamente el mismo material ya terminado."
+      }
+    }
   },
   {
     "id": "psychology-040",
@@ -404,7 +971,21 @@
     "tags": [
       "reconstructive-memory",
       "memory-distortion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La mémoire fonctionne plus comme un récit recréé que comme un enregistrement vidéo.",
+        "fact": "La mémoire humaine n'est pas un enregistrement parfait ; à chaque récupération, le cerveau la reconstruit en combinant des détails d'origine avec les croyances, attentes et connaissances actuelles, ce qui explique pourquoi les souvenirs peuvent évoluer avec le temps sans que la personne s'en rende compte."
+      },
+      "nl": {
+        "hook": "Geheugen werkt meer als een creatief navertellen dan als een video-opname.",
+        "fact": "Het menselijk geheugen is geen perfecte opname; telkens wanneer een herinnering wordt opgehaald, reconstrueert het brein die aan de hand van zowel de oorspronkelijke details als de huidige overtuigingen, verwachtingen en kennis, waardoor herinneringen na verloop van tijd kunnen veranderen zonder dat iemand dat merkt."
+      },
+      "es": {
+        "hook": "La memoria funciona más como un relato recreado que como una grabación de video.",
+        "fact": "La memoria humana no es una grabación perfecta; cada vez que se recupera, el cerebro la reconstruye combinando los detalles originales con las creencias, expectativas y conocimientos actuales, lo que explica por qué los recuerdos pueden cambiar con el tiempo sin que la persona se dé cuenta."
+      }
+    }
   },
   {
     "id": "psychology-041",

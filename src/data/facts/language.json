@@ -1996,7 +1996,21 @@
     "tags": [
       "eponym",
       "food-drink"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le sandwich doit son nom à un joueur compulsif.",
+        "fact": "Le sandwich est généralement attribué à John Montagu, 4e comte de Sandwich, qui aurait demandé que de la viande lui soit servie entre deux tranches de pain afin de pouvoir continuer à jouer aux cartes sans interrompre la partie pour utiliser des couverts."
+      },
+      "nl": {
+        "hook": "De sandwich is vernoemd naar een compulsieve gokker.",
+        "fact": "De sandwich wordt algemeen toegeschreven aan John Montagu, de 4e graaf van Sandwich, die naar verluidt vroeg om vlees tussen sneetjes brood te krijgen, zodat hij aan de kaarttafel kon blijven gokken zonder te stoppen om bestek te gebruiken."
+      },
+      "es": {
+        "hook": "El sándwich debe su nombre a un jugador compulsivo.",
+        "fact": "El sándwich se atribuye popularmente a John Montagu, cuarto conde de Sandwich, quien supuestamente pidió que le sirvieran carne entre rebanadas de pan para poder seguir jugando a las cartas sin detenerse a usar cubiertos."
+      }
+    }
   },
   {
     "id": "language-082",
@@ -2006,7 +2020,21 @@
     "tags": [
       "eponym",
       "french-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Silhouette » doit son nom à un ministre des Finances réputé pour son avarice.",
+        "fact": "Le mot « silhouette » vient d'Étienne de Silhouette, ministre des Finances de la France en 1759, dont les mesures d'austérité sévères ont fait de son nom un synonyme de tout ce qui était fait à moindre coût, y compris les portraits en papier découpé bon marché qui ont ensuite pris son nom."
+      },
+      "nl": {
+        "hook": "\"Silhouet\" is vernoemd naar een berucht gierige minister van Financiën.",
+        "fact": "Silhouet komt van Étienne de Silhouette, de Franse minister van Financiën in 1759, wiens strenge bezuinigingsmaatregelen zijn naam synoniem maakten voor alles wat goedkoop werd gedaan, inclusief de goedkope uitgeknipte papieren portretten die later zijn naam kregen."
+      },
+      "es": {
+        "hook": "\"Silueta\" debe su nombre a un ministro de Finanzas tacaño.",
+        "fact": "Silueta proviene de Étienne de Silhouette, ministro de Finanzas de Francia en 1759, cuyas severas medidas de recorte presupuestario convirtieron su nombre en sinónimo de todo lo hecho de forma barata, incluidos los económicos retratos recortados en papel que más tarde adoptaron su nombre."
+      }
+    }
   },
   {
     "id": "language-083",
@@ -2016,7 +2044,21 @@
     "tags": [
       "eponym",
       "french-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La guillotine doit son nom à l'homme qui l'a proposée, pas inventée.",
+        "fact": "La guillotine tire son nom du docteur Joseph-Ignace Guillotin, un médecin français qui, en 1789, proposa cet appareil à l'Assemblée nationale comme une méthode d'exécution plus rapide, plus humaine et plus égalitaire que les méthodes existantes. Il n'a ni inventé la machine, ni péri par elle."
+      },
+      "nl": {
+        "hook": "De guillotine is vernoemd naar de man die haar voorstelde, niet uitvond.",
+        "fact": "De guillotine ontleent haar naam aan dr. Joseph-Ignace Guillotin, een Franse arts die in 1789 het apparaat voorstelde aan de Nationale Vergadering als een snellere, humanere en gelijkwaardigere executiemethode dan de bestaande. Hij heeft de machine noch uitgevonden, noch is hij erdoor omgekomen."
+      },
+      "es": {
+        "hook": "La guillotina debe su nombre al hombre que la propuso, no al que la inventó.",
+        "fact": "La guillotina toma su nombre del doctor Joseph-Ignace Guillotin, un médico francés que en 1789 propuso el dispositivo a la Asamblea Nacional como un método de ejecución más rápido, humano e igualitario que los existentes. Él no inventó la máquina ni murió a causa de ella."
+      }
+    }
   },
   {
     "id": "language-084",
@@ -2026,7 +2068,21 @@
     "tags": [
       "eponym",
       "french-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La nicotine doit son nom à l'homme qui a introduit le tabac en France.",
+        "fact": "La nicotine tient son nom de Jean Nicot, un diplomate français qui envoya des graines et des plants de tabac à la cour royale française dans les années 1560, vantant les prétendues vertus médicinales de la plante."
+      },
+      "nl": {
+        "hook": "Nicotine is vernoemd naar de man die tabak in Frankrijk introduceerde.",
+        "fact": "Nicotine is vernoemd naar Jean Nicot, een Franse diplomaat die in de jaren 1560 tabakszaden en -planten naar het Franse koninklijke hof stuurde en de vermeende geneeskrachtige eigenschappen van de plant promootte."
+      },
+      "es": {
+        "hook": "La nicotina debe su nombre al hombre que introdujo el tabaco en Francia.",
+        "fact": "La nicotina debe su nombre a Jean Nicot, un diplomático francés que envió semillas y plantas de tabaco a la corte real francesa en la década de 1560, promoviendo las supuestas propiedades medicinales de la planta."
+      }
+    }
   },
   {
     "id": "language-085",
@@ -2036,7 +2092,21 @@
     "tags": [
       "eponym",
       "military"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le cardigan doit son nom à un commandant de la guerre de Crimée.",
+        "fact": "Le cardigan doit son nom à James Brudenell, 7e comte de Cardigan, l'officier de cavalerie britannique qui mena la désastreuse charge de la brigade légère pendant la guerre de Crimée. Ce vêtement tricoté à boutons a fini par être associé à lui ou aux officiers de son régiment."
+      },
+      "nl": {
+        "hook": "Het vest \"cardigan\" is vernoemd naar een bevelhebber uit de Krimoorlog.",
+        "fact": "Cardigan is vernoemd naar James Brudenell, de 7e graaf van Cardigan, de Britse cavalerieofficier die de rampzalige aanval van de Lichte Brigade tijdens de Krimoorlog leidde. Het gebreide vest met knopen raakte geassocieerd met hem of de officieren van zijn regiment."
+      },
+      "es": {
+        "hook": "El suéter cárdigan debe su nombre a un comandante de la guerra de Crimea.",
+        "fact": "El cárdigan debe su nombre a James Brudenell, séptimo conde de Cardigan, el oficial de caballería británico que lideró la desastrosa Carga de la Brigada Ligera en la guerra de Crimea. La prenda tejida y abotonada acabó asociándose con él o con los oficiales de su regimiento."
+      }
+    }
   },
   {
     "id": "language-086",
@@ -2046,7 +2116,21 @@
     "tags": [
       "eponym",
       "performance"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le justaucorps doit son nom à un trapéziste français.",
+        "fact": "Le justaucorps (« leotard » en anglais) doit son nom à Jules Léotard, un acrobate français du XIXe siècle qui popularisa ce vêtement moulant d'une seule pièce pour les numéros de trapèze, et qui inspira la chanson « The Daring Young Man on the Flying Trapeze » (« Le jeune homme intrépide sur le trapèze volant »)."
+      },
+      "nl": {
+        "hook": "Het leotard-pak is vernoemd naar een Franse trapezeartiest.",
+        "fact": "Leotard is vernoemd naar Jules Léotard, een 19e-eeuwse Franse acrobaat die het strakke eendelige kledingstuk voor trapezenummers populair maakte en die het lied \"The Daring Young Man on the Flying Trapeze\" (\"De dappere jongeman aan de vliegende trapeze\") inspireerde."
+      },
+      "es": {
+        "hook": "El leotardo debe su nombre a un trapecista francés.",
+        "fact": "El leotardo debe su nombre a Jules Léotard, un acróbata francés del siglo XIX que popularizó la prenda ajustada de una sola pieza para las actuaciones de trapecio e inspiró la canción \"The Daring Young Man on the Flying Trapeze\" (\"El joven audaz del trapecio volador\")."
+      }
+    }
   },
   {
     "id": "language-087",
@@ -2056,7 +2140,21 @@
     "tags": [
       "eponym",
       "american-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Maverick » doit son nom à un éleveur qui refusait de marquer son bétail.",
+        "fact": "Le mot anglais « maverick » vient de Samuel Maverick, un éleveur et avocat texan du XIXe siècle connu pour ne jamais marquer son bétail au fer rouge. Tout veau errant et non marqué de la région devint « a maverick », et le mot en vint à désigner toute personne indépendante et peu conventionnelle."
+      },
+      "nl": {
+        "hook": "\"Maverick\" is vernoemd naar een veehouder die zijn vee niet wilde brandmerken.",
+        "fact": "Het Engelse woord \"maverick\" komt van Samuel Maverick, een 19e-eeuwse Texaanse veehouder en advocaat die zijn vee nooit brandmerkte. Elk verdwaald, ongemerkt kalf in de omgeving werd bekend als \"a maverick\", en het woord kreeg de bredere betekenis van een onafhankelijk, onconventioneel persoon."
+      },
+      "es": {
+        "hook": "\"Maverick\" debe su nombre a un ganadero que se negaba a marcar su ganado.",
+        "fact": "La palabra inglesa \"maverick\" proviene de Samuel Maverick, un ganadero y abogado texano del siglo XIX famoso por no marcar nunca su ganado. Cualquier ternero suelto y sin marcar de la zona pasó a conocerse como \"a maverick\", y la palabra se extendió para referirse a cualquier persona independiente y poco convencional."
+      }
+    }
   },
   {
     "id": "language-088",
@@ -2066,7 +2164,21 @@
     "tags": [
       "eponym",
       "french-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le « chauvinisme » doit son nom à un soldat dont l'histoire tient peut-être en partie de la légende.",
+        "fact": "Le chauvinisme tire son nom de Nicolas Chauvin, un soldat français réputé pour son dévouement excessif et aveugle envers Napoléon. Les historiens débattent de la part d'exagération ou de fiction dans son histoire, mais le mot désignant un patriotisme fanatique et aveugle s'est imposé malgré tout."
+      },
+      "nl": {
+        "hook": "\"Chauvinisme\" is vernoemd naar een soldaat wiens verhaal deels legende kan zijn.",
+        "fact": "Chauvinisme komt van Nicolas Chauvin, een Franse soldaat die naar verluidt overdreven en kritiekloos toegewijd was aan Napoleon. Historici twisten over hoeveel van zijn verhaal overdreven of verzonnen is, maar het woord voor fanatiek, blind patriottisme bleef desondanks bestaan."
+      },
+      "es": {
+        "hook": "\"Chovinismo\" debe su nombre a un soldado cuya historia podría ser en parte leyenda.",
+        "fact": "El chovinismo proviene de Nicolas Chauvin, un soldado francés que, según se dice, estaba excesiva y acríticamente entregado a Napoleón. Los historiadores debaten cuánto de su historia está exagerado o es ficticio, pero la palabra para un patriotismo fanático y ciego perduró de todos modos."
+      }
+    }
   },
   {
     "id": "language-089",
@@ -2078,7 +2190,24 @@
       "eponym",
       "american-history",
       "politics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Gerrymander » doit son nom à un gouverneur et à une salamandre.",
+        "fact": "Le mot anglais « gerrymander » fut inventé en 1812 après que le gouverneur du Massachusetts, Elbridge Gerry, eut signé une loi créant une circonscription électorale à la forme étrange, qu'un caricaturiste de presse trouva semblable à une salamandre. Le journal fusionna « Gerry » et « salamander » (salamandre) en un nouveau mot désignant la manipulation des limites électorales.",
+        "whyItMatters": "La pratique que décrit ce mot, le découpage des circonscriptions électorales pour favoriser un parti, reste aujourd'hui un enjeu majeur et vivement contesté lors des élections."
+      },
+      "nl": {
+        "hook": "\"Gerrymander\" is vernoemd naar een gouverneur en een salamander.",
+        "fact": "Het woord \"gerrymander\" werd in 1812 bedacht nadat gouverneur Elbridge Gerry van Massachusetts een wet ondertekende die een vreemd gevormd kiesdistrict creëerde, dat een politiek cartoonist deed denken aan een salamander. De krant smolt \"Gerry\" en \"salamander\" samen tot een nieuw woord voor het manipuleren van kiesdistrictsgrenzen.",
+        "whyItMatters": "De praktijk die het woord beschrijft, het zo tekenen van kiesdistricten dat één partij bevoordeeld wordt, blijft vandaag de dag een groot en fel omstreden onderwerp bij verkiezingen."
+      },
+      "es": {
+        "hook": "\"Gerrymander\" debe su nombre a un gobernador y una salamandra.",
+        "fact": "La palabra \"gerrymander\" se acuñó en 1812 después de que el gobernador de Massachusetts, Elbridge Gerry, firmara una ley que creaba un distrito electoral de forma extraña que, según un caricaturista de un periódico, se parecía a una salamandra. El periódico fusionó \"Gerry\" y \"salamander\" (salamandra) en una nueva palabra para designar la manipulación de los límites electorales.",
+        "whyItMatters": "La práctica que describe la palabra, trazar los distritos electorales para favorecer a un partido, sigue siendo hoy un tema importante y muy disputado en las elecciones."
+      }
+    }
   },
   {
     "id": "language-090",
@@ -2088,7 +2217,21 @@
     "tags": [
       "eponym",
       "american-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Sideburns » est une version brouillée du nom d'un général.",
+        "fact": "Le mot anglais « sideburns » (favoris) doit son nom au général de l'Union Ambrose Burnside, pendant la guerre de Sécession, connu pour sa pilosité faciale caractéristique reliée à sa moustache. Le style s'appelait d'abord « burnsides », avant que les deux syllabes ne s'inversent en « sideburns »."
+      },
+      "nl": {
+        "hook": "\"Sideburns\" is een omgekeerde versie van de achternaam van een generaal.",
+        "fact": "Het Engelse woord \"sideburns\" (bakkebaarden) is vernoemd naar de Noordelijke burgeroorlogsgeneraal Ambrose Burnside, bekend om zijn kenmerkende gezichtsbeharing die aansloot op zijn snor. De stijl werd eerst \"burnsides\" genoemd, waarna de twee lettergrepen later omgedraaid werden tot \"sideburns\"."
+      },
+      "es": {
+        "hook": "\"Sideburns\" es una versión invertida del apellido de un general.",
+        "fact": "La palabra inglesa \"sideburns\" (patillas) debe su nombre al general de la Unión Ambrose Burnside, de la guerra de Secesión, conocido por su distintivo vello facial conectado con el bigote. El estilo se llamó primero \"burnsides\", y más tarde las dos sílabas se invirtieron para formar \"sideburns\"."
+      }
+    }
   },
   {
     "id": "language-091",
@@ -2098,7 +2241,21 @@
     "tags": [
       "eponym",
       "military"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « shrapnel » doit son nom à l'officier d'artillerie qui l'a inventé.",
+        "fact": "Le shrapnel doit son nom à l'officier d'artillerie britannique Henry Shrapnel, qui mit au point, à la fin du XVIIIe et au début du XIXe siècle, un obus antipersonnel explosif conçu pour disperser des éclats de métal sur une large zone."
+      },
+      "nl": {
+        "hook": "Shrapnel is vernoemd naar de artillerie-officier die het uitvond.",
+        "fact": "Shrapnel is vernoemd naar de Britse artillerie-officier Henry Shrapnel, die eind 18e en begin 19e eeuw een exploderende antipersoneelsgranaat ontwikkelde die bedoeld was om metalen fragmenten over een groot gebied te verspreiden."
+      },
+      "es": {
+        "hook": "La metralla (shrapnel) debe su nombre al oficial de artillería que la inventó.",
+        "fact": "El término shrapnel debe su nombre al oficial de artillería británico Henry Shrapnel, quien desarrolló a finales del siglo XVIII y principios del XIX un proyectil antipersona explosivo diseñado para dispersar fragmentos de metal sobre una amplia zona."
+      }
+    }
   },
   {
     "id": "language-092",
@@ -2108,7 +2265,21 @@
     "tags": [
       "american-history",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Jumping on the bandwagon » vient de véritables parades de cirque.",
+        "fact": "L'expression anglaise vient des parades de cirque et des cortèges politiques américains du XIXe siècle, où un chariot, le « bandwagon », transportait la fanfare. Les partisans d'un candidat politique populaire montaient sur ce chariot pour afficher publiquement leur soutien."
+      },
+      "nl": {
+        "hook": "\"Jumping on the bandwagon\" komt van echte circusparades.",
+        "fact": "De Engelse uitdrukking komt van 19e-eeuwse Amerikaanse circus- en politieke optochten, waarbij een wagen, de \"bandwagon\", de band vervoerde. Aanhangers van een populaire politieke kandidaat klommen op die letterlijke wagen om publiekelijk hun steun te tonen."
+      },
+      "es": {
+        "hook": "\"Jumping on the bandwagon\" viene de auténticos desfiles de circo.",
+        "fact": "La expresión inglesa proviene de los desfiles de circo y políticos estadounidenses del siglo XIX, en los que un carromato, el \"bandwagon\", transportaba a la banda de música. Los partidarios de un candidato político popular se subían a ese carromato literal para mostrar públicamente su apoyo."
+      }
+    }
   },
   {
     "id": "language-093",
@@ -2118,7 +2289,21 @@
     "tags": [
       "horse-racing",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un « dark horse » était à l'origine un cheval de course inconnu de tous.",
+        "fact": "L'expression anglaise « dark horse » vient des courses hippiques et désigne un concurrent dont les capacités sont inconnues des parieurs, faute d'informations en circulation. Elle fut popularisée par un roman de Benjamin Disraeli en 1831, avant de s'étendre à la politique pour désigner des candidats inattendus."
+      },
+      "nl": {
+        "hook": "Een \"dark horse\" was oorspronkelijk een renpaard waar niemand iets van wist.",
+        "fact": "De Engelse uitdrukking \"dark horse\" komt uit de paardenrensport en beschrijft een deelnemer wiens kwaliteiten onbekend zijn bij de gokkers omdat er weinig informatie over circuleerde. De uitdrukking werd populair gemaakt door een roman van Benjamin Disraeli uit 1831, voordat ze doorsijpelde naar de politiek voor onverwachte kandidaten."
+      },
+      "es": {
+        "hook": "Un \"dark horse\" era originalmente un caballo de carreras del que nadie sabía nada.",
+        "fact": "La expresión inglesa \"dark horse\" proviene de las carreras de caballos y describe a un competidor cuya capacidad es desconocida para los apostadores porque circulaba poca información sobre él. La expresión se popularizó en una novela de Benjamin Disraeli de 1831 antes de extenderse a la política para referirse a candidatos inesperados."
+      }
+    }
   },
   {
     "id": "language-094",
@@ -2128,7 +2313,21 @@
     "tags": [
       "nautical",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Under the weather » vient des marins malades envoyés sous le pont.",
+        "fact": "Cette expression aurait une origine maritime souvent citée : un marin tombé malade était envoyé sous le pont, à l'abri du vent, de la pluie et des intempéries sur le pont exposé, pour s'y rétablir loin du mauvais temps."
+      },
+      "nl": {
+        "hook": "\"Under the weather\" komt van zieke matrozen die onderdeks werden gestuurd.",
+        "fact": "De uitdrukking heeft een vaak aangehaalde maritieme oorsprong: een matroos die ziek werd, werd onderdeks gestuurd, weg van de wind, regen en ruwe omstandigheden op het blootgestelde dek, om te herstellen, letterlijk \"buiten het weer\"."
+      },
+      "es": {
+        "hook": "\"Under the weather\" viene de marineros enfermos enviados bajo cubierta.",
+        "fact": "La expresión tiene un origen náutico frecuentemente citado: a un marinero que caía enfermo se le enviaba bajo cubierta, lejos del viento, la lluvia y las condiciones adversas de la cubierta expuesta, para que se recuperara resguardado del mal tiempo."
+      }
+    }
   },
   {
     "id": "language-095",
@@ -2138,7 +2337,21 @@
     "tags": [
       "nautical",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Showing your true colors » vient des navires de guerre qui arboraient de faux drapeaux.",
+        "fact": "L'expression vient de la guerre navale, où un navire pouvait hisser un faux pavillon pour approcher un vaisseau ennemi sans être repéré, ne levant son véritable drapeau national, ses « vraies couleurs », qu'au moment de l'attaque."
+      },
+      "nl": {
+        "hook": "\"Showing your true colors\" komt van oorlogsschepen die valse vlaggen hesen.",
+        "fact": "De uitdrukking komt uit de zeeoorlogvoering, waar een schip een valse vlag kon voeren om ongezien een vijandelijk vaartuig te naderen, en pas op het moment van de aanval zijn echte nationale vlag, zijn \"ware kleuren\", hees."
+      },
+      "es": {
+        "hook": "\"Showing your true colors\" viene de barcos de guerra que enarbolaban banderas falsas.",
+        "fact": "La expresión proviene de la guerra naval, donde un barco podía izar una bandera falsa para acercarse a un buque enemigo sin ser detectado, y solo izaba su verdadera bandera nacional, sus \"verdaderos colores\", en el momento del ataque."
+      }
+    }
   },
   {
     "id": "language-096",
@@ -2148,7 +2361,21 @@
     "tags": [
       "nautical",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« The doldrums » est un véritable lieu, pas seulement un état d'esprit.",
+        "fact": "Le mot « doldrums » désigne une région océanique équatoriale précise, connue pour ses vents calmes et imprévisibles, où les navires à voile pouvaient rester bloqués, parfois pendant des semaines, sans pouvoir avancer. Le nom en est venu à désigner de façon générale une période de stagnation ou de morosité."
+      },
+      "nl": {
+        "hook": "\"The doldrums\" is een echte plek, niet alleen een gemoedstoestand.",
+        "fact": "\"The doldrums\" verwijst naar een specifiek equatoriaal oceaangebied dat bekendstaat om zijn kalme, onvoorspelbare winden, waar zeilschepen soms wekenlang gestrand konden raken zonder vooruitgang te kunnen boeken. De naam werd een algemene term voor een periode van stilstand of neerslachtigheid."
+      },
+      "es": {
+        "hook": "\"The doldrums\" es un lugar real, no solo un estado de ánimo.",
+        "fact": "\"The doldrums\" se refiere a una región oceánica ecuatorial concreta, conocida por sus vientos calmos e impredecibles, donde los veleros podían quedar varados, a veces durante semanas, sin poder avanzar. El nombre pasó a designar de forma general un período de estancamiento o desánimo."
+      }
+    }
   },
   {
     "id": "language-097",
@@ -2158,7 +2385,21 @@
     "tags": [
       "nautical",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un « loose cannon » était un véritable danger à bord des navires.",
+        "fact": "L'expression vient des navires à voile, où un lourd canon échappé de ses amarres pouvait rouler de façon imprévisible et dangereuse sur le pont par gros temps, capable d'écraser un membre d'équipage ou de percer la coque."
+      },
+      "nl": {
+        "hook": "Een \"loose cannon\" was een reëel gevaar aan boord.",
+        "fact": "De uitdrukking komt van zeilschepen, waar een zwaar kanon dat losbrak van zijn bevestiging bij ruwe zee onvoorspelbaar en gevaarlijk over het dek kon rollen, in staat om bemanningsleden te verpletteren of de romp te doorboren."
+      },
+      "es": {
+        "hook": "Un \"loose cannon\" era un peligro real a bordo.",
+        "fact": "La expresión proviene de los veleros, donde un pesado cañón que se soltaba de sus amarras podía rodar de forma impredecible y peligrosa por la cubierta en mares agitados, capaz de aplastar a la tripulación o perforar el casco."
+      }
+    }
   },
   {
     "id": "language-098",
@@ -2168,7 +2409,21 @@
     "tags": [
       "nautical",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Knowing the ropes » signifiait autrefois connaître littéralement le gréement d'un navire.",
+        "fact": "L'expression vient des navires à voile, où un marin compétent devait mémoriser la fonction de dizaines de cordages différents contrôlant les voiles et le gréement, un savoir essentiel pour manœuvrer le navire en toute sécurité."
+      },
+      "nl": {
+        "hook": "\"Knowing the ropes\" betekende ooit letterlijk het tuigage van een schip kennen.",
+        "fact": "De uitdrukking komt van zeilschepen, waar een bekwame matroos de functie van tientallen verschillende touwen die de zeilen en het tuigage bestuurden uit het hoofd moest kennen, essentiële kennis om het schip veilig te bedienen."
+      },
+      "es": {
+        "hook": "\"Knowing the ropes\" antes significaba conocer literalmente el aparejo de un barco.",
+        "fact": "La expresión proviene de los veleros, donde un marinero competente debía memorizar la función de docenas de cabos diferentes que controlaban las velas y el aparejo, un conocimiento esencial para maniobrar el barco con seguridad."
+      }
+    }
   },
   {
     "id": "language-099",
@@ -2179,7 +2434,21 @@
       "games",
       "idiom-origin",
       "american-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Passing the buck » vient d'un jeton utilisé au poker.",
+        "fact": "L'expression vient du poker américain, où un jeton appelé « buck », parfois un couteau au manche en corne de cerf, circulait entre les joueurs pour indiquer à qui revenait le tour de distribuer les cartes. C'est aussi l'origine de la pancarte sur le bureau du président Truman, « The buck stops here » (« C'est ici que ça s'arrête »)."
+      },
+      "nl": {
+        "hook": "\"Passing the buck\" komt van een fiche die bij poker werd gebruikt.",
+        "fact": "De uitdrukking komt van Amerikaans poker, waar een fiche genaamd \"buck\", soms een mes met een handvat van hertshoorn, tussen spelers werd doorgegeven om aan te geven wie aan de beurt was om te geven. Het is ook de oorsprong van het bordje op het bureau van president Truman, \"The buck stops here\" (\"Hier stopt de verantwoordelijkheid\")."
+      },
+      "es": {
+        "hook": "\"Passing the buck\" viene de una ficha usada en el póquer.",
+        "fact": "La expresión proviene del póquer estadounidense, donde una ficha llamada \"buck\", a veces una navaja con mango de cuerno de ciervo, se pasaba entre los jugadores para indicar a quién le tocaba repartir. También es el origen del letrero en el escritorio del presidente Truman, \"The buck stops here\" (\"Aquí termina la responsabilidad\")."
+      }
+    }
   },
   {
     "id": "language-100",
@@ -2189,7 +2458,21 @@
     "tags": [
       "film",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Cut to the chase » vient des notes de montage des débuts d'Hollywood.",
+        "fact": "L'expression trouve son origine à l'époque du cinéma muet, quand on conseillait aux réalisateurs et aux monteurs de sauter les longues scènes d'exposition bavardes pour aller droit à la scène de poursuite riche en action que le public voulait voir."
+      },
+      "nl": {
+        "hook": "\"Cut to the chase\" komt van montage-aantekeningen uit het vroege Hollywood.",
+        "fact": "De uitdrukking is ontstaan in het tijdperk van de stomme film, toen regisseurs en editors werd aangeraden lange, praterige opzetscènes over te slaan en direct over te gaan naar de actievolle achtervolgingsscène die het publiek wilde zien."
+      },
+      "es": {
+        "hook": "\"Cut to the chase\" viene de notas de montaje del primer Hollywood.",
+        "fact": "La expresión se originó en la era del cine mudo, cuando se aconsejaba a directores y montadores saltarse las largas escenas de planteamiento habladas e ir directamente a la trepidante escena de persecución que el público quería ver."
+      }
+    }
   },
   {
     "id": "language-101",
@@ -2199,7 +2482,21 @@
     "tags": [
       "language-diversity",
       "papua-new-guinea"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Papouasie-Nouvelle-Guinée est le pays le plus diversifié linguistiquement au monde.",
+        "fact": "Avec plus de 800 langues vivantes parlées par environ 10 millions d'habitants, la Papouasie-Nouvelle-Guinée concentre plus de diversité linguistique par habitant que n'importe où ailleurs, en grande partie parce que son relief montagneux a isolé les villages les uns des autres pendant des millénaires."
+      },
+      "nl": {
+        "hook": "Papoea-Nieuw-Guinea is het taalkundig meest diverse land ter wereld.",
+        "fact": "Met ruim 800 levende talen gesproken door ongeveer 10 miljoen mensen, kent Papoea-Nieuw-Guinea meer taaldiversiteit per hoofd van de bevolking dan waar ook ter wereld, grotendeels omdat het bergachtige terrein dorpen millennialang van elkaar isoleerde."
+      },
+      "es": {
+        "hook": "Papúa Nueva Guinea es el país lingüísticamente más diverso del mundo.",
+        "fact": "Con más de 800 lenguas vivas habladas entre unos 10 millones de personas, Papúa Nueva Guinea reúne más diversidad lingüística per cápita que cualquier otro lugar, en gran parte porque su terreno montañoso aisló a los pueblos entre sí durante milenios."
+      }
+    }
   },
   {
     "id": "language-102",
@@ -2209,7 +2506,21 @@
     "tags": [
       "speakers",
       "mandarin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mandarin compte le plus de locuteurs natifs, mais l'anglais compte le plus de locuteurs au total.",
+        "fact": "Le mandarin arrive en tête pour le nombre de locuteurs natifs, mais une fois les locuteurs de langue seconde comptabilisés, l'anglais le dépasse comme langue comptant le plus de locuteurs au total, en grande partie grâce à son rôle de lingua franca mondiale dans les affaires, les sciences et les voyages."
+      },
+      "nl": {
+        "hook": "Het Mandarijn heeft de meeste moedertaalsprekers, maar het Engels heeft de meeste sprekers in totaal.",
+        "fact": "Mandarijn-Chinees staat op de eerste plaats qua moedertaalsprekers, maar zodra tweedetaalsprekers worden meegeteld, haalt het Engels het in als de taal met de meeste sprekers in totaal, grotendeels dankzij zijn rol als wereldwijde lingua franca in het bedrijfsleven, de wetenschap en het reizen."
+      },
+      "es": {
+        "hook": "El mandarín tiene más hablantes nativos, pero el inglés tiene más hablantes en total.",
+        "fact": "El chino mandarín encabeza la lista de hablantes nativos, pero una vez contados los hablantes de segunda lengua, el inglés lo supera como la lengua con más hablantes en total, en gran parte por su papel como lengua franca mundial en los negocios, la ciencia y los viajes."
+      }
+    }
   },
   {
     "id": "language-103",
@@ -2219,7 +2530,24 @@
     "whyItMatters": "Once a language's last speaker dies without documentation, an entire way of categorizing the world, along with oral histories and songs, is lost permanently.",
     "tags": [
       "endangered-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une langue s'éteint tous les quelques mois.",
+        "fact": "Les linguistes estiment que parmi les quelque 7 000 langues du monde, l'une d'elles perd en moyenne son dernier locuteur courant tous les quelques mois, et la plupart disparaissent sans jamais avoir été entièrement documentées.",
+        "whyItMatters": "Lorsque le dernier locuteur d'une langue meurt sans qu'elle ait été documentée, c'est toute une manière de catégoriser le monde, ainsi que des histoires orales et des chants, qui disparaît définitivement."
+      },
+      "nl": {
+        "hook": "Om de paar maanden valt er ergens een taal stil.",
+        "fact": "Taalkundigen schatten dat van de ongeveer 7.000 talen ter wereld er gemiddeld om de paar maanden één haar laatste vloeiende spreker verliest, en de meeste verdwijnen zonder ooit volledig gedocumenteerd te zijn geweest.",
+        "whyItMatters": "Zodra de laatste spreker van een taal sterft zonder dat die taal is gedocumenteerd, gaat een hele manier om de wereld te categoriseren, samen met mondelinge overleveringen en liederen, voor altijd verloren."
+      },
+      "es": {
+        "hook": "Cada pocos meses una lengua enmudece para siempre.",
+        "fact": "Los lingüistas estiman que, de las aproximadamente 7000 lenguas del mundo, una pierde a su último hablante fluido cada pocos meses en promedio, y la mayoría desaparece sin haber sido documentada por completo.",
+        "whyItMatters": "Cuando el último hablante de una lengua muere sin que esta haya sido documentada, se pierde para siempre toda una forma de clasificar el mundo, junto con historias orales y canciones."
+      }
+    }
   },
   {
     "id": "language-104",
@@ -2228,7 +2556,21 @@
     "fact": "Many researchers project that without active intervention, up to half of the roughly 7,000 languages spoken today will no longer be in use by the end of this century, as smaller communities shift toward dominant national or regional languages.",
     "tags": [
       "endangered-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les linguistes préviennent que la moitié des langues du monde pourrait disparaître d'ici 2100.",
+        "fact": "De nombreux chercheurs estiment que, sans intervention active, jusqu'à la moitié des quelque 7 000 langues parlées aujourd'hui ne seront plus utilisées d'ici la fin du siècle, à mesure que les petites communautés se tournent vers les langues nationales ou régionales dominantes."
+      },
+      "nl": {
+        "hook": "Taalkundigen waarschuwen dat de helft van 's werelds talen tegen 2100 kan verdwijnen.",
+        "fact": "Veel onderzoekers voorspellen dat, zonder actief ingrijpen, tot de helft van de ongeveer 7.000 talen die vandaag gesproken worden tegen het einde van deze eeuw niet meer in gebruik zullen zijn, doordat kleinere gemeenschappen overschakelen op dominante nationale of regionale talen."
+      },
+      "es": {
+        "hook": "Los lingüistas advierten que la mitad de las lenguas del mundo podría desaparecer para 2100.",
+        "fact": "Muchos investigadores prevén que, sin intervención activa, hasta la mitad de las aproximadamente 7000 lenguas habladas hoy dejarán de usarse para finales de este siglo, a medida que las comunidades más pequeñas se decantan por las lenguas nacionales o regionales dominantes."
+      }
+    }
   },
   {
     "id": "language-105",
@@ -2238,7 +2580,21 @@
     "tags": [
       "speakers",
       "language-diversity"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une vingtaine de langues à peine couvrent plus de la moitié de l'humanité.",
+        "fact": "Bien qu'il existe environ 7 000 langues dans le monde, une poignée d'entre elles seulement, dont le mandarin, l'espagnol, l'anglais, l'hindi, l'arabe et le bengali, sont parlées comme langue maternelle par plus de la moitié de la population mondiale."
+      },
+      "nl": {
+        "hook": "Amper enkele tientallen talen dekken meer dan de helft van de mensheid.",
+        "fact": "Hoewel er wereldwijd ongeveer 7.000 talen bestaan, wordt een handvol ervan, waaronder Mandarijn, Spaans, Engels, Hindi, Arabisch en Bengaals, als moedertaal gesproken door meer dan de helft van de wereldbevolking."
+      },
+      "es": {
+        "hook": "Apenas un par de docenas de lenguas cubren a más de la mitad de la humanidad.",
+        "fact": "Aunque existen unas 7000 lenguas en el mundo, un pequeño puñado de ellas, entre las que se incluyen el mandarín, el español, el inglés, el hindi, el árabe y el bengalí, se hablan como lengua materna por más de la mitad de la población mundial."
+      }
+    }
   },
   {
     "id": "language-106",
@@ -2247,7 +2603,21 @@
     "fact": "Several languages, including some Indigenous languages of the Americas and Australia, have been reduced to a single living fluent speaker, meaning the language disappears entirely when that person dies unless it has been thoroughly documented.",
     "tags": [
       "endangered-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines langues n'ont plus qu'un seul locuteur vivant.",
+        "fact": "Plusieurs langues, dont certaines langues autochtones des Amériques et d'Australie, ont été réduites à un seul locuteur courant encore en vie, ce qui signifie que la langue disparaîtra entièrement à sa mort, à moins d'avoir été minutieusement documentée."
+      },
+      "nl": {
+        "hook": "Sommige talen hebben nog precies één levende spreker.",
+        "fact": "Verschillende talen, waaronder enkele inheemse talen van Amerika en Australië, zijn teruggebracht tot één enkele levende vloeiende spreker, wat betekent dat de taal volledig verdwijnt zodra die persoon overlijdt, tenzij ze grondig gedocumenteerd is."
+      },
+      "es": {
+        "hook": "Algunas lenguas tienen exactamente un hablante vivo.",
+        "fact": "Varias lenguas, entre ellas algunas lenguas indígenas de América y Australia, han quedado reducidas a un único hablante fluido con vida, lo que significa que la lengua desaparecerá por completo cuando esa persona muera, a menos que haya sido documentada a fondo."
+      }
+    }
   },
   {
     "id": "language-107",
@@ -2257,7 +2627,21 @@
     "tags": [
       "endangered-languages",
       "australia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Australie aurait compté plus de 250 langues avant la colonisation européenne.",
+        "fact": "Les linguistes estiment que l'Australie abritait plus de 250 langues aborigènes distinctes, avec des centaines de dialectes supplémentaires, avant la colonisation européenne ; aujourd'hui, seule une petite fraction est encore parlée couramment, et la plupart d'entre elles sont gravement menacées."
+      },
+      "nl": {
+        "hook": "Australië telde mogelijk meer dan 250 talen vóór de Europese kolonisatie.",
+        "fact": "Taalkundigen schatten dat Australië vóór de Europese kolonisatie meer dan 250 afzonderlijke Aboriginal-talen kende, met daarbovenop honderden dialecten; vandaag wordt slechts een klein deel daarvan nog vloeiend gesproken, en de meeste daarvan worden ernstig bedreigd."
+      },
+      "es": {
+        "hook": "Australia pudo tener más de 250 lenguas antes de la colonización europea.",
+        "fact": "Los lingüistas calculan que Australia albergaba más de 250 lenguas aborígenes distintas, con cientos de dialectos adicionales, antes de la colonización europea; hoy solo se habla con fluidez una pequeña fracción de ellas, y la mayoría está gravemente amenazada."
+      }
+    }
   },
   {
     "id": "language-108",
@@ -2267,7 +2651,21 @@
     "tags": [
       "endangered-languages",
       "phonetics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une langue à environ 80 consonnes s'est éteinte en 1992.",
+        "fact": "L'oubykh, autrefois parlé dans le Caucase, possédait l'un des plus grands inventaires de consonnes jamais recensés, environ 80, pour seulement deux ou trois voyelles. Il s'est éteint avec son dernier locuteur pleinement courant, Tevfik Esenç, qui a passé des années à aider les linguistes à le documenter avant sa mort."
+      },
+      "nl": {
+        "hook": "Een taal met zo'n 80 medeklinkers stierf uit in 1992.",
+        "fact": "Het Oebychisch, ooit gesproken in de Kaukasus, had een van de grootste medeklinkerinventarissen ooit vastgelegd, ongeveer 80, terwijl het slechts twee of drie klinkers had. De taal stierf uit met de laatste volledig vloeiende spreker, Tevfik Esenç, die jarenlang taalkundigen hielp de taal te documenteren voordat hij overleed."
+      },
+      "es": {
+        "hook": "Una lengua con unas 80 consonantes se extinguió en 1992.",
+        "fact": "El ubijo, hablado antaño en el Cáucaso, tenía uno de los mayores inventarios de consonantes jamás registrados, unas 80, mientras que solo contaba con dos o tres vocales. Se extinguió con su último hablante plenamente fluido, Tevfik Esenç, quien pasó años ayudando a los lingüistas a documentarla antes de morir."
+      }
+    }
   },
   {
     "id": "language-109",
@@ -2277,7 +2675,21 @@
     "tags": [
       "language-families",
       "chinese"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le « chinois » est en réalité une famille de langues mutuellement inintelligibles.",
+        "fact": "Le mandarin, le cantonais, le wu (le shanghaïen) et d'autres variétés du chinois partagent un même système d'écriture, mais sont souvent mutuellement inintelligibles à l'oral, une différence comparable à celle qui sépare des langues romanes distinctes comme l'espagnol et l'italien."
+      },
+      "nl": {
+        "hook": "\"Chinees\" is eigenlijk een familie van onderling onverstaanbare talen.",
+        "fact": "Mandarijn, Kantonees, Wu (Shanghainees) en andere varianten van het Chinees delen een schrift, maar zijn gesproken vaak onderling onverstaanbaar, vergelijkbaar met de verschillen tussen afzonderlijke Romaanse talen zoals Spaans en Italiaans."
+      },
+      "es": {
+        "hook": "El \"chino\" es en realidad una familia de lenguas mutuamente ininteligibles.",
+        "fact": "El mandarín, el cantonés, el wu (shanghainés) y otras variedades del chino comparten un sistema de escritura, pero a menudo son mutuamente ininteligibles al hablarse, una diferencia comparable a la que separa lenguas romances distintas como el español y el italiano."
+      }
+    }
   },
   {
     "id": "language-110",
@@ -2287,7 +2699,21 @@
     "tags": [
       "language-families",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La famille nigéro-congolaise est peut-être la plus vaste au monde par le nombre de langues.",
+        "fact": "La famille nigéro-congolaise, qui comprend le swahili, le yoruba et les centaines de langues bantoues, compte bien plus de 1 500 langues individuelles, ce qui en fait l'une des plus grandes familles linguistiques du monde par le nombre de membres."
+      },
+      "nl": {
+        "hook": "De Niger-Kongofamilie is mogelijk de grootste taalfamilie ter wereld qua aantal talen.",
+        "fact": "De Niger-Kongofamilie, waartoe onder meer het Swahili, het Yoruba en de honderden Bantoetalen behoren, telt ruim 1.500 afzonderlijke talen, wat haar tot een van de grootste taalfamilies ter wereld maakt qua aantal leden."
+      },
+      "es": {
+        "hook": "La familia nígero-congoleña podría ser la más grande del mundo por número de lenguas.",
+        "fact": "La familia nígero-congoleña, que incluye el suajili, el yoruba y los cientos de lenguas bantúes, contiene bien más de 1500 lenguas individuales, lo que la convierte en una de las familias lingüísticas más grandes del mundo por número de miembros."
+      }
+    }
   },
   {
     "id": "language-111",
@@ -2297,7 +2723,21 @@
     "tags": [
       "language-isolate",
       "basque"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le basque n'est apparenté à aucune autre langue sur Terre.",
+        "fact": "Le basque, parlé dans certaines régions d'Espagne et de France, est une langue isolée, sans lien prouvé avec aucune autre famille linguistique, ce qui en fait l'une des dernières langues préindo-européennes encore parlées en Europe occidentale."
+      },
+      "nl": {
+        "hook": "Het Baskisch is niet verwant aan enige andere taal op aarde.",
+        "fact": "Het Baskisch, gesproken in delen van Spanje en Frankrijk, is een geïsoleerde taal zonder bewezen verwantschap met enige andere taalfamilie, waardoor het een van de laatst overgebleven pre-Indo-Europese talen van West-Europa is."
+      },
+      "es": {
+        "hook": "El euskera no está emparentado con ninguna otra lengua de la Tierra.",
+        "fact": "El euskera, hablado en partes de España y Francia, es una lengua aislada sin relación demostrada con ninguna otra familia lingüística, lo que la convierte en una de las últimas lenguas preindoeuropeas que sobreviven en Europa occidental."
+      }
+    }
   },
   {
     "id": "language-112",
@@ -2307,7 +2747,21 @@
     "tags": [
       "language-isolate",
       "korean"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le coréen est lui aussi une langue isolée, sans lien avec le chinois ou le japonais.",
+        "fact": "Bien qu'il ait emprunté un vocabulaire considérable au chinois et partage des similitudes structurelles avec le japonais, le coréen est généralement classé comme une langue isolée, sans relation génétique définitivement prouvée avec aucune autre famille linguistique."
+      },
+      "nl": {
+        "hook": "Het Koreaans is ook een geïsoleerde taal, niet verwant aan het Chinees of Japans.",
+        "fact": "Ondanks een uitgebreide woordenschat die aan het Chinees is ontleend en structurele overeenkomsten met het Japans, wordt het Koreaans doorgaans geclassificeerd als een geïsoleerde taal, zonder definitief bewezen genetische verwantschap met enige andere taalfamilie."
+      },
+      "es": {
+        "hook": "El coreano también es una lengua aislada, no emparentada con el chino ni el japonés.",
+        "fact": "A pesar de haber tomado prestado un vocabulario extenso del chino y de compartir similitudes estructurales con el japonés, el coreano se clasifica generalmente como una lengua aislada, sin una relación genética definitivamente probada con ninguna otra familia lingüística."
+      }
+    }
   },
   {
     "id": "language-113",
@@ -2317,7 +2771,21 @@
     "tags": [
       "language-families",
       "indo-european"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plupart des langues européennes descendent d'un ancêtre commun parlé il y a des milliers d'années.",
+        "fact": "La grande majorité des langues européennes, couvrant les branches germanique, romane, slave et indo-iranienne, descendent du proto-indo-européen, une langue reconstituée que l'on pense avoir été parlée il y a plusieurs milliers d'années, probablement quelque part près de la steppe pontique."
+      },
+      "nl": {
+        "hook": "De meeste Europese talen stammen af van één enkele voorouder die duizenden jaren geleden werd gesproken.",
+        "fact": "De overgrote meerderheid van de Europese talen, van de Germaanse, Romaanse, Slavische en Indo-Iraanse takken, stamt af van het Proto-Indo-Europees, een gereconstrueerde taal waarvan wordt aangenomen dat ze enkele duizenden jaren geleden werd gesproken, waarschijnlijk ergens in de buurt van de Pontische steppe."
+      },
+      "es": {
+        "hook": "La mayoría de las lenguas europeas descienden de un único antepasado hablado hace miles de años.",
+        "fact": "La gran mayoría de las lenguas europeas, que abarcan las ramas germánica, románica, eslava e indoirania, descienden del protoindoeuropeo, una lengua reconstruida que se cree que se habló hace varios miles de años, probablemente en algún lugar cercano a la estepa póntica."
+      }
+    }
   },
   {
     "id": "language-114",
@@ -2327,7 +2795,21 @@
     "tags": [
       "language-families",
       "austronesian"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une même famille de langues s'étend de Madagascar à l'île de Pâques.",
+        "fact": "La famille austronésienne est l'une des plus vastes géographiquement au monde, s'étendant de Madagascar, au large des côtes africaines, jusqu'à Hawaï et l'île de Pâques dans le Pacifique, une distance couvrant plus de la moitié du globe."
+      },
+      "nl": {
+        "hook": "Eén taalfamilie strekt zich uit van Madagaskar tot Paaseiland.",
+        "fact": "Het Austronesisch is een van de geografisch meest verspreide taalfamilies ter wereld, van Madagaskar voor de kust van Afrika tot Hawaï en Paaseiland in de Stille Oceaan, een afstand die meer dan de helft van de wereldbol beslaat."
+      },
+      "es": {
+        "hook": "Una sola familia de lenguas se extiende desde Madagascar hasta la isla de Pascua.",
+        "fact": "El austronesio es una de las familias lingüísticas geográficamente más extendidas de la Tierra, desde Madagascar, frente a la costa de África, hasta Hawái y la isla de Pascua en el Pacífico, una distancia que cubre más de la mitad del globo."
+      }
+    }
   },
   {
     "id": "language-115",
@@ -2337,7 +2819,21 @@
     "tags": [
       "sign-language",
       "language-families"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il n'existe pas de langue des signes universelle unique.",
+        "fact": "Les langues des signes ont évolué indépendamment les unes des autres à travers le monde plutôt qu'à partir d'une source commune, et elles se regroupent en familles propres, comme les langues descendant de la langue des signes française, dont fait partie la langue des signes américaine, et la lignée distincte de la langue des signes britannique."
+      },
+      "nl": {
+        "hook": "Er bestaat geen enkele universele gebarentaal.",
+        "fact": "Gebarentalen zijn wereldwijd onafhankelijk van elkaar ontstaan in plaats van uit één gedeelde bron, en ze groeperen zich in eigen families, zoals de nakomelingen van de Franse gebarentaal, waartoe de Amerikaanse gebarentaal behoort, en de afzonderlijke lijn van de Britse gebarentaal."
+      },
+      "es": {
+        "hook": "No existe una única lengua de señas universal.",
+        "fact": "Las lenguas de señas evolucionaron de forma independiente en distintas partes del mundo en lugar de proceder de una fuente común, y se agrupan en familias propias, como las descendientes de la lengua de señas francesa, entre ellas la lengua de señas estadounidense, y el linaje aparte de la lengua de señas británica."
+      }
+    }
   },
   {
     "id": "language-116",
@@ -2347,7 +2843,21 @@
     "tags": [
       "sign-language",
       "asl"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La langue des signes américaine est plus proche de la langue des signes française que de la langue des signes britannique.",
+        "fact": "L'ASL s'est développée au début des années 1800 à partir d'un mélange de la langue des signes française et de systèmes gestuels locaux utilisés à l'École américaine pour sourds, ce qui la rend mutuellement inintelligible avec la langue des signes britannique, alors même que l'anglais est la langue parlée dans les deux pays."
+      },
+      "nl": {
+        "hook": "De Amerikaanse gebarentaal staat dichter bij de Franse gebarentaal dan bij de Britse gebarentaal.",
+        "fact": "ASL ontwikkelde zich begin 19e eeuw uit een mengeling van de Franse gebarentaal en lokale gebarensystemen die werden gebruikt op de American School for the Deaf, waardoor ze onderling onverstaanbaar is met de Britse gebarentaal, ook al is het Engels in beide landen de gesproken taal."
+      },
+      "es": {
+        "hook": "La lengua de señas estadounidense está más cerca de la lengua de señas francesa que de la británica.",
+        "fact": "La ASL se desarrolló a principios del siglo XIX a partir de una mezcla de la lengua de señas francesa y sistemas gestuales locales usados en la Escuela Estadounidense para Sordos, lo que la hace mutuamente ininteligible con la lengua de señas británica, aunque el inglés sea el idioma hablado en ambos países."
+      }
+    }
   },
   {
     "id": "language-117",
@@ -2358,7 +2868,24 @@
     "tags": [
       "sign-language",
       "language-acquisition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une toute nouvelle langue des signes est apparue chez des enfants en une seule génération.",
+        "fact": "Au Nicaragua, dans les années 1980, des enfants sourds réunis dans une école nouvellement ouverte ont spontanément développé une langue des signes qui n'existait pas auparavant, aujourd'hui appelée langue des signes nicaraguayenne.",
+        "whyItMatters": "Cela a offert aux linguistes une étude de cas rare et en temps réel sur la manière dont des enfants peuvent générer une grammaire complète à partir d'un système de communication non structuré, apportant une preuve directe de la façon dont le langage lui-même aurait pu émerger."
+      },
+      "nl": {
+        "hook": "Een gloednieuwe gebarentaal ontstond bij kinderen binnen één generatie.",
+        "fact": "In Nicaragua brachten dove kinderen die in de jaren 1980 samenkwamen in een pas geopende school spontaan een gebarentaal voort die daarvoor niet had bestaan, nu de Nicaraguaanse gebarentaal genoemd.",
+        "whyItMatters": "Het gaf taalkundigen een zeldzame, live casestudy van hoe kinderen een volledige grammatica kunnen genereren uit een ongestructureerd communicatiesysteem, en leverde daarmee direct bewijs voor hoe taal zelf ooit is ontstaan."
+      },
+      "es": {
+        "hook": "Una lengua de señas completamente nueva surgió entre niños en una sola generación.",
+        "fact": "En Nicaragua, durante la década de 1980, niños sordos reunidos en una escuela recién inaugurada desarrollaron espontáneamente una lengua de señas que antes no existía, hoy llamada lengua de señas nicaragüense.",
+        "whyItMatters": "Esto ofreció a los lingüistas un caso de estudio poco común y en tiempo real de cómo los niños pueden generar una gramática completa a partir de un sistema de comunicación sin estructura, aportando pruebas directas de cómo pudo haber surgido el lenguaje mismo."
+      }
+    }
   },
   {
     "id": "language-118",
@@ -2368,7 +2895,21 @@
     "tags": [
       "sign-language",
       "language-diversity"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il existe plus de 300 langues des signes distinctes utilisées à travers le monde.",
+        "fact": "Les chercheurs estiment que bien plus de 300 langues des signes sont activement utilisées à travers le monde, dont beaucoup ne sont apparentées ni entre elles, ni à la langue parlée par la communauté entendante environnante."
+      },
+      "nl": {
+        "hook": "Er zijn meer dan 300 afzonderlijke gebarentalen in gebruik over de hele wereld.",
+        "fact": "Onderzoekers schatten dat wereldwijd ruim 300 gebarentalen actief worden gebruikt, waarvan er vele onderling niet verwant zijn, en evenmin verwant aan de gesproken taal van de omringende horende gemeenschap."
+      },
+      "es": {
+        "hook": "Existen más de 300 lenguas de señas distintas en uso alrededor del mundo.",
+        "fact": "Los investigadores calculan que bien más de 300 lenguas de señas están en uso activo a nivel mundial, muchas de ellas sin relación entre sí ni con la lengua hablada por la comunidad oyente que las rodea."
+      }
+    }
   },
   {
     "id": "language-119",
@@ -2377,7 +2918,21 @@
     "fact": "In communities with unusually high rates of hereditary deafness, such as historically on Martha's Vineyard or among the Al-Sayyid Bedouin in Israel, deaf and hearing residents alike developed shared local sign languages used in everyday village life.",
     "tags": [
       "sign-language"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des villages entiers ont développé leur propre langue des signes commune.",
+        "fact": "Dans des communautés présentant des taux inhabituellement élevés de surdité héréditaire, comme autrefois à Martha's Vineyard ou chez les Bédouins Al-Sayyid en Israël, les habitants sourds comme entendants ont développé des langues des signes locales partagées, utilisées dans la vie quotidienne du village."
+      },
+      "nl": {
+        "hook": "Hele dorpen ontwikkelden hun eigen gedeelde gebarentaal.",
+        "fact": "In gemeenschappen met ongewoon hoge percentages erfelijke doofheid, zoals vroeger op Martha's Vineyard of bij de Al-Sayyid-bedoeïenen in Israël, ontwikkelden zowel dove als horende bewoners gedeelde lokale gebarentalen die in het dagelijkse dorpsleven werden gebruikt."
+      },
+      "es": {
+        "hook": "Aldeas enteras han desarrollado su propia lengua de señas compartida.",
+        "fact": "En comunidades con tasas inusualmente altas de sordera hereditaria, como históricamente en Martha's Vineyard o entre los beduinos Al-Sayyid en Israel, tanto los residentes sordos como los oyentes desarrollaron lenguas de señas locales compartidas, usadas en la vida cotidiana del pueblo."
+      }
+    }
   },
   {
     "id": "language-120",
@@ -2386,7 +2941,21 @@
     "fact": "In tonal languages, changing the pitch contour of a syllable changes its meaning entirely. Mandarin uses four main tones, Vietnamese uses six, and many African tonal languages such as Yoruba use tone to mark both vocabulary and grammar.",
     "tags": [
       "tonal-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les langues tonales transforment la hauteur du son en sens.",
+        "fact": "Dans les langues tonales, changer le contour mélodique d'une syllabe change entièrement son sens. Le mandarin utilise quatre tons principaux, le vietnamien en utilise six, et de nombreuses langues tonales africaines comme le yoruba utilisent le ton pour marquer à la fois le vocabulaire et la grammaire."
+      },
+      "nl": {
+        "hook": "Toontalen maken van toonhoogte betekenis.",
+        "fact": "In toontalen verandert het wijzigen van het toonhoogteverloop van een lettergreep de betekenis volledig. Het Mandarijn gebruikt vier hoofdtonen, het Vietnamees gebruikt er zes, en veel Afrikaanse toontalen zoals het Yoruba gebruiken toon om zowel woordenschat als grammatica te markeren."
+      },
+      "es": {
+        "hook": "Las lenguas tonales convierten el tono en significado.",
+        "fact": "En las lenguas tonales, cambiar el contorno tonal de una sílaba cambia por completo su significado. El mandarín usa cuatro tonos principales, el vietnamita usa seis, y muchas lenguas tonales africanas como el yoruba usan el tono para marcar tanto el vocabulario como la gramática."
+      }
+    }
   },
   {
     "id": "language-121",
@@ -2396,7 +2965,21 @@
     "tags": [
       "tonal-languages",
       "cantonese"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le cantonais compterait jusqu'à neuf tons, selon la manière de les compter.",
+        "fact": "Le cantonais est souvent décrit comme ayant de six à neuf tons selon l'analyse retenue, contre quatre pour le mandarin, ce qui en fait l'une des langues tonales les plus complexes parlées par des dizaines de millions de personnes."
+      },
+      "nl": {
+        "hook": "Het Kantonees heeft tot wel negen tonen, afhankelijk van hoe je ze telt.",
+        "fact": "Het Kantonees wordt vaak beschreven als een taal met zes tot negen tonen, afhankelijk van de analyse, tegenover vier in het Mandarijn, waardoor het een van de tonaal complexere talen is die door tientallen miljoenen mensen wordt gesproken."
+      },
+      "es": {
+        "hook": "El cantonés puede tener hasta nueve tonos, según cómo se cuenten.",
+        "fact": "El cantonés suele describirse con entre seis y nueve tonos según el análisis, frente a los cuatro del mandarín, lo que lo convierte en una de las lenguas tonales más complejas habladas por decenas de millones de personas."
+      }
+    }
   },
   {
     "id": "language-122",
@@ -2406,7 +2989,21 @@
     "tags": [
       "whistled-language",
       "translation-oddities"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des conversations entières peuvent être sifflées d'une vallée à l'autre.",
+        "fact": "Des formes sifflées de langues parlées ordinaires, comme le silbo gomero aux îles Canaries ou le turc sifflé pratiqué autour de Kuşköy, transposent des mots courants en tons sifflés qui peuvent porter sur plusieurs kilomètres, permettant de communiquer d'une vallée à l'autre sans crier."
+      },
+      "nl": {
+        "hook": "Hele gesprekken kunnen worden gefloten van vallei tot vallei.",
+        "fact": "Gefloten vormen van gewone gesproken talen, zoals het Silbo Gomero op de Canarische Eilanden en het gefloten Turks rond Kuşköy, zetten gewone woorden om in gefloten tonen die kilometers ver kunnen dragen, waardoor mensen over valleien heen kunnen communiceren zonder te schreeuwen."
+      },
+      "es": {
+        "hook": "Se pueden mantener conversaciones enteras silbando de un valle a otro.",
+        "fact": "Formas silbadas de lenguas habladas comunes, como el silbo gomero en las islas Canarias o el turco silbado que se habla en torno a Kuşköy, codifican palabras normales en tonos silbados que pueden oírse a kilómetros de distancia, permitiendo comunicarse de un valle a otro sin necesidad de gritar."
+      }
+    }
   },
   {
     "id": "language-123",
@@ -2416,7 +3013,21 @@
     "tags": [
       "tonal-languages",
       "mandarin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une seule syllabe mandarine peut désigner quatre choses totalement différentes.",
+        "fact": "La syllabe mandarine « ma » peut signifier « mère », « chanvre », « cheval » ou marquer une question grammaticale, selon le seul ton employé parmi les quatre tons du mandarin, sans aucun changement de consonnes ni de voyelles."
+      },
+      "nl": {
+        "hook": "Eén Mandarijnse lettergreep kan vier volkomen verschillende dingen betekenen.",
+        "fact": "De Mandarijnse lettergreep \"ma\" kan \"moeder\", \"hennep\", \"paard\" of een grammaticaal vraagdeeltje betekenen, puur afhankelijk van welke van de vier tonen wordt gebruikt, zonder dat de medeklinkers of klinkers veranderen."
+      },
+      "es": {
+        "hook": "Una sola sílaba del mandarín puede significar cuatro cosas totalmente distintas.",
+        "fact": "La sílaba del mandarín \"ma\" puede significar \"madre\", \"cáñamo\", \"caballo\" o marcar una pregunta gramatical, dependiendo únicamente de cuál de los cuatro tonos se use, sin que cambien ni las consonantes ni las vocales."
+      }
+    }
   },
   {
     "id": "language-124",
@@ -2426,7 +3037,21 @@
     "tags": [
       "translation-oddities",
       "color-terms"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines langues ne distinguent pas « bleu » et « vert » par deux mots différents.",
+        "fact": "De nombreuses langues, dont le vietnamien et plusieurs langues africaines et du Pacifique, utilisent traditionnellement un seul terme pour désigner à la fois le bleu et le vert, une catégorie que les linguistes appellent parfois « grue » (de l'anglais « green » et « blue »), preuve que le vocabulaire des couleurs ne se calque pas à l'identique d'une culture à l'autre."
+      },
+      "nl": {
+        "hook": "Sommige talen maken geen onderscheid tussen \"blauw\" en \"groen\".",
+        "fact": "Veel talen, waaronder het Vietnamees en verscheidene Afrikaanse en Pacifische talen, gebruiken van oudsher één term voor zowel blauw als groen, een categorie die taalkundigen soms \"grue\" noemen (van het Engelse \"green\" en \"blue\"), wat laat zien dat kleurwoordenschat niet in elke cultuur op dezelfde manier is ingedeeld."
+      },
+      "es": {
+        "hook": "Algunas lenguas no separan el \"azul\" y el \"verde\" en dos palabras distintas.",
+        "fact": "Muchas lenguas, entre ellas el vietnamita y varias lenguas africanas y del Pacífico, usan tradicionalmente un solo término para el azul y el verde a la vez, una categoría que los lingüistas a veces llaman \"grue\" (de \"green\" y \"blue\" en inglés), lo que demuestra que el vocabulario del color no se organiza igual en todas las culturas."
+      }
+    }
   },
   {
     "id": "language-125",
@@ -2437,7 +3062,21 @@
       "translation-oddities",
       "color-terms",
       "russian"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le russe traite le bleu clair et le bleu foncé comme deux couleurs de base distinctes.",
+        "fact": "Contrairement à l'anglais, le russe n'a pas de mot générique unique pour « bleu » : goluboy (bleu clair) et siniy (bleu foncé) sont considérés comme deux couleurs de base à part entière, et certaines études suggèrent que cela pourrait même influencer la rapidité avec laquelle les russophones distinguent les nuances de bleu."
+      },
+      "nl": {
+        "hook": "Het Russisch behandelt lichtblauw en donkerblauw als twee aparte basiskleuren.",
+        "fact": "In tegenstelling tot het Engels heeft het Russisch geen overkoepelend woord voor \"blauw\": goluboy (lichtblauw) en siniy (donkerblauw) worden als twee afzonderlijke basiskleuren beschouwd, en sommige onderzoeken suggereren dat dit zelfs invloed heeft op hoe snel Russischtaligen tinten blauw van elkaar onderscheiden."
+      },
+      "es": {
+        "hook": "El ruso trata el azul claro y el azul oscuro como dos colores básicos independientes.",
+        "fact": "A diferencia del inglés, el ruso no tiene una palabra genérica para \"azul\": goluboy (azul claro) y siniy (azul oscuro) se consideran colores básicos distintos, y algunos estudios sugieren que esto podría incluso influir en la rapidez con la que los hablantes de ruso distinguen los tonos de azul."
+      }
+    }
   },
   {
     "id": "language-126",
@@ -2447,7 +3086,21 @@
     "tags": [
       "translation-oddities",
       "portuguese"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le portugais a un mot pour la nostalgie qui résiste à la traduction.",
+        "fact": "Le mot portugais « saudade » décrit une nostalgie profonde et mélancolique envers une personne ou une chose absente, et il est souvent cité comme l'un des mots les plus difficiles au monde à traduire par un seul équivalent dans une autre langue."
+      },
+      "nl": {
+        "hook": "Het Portugees heeft een woord voor verlangen dat zich niet laat vertalen.",
+        "fact": "Het Portugese woord \"saudade\" beschrijft een diep, weemoedig verlangen naar iemand of iets dat afwezig is, en het wordt vaak genoemd als een van de moeilijkste woorden ter wereld om precies met één woord in een andere taal te vertalen."
+      },
+      "es": {
+        "hook": "El portugués tiene una palabra para la añoranza que se resiste a la traducción.",
+        "fact": "La palabra portuguesa \"saudade\" describe una añoranza profunda y melancólica por alguien o algo ausente, y se cita a menudo como una de las palabras más difíciles del mundo de traducir con precisión mediante una sola palabra en otro idioma."
+      }
+    }
   },
   {
     "id": "language-127",
@@ -2457,7 +3110,21 @@
     "tags": [
       "translation-oddities",
       "japanese"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le japonais a un seul mot pour la lumière du soleil filtrant à travers les feuilles.",
+        "fact": "Le mot japonais « komorebi » désigne spécifiquement la lumière du soleil filtrant à travers les feuilles des arbres, un concept que la plupart des langues, y compris l'anglais et le français, doivent exprimer par toute une phrase descriptive."
+      },
+      "nl": {
+        "hook": "Het Japans heeft één woord voor zonlicht dat door bladeren valt.",
+        "fact": "Het Japanse woord \"komorebi\" verwijst specifiek naar zonlicht dat door boombladeren filtert, een begrip waarvoor de meeste talen, waaronder het Engels en het Nederlands, een hele beschrijvende zin nodig hebben."
+      },
+      "es": {
+        "hook": "El japonés tiene una sola palabra para la luz del sol que se filtra entre las hojas.",
+        "fact": "La palabra japonesa \"komorebi\" designa específicamente la luz del sol que se filtra entre las hojas de los árboles, un concepto que la mayoría de las lenguas, incluidas el inglés y el español, necesitan toda una frase descriptiva para expresar."
+      }
+    }
   },
   {
     "id": "language-128",
@@ -2467,7 +3134,21 @@
     "tags": [
       "translation-oddities",
       "finnish"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le finnois a un mot pour boire seul chez soi en sous-vêtements.",
+        "fact": "Le terme finnois « kalsarikännit » décrit l'acte précis de boire seul chez soi sans avoir la moindre intention de sortir, un concept si spécifique que la plupart des langues n'ont aucun mot équivalent."
+      },
+      "nl": {
+        "hook": "Het Fins heeft een woord voor alleen thuis drinken in je onderbroek.",
+        "fact": "De Finse term \"kalsarikännit\" beschrijft het specifieke gebruik om alleen thuis te drinken zonder enige intentie om nog uit te gaan, een begrip zo precies dat de meeste talen er geen enkel woord voor hebben."
+      },
+      "es": {
+        "hook": "El finlandés tiene una palabra para beber solo en casa en ropa interior.",
+        "fact": "El término finlandés \"kalsarikännit\" describe el acto concreto de beber solo en casa sin ninguna intención de salir, un concepto tan preciso que la mayoría de las lenguas no tienen una sola palabra equivalente."
+      }
+    }
   },
   {
     "id": "language-129",
@@ -2478,7 +3159,24 @@
     "tags": [
       "grammar",
       "translation-oddities"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines langues obligent à préciser comment on sait ce que l'on affirme.",
+        "fact": "Des langues comme le turc, le quechua et de nombreuses langues autochtones des Amériques possèdent des marqueurs grammaticaux d'« évidentialité », qui obligent les locuteurs à indiquer, dans presque chaque phrase, s'ils ont été témoins directs d'un fait, en ont entendu parler ou l'ont simplement déduit.",
+        "whyItMatters": "Parce que la grammaire elle-même oblige les locuteurs à signaler la source de leur information, ces langues rendent bien plus difficile le fait de présenter une rumeur comme un fait directement constaté."
+      },
+      "nl": {
+        "hook": "Sommige talen verplichten je om te zeggen hoe je weet wat je zegt.",
+        "fact": "Talen als het Turks, het Quechua en veel inheemse talen van Amerika hebben grammaticale \"evidentialiteits\"-markeringen, die sprekers dwingen om in bijna elke zin aan te geven of ze iets zelf hebben meegemaakt, ervan hebben gehoord, of het hebben afgeleid.",
+        "whyItMatters": "Omdat de grammatica sprekers zelf dwingt om hun informatiebron te vermelden, maken deze talen het veel lastiger om een verhaal uit tweede hand te presenteren alsof het rechtstreeks waargenomen feit is."
+      },
+      "es": {
+        "hook": "Algunas lenguas te obligan a decir cómo sabes lo que estás diciendo.",
+        "fact": "Lenguas como el turco, el quechua y muchas lenguas indígenas de América tienen marcadores gramaticales de \"evidencialidad\", que obligan a los hablantes a indicar en casi cada frase si presenciaron algo directamente, lo oyeron de segunda mano o lo dedujeron.",
+        "whyItMatters": "Como la propia gramática obliga a los hablantes a señalar la fuente de su información, estas lenguas dificultan mucho más presentar un rumor como si fuera un hecho presenciado directamente."
+      }
+    }
   },
   {
     "id": "language-130",
@@ -2488,7 +3186,21 @@
     "tags": [
       "translation-oddities",
       "grammar"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une langue aborigène utilise les points cardinaux à la place de « gauche » et « droite ».",
+        "fact": "Les locuteurs du guugu yimithirr, parlé dans le nord de l'Australie, utilisent des points cardinaux comme le nord et le sud même pour décrire de petites choses, disant qu'une fourmi se trouve sur la « jambe sud » de quelqu'un plutôt que sur sa jambe gauche, ce qui exige une conscience spatiale constante."
+      },
+      "nl": {
+        "hook": "Eén Aboriginal-taal gebruikt windrichtingen in plaats van \"links\" en \"rechts\".",
+        "fact": "Sprekers van het Guugu Yimithirr, gesproken in Noord-Australië, gebruiken windrichtingen zoals noord en zuid zelfs voor kleinschalige beschrijvingen, en zeggen bijvoorbeeld dat een mier op iemands \"zuidbeen\" zit in plaats van diens linkerbeen, wat voortdurend ruimtelijk bewustzijn vereist."
+      },
+      "es": {
+        "hook": "Una lengua aborigen usa los puntos cardinales en vez de \"izquierda\" y \"derecha\".",
+        "fact": "Los hablantes de guugu yimithirr, hablado en el norte de Australia, usan puntos cardinales como el norte y el sur incluso para describir cosas pequeñas, y dicen que una hormiga está en la \"pierna sur\" de alguien en lugar de su pierna izquierda, lo cual exige una conciencia espacial constante."
+      }
+    }
   },
   {
     "id": "language-131",
@@ -2498,7 +3210,21 @@
     "tags": [
       "translation-oddities",
       "amazon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une langue amazonienne serait dépourvue de mots pour les nombres exacts.",
+        "fact": "La langue pirahã, parlée en Amazonie brésilienne, serait dépourvue de mots précis pour les nombres, ne disposant que de termes approximativement équivalents à « peu » et « beaucoup », une affirmation qui a alimenté de vifs débats parmi les linguistes sur le lien entre langage et pensée."
+      },
+      "nl": {
+        "hook": "Eén taal uit het Amazonegebied zou geen woorden voor exacte getallen hebben.",
+        "fact": "Van het Pirahã, gesproken in het Braziliaanse deel van de Amazone, wordt gezegd dat het geen precieze telwoorden kent en enkel termen gebruikt die ruwweg overeenkomen met \"weinig\" en \"veel\", een bewering die tot grote debatten onder taalkundigen heeft geleid over de relatie tussen taal en denken."
+      },
+      "es": {
+        "hook": "Una lengua amazónica podría carecer de palabras para números exactos.",
+        "fact": "Se ha señalado que la lengua pirahã, hablada en la Amazonía brasileña, carece de palabras precisas para los números y solo usa términos aproximadamente equivalentes a \"pocos\" y \"muchos\", una afirmación que ha alimentado grandes debates entre lingüistas sobre la relación entre lenguaje y pensamiento."
+      }
+    }
   },
   {
     "id": "language-132",
@@ -2508,7 +3234,21 @@
     "tags": [
       "translation-oddities",
       "endangered-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une langue presque éteinte avait un mot pour un regard partagé et silencieux.",
+        "fact": "Le yagan, langue presque éteinte de Terre de Feu, comportait selon certains un mot, « mamihlapinatapai », décrivant un regard silencieux et chargé de sens échangé entre deux personnes qui désirent la même chose mais hésitent chacune à faire le premier pas."
+      },
+      "nl": {
+        "hook": "Een bijna uitgestorven taal had een woord voor een onuitgesproken, gedeelde blik.",
+        "fact": "Het bijna uitgestorven Yagan, gesproken in Vuurland, zou een woord hebben gekend, \"mamihlapinatapai\", dat een woordeloze, veelbetekenende blik beschrijft tussen twee mensen die allebei hetzelfde willen maar geen van beiden de eerste stap durft te zetten."
+      },
+      "es": {
+        "hook": "Una lengua casi extinta tenía una palabra para una mirada compartida y silenciosa.",
+        "fact": "La lengua yagán, casi extinta y hablada en Tierra del Fuego, incluía según se cuenta una palabra, \"mamihlapinatapai\", que describe una mirada silenciosa y cargada de significado entre dos personas que desean lo mismo pero ninguna se atreve a dar el primer paso."
+      }
+    }
   },
   {
     "id": "language-133",
@@ -2519,7 +3259,21 @@
       "false-friends",
       "japanese",
       "chinese"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un même mot peut vouloir dire deux choses opposées en japonais et en chinois.",
+        "fact": "Les kanjis empruntés aux caractères chinois peuvent avoir un sens très différent en japonais et en chinois moderne : ainsi, 手紙 signifie « lettre » (au sens du courrier) en japonais, mais « papier toilette » en chinois, un exemple classique de faux ami entre les deux systèmes d'écriture."
+      },
+      "nl": {
+        "hook": "Hetzelfde woord kan in het Japans en het Chinees tegenovergestelde dingen betekenen.",
+        "fact": "Kanji die zijn overgenomen uit Chinese karakters kunnen in het Japans een heel andere betekenis hebben dan in het moderne Chinees; zo betekent 手紙 in het Japans \"brief\" (als in post), maar in het Chinees \"toiletpapier\", een klassiek voorbeeld van een false friend tussen de twee schriftsystemen."
+      },
+      "es": {
+        "hook": "La misma palabra puede significar cosas opuestas en japonés y en chino.",
+        "fact": "Los kanji tomados de los caracteres chinos pueden tener significados muy distintos en japonés y en el chino moderno; por ejemplo, 手紙 significa \"carta\" (de correo) en japonés, pero \"papel higiénico\" en chino, un clásico falso amigo entre los dos sistemas de escritura."
+      }
+    }
   },
   {
     "id": "language-134",
@@ -2529,7 +3283,21 @@
     "tags": [
       "false-friends",
       "spanish"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot espagnol pour « enceinte » ressemble à l'anglais « embarrassed » (gêné).",
+        "fact": "« Embarazada » est un faux ami classique pour les anglophones qui apprennent l'espagnol : il signifie en réalité « enceinte », et non « embarrassed » (gêné), une confusion qui a causé d'innombrables moments gênants aux apprenants."
+      },
+      "nl": {
+        "hook": "Het Spaanse woord voor \"zwanger\" lijkt sprekend op het Engelse \"embarrassed\" (gegeneerd).",
+        "fact": "\"Embarazada\" is een klassieke false friend voor Engelstaligen die Spaans leren: het betekent eigenlijk \"zwanger\", niet \"embarrassed\" (gegeneerd), een verwarring die al talloze gênante momenten heeft veroorzaakt bij taalleerders."
+      },
+      "es": {
+        "hook": "La palabra española \"embarazada\" se parece al inglés \"embarrassed\" (avergonzado).",
+        "fact": "\"Embarazada\" es un clásico falso amigo para los angloparlantes que aprenden español: en realidad significa \"embarazada\", no \"embarrassed\" (avergonzado), una confusión que ha causado incontables momentos incómodos a los estudiantes."
+      }
+    }
   },
   {
     "id": "language-135",
@@ -2539,7 +3307,21 @@
     "tags": [
       "false-friends",
       "german"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En allemand, « Gift » ne veut pas dire cadeau.",
+        "fact": "En allemand, « Gift » signifie poison, et non cadeau, l'un des faux amis les plus dangereux entre l'allemand et l'anglais, car les confondre dans le mauvais contexte pourrait entraîner un malentendu réellement risqué."
+      },
+      "nl": {
+        "hook": "Het Duitse \"Gift\" betekent geen cadeau.",
+        "fact": "In het Duits betekent \"Gift\" vergif, geen cadeau, een van de gevaarlijkere false friends tussen het Duits en het Engels, aangezien het verwarren ervan in de verkeerde context tot een werkelijk gevaarlijk misverstand kan leiden."
+      },
+      "es": {
+        "hook": "En alemán, \"Gift\" no significa regalo.",
+        "fact": "En alemán, \"Gift\" significa veneno, no regalo, uno de los falsos amigos más peligrosos entre el alemán y el inglés, ya que confundirlos en el contexto equivocado podría provocar un malentendido realmente arriesgado."
+      }
+    }
   },
   {
     "id": "language-136",
@@ -2549,7 +3331,21 @@
     "tags": [
       "false-friends",
       "scandinavian"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le même mot signifie « amusant » en suédois et « calme » en danois.",
+        "fact": "Le mot suédois « rolig » signifie « drôle » ou « amusant », mais en danois et en norvégien, le mot quasi identique « rolig » signifie « calme » ou « tranquille », un faux ami qui piège régulièrement les locuteurs de ces langues scandinaves pourtant très proches."
+      },
+      "nl": {
+        "hook": "Hetzelfde woord betekent \"leuk\" in het Zweeds en \"rustig\" in het Deens.",
+        "fact": "Het Zweedse woord \"rolig\" betekent \"grappig\" of \"leuk\", maar in het Deens en Noors betekent het bijna identieke woord \"rolig\" \"rustig\" of \"stil\", een false friend waar sprekers van deze verder nauw verwante Scandinavische talen regelmatig over struikelen."
+      },
+      "es": {
+        "hook": "La misma palabra significa \"divertido\" en sueco y \"tranquilo\" en danés.",
+        "fact": "La palabra sueca \"rolig\" significa \"gracioso\" o \"divertido\", pero en danés y noruego, la palabra casi idéntica \"rolig\" significa \"tranquilo\" o \"silencioso\", un falso amigo que confunde regularmente a los hablantes de estas lenguas escandinavas, por lo demás muy cercanas entre sí."
+      }
+    }
   },
   {
     "id": "language-137",
@@ -2559,7 +3355,21 @@
     "tags": [
       "false-friends",
       "romance-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En italien, c'est du beurre ; en espagnol, c'est un âne.",
+        "fact": "En italien, « burro » signifie beurre, mais en espagnol, le mot presque identique « burro » signifie âne, un faux ami classique entre deux langues romanes pourtant très proches."
+      },
+      "nl": {
+        "hook": "In het Italiaans is het boter; in het Spaans is het een ezel.",
+        "fact": "In het Italiaans betekent \"burro\" boter, maar in het Spaans betekent het bijna identieke woord \"burro\" ezel, een klassieke false friend tussen twee nauw verwante Romaanse talen."
+      },
+      "es": {
+        "hook": "En italiano es mantequilla; en español es un burro.",
+        "fact": "En italiano, \"burro\" significa mantequilla, pero en español la palabra casi idéntica \"burro\" significa asno, un clásico falso amigo entre dos lenguas romances muy cercanas entre sí."
+      }
+    }
   },
   {
     "id": "language-138",
@@ -2569,7 +3379,21 @@
     "tags": [
       "false-friends",
       "french"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En français, « coin » n'a rien à voir avec l'argent.",
+        "fact": "En français, « coin » signifie simplement un angle ou un endroit, pas une pièce de monnaie, ce qui en fait l'un des faux amis les plus courants pour les anglophones qui apprennent le français."
+      },
+      "nl": {
+        "hook": "Het Franse \"coin\" heeft niets met geld te maken.",
+        "fact": "In het Frans betekent \"coin\" gewoon \"hoek\", geen muntstuk, waardoor het een van de meest voorkomende false friends is voor Engelstaligen die Frans leren."
+      },
+      "es": {
+        "hook": "El francés \"coin\" no tiene nada que ver con el dinero.",
+        "fact": "En francés, \"coin\" simplemente significa \"esquina\", no una moneda, lo que lo convierte en uno de los falsos amigos más comunes para los angloparlantes que aprenden francés."
+      }
+    }
   },
   {
     "id": "language-139",
@@ -2579,7 +3403,21 @@
     "tags": [
       "false-friends",
       "serbian"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En serbe, « brak » signifie mariage.",
+        "fact": "Le mot serbe et croate « brak » signifie « mariage », un faux ami amusant pour les anglophones, sans aucun rapport avec le mot anglais « brake » (frein)."
+      },
+      "nl": {
+        "hook": "In het Servisch betekent \"brak\" huwelijk.",
+        "fact": "Het Servische en Kroatische woord \"brak\" betekent \"huwelijk\", een grappige false friend voor Engelstaligen, die niets te maken heeft met het Engelse woord \"brake\" (rem)."
+      },
+      "es": {
+        "hook": "En serbio, \"brak\" significa matrimonio.",
+        "fact": "La palabra serbia y croata \"brak\" significa \"matrimonio\", un falso amigo curioso para los angloparlantes, sin ninguna relación con la palabra inglesa \"brake\" (freno)."
+      }
+    }
   },
   {
     "id": "language-140",
@@ -2589,7 +3427,21 @@
     "tags": [
       "grammar",
       "turkish"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le turc peut condenser une phrase entière en un seul mot.",
+        "fact": "La grammaire turque repose sur l'harmonie vocalique, un mécanisme par lequel les voyelles des suffixes s'adaptent automatiquement aux voyelles précédentes du mot, permettant de construire de longs mots précis empilant de nombreux suffixes grammaticaux sur une seule racine, et qui se traduisent par des phrases entières dans des langues moins flexibles."
+      },
+      "nl": {
+        "hook": "Het Turks kan een hele zin in één woord samenpersen.",
+        "fact": "De Turkse grammatica steunt op klinkerharmonie, waarbij de klinkers van achtervoegsels automatisch worden aangepast aan eerdere klinkers in het woord, waardoor sprekers lange, precieze woorden kunnen opbouwen die veel grammaticale achtervoegsels op één stam stapelen en die in minder flexibele talen als volledige zinnen worden vertaald."
+      },
+      "es": {
+        "hook": "El turco puede meter una frase entera en una sola palabra.",
+        "fact": "La gramática turca se basa en la armonía vocálica, un mecanismo por el cual las vocales de los sufijos cambian automáticamente para ajustarse a las vocales anteriores de la palabra, lo que permite construir palabras largas y precisas que apilan muchos sufijos gramaticales sobre una sola raíz y que se traducen en frases completas en lenguas menos flexibles."
+      }
+    }
   },
   {
     "id": "language-141",
@@ -2599,7 +3451,21 @@
     "tags": [
       "grammar",
       "agglutinative"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les langues agglutinantes construisent des mots-phrases à partir de minuscules briques grammaticales.",
+        "fact": "Les langues agglutinantes comme le turc, le finnois et le hongrois peuvent accoler de nombreux suffixes grammaticaux distincts à une seule racine, produisant des mots uniques qui nécessiteraient des phrases entières dans des langues comme l'espagnol ou le mandarin."
+      },
+      "nl": {
+        "hook": "Agglutinerende talen bouwen zinlange woorden uit piepkleine bouwstenen.",
+        "fact": "Agglutinerende talen zoals het Turks, het Fins en het Hongaars kunnen veel verschillende grammaticale achtervoegsels aan één stam vastplakken, waardoor er losse woorden ontstaan die in talen als het Spaans of het Mandarijn een hele zin of frase zouden vergen."
+      },
+      "es": {
+        "hook": "Las lenguas aglutinantes construyen palabras del tamaño de una frase con piezas diminutas.",
+        "fact": "Lenguas aglutinantes como el turco, el finlandés y el húngaro pueden añadir muchos sufijos gramaticales distintos a una sola raíz, produciendo palabras únicas que en lenguas como el español o el mandarín requerirían frases u oraciones enteras."
+      }
+    }
   },
   {
     "id": "language-142",
@@ -2609,7 +3475,21 @@
     "tags": [
       "writing-systems",
       "arabic"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'arabe se lit de droite à gauche, sauf pour ses chiffres.",
+        "fact": "L'arabe et d'autres écritures de droite à gauche comme l'hébreu inversent le sens d'écriture habituel de gauche à droite, mais les nombres à plusieurs chiffres insérés dans le texte se lisent quand même de gauche à droite, créant un changement de direction au sein d'une même ligne."
+      },
+      "nl": {
+        "hook": "Het Arabisch wordt van rechts naar links gelezen, behalve de cijfers.",
+        "fact": "Het Arabisch en andere schriften die van rechts naar links lopen, zoals het Hebreeuws, keren de gebruikelijke schrijfrichting van links naar rechts om, maar meercijferige getallen binnen de tekst worden toch van links naar rechts gelezen, waardoor er binnen dezelfde regel van richting wordt gewisseld."
+      },
+      "es": {
+        "hook": "El árabe se lee de derecha a izquierda, salvo sus números.",
+        "fact": "El árabe y otras escrituras de derecha a izquierda, como el hebreo, invierten el sentido habitual de izquierda a derecha, pero los números de varias cifras insertados en el texto se siguen leyendo de izquierda a derecha, creando un cambio de dirección dentro de la misma línea."
+      }
+    }
   },
   {
     "id": "language-143",
@@ -2619,7 +3499,21 @@
     "tags": [
       "writing-systems",
       "korean"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'alphabet coréen a été délibérément inventé par un roi dans les années 1440.",
+        "fact": "Le hangeul, le système d'écriture coréen, a été créé sous le règne du roi Sejong le Grand et promulgué en 1446 pour offrir au peuple une alternative plus simple aux caractères chinois ; la forme de ses lettres a été conçue pour imiter la position de la bouche et de la langue utilisées pour prononcer chaque son."
+      },
+      "nl": {
+        "hook": "Het Koreaanse alfabet werd in de jaren 1440 doelbewust uitgevonden door een koning.",
+        "fact": "Hangeul, het Koreaanse schrift, werd ontwikkeld onder koning Sejong de Grote en in 1446 ingevoerd om het gewone volk een eenvoudiger alternatief te bieden voor Chinese karakters; de vorm van de letters werd ontworpen om de stand van mond en tong bij het uitspreken van elke klank na te bootsen."
+      },
+      "es": {
+        "hook": "El alfabeto coreano fue inventado deliberadamente por un rey en la década de 1440.",
+        "fact": "El hangul, el sistema de escritura coreano, se creó bajo el reinado del rey Sejong el Grande y se promulgó en 1446 para dar al pueblo llano una alternativa más sencilla a los caracteres chinos, y la forma de sus letras se diseñó para imitar la posición de la boca y la lengua al pronunciar cada sonido."
+      }
+    }
   },
   {
     "id": "language-144",
@@ -2629,7 +3523,21 @@
     "tags": [
       "writing-systems",
       "japanese"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le japonais mélange couramment trois systèmes d'écriture dans une même phrase.",
+        "fact": "Le texte japonais combine couramment les kanjis (caractères issus du chinois), les hiraganas (un syllabaire pour la grammaire native) et les katakanas (un syllabaire surtout utilisé pour les mots empruntés à des langues étrangères), les trois pouvant parfois apparaître au sein d'une même phrase."
+      },
+      "nl": {
+        "hook": "Het Japans mengt routinematig drie schriftsystemen in één zin.",
+        "fact": "Japanse tekst combineert vaak kanji (uit het Chinees afgeleide tekens), hiragana (een lettergreepschrift voor de eigen grammatica) en katakana (een lettergreepschrift vooral voor leenwoorden uit vreemde talen), waarbij soms alle drie binnen één zin voorkomen."
+      },
+      "es": {
+        "hook": "El japonés mezcla habitualmente tres sistemas de escritura en una sola frase.",
+        "fact": "El texto japonés suele combinar el kanji (caracteres derivados del chino), el hiragana (un silabario para la gramática nativa) y el katakana (un silabario usado sobre todo para préstamos de lenguas extranjeras), y a veces los tres aparecen dentro de una misma frase."
+      }
+    }
   },
   {
     "id": "language-145",
@@ -2639,7 +3547,21 @@
     "tags": [
       "writing-systems",
       "caucasus"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le géorgien et l'arménien utilisent chacun un alphabet que l'on ne trouve nulle part ailleurs sur Terre.",
+        "fact": "Le géorgien et l'arménien utilisent chacun un système d'écriture conçu spécifiquement pour leur propre langue, sans lien avec les écritures latine, cyrillique ou arabe, tous deux remontant à environ 1 600 ans, à des alphabets traditionnellement attribués à de premiers érudits du Caucase."
+      },
+      "nl": {
+        "hook": "Het Georgisch en het Armeens gebruiken elk een alfabet dat nergens anders ter wereld voorkomt.",
+        "fact": "Zowel het Georgisch als het Armeens gebruikt een schriftsysteem dat specifiek voor de eigen taal is ontwikkeld, los van het Latijnse, Cyrillische of Arabische schrift, en beide gaan zo'n 1.600 jaar terug op alfabetten die traditioneel worden toegeschreven aan vroege geleerden in de Kaukasus."
+      },
+      "es": {
+        "hook": "El georgiano y el armenio usan cada uno un alfabeto que no se encuentra en ningún otro lugar del mundo.",
+        "fact": "Tanto el georgiano como el armenio usan sistemas de escritura desarrollados específicamente para su propia lengua, sin relación con la escritura latina, cirílica o árabe, y ambos se remontan unos 1.600 años atrás a alfabetos tradicionalmente atribuidos a primeros eruditos del Cáucaso."
+      }
+    }
   },
   {
     "id": "language-146",
@@ -2649,7 +3571,21 @@
     "tags": [
       "writing-systems",
       "endangered-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des milliers de langues dans le monde n'ont aucun système d'écriture traditionnel.",
+        "fact": "Une grande partie des langues du monde, en particulier les langues autochtones et minoritaires les moins répandues, n'existent que sous forme orale, sans écriture traditionnelle standardisée, même si certaines se sont vu attribuer plus récemment un système d'écriture conçu par des linguistes ou des missionnaires."
+      },
+      "nl": {
+        "hook": "Duizenden talen ter wereld hebben helemaal geen traditioneel schriftsysteem.",
+        "fact": "Een groot deel van 's werelds talen, vooral kleinere inheemse en minderheidstalen, bestaat alleen in gesproken vorm, zonder gestandaardiseerd traditioneel schrift, al hebben sommige er later een schriftsysteem bij gekregen, ontwikkeld door taalkundigen of missionarissen."
+      },
+      "es": {
+        "hook": "Miles de las lenguas del mundo no tienen ningún sistema de escritura tradicional.",
+        "fact": "Una gran parte de las lenguas del mundo, especialmente las lenguas indígenas y minoritarias más pequeñas, solo existen en forma oral, sin una escritura tradicional estandarizada, aunque a algunas se les ha creado más recientemente un sistema de escritura ideado por lingüistas o misioneros."
+      }
+    }
   },
   {
     "id": "language-147",
@@ -2659,7 +3595,21 @@
     "tags": [
       "writing-systems",
       "chinese"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le même caractère chinois peut se prononcer complètement différemment dans cinq langues.",
+        "fact": "Un même caractère chinois peut se prononcer de façon très différente en mandarin, en cantonais, en japonais, en coréen et en vietnamien (qui a historiquement utilisé les caractères chinois), car ce système d'écriture encode le sens plus directement que le son."
+      },
+      "nl": {
+        "hook": "Hetzelfde Chinese teken kan in vijf talen compleet anders klinken.",
+        "fact": "Eén Chinees teken kan zeer verschillend worden uitgesproken in het Mandarijn, het Kantonees, het Japans, het Koreaans en het Vietnamees (dat historisch Chinese tekens gebruikte), omdat dit schriftsysteem betekenis directer weergeeft dan klank."
+      },
+      "es": {
+        "hook": "El mismo carácter chino puede sonar completamente distinto en cinco lenguas.",
+        "fact": "Un mismo carácter chino puede pronunciarse de forma muy distinta en mandarín, cantonés, japonés, coreano y vietnamita (que históricamente usó caracteres chinos), ya que este sistema de escritura codifica el significado de forma más directa que el sonido."
+      }
+    }
   },
   {
     "id": "language-148",
@@ -2669,7 +3619,21 @@
     "tags": [
       "writing-systems",
       "vietnamese"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le vietnamien s'écrivait autrefois avec des caractères chinois, pas l'alphabet latin.",
+        "fact": "Le vietnamien s'écrivait historiquement avec une écriture dérivée du chinois appelée chữ Nôm, mais au XVIIe siècle, des missionnaires portugais et autres ont développé une écriture latine enrichie de signes diacritiques, qui est devenue par la suite le système d'écriture standard, le quốc ngữ."
+      },
+      "nl": {
+        "hook": "Het Vietnamees werd vroeger geschreven met Chinese tekens, niet met het Latijnse alfabet.",
+        "fact": "Het Vietnamees werd van oudsher geschreven met een uit het Chinees afgeleid schrift genaamd Chữ Nôm, maar in de 17e eeuw ontwikkelden Portugese en andere missionarissen een op het Latijn gebaseerd schrift met extra diakritische tekens, dat uiteindelijk het standaard schriftsysteem werd: het Quốc Ngữ."
+      },
+      "es": {
+        "hook": "El vietnamita antes se escribía con caracteres chinos, no con el alfabeto latino.",
+        "fact": "El vietnamita se escribió históricamente con una escritura derivada del chino llamada Chữ Nôm, pero en el siglo XVII misioneros portugueses y de otras nacionalidades desarrollaron una escritura basada en el latín con signos diacríticos añadidos, que acabó convirtiéndose en el sistema de escritura estándar, el Quốc Ngữ."
+      }
+    }
   },
   {
     "id": "language-149",
@@ -2679,7 +3643,21 @@
     "tags": [
       "writing-systems",
       "mongolian"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'écriture mongole traditionnelle se lit de haut en bas.",
+        "fact": "L'écriture mongole traditionnelle s'écrit verticalement, de haut en bas, les lignes successives progressant de gauche à droite sur la page, contrairement à la plupart des autres écritures verticales, comme le chinois traditionnel, qui progresse de droite à gauche."
+      },
+      "nl": {
+        "hook": "Het traditionele Mongoolse schrift loopt van boven naar beneden.",
+        "fact": "Het traditionele Mongoolse schrift wordt verticaal geschreven, van boven naar beneden, waarbij opeenvolgende regels van links naar rechts over de pagina verlopen, in tegenstelling tot de meeste andere verticale schriften, zoals het traditionele Chinees, dat van rechts naar links verloopt."
+      },
+      "es": {
+        "hook": "La escritura mongola tradicional se lee de arriba abajo.",
+        "fact": "La escritura mongola tradicional se escribe verticalmente, de arriba abajo, y las líneas sucesivas avanzan de izquierda a derecha por la página, a diferencia de la mayoría de las demás escrituras verticales, como el chino tradicional, que avanza de derecha a izquierda."
+      }
+    }
   },
   {
     "id": "language-150",
@@ -2689,7 +3667,21 @@
     "tags": [
       "writing-systems",
       "ethiopia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une écriture africaine est utilisée sans interruption depuis bien plus de mille ans.",
+        "fact": "L'écriture guèze, utilisée pour écrire l'amharique, le tigrigna et d'autres langues éthiopiennes et érythréennes, est un abugida dans lequel chaque caractère représente une combinaison consonne-voyelle, et elle est restée en usage continu depuis l'Antiquité."
+      },
+      "nl": {
+        "hook": "Eén Afrikaans schriftsysteem is al ruim duizend jaar onafgebroken in gebruik.",
+        "fact": "Het Ge'ez-schrift, gebruikt om het Amhaars, het Tigrinya en andere Ethiopische en Eritrese talen te schrijven, is een abugida waarin elk teken een combinatie van medeklinker en klinker weergeeft, en het is sinds de oudheid onafgebroken in gebruik gebleven."
+      },
+      "es": {
+        "hook": "Un sistema de escritura africano lleva en uso ininterrumpido desde hace muchísimo más de mil años.",
+        "fact": "La escritura geʽez, usada para escribir el amárico, el tigriña y otras lenguas etíopes y eritreas, es un abugida en el que cada carácter representa una combinación de consonante y vocal, y ha permanecido en uso continuo desde la Antigüedad."
+      }
+    }
   },
   {
     "id": "language-151",
@@ -2699,7 +3691,21 @@
     "tags": [
       "writing-systems",
       "south-asia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une même écriture est partagée par des dizaines de langues sud-asiatiques sans lien entre elles.",
+        "fact": "L'écriture devanagari, utilisée pour le hindi et le sanskrit, sert aussi à écrire le marathi, le népalais et plusieurs autres langues appartenant à différentes branches de la famille indo-aryenne, un peu comme l'alphabet latin est partagé par de nombreuses langues européennes sans lien de parenté directe."
+      },
+      "nl": {
+        "hook": "Eén schrift wordt gedeeld door tientallen onderling niet-verwante Zuid-Aziatische talen.",
+        "fact": "Het Devanagari-schrift, gebruikt voor het Hindi en het Sanskriet, wordt ook gebruikt om het Marathi, het Nepalees en verscheidene andere talen uit verschillende takken van de Indo-Arische taalfamilie te schrijven, net zoals het Latijnse alfabet wordt gedeeld door veel onderling niet-verwante Europese talen."
+      },
+      "es": {
+        "hook": "Una misma escritura es compartida por decenas de lenguas del sur de Asia sin relación entre sí.",
+        "fact": "La escritura devanagari, usada para el hindi y el sánscrito, también sirve para escribir el maratí, el nepalí y varias otras lenguas de distintas ramas de la familia indoaria, del mismo modo que el alfabeto latino es compartido por muchas lenguas europeas sin parentesco directo entre ellas."
+      }
+    }
   },
   {
     "id": "language-152",
@@ -2709,7 +3715,21 @@
     "tags": [
       "writing-systems",
       "cherokee"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un homme a inventé un système d'écriture complet sans savoir lire ni écrire l'anglais.",
+        "fact": "Sequoyah, un orfèvre cherokee, a mis au point le syllabaire cherokee au début des années 1800, alors même qu'il était analphabète en anglais, créant un système d'écriture entièrement original dont les symboles représentent les syllabes de la langue cherokee."
+      },
+      "nl": {
+        "hook": "Eén man bedacht een compleet schriftsysteem zonder Engels te kunnen lezen of schrijven.",
+        "fact": "Sequoyah, een Cherokee-zilversmid, ontwikkelde begin 19e eeuw het Cherokee-syllabarium, ondanks dat hij ongeletterd was in het Engels, en creëerde daarmee een volledig oorspronkelijk schriftsysteem met symbolen voor de lettergrepen van de Cherokeetaal."
+      },
+      "es": {
+        "hook": "Un hombre inventó todo un sistema de escritura sin saber leer ni escribir en inglés.",
+        "fact": "Sequoyah, un platero cherokee, desarrolló el silabario cherokee a principios del siglo XIX pese a ser analfabeto en inglés, creando un sistema de escritura totalmente original con símbolos que representan las sílabas de la lengua cherokee."
+      }
+    }
   },
   {
     "id": "language-153",
@@ -2719,7 +3739,21 @@
     "tags": [
       "constructed-languages",
       "esperanto"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'espéranto a été conçu comme une seconde langue politiquement neutre pour le monde entier.",
+        "fact": "L'espéranto a été créé en 1887 par L. L. Zamenhof, un ophtalmologiste polonais d'origine juive, qui espérait qu'une langue construite simple et régulière favoriserait la compréhension internationale et réduirait les conflits qu'il attribuait aux barrières linguistiques."
+      },
+      "nl": {
+        "hook": "Het Esperanto werd ontworpen als een politiek neutrale tweede taal voor de hele wereld.",
+        "fact": "Het Esperanto werd in 1887 ontwikkeld door L. L. Zamenhof, een Pools-Joodse oogarts, die hoopte dat een eenvoudige, regelmatige geconstrueerde taal het internationale begrip zou bevorderen en de conflicten zou verminderen die volgens hem door taalbarrières werden veroorzaakt."
+      },
+      "es": {
+        "hook": "El esperanto fue diseñado como una segunda lengua políticamente neutral para el mundo entero.",
+        "fact": "El esperanto fue creado en 1887 por L. L. Zamenhof, un oftalmólogo polaco de origen judío, que esperaba que una lengua construida sencilla y regular fomentara el entendimiento internacional y redujera los conflictos que, en su opinión, causaban las barreras lingüísticas."
+      }
+    }
   },
   {
     "id": "language-154",
@@ -2729,7 +3763,21 @@
     "tags": [
       "constructed-languages",
       "esperanto"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'espéranto est l'une des rares langues construites à avoir des locuteurs natifs.",
+        "fact": "Bien que l'espéranto ait été conçu comme une langue seconde pour la communication internationale, il compte un petit nombre de locuteurs natifs, des enfants élevés de façon bilingue par des parents espérantophones, ce qui en fait l'une des rares langues construites à posséder ne serait-ce qu'un seul locuteur natif."
+      },
+      "nl": {
+        "hook": "Het Esperanto is een van de weinige geconstrueerde talen met moedertaalsprekers.",
+        "fact": "Hoewel het Esperanto is ontworpen als tweede taal voor internationale communicatie, heeft het toch een klein aantal moedertaalsprekers voortgebracht: kinderen die tweetalig zijn opgevoed door Esperantosprekende ouders, waardoor het bijna uniek is onder geconstrueerde talen door überhaupt moedertaalsprekers te hebben."
+      },
+      "es": {
+        "hook": "El esperanto es una de las pocas lenguas construidas con hablantes nativos.",
+        "fact": "Aunque el esperanto fue diseñado como segunda lengua para la comunicación internacional, ha dado lugar a un pequeño número de hablantes nativos, niños criados de forma bilingüe por padres esperantistas, lo que lo hace casi único entre las lenguas construidas por tener siquiera algún hablante nativo."
+      }
+    }
   },
   {
     "id": "language-155",
@@ -2739,7 +3787,21 @@
     "tags": [
       "constructed-languages",
       "klingon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le klingon possède une grammaire complète, un dictionnaire et des traductions de Shakespeare.",
+        "fact": "Créé par le linguiste Marc Okrand pour la franchise Star Trek, le klingon a développé une véritable communauté de locuteurs parmi les fans, avec un guide de grammaire, des dictionnaires et des traductions intégrales d'œuvres classiques comme Hamlet."
+      },
+      "nl": {
+        "hook": "Het Klingon heeft een volledige grammatica, een woordenboek en vertalingen van Shakespeare.",
+        "fact": "Het Klingon, bedacht door taalkundige Marc Okrand voor de Star Trek-franchise, heeft een echte gemeenschap van sprekende fans opgeleverd, compleet met een grammaticagids, woordenboeken en volledige vertalingen van klassieke werken zoals Hamlet."
+      },
+      "es": {
+        "hook": "El klingon tiene una gramática completa, un diccionario y traducciones de Shakespeare.",
+        "fact": "Creado por el lingüista Marc Okrand para la franquicia de Star Trek, el klingon ha generado una auténtica comunidad de hablantes entre los fans, con una guía de gramática, diccionarios y traducciones completas de obras clásicas como Hamlet."
+      }
+    }
   },
   {
     "id": "language-156",
@@ -2749,7 +3811,21 @@
     "tags": [
       "constructed-languages",
       "television"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un linguiste a créé deux langues entièrement fonctionnelles pour une série fantastique.",
+        "fact": "Pour l'adaptation télévisée de Game of Thrones, le linguiste David J. Peterson a développé des langues complètes et fonctionnelles, le dothraki et le haut valyrien, dotées de règles de grammaire et de vocabulaire complètes, allant bien au-delà de la poignée de mots inventés qui figuraient dans les romans originaux."
+      },
+      "nl": {
+        "hook": "Een taalkundige bouwde twee volledig werkende talen voor een fantasyserie.",
+        "fact": "Voor de televisiebewerking van Game of Thrones ontwikkelde taalkundige David J. Peterson volwaardige, functionerende talen, het Dothraki en het Hoog-Valyrisch, met volledige grammatica- en woordenschatregels, veel verder dan de handvol verzonnen woorden die in de oorspronkelijke romans voorkwamen."
+      },
+      "es": {
+        "hook": "Un lingüista creó dos lenguas completamente funcionales para una serie de fantasía.",
+        "fact": "Para la adaptación televisiva de Juego de Tronos, el lingüista David J. Peterson desarrolló lenguas completas y funcionales, el dothraki y el alto valyrio, con reglas completas de gramática y vocabulario, mucho más allá del puñado de palabras inventadas que aparecían en las novelas originales."
+      }
+    }
   },
   {
     "id": "language-157",
@@ -2759,7 +3835,21 @@
     "tags": [
       "constructed-languages",
       "interlingua"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une langue construite a été conçue pour être comprise sans jamais l'avoir étudiée.",
+        "fact": "L'interlingua, une langue construite développée au milieu du XXe siècle, a puisé son vocabulaire dans les traits communs aux grandes langues romanes, à l'anglais, à l'allemand et au russe, dans le but d'être comprise à première vue par des lecteurs cultivés de ces langues, sans étude formelle."
+      },
+      "nl": {
+        "hook": "Eén geconstrueerde taal werd ontworpen om te begrijpen zonder haar ooit te bestuderen.",
+        "fact": "Interlingua, een geconstrueerde taal ontwikkeld in het midden van de 20e eeuw, ontleende zijn woordenschat aan kenmerken die gedeeld worden door de grote Romaanse talen, het Engels, het Duits en het Russisch, met als doel dat ontwikkelde lezers van die talen het op het eerste gezicht konden begrijpen, zonder formele studie."
+      },
+      "es": {
+        "hook": "Una lengua construida fue diseñada para entenderse sin haberla estudiado nunca.",
+        "fact": "El interlingua, una lengua construida desarrollada a mediados del siglo XX, tomó su vocabulario de rasgos compartidos entre las principales lenguas romances, el inglés, el alemán y el ruso, con el objetivo de que lectores cultos de esas lenguas pudieran entenderlo a primera vista, sin estudio formal."
+      }
+    }
   },
   {
     "id": "language-158",
@@ -2769,7 +3859,21 @@
     "tags": [
       "constructed-languages",
       "toki-pona"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une langue construite ne compte qu'environ 120 mots.",
+        "fact": "Le toki pona, créé par la linguiste Sonja Lang, est une langue construite délibérément minimaliste comptant environ 120 à 137 mots-racines, obligeant les locuteurs à combiner des concepts simples avec créativité pour exprimer des idées plus complexes."
+      },
+      "nl": {
+        "hook": "Eén geconstrueerde taal heeft maar ongeveer 120 woorden.",
+        "fact": "Toki Pona, bedacht door taalkundige Sonja Lang, is een bewust minimalistische geconstrueerde taal met ruwweg 120 tot 137 stamwoorden, waardoor sprekers eenvoudige begrippen creatief moeten combineren om complexere ideeën uit te drukken."
+      },
+      "es": {
+        "hook": "Una lengua construida tiene solo unas 120 palabras.",
+        "fact": "El toki pona, creado por la lingüista Sonja Lang, es una lengua construida deliberadamente minimalista con unas 120 a 137 palabras raíz, lo que obliga a los hablantes a combinar conceptos sencillos de forma creativa para expresar ideas más complejas."
+      }
+    }
   },
   {
     "id": "language-159",
@@ -2779,7 +3883,21 @@
     "tags": [
       "language-acquisition",
       "child-development"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les bébés du monde entier babillent d'abord avec les mêmes sons.",
+        "fact": "Partout dans le monde, quelle que soit la langue parlée autour d'eux, les nourrissons ont tendance à commencer à babiller avec des sons consonne-voyelle similaires comme « ba » et « da », avant que leur babillage ne se resserre progressivement autour des sons spécifiques de leur langue maternelle."
+      },
+      "nl": {
+        "hook": "Baby's over de hele wereld brabbelen eerst met dezelfde handvol klanken.",
+        "fact": "Overal ter wereld beginnen baby's, ongeacht de taal die om hen heen wordt gesproken, doorgaans te brabbelen met vergelijkbare medeklinker-klinkercombinaties zoals \"ba\" en \"da\", voordat hun gebrabbel geleidelijk verengt naar de specifieke klanken van hun moedertaal."
+      },
+      "es": {
+        "hook": "Los bebés de todo el mundo balbucean primero con los mismos sonidos.",
+        "fact": "En todas partes, sin importar la lengua que se hable a su alrededor, los bebés tienden a empezar a balbucear con sonidos consonante-vocal similares como \"ba\" y \"da\", antes de que su balbuceo se vaya estrechando gradualmente hacia los sonidos específicos de su lengua materna."
+      }
+    }
   },
   {
     "id": "language-160",
@@ -2789,7 +3907,21 @@
     "tags": [
       "language-acquisition",
       "child-development"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les bébés entendent la différence entre les sons de n'importe quelle langue, jusqu'à environ leur premier anniversaire.",
+        "fact": "Les nourrissons naissent capables de percevoir toute la gamme des contrastes sonores utilisés dans les langues humaines, mais par un processus appelé rétrécissement perceptif, ils perdent généralement la capacité à distinguer facilement les contrastes sonores non natifs vers l'âge de 10 à 12 mois."
+      },
+      "nl": {
+        "hook": "Baby's kunnen tot ongeveer hun eerste verjaardag het verschil horen tussen de klanken van elke taal.",
+        "fact": "Baby's worden geboren met het vermogen om het volledige scala aan klankcontrasten in menselijke talen waar te nemen, maar door een proces dat perceptuele vernauwing wordt genoemd, verliezen ze doorgaans rond hun 10e tot 12e levensmaand het vermogen om niet-moedertaal-klankcontrasten nog makkelijk te onderscheiden."
+      },
+      "es": {
+        "hook": "Los bebés pueden oír la diferencia entre los sonidos de cualquier lengua hasta cerca de su primer cumpleaños.",
+        "fact": "Los bebés nacen con la capacidad de percibir toda la gama de contrastes sonoros usados en las lenguas humanas, pero mediante un proceso llamado estrechamiento perceptivo, suelen perder hacia los 10 o 12 meses de edad la capacidad de distinguir con facilidad los contrastes sonoros que no son de su lengua materna."
+      }
+    }
   },
   {
     "id": "language-161",
@@ -2799,7 +3931,21 @@
     "tags": [
       "language-acquisition",
       "sign-language"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les bébés sourds babillent avec les mains.",
+        "fact": "Les nourrissons sourds exposés dès la naissance à la langue des signes traversent une phase de babillage manuel, produisant des mouvements de mains rythmés et répétitifs qui font écho au babillage vocal des bébés entendants en train d'apprendre une langue parlée."
+      },
+      "nl": {
+        "hook": "Dove baby's brabbelen met hun handen.",
+        "fact": "Dove baby's die vanaf hun geboorte aan gebarentaal worden blootgesteld, doorlopen een fase van manueel brabbelen: ze maken ritmische, herhalende handbewegingen die overeenkomen met het stembrabbelen van horende baby's die een gesproken taal leren."
+      },
+      "es": {
+        "hook": "Los bebés sordos balbucean con las manos.",
+        "fact": "Los bebés sordos expuestos a la lengua de signos desde el nacimiento pasan por una etapa de balbuceo manual, produciendo movimientos rítmicos y repetitivos de las manos que son paralelos al balbuceo vocal de los bebés oyentes que aprenden una lengua hablada."
+      }
+    }
   },
   {
     "id": "language-162",
@@ -2809,7 +3955,21 @@
     "tags": [
       "language-acquisition",
       "bilingualism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les bébés bilingues distinguent très tôt leurs deux langues.",
+        "fact": "Des études montrent que les nourrissons élevés dans des foyers bilingues peuvent distinguer leurs deux langues dès un très jeune âge et atteignent généralement les grandes étapes du langage selon un calendrier similaire à celui des enfants monolingues, contrairement aux vieilles craintes de confusion ou de retard."
+      },
+      "nl": {
+        "hook": "Tweetalige baby's kunnen hun twee talen al heel vroeg uit elkaar houden.",
+        "fact": "Onderzoek toont aan dat baby's die in tweetalige gezinnen opgroeien hun twee talen al op zeer jonge leeftijd kunnen onderscheiden, en over het algemeen dezelfde taalmijlpalen op een vergelijkbaar tempo bereiken als eentalige leeftijdsgenootjes, in tegenstelling tot oudere angsten voor verwarring of achterstand."
+      },
+      "es": {
+        "hook": "Los bebés bilingües distinguen sus dos idiomas desde muy temprano.",
+        "fact": "Las investigaciones muestran que los bebés criados en hogares bilingües pueden distinguir entre sus dos idiomas desde una edad muy temprana y, por lo general, alcanzan los grandes hitos del lenguaje en un plazo similar al de los bebés monolingües, contrariamente a los antiguos temores de confusión o retraso."
+      }
+    }
   },
   {
     "id": "language-163",
@@ -2819,7 +3979,21 @@
     "tags": [
       "language-acquisition",
       "critical-period"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il pourrait exister une fenêtre qui se referme pour apprendre une langue comme un natif.",
+        "fact": "L'hypothèse de la période critique suggère que les enfants qui ne sont exposés à aucune langue durant la petite enfance, ou qui commencent à apprendre une nouvelle langue après la puberté, ont beaucoup moins de chances d'atteindre une maîtrise pleinement native, en particulier pour la prononciation et la grammaire."
+      },
+      "nl": {
+        "hook": "Er is mogelijk een venster dat sluit om een taal als een moedertaalspreker te leren.",
+        "fact": "De kritieke-periodehypothese stelt dat kinderen die tijdens hun vroege jeugd aan geen enkele taal worden blootgesteld, of die pas na de puberteit een nieuwe taal beginnen te leren, veel minder kans hebben om een volledig moedertaalniveau te bereiken, vooral wat uitspraak en grammatica betreft."
+      },
+      "es": {
+        "hook": "Podría existir una ventana que se cierra para aprender un idioma como un hablante nativo.",
+        "fact": "La hipótesis del período crítico sugiere que los niños que no están expuestos a ningún idioma durante la primera infancia, o que empiezan a aprender un nuevo idioma después de la pubertad, tienen muchas menos probabilidades de alcanzar una fluidez totalmente nativa, sobre todo en la pronunciación y la gramática."
+      }
+    }
   },
   {
     "id": "language-164",
@@ -2830,7 +4004,24 @@
     "tags": [
       "language-acquisition",
       "critical-period"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le cas d'une enfant isolée est devenu une preuve centrale sur l'acquisition de la grammaire.",
+        "fact": "Le cas d'une fille connue sous le nom de « Genie », découverte en 1970 après des années d'isolement sévère la privant de tout langage jusqu'à l'âge de 13 ans, a fourni aux chercheurs des preuves rares, quoique controversées, en faveur de l'hypothèse de la période critique, puisqu'elle n'a jamais pleinement acquis un langage grammatical malgré des années d'intervention par la suite.",
+        "whyItMatters": "Son cas reste l'un des seuls exemples concrets documentés de ce qu'il advient de la capacité de langage humaine lorsqu'un enfant ne reçoit aucun apport linguistique durant la petite enfance, une telle expérience étant évidemment impossible à provoquer délibérément pour des raisons éthiques."
+      },
+      "nl": {
+        "hook": "Het geval van één geïsoleerd kind werd centraal bewijs voor hoe kinderen grammatica verwerven.",
+        "fact": "Het geval van een meisje bekend als \"Genie\", ontdekt in 1970 na jarenlange, extreme isolatie van taal tot haar dertiende, leverde onderzoekers zeldzaam, zij het omstreden, bewijs voor de kritieke-periodehypothese, aangezien ze ondanks jarenlange latere begeleiding nooit volledig grammaticale taal heeft verworven.",
+        "whyItMatters": "Haar geval blijft een van de weinige echte gegevenspunten over wat er met het menselijk taalvermogen gebeurt wanneer een kind tijdens de vroege jeugd helemaal geen taalinput krijgt, aangezien dit doelbewust testen uiteraard onethisch zou zijn."
+      },
+      "es": {
+        "hook": "El caso de una niña aislada se convirtió en prueba clave sobre cómo los niños adquieren la gramática.",
+        "fact": "El caso de una niña conocida como \"Genie\", descubierta en 1970 tras años de aislamiento severo del lenguaje hasta los 13 años, proporcionó a los investigadores pruebas poco frecuentes, aunque controvertidas, a favor de la hipótesis del período crítico, ya que nunca llegó a adquirir plenamente un lenguaje gramatical pese a años de intervención posterior.",
+        "whyItMatters": "Su caso sigue siendo uno de los pocos datos reales sobre lo que le ocurre a la capacidad lingüística humana cuando un niño no recibe ningún estímulo lingüístico durante la primera infancia, ya que someter esto a prueba deliberadamente sería, obviamente, poco ético."
+      }
+    }
   },
   {
     "id": "language-165",
@@ -2840,7 +4031,21 @@
     "tags": [
       "language-acquisition",
       "grammar"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les tout-petits appliquent les règles de grammaire avant d'apprendre les exceptions.",
+        "fact": "Dans de nombreuses langues, les jeunes enfants traversent une étape appelée surrégularisation, appliquant des schémas grammaticaux réguliers, comme les terminaisons standard du passé, même aux mots irréguliers, ce qui montre qu'ils ont intériorisé une règle avant d'apprendre quels mots y échappent."
+      },
+      "nl": {
+        "hook": "Peuters passen grammaticaregels toe voordat ze de uitzonderingen leren.",
+        "fact": "In veel talen doorlopen jonge kinderen een fase die overregularisatie wordt genoemd: ze passen reguliere grammaticale patronen, zoals standaard verleden-tijdsuitgangen, zelfs toe op onregelmatige woorden, wat aantoont dat ze een regel hebben geïnternaliseerd voordat ze leren welke woorden daarvan afwijken."
+      },
+      "es": {
+        "hook": "Los niños pequeños aplican las reglas gramaticales antes de aprender las excepciones.",
+        "fact": "En muchos idiomas, los niños pequeños atraviesan una etapa llamada sobrerregularización, en la que aplican patrones gramaticales regulares, como las terminaciones estándar del pasado, incluso a palabras irregulares, lo que demuestra que han interiorizado una regla antes de aprender qué palabras la incumplen."
+      }
+    }
   },
   {
     "id": "language-166",
@@ -2851,7 +4056,24 @@
     "tags": [
       "language-acquisition",
       "creoles"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des enfants peuvent ajouter spontanément une grammaire complexe à une langue qui n'en a aucune.",
+        "fact": "Des études sur les langues créoles, dont le créole hawaïen, suggèrent que lorsque des enfants grandissent en entendant un pidgin adulte simplifié, ils peuvent spontanément l'enrichir d'une grammaire cohérente et complexe en une seule génération, créant ainsi de fait une langue entièrement nouvelle.",
+        "whyItMatters": "Ce processus, appelé créolisation, est l'une des preuves les plus solides que les enfants humains possèdent une pulsion innée à construire des systèmes grammaticaux complets, même à partir d'un apport limité ou incohérent."
+      },
+      "nl": {
+        "hook": "Kinderen kunnen spontaan complexe grammatica toevoegen aan een taal die er geen heeft.",
+        "fact": "Studies naar creooltalen, waaronder het Hawaiiaans Creools, suggereren dat wanneer kinderen opgroeien met een vereenvoudigd pidgin van volwassenen, ze dit binnen één generatie spontaan kunnen verrijken met een consistente, complexe grammatica, waardoor ze in feite een volledig nieuwe taal creëren.",
+        "whyItMatters": "Dit proces, creolisering genoemd, is een van de sterkste aanwijzingen dat menselijke kinderen een aangeboren drang hebben om volledige grammaticale systemen op te bouwen, zelfs vanuit beperkte of inconsistente input."
+      },
+      "es": {
+        "hook": "Los niños pueden añadir espontáneamente una gramática compleja a un idioma que no tiene ninguna.",
+        "fact": "Estudios sobre lenguas criollas, incluido el criollo hawaiano, sugieren que cuando los niños crecen escuchando un pidgin simplificado de adultos, pueden enriquecerlo espontáneamente con una gramática coherente y compleja en una sola generación, creando de hecho un idioma completamente nuevo.",
+        "whyItMatters": "Este proceso, llamado criollización, es una de las pruebas más sólidas de que los niños humanos tienen un impulso innato para construir sistemas gramaticales completos, incluso a partir de un input limitado o inconsistente."
+      }
+    }
   },
   {
     "id": "language-167",
@@ -2861,7 +4083,21 @@
     "tags": [
       "creoles",
       "language-families"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "De nouvelles langues peuvent naître en l'espace d'une seule vie.",
+        "fact": "Un pidgin est une langue de contact simplifiée qui se développe lorsque des locuteurs de langues différentes ont besoin de communiquer, souvent pour le commerce ; quand des enfants grandissent en apprenant un pidgin comme langue maternelle et en enrichissent la grammaire, celui-ci devient un créole, une langue à part entière et stable."
+      },
+      "nl": {
+        "hook": "Nieuwe talen kunnen ontstaan binnen één mensenleven.",
+        "fact": "Een pidgin is een vereenvoudigde contacttaal die ontstaat wanneer sprekers van verschillende talen met elkaar moeten communiceren, vaak voor handel; wanneer kinderen opgroeien met een pidgin als moedertaal en de grammatica ervan verrijken, wordt het een creooltaal, een volwaardige en stabiele taal op zichzelf."
+      },
+      "es": {
+        "hook": "Pueden nacer idiomas nuevos en el transcurso de una sola vida.",
+        "fact": "Un pidgin es una lengua de contacto simplificada que surge cuando hablantes de idiomas distintos necesitan comunicarse, a menudo por motivos comerciales; cuando los niños crecen aprendiendo un pidgin como lengua materna y enriquecen su gramática, este se convierte en un criollo, un idioma pleno y estable por derecho propio."
+      }
+    }
   },
   {
     "id": "language-168",
@@ -2871,7 +4107,21 @@
     "tags": [
       "creoles",
       "papua-new-guinea"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un créole à base d'anglais est une langue officielle de Papouasie-Nouvelle-Guinée.",
+        "fact": "Le tok pisin s'est développé au contact de l'anglais et des langues mélanésiennes locales, et c'est aujourd'hui l'une des langues officielles de Papouasie-Nouvelle-Guinée, parlée comme première ou seconde langue par des millions de personnes et utilisée au parlement, dans les médias et à l'école."
+      },
+      "nl": {
+        "hook": "Een op het Engels gebaseerd creools is een officiële taal van Papoea-Nieuw-Guinea.",
+        "fact": "Het Tok Pisin ontstond door het contact tussen het Engels en lokale Melanesische talen en is nu een van de officiële talen van Papoea-Nieuw-Guinea, gesproken als eerste of tweede taal door miljoenen mensen en gebruikt in het parlement, de media en het onderwijs."
+      },
+      "es": {
+        "hook": "Un criollo basado en el inglés es idioma oficial de Papúa Nueva Guinea.",
+        "fact": "El tok pisin se desarrolló a partir del contacto entre el inglés y las lenguas melanesias locales, y hoy es uno de los idiomas oficiales de Papúa Nueva Guinea, hablado como primera o segunda lengua por millones de personas y utilizado en el parlamento, los medios de comunicación y la educación."
+      }
+    }
   },
   {
     "id": "language-169",
@@ -2881,7 +4131,21 @@
     "tags": [
       "creoles",
       "haitian-creole"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le créole haïtien n'est pas du « français cassé » ; c'est une langue à part entière.",
+        "fact": "Le créole haïtien s'est développé au contact du français et de langues d'Afrique de l'Ouest durant l'époque coloniale, et possède sa propre grammaire et phonologie cohérentes, suffisamment distinctes du français pour que les francophones standards ne puissent généralement pas le comprendre sans l'avoir étudié."
+      },
+      "nl": {
+        "hook": "Haïtiaans Creools is geen \"gebroken Frans\"; het is een volwaardige eigen taal.",
+        "fact": "Het Haïtiaans Creools ontstond door contact tussen het Frans en West-Afrikaanse talen tijdens de koloniale periode en heeft zijn eigen consistente grammatica en fonologie, voldoende verschillend van het Frans dat sprekers van standaardfrans het doorgaans niet zonder studie kunnen begrijpen."
+      },
+      "es": {
+        "hook": "El criollo haitiano no es \"francés mal hablado\"; es un idioma propio y completo.",
+        "fact": "El criollo haitiano se desarrolló a partir del contacto entre el francés y lenguas de África occidental durante la época colonial, y cuenta con su propia gramática y fonología coherentes, lo bastante distintas del francés como para que los hablantes de francés estándar normalmente no puedan entenderlo sin estudiarlo."
+      }
+    }
   },
   {
     "id": "language-170",
@@ -2891,7 +4155,21 @@
     "tags": [
       "swahili",
       "language-contact"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le vocabulaire du swahili porte des siècles d'histoire commerciale arabe.",
+        "fact": "Le swahili, une langue bantoue et lingua franca dans une grande partie de l'Afrique de l'Est, a puisé une part importante de son vocabulaire dans l'arabe au fil de siècles d'échanges commerciaux le long de la côte swahilie, bien que sa grammaire reste fermement bantoue dans sa structure."
+      },
+      "nl": {
+        "hook": "De woordenschat van het Swahili draagt eeuwen Arabische handelsgeschiedenis met zich mee.",
+        "fact": "Het Swahili, een Bantoetaal en lingua franca in grote delen van Oost-Afrika, nam een aanzienlijk deel van zijn woordenschat over uit het Arabisch dankzij eeuwenlange handel langs de Swahilikust, hoewel de grammatica structureel stevig Bantoe blijft."
+      },
+      "es": {
+        "hook": "El vocabulario del suajili conserva siglos de historia comercial árabe.",
+        "fact": "El suajili, una lengua bantú y lengua franca en gran parte de África oriental, absorbió una parte considerable de su vocabulario del árabe a través de siglos de comercio a lo largo de la costa suajili, aunque su gramática sigue siendo firmemente bantú en su estructura."
+      }
+    }
   },
   {
     "id": "language-171",
@@ -2901,7 +4179,21 @@
     "tags": [
       "hindi-urdu",
       "writing-systems"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'hindi et l'ourdou sont presque la même langue parlée, écrite dans deux écritures différentes.",
+        "fact": "L'hindi et l'ourdou parlés sont largement mutuellement intelligibles dans la conversation courante, mais l'hindi s'écrit avec l'alphabet devanagari et puise davantage son vocabulaire soutenu dans le sanskrit, tandis que l'ourdou s'écrit avec une écriture perso-arabe et puise davantage son vocabulaire soutenu dans le persan et l'arabe."
+      },
+      "nl": {
+        "hook": "Hindi en Urdu zijn bijna dezelfde gesproken taal, geschreven in twee verschillende schriften.",
+        "fact": "Gesproken Hindi en Urdu zijn in het dagelijkse gesprek grotendeels onderling verstaanbaar, maar Hindi wordt geschreven in het Devanagari-schrift en put zijn formele woordenschat vooral uit het Sanskriet, terwijl Urdu in een Perzisch-Arabisch schrift wordt geschreven en zijn formele woordenschat vooral uit het Perzisch en Arabisch put."
+      },
+      "es": {
+        "hook": "El hindi y el urdu son casi el mismo idioma hablado, escrito en dos alfabetos distintos.",
+        "fact": "El hindi y el urdu hablados son, en gran medida, mutuamente inteligibles en la conversación cotidiana, pero el hindi se escribe en escritura devanagari y toma más vocabulario formal del sánscrito, mientras que el urdu se escribe en una escritura perso-árabe y toma más vocabulario formal del persa y el árabe."
+      }
+    }
   },
   {
     "id": "language-172",
@@ -2911,7 +4203,21 @@
     "tags": [
       "mutual-intelligibility",
       "scandinavian"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Norvégiens, Suédois et Danois peuvent souvent discuter sans jamais avoir étudié la langue de l'autre.",
+        "fact": "Le norvégien, le suédois et le danois sont suffisamment proches en vocabulaire et en grammaire pour que leurs locuteurs puissent souvent chacun utiliser leur propre langue en conversation et se comprendre raisonnablement bien, bien qu'ils soient classés comme des langues nationales distinctes."
+      },
+      "nl": {
+        "hook": "Noren, Zweden en Denen kunnen vaak keuvelen zonder ooit elkaars taal te hebben gestudeerd.",
+        "fact": "Noors, Zweeds en Deens liggen qua woordenschat en grammatica dicht genoeg bij elkaar dat sprekers in een gesprek vaak elk hun eigen taal kunnen gebruiken en elkaar redelijk goed kunnen begrijpen, ondanks dat ze als afzonderlijke nationale talen worden geclassificeerd."
+      },
+      "es": {
+        "hook": "Noruegos, suecos y daneses suelen poder charlar sin haber estudiado nunca el idioma del otro.",
+        "fact": "El noruego, el sueco y el danés son lo bastante cercanos en vocabulario y gramática como para que sus hablantes puedan a menudo usar cada uno su propio idioma en una conversación y entenderse razonablemente bien, pese a estar clasificados como idiomas nacionales distintos."
+      }
+    }
   },
   {
     "id": "language-173",
@@ -2921,7 +4227,21 @@
     "tags": [
       "language-families",
       "mutual-intelligibility"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains « dialectes » sont moins intercompréhensibles que certaines « langues distinctes ».",
+        "fact": "Les linguistes font souvent remarquer que la frontière entre une « langue » et un « dialecte » est autant politique que linguistique : le mandarin et le cantonais sont mutuellement inintelligibles à l'oral et pourtant tous deux qualifiés de « dialectes » du chinois, tandis que le suédois et le norvégien sont mutuellement intelligibles et pourtant classés comme des langues distinctes."
+      },
+      "nl": {
+        "hook": "Sommige \"dialecten\" zijn minder onderling verstaanbaar dan sommige \"aparte talen\".",
+        "fact": "Taalkundigen wijzen er vaak op dat de grens tussen een \"taal\" en een \"dialect\" evenzeer politiek als taalkundig is: Mandarijn en Kantonees zijn onderling onverstaanbaar wanneer gesproken, maar worden allebei \"dialecten\" van het Chinees genoemd, terwijl Zweeds en Noors onderling verstaanbaar zijn maar als aparte talen worden geclassificeerd."
+      },
+      "es": {
+        "hook": "Algunos \"dialectos\" son menos mutuamente inteligibles que algunos \"idiomas distintos\".",
+        "fact": "Los lingüistas suelen señalar que la línea entre un \"idioma\" y un \"dialecto\" es tanto política como lingüística: el mandarín y el cantonés son mutuamente ininteligibles al hablarse y, sin embargo, ambos se llaman \"dialectos\" del chino, mientras que el sueco y el noruego son mutuamente inteligibles pero se clasifican como idiomas distintos."
+      }
+    }
   },
   {
     "id": "language-174",
@@ -2931,7 +4251,21 @@
     "tags": [
       "arabic",
       "mutual-intelligibility"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'arabe compte des dizaines de variétés parlées pas toujours intercompréhensibles.",
+        "fact": "L'arabe standard moderne sert de langue écrite et formelle parlée commune dans tout le monde arabe, mais les dialectes parlés au quotidien, comme le marocain, l'égyptien ou le golfique, peuvent différer suffisamment pour que des locuteurs venus des extrémités opposées de la région aient du mal à se comprendre dans leur parler familier."
+      },
+      "nl": {
+        "hook": "Het Arabisch kent tientallen gesproken varianten die niet altijd onderling verstaanbaar zijn.",
+        "fact": "Modern Standaardarabisch dient als gedeelde geschreven en formeel gesproken taal in de hele Arabische wereld, maar de dagelijkse gesproken dialecten, zoals het Marokkaans, Egyptisch en Golf-Arabisch, kunnen zo sterk verschillen dat sprekers van weerszijden van de regio moeite kunnen hebben elkaars omgangstaal te begrijpen."
+      },
+      "es": {
+        "hook": "El árabe tiene decenas de variedades habladas que no siempre son mutuamente inteligibles.",
+        "fact": "El árabe estándar moderno sirve como lengua escrita y formal compartida en todo el mundo árabe, pero los dialectos hablados cotidianos, como el marroquí, el egipcio o el del Golfo, pueden diferir lo suficiente como para que hablantes de extremos opuestos de la región tengan dificultades para entenderse en su habla coloquial."
+      }
+    }
   },
   {
     "id": "language-175",
@@ -2941,7 +4275,21 @@
     "tags": [
       "language-diversity",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Inde reconnaît 22 langues officielles, et des centaines d'autres y sont parlées.",
+        "fact": "La constitution indienne reconnaît 22 langues répertoriées, mais le pays compte des centaines de langues supplémentaires et des milliers de dialectes, ce qui en fait l'une des populations les plus diverses au monde sur le plan linguistique."
+      },
+      "nl": {
+        "hook": "India erkent 22 officiële talen, en er worden er nog honderden meer gesproken.",
+        "fact": "De Indiase grondwet erkent 22 opgenomen talen, maar het land telt honderden extra talen en duizenden dialecten, wat het tot een van de taalkundig meest diverse bevolkingen ter wereld maakt."
+      },
+      "es": {
+        "hook": "India reconoce 22 idiomas oficiales, y se hablan cientos más.",
+        "fact": "La constitución de la India reconoce 22 idiomas incluidos en su lista oficial, pero el país alberga cientos de idiomas adicionales y miles de dialectos, lo que lo convierte en una de las poblaciones lingüísticamente más diversas del mundo."
+      }
+    }
   },
   {
     "id": "language-176",
@@ -2951,7 +4299,21 @@
     "tags": [
       "language-diversity",
       "nigeria"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Nigeria abrite plus de 500 langues.",
+        "fact": "Le Nigeria compte environ 500 langues distinctes, dont le haoussa, le yoruba et l'igbo parmi les plus parlées, ce qui en fait l'un des pays les plus diversifiés d'Afrique sur le plan linguistique."
+      },
+      "nl": {
+        "hook": "Nigeria telt meer dan 500 talen.",
+        "fact": "Nigeria telt naar schatting meer dan 500 verschillende talen, met het Hausa, Yoruba en Igbo als de grootste, waardoor het een van de taalkundig meest diverse landen van Afrika is."
+      },
+      "es": {
+        "hook": "Nigeria alberga más de 500 idiomas.",
+        "fact": "Nigeria cuenta con un estimado de más de 500 idiomas distintos, entre los que destacan el hausa, el yoruba y el igbo por ser los más hablados, lo que lo convierte en uno de los países lingüísticamente más diversos de África."
+      }
+    }
   },
   {
     "id": "language-177",
@@ -2961,7 +4323,21 @@
     "tags": [
       "language-diversity",
       "indonesia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Indonésie compte des centaines de langues locales, mais sa langue nationale était une langue régionale minoritaire.",
+        "fact": "L'Indonésie abrite plus de 700 langues, et pourtant sa langue nationale, l'indonésien, est fondée sur le malais, historiquement parlé comme langue maternelle par seulement une petite part de la population, mais qui servait depuis longtemps de langue commerciale régionale largement comprise."
+      },
+      "nl": {
+        "hook": "Indonesië heeft honderden lokale talen, maar zijn nationale taal was een regionale minderheidstaal.",
+        "fact": "Indonesië telt meer dan 700 talen, maar de nationale taal, het Indonesisch, is gebaseerd op het Maleis, dat historisch slechts door een klein deel van de bevolking als moedertaal werd gesproken, maar al lang dienstdeed als een algemeen begrepen regionale handelstaal."
+      },
+      "es": {
+        "hook": "Indonesia tiene cientos de idiomas locales, pero su idioma nacional era una lengua regional minoritaria.",
+        "fact": "Indonesia alberga más de 700 idiomas, y sin embargo su idioma nacional, el indonesio, se basa en el malayo, que históricamente solo era la lengua materna de una pequeña parte de la población, pero que llevaba mucho tiempo funcionando como lengua comercial regional ampliamente entendida."
+      }
+    }
   },
   {
     "id": "language-178",
@@ -2971,7 +4347,21 @@
     "tags": [
       "language-families",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Presque toutes les langues d'Afrique se regroupent en une poignée de grandes familles.",
+        "fact": "La grande majorité des quelque 2 000 langues d'Afrique appartiennent à l'une de quelques grandes familles, dont l'afro-asiatique, le nilo-saharien et le niger-congo, bien que l'ancien regroupement « khoïsan » soit désormais considéré par de nombreux linguistes moins comme une véritable famille que comme une catégorie fourre-tout pour les langues à consonnes clics."
+      },
+      "nl": {
+        "hook": "Bijna alle talen van Afrika vallen onder slechts een handvol grote taalfamilies.",
+        "fact": "De overgrote meerderheid van Afrika's naar schatting 2000 talen behoort tot een van de weinige grote taalfamilies, waaronder het Afro-Aziatisch, Nilo-Saharaans en Niger-Congo, hoewel de oudere groepering \"Khoisan\" door veel taalkundigen tegenwoordig eerder wordt gezien als een verzamelnaam voor talen met klikconsonanten dan als een echte taalfamilie."
+      },
+      "es": {
+        "hook": "Casi todos los idiomas de África se agrupan en un puñado de grandes familias.",
+        "fact": "La gran mayoría de los aproximadamente 2000 idiomas de África pertenecen a una de unas pocas grandes familias, entre ellas la afroasiática, la nilo-sahariana y la nigerocongoleña, aunque muchos lingüistas consideran hoy que el antiguo agrupamiento \"khoisan\" es menos una familia real que una categoría genérica para lenguas con consonantes clic."
+      }
+    }
   },
   {
     "id": "language-179",
@@ -2981,7 +4371,21 @@
     "tags": [
       "phonetics",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les consonnes clics sont des sons ordinaires dans plusieurs langues d'Afrique australe.",
+        "fact": "Des langues comme le xhosa, le zoulou et diverses langues khoïsan d'Afrique australe utilisent des consonnes clics, des sons produits en aspirant l'air plutôt qu'en l'expirant, comme éléments réguliers de leur système sonore plutôt que comme de simples interjections."
+      },
+      "nl": {
+        "hook": "Klikmedeklinkers zijn gewone klanken in verscheidene talen van zuidelijk Afrika.",
+        "fact": "Talen zoals Xhosa, Zoeloe en diverse Khoisantalen van zuidelijk Afrika gebruiken klikmedeklinkers, klanken die worden voortgebracht door lucht naar binnen te trekken in plaats van naar buiten te blazen, als reguliere onderdelen van hun klanksysteem en niet slechts als tussenwerpsels."
+      },
+      "es": {
+        "hook": "Las consonantes clic son sonidos comunes en varios idiomas del sur de África.",
+        "fact": "Idiomas como el xhosa, el zulú y varias lenguas khoisan del sur de África usan consonantes clic, sonidos que se producen al aspirar aire hacia adentro en lugar de expulsarlo, como partes regulares de su sistema fonético y no solo como interjecciones."
+      }
+    }
   },
   {
     "id": "language-180",
@@ -2991,7 +4395,21 @@
     "tags": [
       "language-families",
       "caucasus"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Caucase abrite trois familles de langues introuvables ailleurs sur Terre.",
+        "fact": "Les montagnes du Caucase abritent trois familles de langues indigènes, le kartvélien (dont le géorgien), le nord-ouest caucasien et le nord-est caucasien, dont aucune n'a été reliée de façon concluante à une famille de langues trouvée en dehors de la région."
+      },
+      "nl": {
+        "hook": "De Kaukasus is de thuisbasis van drie taalfamilies die nergens anders ter wereld voorkomen.",
+        "fact": "De Kaukasusbergen zijn de thuisbasis van drie inheemse taalfamilies: het Kartvelisch (waaronder het Georgisch), het Noordwest-Kaukasisch en het Noordoost-Kaukasisch, waarvan geen enkele overtuigend is gelinkt aan een taalfamilie buiten de regio."
+      },
+      "es": {
+        "hook": "El Cáucaso alberga tres familias lingüísticas que no existen en ningún otro lugar del mundo.",
+        "fact": "Las montañas del Cáucaso albergan tres familias de lenguas indígenas: la kartveliana (incluido el georgiano), la del noroeste del Cáucaso y la del noreste del Cáucaso, ninguna de las cuales ha sido vinculada de forma concluyente a ninguna familia lingüística fuera de la región."
+      }
+    }
   },
   {
     "id": "language-181",
@@ -3001,7 +4419,21 @@
     "tags": [
       "endangered-languages",
       "indigenous-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Amériques précolombiennes comptaient bien plus d'un millier de langues.",
+        "fact": "Avant la colonisation européenne, les Amériques auraient abrité bien plus d'un millier de langues autochtones distinctes ; aujourd'hui, une grande partie d'entre elles sont éteintes ou ne comptent plus qu'un petit nombre de locuteurs âgés."
+      },
+      "nl": {
+        "hook": "De Amerika's van vóór het Europese contact telden ruim duizend talen.",
+        "fact": "Vóór de Europese kolonisatie waren de Amerika's naar men aanneemt de thuisbasis van ruim duizend verschillende inheemse talen; tegenwoordig is een groot deel daarvan uitgestorven of heeft nog maar een klein aantal, veelal oudere, sprekers over."
+      },
+      "es": {
+        "hook": "Las Américas anteriores al contacto europeo albergaban bastante más de mil idiomas.",
+        "fact": "Antes de la colonización europea, se cree que las Américas albergaban bastante más de mil lenguas indígenas distintas; hoy, una gran parte de ellas están extintas o solo cuentan con un pequeño número de hablantes ancianos."
+      }
+    }
   },
   {
     "id": "language-182",
@@ -3012,7 +4444,24 @@
     "tags": [
       "endangered-languages",
       "revitalization"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'hawaïen a failli s'éteindre avant qu'un mouvement de renouveau ne le ramène à la vie.",
+        "fact": "Dans les années 1980, l'hawaïen ne comptait plus qu'un petit nombre de locuteurs natifs courants, pour la plupart âgés, mais un mouvement populaire visant à créer des écoles d'immersion en langue hawaïenne a depuis permis à une nouvelle génération de locuteurs courants de voir le jour.",
+        "whyItMatters": "Le redressement de l'hawaïen est aujourd'hui cité à l'international comme un modèle de la manière dont une éducation en immersion délibérée peut ramener une langue du bord de l'extinction en l'espace de quelques générations."
+      },
+      "nl": {
+        "hook": "Het Hawaiiaans stond bijna op uitsterven voordat een revivalbeweging het terugbracht.",
+        "fact": "Tegen de jaren tachtig had het Hawaiiaans nog maar een klein aantal vloeiende moedertaalsprekers, voornamelijk ouderen, maar een grassroots-beweging om Hawaiiaanstalige onderdompelingsscholen op te richten heeft sindsdien een nieuwe generatie vloeiende sprekers voortgebracht.",
+        "whyItMatters": "Het herstel van het Hawaiiaans wordt internationaal aangehaald als een model voor hoe doelbewust onderdompelingsonderwijs een taal binnen een paar generaties kan terugtrekken van de rand van uitsterven."
+      },
+      "es": {
+        "hook": "El hawaiano casi se extingue antes de que un movimiento de revitalización lo rescatara.",
+        "fact": "Para la década de 1980, el hawaiano solo contaba con un pequeño número de hablantes nativos fluidos, en su mayoría ancianos, pero un movimiento popular para establecer escuelas de inmersión en hawaiano ha criado desde entonces a una nueva generación de hablantes fluidos.",
+        "whyItMatters": "La recuperación del hawaiano se cita hoy a nivel internacional como un modelo de cómo la educación de inmersión deliberada puede rescatar a un idioma del borde de la extinción en un par de generaciones."
+      }
+    }
   },
   {
     "id": "language-183",
@@ -3023,7 +4472,24 @@
     "tags": [
       "language-revival",
       "hebrew"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'hébreu moderne a été ressuscité comme langue parlée du quotidien après des siècles d'usage surtout liturgique.",
+        "fact": "L'hébreu a survécu pendant des siècles principalement comme langue écrite et religieuse plutôt que parlée au quotidien, jusqu'à ce qu'un effort de renouveau mené en grande partie par Eliezer Ben-Yehuda à la fin du XIXe et au début du XXe siècle contribue à en faire la langue vivante et maternelle de l'Israël moderne.",
+        "whyItMatters": "C'est l'un des seuls cas bien documentés dans l'histoire d'une langue sans locuteur natif ayant été ressuscitée avec succès pour devenir la langue maternelle de toute une nation moderne."
+      },
+      "nl": {
+        "hook": "Modern Hebreeuws werd na eeuwen van vooral liturgisch gebruik nieuw leven ingeblazen als dagelijkse spreektaal.",
+        "fact": "Het Hebreeuws overleefde eeuwenlang vooral als geschreven en religieuze taal in plaats van een alledaagse spreektaal, totdat een reddingspoging die grotendeels werd geleid door Eliezer Ben-Yehuda aan het einde van de 19e en het begin van de 20e eeuw, het hielp veranderen in de levende, moedertaal van het moderne Israël.",
+        "whyItMatters": "Het geldt als een van de weinige goed gedocumenteerde gevallen in de geschiedenis van een taal zonder moedertaalsprekers die met succes werd nieuw leven ingeblazen tot de eerste taal van een hele moderne natie."
+      },
+      "es": {
+        "hook": "El hebreo moderno fue revivido como idioma hablado cotidiano tras siglos de uso mayormente litúrgico.",
+        "fact": "El hebreo sobrevivió durante siglos principalmente como lengua escrita y religiosa más que como lengua hablada cotidiana, hasta que un esfuerzo de revitalización liderado en gran parte por Eliezer Ben-Yehuda a finales del siglo XIX y principios del XX ayudó a convertirlo en la lengua viva y materna del Israel moderno.",
+        "whyItMatters": "Es uno de los pocos casos bien documentados en la historia de un idioma sin hablantes nativos que fue revivido con éxito hasta convertirse en la primera lengua de toda una nación moderna."
+      }
+    }
   },
   {
     "id": "language-184",
@@ -3033,7 +4499,21 @@
     "tags": [
       "language-revival",
       "cornish"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le cornique s'est éteint puis a été reconstruit à partir de textes historiques.",
+        "fact": "Le cornique, une langue celtique autrefois parlée en Cornouailles, en Angleterre, a perdu ses derniers locuteurs natifs pleinement courants au XVIIIe siècle, mais des passionnés ont ensuite reconstruit la langue à partir de textes historiques, et elle compte aujourd'hui une petite communauté de nouveaux locuteurs."
+      },
+      "nl": {
+        "hook": "Het Cornisch stierf uit en werd later herbouwd op basis van historische bronnen.",
+        "fact": "Het Cornisch, een Keltische taal die ooit in het Engelse Cornwall werd gesproken, verloor zijn laatste volledig vloeiende moedertaalsprekers tegen de 18e eeuw, maar liefhebbers reconstrueerden de taal later aan de hand van historische teksten, en tegenwoordig heeft ze een kleine gemeenschap van nieuwe sprekers."
+      },
+      "es": {
+        "hook": "El córnico se extinguió y más tarde fue reconstruido a partir de registros históricos.",
+        "fact": "El córnico, una lengua celta que antaño se hablaba en Cornualles, Inglaterra, perdió a sus últimos hablantes nativos plenamente fluidos hacia el siglo XVIII, pero entusiastas reconstruyeron después el idioma a partir de textos históricos, y hoy cuenta con una pequeña comunidad de nuevos hablantes."
+      }
+    }
   },
   {
     "id": "language-185",
@@ -3043,7 +4523,21 @@
     "tags": [
       "endangered-languages",
       "unesco"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'UNESCO évalue les langues menacées sur une échelle allant de « vulnérable » à « éteinte ».",
+        "fact": "L'Atlas des langues en danger dans le monde de l'UNESCO classe le degré de menace par étapes, de « vulnérable » (parlée par les enfants mais uniquement dans des contextes limités) jusqu'à « éteinte », en passant par « en danger », « sérieusement en danger » et « en danger critique », afin d'aider à prioriser les efforts de documentation et de revitalisation."
+      },
+      "nl": {
+        "hook": "UNESCO beoordeelt bedreigde talen op een schaal van \"kwetsbaar\" tot \"uitgestorven\".",
+        "fact": "De Atlas van bedreigde talen in de wereld van UNESCO classificeert de mate van bedreiging in fasen, van \"kwetsbaar\" (gesproken door kinderen, maar alleen in beperkte situaties) via \"bedreigd\", \"ernstig bedreigd\" en \"acuut bedreigd\" tot \"uitgestorven\", om te helpen bij het prioriteren van documentatie- en revitaliseringsinspanningen."
+      },
+      "es": {
+        "hook": "La UNESCO clasifica los idiomas en peligro en una escala de \"vulnerable\" a \"extinto\".",
+        "fact": "El Atlas de las lenguas del mundo en peligro de la UNESCO clasifica el grado de riesgo en etapas, desde \"vulnerable\" (hablada por los niños, pero solo en entornos limitados) hasta \"extinta\", pasando por \"en peligro\", \"seriamente en peligro\" y \"en situación crítica\", para ayudar a priorizar los esfuerzos de documentación y revitalización."
+      }
+    }
   },
   {
     "id": "language-186",
@@ -3053,7 +4547,21 @@
     "tags": [
       "endangered-languages",
       "linguistics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Documenter une langue en train de disparaître, c'est souvent une course contre la montre auprès de ses derniers locuteurs.",
+        "fact": "Les linguistes de terrain qui travaillent sur des langues gravement menacées doivent souvent s'appuyer sur des séances avec les derniers locuteurs âgés couramment parlants, dans une course contre la montre pour enregistrer vocabulaire, grammaire et récits traditionnels avant que ne disparaisse le dernier lien vivant avec la langue."
+      },
+      "nl": {
+        "hook": "Een stervende taal documenteren betekent vaak racen om de laatste handvol sprekers vast te leggen.",
+        "fact": "Veldtaalkundigen die werken aan ernstig bedreigde talen moeten vaak vertrouwen op sessies met de laatste paar vloeiende, oudere sprekers, in een race tegen de klok om woordenschat, grammatica en traditionele verhalen vast te leggen voordat de laatste levende schakel met de taal verdwijnt."
+      },
+      "es": {
+        "hook": "Documentar una lengua moribunda suele significar correr contra el reloj para grabar a su último puñado de hablantes.",
+        "fact": "Los lingüistas de campo que trabajan con idiomas gravemente amenazados a menudo dependen de sesiones con los últimos hablantes ancianos fluidos, corriendo contra el tiempo para grabar vocabulario, gramática e historias tradicionales antes de que desaparezca el último vínculo vivo con el idioma."
+      }
+    }
   },
   {
     "id": "language-187",
@@ -3063,7 +4571,21 @@
     "tags": [
       "sanskrit",
       "language-contact"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le sanskrit a façonné le vocabulaire des religions et des langues d'une grande partie de l'Asie.",
+        "fact": "Le sanskrit, une ancienne langue indo-aryenne, a fourni d'énormes quantités de vocabulaire religieux et savant non seulement aux langues indiennes modernes, mais aussi au thaï, au khmer et à d'autres langues d'Asie du Sud-Est, via la diffusion de l'hindouisme et du bouddhisme."
+      },
+      "nl": {
+        "hook": "Het Sanskriet vormde de woordenschat van religies en talen in een groot deel van Azië.",
+        "fact": "Het Sanskriet, een oude Indo-Arische taal, leverde enorme hoeveelheden religieuze en wetenschappelijke woordenschat, niet alleen aan moderne Indiase talen, maar ook aan het Thai, Khmer en andere Zuidoost-Aziatische talen, via de verspreiding van het hindoeïsme en het boeddhisme."
+      },
+      "es": {
+        "hook": "El sánscrito moldeó el vocabulario de religiones e idiomas en gran parte de Asia.",
+        "fact": "El sánscrito, una antigua lengua indoaria, aportó enormes cantidades de vocabulario religioso y académico no solo a los idiomas indios modernos, sino también al tailandés, al jemer y a otras lenguas del sudeste asiático, a través de la difusión del hinduismo y el budismo."
+      }
+    }
   },
   {
     "id": "language-188",
@@ -3073,7 +4595,21 @@
     "tags": [
       "language-families",
       "latin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le latin n'est jamais vraiment mort ; il s'est lentement transformé en six langues modernes ou plus.",
+        "fact": "Le latin n'est pas tant éteint qu'il ne s'est graduellement transformé en langues romanes modernes, dont l'espagnol, le français, l'italien, le portugais et le roumain, au fil de siècles de divergence régionale, plutôt que d'être remplacé en bloc par une langue sans rapport."
+      },
+      "nl": {
+        "hook": "Het Latijn is nooit echt gestorven; het veranderde langzaam in zes of meer moderne talen.",
+        "fact": "Het Latijn is niet zozeer uitgestorven als wel geleidelijk veranderd in de moderne Romaanse talen, waaronder het Spaans, Frans, Italiaans, Portugees en Roemeens, door eeuwenlange regionale divergentie, in plaats van in zijn geheel te zijn vervangen door een onverwante taal."
+      },
+      "es": {
+        "hook": "El latín nunca murió del todo; se transformó poco a poco en seis o más idiomas modernos.",
+        "fact": "El latín no está tanto extinto como transformado gradualmente en las lenguas romances modernas, entre ellas el español, el francés, el italiano, el portugués y el rumano, a través de siglos de divergencia regional, en lugar de haber sido reemplazado en bloque por un idioma sin relación."
+      }
+    }
   },
   {
     "id": "language-189",
@@ -3083,7 +4619,21 @@
     "tags": [
       "romanian",
       "language-contact"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le roumain a conservé ses racines latines malgré des siècles de voisins slavophones.",
+        "fact": "Le roumain est une langue romane descendant du latin, mais contrairement à ses cousines occidentales, il s'est développé entouré de populations slavophones, absorbant un vocabulaire slave important tout en préservant un noyau grammatical fondamentalement latin."
+      },
+      "nl": {
+        "hook": "Het Roemeens behield zijn Latijnse wortels ondanks eeuwen van Slavischtalige buren.",
+        "fact": "Het Roemeens is een Romaanse taal die van het Latijn afstamt, maar in tegenstelling tot zijn westelijke verwanten ontwikkelde het zich omringd door Slavischtalige volkeren, waarbij het aanzienlijke Slavische woordenschat opnam terwijl het een in wezen Latijnse grammaticale kern behield."
+      },
+      "es": {
+        "hook": "El rumano conservó sus raíces latinas pese a siglos de vecinos de habla eslava.",
+        "fact": "El rumano es una lengua romance descendiente del latín, pero, a diferencia de sus parientes occidentales, se desarrolló rodeado de poblaciones de habla eslava, absorbiendo un vocabulario eslavo considerable mientras conservaba un núcleo gramatical fundamentalmente latino."
+      }
+    }
   },
   {
     "id": "language-190",
@@ -3093,7 +4643,21 @@
     "tags": [
       "maltese",
       "writing-systems"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le maltais est la seule langue sémitique écrite en alphabet latin parmi les langues officielles de l'UE.",
+        "fact": "Le maltais descend en grande partie du siculo-arabe, avec une forte influence de vocabulaire italien et anglais, et il se distingue parmi les langues sémitiques à la fois par son statut de langue officielle de l'UE et par le fait qu'il s'écrit avec l'alphabet latin plutôt qu'avec l'écriture arabe."
+      },
+      "nl": {
+        "hook": "Het Maltees is de enige Semitische taal in het Latijnse alfabet die officiële EU-taal is.",
+        "fact": "Het Maltees stamt grotendeels af van het Siculo-Arabisch, met sterke invloed van Italiaanse en Engelse woordenschat, en het is ongewoon onder Semitische talen doordat het zowel een officiële EU-taal is als in het Latijnse alfabet wordt geschreven in plaats van het Arabische schrift."
+      },
+      "es": {
+        "hook": "El maltés es la única lengua semítica escrita en alfabeto latino entre los idiomas oficiales de la UE.",
+        "fact": "El maltés desciende en gran parte del sículo-árabe, con una fuerte influencia de vocabulario italiano e inglés, y resulta inusual entre las lenguas semíticas tanto por ser idioma oficial de la UE como por escribirse con el alfabeto latino en lugar de la escritura árabe."
+      }
+    }
   },
   {
     "id": "language-191",
@@ -3103,7 +4667,21 @@
     "tags": [
       "sign-language",
       "language-variation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les langues des signes ont des accents régionaux et un argot générationnel, tout comme les langues parlées.",
+        "fact": "Tout comme les langues parlées, les langues des signes telles que la langue des signes américaine présentent des variations régionales, un argot générationnel et même des « accents » distincts dans la façon de former les signes, façonnés par la géographie et l'histoire locale des communautés sourdes."
+      },
+      "nl": {
+        "hook": "Gebarentalen hebben regionale accenten en generatiegebonden slang, net als gesproken talen.",
+        "fact": "Net als gesproken talen kennen gebarentalen zoals de Amerikaanse gebarentaal regionale variatie, generatiegebonden slang en zelfs onderscheidende \"accenten\" in hoe gebaren worden gevormd, gevormd door geografie en de lokale geschiedenis van de dovengemeenschap."
+      },
+      "es": {
+        "hook": "Las lenguas de signos tienen acentos regionales y jerga generacional, igual que las habladas.",
+        "fact": "Al igual que los idiomas hablados, las lenguas de signos como la lengua de signos estadounidense presentan variación regional, jerga generacional e incluso \"acentos\" distintivos en la forma de hacer los signos, moldeados por la geografía y la historia local de la comunidad sorda."
+      }
+    }
   },
   {
     "id": "language-192",
@@ -3113,7 +4691,21 @@
     "tags": [
       "sign-language",
       "international-sign"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le « signe international » n'est pas vraiment une langue naturelle à part entière.",
+        "fact": "Le signe international est un système de communication simplifié, de type pidgin, utilisé lors d'événements comme les Deaflympics ou les conférences internationales, qui puise dans des gestes et un vocabulaire partagés entre plusieurs langues des signes, mais qui n'a pas la pleine complexité grammaticale d'une langue des signes naturelle."
+      },
+      "nl": {
+        "hook": "\"International Sign\" is eigenlijk geen volledige natuurlijke taal.",
+        "fact": "International Sign is een vereenvoudigd, pidgin-achtig communicatiesysteem dat wordt gebruikt op evenementen zoals de Deaflympics en internationale conferenties, en dat put uit gedeelde gebaren en woordenschat van meerdere gebarentalen, maar het mist de volledige grammaticale complexiteit van een natuurlijke gebarentaal."
+      },
+      "es": {
+        "hook": "El \"signo internacional\" no es en realidad un idioma natural completo.",
+        "fact": "El signo internacional es un sistema de comunicación simplificado, similar a un pidgin, usado en eventos como las Deaflimpiadas y conferencias internacionales, que recurre a gestos y vocabulario compartidos entre varias lenguas de signos, pero carece de la plena complejidad gramatical de una lengua de signos natural."
+      }
+    }
   },
   {
     "id": "language-193",
@@ -3123,7 +4715,21 @@
     "tags": [
       "grammar",
       "translation-oddities"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines langues ont deux mots différents pour « nous ».",
+        "fact": "De nombreuses langues, dont le tok pisin, le tagalog et de nombreuses autres langues austronésiennes, possèdent deux mots distincts pour « nous » : l'un incluant la personne à qui l'on parle, l'autre l'excluant, une distinction que les anglophones ne peuvent exprimer qu'à l'aide d'un contexte supplémentaire."
+      },
+      "nl": {
+        "hook": "Sommige talen hebben twee verschillende woorden voor \"wij\".",
+        "fact": "Veel talen, waaronder het Tok Pisin, Tagalog en tal van andere Austronesische talen, hebben twee aparte woorden voor \"wij\": een dat de aangesprokene insluit, en een dat die persoon uitsluit, een onderscheid dat Engelstaligen alleen via extra context kunnen overbrengen."
+      },
+      "es": {
+        "hook": "Algunos idiomas tienen dos palabras distintas para \"nosotros\".",
+        "fact": "Muchos idiomas, entre ellos el tok pisin, el tagalo y numerosas otras lenguas austronesias, tienen dos palabras distintas para \"nosotros\": una que incluye a la persona a quien se habla y otra que la excluye, una distinción que los hablantes de inglés solo pueden transmitir mediante contexto adicional."
+      }
+    }
   },
   {
     "id": "language-194",
@@ -3133,7 +4739,21 @@
     "tags": [
       "grammar",
       "translation-oddities"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains systèmes de numération se construisent sur la base vingt plutôt que dix.",
+        "fact": "Certaines langues comptent traditionnellement en base vingt plutôt qu'en base dix, comme en témoigne le vestige historique du français « quatre-vingts » (littéralement « quatre fois vingt ») pour désigner 80, ou encore des systèmes complets en base vingt que l'on retrouve dans des langues comme le yoruba et le nahuatl."
+      },
+      "nl": {
+        "hook": "Sommige telsystemen zijn gebaseerd op twintig in plaats van tien.",
+        "fact": "Traditionele telsystemen in sommige talen gebruiken twintig als grondtal in plaats van tien, zoals te zien is aan historische Franse restanten als \"quatre-vingts\" (vier-twintigen) voor tachtig, en aan volledige twintigtallige systemen die voorkomen in talen als het Yoruba en het Nahuatl."
+      },
+      "es": {
+        "hook": "Algunos sistemas de numeración se construyen sobre la base veinte en lugar de diez.",
+        "fact": "Los sistemas de numeración tradicionales de algunos idiomas usan el veinte como base en lugar del diez, como demuestran restos históricos del francés como \"quatre-vingts\" (cuatro-veintes) para ochenta, y sistemas completos en base veinte que se encuentran en idiomas como el yoruba y el náhuatl."
+      }
+    }
   },
   {
     "id": "language-195",
@@ -3143,7 +4763,21 @@
     "tags": [
       "grammar",
       "honorifics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le japonais et le coréen changent de vocabulaire selon la personne qui écoute.",
+        "fact": "Le japonais et le coréen possèdent tous deux des systèmes étendus de niveaux de langage honorifique, où le choix du vocabulaire et les terminaisons verbales varient selon le statut social relatif, l'âge ou le degré de familiarité entre locuteur et interlocuteur."
+      },
+      "nl": {
+        "hook": "Japans en Koreaans veranderen van woordenschat afhankelijk van wie er luistert.",
+        "fact": "Zowel het Japans als het Koreaans kennen uitgebreide systemen van eervolle spreekniveaus, waarbij de woordkeuze en werkwoordsuitgangen verschuiven afhankelijk van de relatieve sociale status, leeftijd of vertrouwdheid tussen spreker en luisteraar."
+      },
+      "es": {
+        "hook": "El japonés y el coreano cambian de vocabulario según quién esté escuchando.",
+        "fact": "Tanto el japonés como el coreano tienen amplios sistemas de niveles honoríficos de habla, en los que la elección del vocabulario y las terminaciones verbales varían según el estatus social relativo, la edad o la familiaridad entre el hablante y el oyente."
+      }
+    }
   },
   {
     "id": "language-196",
@@ -3153,7 +4787,21 @@
     "tags": [
       "grammar",
       "indigenous-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines langues marquent grammaticalement si un objet est « vivant » ou non.",
+        "fact": "L'ojibwé et de nombreuses autres langues algonquiennes d'Amérique du Nord classent chaque nom comme animé ou inanimé, une distinction grammaticale qui influence les formes verbales et les pronoms dans toute la phrase."
+      },
+      "nl": {
+        "hook": "Sommige talen markeren grammaticaal of een object \"levend\" is of niet.",
+        "fact": "Het Ojibwe en veel andere Algonkin-talen van Noord-Amerika classificeren elk zelfstandig naamwoord als bezield of onbezield, een grammaticaal onderscheid dat de werkwoordsvormen en voornaamwoorden in de hele zin beïnvloedt."
+      },
+      "es": {
+        "hook": "Algunos idiomas marcan gramaticalmente si un objeto está \"vivo\" o no.",
+        "fact": "El ojibwa y muchas otras lenguas algonquinas de América del Norte clasifican cada sustantivo como animado o inanimado, una distinción gramatical que determina las formas verbales y los pronombres a lo largo de toda la oración."
+      }
+    }
   },
   {
     "id": "language-197",
@@ -3163,7 +4811,21 @@
     "tags": [
       "grammar",
       "bantu-languages"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines langues comptent plus d'une douzaine de genres grammaticaux.",
+        "fact": "De nombreuses langues bantoues, comme le swahili et le zoulou, utilisent des systèmes de classes nominales comptant bien plus d'une douzaine de catégories, régissant différemment les plantes, les outils, les personnes et les idées abstraites, un système bien plus élaboré que les systèmes masculin/féminin familiers de nombreuses langues européennes."
+      },
+      "nl": {
+        "hook": "Sommige talen hebben meer dan een dozijn grammaticale geslachten.",
+        "fact": "Veel Bantoetalen, zoals het Swahili en het Zoeloe, gebruiken naamwoordklassensystemen met ruim een dozijn categorieën, die planten, gereedschap, mensen en abstracte ideeën elk anders behandelen, veel uitgebreider dan de mannelijke en vrouwelijke systemen die bekend zijn uit veel Europese talen."
+      },
+      "es": {
+        "hook": "Algunos idiomas tienen más de una docena de géneros gramaticales.",
+        "fact": "Muchas lenguas bantúes, como el suajili y el zulú, usan sistemas de clases nominales con bastante más de una docena de categorías, que rigen de forma distinta a plantas, herramientas, personas e ideas abstractas, mucho más elaborados que los sistemas de masculino y femenino conocidos en muchos idiomas europeos."
+      }
+    }
   },
   {
     "id": "language-198",
@@ -3173,7 +4835,21 @@
     "tags": [
       "writing-systems",
       "phonetics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'alphabet d'une langue ne compte qu'environ une douzaine de lettres.",
+        "fact": "Le rotokas, une langue parlée en Papouasie-Nouvelle-Guinée, est souvent cité comme ayant l'un des plus petits inventaires phonémiques et alphabets au monde, n'utilisant qu'environ 11 à 12 lettres pour représenter ses sons."
+      },
+      "nl": {
+        "hook": "Het alfabet van één taal telt maar ongeveer een dozijn letters.",
+        "fact": "Het Rotokas, een taal die gesproken wordt in Papoea-Nieuw-Guinea, wordt vaak genoemd als een van de talen met het kleinste foneeminventaris en alfabet ter wereld, met slechts ongeveer 11 tot 12 letters om zijn klanken weer te geven."
+      },
+      "es": {
+        "hook": "El alfabeto de un idioma tiene solo una docena de letras.",
+        "fact": "El rotokas, un idioma hablado en Papúa Nueva Guinea, se cita a menudo como uno de los que tienen el inventario fonémico y el alfabeto más pequeños del mundo, con apenas entre 11 y 12 letras para representar sus sonidos."
+      }
+    }
   },
   {
     "id": "language-199",
@@ -3183,7 +4859,21 @@
     "tags": [
       "phonetics",
       "caucasus"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines langues du Caucase entassent plus de 40 consonnes dans leur système sonore.",
+        "fact": "Les langues du nord-ouest du Caucase, comme l'abkhaze et l'oubykh aujourd'hui éteint, sont célèbres parmi les linguistes pour leurs inventaires de consonnes gigantesques, dépassant parfois 40 consonnes distinctes, tout en ne comptant que très peu de voyelles en comparaison."
+      },
+      "nl": {
+        "hook": "Sommige Kaukasische talen bevatten meer dan 40 medeklinkers in hun klanksysteem.",
+        "fact": "Noordwest-Kaukasische talen zoals het Abchazisch en het inmiddels uitgestorven Oebychisch staan bij taalkundigen bekend om hun enorme medeklinkerinventarissen, soms met meer dan 40 verschillende medeklinkers, terwijl ze in vergelijking maar heel weinig klinkers hebben."
+      },
+      "es": {
+        "hook": "Algunos idiomas del Cáucaso reúnen más de 40 consonantes en su sistema fonético.",
+        "fact": "Las lenguas del noroeste del Cáucaso, como el abjasio y el ya extinto ubijé, son famosas entre los lingüistas por sus enormes inventarios de consonantes, que a veces superan las 40 consonantes distintas, mientras que tienen muy pocas vocales en comparación."
+      }
+    }
   },
   {
     "id": "language-200",
@@ -3194,6 +4884,23 @@
     "tags": [
       "translation-oddities",
       "machine-translation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La traduction automatique peine encore le plus avec les langues qui manquent de texte numérique.",
+        "fact": "Les outils de traduction automatique fonctionnent bien mieux sur les langues à ressources abondantes comme l'anglais, l'espagnol et le mandarin, qui disposent de vastes jeux de données textuelles numériques pour s'entraîner, tandis que de nombreuses langues du monde restent « à faibles ressources », produisant des traductions automatiques bien moins précises.",
+        "whyItMatters": "Cet écart signifie que des millions de locuteurs de langues à faibles ressources ont un moins bon accès aux informations et services en ligne traduits vers ou depuis leur propre langue."
+      },
+      "nl": {
+        "hook": "Machinevertaling worstelt nog het meest met talen die weinig digitale tekst hebben.",
+        "fact": "Automatische vertaaltools presteren veel beter voor rijk bedeelde talen zoals Engels, Spaans en Mandarijn, die over enorme digitale tekstdatasets beschikken om op te trainen, terwijl veel talen in de wereld \"lagebronnentalen\" blijven, wat leidt tot veel minder nauwkeurige machinevertalingen.",
+        "whyItMatters": "Dit verschil betekent dat miljoenen sprekers van lagebronnentalen slechtere toegang krijgen tot onlineinformatie en -diensten die naar of vanuit hun eigen taal zijn vertaald."
+      },
+      "es": {
+        "hook": "La traducción automática sigue teniendo más dificultades con los idiomas que carecen de texto digital.",
+        "fact": "Las herramientas de traducción automática funcionan mucho mejor con idiomas de altos recursos como el inglés, el español y el mandarín, que cuentan con enormes conjuntos de datos textuales digitales para entrenarse, mientras que muchos idiomas del mundo siguen siendo de \"bajos recursos\", lo que produce traducciones automáticas mucho menos precisas.",
+        "whyItMatters": "Esta brecha significa que millones de hablantes de idiomas de bajos recursos tienen peor acceso a la información y los servicios en línea traducidos hacia o desde su propio idioma."
+      }
+    }
   }
 ]
