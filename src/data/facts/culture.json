@@ -706,7 +706,21 @@
       "hinduism",
       "festivals",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Diwali allume des lampes pour guider un roi légendaire jusqu'à chez lui.",
+        "fact": "Diwali, la fête hindoue des lumières, célèbre traditionnellement le retour du seigneur Rama à Ayodhya après 14 ans d'exil. Les familles allument des rangées de lampes à huile appelées diyas, et la fête honore aussi Lakshmi, déesse de la prospérité."
+      },
+      "nl": {
+        "hook": "Diwali steekt lampjes aan om een legendarische koning de weg naar huis te wijzen.",
+        "fact": "Diwali, het Hindoeïstische lichtfeest, viert traditioneel de terugkeer van heer Rama naar Ayodhya na 14 jaar ballingschap. Families steken rijen olielampjes aan, diya's genoemd, en het feest eert ook Lakshmi, de godin van voorspoed."
+      },
+      "es": {
+        "hook": "Diwali enciende lámparas para guiar a un rey legendario de vuelta a casa.",
+        "fact": "Diwali, el festival hindú de las luces, celebra tradicionalmente el regreso del señor Rama a Ayodhya tras 14 años de exilio. Las familias encienden filas de lámparas de aceite llamadas diyas, y la festividad también rinde homenaje a Lakshmi, diosa de la prosperidad."
+      }
+    }
   },
   {
     "id": "culture-031",
@@ -717,7 +731,21 @@
       "hinduism",
       "festivals",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les couleurs de Holi célèbrent l'arrivée du printemps, pas seulement une bataille de peinture.",
+        "fact": "Holi est une fête hindoue célébrant l'arrivée du printemps et le triomphe du bien sur le mal, liée à la légende de Prahlada et de la démone Holika. Le lancer de poudres colorées est devenu l'une de ses traditions les plus reconnaissables."
+      },
+      "nl": {
+        "hook": "De kleuren van Holi vieren de komst van de lente, niet zomaar een verfgevecht.",
+        "fact": "Holi is een Hindoeïstisch feest dat de komst van de lente en de overwinning van het goede op het kwade viert, verbonden met de legende van Prahlada en de demonin Holika. Het gooien met gekleurd poeder werd een van de meest herkenbare tradities."
+      },
+      "es": {
+        "hook": "Los colores del Holi celebran la llegada de la primavera, no es solo una guerra de pintura.",
+        "fact": "Holi es un festival hindú que celebra la llegada de la primavera y el triunfo del bien sobre el mal, ligado a la leyenda de Prahlada y la demonia Holika. Lanzar polvos de colores se convirtió en una de sus tradiciones más reconocibles."
+      }
+    }
   },
   {
     "id": "culture-032",
@@ -728,7 +756,21 @@
       "hinduism",
       "festivals",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une fête hindoue s'étend sur neuf nuits de danse et de dévotion.",
+        "fact": "Navratri, qui signifie « neuf nuits », honore la déesse Durga sous ses nombreuses formes. Selon les régions de l'Inde, on la célèbre par le jeûne, des danses comme le garba et le dandiya raas, et des autels somptueusement décorés."
+      },
+      "nl": {
+        "hook": "Eén Hindoeïstisch feest duurt negen nachten van dans en devotie.",
+        "fact": "Navratri, wat \"negen nachten\" betekent, eert de godin Durga in haar vele verschijningsvormen. Verschillende regio's van India vieren het met vasten, dansstijlen zoals garba en dandiya raas, en uitbundig versierde schrijnen."
+      },
+      "es": {
+        "hook": "Un festival hindú se extiende durante nueve noches de danza y devoción.",
+        "fact": "Navratri, que significa \"nueve noches\", rinde homenaje a la diosa Durga en sus múltiples formas. Distintas regiones de la India lo celebran con ayuno, danzas como el garba y el dandiya raas, y elaboradas decoraciones de altares."
+      }
+    }
   },
   {
     "id": "culture-033",
@@ -740,7 +782,24 @@
       "hinduism",
       "festivals",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le plus grand rassemblement pacifique sur Terre a lieu au bord d'un fleuve en Inde.",
+        "fact": "La Kumbh Mela, un pèlerinage hindou organisé sur quatre sites fluviaux tournants en Inde, attire des dizaines de millions de pèlerins qui se baignent dans des eaux censées laver les péchés.",
+        "whyItMatters": "La Kumbh Mela de 2013 à Allahabad a attiré environ 120 millions de visiteurs en deux mois, ce qui en fait l'un des plus grands rassemblements humains de l'histoire."
+      },
+      "nl": {
+        "hook": "De grootste vreedzame bijeenkomst op aarde vindt plaats bij een rivier in India.",
+        "fact": "De Kumbh Mela, een Hindoeïstische bedevaart die om beurten op vier rivierplaatsen in India wordt gehouden, trekt tientallen miljoenen pelgrims die zich baden in water dat geacht wordt zonden te reinigen.",
+        "whyItMatters": "De Kumbh Mela van 2013 in Allahabad trok naar schatting 120 miljoen bezoekers in ongeveer twee maanden, wat het een van de grootste menselijke bijeenkomsten ooit maakt."
+      },
+      "es": {
+        "hook": "La mayor concentración pacífica del planeta ocurre junto a un río en la India.",
+        "fact": "El Kumbh Mela, una peregrinación hindú celebrada en cuatro emplazamientos fluviales rotativos de la India, atrae a decenas de millones de peregrinos que se bañan en aguas que se cree purifican el pecado.",
+        "whyItMatters": "El Kumbh Mela de 2013 en Allahabad reunió a unos 120 millones de visitantes en cerca de dos meses, lo que lo convierte en una de las mayores congregaciones humanas de la historia registrada."
+      }
+    }
   },
   {
     "id": "culture-034",
@@ -750,7 +809,21 @@
     "tags": [
       "sikhism",
       "festivals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une fête des moissons de printemps est devenue l'anniversaire d'une religion.",
+        "fact": "Vaisakhi marque à la fois les moissons de printemps du Pendjab et la fondation en 1699 du Khalsa, la communauté des sikhs initiés, par le Guru Gobind Singh."
+      },
+      "nl": {
+        "hook": "Een lenteoogstfeest werd de verjaardag van een religie.",
+        "fact": "Vaisakhi markeert zowel de Punjabi lenteoogst als de oprichting in 1699 van de Khalsa, de gemeenschap van geïnitieerde sikhs, door Guru Gobind Singh."
+      },
+      "es": {
+        "hook": "Un festival de la cosecha primaveral se convirtió en el cumpleaños de una religión.",
+        "fact": "Vaisakhi conmemora tanto la cosecha primaveral del Punjab como la fundación en 1699 del Khalsa, la comunidad de sijs iniciados, por el Gurú Gobind Singh."
+      }
+    }
   },
   {
     "id": "culture-035",
@@ -760,7 +833,21 @@
     "tags": [
       "sikhism",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les sikhs pratiquants portent en permanence cinq symboles de leur foi.",
+        "fact": "Les sikhs baptisés portent traditionnellement les Cinq K : des cheveux non coupés (kesh), un peigne en bois (kangha), un bracelet en acier (kara), une petite dague (kirpan) et un sous-vêtement particulier (kachera), symboles visibles de leur engagement."
+      },
+      "nl": {
+        "hook": "Toegewijde sikhs dragen te allen tijde vijf geloofssymbolen.",
+        "fact": "Gedoopte sikhs dragen traditioneel de Vijf K's: ongeknipt haar (kesh), een houten kam (kangha), een stalen armband (kara), een klein dolkmes (kirpan) en specifiek ondergoed (kachera), als zichtbare tekenen van hun toewijding."
+      },
+      "es": {
+        "hook": "Los sijs devotos llevan siempre consigo cinco símbolos de fe.",
+        "fact": "Los sijs bautizados llevan tradicionalmente las Cinco K: cabello sin cortar (kesh), un peine de madera (kangha), un brazalete de acero (kara), una pequeña daga (kirpan) y ropa interior específica (kachera), como símbolos visibles de su compromiso."
+      }
+    }
   },
   {
     "id": "culture-036",
@@ -771,7 +858,21 @@
       "festivals",
       "japan",
       "buddhism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Obon accueille chaque été les esprits des ancêtres pour quelques jours.",
+        "fact": "Obon est une fête bouddhiste japonaise célébrée en été pour honorer les ancêtres défunts, marquée par des réunions familiales, des visites aux tombes et la danse folklorique Bon Odori. Dans de nombreuses régions, la fête se termine en faisant flotter des lanternes sur les rivières pour guider le retour des esprits."
+      },
+      "nl": {
+        "hook": "Obon heet de geesten van voorouders elke zomer een paar dagen welkom.",
+        "fact": "Obon is een Japans boeddhistisch feest dat in de zomer wordt gehouden om overleden voorouders te eren, gekenmerkt door familiebijeenkomsten, graafbezoeken en de Bon Odori-volksdans. In veel regio's sluit het feest af met het laten drijven van lantaarns op rivieren om de geesten terug te leiden."
+      },
+      "es": {
+        "hook": "Obon da la bienvenida cada verano a los espíritus de los antepasados por unos días.",
+        "fact": "Obon es un festival budista japonés que se celebra en verano para honrar a los antepasados fallecidos, marcado por reuniones familiares, visitas a las tumbas y la danza folclórica Bon Odori. En muchas regiones el festival concluye dejando flotar farolillos en los ríos para guiar el regreso de los espíritus."
+      }
+    }
   },
   {
     "id": "culture-037",
@@ -781,7 +882,21 @@
     "tags": [
       "jainism",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains moines balaient le sol devant eux pour ne pas écraser un insecte.",
+        "fact": "Les moines et nonnes jaïns pratiquent des formes extrêmes d'ahimsa, la non-violence, allant jusqu'à porter un balai doux pour dégager délicatement leur chemin et un tissu sur la bouche pour éviter d'inhaler de petits insectes."
+      },
+      "nl": {
+        "hook": "Sommige monniken vegen de grond voor zich schoon om geen insect te vertrappen.",
+        "fact": "Jaïnistische monniken en nonnen beoefenen extreme vormen van ahimsa, oftewel geweldloosheid, en dragen soms een zachte bezem om hun pad voorzichtig vrij te maken en een doek over de mond om te voorkomen dat ze kleine insecten inademen."
+      },
+      "es": {
+        "hook": "Algunos monjes barren el suelo frente a ellos para no pisar un insecto.",
+        "fact": "Los monjes y monjas jainistas practican formas extremas de ahimsa, o no violencia, y a veces llevan una escoba suave para despejar con cuidado su camino y un paño sobre la boca para evitar inhalar pequeños insectos."
+      }
+    }
   },
   {
     "id": "culture-038",
@@ -792,7 +907,21 @@
       "hinduism",
       "festivals",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus grande fête du Kerala célèbre chaque année le retour d'un roi mythique.",
+        "fact": "Onam commémore, dans la tradition hindoue, le retour annuel du légendaire roi Mahabali. Célébrée au Kerala, en Inde, elle se distingue par de somptueux tapis de fleurs appelés pookalam et des courses traditionnelles de bateaux-serpents."
+      },
+      "nl": {
+        "hook": "Kerala's grootste feest verwelkomt elk jaar de terugkeer van een mythische koning.",
+        "fact": "Onam herdenkt in de Hindoeïstische traditie de jaarlijkse thuiskomst van de legendarische koning Mahabali. Het wordt gevierd in Kerala, India, met sierlijke bloementapijten genaamd pookalam en traditionele slangenbootraces."
+      },
+      "es": {
+        "hook": "El festival más importante de Kerala celebra cada año el regreso de un rey mítico.",
+        "fact": "Onam conmemora, en la tradición hindú, el regreso anual del legendario rey Mahabali. Se celebra en Kerala, India, con elaboradas alfombras de flores llamadas pookalam y las tradicionales carreras de botes serpiente."
+      }
+    }
   },
   {
     "id": "culture-039",
@@ -802,7 +931,21 @@
     "tags": [
       "customs",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il n'existe pas une seule façon de porter un sari.",
+        "fact": "Le sari, une simple pièce de tissu non cousue, peut se draper selon plus de 100 styles régionaux répertoriés en Asie du Sud, chacun avec ses propres plis, ses façons de le nouer et ses arrangements sur l'épaule."
+      },
+      "nl": {
+        "hook": "Er is niet één manier om een sari te dragen.",
+        "fact": "De sari, één enkel stuk ongenaaide stof, kan op meer dan 100 gedocumenteerde regionale manieren worden gedrapeerd in Zuid-Azië, elk met eigen plooien, instopwijzen en schouderopstellingen."
+      },
+      "es": {
+        "hook": "No existe una única forma de llevar un sari.",
+        "fact": "El sari, una sola pieza de tela sin coser, puede drapearse de más de 100 estilos regionales documentados en el sur de Asia, cada uno con diferentes pliegues, remetidos y disposiciones sobre el hombro."
+      }
+    }
   },
   {
     "id": "culture-040",
@@ -812,7 +955,21 @@
     "tags": [
       "islam",
       "festivals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un mois de jeûne s'achève par l'une des plus grandes fêtes de l'islam.",
+        "fact": "Pendant le Ramadan, les musulmans pratiquants jeûnent de l'aube au coucher du soleil durant un mois lunaire, en signe de discipline spirituelle. Le jeûne s'achève avec l'Aïd al-Fitr, une fête de prière collective, de festin et de charité."
+      },
+      "nl": {
+        "hook": "Een maand vasten eindigt met een van de grootste feesten van de islam.",
+        "fact": "Tijdens de ramadan vasten praktiserende moslims een maanmaand lang van zonsopgang tot zonsondergang, als vorm van geestelijke discipline. Het vasten eindigt met het Suikerfeest (Eid al-Fitr), een feest van gezamenlijk gebed, feestmalen en liefdadigheid."
+      },
+      "es": {
+        "hook": "Un mes de ayuno culmina con una de las celebraciones más importantes del islam.",
+        "fact": "Durante el Ramadán, los musulmanes practicantes ayunan desde el amanecer hasta la puesta del sol durante un mes lunar, como acto de disciplina espiritual. El ayuno termina con el Eid al-Fitr, una festividad de oración comunitaria, banquetes y caridad."
+      }
+    }
   },
   {
     "id": "culture-041",
@@ -822,7 +979,21 @@
     "tags": [
       "islam",
       "festivals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'autre grande fête de l'islam honore le sacrifice qu'un père était prêt à faire.",
+        "fact": "L'Aïd al-Adha commémore le récit d'Ibrahim, prêt à sacrifier son fils par obéissance à Dieu, avant que Dieu ne lui fournisse un bélier à la place. De nombreuses familles la célèbrent en sacrifiant un animal et en partageant la viande avec les plus démunis."
+      },
+      "nl": {
+        "hook": "Het andere grote islamitische Offerfeest eert de bereidheid van een vader om te offeren.",
+        "fact": "Eid al-Adha herdenkt het verhaal van Ibrahim, die bereid was zijn zoon te offeren uit gehoorzaamheid aan God, voordat God in plaats daarvan een ram gaf. Veel gezinnen vieren dit door een dier te offeren en het vlees te delen met behoeftigen."
+      },
+      "es": {
+        "hook": "El otro gran Eid del islam honra la disposición de un padre a sacrificar.",
+        "fact": "El Eid al-Adha conmemora el relato de Ibrahim, dispuesto a sacrificar a su hijo en obediencia a Dios, antes de que Dios le proveyera un carnero en su lugar. Muchas familias lo celebran sacrificando un animal y compartiendo la carne con quienes lo necesitan."
+      }
+    }
   },
   {
     "id": "culture-042",
@@ -832,7 +1003,21 @@
     "tags": [
       "islam",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'islam repose sur cinq obligations fondamentales.",
+        "fact": "Les cinq piliers de l'islam sont la profession de foi (chahada), les cinq prières quotidiennes (salat), l'aumône (zakat), le jeûne du Ramadan (sawm) et le pèlerinage à La Mecque (hajj) pour ceux qui en ont les moyens."
+      },
+      "nl": {
+        "hook": "De islam rust op vijf kernverplichtingen.",
+        "fact": "De vijf zuilen van de islam zijn de geloofsbelijdenis (shahada), vijf dagelijkse gebeden (salat), het geven van aalmoezen (zakat), vasten tijdens de ramadan (sawm) en de bedevaart naar Mekka (hadj) voor wie daartoe in staat is."
+      },
+      "es": {
+        "hook": "El islam se sustenta en cinco obligaciones fundamentales.",
+        "fact": "Los Cinco Pilares del islam son la profesión de fe (shahada), las cinco oraciones diarias (salat), la limosna (zakat), el ayuno durante el Ramadán (sawm) y la peregrinación a La Meca (hach) para quienes puedan hacerla."
+      }
+    }
   },
   {
     "id": "culture-043",
@@ -842,7 +1027,21 @@
     "tags": [
       "islam",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque année, des millions de personnes font le tour d'un même petit édifice.",
+        "fact": "Pendant le pèlerinage du hajj à La Mecque, les musulmans font sept fois le tour de la Kaaba dans le sens antihoraire, une structure cubique au centre de la Grande Mosquée que l'on croit avoir été construite par Ibrahim et Ismaël."
+      },
+      "nl": {
+        "hook": "Elk jaar lopen miljoenen mensen rondjes om hetzelfde kleine gebouw.",
+        "fact": "Tijdens de hadj-bedevaart naar Mekka lopen moslims zeven keer tegen de klok in rond de Kaäba, een kubusvormige structuur in het midden van de Grote Moskee waarvan wordt aangenomen dat Ibrahim en Ismaël haar hebben gebouwd."
+      },
+      "es": {
+        "hook": "Cada año, millones de personas dan vueltas alrededor del mismo pequeño edificio.",
+        "fact": "Durante la peregrinación del hach a La Meca, los musulmanes caminan siete veces en sentido antihorario alrededor de la Kaaba, una estructura cúbica en el centro de la Gran Mezquita que se cree fue construida por Ibrahim e Ismail."
+      }
+    }
   },
   {
     "id": "culture-044",
@@ -852,7 +1051,21 @@
     "tags": [
       "judaism",
       "festivals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les huit nuits de Hanoucca commémorent une lampe qui n'aurait pas dû tenir si longtemps.",
+        "fact": "Hanoucca commémore la nouvelle consécration du Second Temple de Jérusalem. Ses huit nuits d'allumage de bougies rappellent une légende selon laquelle une réserve d'huile prévue pour un seul jour a alimenté la ménorah du temple pendant huit jours."
+      },
+      "nl": {
+        "hook": "De acht nachten van Chanoeka herdenken een lamp die niet zo lang had mogen branden.",
+        "fact": "Chanoeka herdenkt de herwijding van de Tweede Tempel in Jeruzalem. De acht nachten waarin kaarsen worden aangestoken, verwijzen naar een legende waarin een voorraad olie voor de menora van de tempel, bedoeld voor één dag, acht dagen bleef branden."
+      },
+      "es": {
+        "hook": "Las ocho noches de Janucá conmemoran una lámpara que no debía durar tanto.",
+        "fact": "Janucá conmemora la nueva consagración del Segundo Templo de Jerusalén. Sus ocho noches de encendido de velas recuerdan una leyenda según la cual una reserva de aceite para un solo día mantuvo encendida la menorá del templo durante ocho."
+      }
+    }
   },
   {
     "id": "culture-045",
@@ -862,7 +1075,21 @@
     "tags": [
       "judaism",
       "festivals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un repas juif est entièrement construit autour du récit d'une histoire.",
+        "fact": "Le seder de Pessah raconte l'Exode biblique des Israélites hors de l'esclavage en Égypte à travers un repas structuré comportant des aliments symboliques comme la matza, un pain sans levain mangé en souvenir de la fuite précipitée d'Égypte."
+      },
+      "nl": {
+        "hook": "Eén joodse maaltijd draait volledig om het vertellen van een verhaal.",
+        "fact": "De pesach-seider vertelt de bijbelse uittocht van de Israëlieten uit de slavernij in Egypte na aan de hand van een gestructureerde maaltijd met symbolische gerechten zoals matze, ongedesemd brood dat wordt gegeten ter herinnering aan de overhaaste vlucht uit Egypte."
+      },
+      "es": {
+        "hook": "Una comida judía gira por completo en torno a contar una historia.",
+        "fact": "El séder de Pésaj narra el éxodo bíblico de los israelitas de la esclavitud en Egipto mediante una cena estructurada con alimentos simbólicos como el matzá, un pan sin levadura que se come para recordar la huida apresurada de Egipto."
+      }
+    }
   },
   {
     "id": "culture-046",
@@ -872,7 +1099,21 @@
     "tags": [
       "judaism",
       "customs"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Fêter ses 13 ans s'accompagne de nouvelles responsabilités religieuses dans le judaïsme.",
+        "fact": "La bar-mitsva (traditionnellement pour les garçons à 13 ans) ou la bat-mitsva (traditionnellement pour les filles à 12 ou 13 ans) marque le passage à l'âge adulte d'un enfant juif, après quoi il est considéré comme tenu d'observer les commandements religieux."
+      },
+      "nl": {
+        "hook": "Dertien worden brengt in het jodendom nieuwe religieuze verantwoordelijkheid met zich mee.",
+        "fact": "Een bar mitswa (traditioneel voor jongens op hun dertiende) of bat mitswa (traditioneel voor meisjes op hun twaalfde of dertiende) markeert de volwassenwording van een joods kind, waarna hij of zij verantwoordelijk wordt geacht voor het naleven van de religieuze geboden."
+      },
+      "es": {
+        "hook": "Cumplir 13 años trae consigo una nueva responsabilidad religiosa en el judaísmo.",
+        "fact": "El bar mitzvá (tradicionalmente para los niños a los 13 años) o el bat mitzvá (tradicionalmente para las niñas a los 12 o 13 años) marca la mayoría de edad religiosa de un niño judío, tras la cual se le considera responsable de cumplir los mandamientos religiosos."
+      }
+    }
   },
   {
     "id": "culture-047",
@@ -882,7 +1123,21 @@
     "tags": [
       "festivals",
       "zoroastrianism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Nouvel An persan précède l'islam de plusieurs milliers d'années.",
+        "fact": "Norouz, qui marque l'équinoxe de printemps, plonge ses racines dans l'ancienne tradition zoroastrienne et est célébré en Iran et en Asie centrale depuis plus de 3 000 ans, une fête qui perdure aujourd'hui dans de nombreux pays, indépendamment de la religion."
+      },
+      "nl": {
+        "hook": "Het Perzische nieuwjaar is duizenden jaren ouder dan de islam.",
+        "fact": "Nowruz, dat de lente-equinox markeert, vindt zijn wortels in de oude zoroastrische traditie en wordt al meer dan 3.000 jaar gevierd in Iran en Centraal-Azië, en wordt vandaag de dag nog steeds gevierd in veel landen, ongeacht religie."
+      },
+      "es": {
+        "hook": "El Año Nuevo persa es miles de años anterior al islam.",
+        "fact": "Nowruz, que marca el equinoccio de primavera, tiene sus raíces en la antigua tradición zoroástrica y se celebra en Irán y Asia Central desde hace más de 3.000 años, y hoy sigue celebrándose en numerosos países al margen de la religión."
+      }
+    }
   },
   {
     "id": "culture-048",
@@ -892,7 +1147,21 @@
     "tags": [
       "islam",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains musulmans soufis tournent sur eux-mêmes comme acte de dévotion.",
+        "fact": "La danse tournoyante de l'ordre soufi Mevlevi, associée aux disciples du poète Roumi, est un rituel méditatif appelé sema, censé symboliser l'ascension spirituelle de l'âme vers l'amour divin."
+      },
+      "nl": {
+        "hook": "Sommige soefi-moslims draaien in cirkels rond als vorm van aanbidding.",
+        "fact": "De ronddraaiende dans van de Mevlevi-soefi-orde, geassocieerd met volgelingen van de dichter Rumi, is een meditatief ritueel genaamd sema, bedoeld om de geestelijke opstijging van de ziel naar goddelijke liefde te symboliseren."
+      },
+      "es": {
+        "hook": "Algunos musulmanes sufíes giran en círculos como acto de adoración.",
+        "fact": "La danza giratoria de la orden sufí mevlevi, asociada a los seguidores del poeta Rumi, es un ritual meditativo llamado sema, que simboliza el ascenso espiritual del alma hacia el amor divino."
+      }
+    }
   },
   {
     "id": "culture-049",
@@ -903,7 +1172,24 @@
     "tags": [
       "zoroastrianism",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'une des plus anciennes religions monothéistes au monde entretient encore des feux sacrés.",
+        "fact": "Le zoroastrisme, fondé dans la Perse antique il y a peut-être plus de 3 000 ans sur les enseignements du prophète Zoroastre, entretient des temples du feu où une flamme brûle perpétuellement en symbole de pureté.",
+        "whyItMatters": "Le zoroastrisme ne compte plus aujourd'hui que quelques centaines de milliers d'adeptes dans le monde, principalement des Parsis en Inde et des zoroastriens iraniens, ce qui en fait l'une des plus petites religions anciennes encore existantes."
+      },
+      "nl": {
+        "hook": "Een van 's werelds oudste monotheïstische religies onderhoudt nog altijd heilige vuren.",
+        "fact": "Het zoroastrisme, ontstaan in het oude Perzië mogelijk meer dan 3.000 jaar geleden op basis van de leer van de profeet Zoroaster, onderhoudt vuurtempels waar een vlam voortdurend brandt als symbool van reinheid.",
+        "whyItMatters": "Het zoroastrisme telt tegenwoordig nog maar enkele honderdduizenden aanhangers wereldwijd, voornamelijk Parsi's in India en Iraanse zoroastriërs, waarmee het een van de kleinste nog bestaande oude religies is."
+      },
+      "es": {
+        "hook": "Una de las religiones monoteístas más antiguas del mundo sigue cuidando fuegos sagrados.",
+        "fact": "El zoroastrismo, fundado en la antigua Persia posiblemente hace más de 3.000 años a partir de las enseñanzas del profeta Zoroastro, mantiene templos del fuego donde una llama arde perpetuamente como símbolo de pureza.",
+        "whyItMatters": "El zoroastrismo cuenta hoy con solo unos pocos cientos de miles de fieles en todo el mundo, sobre todo parsis en la India y zoroastristas iraníes, lo que lo convierte en una de las religiones antiguas supervivientes más pequeñas."
+      }
+    }
   },
   {
     "id": "culture-050",
@@ -914,7 +1200,21 @@
       "christianity",
       "festivals",
       "ethiopia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque mois de janvier, l'Éthiopie recrée un baptême dans les rues.",
+        "fact": "Timkat est la célébration orthodoxe éthiopienne de l'Épiphanie, commémorant le baptême de Jésus, marquée par des processions colorées portant des répliques de l'Arche d'alliance et une bénédiction rituelle de l'eau."
+      },
+      "nl": {
+        "hook": "Ethiopië herschept elk jaar in januari een doop op straat.",
+        "fact": "Timkat is het Ethiopisch-orthodoxe feest van Epifanie, dat de doop van Jezus herdenkt, gekenmerkt door kleurrijke processies met replica's van de Ark van het Verbond en een ritueel zegenen van water."
+      },
+      "es": {
+        "hook": "Cada enero, Etiopía recrea un bautismo en las calles.",
+        "fact": "Timkat es la celebración ortodoxa etíope de la Epifanía, que conmemora el bautismo de Jesús, marcada por coloridas procesiones que portan réplicas del Arca de la Alianza y la bendición ritual del agua."
+      }
+    }
   },
   {
     "id": "culture-051",
@@ -924,7 +1224,21 @@
     "tags": [
       "customs",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une cérémonie de passage à l'âge adulte maasaï met en scène des guerriers qui sautent le plus haut possible.",
+        "fact": "L'adumu, souvent appelée « danse du saut », est exécutée par les guerriers maasaï d'Afrique de l'Est dans le cadre de cérémonies de passage à l'âge adulte, la hauteur et la grâce des sauts servant à démontrer leur force."
+      },
+      "nl": {
+        "hook": "Bij een Masai-initiatieceremonie springen krijgers zo hoog als ze kunnen.",
+        "fact": "De adumu, vaak de \"springdans\" genoemd, wordt uitgevoerd door Masai-krijgers in Oost-Afrika als onderdeel van initiatieceremonies, waarbij springhoogte en gratie dienen als demonstratie van kracht."
+      },
+      "es": {
+        "hook": "Una ceremonia de iniciación masái consiste en guerreros que saltan tan alto como pueden.",
+        "fact": "El adumu, a menudo llamado la \"danza del salto\", lo realizan los guerreros masáis del África oriental como parte de las ceremonias de paso a la edad adulta, donde la altura y la elegancia del salto muestran su fuerza."
+      }
+    }
   },
   {
     "id": "culture-052",
@@ -934,7 +1248,21 @@
     "tags": [
       "religion",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La tradition yoruba habille les esprits des ancêtres d'étoffes somptueuses.",
+        "fact": "Dans la culture yoruba d'Afrique de l'Ouest, la mascarade Egungun met en scène des danseurs richement costumés censés incarner les esprits des ancêtres, exécutée lors de fêtes pour honorer les morts et bénir les vivants."
+      },
+      "nl": {
+        "hook": "De Yoruba-traditie kleedt de geesten van voorouders in weelderige stoffen.",
+        "fact": "In de Yoruba-cultuur van West-Afrika kent de Egungun-maskerade uitbundig verklede dansers die geacht worden de geesten van voorouders te belichamen, uitgevoerd tijdens festivals om de doden te eren en de levenden te zegenen."
+      },
+      "es": {
+        "hook": "La tradición yoruba viste los espíritus de los antepasados con telas elaboradas.",
+        "fact": "En la cultura yoruba de África occidental, la mascarada Egungun presenta a bailarines ricamente disfrazados que se cree encarnan los espíritus de los antepasados, y se realiza durante festivales para honrar a los muertos y bendecir a los vivos."
+      }
+    }
   },
   {
     "id": "culture-053",
@@ -944,7 +1272,21 @@
     "tags": [
       "philosophy",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une philosophie africaine définit la personne par la communauté, non par l'individualité.",
+        "fact": "L'ubuntu, un concept issu des langues nguni d'Afrique australe, se résume souvent par « Je suis parce que nous sommes », l'idée que l'humanité d'une personne est indissociable de ses relations avec les autres."
+      },
+      "nl": {
+        "hook": "Een Afrikaanse filosofie definieert een mens via de gemeenschap, niet via individualiteit.",
+        "fact": "Ubuntu, een concept uit de Nguni-talen van zuidelijk Afrika, wordt vaak samengevat als \"ik ben omdat wij zijn\", en houdt in dat iemands menselijkheid onlosmakelijk verbonden is met zijn of haar relaties met anderen."
+      },
+      "es": {
+        "hook": "Una filosofía africana define a la persona a través de la comunidad, no de la individualidad.",
+        "fact": "El ubuntu, un concepto de las lenguas nguni del sur de África, suele resumirse como \"soy porque somos\", la idea de que la humanidad de una persona está ligada a sus relaciones con los demás."
+      }
+    }
   },
   {
     "id": "culture-054",
@@ -954,7 +1296,21 @@
     "tags": [
       "africa",
       "art"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque motif du tissu kente est censé raconter quelque chose.",
+        "fact": "Le tissu kente, tissé par les Akan du Ghana, dont les Ashanti, utilise des couleurs et des motifs géométriques précis qui portent traditionnellement des significations symboliques liées à des proverbes, à l'histoire ou au statut social."
+      },
+      "nl": {
+        "hook": "Elk patroon in kentestof is bedoeld om iets te vertellen.",
+        "fact": "Kentestof, geweven door de Akan-bevolking van Ghana, waaronder de Ashanti, gebruikt specifieke kleuren en geometrische patronen die traditioneel symbolische betekenissen dragen, verbonden met spreekwoorden, geschiedenis of sociale status."
+      },
+      "es": {
+        "hook": "Cada patrón de la tela kente está pensado para decir algo.",
+        "fact": "La tela kente, tejida por el pueblo akan de Ghana, incluidos los ashanti, utiliza colores y patrones geométricos específicos que tradicionalmente llevan significados simbólicos ligados a proverbios, historia o estatus social."
+      }
+    }
   },
   {
     "id": "culture-055",
@@ -965,7 +1321,24 @@
     "tags": [
       "religion",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le vaudou a une véritable patrie religieuse, bien loin des clichés hollywoodiens.",
+        "fact": "Le vodun est né chez les peuples fon et ewe d'Afrique de l'Ouest, notamment dans l'actuel Bénin, comme une religion structurée centrée sur des esprits qui font le lien entre les humains et un créateur suprême. Il s'est ensuite répandu dans les Amériques par la traite transatlantique.",
+        "whyItMatters": "Le Bénin reconnaît officiellement le vodun comme religion et organise chaque 10 janvier une Journée nationale du vodun, attirant pratiquants et visiteurs du monde entier."
+      },
+      "nl": {
+        "hook": "Voodoo heeft een echte religieuze thuisbasis, ver van de Hollywood-clichés.",
+        "fact": "Vodun is ontstaan bij de Fon- en Ewe-volkeren van West-Afrika, met name in het huidige Benin, als een gestructureerde religie rond geesten die bemiddelen tussen mensen en een oppermachtige schepper. Later verspreidde het zich naar Amerika via de trans-Atlantische slavenhandel.",
+        "whyItMatters": "Benin erkent vodun officieel als religie en houdt elk jaar op 10 januari een Nationale Vodun-dag, die beoefenaars en bezoekers van over de hele wereld trekt."
+      },
+      "es": {
+        "hook": "El vudú tiene un verdadero hogar religioso, muy lejos de los clichés de Hollywood.",
+        "fact": "El vodún se originó entre los pueblos fon y ewe de África occidental, particularmente en el actual Benín, como una religión estructurada centrada en espíritus que median entre los humanos y un creador supremo. Más tarde se extendió a América a través de la trata transatlántica de esclavos.",
+        "whyItMatters": "Benín reconoce oficialmente el vodún como religión y celebra un Día Nacional del Vodún cada 10 de enero, que atrae a practicantes y visitantes de todo el mundo."
+      }
+    }
   },
   {
     "id": "culture-056",
@@ -975,7 +1348,21 @@
     "tags": [
       "folklore",
       "europe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Saint Nicolas a un compagnon cornu qui punit les vilains enfants.",
+        "fact": "Dans le folklore alpin, le Krampus est une figure démoniaque cornue censée accompagner saint Nicolas chaque mois de décembre, effrayant ou punissant les enfants désobéissants plutôt que de récompenser les sages."
+      },
+      "nl": {
+        "hook": "Sinterklaas heeft een gehoornde metgezel die stoute kinderen straft.",
+        "fact": "In de Alpenfolklore is Krampus een gehoornde, demonische figuur die elk jaar in december Sint-Nicolaas zou vergezellen, en die stoute kinderen bang maakt of straft in plaats van brave kinderen te belonen."
+      },
+      "es": {
+        "hook": "San Nicolás tiene un compañero con cuernos que castiga a los traviesos.",
+        "fact": "En el folclore alpino, Krampus es una figura demoníaca con cuernos que, según se dice, acompaña a San Nicolás cada diciembre, asustando o castigando a los niños que se portan mal en lugar de recompensar a los buenos."
+      }
+    }
   },
   {
     "id": "culture-057",
@@ -985,7 +1372,21 @@
     "tags": [
       "festivals",
       "europe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque hiver, l'Écosse brûle un drakkar viking.",
+        "fact": "Up Helly Aa est une fête du feu célébrée chaque mois de janvier dans les îles Shetland, en Écosse, où des participants porteurs de torches finissent par brûler la réplique d'un drakkar viking pour célébrer l'héritage nordique de l'archipel."
+      },
+      "nl": {
+        "hook": "Elke winter verbrandt Schotland een Vikingschip.",
+        "fact": "Up Helly Aa is een vuurfestival dat elk jaar in januari op Shetland, Schotland, wordt gehouden, en dat culmineert in fakkeldragende deelnemers die een replica van een Vikingschip verbranden om het Noorse erfgoed van de eilanden te vieren."
+      },
+      "es": {
+        "hook": "Cada invierno, Escocia quema un drakkar vikingo.",
+        "fact": "Up Helly Aa es un festival del fuego que se celebra cada enero en las islas Shetland, Escocia, y que culmina cuando los participantes, portando antorchas, queman la réplica de un drakkar vikingo para celebrar la herencia nórdica de las islas."
+      }
+    }
   },
   {
     "id": "culture-058",
@@ -995,7 +1396,21 @@
     "tags": [
       "festivals",
       "spain"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus grande fête d'une ville espagnole est une gigantesque bataille de tomates.",
+        "fact": "La Tomatina, qui se tient chaque année dans la ville de Buñol, en Espagne, réunit des dizaines de milliers de participants qui se lancent des tomates trop mûres dans les rues, une tradition dont l'origine remonte à une bagarre de nourriture spontanée en 1945."
+      },
+      "nl": {
+        "hook": "Het grootste feest van een Spaans stadje is een uitzinnig tomatengevecht.",
+        "fact": "La Tomatina, die jaarlijks wordt gehouden in het Spaanse stadje Buñol, brengt tienduizenden deelnemers samen die elkaar in de straten bekogelen met overrijpe tomaten. De oorsprong gaat terug op een spontane voedselvechtpartij in 1945."
+      },
+      "es": {
+        "hook": "El festival más importante de un pueblo español es una batalla campal de tomates.",
+        "fact": "La Tomatina, celebrada cada año en el pueblo de Buñol, España, reúne a decenas de miles de participantes que se lanzan tomates demasiado maduros por las calles, una tradición cuyo origen se remonta a una pelea de comida espontánea en 1945."
+      }
+    }
   },
   {
     "id": "culture-059",
@@ -1006,7 +1421,21 @@
       "christianity",
       "spain",
       "festivals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les processions de la Semaine sainte en Espagne peuvent mettre des heures à traverser une seule rue.",
+        "fact": "Pendant la Semana Santa, des villes de toute l'Espagne organisent de somptueuses processions où des confréries religieuses portent des chars ornés représentant la Passion du Christ, parfois accompagnés de pénitents coiffés de hautes cagoules pointues, une tradition espagnole vieille de plusieurs siècles, sans aucun lien avec un autre groupe ayant plus tard adopté des tenues similaires."
+      },
+      "nl": {
+        "hook": "De processies tijdens de Goede Week in Spanje kunnen uren nodig hebben om één straat te passeren.",
+        "fact": "Tijdens de Semana Santa houden steden in heel Spanje uitbundige processies waarbij religieuze broederschappen rijkversierde praalwagens dragen met voorstellingen van de Passie van Christus, sommige begeleid door boetelingen met hoge puntkappen — een eeuwenoude Spaanse traditie die niets te maken heeft met een andere groep die later vergelijkbare gewaden overnam."
+      },
+      "es": {
+        "hook": "Las procesiones de Semana Santa en España pueden tardar horas en recorrer una sola calle.",
+        "fact": "Durante la Semana Santa, ciudades de toda España celebran elaboradas procesiones en las que las cofradías religiosas portan tronos ornamentados que representan la Pasión de Cristo, algunos acompañados de nazarenos con altos capirotes puntiagudos, una tradición española centenaria sin relación alguna con ningún otro grupo que adoptara después túnicas parecidas."
+      }
+    }
   },
   {
     "id": "culture-060",
@@ -1016,7 +1445,21 @@
     "tags": [
       "festivals",
       "sweden"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus grande fête de l'année en Suède se déroule autour d'un immense mât.",
+        "fact": "La Saint-Jean, célébrée autour du solstice d'été, est l'une des fêtes les plus importantes de Suède, marquée par des danses autour d'un mât fleuri, des chants folkloriques et des repas de hareng et de pommes de terre nouvelles."
+      },
+      "nl": {
+        "hook": "Zweden's grootste feest van het jaar draait rond een gigantische paal.",
+        "fact": "Midzomer, gevierd rond de zomerzonnewende, is een van de belangrijkste feestdagen in Zweden, gekenmerkt door dansen rond een met bloemen versierde meiboom, volksliederen en feestmalen met haring en nieuwe aardappelen."
+      },
+      "es": {
+        "hook": "La mayor fiesta del año en Suecia gira en torno a un mástil gigante.",
+        "fact": "El Midsommar, celebrado en torno al solsticio de verano, es una de las festividades más importantes de Suecia, marcada por bailes alrededor de un mayo decorado con flores, canciones populares y banquetes de arenque y patatas nuevas."
+      }
+    }
   },
   {
     "id": "culture-061",
@@ -1027,7 +1470,21 @@
       "christianity",
       "sweden",
       "festivals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Suède célèbre une sainte sicilienne en portant des bougies sur la tête.",
+        "fact": "Chaque mois de décembre, le jour de la Sainte-Lucie, une jeune fille est traditionnellement choisie pour porter une couronne de bougies et mener une procession vêtue de blanc, en hommage à une martyre chrétienne sicilienne du IVe siècle — une tradition particulièrement vivace en Suède et dans d'autres pays nordiques."
+      },
+      "nl": {
+        "hook": "Zweden viert een Siciliaanse heilige door kaarsen op je hoofd te dragen.",
+        "fact": "Op Sint-Luciadag, elk jaar in december, wordt traditioneel een meisje gekozen om een kroon van kaarsen te dragen en een processie in het wit te leiden, ter ere van een christelijke martelares uit de 4e eeuw uit Sicilië — een traditie die vooral sterk leeft in Zweden en andere Noordse landen."
+      },
+      "es": {
+        "hook": "Suecia celebra a una santa siciliana llevando velas en la cabeza.",
+        "fact": "Cada mes de diciembre, en el Día de Santa Lucía, tradicionalmente se elige a una niña para llevar una corona de velas y encabezar una procesión vestida de blanco, en honor a una mártir cristiana siciliana del siglo IV, una tradición especialmente arraigada en Suecia y otros países nórdicos."
+      }
+    }
   },
   {
     "id": "culture-062",
@@ -1037,7 +1494,21 @@
     "tags": [
       "festivals",
       "germany"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Oktoberfest a commencé comme une fête de mariage, pas comme un festival de la bière.",
+        "fact": "L'Oktoberfest remonte à 1810, lorsque les habitants de Munich furent invités à célébrer le mariage du prince héritier de Bavière, Louis. Les courses de chevaux organisées pour l'occasion rencontrèrent un tel succès que la fête devint une tradition annuelle."
+      },
+      "nl": {
+        "hook": "Het Oktoberfest begon als een bruiloftsfeest, niet als een bierfestival.",
+        "fact": "Het Oktoberfest gaat terug tot 1810, toen de inwoners van München werden uitgenodigd om het huwelijk van de Beierse kroonprins Ludwig te vieren. De paardenrennen die bij die gelegenheid werden gehouden, waren zo populair dat het feest een jaarlijkse traditie werd."
+      },
+      "es": {
+        "hook": "El Oktoberfest empezó como una fiesta de boda, no como un festival de la cerveza.",
+        "fact": "El Oktoberfest se remonta a 1810, cuando los ciudadanos de Múnich fueron invitados a celebrar la boda del príncipe heredero bávaro Luis. Las carreras de caballos organizadas para la ocasión tuvieron tanto éxito que la fiesta se convirtió en una tradición anual."
+      }
+    }
   },
   {
     "id": "culture-063",
@@ -1047,7 +1518,21 @@
     "tags": [
       "festivals",
       "spain"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La tradition la plus célèbre de Pampelune est née d'un besoin pratique de déplacer du bétail.",
+        "fact": "Les lâchers de taureaux pendant la fête de San Fermín, en Espagne, sont nés du besoin pratique de conduire les taureaux des enclos jusqu'aux arènes, des jeunes hommes courant à leurs côtés ; la pratique est ensuite devenue le spectacle central de l'événement."
+      },
+      "nl": {
+        "hook": "Pamplona's beroemdste traditie begon als een praktische manier om vee te verplaatsen.",
+        "fact": "Het stierenrennen tijdens het San Fermín-festival in Spanje ontstond uit de praktische noodzaak om stieren van hun verblijven naar het arenaterrein te drijven, waarbij jonge mannen naast hen meerenden; later evolueerde het tot het centrale spektakel van het evenement."
+      },
+      "es": {
+        "hook": "La tradición más famosa de Pamplona empezó como una forma práctica de mover el ganado.",
+        "fact": "El encierro durante las fiestas de San Fermín en España surgió de la necesidad práctica de conducir a los toros desde los corrales hasta la plaza, con jóvenes corriendo junto a ellos; más tarde se convirtió en el espectáculo central del evento."
+      }
+    }
   },
   {
     "id": "culture-064",
@@ -1057,7 +1542,21 @@
     "tags": [
       "mythology",
       "greece"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les dieux souverains de la mythologie grecque vivaient tous sur la même montagne.",
+        "fact": "Les Douze Olympiens, parmi lesquels Zeus, Héra, Poséidon et Athéna, étaient les principales divinités de la religion grecque antique, censées résider au sommet du mont Olympe, le plus haut sommet de Grèce."
+      },
+      "nl": {
+        "hook": "De heersende goden uit de Griekse mythologie woonden allemaal op één berg.",
+        "fact": "De Twaalf Olympiërs, waaronder Zeus, Hera, Poseidon en Athena, waren de belangrijkste goden van de oude Griekse religie en zouden op de top van de berg Olympus wonen, de hoogste piek van Griekenland."
+      },
+      "es": {
+        "hook": "Los dioses gobernantes de la mitología griega vivían todos en la misma montaña.",
+        "fact": "Los Doce Olímpicos, entre ellos Zeus, Hera, Poseidón y Atenea, eran las principales deidades de la religión griega antigua, y se creía que residían en la cima del monte Olimpo, el pico más alto de Grecia."
+      }
+    }
   },
   {
     "id": "culture-065",
@@ -1067,7 +1566,21 @@
     "tags": [
       "mythology",
       "norse"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'univers de la mythologie nordique tient tout entier à un unique arbre gigantesque.",
+        "fact": "Dans la mythologie nordique, Yggdrasil est un immense frêne censé relier les neuf mondes, dont les royaumes des dieux, des géants et des humains. Son destin est lié au Ragnarök, la fin du monde prophétisée."
+      },
+      "nl": {
+        "hook": "Het universum van de Noordse mythologie hangt aan één enorme boom.",
+        "fact": "In de Noordse mythologie is Yggdrasil een immense es die de negen werelden zou verbinden, waaronder de rijken van goden, reuzen en mensen. Zijn lot is verbonden met Ragnarök, het voorspelde einde van de wereld."
+      },
+      "es": {
+        "hook": "El universo de la mitología nórdica pende de un único árbol descomunal.",
+        "fact": "En la mitología nórdica, Yggdrasil es un inmenso fresno que se dice conecta los nueve mundos, incluidos los reinos de dioses, gigantes y humanos. Su destino está ligado al Ragnarök, el fin del mundo profetizado."
+      }
+    }
   },
   {
     "id": "culture-066",
@@ -1077,7 +1590,21 @@
     "tags": [
       "festivals",
       "uk"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Royaume-Uni brûle encore des effigies pour se souvenir d'un complot déjoué en 1605.",
+        "fact": "La nuit de Guy Fawkes, célébrée chaque 5 novembre au Royaume-Uni, commémore l'échec de la Conspiration des poudres de 1605 visant à faire exploser le Parlement, traditionnellement marquée par des feux de joie, des feux d'artifice et la crémation d'effigies du conspirateur qui a donné son nom à l'événement."
+      },
+      "nl": {
+        "hook": "Het VK verbrandt nog altijd poppen om een mislukt complot uit 1605 te herdenken.",
+        "fact": "Guy Fawkes Night, elk jaar op 5 november gehouden in het Verenigd Koninkrijk, herdenkt het verijdelen van het Buskruitverraad van 1605, een plan om het parlement op te blazen, traditioneel gevierd met vreugdevuren, vuurwerk en het verbranden van poppen van de samenzweerder naar wie de avond is vernoemd."
+      },
+      "es": {
+        "hook": "El Reino Unido sigue quemando efigies para recordar una conspiración frustrada de 1605.",
+        "fact": "La Noche de Guy Fawkes, celebrada cada 5 de noviembre en el Reino Unido, conmemora el fracaso de la Conspiración de la Pólvora de 1605 para volar el Parlamento, marcada tradicionalmente con hogueras, fuegos artificiales y la quema de efigies del conspirador que da nombre a la noche."
+      }
+    }
   },
   {
     "id": "culture-067",
@@ -1087,7 +1614,21 @@
     "tags": [
       "customs",
       "ireland"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La couleur royale d'origine de l'Irlande n'était pas le vert.",
+        "fact": "Le bleu était historiquement associé à la royauté irlandaise et aux premières représentations de saint Patrick. Le vert n'a été associé à l'Irlande que plus tard, à travers le trèfle lié à l'enseignement de saint Patrick et le symbolisme nationaliste irlandais du XVIIIe siècle."
+      },
+      "nl": {
+        "hook": "Ierlands oorspronkelijke koninklijke kleur was niet groen.",
+        "fact": "Blauw werd historisch geassocieerd met de Ierse koningshuizen en vroege afbeeldingen van Sint-Patrick. Groen raakte pas later verbonden met Ierland, via de klaver die geassocieerd werd met de leer van Sint-Patrick en het Ierse nationalistische symbolisme van de 18e eeuw."
+      },
+      "es": {
+        "hook": "El color real original de Irlanda no era el verde.",
+        "fact": "El azul se asociaba históricamente con la realeza irlandesa y las primeras representaciones de San Patricio. El verde se vinculó a Irlanda más tarde, a través del trébol asociado a las enseñanzas de San Patricio y el simbolismo nacionalista irlandés del siglo XVIII."
+      }
+    }
   },
   {
     "id": "culture-068",
@@ -1098,7 +1639,24 @@
     "tags": [
       "customs",
       "iceland"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plupart des Islandais ne portent pas le même nom de famille que leurs parents.",
+        "fact": "L'Islande utilise en grande partie un système patronymique, ou matronymique, où le nom de famille d'une personne se forme à partir du prénom d'un parent suivi de « -son » ou « -dóttir », plutôt qu'un nom de famille hérité.",
+        "whyItMatters": "Comme tant d'Islandais partagent ainsi effectivement des « noms de famille » formés de cette façon, les annuaires téléphoniques du pays sont traditionnellement classés par prénom plutôt que par nom."
+      },
+      "nl": {
+        "hook": "De meeste IJslanders delen geen achternaam met hun ouders.",
+        "fact": "IJsland gebruikt grotendeels een patroniem- of matroniemsysteem, waarbij iemands achternaam wordt gevormd uit de voornaam van een ouder plus \"-son\" of \"-dóttir\", in plaats van een overgeërfde familienaam.",
+        "whyItMatters": "Omdat zoveel IJslanders op deze manier effectief dezelfde \"achternamen\" delen, worden telefoonboeken in het land traditioneel gesorteerd op voornaam in plaats van achternaam."
+      },
+      "es": {
+        "hook": "La mayoría de los islandeses no comparten apellido con sus padres.",
+        "fact": "Islandia utiliza en gran medida un sistema patronímico, o matronímico, en el que el apellido de una persona se forma a partir del nombre de pila de un progenitor más \"-son\" o \"-dóttir\", en lugar de un apellido familiar heredado.",
+        "whyItMatters": "Como tantos islandeses comparten de hecho \"apellidos\" formados de esta manera, las guías telefónicas del país se ordenan tradicionalmente por nombre de pila en lugar de por apellido."
+      }
+    }
   },
   {
     "id": "culture-069",
@@ -1109,7 +1667,24 @@
     "tags": [
       "festivals",
       "mexico"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Día de los Muertos n'est pas un Halloween mexicain.",
+        "fact": "Le Día de los Muertos est une tradition mexicaine qui honore les proches défunts par des autels domestiques appelés ofrendas, des fleurs de cempasúchil et les plats préférés des disparus, ancrée dans un mélange de croyances mésoaméricaines autochtones et de pratiques catholiques.",
+        "whyItMatters": "L'UNESCO a ajouté le Día de los Muertos à sa liste du patrimoine culturel immatériel en 2008, le reconnaissant comme une tradition distincte plutôt qu'une version mexicaine d'Halloween."
+      },
+      "nl": {
+        "hook": "Día de los Muertos is geen Mexicaanse Halloween.",
+        "fact": "Día de los Muertos is een Mexicaanse traditie die overleden dierbaren eert met huisaltaren genaamd ofrendas, afrikaantjes en de favoriete gerechten van de overledenen, geworteld in een mengeling van inheemse Mesoamerikaanse overtuigingen en katholieke gebruiken.",
+        "whyItMatters": "UNESCO voegde Día de los Muertos in 2008 toe aan zijn lijst van immaterieel cultureel erfgoed, en erkende het daarmee als een eigen traditie in plaats van een Mexicaanse versie van Halloween."
+      },
+      "es": {
+        "hook": "El Día de los Muertos no es un Halloween mexicano.",
+        "fact": "El Día de los Muertos es una tradición mexicana que honra a los seres queridos fallecidos con altares domésticos llamados ofrendas, flores de cempasúchil y los platillos favoritos de los difuntos, arraigada en una mezcla de creencias indígenas mesoamericanas y prácticas católicas.",
+        "whyItMatters": "La UNESCO incluyó el Día de los Muertos en su lista de Patrimonio Cultural Inmaterial en 2008, reconociéndolo como una tradición propia y no como una versión mexicana de Halloween."
+      }
+    }
   },
   {
     "id": "culture-070",
@@ -1119,7 +1694,21 @@
     "tags": [
       "customs",
       "latin-america"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Fêter ses 15 ans donne lieu à une célébration élaborée dans toute l'Amérique latine.",
+        "fact": "La quinceañera marque le 15e anniversaire d'une jeune fille dans de nombreuses cultures d'Amérique latine par une cérémonie religieuse et une grande fête, symbolisant traditionnellement son passage de l'enfance à l'âge de femme."
+      },
+      "nl": {
+        "hook": "Vijftien worden krijgt in heel Latijns-Amerika een uitbundig eigen feest.",
+        "fact": "Een quinceañera markeert de 15e verjaardag van een meisje in veel Latijns-Amerikaanse culturen met een religieuze ceremonie en een groot feest, dat traditioneel haar overgang van kindertijd naar vrouwzijn symboliseert."
+      },
+      "es": {
+        "hook": "Cumplir 15 años tiene su propia y elaborada celebración en toda Latinoamérica.",
+        "fact": "La quinceañera marca el 15º cumpleaños de una chica en muchas culturas latinoamericanas con una ceremonia religiosa y una gran fiesta, que simboliza tradicionalmente su paso de la niñez a la vida adulta."
+      }
+    }
   },
   {
     "id": "culture-071",
@@ -1130,7 +1719,21 @@
       "customs",
       "indigenous",
       "america"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'agriculture autochtone à l'origine du premier Thanksgiving façonne encore la cuisine d'aujourd'hui.",
+        "fact": "Le peuple wampanoag, qui a partagé un festin des moissons avec des colons anglais en 1621, cultivait ensemble le maïs, les haricots et les courges selon une méthode de culture associée appelée les Trois Sœurs, où chaque plante favorise la croissance des autres."
+      },
+      "nl": {
+        "hook": "De inheemse landbouw achter het eerste Thanksgiving vormt nog steeds de keuken van vandaag.",
+        "fact": "Het Wampanoag-volk, dat in 1621 een oogstfeest deelde met Engelse kolonisten, teelde samen maïs, bonen en pompoen volgens een combinatieteeltmethode die bekendstaat als de Drie Zusters, waarbij elk gewas de groei van de andere ondersteunt."
+      },
+      "es": {
+        "hook": "La agricultura indígena tras el primer Thanksgiving sigue marcando la cocina actual.",
+        "fact": "El pueblo wampanoag, que compartió un banquete de la cosecha con colonos ingleses en 1621, cultivaba juntos maíz, judías y calabaza mediante un método de cultivo asociado conocido como las Tres Hermanas, en el que cada cultivo favorece el crecimiento de los otros."
+      }
+    }
   },
   {
     "id": "culture-072",
@@ -1140,7 +1743,21 @@
     "tags": [
       "festivals",
       "peru"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Incas consacraient leur plus grande fête au soleil lui-même.",
+        "fact": "L'Inti Raymi, la fête inca en l'honneur du dieu-soleil Inti, était traditionnellement célébrée au solstice d'hiver de l'hémisphère sud. Elle est encore reconstituée aujourd'hui à Cusco, au Pérou, en s'appuyant sur des récits historiques de la cérémonie d'origine."
+      },
+      "nl": {
+        "hook": "De Inca's hielden hun grootste feest voor de zon zelf.",
+        "fact": "Inti Raymi, het Inca-feest ter ere van de zonnegod Inti, werd traditioneel gehouden tijdens de winterzonnewende op het zuidelijk halfrond. Het wordt vandaag de dag nog altijd nagespeeld in Cusco, Peru, op basis van historische verslagen van de oorspronkelijke ceremonie."
+      },
+      "es": {
+        "hook": "Los incas dedicaban su festival más importante al propio sol.",
+        "fact": "El Inti Raymi, el festival inca en honor al dios sol Inti, se celebraba tradicionalmente en el solsticio de invierno del hemisferio sur. Todavía se recrea hoy en Cusco, Perú, basándose en relatos históricos de la ceremonia original."
+      }
+    }
   },
   {
     "id": "culture-073",
@@ -1150,7 +1767,21 @@
     "tags": [
       "festivals",
       "caribbean"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un défilé de rue bahaméen remonte à l'unique jour de fête accordé à des Africains réduits en esclavage.",
+        "fact": "Le Junkanoo, un défilé costumé haut en couleur organisé aux Bahamas autour de Noël et du Nouvel An, trouverait ses racines dans les célébrations que des Africains réduits en esclavage organisaient durant les rares jours de congé qui leur étaient accordés dans l'année."
+      },
+      "nl": {
+        "hook": "Een Bahamaanse straatparade gaat terug op de ene vrije dag van tot slaaf gemaakte Afrikanen.",
+        "fact": "Junkanoo, een levendige, verklede parade die rond Kerstmis en Nieuwjaar op de Bahama's wordt gehouden, zou zijn wortels hebben in feesten die tot slaaf gemaakte Afrikanen organiseerden op de weinige dagen per jaar dat ze vrij kregen."
+      },
+      "es": {
+        "hook": "Un desfile callejero bahameño se remonta al único día libre de los africanos esclavizados.",
+        "fact": "El Junkanoo, un vibrante desfile de disfraces que se celebra en las Bahamas en torno a Navidad y Año Nuevo, se cree que tiene sus raíces en las celebraciones que los africanos esclavizados organizaban en los pocos días del año en que se les permitía descansar."
+      }
+    }
   },
   {
     "id": "culture-074",
@@ -1161,7 +1792,24 @@
     "tags": [
       "customs",
       "indigenous"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une cérémonie autochtone a longtemps été interdite, simplement parce qu'elle offrait trop de cadeaux.",
+        "fact": "Le potlatch, pratiqué par les peuples autochtones de la côte nord-ouest du Pacifique, est un festin cérémoniel où les hôtes distribuent cadeaux et richesses pour affirmer leur statut social et marquer des événements importants.",
+        "whyItMatters": "Le Canada a interdit le potlatch de 1885 à 1951, et les États-Unis l'ont également restreint, dans le cadre de politiques plus larges visant à réprimer les pratiques culturelles autochtones."
+      },
+      "nl": {
+        "hook": "Een inheemse ceremonie was ooit illegaal, simpelweg omdat er te veel werd weggegeven.",
+        "fact": "De potlatch, beoefend door inheemse volkeren van de noordwestkust van de Stille Oceaan, is een ceremonieel feest waarbij gastheren geschenken en rijkdom uitdelen om sociale status te bevestigen en belangrijke gebeurtenissen te markeren.",
+        "whyItMatters": "Canada verbood de potlatch van 1885 tot 1951, en ook de Verenigde Staten beperkten de praktijk, als onderdeel van bredere beleidsmaatregelen gericht op het onderdrukken van inheemse culturele gebruiken."
+      },
+      "es": {
+        "hook": "Una ceremonia indígena llegó a ser ilegal simplemente por repartir demasiado.",
+        "fact": "El potlatch, practicado por los pueblos indígenas de la costa noroeste del Pacífico, es un banquete ceremonial en el que los anfitriones reparten regalos y riqueza para afirmar su estatus social y conmemorar eventos importantes.",
+        "whyItMatters": "Canadá prohibió el potlatch entre 1885 y 1951, y Estados Unidos también lo restringió, como parte de políticas más amplias destinadas a suprimir las prácticas culturales indígenas."
+      }
+    }
   },
   {
     "id": "culture-075",
@@ -1171,7 +1819,21 @@
     "tags": [
       "customs",
       "indigenous"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un powwow est une tradition vivante, pas une reconstitution historique.",
+        "fact": "Les powwows sont des rassemblements sociaux organisés par les communautés amérindiennes et des Premières Nations, mêlant danse, tambours et parures traditionnelles. Les coutumes varient selon les nations, mais les powwows perdurent aujourd'hui comme des expressions vibrantes de la culture autochtone."
+      },
+      "nl": {
+        "hook": "Een powwow is een levende traditie, geen historische re-enactment.",
+        "fact": "Powwows zijn sociale bijeenkomsten van inheemse Amerikaanse en First Nations-gemeenschappen met dans, trommelen en traditionele kledij. Gebruiken verschillen per volk, maar powwows blijven vandaag de dag springlevende uitingen van inheemse cultuur."
+      },
+      "es": {
+        "hook": "Un powwow es una tradición viva, no una recreación histórica.",
+        "fact": "Los powwows son reuniones sociales organizadas por comunidades nativas americanas y de las Primeras Naciones, con danza, tambores y atuendos tradicionales. Las costumbres varían según la nación, pero los powwows siguen siendo hoy expresiones vibrantes de la cultura indígena."
+      }
+    }
   },
   {
     "id": "culture-076",
@@ -1181,7 +1843,21 @@
     "tags": [
       "customs",
       "new-zealand"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le haka n'est pas qu'un rituel d'avant-match de rugby.",
+        "fact": "Le haka est une danse cérémonielle du peuple maori de Nouvelle-Zélande, traditionnellement exécutée pour marquer des événements importants, accueillir des invités ou exprimer force et unité, et non uniquement comme une danse de guerre, contrairement à l'image souvent véhiculée à l'international."
+      },
+      "nl": {
+        "hook": "De haka is niet zomaar een rugbyritueel voor de wedstrijd.",
+        "fact": "De haka is een ceremoniële dans van de Māori van Nieuw-Zeeland, traditioneel uitgevoerd om belangrijke gebeurtenissen te markeren, gasten te verwelkomen of kracht en eenheid uit te drukken, en niet uitsluitend als oorlogsdans, zoals internationaal vaak wordt voorgesteld."
+      },
+      "es": {
+        "hook": "El haka no es solo un ritual previo a los partidos de rugby.",
+        "fact": "El haka es una danza ceremonial del pueblo maorí de Nueva Zelanda, ejecutada tradicionalmente para conmemorar eventos importantes, recibir invitados o expresar fuerza y unidad, y no únicamente como danza guerrera, como suele representarse a nivel internacional."
+      }
+    }
   },
   {
     "id": "culture-077",
@@ -1191,7 +1867,21 @@
     "tags": [
       "customs",
       "hawaii"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Offrir un lei a une signification bien plus profonde qu'un simple souvenir touristique.",
+        "fact": "Dans la culture hawaïenne, offrir un lei, un collier généralement fait de fleurs, de feuilles ou de coquillages, exprime traditionnellement affection, respect ou célébration, souvent accompagné d'un baiser sur la joue."
+      },
+      "nl": {
+        "hook": "Het geven van een lei draagt een diepere betekenis dan een toeristisch souvenir.",
+        "fact": "In de Hawaïaanse cultuur drukt het geven van een lei, een krans doorgaans gemaakt van bloemen, bladeren of schelpen, traditioneel genegenheid, respect of feestvreugde uit, vaak vergezeld van een kus op de wang."
+      },
+      "es": {
+        "hook": "Regalar un lei tiene un significado más profundo que un simple recuerdo turístico.",
+        "fact": "En la cultura hawaiana, regalar un lei, un collar hecho normalmente de flores, hojas o conchas, expresa tradicionalmente afecto, respeto o celebración, y suele ir acompañado de un beso en la mejilla."
+      }
+    }
   },
   {
     "id": "culture-078",
@@ -1201,7 +1891,21 @@
     "tags": [
       "religion",
       "australia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'un des plus anciens systèmes de croyance au monde explique la création par le « Temps du rêve ».",
+        "fact": "Dans les traditions aborigènes australiennes, le Temps du rêve désigne la période ancestrale où des êtres spirituels ont façonné la terre et établi les lois et les coutumes. Il n'est pas seulement compris comme un événement passé, mais comme une réalité spirituelle continue, liée à des lieux précis."
+      },
+      "nl": {
+        "hook": "Een van 's werelds oudste geloofssystemen verklaart de schepping via \"de Droomtijd.\"",
+        "fact": "In de tradities van Aboriginal Australiërs beschrijft de Droomtijd de voorouderlijke periode waarin geestwezens het land vormgaven en wetten en gebruiken instelden. Het wordt niet alleen gezien als een gebeurtenis uit het verleden, maar als een voortdurende spirituele werkelijkheid, verbonden met specifieke plaatsen."
+      },
+      "es": {
+        "hook": "Uno de los sistemas de creencias más antiguos del mundo explica la creación a través del \"Tiempo del Sueño.\"",
+        "fact": "En las tradiciones aborígenes australianas, el Tiempo del Sueño describe el período ancestral en el que seres espirituales dieron forma a la tierra y establecieron leyes y costumbres. No se entiende solo como un hecho pasado, sino como una realidad espiritual continua, ligada a lugares concretos."
+      }
+    }
   },
   {
     "id": "culture-079",
@@ -1212,7 +1916,24 @@
     "tags": [
       "customs",
       "australia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains Aborigènes australiens savent parcourir de vastes distances grâce à des chants.",
+        "fact": "Les songlines sont des traditions orales aborigènes australiennes qui codent des itinéraires à travers le paysage par le chant, le récit et la cérémonie, transmettant de génération en génération des connaissances sur la navigation, les points d'eau et les particularités du terrain.",
+        "whyItMatters": "Les songlines ont été présentées comme preuve d'un lien continu avec la terre dans des affaires judiciaires australiennes portant sur les titres autochtones, leur conférant une portée aussi bien juridique que culturelle."
+      },
+      "nl": {
+        "hook": "Sommige Aboriginal Australiërs kunnen enorme afstanden afleggen met behulp van liederen.",
+        "fact": "Songlines zijn mondelinge Aboriginal-tradities die routes door het landschap coderen via lied, verhaal en ceremonie, en die kennis over navigatie, waterbronnen en landkenmerken van generatie op generatie doorgeven.",
+        "whyItMatters": "Songlines zijn aangevoerd als bewijs van een ononderbroken band met het land in Australische rechtszaken over inheems grondbezit (native title), waardoor ze zowel juridische als culturele betekenis hebben gekregen."
+      },
+      "es": {
+        "hook": "Algunos aborígenes australianos pueden recorrer enormes distancias guiándose por canciones.",
+        "fact": "Las songlines son tradiciones orales de los aborígenes australianos que codifican rutas a través del paisaje mediante canciones, relatos y ceremonias, transmitiendo de generación en generación conocimientos sobre navegación, fuentes de agua y rasgos del terreno.",
+        "whyItMatters": "Las songlines se han presentado como prueba de una conexión continua con la tierra en casos judiciales australianos sobre títulos de propiedad indígena, lo que les otorga una relevancia tanto legal como cultural."
+      }
+    }
   },
   {
     "id": "culture-080",
@@ -1222,7 +1943,21 @@
     "tags": [
       "customs",
       "australia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'un des plus anciens instruments à vent au monde obéit à des règles traditionnelles strictes sur qui peut en jouer.",
+        "fact": "Le didgeridoo, développé par les peuples aborigènes du nord de l'Australie il y a au moins 1 000 ans, était traditionnellement réservé aux hommes dans de nombreuses communautés, bien que les coutumes varient selon les groupes aborigènes."
+      },
+      "nl": {
+        "hook": "Een van 's werelds oudste blaasinstrumenten kent strikte traditionele regels over wie erop mag spelen.",
+        "fact": "De didgeridoo, ontwikkeld door Aboriginal volkeren in Noord-Australië minstens 1.000 jaar geleden, was in veel gemeenschappen traditioneel voorbehouden aan mannen, hoewel de gebruiken per Aboriginal-groep verschillen."
+      },
+      "es": {
+        "hook": "Uno de los instrumentos de viento más antiguos del mundo tiene reglas tradicionales estrictas sobre quién puede tocarlo.",
+        "fact": "El didgeridoo, desarrollado por los pueblos aborígenes del norte de Australia hace al menos 1.000 años, estaba tradicionalmente reservado a los hombres en muchas comunidades, aunque las costumbres varían entre los distintos grupos aborígenes."
+      }
+    }
   },
   {
     "id": "culture-081",
@@ -1232,7 +1967,21 @@
     "tags": [
       "customs",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les cadeaux en argent en Chine obéissent à des règles strictes sur le montant.",
+        "fact": "Le hongbao, une enveloppe rouge contenant de l'argent offerte pendant le Nouvel An chinois et d'autres célébrations, contient traditionnellement un montant pair, à l'exception du chiffre quatre, évité car il sonne comme le mot « mort » en mandarin."
+      },
+      "nl": {
+        "hook": "Geldcadeaus in China kennen strikte regels over het bedrag.",
+        "fact": "Hongbao, rode enveloppen met geld die worden gegeven tijdens het Chinese Nieuwjaar en andere vieringen in de Chinese cultuur, bevatten traditioneel een even bedrag, behalve het getal vier, dat wordt vermeden omdat het klinkt als het woord voor \"dood\" in het Mandarijn."
+      },
+      "es": {
+        "hook": "Los regalos en efectivo en China siguen reglas estrictas sobre la cantidad.",
+        "fact": "El hongbao, sobres rojos con dinero que se entregan durante el Año Nuevo Lunar y otras celebraciones en la cultura china, tradicionalmente contienen una cantidad par, excepto el cuatro, que se evita porque suena como la palabra \"muerte\" en mandarín."
+      }
+    }
   },
   {
     "id": "culture-082",
@@ -1244,7 +1993,24 @@
       "customs",
       "china",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains bâtiments d'Asie de l'Est n'ont tout simplement pas de quatrième étage.",
+        "fact": "En Chine, au Japon et en Corée, le chiffre quatre est souvent évité dans les adresses, les numéros d'étage et les cadeaux, car il sonne de façon similaire au mot « mort » en mandarin, en japonais et en coréen respectivement, une superstition appelée tétraphobie.",
+        "whyItMatters": "De nombreux hôtels, hôpitaux et immeubles résidentiels d'Asie de l'Est omettent réellement de désigner un quatrième étage, à l'image de certains bâtiments occidentaux qui sautent le 13e étage."
+      },
+      "nl": {
+        "hook": "Sommige Oost-Aziatische gebouwen slaan de vierde verdieping gewoon over.",
+        "fact": "In China, Japan en Korea wordt het cijfer vier vaak vermeden in adressen, verdiepingsnummers en cadeaus, omdat het respectievelijk in het Mandarijn, Japans en Koreaans lijkt op het woord voor \"dood\", een bijgeloof dat bekendstaat als tetrafobie.",
+        "whyItMatters": "Veel hotels, ziekenhuizen en appartementsgebouwen in Oost-Azië slaan daadwerkelijk een vierde verdieping over, vergelijkbaar met hoe sommige westerse gebouwen een 13e verdieping overslaan."
+      },
+      "es": {
+        "hook": "Algunos edificios del este de Asia directamente se saltan el cuarto piso.",
+        "fact": "En China, Japón y Corea, el número cuatro suele evitarse en direcciones, números de piso y regalos porque suena parecido a la palabra \"muerte\" en mandarín, japonés y coreano respectivamente, una superstición conocida como tetrafobia.",
+        "whyItMatters": "Muchos hoteles, hospitales y edificios de apartamentos en el este de Asia realmente omiten etiquetar un cuarto piso, de forma similar a como algunos edificios occidentales se saltan el piso 13."
+      }
+    }
   },
   {
     "id": "culture-083",
@@ -1254,7 +2020,21 @@
     "tags": [
       "festivals",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une fête tire son nom d'une pleine lune et d'une déesse lunaire.",
+        "fact": "La Fête de la Mi-Automne, célébrée en Chine et dans d'autres régions d'Asie de l'Est, honore la pleine lune avec des gâteaux de lune et des réunions de famille, et est traditionnellement liée à la légende de Chang'e, une déesse censée vivre sur la lune."
+      },
+      "nl": {
+        "hook": "Eén festival dankt zijn naam aan een volle maan en een maangodin.",
+        "fact": "Het Midherfstfestival, gevierd in China en andere delen van Oost-Azië, eert de volle maan met maancakes en familiebijeenkomsten, en is traditioneel verbonden met de legende van Chang'e, een godin die op de maan zou wonen."
+      },
+      "es": {
+        "hook": "Un festival toma su nombre de una luna llena y una diosa lunar.",
+        "fact": "El Festival del Medio Otoño, celebrado en China y otras partes del este de Asia, honra la luna llena con pasteles de luna y reuniones familiares, y está tradicionalmente ligado a la leyenda de Chang'e, una diosa que se dice vive en la luna."
+      }
+    }
   },
   {
     "id": "culture-084",
@@ -1264,7 +2044,21 @@
     "tags": [
       "festivals",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une fête chinoise est consacrée à l'entretien des tombes des ancêtres.",
+        "fact": "Qingming, ou la Fête de balayage des tombes, est une fête traditionnelle chinoise où les familles visitent et nettoient les tombes ancestrales, font des offrandes et rendent hommage à leurs défunts, une pratique enracinée dans les valeurs confucéennes d'honorer ses aïeux."
+      },
+      "nl": {
+        "hook": "Een Chinese feestdag is gewijd aan het opknappen van de graven van voorouders.",
+        "fact": "Qingming, of Grafvegersdag, is een traditioneel Chinees feest waarbij families voorouderlijke graven bezoeken en schoonmaken, offergaven brengen en hun respect betuigen, een gebruik geworteld in confucianistische waarden rond het eren van voorouders."
+      },
+      "es": {
+        "hook": "Una festividad china está dedicada a poner en orden las tumbas de los antepasados.",
+        "fact": "Qingming, o el Día de Barrer las Tumbas, es una fiesta tradicional china en la que las familias visitan y limpian las tumbas ancestrales, hacen ofrendas y rinden homenaje, una práctica arraigada en los valores confucianos de honrar a los antepasados."
+      }
+    }
   },
   {
     "id": "culture-085",
@@ -1274,7 +2068,21 @@
     "tags": [
       "festivals",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les traditions du Nouvel An au Japon vont bien au-delà d'un simple compte à rebours.",
+        "fact": "Les traditions du Nouvel An japonais comprennent le fait de manger du mochi, d'envoyer des cartes postales de vœux et d'effectuer la première visite de l'année à un sanctuaire, appelée hatsumode, pour prier pour la bonne fortune."
+      },
+      "nl": {
+        "hook": "Japans nieuwjaarstradities gaan veel dieper dan een aftelmoment.",
+        "fact": "Japanse nieuwjaarstradities omvatten het eten van mochi, het versturen van nieuwjaarskaarten en het brengen van het eerste heiligdombezoek van het jaar, hatsumode genoemd, om te bidden voor geluk."
+      },
+      "es": {
+        "hook": "Las tradiciones de Año Nuevo en Japón van mucho más allá de una cuenta atrás.",
+        "fact": "Las tradiciones japonesas de Año Nuevo incluyen comer mochi, enviar postales de Año Nuevo y realizar la primera visita del año a un santuario, llamada hatsumode, para pedir buena fortuna."
+      }
+    }
   },
   {
     "id": "culture-086",
@@ -1284,7 +2092,21 @@
     "tags": [
       "japan",
       "customs"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une cérémonie du thé japonaise peut prendre des heures pour préparer une seule tasse.",
+        "fact": "La cérémonie du thé japonaise traditionnelle, ou chanoyu, est une préparation et un service ritualisés du matcha, enracinés dans les principes du bouddhisme zen, mettant l'accent sur la pleine conscience et la simplicité incarnées par la philosophie esthétique du wabi-sabi."
+      },
+      "nl": {
+        "hook": "Een Japanse theeceremonie kan uren duren voor één enkel kopje.",
+        "fact": "De traditionele Japanse theeceremonie, of chanoyu, is een geritualiseerde bereiding en het serveren van matcha, geworteld in zenboeddhistische principes, met de nadruk op aandacht en eenvoud, belichaamd in de esthetische filosofie van wabi-sabi."
+      },
+      "es": {
+        "hook": "Una ceremonia japonesa del té puede tardar horas en preparar una sola taza.",
+        "fact": "La ceremonia tradicional japonesa del té, o chanoyu, es una preparación y un servicio ritualizados del matcha arraigados en principios del budismo zen, que hacen hincapié en la atención plena y la sencillez encarnadas en la filosofía estética del wabi-sabi."
+      }
+    }
   },
   {
     "id": "culture-087",
@@ -1294,7 +2116,21 @@
     "tags": [
       "etiquette",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Au Japon, ouvrir un cadeau devant la personne qui l'offre peut paraître impoli.",
+        "fact": "L'étiquette traditionnelle japonaise en matière de cadeaux veut souvent que l'on mette le cadeau de côté pour l'ouvrir plus tard, en privé, plutôt que de le déballer immédiatement devant la personne qui l'a offert."
+      },
+      "nl": {
+        "hook": "In Japan kan het openen van een cadeau in het bijzijn van de gever onbeleefd overkomen.",
+        "fact": "De traditionele Japanse etiquette rond het geven van cadeaus schrijft vaak voor om een cadeau opzij te leggen en het later in privé te openen, in plaats van het meteen uit te pakken in het bijzijn van de gever."
+      },
+      "es": {
+        "hook": "En Japón, abrir un regalo delante de quien lo da puede parecer de mala educación.",
+        "fact": "La etiqueta tradicional japonesa para dar regalos suele indicar que hay que apartar el regalo para abrirlo más tarde en privado, en lugar de desenvolverlo de inmediato delante de la persona que lo entrega."
+      }
+    }
   },
   {
     "id": "culture-088",
@@ -1304,7 +2140,21 @@
     "tags": [
       "etiquette",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'échange d'une carte de visite au Japon suit un rituel tacite.",
+        "fact": "Dans l'étiquette professionnelle japonaise, une carte de visite, ou meishi, est traditionnellement présentée et reçue à deux mains, examinée avec respect, et jamais rangée immédiatement dans une poche ni griffonnée devant la personne qui l'a offerte."
+      },
+      "nl": {
+        "hook": "Het uitwisselen van een visitekaartje in Japan volgt een ongeschreven ritueel.",
+        "fact": "In de Japanse zakelijke etiquette wordt een visitekaartje, of meishi, traditioneel met twee handen aangeboden en ontvangen, respectvol bekeken, en nooit meteen weggestoken of beschreven in het bijzijn van de gever."
+      },
+      "es": {
+        "hook": "Intercambiar una tarjeta de visita en Japón sigue un ritual tácito.",
+        "fact": "En la etiqueta empresarial japonesa, una tarjeta de visita, o meishi, se presenta y se recibe tradicionalmente con ambas manos, se examina con respeto y nunca se guarda de inmediato en el bolsillo ni se escribe sobre ella delante de quien la entrega."
+      }
+    }
   },
   {
     "id": "culture-089",
@@ -1314,7 +2164,21 @@
     "tags": [
       "etiquette",
       "food"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Planter ses baguettes à la verticale dans un bol de riz peut profondément troubler certaines personnes.",
+        "fact": "En Chine, au Japon et dans d'autres cultures d'Asie de l'Est, planter ses baguettes à la verticale dans un bol de riz est traditionnellement évité, car cela évoque visuellement les bâtons d'encens brûlés en offrande aux défunts lors des funérailles."
+      },
+      "nl": {
+        "hook": "Je eetstokjes rechtop in een kom rijst steken kan voor sommigen erg verontrustend zijn.",
+        "fact": "In China, Japan en andere Oost-Aziatische culturen wordt het rechtop zetten van eetstokjes in een kom rijst traditioneel vermeden, omdat het visueel lijkt op wierookstokjes die tijdens begrafenissen als offer voor de doden worden verbrand."
+      },
+      "es": {
+        "hook": "Clavar los palillos en posición vertical en un bol de arroz puede resultar muy inquietante para algunos.",
+        "fact": "En China, Japón y otras culturas del este de Asia, se evita tradicionalmente clavar los palillos en vertical en un bol de arroz porque recuerda visualmente a las varillas de incienso que se queman como ofrenda a los muertos en los funerales."
+      }
+    }
   },
   {
     "id": "culture-090",
@@ -1324,7 +2188,21 @@
     "tags": [
       "festivals",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque printemps, le Japon expose des poupées somptueuses pour souhaiter du bien aux filles.",
+        "fact": "Hina Matsuri, ou la Fête des filles, est une fête japonaise célébrée chaque 3 mars, où les familles exposent des présentoirs à étages de poupées ornementales représentant la cour impériale, traditionnellement pour prier pour la santé et le bonheur de leurs filles."
+      },
+      "nl": {
+        "hook": "Elk voorjaar zet Japan sierlijke poppen neer om meisjes geluk toe te wensen.",
+        "fact": "Hina Matsuri, of Meisjesdag, is een Japans feest dat elk jaar op 3 maart wordt gehouden, waarbij families getrapte podia met sierpoppen tonen die het keizerlijk hof voorstellen, traditioneel om te bidden voor de gezondheid en het geluk van dochters."
+      },
+      "es": {
+        "hook": "Cada primavera, Japón expone muñecas ornamentadas para desear bienestar a las niñas.",
+        "fact": "Hina Matsuri, o el Día de las Niñas, es un festival japonés que se celebra cada 3 de marzo, en el que las familias exhiben plataformas escalonadas con muñecas ornamentales que representan a la corte imperial, tradicionalmente para rezar por la salud y la felicidad de sus hijas."
+      }
+    }
   },
   {
     "id": "culture-091",
@@ -1334,7 +2212,21 @@
     "tags": [
       "customs",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Atteindre l'âge adulte au Japon s'accompagne d'une célébration à l'échelle de toute la ville.",
+        "fact": "Le Jour de la majorité, ou Seijin no Hi, est une fête japonaise honorant les jeunes qui ont atteint l'âge adulte, marquée par des cérémonies où beaucoup portent le kimono furisode traditionnel ou un costume habillé."
+      },
+      "nl": {
+        "hook": "Volwassen worden in Japan gaat gepaard met een stadsbrede viering.",
+        "fact": "Volwassenendag, of Seijin no Hi, is een Japanse feestdag ter ere van jongeren die volwassen zijn geworden, gemarkeerd door ceremonies waarbij velen de traditionele furisode-kimono of formele pakken dragen."
+      },
+      "es": {
+        "hook": "Llegar a la mayoría de edad en Japón viene con una celebración que involucra a toda la ciudad.",
+        "fact": "El Día de la Mayoría de Edad, o Seijin no Hi, es una festividad japonesa que honra a los jóvenes que han alcanzado la mayoría de edad, marcada por ceremonias en las que muchos visten el tradicional kimono furisode o trajes formales."
+      }
+    }
   },
   {
     "id": "culture-092",
@@ -1344,7 +2236,21 @@
     "tags": [
       "festivals",
       "korea"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus grande fête de Corée est essentiellement une action de grâce des moissons pour les ancêtres.",
+        "fact": "Chuseok est une grande fête coréenne des moissons pendant laquelle les familles se réunissent, préparent des mets traditionnels comme les gâteaux de riz songpyeon, et accomplissent des rites commémoratifs aux ancêtres appelés charye."
+      },
+      "nl": {
+        "hook": "Korea's grootste feestdag is in wezen een oogstdankfeest voor voorouders.",
+        "fact": "Chuseok is een groot Koreaans oogstfeest waarbij families samenkomen, traditionele gerechten zoals songpyeon-rijstkoekjes bereiden, en voorouderlijke herdenkingsrituelen genaamd charye uitvoeren."
+      },
+      "es": {
+        "hook": "La fiesta más importante de Corea es, en esencia, una acción de gracias por la cosecha para los antepasados.",
+        "fact": "Chuseok es una gran festividad coreana de la cosecha durante la cual las familias se reúnen, preparan platos tradicionales como los pasteles de arroz songpyeon y realizan ritos conmemorativos a los antepasados llamados charye."
+      }
+    }
   },
   {
     "id": "culture-093",
@@ -1354,7 +2260,21 @@
     "tags": [
       "festivals",
       "thailand"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La fête du Nouvel An en Thaïlande transforme des rues entières en batailles d'eau.",
+        "fact": "Songkran, le Nouvel An thaïlandais traditionnel, se célèbre par des batailles d'eau symbolisant l'élimination de la malchance de l'année écoulée, aux côtés de traditions plus solennelles comme verser de l'eau sur des statues de Bouddha et sur les mains des aînés."
+      },
+      "nl": {
+        "hook": "Thailands nieuwjaarsfeest verandert hele straten in waterfestijnen.",
+        "fact": "Songkran, het traditionele Thaise nieuwjaar, wordt gevierd met waterfeesten die symbool staan voor het wegspoelen van het pech van het voorgaande jaar, naast plechtiger tradities zoals het gieten van water over Boeddhabeelden en de handen van ouderen."
+      },
+      "es": {
+        "hook": "El Año Nuevo en Tailandia convierte calles enteras en batallas de agua.",
+        "fact": "Songkran, el tradicional Año Nuevo tailandés, se celebra con festividades de lanzamiento de agua que simbolizan lavar la mala suerte del año anterior, junto con tradiciones más solemnes como verter agua sobre estatuas de Buda y sobre las manos de los mayores."
+      }
+    }
   },
   {
     "id": "culture-094",
@@ -1364,7 +2284,21 @@
     "tags": [
       "festivals",
       "thailand"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque novembre, des milliers de corbeilles flottantes illuminent les rivières de Thaïlande.",
+        "fact": "Loy Krathong est une fête thaïlandaise où l'on fait flotter sur les rivières de petites corbeilles décorées, souvent faites de feuilles de bananier et contenant bougies et fleurs, pour rendre hommage à l'eau et se libérer du malheur."
+      },
+      "nl": {
+        "hook": "Elke november verlichten duizenden drijvende mandjes de rivieren van Thailand.",
+        "fact": "Loy Krathong is een Thais festival waarbij mensen kleine versierde mandjes, vaak gemaakt van bananenbladeren en met kaarsen en bloemen erin, op rivieren laten drijven om het water te eren en ongeluk los te laten."
+      },
+      "es": {
+        "hook": "Cada noviembre, miles de cestas flotantes iluminan los ríos de Tailandia.",
+        "fact": "Loy Krathong es un festival tailandés en el que la gente hace flotar pequeñas cestas decoradas, a menudo hechas de hojas de plátano y con velas y flores dentro, sobre los ríos para rendir homenaje al agua y desprenderse de la mala suerte."
+      }
+    }
   },
   {
     "id": "culture-095",
@@ -1374,7 +2308,21 @@
     "tags": [
       "etiquette",
       "thailand"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Pointer les pieds vers quelqu'un est un impair sérieux en Thaïlande.",
+        "fact": "Dans la culture thaïlandaise, les pieds sont traditionnellement considérés comme la partie du corps la plus basse et la moins respectueuse, donc les pointer vers une personne, une image de Bouddha, ou les utiliser pour toucher des objets est généralement perçu comme irrespectueux."
+      },
+      "nl": {
+        "hook": "Je voeten naar iemand richten is een serieuze misstap in Thailand.",
+        "fact": "In de Thaise cultuur worden voeten traditioneel gezien als het laagste en minst respectvolle lichaamsdeel, dus ze naar iemand richten, naar een Boeddhabeeld, of ermee voorwerpen aanraken, wordt over het algemeen als respectloos beschouwd."
+      },
+      "es": {
+        "hook": "Señalar a alguien con los pies es una falta grave en Tailandia.",
+        "fact": "En la cultura tailandesa, los pies se consideran tradicionalmente la parte más baja y menos respetable del cuerpo, por lo que apuntarlos hacia una persona, una imagen de Buda o usarlos para tocar objetos suele considerarse una falta de respeto."
+      }
+    }
   },
   {
     "id": "culture-096",
@@ -1384,7 +2332,21 @@
     "tags": [
       "etiquette",
       "thailand"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Toucher la tête d'un inconnu est tabou dans de nombreuses cultures bouddhistes.",
+        "fact": "En Thaïlande et dans d'autres cultures à majorité bouddhiste d'Asie du Sud-Est, la tête est traditionnellement considérée comme la partie la plus sacrée du corps, donc toucher la tête de quelqu'un d'autre, même celle d'un enfant en signe d'affection, est généralement jugé inapproprié."
+      },
+      "nl": {
+        "hook": "Het hoofd van een vreemde aanraken is taboe in veel boeddhistische culturen.",
+        "fact": "In Thailand en andere overwegend boeddhistische culturen in Zuidoost-Azië wordt het hoofd traditioneel gezien als het meest heilige lichaamsdeel, dus het aanraken van iemands hoofd, zelfs dat van een kind uit vriendelijkheid, wordt over het algemeen als ongepast beschouwd."
+      },
+      "es": {
+        "hook": "Tocar la cabeza de un desconocido es tabú en muchas culturas budistas.",
+        "fact": "En Tailandia y otras culturas de mayoría budista del sudeste asiático, la cabeza se considera tradicionalmente la parte más sagrada del cuerpo, por lo que tocar la cabeza de otra persona, incluso la de un niño en un gesto amistoso, suele considerarse inapropiado."
+      }
+    }
   },
   {
     "id": "culture-097",
@@ -1394,7 +2356,21 @@
     "tags": [
       "buddhism",
       "festivals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les bouddhistes célèbrent trois événements majeurs de la vie du Bouddha en une seule fête.",
+        "fact": "Vesak, observé par les bouddhistes dans une grande partie de l'Asie, commémore la naissance, l'illumination et la mort du Bouddha, que l'on croit traditionnellement survenues le même jour du calendrier lunaire."
+      },
+      "nl": {
+        "hook": "Boeddhisten herdenken drie belangrijke levensgebeurtenissen op één enkele feestdag.",
+        "fact": "Vesak, gevierd door boeddhisten in een groot deel van Azië, herdenkt de geboorte, verlichting en dood van de Boeddha, die traditioneel geacht worden op dezelfde dag van de maankalender te hebben plaatsgevonden."
+      },
+      "es": {
+        "hook": "Los budistas conmemoran tres grandes eventos vitales en una sola festividad.",
+        "fact": "El Vesak, observado por los budistas en gran parte de Asia, conmemora el nacimiento, la iluminación y la muerte de Buda, que tradicionalmente se cree ocurrieron el mismo día del calendario lunar."
+      }
+    }
   },
   {
     "id": "culture-098",
@@ -1404,7 +2380,21 @@
     "tags": [
       "buddhism",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le bouddhisme trace un chemin précis en huit étapes pour mettre fin à la souffrance.",
+        "fact": "Le Noble Sentier Octuple du bouddhisme définit huit pratiques, dont la vue juste, la parole juste et l'attention juste, considérées comme la voie pour mettre fin à la souffrance et atteindre la libération."
+      },
+      "nl": {
+        "hook": "Het boeddhisme schetst een specifiek achtvoudig pad om lijden te beëindigen.",
+        "fact": "Het Edele Achtvoudige Pad in het boeddhisme omvat acht praktijken, waaronder juist inzicht, juiste spraak en juiste aandacht, beschouwd als de weg om lijden te beëindigen en bevrijding te bereiken."
+      },
+      "es": {
+        "hook": "El budismo traza un camino específico de ocho pasos para poner fin al sufrimiento.",
+        "fact": "El Noble Óctuple Sendero del budismo describe ocho prácticas, entre ellas la visión correcta, el habla correcta y la atención plena correcta, consideradas el camino para acabar con el sufrimiento y alcanzar la liberación."
+      }
+    }
   },
   {
     "id": "culture-099",
@@ -1414,7 +2404,21 @@
     "tags": [
       "buddhism",
       "customs"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les drapeaux de prière tibétains ne sont pas faits pour être lus, mais pour être agités par le vent.",
+        "fact": "Les drapeaux de prière du bouddhisme tibétain portent des mantras et des prières inscrits, et sont accrochés en plein air pour que le vent porte leurs bénédictions à travers le paysage environnant, plutôt que d'être lus par les gens."
+      },
+      "nl": {
+        "hook": "Tibetaanse gebedsvlaggen zijn niet bedoeld om te lezen — ze zijn bedoeld om te wapperen.",
+        "fact": "Tibetaans-boeddhistische gebedsvlaggen zijn beschreven met mantra's en gebeden, en worden buiten opgehangen zodat de wind hun zegeningen over het omliggende land kan verspreiden, in plaats van door mensen gelezen te worden."
+      },
+      "es": {
+        "hook": "Las banderas de oración tibetanas no están hechas para leerse, sino para que el viento las agite.",
+        "fact": "Las banderas de oración del budismo tibetano llevan inscritos mantras y oraciones, y se cuelgan al aire libre para que el viento lleve sus bendiciones por la tierra circundante, en lugar de ser leídas por las personas."
+      }
+    }
   },
   {
     "id": "culture-100",
@@ -1424,7 +2428,21 @@
     "tags": [
       "festivals",
       "mongolia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La fête nationale de la Mongolie s'articule autour de trois sports ancestraux.",
+        "fact": "Le Naadam, la fête la plus importante de Mongolie, met à l'honneur les « trois jeux virils » que sont la lutte, la course de chevaux et le tir à l'arc, dont les racines remontent aux compétences valorisées chez les guerriers nomades à l'époque de l'Empire mongol."
+      },
+      "nl": {
+        "hook": "Mongolië's nationale festival draait om drie eeuwenoude sporten.",
+        "fact": "Naadam, Mongolië's belangrijkste festival, toont de \"drie mannelijke spelen\" van worstelen, paardenrennen en boogschieten, met wortels die teruggaan op vaardigheden die gewaardeerd werden bij nomadische krijgers ten tijde van het Mongoolse Rijk."
+      },
+      "es": {
+        "hook": "El festival nacional de Mongolia gira en torno a tres deportes ancestrales.",
+        "fact": "El Naadam, el festival más importante de Mongolia, exhibe los \"tres juegos viriles\" de lucha, carreras de caballos y tiro con arco, con raíces que se remontan a las habilidades valoradas entre los guerreros nómadas de la época del Imperio mongol."
+      }
+    }
   },
   {
     "id": "culture-101",
@@ -1434,7 +2452,21 @@
     "tags": [
       "shinto",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Au Japon, un simple portail marque la frontière entre l'ordinaire et le sacré.",
+        "fact": "Dans le shintoïsme, la religion indigène du Japon, les portails torii marquent l'entrée d'espaces sacrés où résideraient les kami, ou esprits, séparant symboliquement le monde profane du monde sacré."
+      },
+      "nl": {
+        "hook": "Een eenvoudige poort markeert in Japan de grens tussen het alledaagse en het heilige.",
+        "fact": "In het shintoïsme, de inheemse religie van Japan, markeren torii-poorten de ingang van heilige plaatsen waar kami, of geesten, verondersteld worden te wonen, en scheiden ze symbolisch de alledaagse wereld van het heilige."
+      },
+      "es": {
+        "hook": "Una simple puerta marca en Japón la frontera entre lo ordinario y lo sagrado.",
+        "fact": "En el sintoísmo, la religión autóctona de Japón, las puertas torii marcan la entrada a espacios sagrados donde se cree que habitan los kami, o espíritus, separando simbólicamente el mundo cotidiano del sagrado."
+      }
+    }
   },
   {
     "id": "culture-102",
@@ -1444,7 +2476,21 @@
     "tags": [
       "hinduism",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'hindouisme compte un trio de dieux pour la création, la préservation et la destruction.",
+        "fact": "Le Trimurti, dans l'hindouisme, désigne trois aspects principaux du divin : Brahma le créateur, Vishnou le préservateur et Shiva le destructeur, bien que de nombreux hindous vénèrent d'autres divinités comme suprêmes selon leur tradition."
+      },
+      "nl": {
+        "hook": "Het hindoeïsme kent een drietal goden voor schepping, behoud en vernietiging.",
+        "fact": "De Trimurti in het hindoeïsme verwijst naar drie hoofdaspecten van het goddelijke: Brahma de schepper, Vishnu de behoeder en Shiva de vernietiger, hoewel veel hindoes afhankelijk van hun traditie andere goden als opperwezen vereren."
+      },
+      "es": {
+        "hook": "El hinduismo cuenta con un trío de dioses para la creación, la conservación y la destrucción.",
+        "fact": "El Trimurti en el hinduismo se refiere a tres aspectos principales de lo divino: Brahma el creador, Vishnu el conservador y Shiva el destructor, aunque muchos hindúes veneran a otras deidades como supremas según su tradición."
+      }
+    }
   },
   {
     "id": "culture-103",
@@ -1454,7 +2500,21 @@
     "tags": [
       "taoism",
       "philosophy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le yin et le yang ne sont pas tant des opposés qu'un tout unique et équilibré.",
+        "fact": "Dans la philosophie taoïste, le yin et le yang représentent des forces complémentaires, comme l'obscurité et la lumière ou le passif et l'actif, considérées comme interdépendantes et se transformant constamment l'une en l'autre plutôt que comme des opposés figés."
+      },
+      "nl": {
+        "hook": "Yin en yang zijn niet zozeer tegenpolen als wel één in balans zijnd geheel.",
+        "fact": "In de taoïstische filosofie vertegenwoordigen yin en yang complementaire krachten, zoals donker en licht of passief en actief, die als onderling afhankelijk worden beschouwd en voortdurend in elkaar overgaan, eerder dan vaste tegenpolen te zijn."
+      },
+      "es": {
+        "hook": "El yin y el yang no son tanto opuestos como un único todo equilibrado.",
+        "fact": "En la filosofía taoísta, el yin y el yang representan fuerzas complementarias, como la oscuridad y la luz o lo pasivo y lo activo, que se consideran interdependientes y en constante transformación mutua, más que opuestos fijos."
+      }
+    }
   },
   {
     "id": "culture-104",
@@ -1465,7 +2525,24 @@
     "tags": [
       "confucianism",
       "philosophy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une ancienne philosophie chinoise a bâti tout un système éthique autour du respect des parents.",
+        "fact": "La piété filiale, valeur centrale de la pensée confucéenne, veut que le respect et les soins portés à ses parents et à ses ancêtres soient un fondement de l'harmonie sociale et du caractère moral.",
+        "whyItMatters": "Ce principe continue de façonner les structures familiales multigénérationnelles et les attentes en matière de soins aux aînés dans une grande partie de l'Asie de l'Est aujourd'hui."
+      },
+      "nl": {
+        "hook": "Een oude Chinese filosofie bouwde een heel ethisch stelsel rond respect voor je ouders.",
+        "fact": "Kinderlijke vroomheid, een centrale waarde in het confucianistische denken, houdt in dat respect en zorg voor je ouders en voorouders de basis vormen van sociale harmonie en moreel karakter.",
+        "whyItMatters": "Dit principe vormt vandaag de dag nog altijd multigenerationele gezinsstructuren en verwachtingen rond ouderenzorg in grote delen van Oost-Azië."
+      },
+      "es": {
+        "hook": "Una antigua filosofía china construyó todo un sistema ético en torno al respeto a los padres.",
+        "fact": "La piedad filial, un valor central del pensamiento confuciano, sostiene que el respeto y el cuidado hacia los padres y antepasados son la base de la armonía social y el carácter moral.",
+        "whyItMatters": "Este principio sigue moldeando hoy las estructuras familiares multigeneracionales y las expectativas de cuidado de los mayores en gran parte del este de Asia."
+      }
+    }
   },
   {
     "id": "culture-105",
@@ -1475,7 +2552,21 @@
     "tags": [
       "mythology",
       "egypt"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Égyptiens de l'Antiquité croyaient que le cœur était pesé après la mort.",
+        "fact": "Dans la mythologie égyptienne antique, le dieu Anubis était censé peser le cœur d'une personne face à la plume de Maât, symbole de vérité et de justice, dans l'au-delà. Un cœur plus lourd que la plume signifiait que l'âme se voyait refuser la vie éternelle."
+      },
+      "nl": {
+        "hook": "Oude Egyptenaren geloofden dat je hart na de dood werd gewogen.",
+        "fact": "In de oud-Egyptische mythologie zou de god Anubis in het hiernamaals iemands hart wegen tegen de veer van Ma'at, die waarheid en gerechtigheid vertegenwoordigde. Was het hart zwaarder dan de veer, dan werd de ziel het eeuwige leven ontzegd."
+      },
+      "es": {
+        "hook": "Los antiguos egipcios creían que tu corazón era pesado después de la muerte.",
+        "fact": "En la mitología del antiguo Egipto, se creía que el dios Anubis pesaba el corazón de una persona contra la pluma de Maat, que representaba la verdad y la justicia, en el más allá. Un corazón más pesado que la pluma significaba que se negaba al alma la vida eterna."
+      }
+    }
   },
   {
     "id": "culture-106",
@@ -1486,7 +2577,24 @@
     "tags": [
       "bahai",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une religion a été fondée sur l'idée que toutes les grandes croyances partagent la même source.",
+        "fact": "La foi bahá'íe, fondée en Perse au XIXe siècle par Bahá'u'lláh, enseigne l'unité essentielle de toutes les grandes religions du monde et de l'humanité, considérant des figures comme Moïse, Jésus, Mahomet et Bouddha comme des messagers successifs du même Dieu.",
+        "whyItMatters": "Les bahá'ís ont subi de graves persécutions en Iran, pays où la foi est née, car elle n'y est pas reconnue comme religion protégée par la constitution du pays."
+      },
+      "nl": {
+        "hook": "Eén religie werd gesticht op het idee dat alle grote geloven dezelfde bron delen.",
+        "fact": "Het bahá'í-geloof, gesticht in het 19e-eeuwse Perzië door Bahá'u'lláh, leert de fundamentele eenheid van alle grote wereldreligies en van de mensheid, en beschouwt figuren als Mozes, Jezus, Mohammed en Boeddha als opeenvolgende boodschappers van dezelfde God.",
+        "whyItMatters": "Bahá'ís hebben te maken gehad met ernstige vervolging in Iran, waar het geloof is ontstaan, omdat het volgens de grondwet van het land niet erkend wordt als beschermde religie."
+      },
+      "es": {
+        "hook": "Una religión se fundó sobre la idea de que todas las grandes creencias comparten el mismo origen.",
+        "fact": "La fe bahá'í, fundada en la Persia del siglo XIX por Baha'u'llah, enseña la unidad esencial de todas las grandes religiones del mundo y de la humanidad, y considera a figuras como Moisés, Jesús, Mahoma y Buda como mensajeros sucesivos del mismo Dios.",
+        "whyItMatters": "Los bahá'ís han sufrido una persecución significativa en Irán, donde se originó la fe, porque no está reconocida como religión protegida por la constitución del país."
+      }
+    }
   },
   {
     "id": "culture-107",
@@ -1496,7 +2604,21 @@
     "tags": [
       "religion",
       "jamaica"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un mouvement religieux jamaïcain vénère un empereur éthiopien du XXe siècle comme figure spirituelle.",
+        "fact": "Le rastafarisme, apparu en Jamaïque dans les années 1930, considère l'empereur Hailé Sélassié Ier d'Éthiopie comme une figure spirituelle majeure, s'appuyant sur les écritures de l'Ancien Testament et l'identité africaine comme éléments centraux de son système de croyances."
+      },
+      "nl": {
+        "hook": "Een religieuze beweging op Jamaica ziet een 20e-eeuwse Ethiopische keizer als spirituele figuur.",
+        "fact": "Het rastafari-geloof, ontstaan in Jamaica in de jaren 1930, beschouwt keizer Haile Selassie I van Ethiopië als een belangrijke spirituele figuur, en put uit het Oude Testament en Afrikaanse identiteit als kernelementen van zijn geloofssysteem."
+      },
+      "es": {
+        "hook": "Un movimiento religioso de Jamaica considera a un emperador etíope del siglo XX una figura espiritual.",
+        "fact": "El rastafari, surgido en Jamaica en la década de 1930, considera al emperador Haile Selassie I de Etiopía una figura espiritual importante, y toma las escrituras del Antiguo Testamento y la identidad africana como elementos centrales de su sistema de creencias."
+      }
+    }
   },
   {
     "id": "culture-108",
@@ -1506,7 +2628,21 @@
     "tags": [
       "religion",
       "indigenous"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "De nombreux systèmes de croyances dans le monde estiment que tout possède un esprit.",
+        "fact": "L'animisme, présent dans de nombreux systèmes de croyances autochtones à travers le monde, soutient que non seulement les humains et les animaux, mais aussi les plantes, les rivières, les montagnes et les objets peuvent posséder un esprit ou une force vitale."
+      },
+      "nl": {
+        "hook": "Veel geloofssystemen ter wereld gaan ervan uit dat alles een geest heeft.",
+        "fact": "Animisme, aanwezig in veel inheemse geloofssystemen wereldwijd, houdt in dat niet alleen mensen en dieren, maar ook planten, rivieren, bergen en voorwerpen een geest of levenskracht kunnen bezitten."
+      },
+      "es": {
+        "hook": "Muchos sistemas de creencias del mundo sostienen que todo tiene espíritu.",
+        "fact": "El animismo, presente en numerosos sistemas de creencias indígenas de todo el mundo, sostiene que no solo los humanos y los animales, sino también las plantas, los ríos, las montañas y los objetos pueden poseer un espíritu o fuerza vital."
+      }
+    }
   },
   {
     "id": "culture-109",
@@ -1516,7 +2652,21 @@
     "tags": [
       "festivals",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque février, le Japon lance des haricots sur des « démons » pour accueillir le printemps.",
+        "fact": "Setsubun marque la veille du début du printemps dans le calendrier traditionnel japonais, célébrée en lançant des graines de soja grillées tout en criant « Oni wa soto, fuku wa uchi » — « Dehors les démons, entre la chance » — pour chasser les mauvais esprits."
+      },
+      "nl": {
+        "hook": "Elk jaar in februari gooit Japan bonen naar \"demonen\" om de lente te verwelkomen.",
+        "fact": "Setsubun markeert de dag voor het begin van de lente in de traditionele Japanse kalender, gevierd door geroosterde sojabonen te gooien terwijl men \"Oni wa soto, fuku wa uchi\" roept — \"Demonen eruit, geluk erin\" — om kwade geesten te verjagen."
+      },
+      "es": {
+        "hook": "Cada febrero, Japón lanza judías a los \"demonios\" para dar la bienvenida a la primavera.",
+        "fact": "Setsubun marca el día anterior al inicio de la primavera en el calendario tradicional japonés, y se celebra lanzando semillas de soja tostadas mientras se grita \"Oni wa soto, fuku wa uchi\" — \"Fuera los demonios, dentro la suerte\" — para ahuyentar a los malos espíritus."
+      }
+    }
   },
   {
     "id": "culture-110",
@@ -1526,7 +2676,21 @@
     "tags": [
       "etiquette",
       "gestures"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un regard soutenu n'est pas toujours perçu comme un signe d'assurance.",
+        "fact": "Alors que le contact visuel direct est souvent valorisé comme signe d'honnêteté ou de confiance dans une grande partie de l'Occident, dans certaines régions d'Asie de l'Est, chez certains peuples autochtones et au Moyen-Orient, un regard prolongé, surtout envers des aînés ou des figures d'autorité, peut être perçu comme irrespectueux."
+      },
+      "nl": {
+        "hook": "Langdurig oogcontact wordt niet altijd als zelfvertrouwen opgevat.",
+        "fact": "Terwijl direct oogcontact in grote delen van het Westen vaak wordt gewaardeerd als teken van eerlijkheid of zelfvertrouwen, kan langdurig oogcontact in delen van Oost-Azië, inheemse culturen en het Midden-Oosten, vooral met ouderen of gezagsdragers, als respectloos worden ervaren."
+      },
+      "es": {
+        "hook": "Sostener la mirada no siempre se interpreta como confianza.",
+        "fact": "Aunque el contacto visual directo suele valorarse en gran parte de Occidente como señal de honestidad o confianza, en partes del este de Asia, culturas indígenas y Oriente Medio, un contacto visual prolongado, especialmente con mayores o figuras de autoridad, puede considerarse una falta de respeto."
+      }
+    }
   },
   {
     "id": "culture-111",
@@ -1536,7 +2700,21 @@
     "tags": [
       "etiquette",
       "food"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Refuser une seconde portion peut être insultant dans certaines cultures.",
+        "fact": "Dans de nombreuses cultures du Moyen-Orient, d'Asie du Sud et de certaines régions d'Afrique, refuser la nourriture offerte par un hôte est traditionnellement considéré comme impoli, et les invités sont souvent censés accepter au moins une petite portion, même sans faim."
+      },
+      "nl": {
+        "hook": "Een tweede portie afslaan kan in sommige culturen als een belediging gelden.",
+        "fact": "In veel culturen in het Midden-Oosten, Zuid-Azië en delen van Afrika wordt het weigeren van eten dat door een gastheer wordt aangeboden traditioneel als onbeleefd beschouwd, en wordt van gasten vaak verwacht dat ze op zijn minst een kleine portie aannemen, zelfs zonder honger."
+      },
+      "es": {
+        "hook": "Rechazar una segunda ración puede ser un insulto en algunas culturas.",
+        "fact": "En muchas culturas de Oriente Medio, el sur de Asia y partes de África, rechazar la comida ofrecida por un anfitrión se considera tradicionalmente de mala educación, y a menudo se espera que los invitados acepten al menos una pequeña porción aunque no tengan hambre."
+      }
+    }
   },
   {
     "id": "culture-112",
@@ -1546,7 +2724,21 @@
     "tags": [
       "etiquette",
       "gestures"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Pointer quelqu'un du doigt est mal vu dans plus d'endroits qu'on ne le croit.",
+        "fact": "Dans de nombreuses cultures, notamment en Asie, en Amérique latine et au Moyen-Orient, pointer directement une personne avec un seul index est considéré comme grossier ; on préfère souvent un geste de la main ouverte ou un signe de tête."
+      },
+      "nl": {
+        "hook": "Naar iemand wijzen met één vinger is op meer plekken onbeleefd dan je zou denken.",
+        "fact": "In veel culturen, waaronder delen van Azië, Latijns-Amerika en het Midden-Oosten, wordt het rechtstreeks aanwijzen van iemand met één wijsvinger als onbeleefd beschouwd; een gebaar met een open hand of een knikje wordt vaak verkozen."
+      },
+      "es": {
+        "hook": "Señalar a alguien con un solo dedo es de mala educación en más lugares de lo que crees.",
+        "fact": "En muchas culturas, incluidas partes de Asia, América Latina y Oriente Medio, señalar directamente a una persona con el dedo índice se considera de mala educación; suele preferirse gesticular con la mano abierta o con un gesto de cabeza."
+      }
+    }
   },
   {
     "id": "culture-113",
@@ -1556,7 +2748,21 @@
     "tags": [
       "etiquette",
       "customs"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Porter des chaussures à l'intérieur est perçu comme malpropre dans une grande partie du monde.",
+        "fact": "Au Japon, en Corée, dans de nombreux pays à majorité musulmane et ailleurs, retirer ses chaussures avant d'entrer dans un logement est une pratique courante, fondée sur l'idée de garder la saleté extérieure, et parfois l'impureté, hors des espaces de vie et des lieux sacrés."
+      },
+      "nl": {
+        "hook": "Schoenen binnenshuis dragen wordt in grote delen van de wereld als onrein beschouwd.",
+        "fact": "In Japan, Korea, veel islamitische landen en elders is het uittrekken van schoenen voordat men een woning betreedt gangbare praktijk, geworteld in het idee om vuil van buiten, en soms onreinheid, buiten leef- en heilige ruimtes te houden."
+      },
+      "es": {
+        "hook": "Llevar zapatos dentro de casa se considera algo sucio en gran parte del mundo.",
+        "fact": "En Japón, Corea, muchos países de mayoría musulmana y otros lugares, quitarse los zapatos antes de entrar en una vivienda es una práctica habitual, basada en la idea de mantener la suciedad exterior, y a veces la impureza, fuera de los espacios habitados y sagrados."
+      }
+    }
   },
   {
     "id": "culture-114",
@@ -1566,7 +2772,21 @@
     "tags": [
       "customs",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Offrir une horloge en Chine peut sonner comme un souhait de mort.",
+        "fact": "Dans la culture chinoise, offrir une horloge est traditionnellement évité, car l'expression pour « offrir une horloge » sonne exactement comme une expression signifiant « assister à des funérailles » ou « la fin de la vie »."
+      },
+      "nl": {
+        "hook": "Iemand een klok geven in China kan klinken als een doodswens.",
+        "fact": "In de Chinese cultuur wordt het schenken van een klok traditioneel vermeden, omdat de uitdrukking voor \"een klok geven\" identiek klinkt aan een uitdrukking die \"een begrafenis bijwonen\" of \"het einde van het leven\" betekent."
+      },
+      "es": {
+        "hook": "Regalar un reloj en China puede sonar como desearle la muerte a alguien.",
+        "fact": "En la cultura china, se evita tradicionalmente regalar un reloj porque la expresión para \"regalar un reloj\" suena idéntica a una frase que significa \"asistir a un funeral\" o \"el fin de la vida.\""
+      }
+    }
   },
   {
     "id": "culture-115",
@@ -1576,7 +2796,21 @@
     "tags": [
       "hinduism",
       "festivals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une fête hindoue s'achève en dissolvant cérémonieusement sa propre pièce maîtresse dans l'eau.",
+        "fact": "Ganesh Chaturthi honore Ganesha, la divinité à tête d'éléphant, et les célébrations culminent traditionnellement avec le visarjan, où des idoles d'argile du dieu sont immergées dans les rivières ou la mer, en symbole de son retour vers sa demeure céleste."
+      },
+      "nl": {
+        "hook": "Eén Hindoeïstisch feest eindigt met het ceremonieel oplossen van zijn eigen middelpunt in water.",
+        "fact": "Ganesh Chaturthi eert de olifantskoppige godheid Ganesha, en de vieringen culmineren traditioneel in visarjan, waarbij kleien beelden van de god in rivieren of de zee worden ondergedompeld als symbool van zijn terugkeer naar zijn hemelse verblijfplaats."
+      },
+      "es": {
+        "hook": "Un festival hindú termina disolviendo ceremonialmente su propia pieza central en el agua.",
+        "fact": "Ganesh Chaturthi rinde homenaje a Ganesha, la deidad con cabeza de elefante, y las celebraciones culminan tradicionalmente en el visarjan, en el que ídolos de arcilla del dios se sumergen en ríos o el mar como símbolo de su regreso a su morada celestial."
+      }
+    }
   },
   {
     "id": "culture-116",

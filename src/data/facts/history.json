@@ -2835,7 +2835,21 @@
     "tags": [
       "china",
       "exploration"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Au XVe siècle, la flotte au trésor de Zheng He écrasait les navires de Colomb.",
+        "fact": "L'amiral chinois Zheng He a commandé des flottes de plusieurs centaines de navires lors de sept expéditions entre 1405 et 1433, des décennies avant Colomb, avec des « navires au trésor » amiraux qui auraient mesuré plusieurs fois la longueur de la Santa Maria."
+      },
+      "nl": {
+        "hook": "De 15e-eeuwse schattenvloot van Zheng He deed de schepen van Columbus verbleken.",
+        "fact": "De Chinese admiraal Zheng He voerde tussen 1405 en 1433 het bevel over vloten van honderden schepen tijdens zeven expedities, decennia vóór Columbus, met vlaggenschepen of 'schattenschepen' die naar verluidt meerdere keren zo lang waren als de Santa Maria."
+      },
+      "es": {
+        "hook": "La flota del tesoro de Zheng He empequeñecía a los barcos de Colón.",
+        "fact": "El almirante chino Zheng He comandó flotas de cientos de barcos en siete expediciones entre 1405 y 1433, décadas antes que Colón, con «barcos del tesoro» insignia que, según las crónicas, medían varias veces la eslora de la Santa María."
+      }
+    }
   },
   {
     "id": "history-118",
@@ -2845,7 +2859,21 @@
     "tags": [
       "exploration",
       "myths"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Colomb est mort persuadé d'avoir atteint l'Asie.",
+        "fact": "Christophe Colomb a effectué quatre traversées de l'Atlantique entre 1492 et 1504 et n'a jamais admis avoir découvert un continent jusque-là inconnu, soutenant jusqu'à sa mort qu'il avait atteint les abords de l'Asie."
+      },
+      "nl": {
+        "hook": "Columbus stierf in de overtuiging dat hij Azië had bereikt.",
+        "fact": "Christoffel Columbus maakte tussen 1492 en 1504 vier reizen over de Atlantische Oceaan en heeft nooit aanvaard dat hij een tot dan toe onbekend continent had gevonden; tot zijn dood hield hij vol dat hij de rand van Azië had bereikt."
+      },
+      "es": {
+        "hook": "Colón murió convencido de haber llegado a Asia.",
+        "fact": "Cristóbal Colón realizó cuatro viajes a través del Atlántico entre 1492 y 1504 y nunca aceptó que hubiera hallado un continente hasta entonces desconocido: insistió hasta su muerte en que había llegado a los confines de Asia."
+      }
+    }
   },
   {
     "id": "history-119",
@@ -2854,7 +2882,21 @@
     "fact": "Ferdinand Magellan set out in 1519 to find a westward route to Asia but was killed in the Philippines in 1521; only one of his five ships and a fraction of the crew completed the first circumnavigation of the globe.",
     "tags": [
       "exploration"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première expédition à faire le tour du monde a perdu son capitaine en route.",
+        "fact": "Fernand de Magellan partit en 1519 à la recherche d'une route vers l'Asie par l'ouest, mais fut tué aux Philippines en 1521 ; un seul de ses cinq navires et une poignée de marins achevèrent le premier tour du monde."
+      },
+      "nl": {
+        "hook": "De eerste expeditie rond de wereld verloor onderweg haar eigen kapitein.",
+        "fact": "Ferdinand Magellaan vertrok in 1519 om een westelijke route naar Azië te vinden, maar werd in 1521 gedood op de Filipijnen; slechts één van zijn vijf schepen en een handvol bemanningsleden voltooiden de eerste reis rond de wereld."
+      },
+      "es": {
+        "hook": "La primera expedición que dio la vuelta al mundo perdió a su propio capitán por el camino.",
+        "fact": "Fernando de Magallanes zarpó en 1519 en busca de una ruta hacia Asia por el oeste, pero murió en Filipinas en 1521; solo uno de sus cinco barcos y una pequeña parte de la tripulación completaron la primera circunnavegación del planeta."
+      }
+    }
   },
   {
     "id": "history-120",
@@ -2864,7 +2906,21 @@
     "tags": [
       "exploration",
       "trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une route maritime a mis fin à des siècles de mainmise vénitienne sur les épices.",
+        "fact": "Lorsque Vasco de Gama atteignit l'Inde en contournant l'Afrique en 1498, le Portugal obtint une route maritime directe vers les épices d'Asie, court-circuitant les réseaux terrestres et méditerranéens qui avaient enrichi pendant des siècles les intermédiaires vénitiens et arabes."
+      },
+      "nl": {
+        "hook": "Eén zeeroute maakte een einde aan Venetië's eeuwenlange greep op de specerijenhandel.",
+        "fact": "Toen Vasco da Gama in 1498 India bereikte door om Afrika heen te varen, kreeg Portugal een directe zeeroute naar de Aziatische specerijen, waarmee het de land- en Middellandse Zeeroutes omzeilde die Venetiaanse en Arabische handelaren eeuwenlang rijk hadden gemaakt als tussenpersoon."
+      },
+      "es": {
+        "hook": "Una ruta marítima acabó con siglos de dominio veneciano sobre el comercio de especias.",
+        "fact": "Cuando Vasco de Gama llegó a la India bordeando África en 1498, Portugal consiguió una ruta marítima directa hacia las especias asiáticas y dejó fuera de juego a las redes terrestres y mediterráneas que durante siglos habían enriquecido a los intermediarios venecianos y árabes."
+      }
+    }
   },
   {
     "id": "history-121",
@@ -2875,7 +2931,24 @@
     "tags": [
       "latin-america",
       "trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une montagne d'argent en Bolivie a redessiné le commerce avec la Chine.",
+        "fact": "Les mines d'argent de Potosí, découvertes dans les années 1540, produisirent tant d'argent qu'une grande partie fut expédiée à travers le Pacifique via Manille jusqu'en Chine, où elle devint la colonne vertébrale du système monétaire de la dynastie Ming.",
+        "whyItMatters": "Le flux d'argent Potosí-Manille-Chine a de fait créé la première économie véritablement mondiale, reliant les Amériques, l'Europe et l'Asie autour d'une seule marchandise."
+      },
+      "nl": {
+        "hook": "Een berg zilver in Bolivia hertekende de handel met China.",
+        "fact": "De zilvermijnen van Potosí, ontdekt in de jaren 1540, leverden zoveel zilver op dat een groot deel ervan via Manilla over de Stille Oceaan naar China werd verscheept, waar het de ruggengraat van het muntstelsel van de Ming-dynastie werd.",
+        "whyItMatters": "De zilverstroom van Potosí via Manilla naar China creëerde in feite de eerste echt mondiale economie en verbond Amerika, Europa en Azië via één enkele grondstof."
+      },
+      "es": {
+        "hook": "Una montaña de plata en Bolivia transformó el comercio con China.",
+        "fact": "Las minas de plata de Potosí, descubiertas en la década de 1540, produjeron tanta plata que buena parte se embarcó a través del Pacífico vía Manila hasta China, donde se convirtió en la columna vertebral del sistema monetario de la dinastía Ming.",
+        "whyItMatters": "El flujo de plata Potosí-Manila-China creó de hecho la primera economía verdaderamente global, uniendo América, Europa y Asia en torno a una sola mercancía."
+      }
+    }
   },
   {
     "id": "history-122",
@@ -2885,7 +2958,21 @@
     "tags": [
       "food",
       "europe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La pomme de terre a longtemps été jugée dangereuse, voire satanique, en Europe.",
+        "fact": "Quand la pomme de terre arriva des Amériques au XVIe siècle, beaucoup d'Européens s'en méfièrent, l'associant à la lèpre ou à la sorcellerie parce qu'elle n'était pas mentionnée dans la Bible ; il fallut plus d'un siècle pour qu'elle devienne un aliment de base."
+      },
+      "nl": {
+        "hook": "De aardappel gold in delen van Europa ooit als gevaarlijk, zelfs duivels.",
+        "fact": "Toen de aardappel in de 16e eeuw vanuit Amerika arriveerde, waren veel Europeanen wantrouwig en brachten ze hem in verband met lepra of hekserij, omdat hij niet in de Bijbel voorkwam; het duurde meer dan een eeuw voordat hij een basisvoedsel werd."
+      },
+      "es": {
+        "hook": "La patata llegó a considerarse peligrosa, incluso satánica, en parte de Europa.",
+        "fact": "Cuando la patata llegó de América en el siglo XVI, muchos europeos desconfiaron de ella y la asociaron con la lepra o la brujería porque no aparecía en la Biblia; tardó más de un siglo en convertirse en un alimento básico."
+      }
+    }
   },
   {
     "id": "history-123",
@@ -2895,7 +2982,21 @@
     "tags": [
       "india",
       "colonialism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une entreprise a un jour aligné une armée plus grande que celle du Royaume-Uni.",
+        "fact": "À la fin du XVIIIe siècle, la Compagnie britannique des Indes orientales entretenait une armée privée d'environ 200 000 soldats, soit près du double de l'armée britannique, pour imposer son monopole commercial et son contrôle sur le territoire indien."
+      },
+      "nl": {
+        "hook": "Eén bedrijf had ooit een groter leger dan Groot-Brittannië zelf.",
+        "fact": "Tegen het einde van de 18e eeuw hield de Britse Oost-Indische Compagnie een privéleger van zo'n 200.000 soldaten in stand, ongeveer twee keer zo groot als het Britse leger, om haar handelsmonopolie en haar greep op Indiaas grondgebied af te dwingen."
+      },
+      "es": {
+        "hook": "Una sola empresa llegó a tener un ejército mayor que el del propio Reino Unido.",
+        "fact": "A finales del siglo XVIII, la Compañía Británica de las Indias Orientales mantenía un ejército privado de unos 200.000 soldados, aproximadamente el doble que el ejército británico, para imponer su monopolio comercial y su control sobre territorio indio."
+      }
+    }
   },
   {
     "id": "history-124",
@@ -2905,7 +3006,21 @@
     "tags": [
       "trade",
       "netherlands"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Compagnie néerlandaise des Indes orientales fut sans doute la première multinationale moderne.",
+        "fact": "Fondée en 1602, la VOC fut la première société à émettre des actions négociables auprès du public sur une bourse officielle ; à son apogée, elle disposait de sa propre armée, de sa propre marine, du droit de faire la guerre et de battre monnaie."
+      },
+      "nl": {
+        "hook": "De VOC was wellicht het eerste moderne bedrijf ter wereld.",
+        "fact": "De in 1602 opgerichte VOC was het eerste bedrijf dat verhandelbare aandelen aan het publiek uitgaf op een formele beurs, en op haar hoogtepunt beschikte ze over een eigen leger, een eigen vloot en de bevoegdheid om oorlog te voeren en munten te slaan."
+      },
+      "es": {
+        "hook": "La Compañía Neerlandesa de las Indias Orientales fue, posiblemente, la primera empresa moderna.",
+        "fact": "Fundada en 1602, la VOC fue la primera compañía en emitir acciones negociables al público en una bolsa formal y, en su apogeo, contaba con ejército y armada propios, además del poder de declarar la guerra y acuñar moneda."
+      }
+    }
   },
   {
     "id": "history-125",
@@ -2916,7 +3031,24 @@
     "tags": [
       "haiti",
       "revolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La seule grande révolte d'esclaves victorieuse de l'histoire a donné naissance à une nation.",
+        "fact": "Les esclaves de la colonie française de Saint-Domingue se soulevèrent en 1791, battirent l'armée de Napoléon et proclamèrent l'indépendance en 1804 sous le nom de Haïti, devenant la première nation fondée par une révolte d'esclaves victorieuse.",
+        "whyItMatters": "La révolution haïtienne terrifia les puissances esclavagistes du monde entier et est souvent citée comme l'un des facteurs qui poussèrent Napoléon à vendre la Louisiane aux États-Unis."
+      },
+      "nl": {
+        "hook": "De enige geslaagde grootschalige slavenopstand uit de geschiedenis bracht een land voort.",
+        "fact": "Tot slaaf gemaakte mensen in de Franse kolonie Saint-Domingue kwamen in 1791 in opstand, versloegen het leger van Napoleon en riepen in 1804 de onafhankelijkheid uit als Haïti, daarmee het eerste land dat uit een geslaagde slavenopstand ontstond.",
+        "whyItMatters": "De Haïtiaanse revolutie joeg slavenhoudende mogendheden wereldwijd schrik aan en wordt vaak genoemd als een van de redenen waarom Napoleon het Louisiana-gebied aan de Verenigde Staten verkocht."
+      },
+      "es": {
+        "hook": "La única gran revuelta de esclavos triunfante de la historia fundó un país.",
+        "fact": "Las personas esclavizadas en la colonia francesa de Saint-Domingue se sublevaron en 1791, derrotaron al ejército de Napoleón y declararon la independencia en 1804 como Haití, convirtiéndose en la primera nación fundada por una rebelión de esclavos victoriosa.",
+        "whyItMatters": "La revolución haitiana aterrorizó a las potencias esclavistas de todo el mundo y suele señalarse como uno de los factores que llevaron a Napoleón a vender el territorio de Luisiana a Estados Unidos."
+      }
+    }
   },
   {
     "id": "history-126",
@@ -2926,7 +3058,21 @@
     "tags": [
       "africa",
       "colonialism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un roi belge a géré une colonie entière comme sa propriété privée.",
+        "fact": "Le roi Léopold II de Belgique posséda personnellement l'État indépendant du Congo de 1885 à 1908, contraignant les travailleurs congolais à récolter le caoutchouc sous peine de mutilation ; le bilan humain est estimé à plusieurs millions de morts."
+      },
+      "nl": {
+        "hook": "Een Belgische koning bestuurde een hele kolonie als zijn persoonlijke bezit.",
+        "fact": "Koning Leopold II van België bezat van 1885 tot 1908 persoonlijk Congo-Vrijstaat en dwong Congolese arbeiders onder dreiging van verminking rubber te oogsten; het aantal dodelijke slachtoffers wordt geschat op miljoenen."
+      },
+      "es": {
+        "hook": "Un rey belga gobernó toda una colonia como propiedad personal.",
+        "fact": "El rey Leopoldo II de Bélgica fue dueño personal del Estado Libre del Congo entre 1885 y 1908 y obligó a los trabajadores congoleños a recolectar caucho bajo amenaza de mutilación; se calcula que las muertes se cuentan por millones."
+      }
+    }
   },
   {
     "id": "history-127",
@@ -2936,7 +3082,21 @@
     "tags": [
       "china",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Grande-Bretagne a mené deux guerres pour continuer à vendre de l'opium à la Chine.",
+        "fact": "Lorsque la Chine des Qing tenta d'interdire le commerce d'opium que les marchands britanniques avaient bâti via l'Inde, la Grande-Bretagne entra en guerre à deux reprises, en 1839-1842 puis en 1856-1860, forçant la Chine à ouvrir ses ports et à céder Hong Kong."
+      },
+      "nl": {
+        "hook": "Groot-Brittannië voerde twee oorlogen om opium te kunnen blijven verkopen aan China.",
+        "fact": "Toen het Chinese Qing-rijk de opiumhandel wilde verbieden die Britse handelaren via India hadden opgebouwd, trok Groot-Brittannië tweemaal ten oorlog, in 1839-1842 en 1856-1860, en dwong het China zijn havens te openen en Hongkong af te staan."
+      },
+      "es": {
+        "hook": "Gran Bretaña libró dos guerras para poder seguir vendiendo opio a China.",
+        "fact": "Cuando la China de los Qing intentó prohibir el comercio de opio que los comerciantes británicos habían levantado a través de la India, Gran Bretaña fue a la guerra dos veces, en 1839-1842 y en 1856-1860, y obligó a China a abrir sus puertos y ceder Hong Kong."
+      }
+    }
   },
   {
     "id": "history-128",
@@ -2946,7 +3106,21 @@
     "tags": [
       "china",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La guerre civile la plus meurtrière de l'histoire n'est pas la guerre de Sécession.",
+        "fact": "La révolte des Taiping en Chine, de 1850 à 1864, menée par un homme convaincu d'être le frère cadet de Jésus-Christ, fit entre 20 et 30 millions de morts, ce qui en fait le conflit civil le plus sanglant de l'histoire connue."
+      },
+      "nl": {
+        "hook": "De dodelijkste burgeroorlog ooit was niet de Amerikaanse Burgeroorlog.",
+        "fact": "De Chinese Taiping-opstand van 1850 tot 1864, geleid door een man die geloofde dat hij de jongere broer van Jezus Christus was, kostte naar schatting 20 tot 30 miljoen mensen het leven en is daarmee het bloedigste burgerconflict uit de opgetekende geschiedenis."
+      },
+      "es": {
+        "hook": "La guerra civil más mortífera de la historia no fue la de Estados Unidos.",
+        "fact": "La rebelión Taiping en China, entre 1850 y 1864, liderada por un hombre que se creía hermano menor de Jesucristo, causó entre 20 y 30 millones de muertos, lo que la convierte en el conflicto civil más sangriento del que se tiene registro."
+      }
+    }
   },
   {
     "id": "history-129",
@@ -2956,7 +3130,21 @@
     "tags": [
       "india",
       "colonialism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une révolte de 1857 a mis fin au règne d'une entreprise sur l'Inde.",
+        "fact": "Après l'écrasement de la révolte indienne de 1857 contre le pouvoir de la Compagnie des Indes orientales, le gouvernement britannique dissolut le pouvoir politique de la compagnie et plaça l'Inde sous administration directe de la Couronne."
+      },
+      "nl": {
+        "hook": "Een opstand in 1857 maakte een einde aan het bewind van een bedrijf over India.",
+        "fact": "Nadat de Indiase Opstand van 1857 tegen het bestuur van de Oost-Indische Compagnie was neergeslagen, ontnam de Britse regering het bedrijf zijn politieke macht en plaatste ze India rechtstreeks onder de Kroon."
+      },
+      "es": {
+        "hook": "Una rebelión en 1857 puso fin al gobierno de una empresa sobre la India.",
+        "fact": "Tras sofocar la Rebelión India de 1857 contra el dominio de la Compañía de las Indias Orientales, el gobierno británico disolvió el poder político de la compañía y puso la India bajo control directo de la Corona."
+      }
+    }
   },
   {
     "id": "history-130",
@@ -2966,7 +3154,21 @@
     "tags": [
       "japan",
       "modernization"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Japon est passé de l'isolement féodal à la puissance industrielle en une génération.",
+        "fact": "La restauration Meiji de 1868 démantela le shogunat féodal japonais et lança une industrialisation rapide, une modernisation militaire et des institutions à l'occidentale, faisant du Japon une grande puissance en quelques décennies."
+      },
+      "nl": {
+        "hook": "Japan ging in één generatie van feodaal isolement naar industriële grootmacht.",
+        "fact": "De Meiji-restauratie van 1868 ontmantelde het feodale shogunaat en zette een snelle industrialisatie, militaire modernisering en westerse instellingen in gang, waardoor Japan binnen enkele decennia een grootmacht werd."
+      },
+      "es": {
+        "hook": "Japón pasó del aislamiento feudal a la potencia industrial en una sola generación.",
+        "fact": "La Restauración Meiji de 1868 desmanteló el shogunato feudal japonés e impulsó una industrialización acelerada, la modernización militar y unas instituciones de corte occidental, convirtiendo a Japón en una gran potencia en pocas décadas."
+      }
+    }
   },
   {
     "id": "history-131",
@@ -2977,7 +3179,24 @@
     "tags": [
       "africa",
       "colonialism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les puissances européennes se sont partagé l'Afrique sans un seul délégué africain.",
+        "fact": "Lors de la conférence de Berlin de 1884-1885, les dirigeants européens découpèrent l'Afrique en territoires coloniaux à coups de cartes et de négociations auxquelles pas un seul représentant africain ne participa.",
+        "whyItMatters": "Beaucoup de frontières africaines actuelles suivent encore les tracés arbitraires de cette conférence, qui coupent en deux des communautés ethniques et linguistiques."
+      },
+      "nl": {
+        "hook": "Europese mogendheden verdeelden Afrika op een conferentie zonder één Afrikaanse afgevaardigde.",
+        "fact": "Op de Conferentie van Berlijn in 1884-1885 verdeelden Europese leiders Afrika in koloniale gebieden aan de hand van kaarten en onderhandelingen waaraan geen enkele Afrikaanse vertegenwoordiger deelnam.",
+        "whyItMatters": "Veel huidige Afrikaanse landsgrenzen volgen nog steeds de willekeurige lijnen die op die conferentie werden getrokken, dwars door etnische en taalkundige gemeenschappen heen."
+      },
+      "es": {
+        "hook": "Las potencias europeas se repartieron África en una conferencia sin un solo delegado africano.",
+        "fact": "En la Conferencia de Berlín de 1884-1885, los dirigentes europeos dividieron África en territorios coloniales mediante mapas y negociaciones en las que no participó ni un solo representante africano.",
+        "whyItMatters": "Muchas fronteras africanas actuales siguen trazando las líneas arbitrarias dibujadas en aquella conferencia, que parten en dos a comunidades étnicas y lingüísticas."
+      }
+    }
   },
   {
     "id": "history-132",
@@ -2987,7 +3206,21 @@
     "tags": [
       "africa",
       "colonialism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En 1900, seuls deux pays africains restaient pleinement indépendants.",
+        "fact": "Après le partage de l'Afrique, l'Éthiopie et le Liberia furent les seuls États africains à conserver leur souveraineté, alors que la quasi-totalité du reste du continent était passée sous domination coloniale européenne."
+      },
+      "nl": {
+        "hook": "In 1900 waren nog maar twee Afrikaanse landen volledig onafhankelijk.",
+        "fact": "Na de wedloop om Afrika waren Ethiopië en Liberia de enige Afrikaanse staten die hun soevereiniteit behielden, terwijl vrijwel de rest van het continent onder Europees koloniaal bestuur was gekomen."
+      },
+      "es": {
+        "hook": "En 1900 solo dos países africanos seguían siendo plenamente independientes.",
+        "fact": "Tras el reparto de África, Etiopía y Liberia fueron los únicos Estados africanos que conservaron su soberanía, mientras que casi todo el resto del continente había caído bajo dominio colonial europeo."
+      }
+    }
   },
   {
     "id": "history-133",
@@ -2997,7 +3230,21 @@
     "tags": [
       "africa",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Éthiopie a infligé une défaite retentissante à une armée européenne.",
+        "fact": "À la bataille d'Adoua en 1896, les forces éthiopiennes de l'empereur Ménélik II écrasèrent une armée italienne d'invasion, assurant l'indépendance de l'Éthiopie et signant l'une des rares victoires militaires africaines sur une puissance coloniale."
+      },
+      "nl": {
+        "hook": "Ethiopië bracht een Europees leger een verpletterende nederlaag toe.",
+        "fact": "In de Slag bij Adwa in 1896 versloegen Ethiopische troepen onder keizer Menelik II een binnenvallend Italiaans leger overtuigend, waarmee Ethiopië zijn onafhankelijkheid veiligstelde en een zeldzame Afrikaanse militaire overwinning op een koloniale mogendheid boekte."
+      },
+      "es": {
+        "hook": "Etiopía infligió una derrota espectacular a un ejército europeo.",
+        "fact": "En la batalla de Adua, en 1896, las fuerzas etíopes del emperador Menelik II derrotaron de forma contundente a un ejército italiano invasor, asegurando la independencia de Etiopía en una de las escasas victorias militares africanas sobre una potencia colonial."
+      }
+    }
   },
   {
     "id": "history-134",
@@ -3007,7 +3254,21 @@
     "tags": [
       "africa",
       "colonialism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Allemagne a commis ce que beaucoup d'historiens appellent le premier génocide du XXe siècle.",
+        "fact": "Entre 1904 et 1908, les forces coloniales allemandes dans l'actuelle Namibie tuèrent des dizaines de milliers de Hereros et de Namas par des massacres, le travail forcé et des camps de concentration, après leur résistance au pouvoir colonial."
+      },
+      "nl": {
+        "hook": "Duitsland pleegde wat veel historici de eerste genocide van de 20e eeuw noemen.",
+        "fact": "Tussen 1904 en 1908 doodden Duitse koloniale troepen in het huidige Namibië tienduizenden Herero en Nama via bloedbaden, dwangarbeid en concentratiekampen, nadat die zich tegen het koloniale bewind hadden verzet."
+      },
+      "es": {
+        "hook": "Alemania cometió lo que muchos historiadores llaman el primer genocidio del siglo XX.",
+        "fact": "Entre 1904 y 1908, las fuerzas coloniales alemanas en la actual Namibia mataron a decenas de miles de herero y nama mediante masacres, trabajos forzados y campos de concentración, después de que estos se resistieran al dominio colonial."
+      }
+    }
   },
   {
     "id": "history-135",
@@ -3017,7 +3278,21 @@
     "tags": [
       "africa",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Grande-Bretagne a utilisé des camps de concentration à grande échelle en Afrique du Sud.",
+        "fact": "Pendant la seconde guerre des Boers, de 1899 à 1902, les forces britanniques parquèrent civils boers et travailleurs africains noirs dans des camps où les mauvaises conditions et les maladies tuèrent des dizaines de milliers de personnes, l'un des premiers usages massifs du camp de concentration."
+      },
+      "nl": {
+        "hook": "Groot-Brittannië zette tijdens een oorlog in Zuid-Afrika concentratiekampen op grote schaal in.",
+        "fact": "Tijdens de Tweede Boerenoorlog van 1899-1902 dreven Britse troepen Boerenburgers en zwarte Afrikaanse arbeiders samen in kampen waar slechte omstandigheden en ziekte tienduizenden het leven kostten, een van de eerste grootschalige toepassingen van het concentratiekamp."
+      },
+      "es": {
+        "hook": "Gran Bretaña usó campos de concentración a gran escala en una guerra en Sudáfrica.",
+        "fact": "Durante la Segunda Guerra Bóer, de 1899 a 1902, las fuerzas británicas hacinaron a civiles bóers y a trabajadores africanos negros en campos donde las malas condiciones y las enfermedades mataron a decenas de miles de personas, uno de los primeros usos masivos del campo de concentración."
+      }
+    }
   },
   {
     "id": "history-136",
@@ -3027,7 +3302,21 @@
     "tags": [
       "america",
       "colonialism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des milliers d'Amérindiens sont morts lors d'une déportation ordonnée par Washington.",
+        "fact": "En vertu de l'Indian Removal Act de 1830, le gouvernement américain contraignit les Cherokees et d'autres nations autochtones à parcourir des centaines de kilomètres à pied jusqu'à un territoire assigné ; des milliers moururent de froid, de maladie et de faim sur ces routes aujourd'hui appelées la Piste des Larmes."
+      },
+      "nl": {
+        "hook": "Duizenden inheemse Amerikanen stierven tijdens een door de VS bevolen dwangmars.",
+        "fact": "Onder de Indian Removal Act van 1830 dwong de Amerikaanse regering de Cherokee en andere inheemse volken honderden kilometers te voet af te leggen naar een toegewezen gebied; duizenden bezweken onderweg aan kou, ziekte en honger op de routes die nu bekendstaan als het Pad der Tranen."
+      },
+      "es": {
+        "hook": "Miles de indígenas murieron en una marcha forzada ordenada por el gobierno de EE. UU.",
+        "fact": "En virtud de la Ley de Traslado Forzoso de Indios de 1830, el gobierno estadounidense obligó a los cheroquis y a otras naciones indígenas a caminar cientos de kilómetros hasta un territorio asignado; miles murieron de frío, enfermedad e inanición en las rutas hoy conocidas como el Sendero de Lágrimas."
+      }
+    }
   },
   {
     "id": "history-137",
@@ -3037,7 +3326,21 @@
     "tags": [
       "egypt",
       "trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un canal a raccourci de milliers de kilomètres le trajet Europe-Inde.",
+        "fact": "Le canal de Suez ouvrit en 1869, reliant la Méditerranée à la mer Rouge et permettant aux navires d'éviter le long contournement de l'Afrique, ce qui raccourcit spectaculairement le voyage entre l'Europe et l'Asie."
+      },
+      "nl": {
+        "hook": "Eén kanaal kortte de zeereis van Europa naar India met duizenden kilometers in.",
+        "fact": "Het Suezkanaal opende in 1869 en verbond de Middellandse Zee met de Rode Zee, zodat schepen de lange route om Afrika heen konden overslaan en de reis tussen Europa en Azië drastisch korter werd."
+      },
+      "es": {
+        "hook": "Un canal recortó miles de kilómetros al viaje por mar de Europa a la India.",
+        "fact": "El canal de Suez se inauguró en 1869 y conectó el Mediterráneo con el mar Rojo, permitiendo a los barcos evitar la larga vuelta a África y acortando drásticamente el trayecto entre Europa y Asia."
+      }
+    }
   },
   {
     "id": "history-138",
@@ -3047,7 +3350,21 @@
     "tags": [
       "latin-america",
       "revolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un seul homme a libéré six pays d'Amérique du Sud de la tutelle espagnole.",
+        "fact": "Simón Bolívar mena des campagnes d'indépendance à travers les actuels Venezuela, Colombie, Équateur, Pérou, Panama et Bolivie, ce dernier pays portant son nom, contribuant à mettre fin à la domination coloniale espagnole en Amérique du Sud au début du XIXe siècle."
+      },
+      "nl": {
+        "hook": "Eén man bevrijdde zes Zuid-Amerikaanse landen van het Spaanse bewind.",
+        "fact": "Simón Bolívar leidde onafhankelijkheidscampagnes in wat nu Venezuela, Colombia, Ecuador, Peru, Panama en Bolivia zijn, dat laatste naar hem vernoemd, en hielp zo een einde te maken aan het Spaanse koloniale bewind in Zuid-Amerika in het begin van de 19e eeuw."
+      },
+      "es": {
+        "hook": "Un solo hombre liberó a seis países sudamericanos del dominio español.",
+        "fact": "Simón Bolívar encabezó campañas independentistas en los actuales Venezuela, Colombia, Ecuador, Perú, Panamá y Bolivia, este último bautizado en su honor, y contribuyó a poner fin al dominio colonial español en Sudamérica a principios del siglo XIX."
+      }
+    }
   },
   {
     "id": "history-139",
@@ -3057,7 +3374,21 @@
     "tags": [
       "mexico",
       "revolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'indépendance du Mexique a commencé par le discours nocturne d'un prêtre.",
+        "fact": "En 1810, le prêtre catholique Miguel Hidalgo lança le « Grito de Dolores », un appel aux armes contre la domination espagnole qui déclencha les onze années de guerre d'indépendance du Mexique."
+      },
+      "nl": {
+        "hook": "De Mexicaanse onafhankelijkheidsstrijd begon met de nachtelijke toespraak van een priester.",
+        "fact": "In 1810 sprak de katholieke priester Miguel Hidalgo de 'Grito de Dolores' uit, een oproep tot gewapend verzet tegen het Spaanse bewind die de elf jaar durende Mexicaanse onafhankelijkheidsoorlog inluidde."
+      },
+      "es": {
+        "hook": "La independencia de México arrancó con el discurso nocturno de un cura.",
+        "fact": "En 1810, el sacerdote católico Miguel Hidalgo lanzó el «Grito de Dolores», una llamada a las armas contra el dominio español que dio inicio a los once años de guerra de independencia de México."
+      }
+    }
   },
   {
     "id": "history-140",
@@ -3067,7 +3398,21 @@
     "tags": [
       "brazil",
       "slavery"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Brésil fut le dernier pays des Amériques à abolir l'esclavage.",
+        "fact": "Le Brésil n'abolit officiellement l'esclavage qu'en 1888, des décennies après la plupart des autres pays de l'hémisphère occidental, avec la « Loi d'or » signée par la princesse Isabel."
+      },
+      "nl": {
+        "hook": "Brazilië was het laatste land in Amerika dat de slavernij afschafte.",
+        "fact": "Brazilië maakte pas in 1888 formeel een einde aan de slavernij, decennia later dan de meeste andere landen op het westelijk halfrond, met de 'Gouden Wet' die door prinses Isabel werd ondertekend."
+      },
+      "es": {
+        "hook": "Brasil fue el último país de América en abolir la esclavitud.",
+        "fact": "Brasil no puso fin formalmente a la esclavitud hasta 1888, décadas después que la mayoría de los países del hemisferio occidental, con la «Ley Áurea» firmada por la princesa Isabel."
+      }
+    }
   },
   {
     "id": "history-141",
@@ -3077,7 +3422,21 @@
     "tags": [
       "latin-america",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une guerre pour le nitrate a privé la Bolivie de tout accès à la mer.",
+        "fact": "La guerre du Pacifique, menée de 1879 à 1884 entre le Chili et l'alliance du Pérou et de la Bolivie, s'acheva par l'annexion chilienne d'un littoral riche en nitrates, coupant définitivement la Bolivie de la mer."
+      },
+      "nl": {
+        "hook": "Een oorlog om nitraat maakte Bolivia voorgoed een land zonder zee.",
+        "fact": "De Salpeteroorlog, van 1879 tot 1884 uitgevochten tussen Chili en de bondgenoten Peru en Bolivia, eindigde met de Chileense annexatie van waardevol nitraatrijk kustgebied, waardoor Bolivia definitief van de zee werd afgesneden."
+      },
+      "es": {
+        "hook": "Una guerra por el nitrato dejó a Bolivia sin salida al mar para siempre.",
+        "fact": "La Guerra del Pacífico, librada entre 1879 y 1884 por Chile contra la alianza de Perú y Bolivia, terminó con la anexión chilena de un valioso territorio costero rico en nitratos, que dejó a Bolivia sin acceso al mar de forma definitiva."
+      }
+    }
   },
   {
     "id": "history-142",
@@ -3088,7 +3447,24 @@
     "tags": [
       "japan",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première défaite moderne d'une puissance européenne en Asie est venue du Japon.",
+        "fact": "Lors de la guerre russo-japonaise de 1904-1905, le Japon battit la Russie sur terre comme sur mer, la première fois à l'époque moderne qu'une nation asiatique l'emportait nettement sur une grande puissance européenne.",
+        "whyItMatters": "Cette victoire brisa le mythe de l'invincibilité européenne et inspira les mouvements anticoloniaux et nationalistes à travers l'Asie et l'Afrique."
+      },
+      "nl": {
+        "hook": "De eerste moderne Aziatische overwinning op een Europese mogendheid kwam van Japan.",
+        "fact": "In de Russisch-Japanse Oorlog van 1904-1905 versloeg Japan Rusland zowel te land als ter zee, de eerste keer in de moderne tijd dat een Aziatisch land een grote Europese mogendheid overtuigend versloeg in een oorlog.",
+        "whyItMatters": "De overwinning maakte een einde aan het idee dat Europa onoverwinnelijk was en inspireerde antikoloniale en nationalistische bewegingen in heel Azië en Afrika."
+      },
+      "es": {
+        "hook": "La primera derrota moderna de una potencia europea en Asia vino de Japón.",
+        "fact": "En la guerra ruso-japonesa de 1904-1905, Japón derrotó a Rusia tanto por tierra como por mar, la primera vez en la era moderna que una nación asiática venció con claridad a una gran potencia europea en una guerra.",
+        "whyItMatters": "La victoria hizo añicos la idea de la invencibilidad europea e inspiró movimientos anticoloniales y nacionalistas por toda Asia y África."
+      }
+    }
   },
   {
     "id": "history-143",
@@ -3098,7 +3474,21 @@
     "tags": [
       "ottoman-empire",
       "military"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les soldats d'élite du sultan ottoman étaient au départ des enfants chrétiens réduits en esclavage.",
+        "fact": "Les janissaires, corps d'infanterie d'élite du sultan ottoman, étaient à l'origine recrutés par le système du devchirmé, qui enrôlait de force des garçons chrétiens des Balkans, les convertissait à l'islam et les formait au service militaire et administratif."
+      },
+      "nl": {
+        "hook": "De elitesoldaten van de Ottomaanse sultan begonnen als tot slaaf gemaakte christelijke jongens.",
+        "fact": "De janitsaren, het elite-infanteriekorps van de Ottomaanse sultan, werden oorspronkelijk geworven via het devsjirme-systeem, dat christelijke jongens uit de Balkan opeiste, hen tot de islam bekeerde en hen opleidde voor militaire en bestuurlijke dienst."
+      },
+      "es": {
+        "hook": "Los soldados de élite del sultán otomano empezaron siendo niños cristianos esclavizados.",
+        "fact": "Los jenízaros, el cuerpo de infantería de élite del sultán otomano, se reclutaban originalmente mediante el sistema del devshirme, que tomaba a niños cristianos de los Balcanes, los convertía al islam y los formaba para el servicio militar y administrativo."
+      }
+    }
   },
   {
     "id": "history-144",
@@ -3108,7 +3498,21 @@
     "tags": [
       "europe",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une guerre largement religieuse a décimé la population d'Europe centrale.",
+        "fact": "La guerre de Trente Ans, de 1618 à 1648, menée principalement à travers le Saint-Empire romain germanique, tua entre 20 et 40 % de la population allemande par les combats, la famine et la maladie."
+      },
+      "nl": {
+        "hook": "Een grotendeels religieuze oorlog kostte een enorm deel van Midden-Europa het leven.",
+        "fact": "De Dertigjarige Oorlog, van 1618 tot 1648 en vooral uitgevochten binnen het Heilige Roomse Rijk, doodde naar schatting 20 tot 40 procent van de Duitse bevolking door gevechten, hongersnood en ziekte."
+      },
+      "es": {
+        "hook": "Una guerra librada en buena medida por religión diezmó a Europa Central.",
+        "fact": "La Guerra de los Treinta Años, de 1618 a 1648 y combatida sobre todo en el Sacro Imperio Romano Germánico, mató a entre el 20 y el 40 por ciento de la población alemana por los combates, el hambre y las enfermedades."
+      }
+    }
   },
   {
     "id": "history-145",
@@ -3118,7 +3522,21 @@
     "tags": [
       "europe",
       "diplomacy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un traité de paix de 1648 a inventé l'État-nation moderne.",
+        "fact": "Les traités de Westphalie, qui mirent fin à la guerre de Trente Ans en 1648, posèrent le principe selon lequel les États détiennent une autorité souveraine à l'intérieur de leurs propres frontières, notion encore fondamentale en droit international aujourd'hui."
+      },
+      "nl": {
+        "hook": "Een vredesverdrag uit 1648 legde de basis voor de moderne natiestaat.",
+        "fact": "De Vrede van Westfalen, die in 1648 een einde maakte aan de Dertigjarige Oorlog, vestigde het principe dat staten soeverein gezag hebben binnen hun eigen grenzen, een idee dat vandaag nog altijd de basis vormt van het internationaal recht."
+      },
+      "es": {
+        "hook": "Un tratado de paz de 1648 dio origen a la idea moderna de Estado-nación.",
+        "fact": "La Paz de Westfalia, que puso fin a la Guerra de los Treinta Años en 1648, estableció el principio de que los Estados tienen autoridad soberana dentro de sus propias fronteras, un concepto que sigue siendo la base del derecho internacional."
+      }
+    }
   },
   {
     "id": "history-146",
@@ -3128,7 +3546,21 @@
     "tags": [
       "england",
       "monarchy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Angleterre a exécuté son propre roi au XVIIe siècle.",
+        "fact": "Après la guerre civile anglaise, le roi Charles Ier fut jugé pour trahison et décapité en public en 1649, un geste sidérant qui fit brièvement de l'Angleterre une république sous Oliver Cromwell."
+      },
+      "nl": {
+        "hook": "Engeland executeerde in de 17e eeuw zijn eigen koning.",
+        "fact": "Na de Engelse Burgeroorlog werd koning Karel I berecht wegens verraad en in 1649 in het openbaar onthoofd, een schokkende daad die van Engeland korte tijd een republiek onder Oliver Cromwell maakte."
+      },
+      "es": {
+        "hook": "Inglaterra ejecutó a su propio rey en el siglo XVII.",
+        "fact": "Tras la Guerra Civil inglesa, el rey Carlos I fue juzgado por traición y decapitado públicamente en 1649, un acto estremecedor que convirtió brevemente a Inglaterra en una república bajo Oliver Cromwell."
+      }
+    }
   },
   {
     "id": "history-147",
@@ -3138,7 +3570,21 @@
     "tags": [
       "england",
       "revolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Angleterre a changé de roi par un coup d'État presque sans effusion de sang.",
+        "fact": "Lors de la Glorieuse Révolution de 1688, le Parlement anglais invita Guillaume d'Orange à envahir le pays et à prendre le trône de Jacques II, qui s'enfuit pratiquement sans combattre, déplaçant durablement le pouvoir de la monarchie vers le Parlement."
+      },
+      "nl": {
+        "hook": "Engeland wisselde van koning via een staatsgreep zonder noemenswaardig bloedvergieten.",
+        "fact": "Tijdens de Glorious Revolution van 1688 nodigde het Engelse parlement Willem van Oranje uit om binnen te vallen en de troon over te nemen van Jacobus II, die vrijwel zonder slag of stoot vluchtte, waarmee de macht blijvend van de monarchie naar het parlement verschoof."
+      },
+      "es": {
+        "hook": "Inglaterra cambió de rey en un golpe casi sin derramamiento de sangre.",
+        "fact": "En la Revolución Gloriosa de 1688, el Parlamento inglés invitó a Guillermo de Orange a invadir el país y arrebatar el trono a Jacobo II, que huyó prácticamente sin luchar, desplazando de forma permanente el poder de la monarquía hacia el Parlamento."
+      }
+    }
   },
   {
     "id": "history-148",
@@ -3148,7 +3594,21 @@
     "tags": [
       "india",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'empereur qui a bâti le Taj Mahal est mort prisonnier de son propre fils.",
+        "fact": "Shah Jahan fit édifier le Taj Mahal dans les années 1630 comme mausolée pour son épouse, mais fut ensuite renversé et assigné à résidence par son fils Aurangzeb, passant, dit-on, ses dernières années à contempler le monument depuis un fort voisin."
+      },
+      "nl": {
+        "hook": "De keizer die de Taj Mahal bouwde stierf als gevangene van zijn eigen zoon.",
+        "fact": "Shah Jahan liet de Taj Mahal in de jaren 1630 bouwen als mausoleum voor zijn vrouw, maar werd later afgezet en onder huisarrest geplaatst door zijn zoon Aurangzeb; naar verluidt bracht hij zijn laatste jaren door met uitzicht op het monument vanuit een nabijgelegen fort."
+      },
+      "es": {
+        "hook": "El emperador que construyó el Taj Mahal murió preso de su propio hijo.",
+        "fact": "Shah Jahan mandó levantar el Taj Mahal en la década de 1630 como mausoleo para su esposa, pero más tarde fue depuesto y recluido bajo arresto domiciliario por su hijo Aurangzeb; según se cuenta, pasó sus últimos años contemplando el monumento desde un fuerte cercano."
+      }
+    }
   },
   {
     "id": "history-149",
@@ -3158,7 +3618,21 @@
     "tags": [
       "iran",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une dynastie perse a fait du chiisme la religion officielle de l'actuel Iran.",
+        "fact": "La dynastie safavide, arrivée au pouvoir en 1501, érigea le chiisme duodécimain en religion d'État de l'Iran, une décision qui façonne encore aujourd'hui l'identité religieuse de la région."
+      },
+      "nl": {
+        "hook": "Een Perzische dynastie maakte de sjiitische islam tot staatsgodsdienst van het huidige Iran.",
+        "fact": "De Safawiden-dynastie, die in 1501 aan de macht kwam, maakte de twaalver-sjiitische islam tot staatsgodsdienst van Iran, een beslissing die de religieuze identiteit van de regio tot op vandaag bepaalt."
+      },
+      "es": {
+        "hook": "Una dinastía persa convirtió el islam chií en la religión oficial del actual Irán.",
+        "fact": "La dinastía safávida, que llegó al poder en 1501, estableció el islam chií duodecimano como religión de Estado de Irán, una decisión que sigue moldeando la identidad religiosa de la región."
+      }
+    }
   },
   {
     "id": "history-150",
@@ -3168,7 +3642,21 @@
     "tags": [
       "industrial-revolution",
       "britain"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La révolution industrielle a démarré dans le textile, pas dans l'acier.",
+        "fact": "La révolution industrielle britannique s'est envolée à la fin du XVIIIe siècle grâce à la mécanisation de la filature et du tissage dans les filatures de coton, avant que la vapeur et l'industrie lourde ne gagnent les autres secteurs de l'économie."
+      },
+      "nl": {
+        "hook": "De industriële revolutie begon in textielfabrieken, niet in staalfabrieken.",
+        "fact": "De Britse industriële revolutie kwam eind 18e eeuw op gang met gemechaniseerd spinnen en weven in katoenfabrieken, nog voordat stoomkracht en zware industrie zich naar andere sectoren van de economie verspreidden."
+      },
+      "es": {
+        "hook": "La Revolución Industrial empezó en las fábricas textiles, no en las siderúrgicas.",
+        "fact": "La Revolución Industrial británica despegó a finales del siglo XVIII con el hilado y el tejido mecanizados en las fábricas de algodón, antes de que el vapor y la industria pesada se extendieran a otros sectores de la economía."
+      }
+    }
   },
   {
     "id": "history-151",
@@ -3178,7 +3666,21 @@
     "tags": [
       "industrial-revolution",
       "labor"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des ouvriers ont brisé des machines pour protester contre la révolution industrielle.",
+        "fact": "À partir de 1811 environ, des ouvriers du textile anglais surnommés luddites détruisirent les métiers à tisser et à tricoter mécaniques qu'ils accusaient de tirer leurs salaires vers le bas et de leur voler leur emploi, donnant naissance au terme « luddite »."
+      },
+      "nl": {
+        "hook": "Arbeiders sloegen ooit machines kapot uit protest tegen de industriële revolutie.",
+        "fact": "Vanaf ongeveer 1811 vernielden Engelse textielarbeiders die bekendstonden als luddieten gemechaniseerde weefgetouwen en breimachines, die zij de schuld gaven van lagere lonen en verloren banen; zo ontstond de moderne term 'luddiet'."
+      },
+      "es": {
+        "hook": "Hubo obreros que destrozaban máquinas para protestar contra la Revolución Industrial.",
+        "fact": "A partir de 1811 aproximadamente, unos trabajadores textiles ingleses conocidos como luditas destruyeron telares y máquinas de tejer mecanizados a los que culpaban de hundir sus salarios y quitarles el empleo, dando origen al término moderno «ludita»."
+      }
+    }
   },
   {
     "id": "history-152",
@@ -3188,7 +3690,21 @@
     "tags": [
       "industrial-revolution",
       "labor"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "De très jeunes enfants ont fait de longues journées dans les mines et les filatures.",
+        "fact": "Au début de la révolution industrielle, des enfants de cinq ou six ans travaillaient de longues journées dans les mines de charbon et les usines textiles britanniques, une pratique seulement encadrée peu à peu par une série de Factory Acts à partir des années 1830."
+      },
+      "nl": {
+        "hook": "Jonge kinderen draaiden ooit lange diensten in kolenmijnen en fabrieken.",
+        "fact": "Tijdens de vroege industriële revolutie werkten kinderen van amper vijf of zes jaar lange diensten in Britse kolenmijnen en textielfabrieken, een praktijk die pas geleidelijk werd ingeperkt door een reeks Factory Acts vanaf de jaren 1830."
+      },
+      "es": {
+        "hook": "Niños muy pequeños llegaron a trabajar jornadas larguísimas en minas y fábricas.",
+        "fact": "Durante los primeros años de la Revolución Industrial, niños de apenas cinco o seis años trabajaban jornadas larguísimas en las minas de carbón y las fábricas textiles británicas, una práctica que solo se fue restringiendo poco a poco con una serie de Leyes de Fábricas a partir de la década de 1830."
+      }
+    }
   },
   {
     "id": "history-153",
@@ -3198,7 +3714,21 @@
     "tags": [
       "ireland",
       "famine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une famine a poussé environ un million de personnes à fuir l'Irlande.",
+        "fact": "La Grande Famine irlandaise de 1845-1852, causée par un mildiou qui anéantit la récolte de pommes de terre, tua environ un million de personnes et en contraignit un million d'autres, voire plus, à émigrer, bouleversant durablement la démographie de l'Irlande."
+      },
+      "nl": {
+        "hook": "Een hongersnood dreef ongeveer een miljoen mensen weg uit Ierland.",
+        "fact": "De Ierse hongersnood van 1845-1852, veroorzaakt door een schimmelziekte die de aardappeloogst vernietigde, kostte ongeveer een miljoen mensen het leven en dwong nog eens een miljoen of meer tot emigratie, wat de bevolking van Ierland blijvend veranderde."
+      },
+      "es": {
+        "hook": "Una hambruna empujó a cerca de un millón de personas a huir de Irlanda.",
+        "fact": "La Gran Hambruna irlandesa de 1845-1852, provocada por un tizón que arrasó la cosecha de patata, mató a cerca de un millón de personas y forzó a otro millón o más a emigrar, transformando para siempre la población de Irlanda."
+      }
+    }
   },
   {
     "id": "history-154",
@@ -3208,7 +3738,21 @@
     "tags": [
       "europe",
       "revolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un pamphlet révolutionnaire a paru l'année même où l'Europe s'embrasait.",
+        "fact": "Karl Marx et Friedrich Engels publièrent le Manifeste du parti communiste au début de 1848, l'année même où des révolutions et des soulèvements contre les monarchies éclatèrent en France, dans les États allemands, en Autriche, en Italie et ailleurs."
+      },
+      "nl": {
+        "hook": "Een revolutionair pamflet verscheen in hetzelfde jaar dat opstanden Europa overspoelden.",
+        "fact": "Karl Marx en Friedrich Engels publiceerden het Communistisch Manifest begin 1848, hetzelfde jaar waarin revoluties en opstanden tegen monarchieën uitbraken in Frankrijk, de Duitse staten, Oostenrijk, Italië en daarbuiten."
+      },
+      "es": {
+        "hook": "Un panfleto revolucionario se publicó el mismo año en que Europa se levantó.",
+        "fact": "Karl Marx y Friedrich Engels publicaron el Manifiesto Comunista a principios de 1848, el mismo año en que estallaron revoluciones y levantamientos contra las monarquías en Francia, los Estados alemanes, Austria, Italia y más allá."
+      }
+    }
   },
   {
     "id": "history-155",
@@ -3218,7 +3762,21 @@
     "tags": [
       "germany",
       "unification"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Allemagne n'existait pas comme pays unifié avant 1871.",
+        "fact": "L'Allemagne ne fut unifiée en un seul empire qu'après la victoire de la Prusse dans la guerre franco-prussienne, le roi Guillaume Ier étant proclamé empereur allemand au château de Versailles en 1871."
+      },
+      "nl": {
+        "hook": "Duitsland bestond tot 1871 niet als één land.",
+        "fact": "Duitsland werd pas tot één keizerrijk verenigd na de Pruisische overwinning in de Frans-Duitse Oorlog, waarbij koning Wilhelm I in 1871 in het paleis van Versailles tot Duits keizer werd uitgeroepen."
+      },
+      "es": {
+        "hook": "Alemania no existió como país unificado hasta 1871.",
+        "fact": "Alemania solo se unificó en un único imperio tras la victoria de Prusia en la guerra franco-prusiana, con el rey Guillermo I proclamado emperador alemán en el Palacio de Versalles en 1871."
+      }
+    }
   },
   {
     "id": "history-156",
@@ -3228,7 +3786,21 @@
     "tags": [
       "italy",
       "unification"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Italie a été recousue à partir d'une mosaïque d'États séparés.",
+        "fact": "L'Italie moderne ne fut unifiée qu'en 1861, avec la proclamation du royaume d'Italie, après des décennies de campagnes menées par des figures comme Giuseppe Garibaldi et le comte de Cavour, qui fusionnèrent royaumes séparés et territoires pontificaux."
+      },
+      "nl": {
+        "hook": "Italië werd aaneengelapt uit een lappendeken van afzonderlijke staten.",
+        "fact": "Het moderne Italië werd pas in 1861 verenigd, toen het Koninkrijk Italië werd uitgeroepen na decennia van campagnes onder figuren als Giuseppe Garibaldi en graaf Cavour, die losse koninkrijken en pauselijke gebieden samenvoegden."
+      },
+      "es": {
+        "hook": "Italia se cosió a partir de un mosaico de Estados separados.",
+        "fact": "La Italia moderna no se unificó hasta 1861, cuando se proclamó el Reino de Italia tras décadas de campañas lideradas por figuras como Giuseppe Garibaldi y el conde de Cavour, que fusionaron reinos independientes y territorios papales."
+      }
+    }
   },
   {
     "id": "history-157",
@@ -3238,7 +3810,21 @@
     "tags": [
       "war",
       "medicine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le travail d'une infirmière en zone de guerre a donné naissance aux soins modernes.",
+        "fact": "Pendant la guerre de Crimée, de 1853 à 1856, Florence Nightingale a fait chuter spectaculairement la mortalité des soldats britanniques blessés en améliorant l'hygiène des hôpitaux, posant ainsi les bases des pratiques infirmières modernes."
+      },
+      "nl": {
+        "hook": "Het werk van één verpleegkundige in een oorlogsgebied legde de basis voor de moderne zorg.",
+        "fact": "Tijdens de Krimoorlog, van 1853 tot 1856, bracht Florence Nightingale het sterftecijfer onder gewonde Britse soldaten drastisch omlaag door de hygiëne in de ziekenhuizen te verbeteren. Daarmee legde ze de basis voor de moderne verpleegkunde."
+      },
+      "es": {
+        "hook": "El trabajo de una enfermera en zona de guerra dio origen a la enfermería moderna.",
+        "fact": "Durante la Guerra de Crimea, de 1853 a 1856, Florence Nightingale redujo drásticamente la mortalidad entre los soldados británicos heridos al mejorar la higiene hospitalaria, sentando las bases de la enfermería moderna."
+      }
+    }
   },
   {
     "id": "history-158",
@@ -3248,7 +3834,21 @@
     "tags": [
       "america",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La guerre la plus meurtrière des États-Unis, ils l'ont menée contre eux-mêmes.",
+        "fact": "La guerre de Sécession, de 1861 à 1865, a tué entre 620 000 et 750 000 soldats selon les estimations, soit plus de morts américains que presque toutes les autres guerres des États-Unis réunies jusqu'à cette date."
+      },
+      "nl": {
+        "hook": "De dodelijkste oorlog van Amerika werd tegen zichzelf gevoerd.",
+        "fact": "De Amerikaanse Burgeroorlog, van 1861 tot 1865, kostte naar schatting 620.000 tot 750.000 soldaten het leven: meer Amerikaanse doden dan bijna alle andere Amerikaanse oorlogen tot dan toe bij elkaar."
+      },
+      "es": {
+        "hook": "La guerra más mortífera de Estados Unidos la libró contra sí mismo.",
+        "fact": "La Guerra Civil estadounidense, de 1861 a 1865, mató a entre 620.000 y 750.000 soldados, más muertes estadounidenses que casi todas las demás guerras del país juntas hasta ese momento."
+      }
+    }
   },
   {
     "id": "history-159",
@@ -3258,7 +3858,21 @@
     "tags": [
       "america",
       "labor"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce sont des ouvriers chinois qui ont dynamité les tunnels reliant l'Amérique d'un océan à l'autre.",
+        "fact": "Des milliers d'ouvriers immigrés chinois ont accompli l'essentiel des travaux les plus dangereux, notamment le percement à l'explosif des tunnels de la Sierra Nevada, pour achever le chemin de fer transcontinental américain, terminé en 1869."
+      },
+      "nl": {
+        "hook": "Chinese arbeiders bliezen de tunnels uit die Amerika van kust tot kust verbonden.",
+        "fact": "Duizenden Chinese immigranten deden het gevaarlijkste werk, zoals het opblazen van tunnels door de Sierra Nevada, om de Amerikaanse transcontinentale spoorlijn af te maken, die in 1869 werd voltooid."
+      },
+      "es": {
+        "hook": "Fueron obreros chinos quienes volaron los túneles que unieron Estados Unidos de costa a costa.",
+        "fact": "Miles de trabajadores inmigrantes chinos realizaron gran parte del trabajo más peligroso, como abrir túneles con explosivos a través de Sierra Nevada, para completar el ferrocarril transcontinental estadounidense, terminado en 1869."
+      }
+    }
   },
   {
     "id": "history-160",
@@ -3268,7 +3882,21 @@
     "tags": [
       "panama",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première tentative de percer le canal de Panama a échoué à cause des moustiques.",
+        "fact": "Un projet français de percement du canal de Panama dans les années 1880 a échoué après que la fièvre jaune et le paludisme ont tué des milliers d'ouvriers ; ce n'est qu'après la reprise du chantier par les États-Unis et la lutte contre les moustiques porteurs de maladies que le canal a enfin ouvert, en 1914."
+      },
+      "nl": {
+        "hook": "De eerste poging om het Panamakanaal te graven strandde op muggen.",
+        "fact": "Een Frans project om in de jaren 1880 het Panamakanaal aan te leggen mislukte nadat gele koorts en malaria duizenden arbeiders het leven hadden gekost. Pas nadat de Verenigde Staten het overnamen en de ziekteverspreidende muggen bestreden, ging het kanaal in 1914 open."
+      },
+      "es": {
+        "hook": "El primer intento de construir el Canal de Panamá se hundió por culpa de los mosquitos.",
+        "fact": "Un proyecto francés para construir el Canal de Panamá en la década de 1880 fracasó después de que la fiebre amarilla y la malaria mataran a miles de trabajadores; solo cuando Estados Unidos tomó el relevo y controló a los mosquitos transmisores el canal pudo abrirse, en 1914."
+      }
+    }
   },
   {
     "id": "history-161",
@@ -3278,7 +3906,21 @@
     "tags": [
       "panama",
       "colonialism"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Si le Panama est un pays à part, c'est en partie à cause d'un accord sur le canal.",
+        "fact": "En 1903, le Panama a fait sécession de la Colombie avec l'appui militaire des États-Unis, et la toute nouvelle nation indépendante a peu après accordé aux États-Unis le droit de construire et de contrôler la zone du canal de Panama."
+      },
+      "nl": {
+        "hook": "Panama bestaat als apart land mede dankzij een deal over een kanaal.",
+        "fact": "In 1903 scheidde Panama zich met Amerikaanse militaire steun af van Colombia, en de kersverse onafhankelijke staat gaf de Verenigde Staten kort daarna het recht om de Panamakanaalzone aan te leggen en te besturen."
+      },
+      "es": {
+        "hook": "Panamá existe como país aparte en parte por un acuerdo sobre un canal.",
+        "fact": "En 1903, Panamá se separó de Colombia con respaldo militar estadounidense, y la recién independizada nación concedió poco después a Estados Unidos el derecho a construir y controlar la Zona del Canal de Panamá."
+      }
+    }
   },
   {
     "id": "history-162",
@@ -3288,7 +3930,21 @@
     "tags": [
       "america",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une courte guerre pour Cuba a doté les États-Unis d'un empire d'outre-mer.",
+        "fact": "Après la guerre hispano-américaine de 1898, qui n'a duré que quelques mois, les États-Unis ont pris le contrôle des Philippines, de Porto Rico et de Guam, et contrôlaient de fait Cuba, devenant ainsi une puissance coloniale à part entière."
+      },
+      "nl": {
+        "hook": "Een korte oorlog om Cuba bezorgde de VS een overzees imperium.",
+        "fact": "Na de Spaans-Amerikaanse Oorlog van 1898, die maar een paar maanden duurde, kregen de Verenigde Staten de Filipijnen, Puerto Rico en Guam in handen en beheersten ze Cuba feitelijk, waarmee het land zelf een koloniale mogendheid werd."
+      },
+      "es": {
+        "hook": "Una guerra breve por Cuba dejó a Estados Unidos con un imperio de ultramar.",
+        "fact": "Tras la Guerra Hispano-Estadounidense de 1898, que duró apenas unos meses, Estados Unidos se hizo con el control de Filipinas, Puerto Rico y Guam, y controló de hecho Cuba, convirtiéndose en una potencia colonial por derecho propio."
+      }
+    }
   },
   {
     "id": "history-163",
@@ -3298,7 +3954,21 @@
     "tags": [
       "philippines",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les révolutionnaires philippins ont dû mener une seconde guerre d'indépendance, contre le pays qui venait de les « libérer ».",
+        "fact": "Après que l'Espagne a cédé les Philippines aux États-Unis en 1898, les révolutionnaires philippins qui s'étaient battus pour l'indépendance se sont retournés contre leurs nouveaux occupants lors de la guerre américano-philippine de 1899-1902, qui a fait des centaines de milliers de morts."
+      },
+      "nl": {
+        "hook": "Filipijnse revolutionairen vochten een tweede onafhankelijkheidsoorlog uit, tegen het land dat hen net had 'bevrijd'.",
+        "fact": "Nadat Spanje de Filipijnen in 1898 aan de Verenigde Staten had afgestaan, keerden de Filipijnse revolutionairen die voor onafhankelijkheid hadden gevochten zich tegen hun nieuwe bezetters in de Filipijns-Amerikaanse Oorlog van 1899-1902, die honderdduizenden doden eiste."
+      },
+      "es": {
+        "hook": "Los revolucionarios filipinos libraron una segunda guerra de independencia, contra el país que acababa de 'liberarlos'.",
+        "fact": "Después de que España cediera Filipinas a Estados Unidos en 1898, los revolucionarios filipinos que habían luchado por la independencia se volvieron contra sus nuevos ocupantes en la Guerra Filipino-Estadounidense de 1899-1902, que causó cientos de miles de muertos."
+      }
+    }
   },
   {
     "id": "history-164",
@@ -3308,7 +3978,21 @@
     "tags": [
       "africa",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une armée zouloue a anéanti une force britannique lors de l'une des plus grandes surprises de l'histoire coloniale.",
+        "fact": "À la bataille d'Isandlwana, en 1879, des guerriers zoulous armés pour l'essentiel de sagaies ont submergé et tué plus de 1 300 soldats britanniques et coloniaux, l'une des pires défaites de l'Empire britannique face à une armée africaine."
+      },
+      "nl": {
+        "hook": "Een Zoeloeleger vaagde een Britse troepenmacht weg in een van de grootste verrassingen uit de koloniale geschiedenis.",
+        "fact": "In de Slag bij Isandlwana in 1879 overrompelden Zoeloekrijgers, grotendeels bewapend met speren, meer dan 1.300 Britse en koloniale militairen en doodden hen. Het was een van de zwaarste nederlagen die het Britse Rijk tegen een Afrikaans leger leed."
+      },
+      "es": {
+        "hook": "Un ejército zulú aniquiló a una fuerza británica en una de las mayores sorpresas de la historia colonial.",
+        "fact": "En la batalla de Isandlwana, en 1879, guerreros zulúes armados en su mayoría con lanzas arrollaron y mataron a más de 1.300 soldados británicos y coloniales, una de las peores derrotas que sufrió el Imperio británico frente a un ejército africano."
+      }
+    }
   },
   {
     "id": "history-165",
@@ -3318,7 +4002,21 @@
     "tags": [
       "africa",
       "art"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un raid britannique sur un royaume ouest-africain a rempli les musées européens d'œuvres pillées.",
+        "fact": "En 1897, les forces britanniques ont détruit le royaume du Bénin, dans l'actuel Nigeria, et pillé des milliers d'œuvres en bronze et en ivoire, dont beaucoup se trouvent encore dans des musées européens et font l'objet de litiges de restitution toujours en cours."
+      },
+      "nl": {
+        "hook": "Een Britse strafexpeditie tegen een West-Afrikaans koninkrijk vulde Europese musea met roofkunst.",
+        "fact": "In 1897 verwoestten Britse troepen het koninkrijk Benin, in het huidige Nigeria, en roofden duizenden kunstwerken van brons en ivoor. Veel daarvan bevinden zich nog altijd in Europese musea en zijn onderwerp van lopende teruggavegeschillen."
+      },
+      "es": {
+        "hook": "Una incursión británica en un reino de África Occidental llenó los museos europeos de arte saqueado.",
+        "fact": "En 1897, las fuerzas británicas destruyeron el Reino de Benín, en la actual Nigeria, y saquearon miles de obras de bronce y marfil, muchas de las cuales siguen en museos europeos y son objeto de disputas de restitución todavía abiertas."
+      }
+    }
   },
   {
     "id": "history-166",
@@ -3328,7 +4026,21 @@
     "tags": [
       "africa",
       "war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La lutte du Soudan contre la domination anglo-égyptienne a coûté la vie à un général célèbre.",
+        "fact": "En 1885, les forces de l'État mahdiste ont assiégé et pris Khartoum, tuant le général britannique Charles Gordon, une défaite qui a choqué l'Angleterre victorienne et retardé de plus d'une décennie la mainmise britannique sur le Soudan."
+      },
+      "nl": {
+        "hook": "Soedans strijd tegen het Brits-Egyptische bewind kostte een beroemde generaal het leven.",
+        "fact": "In 1885 belegerden en veroverden troepen van de Mahdistische Staat Khartoem, waarbij de Britse generaal Charles Gordon omkwam. Die nederlaag schokte het victoriaanse Groot-Brittannië en vertraagde de Britse controle over Soedan met ruim tien jaar."
+      },
+      "es": {
+        "hook": "La lucha de Sudán contra el dominio anglo-egipcio le costó la vida a un general célebre.",
+        "fact": "En 1885, las fuerzas del Estado Mahdista sitiaron y tomaron Jartum, matando al general británico Charles Gordon, una derrota que conmocionó a la Gran Bretaña victoriana y retrasó más de una década el control británico sobre Sudán."
+      }
+    }
   },
   {
     "id": "history-167",
@@ -3338,7 +4050,21 @@
     "tags": [
       "wwi",
       "europe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Première Guerre mondiale a commencé par un seul assassinat dans les Balkans.",
+        "fact": "L'assassinat, en juin 1914, de l'archiduc François-Ferdinand d'Autriche-Hongrie par un nationaliste serbe de Bosnie a déclenché un enchaînement d'obligations d'alliance qui, en quelques semaines, a dégénéré en une guerre impliquant des dizaines de pays."
+      },
+      "nl": {
+        "hook": "De Eerste Wereldoorlog begon met één moordaanslag op de Balkan.",
+        "fact": "De moord op aartshertog Frans Ferdinand van Oostenrijk-Hongarije door een Bosnisch-Servische nationalist in juni 1914 zette een kettingreactie van bondgenootschappelijke verplichtingen in gang, die binnen enkele weken uitgroeide tot een oorlog met tientallen landen."
+      },
+      "es": {
+        "hook": "La Primera Guerra Mundial empezó con un solo magnicidio en los Balcanes.",
+        "fact": "El asesinato, en junio de 1914, del archiduque Francisco Fernando de Austria-Hungría a manos de un nacionalista serbobosnio desencadenó una cadena de compromisos entre aliados que en pocas semanas derivó en una guerra con decenas de países implicados."
+      }
+    }
   },
   {
     "id": "history-168",
@@ -3347,7 +4073,21 @@
     "fact": "In December 1914, German and British troops along parts of the Western Front declared unofficial truces, singing carols, exchanging gifts, and even playing football in no-man's-land before returning to combat.",
     "tags": [
       "wwi"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des soldats ennemis de 14-18 ont cessé le combat le temps de fêter Noël ensemble.",
+        "fact": "En décembre 1914, des troupes allemandes et britanniques ont proclamé des trêves non officielles sur certaines portions du front de l'Ouest, chantant des chants de Noël, échangeant des cadeaux et jouant même au football dans le no man's land avant de reprendre les combats."
+      },
+      "nl": {
+        "hook": "Soldaten aan weerszijden van het front legden de wapens even neer om samen Kerstmis te vieren.",
+        "fact": "In december 1914 sloten Duitse en Britse troepen op delen van het westfront onofficiële bestanden: ze zongen kerstliederen, wisselden cadeaus uit en voetbalden zelfs in niemandsland, voordat ze de strijd hervatten."
+      },
+      "es": {
+        "hook": "Soldados enemigos de la Primera Guerra Mundial pararon de luchar para celebrar juntos la Navidad.",
+        "fact": "En diciembre de 1914, tropas alemanas y británicas acordaron treguas no oficiales en algunos tramos del frente occidental: cantaron villancicos, intercambiaron regalos e incluso jugaron al fútbol en tierra de nadie antes de volver al combate."
+      }
+    }
   },
   {
     "id": "history-169",
@@ -3357,7 +4097,21 @@
     "tags": [
       "middle-east",
       "diplomacy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Deux puissances européennes se sont partagé le Moyen-Orient en secret avant même la fin de la Grande Guerre.",
+        "fact": "L'accord Sykes-Picot de 1916, négocié en secret entre le Royaume-Uni et la France, a divisé les territoires ottomans du Moyen-Orient en zones d'influence, dessinant des frontières qui alimentent encore les conflits aujourd'hui."
+      },
+      "nl": {
+        "hook": "Twee Europese mogendheden verdeelden het Midden-Oosten in het geheim, nog voor de Eerste Wereldoorlog voorbij was.",
+        "fact": "Het Sykes-Picot-akkoord van 1916, in het geheim uitonderhandeld tussen Groot-Brittannië en Frankrijk, verdeelde de Ottomaanse gebieden in het Midden-Oosten in invloedssferen en tekende grenzen die tot op vandaag conflicten voeden."
+      },
+      "es": {
+        "hook": "Dos potencias europeas se repartieron Oriente Medio en secreto antes incluso de que acabara la Gran Guerra.",
+        "fact": "El Acuerdo Sykes-Picot de 1916, negociado en secreto entre Gran Bretaña y Francia, dividió los territorios otomanos de Oriente Medio en zonas de influencia y trazó fronteras que aún hoy alimentan conflictos."
+      }
+    }
   },
   {
     "id": "history-170",
@@ -3367,7 +4121,21 @@
     "tags": [
       "middle-east",
       "diplomacy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En pleine guerre, la Grande-Bretagne a promis la même terre à deux peuples différents.",
+        "fact": "La déclaration Balfour de 1917 exprimait le soutien britannique à un foyer national juif en Palestine, alors même que la Grande-Bretagne avait par ailleurs promis l'indépendance aux Arabes pendant la guerre, posant les bases de décennies de conflit."
+      },
+      "nl": {
+        "hook": "Groot-Brittannië deed tijdens de oorlog tegenstrijdige beloften over hetzelfde stuk land.",
+        "fact": "De Balfour-verklaring van 1917 sprak Britse steun uit voor een Joods nationaal tehuis in Palestina, terwijl Groot-Brittannië tijdens diezelfde oorlog ook afzonderlijke beloften van Arabische onafhankelijkheid had gedaan. Dat legde de kiem voor decennia van conflict."
+      },
+      "es": {
+        "hook": "Gran Bretaña prometió la misma tierra a pueblos distintos durante la guerra.",
+        "fact": "La Declaración Balfour de 1917 expresó el apoyo británico a un hogar nacional judío en Palestina, pese a que Gran Bretaña también había hecho promesas de independencia a los árabes durante la guerra, sembrando las bases de décadas de conflicto."
+      }
+    }
   },
   {
     "id": "history-171",
@@ -3377,7 +4145,21 @@
     "tags": [
       "ottoman-empire",
       "genocide"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Jusqu'à 1,5 million d'Arméniens ont été tués lors d'une campagne systématique pendant la Grande Guerre.",
+        "fact": "À partir de 1915, le gouvernement ottoman a mené des massacres de masse et des marches de la mort contre sa population arménienne, un événement largement reconnu comme un génocide par les historiens et de nombreux gouvernements."
+      },
+      "nl": {
+        "hook": "Tot 1,5 miljoen Armeniërs kwamen om in een systematische campagne tijdens de Eerste Wereldoorlog.",
+        "fact": "Vanaf 1915 voerde de Ottomaanse regering massamoorden en dodenmarsen uit tegen haar Armeense bevolking, een gebeurtenis die door historici en veel regeringen breed als genocide wordt erkend."
+      },
+      "es": {
+        "hook": "Hasta 1,5 millones de armenios murieron en una campaña sistemática durante la Gran Guerra.",
+        "fact": "A partir de 1915, el gobierno otomano llevó a cabo matanzas masivas y marchas de la muerte contra su población armenia, un hecho reconocido ampliamente como genocidio por historiadores y numerosos gobiernos."
+      }
+    }
   },
   {
     "id": "history-172",
@@ -3387,7 +4169,21 @@
     "tags": [
       "middle-east",
       "wwi"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une révolte arabe contre les Ottomans a été épaulée par un officier britannique devenu légende.",
+        "fact": "T. E. Lawrence, passé à la postérité sous le nom de « Lawrence d'Arabie », a contribué à coordonner la révolte arabe contre la domination ottomane pendant la Première Guerre mondiale, aux côtés de dirigeants arabes comme Fayçal ben Hussein."
+      },
+      "nl": {
+        "hook": "Een Arabische opstand tegen de Ottomanen kreeg hulp van een Britse officier die een legende werd.",
+        "fact": "T.E. Lawrence, later bekend als 'Lawrence of Arabia', hielp tijdens de Eerste Wereldoorlog de Arabische Opstand tegen het Ottomaanse bewind coördineren, in samenwerking met Arabische leiders zoals Faisal bin Hoessein."
+      },
+      "es": {
+        "hook": "Una revuelta árabe contra los otomanos contó con la ayuda de un oficial británico convertido en leyenda.",
+        "fact": "T.E. Lawrence, conocido después como 'Lawrence de Arabia', ayudó a coordinar la Revuelta Árabe contra el dominio otomano durante la Primera Guerra Mundial, trabajando junto a líderes árabes como Faisal bin Huseín."
+      }
+    }
   },
   {
     "id": "history-173",
@@ -3397,7 +4193,21 @@
     "tags": [
       "pandemic",
       "wwi"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La grippe qui a suivi la Grande Guerre a tué plus de monde que la guerre elle-même.",
+        "fact": "La pandémie de grippe de 1918-1919 a fait environ 50 millions de morts, voire davantage, dans le monde, bien plus que les quelque 17 millions de morts militaires et civils de la Première Guerre mondiale."
+      },
+      "nl": {
+        "hook": "De griep na de Eerste Wereldoorlog maakte meer slachtoffers dan de oorlog zelf.",
+        "fact": "De grieppandemie van 1918-1919 kostte wereldwijd naar schatting 50 miljoen mensen of meer het leven, veel meer dan de ongeveer 17 miljoen militaire en burgerdoden van de Eerste Wereldoorlog."
+      },
+      "es": {
+        "hook": "La gripe que siguió a la Gran Guerra mató a más gente que la propia guerra.",
+        "fact": "La pandemia de gripe de 1918-1919 causó unos 50 millones de muertes o más en todo el mundo, muy por encima de los aproximadamente 17 millones de muertos militares y civiles de la Primera Guerra Mundial."
+      }
+    }
   },
   {
     "id": "history-174",
@@ -3407,7 +4217,21 @@
     "tags": [
       "turkey",
       "modernization"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une Turquie moderne et laïque est née des cendres de l'Empire ottoman.",
+        "fact": "Après l'effondrement de l'Empire ottoman à l'issue de la Première Guerre mondiale, l'officier Mustafa Kemal Atatürk a fondé la République de Turquie en 1923 et imposé de vastes réformes laïques, dont le remplacement de l'écriture arabe par un alphabet latin."
+      },
+      "nl": {
+        "hook": "Uit de as van het Ottomaanse Rijk rees een modern, seculier Turkije op.",
+        "fact": "Nadat het Ottomaanse Rijk na de Eerste Wereldoorlog ineenstortte, stichtte legerofficier Mustafa Kemal Atatürk in 1923 de Republiek Turkije en voerde hij ingrijpende seculariserende hervormingen door, waaronder de vervanging van het Arabische schrift door een Latijns alfabet."
+      },
+      "es": {
+        "hook": "De las cenizas del Imperio otomano surgió una Turquía moderna y laica.",
+        "fact": "Tras el colapso del Imperio otomano después de la Primera Guerra Mundial, el militar Mustafa Kemal Atatürk fundó la República de Turquía en 1923 e impulsó reformas secularizadoras de gran alcance, como sustituir la escritura árabe por un alfabeto latino."
+      }
+    }
   },
   {
     "id": "history-175",
@@ -3417,7 +4241,21 @@
     "tags": [
       "russia",
       "monarchy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La famille du tsar de Russie s'en remettait à un guérisseur mystique dont le scandale a précipité la chute de la monarchie.",
+        "fact": "Grigori Raspoutine a acquis une influence considérable sur la famille du tsar Nicolas II en prétendant soulager les souffrances de l'héritier hémophile, et sa réputation sulfureuse a contribué à éroder la confiance du public envers la monarchie avant son effondrement en 1917."
+      },
+      "nl": {
+        "hook": "De Russische tsarenfamilie vertrouwde op een mystieke genezer wiens schandalen de monarchie mee ten val brachten.",
+        "fact": "Grigori Raspoetin verwierf enorme invloed op de familie van tsaar Nicolaas II door te beweren dat hij het lijden van de hemofiele troonopvolger verlichtte. Zijn schandalige reputatie hielp het publieke vertrouwen in de monarchie uit te hollen vóór haar val in 1917."
+      },
+      "es": {
+        "hook": "La familia del zar ruso confiaba en un sanador místico cuyo escándalo ayudó a derribar la monarquía.",
+        "fact": "Grigori Rasputín logró una influencia enorme sobre la familia del zar Nicolás II al afirmar que aliviaba el sufrimiento del heredero hemofílico, y su reputación escandalosa contribuyó a erosionar la confianza pública en la monarquía antes de su caída en 1917."
+      }
+    }
   },
   {
     "id": "history-176",
@@ -3427,7 +4265,21 @@
     "tags": [
       "russia",
       "revolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le dernier tsar de Russie a abdiqué quelques jours après une révolution qu'il n'avait pas vue venir.",
+        "fact": "En février 1917, les grèves massives et les mutineries à Petrograd ont contraint le tsar Nicolas II à abdiquer en une semaine environ, mettant fin à trois siècles de règne des Romanov avant que les bolcheviks ne prennent le pouvoir plus tard dans l'année."
+      },
+      "nl": {
+        "hook": "De laatste tsaar van Rusland trad af binnen enkele dagen na een revolutie die hij niet had zien aankomen.",
+        "fact": "In februari 1917 dwongen massale stakingen en muiterijen in Petrograd tsaar Nicolaas II om binnen ongeveer een week af te treden. Daarmee eindigde drie eeuwen Romanov-heerschappij, voordat de bolsjewieken later dat jaar de macht grepen."
+      },
+      "es": {
+        "hook": "El último zar de Rusia abdicó a los pocos días de una revolución que no vio venir.",
+        "fact": "En febrero de 1917, las huelgas masivas y los motines en Petrogrado obligaron al zar Nicolás II a abdicar en apenas una semana, poniendo fin a tres siglos de dominio Romanov antes de que los bolcheviques tomaran el poder ese mismo año."
+      }
+    }
   },
   {
     "id": "history-177",
@@ -3437,7 +4289,21 @@
     "tags": [
       "india",
       "independence"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Gandhi a marché près de 390 kilomètres pour protester contre une taxe sur le sel.",
+        "fact": "En 1930, Mohandas Gandhi a parcouru à pied environ 390 kilomètres jusqu'à la mer d'Arabie pour y fabriquer du sel à la main, bravant le monopole et la taxe coloniale britannique sur la production de sel dans un acte fondateur de désobéissance civile non violente."
+      },
+      "nl": {
+        "hook": "Gandhi liep bijna 390 kilometer uit protest tegen een belasting op zout.",
+        "fact": "In 1930 legde Mohandas Gandhi te voet zo'n 390 kilometer af naar de Arabische Zee om daar met de hand zout te maken, in weerwil van het Britse koloniale monopolie en de belasting op zoutproductie. Het werd een mijlpaal in de geweldloze burgerlijke ongehoorzaamheid."
+      },
+      "es": {
+        "hook": "Gandhi caminó casi 390 kilómetros para protestar contra un impuesto sobre la sal.",
+        "fact": "En 1930, Mohandas Gandhi recorrió a pie unos 390 kilómetros hasta el mar Arábigo para fabricar sal a mano, desafiando el monopolio y el impuesto coloniales británicos sobre la producción de sal en un acto histórico de desobediencia civil no violenta."
+      }
+    }
   },
   {
     "id": "history-178",
@@ -3447,7 +4313,21 @@
     "tags": [
       "china",
       "revolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Parti communiste chinois a failli disparaître avant qu'une retraite d'un an ne le sauve.",
+        "fact": "Encerclée par les forces nationalistes, l'armée communiste de Mao Zedong a entrepris la Longue Marche en 1934-1935, une retraite d'environ 10 000 kilomètres à travers la Chine qui a asseyé le leadership de Mao malgré des pertes catastrophiques en chemin."
+      },
+      "nl": {
+        "hook": "De Chinese Communistische Partij stond op instorten tot een tocht van een jaar haar redde.",
+        "fact": "Omsingeld door nationalistische troepen begon het communistische leger van Mao Zedong in 1934-1935 aan de Lange Mars, een terugtocht van zo'n 10.000 kilometer door China die Mao's leiderschap verankerde, ondanks catastrofale verliezen onderweg."
+      },
+      "es": {
+        "hook": "El Partido Comunista chino estuvo a punto de desaparecer hasta que una retirada de un año lo salvó.",
+        "fact": "Cercado por las fuerzas nacionalistas, el ejército comunista de Mao Zedong emprendió la Larga Marcha en 1934-1935, una retirada de unos 10.000 kilómetros a través de China que consolidó el liderazgo de Mao pese a las pérdidas catastróficas sufridas por el camino."
+      }
+    }
   },
   {
     "id": "history-179",
@@ -3457,7 +4337,21 @@
     "tags": [
       "china",
       "wwii"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La prise d'une ville chinoise par le Japon a débouché sur l'un des pires massacres de la guerre.",
+        "fact": "Après la prise de Nankin en décembre 1937, les troupes japonaises ont tué entre 200 000 et 300 000 civils et soldats chinois selon les estimations et commis des violences sexuelles massives dans les semaines qui ont suivi, une atrocité connue sous le nom de massacre de Nankin."
+      },
+      "nl": {
+        "hook": "De Japanse verovering van een Chinese stad leidde tot een van de ergste bloedbaden van de oorlog.",
+        "fact": "Na de inname van Nanking in december 1937 doodden Japanse troepen naar schatting 200.000 tot 300.000 Chinese burgers en soldaten en pleegden zij in de weken erna op grote schaal seksueel geweld, een gruweldaad die bekendstaat als het Bloedbad van Nanking."
+      },
+      "es": {
+        "hook": "La toma japonesa de una ciudad china derivó en una de las peores masacres de la guerra.",
+        "fact": "Tras conquistar Nankín en diciembre de 1937, las tropas japonesas mataron a entre 200.000 y 300.000 civiles y soldados chinos y cometieron violencia sexual generalizada en las semanas siguientes, una atrocidad conocida como la Masacre de Nankín."
+      }
+    }
   },
   {
     "id": "history-180",
@@ -3467,7 +4361,21 @@
     "tags": [
       "india",
       "famine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une famine de guerre en Inde britannique a tué des millions de personnes pendant que le grain partait ailleurs.",
+        "fact": "La famine du Bengale de 1943 a fait entre 2 et 3 millions de morts selon les estimations, aggravée par des politiques britanniques de guerre qui plaçaient les besoins militaires et autres avant l'aide alimentaire dans la région."
+      },
+      "nl": {
+        "hook": "Een oorlogshongersnood in Brits-Indië kostte miljoenen levens terwijl het graan elders heen ging.",
+        "fact": "De hongersnood in Bengalen van 1943 kostte naar schatting 2 tot 3 miljoen mensen het leven, verergerd door Brits oorlogsbeleid dat militaire en andere behoeften voorrang gaf boven hongerhulp in de regio."
+      },
+      "es": {
+        "hook": "Una hambruna de guerra en la India británica mató a millones mientras el grano iba a otra parte.",
+        "fact": "La hambruna de Bengala de 1943 causó entre 2 y 3 millones de muertes, agravada por políticas británicas de guerra que priorizaron las necesidades militares y de otro tipo por encima de la ayuda contra el hambre en la región."
+      }
+    }
   },
   {
     "id": "history-181",
@@ -3477,7 +4385,21 @@
     "tags": [
       "wwii",
       "america"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une attaque surprise a fait basculer une superpuissance réticente dans la guerre mondiale.",
+        "fact": "L'attaque surprise du Japon contre la base navale américaine de Pearl Harbor, le 7 décembre 1941, a tué plus de 2 400 Américains et conduit les États-Unis à déclarer la guerre dès le lendemain, mettant fin à leur politique de non-intervention."
+      },
+      "nl": {
+        "hook": "Eén verrassingsaanval trok een aarzelende grootmacht een wereldoorlog in.",
+        "fact": "De Japanse verrassingsaanval op de Amerikaanse marinebasis Pearl Harbor op 7 december 1941 kostte ruim 2.400 Amerikanen het leven en bracht de Verenigde Staten ertoe de dag erna de oorlog te verklaren, waarmee hun politiek van non-interventie eindigde."
+      },
+      "es": {
+        "hook": "Un ataque por sorpresa arrastró a una superpotencia reticente a una guerra mundial.",
+        "fact": "El ataque sorpresa de Japón contra la base naval estadounidense de Pearl Harbor, el 7 de diciembre de 1941, mató a más de 2.400 estadounidenses y llevó a Estados Unidos a declarar la guerra al día siguiente, poniendo fin a su política de no intervención."
+      }
+    }
   },
   {
     "id": "history-182",
@@ -3487,7 +4409,21 @@
     "tags": [
       "wwii",
       "science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le tout premier essai nucléaire portait un nom de code emprunté à un poème.",
+        "fact": "Le tout premier essai d'arme nucléaire, mené par les États-Unis dans le désert du Nouveau-Mexique en juillet 1945, portait le nom de code « Trinity », choisi selon toute vraisemblance par le physicien J. Robert Oppenheimer en clin d'œil à la poésie anglaise."
+      },
+      "nl": {
+        "hook": "De allereerste kernproef kreeg een codenaam die uit een gedicht kwam.",
+        "fact": "De allereerste kernwapenproef, in juli 1945 door de VS uitgevoerd in de woestijn van New Mexico, had de codenaam 'Trinity', naar verluidt gekozen door natuurkundige J. Robert Oppenheimer als knipoog naar de Engelse poëzie."
+      },
+      "es": {
+        "hook": "La primera prueba nuclear de la historia tomó su nombre en clave de un poema.",
+        "fact": "La primera prueba de un arma nuclear, realizada por Estados Unidos en el desierto de Nuevo México en julio de 1945, recibió el nombre en clave 'Trinity', elegido al parecer por el físico J. Robert Oppenheimer como guiño a la poesía inglesa."
+      }
+    }
   },
   {
     "id": "history-183",
@@ -3497,7 +4433,21 @@
     "tags": [
       "wwii",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'armée japonaise a réduit des dizaines de milliers de femmes à l'esclavage sexuel pendant la guerre.",
+        "fact": "Durant la Seconde Guerre mondiale, l'armée japonaise a mis en place un système d'esclavage sexuel forcé impliquant, selon les estimations, des dizaines de milliers de femmes, désignées par l'euphémisme de « femmes de réconfort », recrutées ou contraintes en Corée, en Chine et dans d'autres territoires occupés."
+      },
+      "nl": {
+        "hook": "Het Japanse leger dwong in de Tweede Wereldoorlog tienduizenden vrouwen tot seksuele slavernij.",
+        "fact": "Tijdens de Tweede Wereldoorlog zette het Japanse leger een systeem van gedwongen seksuele slavernij op waarbij naar schatting tienduizenden vrouwen betrokken waren, eufemistisch 'troostmeisjes' genoemd, geronseld of gedwongen uit Korea, China en andere bezette gebieden."
+      },
+      "es": {
+        "hook": "El ejército japonés sometió a decenas de miles de mujeres a esclavitud sexual durante la guerra.",
+        "fact": "Durante la Segunda Guerra Mundial, el ejército japonés estableció un sistema de esclavitud sexual forzada que afectó a decenas de miles de mujeres, llamadas eufemísticamente 'mujeres de consuelo', reclutadas o coaccionadas en Corea, China y otros territorios ocupados."
+      }
+    }
   },
   {
     "id": "history-184",
@@ -3508,7 +4458,24 @@
     "tags": [
       "wwii",
       "soviet-union"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Union soviétique a perdu bien plus de vies que tout autre pays pendant la Seconde Guerre mondiale.",
+        "fact": "L'Union soviétique a subi entre 24 et 27 millions de morts durant la Seconde Guerre mondiale, militaires comme civils, bien plus que toute autre nation, le front de l'Est absorbant l'essentiel des ressources militaires de l'Allemagne nazie.",
+        "whyItMatters": "L'ampleur vertigineuse des pertes soviétiques est l'une des principales raisons pour lesquelles les historiens considèrent le front de l'Est, et non l'Europe de l'Ouest, comme le théâtre décisif qui a brisé l'armée allemande."
+      },
+      "nl": {
+        "hook": "De Sovjet-Unie verloor in de Tweede Wereldoorlog met afstand de meeste mensen.",
+        "fact": "De Sovjet-Unie telde tijdens de Tweede Wereldoorlog naar schatting 24 tot 27 miljoen doden, zowel militairen als burgers, veel meer dan enig ander land, waarbij het oostfront het leeuwendeel van de Duitse militaire middelen opslokte.",
+        "whyItMatters": "De duizelingwekkende omvang van de Sovjetverliezen is een belangrijke reden waarom historici het oostfront, en niet West-Europa, zien als het strijdtoneel dat het Duitse leger brak."
+      },
+      "es": {
+        "hook": "La Unión Soviética perdió muchísimas más personas que ningún otro país en la Segunda Guerra Mundial.",
+        "fact": "La Unión Soviética sufrió entre 24 y 27 millones de muertes durante la Segunda Guerra Mundial, tanto militares como civiles, muchas más que cualquier otra nación, y el frente oriental absorbió la mayor parte de los recursos militares de la Alemania nazi.",
+        "whyItMatters": "La magnitud abrumadora de las pérdidas soviéticas es una razón clave por la que los historiadores consideran el frente oriental, y no Europa occidental, el escenario que realmente quebró al ejército alemán."
+      }
+    }
   },
   {
     "id": "history-185",
@@ -3519,7 +4486,24 @@
     "tags": [
       "india",
       "independence"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La séparation de l'Inde et du Pakistan a provoqué la plus grande migration de masse de l'histoire.",
+        "fact": "La partition de l'Inde britannique en Inde et Pakistan, en 1947, a déplacé environ 15 millions de personnes selon des critères religieux et s'est accompagnée de violences effroyables qui ont fait de plusieurs centaines de milliers à plus d'un million de morts.",
+        "whyItMatters": "Le tracé des frontières, précipité et mal préparé, a laissé des différends comme celui du Cachemire, qui nourrissent encore aujourd'hui les tensions entre l'Inde et le Pakistan."
+      },
+      "nl": {
+        "hook": "De opsplitsing van India en Pakistan veroorzaakte de grootste massamigratie uit de geschiedenis.",
+        "fact": "De Opdeling van Brits-Indië in India en Pakistan in 1947 verdreef naar schatting 15 miljoen mensen langs religieuze lijnen en ging gepaard met gruwelijk geweld dat honderdduizenden tot ruim een miljoen mensen het leven kostte.",
+        "whyItMatters": "Het overhaaste, slecht voorbereide trekken van de grenzen liet geschillen achter, zoals Kasjmir, die de spanningen tussen India en Pakistan tot op vandaag aanwakkeren."
+      },
+      "es": {
+        "hook": "La separación de India y Pakistán desató la mayor migración masiva de la historia.",
+        "fact": "La Partición de la India británica en India y Pakistán, en 1947, desplazó a unos 15 millones de personas según criterios religiosos y estuvo acompañada de una violencia atroz que causó desde cientos de miles hasta más de un millón de muertos.",
+        "whyItMatters": "El trazado apresurado y mal planificado de las fronteras dejó disputas, como la de Cachemira, que todavía hoy alimentan la tensión entre India y Pakistán."
+      }
+    }
   },
   {
     "id": "history-186",
@@ -3529,7 +4513,21 @@
     "tags": [
       "china",
       "famine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La course de la Chine vers la puissance industrielle a provoqué la famine la plus meurtrière jamais enregistrée.",
+        "fact": "Le Grand Bond en avant de Mao Zedong, de 1958 à 1962, a imposé une collectivisation accélérée et des objectifs industriels irréalistes, entraînant une famine qui aurait fait entre 15 et 45 millions de morts."
+      },
+      "nl": {
+        "hook": "China's sprong naar industriële grootmacht veroorzaakte de dodelijkste hongersnood ooit geregistreerd.",
+        "fact": "Mao Zedongs Grote Sprong Voorwaarts, van 1958 tot 1962, dwong een razendsnelle collectivisatie en onrealistische industriële doelen af, wat leidde tot een hongersnood die naar schatting 15 tot 45 miljoen mensen het leven kostte."
+      },
+      "es": {
+        "hook": "El salto de China hacia la potencia industrial provocó la hambruna más mortífera jamás registrada.",
+        "fact": "El Gran Salto Adelante de Mao Zedong, de 1958 a 1962, impuso una colectivización acelerada y objetivos industriales irreales, lo que desembocó en una hambruna que se estima mató a entre 15 y 45 millones de personas."
+      }
+    }
   },
   {
     "id": "history-187",
@@ -3539,7 +4537,21 @@
     "tags": [
       "africa",
       "independence"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'indépendance du Ghana a lancé une vague qui a déferlé sur toute l'Afrique.",
+        "fact": "En 1957, le Ghana est devenue la première colonie d'Afrique subsaharienne à obtenir son indépendance de la tutelle européenne, et le succès de son dirigeant Kwame Nkrumah a inspiré des mouvements indépendantistes sur tout le continent au cours de la décennie suivante."
+      },
+      "nl": {
+        "hook": "De onafhankelijkheid van Ghana zette een golf in gang die heel Afrika overspoelde.",
+        "fact": "In 1957 werd Ghana de eerste kolonie in Sub-Sahara-Afrika die onafhankelijk werd van Europees bestuur. Het succes van leider Kwame Nkrumah inspireerde in het decennium daarna onafhankelijkheidsbewegingen over het hele continent."
+      },
+      "es": {
+        "hook": "La independencia de Ghana desató una ola que recorrió toda África.",
+        "fact": "En 1957, Ghana se convirtió en la primera colonia del África subsahariana en independizarse del dominio europeo, y el éxito de su líder Kwame Nkrumah inspiró movimientos independentistas por todo el continente durante la década siguiente."
+      }
+    }
   },
   {
     "id": "history-188",
@@ -3549,7 +4561,21 @@
     "tags": [
       "africa",
       "independence"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier Premier ministre du Congo a été assassiné quelques mois après l'indépendance.",
+        "fact": "Patrice Lumumba est devenu le premier Premier ministre démocratiquement élu du Congo après l'indépendance vis-à-vis de la Belgique en 1960, mais il a été écarté du pouvoir en quelques mois puis assassiné en 1961, sur fond d'ingérences politiques liées à la guerre froide."
+      },
+      "nl": {
+        "hook": "De eerste premier van Congo werd binnen enkele maanden na de onafhankelijkheid vermoord.",
+        "fact": "Patrice Lumumba werd na de onafhankelijkheid van België in 1960 de eerste democratisch gekozen premier van Congo, maar hij werd binnen enkele maanden afgezet en in 1961 vermoord, te midden van politieke inmenging uit de Koude Oorlog."
+      },
+      "es": {
+        "hook": "El primer primer ministro del Congo fue asesinado a los pocos meses de la independencia.",
+        "fact": "Patrice Lumumba se convirtió en el primer jefe de gobierno del Congo elegido democráticamente tras la independencia de Bélgica en 1960, pero fue destituido en cuestión de meses y asesinado en 1961, en medio de la injerencia política propia de la Guerra Fría."
+      }
+    }
   },
   {
     "id": "history-189",
@@ -3559,7 +4585,21 @@
     "tags": [
       "africa",
       "independence"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La France a mené une guerre de huit ans pour garder l'Algérie française.",
+        "fact": "La guerre d'indépendance algérienne, de 1954 à 1962, a été marquée par des méthodes brutales des deux côtés, dont le recours massif à la torture par les forces françaises, avant que l'Algérie n'obtienne son indépendance en 1962."
+      },
+      "nl": {
+        "hook": "Frankrijk voerde acht jaar oorlog om Algerije bij Frankrijk te houden.",
+        "fact": "De Algerijnse Onafhankelijkheidsoorlog, van 1954 tot 1962, werd gekenmerkt door wreedheden aan beide kanten, waaronder wijdverbreide marteling door Franse troepen, voordat Algerije in 1962 zijn onafhankelijkheid won."
+      },
+      "es": {
+        "hook": "Francia libró una guerra de ocho años para mantener Argelia como parte de Francia.",
+        "fact": "La Guerra de Independencia de Argelia, de 1954 a 1962, estuvo marcada por tácticas brutales por ambas partes, incluida la tortura generalizada por parte de las fuerzas francesas, antes de que Argelia lograra su independencia en 1962."
+      }
+    }
   },
   {
     "id": "history-190",
@@ -3569,7 +4609,21 @@
     "tags": [
       "africa",
       "independence"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des Kényans en lutte contre la colonisation britannique ont été internés dans des camps où des décennies plus tard on a reconnu des sévices systématiques.",
+        "fact": "Pendant la révolte des Mau Mau contre la domination coloniale britannique dans les années 1950, les autorités britanniques ont détenu des dizaines de milliers de Kényans dans des camps où beaucoup ont subi des sévices ; le Royaume-Uni a fini par indemniser les victimes après des décennies de batailles judiciaires."
+      },
+      "nl": {
+        "hook": "Kenianen die zich tegen het Britse koloniale bewind verzetten, zaten in kampen waar decennia later systematisch misbruik werd vastgesteld.",
+        "fact": "Tijdens de Mau Mau-opstand tegen het Britse koloniale bewind in de jaren vijftig sloten de Britse autoriteiten tienduizenden Kenianen op in kampen, waar velen werden mishandeld. Groot-Brittannië betaalde de slachtoffers later een schadevergoeding, na decennia van juridische strijd."
+      },
+      "es": {
+        "hook": "Kenianos que combatían el dominio colonial británico acabaron en campos donde décadas después se probaron abusos sistemáticos.",
+        "fact": "Durante el levantamiento Mau Mau contra el dominio colonial británico en los años cincuenta, las autoridades británicas recluyeron a decenas de miles de kenianos en campos donde muchos sufrieron abusos; Gran Bretaña acabó indemnizando a las víctimas tras décadas de batallas judiciales."
+      }
+    }
   },
   {
     "id": "history-191",
@@ -3579,7 +4633,21 @@
     "tags": [
       "asia",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une conférence de 1955 réunissant de jeunes nations indépendantes a lancé un mouvement mondial.",
+        "fact": "La conférence de Bandung de 1955 a réuni les dirigeants de 29 nations d'Asie et d'Afrique pour promouvoir la solidarité face au colonialisme, posant les bases du Mouvement des non-alignés né pendant la guerre froide."
+      },
+      "nl": {
+        "hook": "Een conferentie van pas onafhankelijke landen in 1955 gaf de aanzet tot een wereldwijde beweging.",
+        "fact": "De Bandung-conferentie van 1955 bracht leiders uit 29 Aziatische en Afrikaanse landen samen om solidariteit tegen het kolonialisme te bevorderen. Zij legde de basis voor de Beweging van Niet-Gebonden Landen die tijdens de Koude Oorlog ontstond."
+      },
+      "es": {
+        "hook": "Una conferencia de 1955 entre naciones recién independizadas puso en marcha un movimiento global.",
+        "fact": "La Conferencia de Bandung de 1955 reunió a líderes de 29 naciones asiáticas y africanas para promover la solidaridad frente al colonialismo, sentando las bases del Movimiento de Países No Alineados que surgió durante la Guerra Fría."
+      }
+    }
   },
   {
     "id": "history-192",
@@ -3589,7 +4657,21 @@
     "tags": [
       "vietnam",
       "independence"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La déclaration d'indépendance du Vietnam a emprunté sa première phrase à celle des États-Unis.",
+        "fact": "Lorsque Hô Chi Minh a proclamé l'indépendance du Vietnam vis-à-vis de la France en 1945, il a ouvert son discours en citant la phrase de la Déclaration d'indépendance américaine selon laquelle tous les hommes naissent égaux."
+      },
+      "nl": {
+        "hook": "Vietnams onafhankelijkheidsverklaring leende haar openingszin van die van Amerika.",
+        "fact": "Toen Ho Chi Minh in 1945 de Vietnamese onafhankelijkheid van Frankrijk uitriep, opende hij zijn toespraak met een citaat uit de Amerikaanse Onafhankelijkheidsverklaring over het feit dat alle mensen gelijk geschapen zijn."
+      },
+      "es": {
+        "hook": "La declaración de independencia de Vietnam tomó prestada su primera frase de la de Estados Unidos.",
+        "fact": "Cuando Ho Chi Minh proclamó la independencia de Vietnam frente a Francia en 1945, abrió su discurso citando la frase de la Declaración de Independencia estadounidense sobre que todos los hombres son creados iguales."
+      }
+    }
   },
   {
     "id": "history-193",
@@ -3600,7 +4682,24 @@
     "tags": [
       "korea",
       "cold-war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La guerre de Corée ne s'est jamais officiellement terminée.",
+        "fact": "La guerre de Corée, de 1950 à 1953, s'est conclue par un armistice et non par un traité de paix, ce qui signifie que la Corée du Nord et la Corée du Sud sont techniquement en état de guerre depuis plus de sept décennies.",
+        "whyItMatters": "C'est parce que ce conflit n'a jamais été réglé que la zone démilitarisée coréenne reste l'une des frontières les plus fortifiées de la planète."
+      },
+      "nl": {
+        "hook": "De Koreaanse Oorlog is nooit officieel geëindigd.",
+        "fact": "De Koreaanse Oorlog, van 1950 tot 1953, eindigde met een wapenstilstand en niet met een vredesverdrag. Daardoor verkeren Noord- en Zuid-Korea formeel al ruim zeven decennia in staat van oorlog.",
+        "whyItMatters": "Doordat de oorlog nooit is afgesloten, blijft de Koreaanse gedemilitariseerde zone een van de zwaarst bewaakte grenzen ter wereld."
+      },
+      "es": {
+        "hook": "La Guerra de Corea nunca terminó oficialmente.",
+        "fact": "La Guerra de Corea, de 1950 a 1953, concluyó con un armisticio y no con un tratado de paz, lo que significa que Corea del Norte y Corea del Sur llevan técnicamente más de siete décadas en estado de guerra.",
+        "whyItMatters": "Que la guerra siga sin resolverse es la razón por la que la Zona Desmilitarizada de Corea continúa siendo una de las fronteras más fortificadas del planeta."
+      }
+    }
   },
   {
     "id": "history-194",
@@ -3610,7 +4709,21 @@
     "tags": [
       "cold-war",
       "cuba"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le monde a frôlé la guerre nucléaire à cause de missiles installés à 150 kilomètres de la Floride.",
+        "fact": "Lors de la crise des missiles de Cuba, en 1962, la découverte de missiles nucléaires soviétiques à Cuba a mené les États-Unis et l'URSS au bord du conflit nucléaire pendant treize jours de très forte tension, avant qu'une solution diplomatique ne soit trouvée."
+      },
+      "nl": {
+        "hook": "De wereld stond aan de rand van een kernoorlog om raketten op 150 kilometer van Florida.",
+        "fact": "Tijdens de Cubacrisis van 1962 bracht de ontdekking van Sovjet-kernraketten op Cuba de VS en de USSR dertien gespannen dagen lang op de rand van een nucleair conflict, tot er een diplomatieke oplossing kwam."
+      },
+      "es": {
+        "hook": "El mundo rozó la guerra nuclear por unos misiles a 150 kilómetros de Florida.",
+        "fact": "Durante la Crisis de los Misiles de Cuba de 1962, el descubrimiento de misiles nucleares soviéticos en la isla llevó a Estados Unidos y la URSS al borde del conflicto nuclear durante trece días de máxima tensión, hasta que se alcanzó una solución diplomática."
+      }
+    }
   },
   {
     "id": "history-195",
@@ -3621,7 +4734,24 @@
     "tags": [
       "iran",
       "cold-war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un coup d'État secret a renversé le Premier ministre iranien démocratiquement élu en 1953.",
+        "fact": "En 1953, un coup d'État orchestré avec le soutien des services de renseignement américains et britanniques a écarté le Premier ministre iranien Mohammad Mossadegh après qu'il eut nationalisé l'industrie pétrolière du pays, rétablissant le chah avec des pouvoirs accrus.",
+        "whyItMatters": "De nombreux historiens voient dans le ressentiment né de ce coup d'État un facteur clé de la révolution iranienne de 1979, des décennies plus tard."
+      },
+      "nl": {
+        "hook": "Een geheime staatsgreep zette in 1953 de democratisch gekozen premier van Iran af.",
+        "fact": "In 1953 zette een staatsgreep, opgezet met steun van Amerikaanse en Britse inlichtingendiensten, de Iraanse premier Mohammad Mossadegh af nadat hij de olie-industrie van het land had genationaliseerd. De sjah kwam terug aan de macht, met meer bevoegdheden dan voorheen.",
+        "whyItMatters": "Veel historici zien de wrok over deze staatsgreep als een sleutelfactor achter de Iraanse Revolutie van 1979, decennia later."
+      },
+      "es": {
+        "hook": "Un golpe encubierto derrocó al primer ministro iraní elegido democráticamente en 1953.",
+        "fact": "En 1953, un golpe de Estado orquestado con apoyo de los servicios de inteligencia de Estados Unidos y Gran Bretaña destituyó al primer ministro iraní Mohammad Mosaddeq después de que nacionalizara la industria petrolera del país, restituyendo al sah con más poder.",
+        "whyItMatters": "Muchos historiadores señalan el resentimiento que dejó este golpe como un factor clave que alimentó la Revolución Iraní de 1979, décadas más tarde."
+      }
+    }
   },
   {
     "id": "history-196",
@@ -3631,7 +4761,21 @@
     "tags": [
       "space",
       "cold-war"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le satellite qui a lancé la course à l'espace était plus petit qu'un ballon de plage.",
+        "fact": "Spoutnik 1, lancé par l'Union soviétique en octobre 1957, a été le premier satellite artificiel en orbite ; d'environ 58 centimètres de diamètre, son lancement a déclenché aux États-Unis une vague d'inquiétude et d'investissements qui allait devenir la course à l'espace."
+      },
+      "nl": {
+        "hook": "De satelliet die de ruimtewedloop startte was kleiner dan een strandbal.",
+        "fact": "Spoetnik 1 van de Sovjet-Unie, gelanceerd in oktober 1957, was de eerste kunstmatige satelliet in een baan om de aarde en had een doorsnede van zo'n 58 centimeter. De lancering veroorzaakte in de VS een golf van onrust en investeringen die uitmondde in de ruimtewedloop."
+      },
+      "es": {
+        "hook": "El satélite que inició la carrera espacial era más pequeño que un balón de playa.",
+        "fact": "El Sputnik 1 soviético, lanzado en octubre de 1957, fue el primer satélite artificial en órbita y medía unos 58 centímetros de diámetro; su lanzamiento desató en Estados Unidos una oleada de inquietud e inversión que se convirtió en la carrera espacial."
+      }
+    }
   },
   {
     "id": "history-197",
