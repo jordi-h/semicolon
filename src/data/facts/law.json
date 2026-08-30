@@ -13,19 +13,8 @@
   {
     "id": "law-002",
     "domain": "law",
-    "hook": "Rome's first written laws were cast in bronze, not carved in stone.",
-    "fact": "Around 450 BCE, Rome's Twelve Tables were inscribed on bronze tablets and displayed in the Forum so ordinary citizens could see the laws that governed them. The original bronze tablets were destroyed when Gauls sacked Rome decades later, so the text survives only through later quotations.",
-    "tags": [
-      "ancient-law",
-      "rome",
-      "legal-history"
-    ]
-  },
-  {
-    "id": "law-003",
-    "domain": "law",
     "hook": "Only three clauses of the original Magna Carta are still law in England.",
-    "fact": "Magna Carta was issued in 1215 with 63 clauses, most addressing feudal grievances specific to that era. Only three of those clauses remain in force in English law today, including guarantees of the freedom of the English Church and of due process before the law.",
+    "fact": "Magna Carta was issued in 1215 with 63 clauses, most addressing feudal grievances specific to that era. Three clauses remain on the English statute book today — including guarantees of the freedom of the English Church and of due process — though they survive in the form confirmed by the 1297 reissue rather than the 1215 original.",
     "tags": [
       "magna-carta",
       "constitutional-law",
@@ -33,7 +22,7 @@
     ]
   },
   {
-    "id": "law-004",
+    "id": "law-003",
     "domain": "law",
     "hook": "No one is certain why English juries settled on the number twelve.",
     "fact": "Common law's twelve-person jury has no single documented origin, though historians often trace it to Anglo-Saxon 'compurgation,' a practice in which an accused person could clear their name if twelve people swore oaths vouching for their honesty. By the time trial by jury spread across England in the 13th century, twelve had simply become the standard.",
@@ -44,7 +33,7 @@
     ]
   },
   {
-    "id": "law-005",
+    "id": "law-004",
     "domain": "law",
     "hook": "The legal term 'habeas corpus' literally means 'you shall have the body.'",
     "fact": "Habeas corpus is a Latin legal phrase that translates roughly to 'you shall have the body,' referring to a court order demanding that a detained person be physically brought before a judge. It exists to prevent someone from being imprisoned indefinitely without a court reviewing the legal reason for it.",
@@ -55,7 +44,7 @@
     ]
   },
   {
-    "id": "law-006",
+    "id": "law-005",
     "domain": "law",
     "hook": "The 'right to remain silent' warning comes from a single 1966 court case.",
     "fact": "In Miranda v. Arizona (1966), the U.S. Supreme Court ruled that police must inform suspects of their right to remain silent and to an attorney before questioning them in custody. The case is named for Ernesto Miranda, whose confession was thrown out because he had never been told those rights.",
@@ -67,18 +56,7 @@
     ]
   },
   {
-    "id": "law-007",
-    "domain": "law",
-    "hook": "The word 'filibuster' comes from an old term for pirates.",
-    "fact": "Filibuster derives from the Dutch word 'vrijbuiter' (freebooter), which passed through Spanish as 'filibustero' and originally described pirates and mercenaries raiding the Caribbean in the 1800s. The term later shifted to describe lawmakers who 'hijack' legislative debate with prolonged speeches to delay a vote.",
-    "tags": [
-      "etymology",
-      "legislatures",
-      "word-origins"
-    ]
-  },
-  {
-    "id": "law-008",
+    "id": "law-006",
     "domain": "law",
     "hook": "Australians can be fined for skipping a national election.",
     "fact": "Australia has required citizens to vote in federal elections since 1924, and those who fail to vote without a valid reason can be issued a small fine. The policy has kept voter turnout above 90 percent in most elections since it began.",
@@ -89,7 +67,7 @@
     ]
   },
   {
-    "id": "law-009",
+    "id": "law-007",
     "domain": "law",
     "hook": "One national parliament has just nineteen seats.",
     "fact": "Nauru, an island nation of about 10,000 people in the Pacific, elects a 19-seat parliament, making it one of the smallest national legislatures in the world. Members are elected from just a handful of small constituencies across the island.",
@@ -100,7 +78,7 @@
     ]
   },
   {
-    "id": "law-010",
+    "id": "law-008",
     "domain": "law",
     "hook": "The Vatican is the world's only fully elective absolute monarchy.",
     "fact": "Vatican City is governed as an absolute monarchy in which the pope, elected for life by a conclave of cardinals, holds supreme legislative, executive, and judicial authority. It is the smallest sovereign state in the world by both area and population.",
@@ -111,7 +89,7 @@
     ]
   },
   {
-    "id": "law-011",
+    "id": "law-009",
     "domain": "law",
     "hook": "The United Kingdom has never had a single written constitution.",
     "fact": "Unlike most countries, the United Kingdom's constitution is not contained in one codified document. Instead, it is built from a mix of historical statutes, court rulings, and long-standing conventions, some of which are not formally written down anywhere at all.",
@@ -121,7 +99,7 @@
     ]
   },
   {
-    "id": "law-012",
+    "id": "law-010",
     "domain": "law",
     "hook": "Norway's constitution is the second-oldest single-document constitution still in use.",
     "fact": "Norway adopted its constitution on 17 May 1814, and despite being amended many times since, it remains in continuous use today. Only the United States Constitution, ratified in 1788, is older among still-active single-document constitutions.",
@@ -131,7 +109,7 @@
     ]
   },
   {
-    "id": "law-013",
+    "id": "law-011",
     "domain": "law",
     "hook": "Bhutan's king voluntarily gave up absolute power to become a democracy.",
     "fact": "In the 2000s, Bhutan's monarch pushed the country toward democratic reform even though no public movement demanded it, drafting a new constitution and holding the country's first-ever national elections in 2008. Bhutan has been a constitutional monarchy with an elected parliament ever since.",
@@ -142,7 +120,7 @@
     ]
   },
   {
-    "id": "law-014",
+    "id": "law-012",
     "domain": "law",
     "hook": "Ancient Athenians voted to exile their own citizens using broken pottery.",
     "fact": "In ancient Athens, citizens could vote once a year to banish a fellow citizen for ten years by scratching a name onto a broken piece of pottery called an ostrakon. The practice, called ostracism, was meant to remove people seen as a threat to democracy before they could seize too much power, and it did not require any crime to have been committed.",
@@ -153,7 +131,7 @@
     ]
   },
   {
-    "id": "law-015",
+    "id": "law-013",
     "domain": "law",
     "hook": "Roman politicians had to climb a fixed ladder of offices in a set order.",
     "fact": "The cursus honorum was the sequential order of public offices that ambitious Romans were expected to hold, typically starting as quaestor, then aedile, then praetor, before finally reaching consul. Each office had a minimum age requirement, and skipping a rung was considered a serious breach of political norms.",
@@ -164,7 +142,7 @@
     ]
   },
   {
-    "id": "law-016",
+    "id": "law-014",
     "domain": "law",
     "hook": "One senator once talked for over twenty-four hours straight to block a bill.",
     "fact": "In 1957, U.S. Senator Strom Thurmond spoke for 24 hours and 18 minutes on the Senate floor in an attempt to block the Civil Rights Act of 1957, reading from phone books and other material to keep talking. It remains the longest individual filibuster in U.S. Senate history.",
@@ -175,7 +153,7 @@
     ]
   },
   {
-    "id": "law-017",
+    "id": "law-015",
     "domain": "law",
     "hook": "One 1945 trial was the first to convict individuals of crimes against humanity.",
     "fact": "The Nuremberg trials, held from 1945 to 1946, prosecuted senior Nazi officials before an international military tribunal, marking the first time individuals were tried and convicted for the legally defined offense of 'crimes against humanity.' The tribunal's charter, drafted by the Allied powers, also created new legal categories for crimes against peace and war crimes committed by government officials.",
@@ -187,7 +165,7 @@
     ]
   },
   {
-    "id": "law-018",
+    "id": "law-016",
     "domain": "law",
     "hook": "The core rules of humane warfare are contained in just four treaties.",
     "fact": "The modern Geneva Conventions consist of four treaties finalized in 1949, covering the treatment of wounded soldiers, shipwrecked combatants, prisoners of war, and civilians during armed conflict. Nearly every country in the world has formally agreed to be bound by them.",
@@ -198,7 +176,7 @@
     ]
   },
   {
-    "id": "law-019",
+    "id": "law-017",
     "domain": "law",
     "hook": "Five countries can each single-handedly block any UN Security Council resolution.",
     "fact": "The United Nations Security Council has five permanent members — China, France, Russia, the United Kingdom, and the United States — each of whom can veto any substantive resolution regardless of how the other members vote. The other ten council seats rotate among UN member states for two-year terms and carry no veto power.",
@@ -210,7 +188,7 @@
     ]
   },
   {
-    "id": "law-020",
+    "id": "law-018",
     "domain": "law",
     "hook": "The World Court and the International Criminal Court are not the same institution.",
     "fact": "The International Court of Justice (ICJ) settles legal disputes between countries and is a core body of the United Nations, while the International Criminal Court (ICC) prosecutes individual people for crimes such as genocide and war crimes under a separate treaty. Both courts sit in The Hague, Netherlands, but they have different memberships, mandates, and founding documents.",
@@ -221,7 +199,7 @@
     ]
   },
   {
-    "id": "law-021",
+    "id": "law-019",
     "domain": "law",
     "hook": "Foreign embassies are not actually foreign soil.",
     "fact": "Under the 1961 Vienna Convention on Diplomatic Relations, an embassy's land remains legally part of the host country's territory. The treaty simply requires that host authorities not enter the premises without permission and that diplomats be immune from local arrest, which feeds the popular myth that embassies are foreign ground.",
@@ -232,18 +210,7 @@
     ]
   },
   {
-    "id": "law-022",
-    "domain": "law",
-    "hook": "A country's territorial waters extend exactly twelve nautical miles from its coast.",
-    "fact": "Under the UN Convention on the Law of the Sea, finalized in 1982, a coastal country's territorial sea extends up to 12 nautical miles from its coastline, and within that zone it holds the same sovereignty it has over its land. Beyond that lies a wider 200-nautical-mile exclusive economic zone where the country controls resources but not full sovereignty.",
-    "tags": [
-      "law-of-the-sea",
-      "international-law",
-      "maritime-law"
-    ]
-  },
-  {
-    "id": "law-023",
+    "id": "law-020",
     "domain": "law",
     "hook": "Medieval courts sometimes decided guilt by throwing the accused into water.",
     "fact": "In medieval trial by ordeal, an accused person could be bound and lowered into a pool of water that a priest had blessed; sinking was taken as a sign of innocence since the 'pure' water was thought to accept an innocent person, while floating was treated as proof of guilt. The Catholic Church banned clergy from participating in these ordeals in 1215, which pushed European courts toward jury trials instead.",
@@ -254,7 +221,7 @@
     ]
   },
   {
-    "id": "law-024",
+    "id": "law-021",
     "domain": "law",
     "hook": "England once had a royal court so notorious its name became an insult.",
     "fact": "The Star Chamber was an English royal court that met in secret without a jury, originally created to hear cases against powerful nobles who could intimidate ordinary juries. Over time it became associated with arbitrary and oppressive rulings by the monarchy, and Parliament abolished it in 1641; the phrase 'star chamber' is still used today to describe a secretive or unfair legal proceeding.",
@@ -265,7 +232,7 @@
     ]
   },
   {
-    "id": "law-025",
+    "id": "law-022",
     "domain": "law",
     "hook": "A land-inheritance rule from the 6th century once decided who could be king of France.",
     "fact": "The Salic Law, a Frankish legal code from around 500 CE, contained a clause originally about inheriting land that barred it from passing through the female line. Centuries later, French royal lawyers cited that same clause to argue women could not inherit the French throne, a ruling that helped trigger a succession dispute with England known as the Hundred Years' War.",
@@ -276,7 +243,7 @@
     ]
   },
   {
-    "id": "law-026",
+    "id": "law-023",
     "domain": "law",
     "hook": "A 1689 law that limited the English king's power directly shaped the U.S. Bill of Rights.",
     "fact": "The English Bill of Rights of 1689 barred the monarch from suspending laws or keeping a standing army without Parliament's consent, guaranteed free parliamentary elections, and prohibited cruel and unusual punishment. Drafters of the U.S. Bill of Rights borrowed several of these same protections almost exactly a century later.",
@@ -287,10 +254,10 @@
     ]
   },
   {
-    "id": "law-027",
+    "id": "law-024",
     "domain": "law",
     "hook": "The word 'Senate' literally means 'assembly of old men.'",
-    "fact": "The Latin word 'senatus' derives from 'senex,' meaning 'old man,' reflecting the Roman Senate's origin as a council of elder advisors to the city's early kings. The term stuck even as the body evolved into the central legislative institution of the Roman Republic and later an advisory body under the empire.",
+    "fact": "The Latin word 'senatus' derives from 'senex,' meaning 'old man,' reflecting the Roman Senate's origin as a council of elder advisors to the city's early kings. The name stuck even though laws were formally passed by the popular assemblies, with the Senate's decrees carrying enormous influence rather than binding force.",
     "tags": [
       "etymology",
       "rome",
@@ -298,7 +265,7 @@
     ]
   },
   {
-    "id": "law-028",
+    "id": "law-025",
     "domain": "law",
     "hook": "The word 'parliament' comes from the French word for 'to speak.'",
     "fact": "'Parliament' traces back to the Old French word 'parlement,' itself from 'parler,' meaning 'to speak.' It originally referred to any formal discussion or conference before narrowing, in England, to describe the specific assembly that advised and later checked the power of the monarch.",
@@ -309,7 +276,7 @@
     ]
   },
   {
-    "id": "law-029",
+    "id": "law-026",
     "domain": "law",
     "hook": "Swiss citizens can force a nationwide vote on almost any law parliament passes.",
     "fact": "In Switzerland, if citizens collect 50,000 signatures within 100 days of a new federal law being published, they can force that law to a nationwide public referendum. Citizens can also propose entirely new constitutional amendments by gathering 100,000 signatures, a process used several times nearly every year.",
@@ -320,18 +287,7 @@
     ]
   },
   {
-    "id": "law-030",
-    "domain": "law",
-    "hook": "One European country has two foreign heads of state at the same time.",
-    "fact": "Andorra is a co-principality whose two heads of state are the President of France and the Spanish Bishop of Urgell, an arrangement that dates back to a feudal agreement signed in 1278. Neither co-prince lives in Andorra, and both roles are largely ceremonial today.",
-    "tags": [
-      "andorra",
-      "monarchy",
-      "political-institutions"
-    ]
-  },
-  {
-    "id": "law-031",
+    "id": "law-027",
     "domain": "law",
     "hook": "San Marino has had two co-rulers switch out every six months for centuries.",
     "fact": "San Marino's head of state is a pair of Captains Regent, elected jointly by parliament to serve just six-month terms before a new pair takes over. The practice of sharing power between two co-equal leaders has continued largely unbroken since medieval times.",
@@ -342,7 +298,7 @@
     ]
   },
   {
-    "id": "law-032",
+    "id": "law-028",
     "domain": "law",
     "hook": "A 6th-century emperor's law code still shapes legal systems across Europe.",
     "fact": "Byzantine Emperor Justinian I commissioned a massive compilation of Roman law between 529 and 534 CE, later known as the Corpus Juris Civilis. The compilation preserved centuries of Roman legal thought and became a foundational reference for the civil law systems used across most of continental Europe today.",
@@ -353,7 +309,7 @@
     ]
   },
   {
-    "id": "law-033",
+    "id": "law-029",
     "domain": "law",
     "hook": "One 1804 legal code still forms the backbone of law in dozens of countries.",
     "fact": "The French Civil Code, enacted under Napoleon in 1804 and often called the Napoleonic Code, replaced a patchwork of regional feudal laws with a single unified system covering property, contracts, and family law. It became the model for civil law systems adopted across much of Europe, Latin America, and parts of Africa and the Middle East.",
@@ -364,7 +320,7 @@
     ]
   },
   {
-    "id": "law-034",
+    "id": "law-030",
     "domain": "law",
     "hook": "An English king created an early ancestor of the modern jury in 1166.",
     "fact": "In 1166, King Henry II issued the Assize of Clarendon, which created panels of local men responsible for formally accusing suspected criminals in their community. Guilt itself was still typically decided by trial by ordeal for decades afterward, but the accusing panels are considered an early ancestor of the modern jury system.",
@@ -375,7 +331,7 @@
     ]
   },
   {
-    "id": "law-035",
+    "id": "law-031",
     "domain": "law",
     "hook": "Ancient Athens ran its government with no elected representatives at all.",
     "fact": "In ancient Athens, major decisions on laws, war, and public spending were made directly by the Assembly, open to any adult male citizen who showed up, rather than by elected representatives. Attendance could number in the thousands, and decisions were made by a direct show of hands.",
@@ -386,7 +342,7 @@
     ]
   },
   {
-    "id": "law-036",
+    "id": "law-032",
     "domain": "law",
     "hook": "India's constitution is the longest written constitution of any country.",
     "fact": "When it was adopted in 1949, India's constitution contained 395 articles organized into 22 parts, plus eight schedules of additional detail, making it the longest written constitution of any sovereign nation. It has since been amended over a hundred times and has grown even longer.",
@@ -396,7 +352,7 @@
     ]
   },
   {
-    "id": "law-037",
+    "id": "law-033",
     "domain": "law",
     "hook": "Common law courts are bound by a Latin principle meaning 'let it stand.'",
     "fact": "Stare decisis, Latin for 'to stand by things decided,' is the common law principle that courts should follow precedents set by earlier rulings in similar cases rather than deciding each case from scratch. The doctrine is meant to make legal outcomes more predictable and consistent over time.",
@@ -407,18 +363,7 @@
     ]
   },
   {
-    "id": "law-038",
-    "domain": "law",
-    "hook": "Iceland founded a parliament in the year 930 that still exists today.",
-    "fact": "Icelandic chieftains established the Althing in 930 CE at Þingvellir, making it the oldest parliament still in existence. It lost most of its power under Danish rule but was revived in 1845 and continues to sit in Reykjavik.",
-    "tags": [
-      "parliaments",
-      "iceland",
-      "legal-history"
-    ]
-  },
-  {
-    "id": "law-039",
+    "id": "law-034",
     "domain": "law",
     "hook": "San Marino's constitution has stayed in force since the year 1600.",
     "fact": "San Marino's Leges Statutae Republicae Sancti Marini, adopted in 1600, is widely considered the oldest written constitution still in force in the world. It still forms the legal basis of the country's government today.",
@@ -429,7 +374,7 @@
     ]
   },
   {
-    "id": "law-040",
+    "id": "law-035",
     "domain": "law",
     "hook": "San Marino is led by two heads of state who serve only six months at a time.",
     "fact": "San Marino elects two Captains Regent every six months to jointly serve as co-heads of state, a system designed to keep any single leader from accumulating power. The Grand and General Council chooses the pair by secret ballot.",
@@ -440,18 +385,7 @@
     ]
   },
   {
-    "id": "law-041",
-    "domain": "law",
-    "hook": "One country's head of state is shared by a French president and a Spanish bishop.",
-    "fact": "Andorra is a co-principality whose two co-princes are, by treaty, the President of France and the Roman Catholic Bishop of Urgell in Spain. Neither official lives in Andorra; both hold the title automatically because of the other office they occupy.",
-    "tags": [
-      "andorra",
-      "heads-of-state",
-      "political-institutions"
-    ]
-  },
-  {
-    "id": "law-042",
+    "id": "law-036",
     "domain": "law",
     "hook": "Swiss women couldn't vote in federal elections until 1971.",
     "fact": "Switzerland gave women the right to vote in federal elections only after a 1971 referendum, decades after most other Western European countries. One canton, Appenzell Innerrhoden, held out on local voting rights until the federal supreme court forced it to comply in 1990.",
@@ -462,18 +396,7 @@
     ]
   },
   {
-    "id": "law-043",
-    "domain": "law",
-    "hook": "Bolivia has had two competing capital cities for over a century.",
-    "fact": "La Paz hosts Bolivia's executive and legislative branches and functions as the seat of government, while Sucre is the constitutionally designated capital and home to the judiciary. The split traces back to a short civil war between the two cities' regions in 1899.",
-    "tags": [
-      "bolivia",
-      "capitals",
-      "political-institutions"
-    ]
-  },
-  {
-    "id": "law-044",
+    "id": "law-037",
     "domain": "law",
     "hook": "The first international war crimes tribunal since Nuremberg didn't open until the 1990s.",
     "fact": "The UN Security Council created the International Criminal Tribunal for the former Yugoslavia in 1993 to prosecute crimes committed during the Balkan wars, the first international war crimes court established since Nuremberg. It was based in The Hague and issued its final judgment in 2017.",
@@ -484,7 +407,7 @@
     ]
   },
   {
-    "id": "law-045",
+    "id": "law-038",
     "domain": "law",
     "hook": "The first person ever convicted of genocide by an international court was tried in Tanzania.",
     "fact": "In 1998, the International Criminal Tribunal for Rwanda, seated in Arusha, Tanzania, convicted former mayor Jean-Paul Akayesu of genocide, the first genocide conviction by an international court. The tribunal was set up to prosecute crimes from the 1994 Rwandan genocide.",
@@ -495,7 +418,7 @@
     ]
   },
   {
-    "id": "law-046",
+    "id": "law-039",
     "domain": "law",
     "hook": "A former president was convicted by an international court for the first time since Nuremberg.",
     "fact": "In 2012, the Special Court for Sierra Leone convicted former Liberian president Charles Taylor of aiding war crimes and crimes against humanity committed during Sierra Leone's civil war. It was the first conviction of a former head of state by an international or hybrid tribunal since the Nuremberg era.",
@@ -506,7 +429,7 @@
     ]
   },
   {
-    "id": "law-047",
+    "id": "law-040",
     "domain": "law",
     "hook": "Cambodia's genocide tribunal mixed local and foreign judges on the same bench.",
     "fact": "The Extraordinary Chambers in the Courts of Cambodia, established in 2006, is a hybrid tribunal combining Cambodian and international judges to try senior Khmer Rouge leaders for crimes committed in the 1970s. It applies both Cambodian law and international legal standards.",
@@ -517,7 +440,7 @@
     ]
   },
   {
-    "id": "law-048",
+    "id": "law-041",
     "domain": "law",
     "hook": "The world didn't get a permanent international criminal court until 2002.",
     "fact": "The International Criminal Court was created by the Rome Statute, adopted in 1998 and entered into force in 2002, making it the first permanent court with the authority to prosecute individuals for genocide, war crimes, and crimes against humanity. It sits in The Hague.",
@@ -529,7 +452,7 @@
     ]
   },
   {
-    "id": "law-049",
+    "id": "law-042",
     "domain": "law",
     "hook": "The word \"genocide\" was invented by one lawyer in 1944.",
     "fact": "Polish-Jewish lawyer Raphael Lemkin coined the word \"genocide\" in his 1944 book Axis Rule in Occupied Europe, combining the Greek word for race or tribe with the Latin word for killing. Prosecutors used the term in the indictments at the Nuremberg trials the following year.",
@@ -540,7 +463,7 @@
     ]
   },
   {
-    "id": "law-050",
+    "id": "law-043",
     "domain": "law",
     "hook": "The Universal Declaration of Human Rights was adopted in Paris, not New York.",
     "fact": "The UN General Assembly adopted the Universal Declaration of Human Rights on December 10, 1948, at a session held in the Palais de Chaillot in Paris. The declaration is not legally binding, but it has shaped human rights law and national constitutions around the world ever since.",
@@ -551,7 +474,7 @@
     ]
   },
   {
-    "id": "law-051",
+    "id": "law-044",
     "domain": "law",
     "hook": "The international treaty banning genocide was adopted a full day before the UN's declaration of human rights.",
     "fact": "The UN General Assembly adopted the Convention on the Prevention and Punishment of the Crime of Genocide on December 9, 1948, one day before it adopted the Universal Declaration of Human Rights. The Genocide Convention was the first human rights treaty adopted by the UN.",
@@ -562,7 +485,7 @@
     ]
   },
   {
-    "id": "law-052",
+    "id": "law-045",
     "domain": "law",
     "hook": "Europe's human rights court has nothing to do with the European Union.",
     "fact": "The European Court of Human Rights sits in Strasbourg and hears cases under the European Convention on Human Rights, a treaty of the Council of Europe, a separate organization from the EU. A country can belong to the Council of Europe, and be subject to the court's rulings, without belonging to the EU at all.",
@@ -573,7 +496,7 @@
     ]
   },
   {
-    "id": "law-053",
+    "id": "law-046",
     "domain": "law",
     "hook": "The rule that diplomats can't be arrested abroad wasn't written into a treaty until 1961.",
     "fact": "The Vienna Convention on Diplomatic Relations, signed in 1961, codified long-standing customs into formal international law, including the principle that diplomats and their premises are immune from arrest, search, and prosecution in the host country. Nearly every country in the world has since become a party to it.",
@@ -584,7 +507,7 @@
     ]
   },
   {
-    "id": "law-054",
+    "id": "law-047",
     "domain": "law",
     "hook": "International law didn't fix how far a country's waters extend until 1982.",
     "fact": "The UN Convention on the Law of the Sea, adopted in 1982, established that a country's territorial waters extend 12 nautical miles from its coast and that it holds economic rights over resources up to 200 nautical miles out, in a zone called the exclusive economic zone. Before that treaty, countries disagreed widely on where their maritime borders ended.",
@@ -595,7 +518,7 @@
     ]
   },
   {
-    "id": "law-055",
+    "id": "law-048",
     "domain": "law",
     "hook": "A 1928 treaty renouncing war between nations is technically still in force today.",
     "fact": "The Kellogg-Briand Pact, signed by major world powers in 1928, committed its signatories to renounce war as an instrument of national policy. It failed to prevent World War II, but it was never repealed, and its ban on wars of aggression later influenced the charges brought at the Nuremberg trials.",
@@ -607,9 +530,9 @@
     ]
   },
   {
-    "id": "law-056",
+    "id": "law-049",
     "domain": "law",
-    "hook": "The United Nations was founded by 51 countries meeting in San Francisco.",
+    "hook": "The UN has 51 founding members, but only 50 were in the room.",
     "fact": "Representatives of 50 countries signed the UN Charter at the San Francisco Conference in 1945; Poland, which could not attend, signed later and is counted as the 51st founding member. The organization formally came into existence that October once enough countries had ratified the charter.",
     "tags": [
       "united-nations",
@@ -618,7 +541,7 @@
     ]
   },
   {
-    "id": "law-057",
+    "id": "law-050",
     "domain": "law",
     "hook": "One country is recognized by the UN as an entire nuclear-weapon-free zone by itself.",
     "fact": "In 2000, the UN General Assembly recognized Mongolia's self-declared status as a nuclear-weapon-free zone, making it the only such zone in the world consisting of a single state rather than a region. Mongolia sits between two nuclear powers, Russia and China.",
@@ -629,7 +552,7 @@
     ]
   },
   {
-    "id": "law-058",
+    "id": "law-051",
     "domain": "law",
     "hook": "One country's constitution names happiness, not GDP, as a goal of government.",
     "fact": "Bhutan's 2008 constitution enshrines Gross National Happiness as a guiding principle of state policy, directing the government to weigh well-being alongside economic growth. The country had already used some version of the concept to guide policy since the 1970s.",
@@ -640,7 +563,7 @@
     ]
   },
   {
-    "id": "law-059",
+    "id": "law-052",
     "domain": "law",
     "hook": "A European prince threatened to leave the country unless voters expanded his own powers.",
     "fact": "In a 2003 referendum, Liechtenstein's citizens voted to expand Prince Hans-Adam II's constitutional powers, including the right to veto legislation and dissolve parliament, after he threatened to move abroad if the changes failed. It gave the prince some of the strongest formal powers of any monarch left in Europe.",
@@ -651,7 +574,7 @@
     ]
   },
   {
-    "id": "law-060",
+    "id": "law-053",
     "domain": "law",
     "hook": "One country's constitution bans nuclear weapons from its own territory.",
     "fact": "Palau's 1981 constitution was the first in the world to prohibit the use, storage, or disposal of nuclear, biological, or chemical weapons on its soil. The provision required a supermajority to overturn, which delayed the country's compact with the United States for years.",
@@ -662,7 +585,7 @@
     ]
   },
   {
-    "id": "law-061",
+    "id": "law-054",
     "domain": "law",
     "hook": "Three Pacific nations let the US handle their defense in exchange for aid and open borders.",
     "fact": "The Marshall Islands, the Federated States of Micronesia, and Palau are each independent countries bound to the United States through a Compact of Free Association, under which the US provides defense and financial assistance and their citizens can live and work in the US without a visa. Each compact was negotiated separately after the countries left US-administered UN trusteeship.",
@@ -673,10 +596,10 @@
     ]
   },
   {
-    "id": "law-062",
+    "id": "law-055",
     "domain": "law",
     "hook": "One of the UN's main courts isn't headquartered in New York at all.",
-    "fact": "The International Court of Justice, the UN's principal judicial organ, sits in the Peace Palace in The Hague, making it the only one of the UN's six principal organs not based at UN headquarters in New York. It settles legal disputes between states, unlike the separate International Criminal Court, which prosecutes individuals.",
+    "fact": "The International Court of Justice, the UN’s principal judicial organ, sits in the Peace Palace in The Hague, making it the only one of the UN’s six principal organs not based at UN headquarters in New York. The arrangement dates from 1945, when the court inherited both the building and the role of its pre-war predecessor.",
     "tags": [
       "international-court-of-justice",
       "united-nations",
@@ -684,7 +607,7 @@
     ]
   },
   {
-    "id": "law-063",
+    "id": "law-056",
     "domain": "law",
     "hook": "Several of the world's most powerful countries have never joined the court meant to prosecute war crimes.",
     "fact": "The United States, China, Russia, and India are among the countries that have never ratified the Rome Statute establishing the International Criminal Court. As a result, the court generally cannot prosecute their citizens unless the UN Security Council refers a specific case.",
@@ -696,7 +619,7 @@
     ]
   },
   {
-    "id": "law-064",
+    "id": "law-057",
     "domain": "law",
     "hook": "One country moved its own time zone so no part of it would ever be a day behind the rest.",
     "fact": "In 1995, Kiribati shifted the eastern part of its territory across the international date line so that the whole country would share the same calendar date. Before the change, the two sides of Kiribati were a full day apart despite being part of the same nation.",
@@ -707,7 +630,7 @@
     ]
   },
   {
-    "id": "law-065",
+    "id": "law-058",
     "domain": "law",
     "hook": "One European royal family has ruled the same territory since the year 1297.",
     "fact": "Monaco's House of Grimaldi has ruled the principality, with a few interruptions, since Francesco Grimaldi seized its fortress in 1297, making it one of the longest-reigning royal families in the world. Monaco's current constitution, adopted in 1962, kept the family as constitutional monarchs while granting citizens an elected National Council.",
@@ -718,7 +641,7 @@
     ]
   },
   {
-    "id": "law-066",
+    "id": "law-059",
     "domain": "law",
     "hook": "Switzerland hosted a UN headquarters for decades before it actually joined the UN.",
     "fact": "Switzerland has hosted the UN's European headquarters in Geneva since 1946, but it did not become a full UN member state itself until a 2002 referendum approved joining. It was one of the last widely recognized countries to become a member.",
@@ -729,7 +652,7 @@
     ]
   },
   {
-    "id": "law-067",
+    "id": "law-060",
     "domain": "law",
     "hook": "The UN once ran an entire country's government for over two years.",
     "fact": "The UN Transitional Administration in East Timor governed the territory directly from 1999 to 2002, following a referendum in which East Timorese voters chose independence from Indonesia. It was the first time the UN had full executive, legislative, and judicial authority over a territory as it prepared for statehood.",
@@ -740,7 +663,7 @@
     ]
   },
   {
-    "id": "law-068",
+    "id": "law-061",
     "domain": "law",
     "hook": "The international treaty defining genocide leaves out killings based on politics.",
     "fact": "The 1948 Genocide Convention defines genocide as acts committed against a national, ethnic, racial, or religious group, but deliberately excludes political groups, after the Soviet Union objected during the treaty's drafting. Mass killings targeting people solely for their political beliefs therefore do not meet the treaty's legal definition of genocide, however similar in scale.",
@@ -752,7 +675,7 @@
     ]
   },
   {
-    "id": "law-069",
+    "id": "law-062",
     "domain": "law",
     "hook": "The legal principles used at Nuremberg were formally written into international law just a few years after the trials ended.",
     "fact": "In 1950, the UN's International Law Commission codified the Nuremberg Principles, formalizing legal concepts from the 1945-46 trials, including individual criminal responsibility for crimes against peace, war crimes, and crimes against humanity. The principles established that following orders is not a valid defense against such charges.",
@@ -763,7 +686,7 @@
     ]
   },
   {
-    "id": "law-070",
+    "id": "law-063",
     "domain": "law",
     "hook": "Rwanda tried genocide cases in community courts instead of ordinary criminal courts.",
     "fact": "After the 1994 genocide left Rwanda's court system overwhelmed with suspects, the government revived a traditional community justice practice called gacaca, running local courts staffed by elected lay judges rather than professional lawyers. The gacaca courts operated from 2001 to 2012 and handled the large majority of genocide-related cases.",
@@ -774,18 +697,7 @@
     ]
   },
   {
-    "id": "law-071",
-    "domain": "law",
-    "hook": "The world's oldest parliament has been meeting for over a thousand years.",
-    "fact": "Iceland's Althing was established in 930 CE at Thingvellir, where Viking-age chieftains gathered to pass laws and settle disputes. It is recognized as the oldest parliament still in existence today.",
-    "tags": [
-      "parliaments",
-      "iceland",
-      "legal-history"
-    ]
-  },
-  {
-    "id": "law-072",
+    "id": "law-064",
     "domain": "law",
     "hook": "The word for a papal election literally means 'locked with a key.'",
     "fact": "A conclave, the meeting where cardinals elect a new pope, takes its name from the Latin cum clave, meaning 'with a key' — a reference to the cardinals being sequestered until they reach a decision. Only cardinals under 80 are eligible to vote.",
@@ -796,7 +708,7 @@
     ]
   },
   {
-    "id": "law-073",
+    "id": "law-065",
     "domain": "law",
     "hook": "Belgium has required its citizens to vote since 1893 — longer than any other country.",
     "fact": "Belgium introduced compulsory voting in 1893 alongside the expansion of male suffrage, making it the world's longest continuously running mandatory-voting system. Argentina and Australia later adopted the idea, following Belgium's example.",
@@ -807,7 +719,7 @@
     ]
   },
   {
-    "id": "law-074",
+    "id": "law-066",
     "domain": "law",
     "hook": "Skipping an election in Australia has cost voters a fine since 1924.",
     "fact": "Australia made voting compulsory in 1924 after turnout had slumped in earlier elections; non-voters were originally fined two pounds. Turnout jumped from around 60% to over 91% at the very next election.",
@@ -818,7 +730,7 @@
     ]
   },
   {
-    "id": "law-075",
+    "id": "law-067",
     "domain": "law",
     "hook": "One Swiss region refused to let women vote until a court forced it to, in 1990.",
     "fact": "Switzerland granted women the vote nationally in 1971, but the canton of Appenzell Innerrhoden kept rejecting female suffrage in local votes for another two decades. In November 1990, Switzerland's Federal Court ruled the exclusion unconstitutional and forced the canton to grant women the vote.",
@@ -829,18 +741,7 @@
     ]
   },
   {
-    "id": "law-076",
-    "domain": "law",
-    "hook": "Liechtenstein's prince can veto any law — voters gave him that power themselves.",
-    "fact": "In a 2003 referendum, nearly two-thirds of Liechtenstein's voters approved constitutional changes expanding the reigning prince's powers, including the right to veto legislation, dismiss the government, and nominate judges. It left Liechtenstein's monarch with more direct political power than almost any other in Europe.",
-    "tags": [
-      "monarchy",
-      "liechtenstein",
-      "referendums"
-    ]
-  },
-  {
-    "id": "law-077",
+    "id": "law-068",
     "domain": "law",
     "hook": "Sweden's king has had zero formal political power since 1975.",
     "fact": "Sweden's 1974 Instrument of Government stripped the monarch of all governing authority, making the role purely ceremonial once the new constitution took effect in 1975. The king no longer even needs to sign bills into law.",
@@ -851,7 +752,7 @@
     ]
   },
   {
-    "id": "law-078",
+    "id": "law-069",
     "domain": "law",
     "hook": "Japan's constitution defines its emperor as a 'symbol,' not a ruler.",
     "fact": "Under the constitution that took effect in 1947, Japan's emperor is described as 'the symbol of the State and of the unity of the people' and is explicitly barred from powers related to government. All governing authority rests with elected officials and the cabinet.",
@@ -862,19 +763,7 @@
     ]
   },
   {
-    "id": "law-079",
-    "domain": "law",
-    "hook": "Bhutan's king gave up absolute power on his own, with no revolution demanding it.",
-    "fact": "In December 2006, Bhutan's fourth king voluntarily abdicated and set his country on a path toward parliamentary democracy despite the absence of any uprising or popular pressure to do so. Bhutan held its first parliamentary elections in 2008 and formally adopted a democratic constitution that July.",
-    "whyItMatters": "Voluntary transfers of power away from an absolute monarch are exceptionally rare in political history.",
-    "tags": [
-      "monarchy",
-      "bhutan",
-      "power-transfer"
-    ]
-  },
-  {
-    "id": "law-080",
+    "id": "law-070",
     "domain": "law",
     "hook": "Ancient Rome split its top job between two people who could each veto the other.",
     "fact": "The Roman Republic elected two consuls each year to share supreme executive authority, a deliberate check against any single person amassing the power of the old kings. Either consul could block the other's official acts through a formal veto called intercessio.",
@@ -885,7 +774,7 @@
     ]
   },
   {
-    "id": "law-081",
+    "id": "law-071",
     "domain": "law",
     "hook": "The word 'veto' is just Latin for 'I forbid.'",
     "fact": "Veto is the first-person Latin verb meaning 'I forbid.' Ancient Rome's tribunes of the plebs used the word to block actions of the Senate or magistrates on behalf of ordinary citizens, and the term passed largely unchanged into modern political language.",
@@ -896,7 +785,7 @@
     ]
   },
   {
-    "id": "law-082",
+    "id": "law-072",
     "domain": "law",
     "hook": "Politicians seeking office are called 'candidates' because Romans running for it wore white.",
     "fact": "The word candidate comes from the Latin candidatus, meaning 'clothed in white.' Men seeking public office in ancient Rome wore a specially whitened toga, the toga candida, to stand out while canvassing for votes.",
@@ -907,7 +796,7 @@
     ]
   },
   {
-    "id": "law-083",
+    "id": "law-073",
     "domain": "law",
     "hook": "The word 'ballot' comes from voters dropping little balls into a box.",
     "fact": "Ballot derives from the Italian ballotta, meaning 'little ball.' Early secret voting in places like Renaissance Venice was done by dropping colored balls into a container, and the name stuck even after paper slips replaced the balls.",
@@ -918,7 +807,7 @@
     ]
   },
   {
-    "id": "law-084",
+    "id": "law-074",
     "domain": "law",
     "hook": "Athens picked many of its officials with a stone lottery machine, not an election.",
     "fact": "Classical Athens filled most government posts and juries by lot rather than by vote, using a stone slab called a kleroterion to randomly select citizens who had inserted identification tokens into it. The method, known as sortition, was meant to prevent wealthy or popular figures from dominating office.",
@@ -929,7 +818,7 @@
     ]
   },
   {
-    "id": "law-085",
+    "id": "law-075",
     "domain": "law",
     "hook": "Venice elected its head of state through a ten-step process of alternating lotteries and votes.",
     "fact": "From 1268 until the republic's fall in 1797, Venice chose its doge through a ten-round procedure that alternated between drawing names at random from an urn and having small committees vote, repeatedly narrowing and re-expanding the pool of electors. The system was designed specifically to make it nearly impossible for any one family to rig the outcome.",
@@ -940,7 +829,7 @@
     ]
   },
   {
-    "id": "law-086",
+    "id": "law-076",
     "domain": "law",
     "hook": "One English constituency sent two MPs to parliament despite having no residents at all.",
     "fact": "Old Sarum kept the right to elect two members of the House of Commons from 1295 until 1832, even though the site had been abandoned centuries earlier and had no permanent population. It became the most notorious of Britain's 'rotten boroughs' before the Reform Act of 1832 abolished the seat.",
@@ -951,7 +840,7 @@
     ]
   },
   {
-    "id": "law-087",
+    "id": "law-077",
     "domain": "law",
     "hook": "British MPs legally cannot resign — they have to accept a fake government job instead.",
     "fact": "Since 1623, members of the UK House of Commons have been barred from directly resigning their seats. To leave early, an MP instead applies for a nominal, unpaid Crown office called the Stewardship of the Chiltern Hundreds, which by law automatically disqualifies them from sitting in parliament.",
@@ -962,18 +851,7 @@
     ]
   },
   {
-    "id": "law-088",
-    "domain": "law",
-    "hook": "Norway's constitution has been in force since 1814, second only to the United States.",
-    "fact": "Norway's constitution was drafted and signed at Eidsvoll in May 1814, and it remains the second-oldest written national constitution still in force after that of the United States. Many of its individual provisions have since been revised, but the founding document itself has never been replaced.",
-    "tags": [
-      "constitutions",
-      "norway",
-      "legal-history"
-    ]
-  },
-  {
-    "id": "law-089",
+    "id": "law-078",
     "domain": "law",
     "hook": "Germany's parliament grew by over 100 seats in one election, then got capped by law.",
     "fact": "The German Bundestag's baseline size was 598 seats from 2002, but so-called 'overhang' seats created by its mixed voting system pushed it to 709 seats in 2017 and a record 736 in 2021. A 2023 electoral reform fixed the chamber's size at 630 seats, and the 2025 election was the first held under that cap.",
@@ -984,7 +862,7 @@
     ]
   },
   {
-    "id": "law-090",
+    "id": "law-079",
     "domain": "law",
     "hook": "Germany requires a party to win 5% of the vote just to enter parliament.",
     "fact": "Germany's electoral law sets a 5% threshold: a party must win at least 5% of the national vote, or three individual constituency seats, before it can be allocated any seats in the Bundestag. The rule was introduced after the Second World War specifically to prevent the kind of extreme party fragmentation that had weakened the Weimar Republic's parliament.",
@@ -996,7 +874,7 @@
     ]
   },
   {
-    "id": "law-091",
+    "id": "law-080",
     "domain": "law",
     "hook": "A Dutch political party can win a seat in parliament with well under 1% of the vote.",
     "fact": "The Netherlands sets no separate legal threshold for its 150-seat parliament; a party only needs roughly 0.67% of the national vote — one 150th of the total — to win a single seat under its proportional system. That low bar is a major reason the country routinely elects more than a dozen parties to its legislature.",
@@ -1007,7 +885,7 @@
     ]
   },
   {
-    "id": "law-092",
+    "id": "law-081",
     "domain": "law",
     "hook": "Israel treats its entire country as a single voting district for parliament.",
     "fact": "All 120 seats in Israel's Knesset are elected through proportional representation using one nationwide constituency rather than local districts. Voters choose a party list, and seats are divided according to each party's share of the national vote.",
@@ -1018,7 +896,7 @@
     ]
   },
   {
-    "id": "law-093",
+    "id": "law-082",
     "domain": "law",
     "hook": "Ireland lets voters rank candidates instead of picking just one.",
     "fact": "Ireland elects its lower house, the Dáil, using the single transferable vote, where voters rank candidates in order of preference. If a candidate has more votes than needed to win, their surplus is redistributed to voters' next preferences instead of being wasted.",
@@ -1029,7 +907,7 @@
     ]
   },
   {
-    "id": "law-094",
+    "id": "law-083",
     "domain": "law",
     "hook": "Malta's constitution guarantees the most popular party actually wins parliament.",
     "fact": "In 1981, Malta's Nationalist Party won a majority of votes but lost the election because its rival won more seats — a result so widely seen as unfair that the constitution was later amended to prevent it happening again. Since a 2007 amendment, up to four extra 'bonus' seats can be added to parliament to guarantee that whichever party wins the most first-preference votes also wins the most seats.",
@@ -1040,7 +918,7 @@
     ]
   },
   {
-    "id": "law-095",
+    "id": "law-084",
     "domain": "law",
     "hook": "New Zealand voters chose to scrap winner-take-all elections in a 1993 referendum.",
     "fact": "In a November 1993 referendum held alongside the general election, 53.9% of New Zealand voters chose to replace first-past-the-post voting with mixed-member proportional representation. The new system was first used in the 1996 general election.",
@@ -1051,7 +929,7 @@
     ]
   },
   {
-    "id": "law-096",
+    "id": "law-085",
     "domain": "law",
     "hook": "Estonia let its entire country vote online in a national parliamentary election back in 2007.",
     "fact": "Estonia's March 2007 parliamentary election was the first in the world where voters nationwide could cast a legally binding vote over the internet. The country had already tested the system in local elections in 2005.",
@@ -1062,7 +940,7 @@
     ]
   },
   {
-    "id": "law-097",
+    "id": "law-086",
     "domain": "law",
     "hook": "Two US states can split their electoral votes between different presidential candidates.",
     "fact": "Unlike every other US state, Maine and Nebraska don't award all their electoral votes to whoever wins the statewide popular vote. Instead, they give one electoral vote to the winner of each congressional district and only their remaining two votes to the statewide winner.",
@@ -1073,9 +951,9 @@
     ]
   },
   {
-    "id": "law-098",
+    "id": "law-087",
     "domain": "law",
-    "hook": "A 1999 'temporary' compromise let 92 hereditary UK peers keep their seats for 25 years.",
+    "hook": "A 1999 'temporary' compromise let 92 hereditary UK peers keep their seats for 27 years.",
     "fact": "The House of Lords Act 1999 removed most hereditary peers from Britain's upper chamber, but a last-minute compromise let 92 of them keep their seats as an interim measure. That interim arrangement lasted until the House of Lords (Hereditary Peers) Act 2026 finally removed the remaining hereditary members that April.",
     "tags": [
       "united-kingdom",
@@ -1084,10 +962,10 @@
     ]
   },
   {
-    "id": "law-099",
+    "id": "law-088",
     "domain": "law",
-    "hook": "Australia's House of Representatives has used ranked-choice voting since the 1920s.",
-    "fact": "Australia elects its lower house using preferential voting (also called instant-runoff or the alternative vote), where voters number every candidate in order of preference. If no candidate has a majority of first preferences, the lowest-ranked candidate is eliminated and their votes redistributed until someone does.",
+    "hook": "Australia's House of Representatives has used ranked-choice voting since 1918.",
+    "fact": "Australia adopted preferential voting (also called instant-runoff or the alternative vote) for its lower house in 1918, and has used it ever since. Voters number every candidate in order of preference; if no one has a majority of first preferences, the lowest-ranked candidate is eliminated and their votes redistributed until someone does.",
     "tags": [
       "voting-systems",
       "australia",
@@ -1095,10 +973,10 @@
     ]
   },
   {
-    "id": "law-100",
+    "id": "law-089",
     "domain": "law",
     "hook": "Kuwaiti women couldn't vote until parliament passed a law in 2005.",
-    "fact": "Kuwait's National Assembly voted 37 to 21 in May 2005 to grant women the right to vote and run for office, after decades of activism and an earlier 1999 attempt that parliament had overturned. Kuwaiti women first voted and stood as candidates in a 2006 municipal by-election, then in the 2007 parliamentary election.",
+    "fact": "Kuwait's National Assembly voted 37 to 21 in May 2005 to grant women the right to vote and run for office, after decades of activism and an earlier 1999 attempt that parliament had overturned. Kuwaiti women first voted and stood as candidates in the general election of June 2006.",
     "whyItMatters": "Kuwait's parliament had to pass the change over its own prior refusal, showing how legislatures can reverse themselves under sustained public pressure.",
     "tags": [
       "voting-systems",
@@ -1107,7 +985,7 @@
     ]
   },
   {
-    "id": "law-101",
+    "id": "law-090",
     "domain": "law",
     "hook": "'Lame duck' politicians got their name from 18th-century stockbrokers, not birds.",
     "fact": "The phrase originated around 1761 at the London Stock Exchange, describing a broker who had defaulted on debts and was said to 'waddle out' of the trading floor like an injured duck. By the 1800s, American politics had borrowed the term for officeholders who remain in office after losing an election but before their successor takes over.",
@@ -1118,7 +996,7 @@
     ]
   },
   {
-    "id": "law-102",
+    "id": "law-091",
     "domain": "law",
     "hook": "The word 'filibuster' originally meant 'pirate,' not 'long speech.'",
     "fact": "Filibuster traces back to the Dutch vrijbuiter, meaning 'freebooter,' which passed into Spanish as filibustero to describe Caribbean pirates and raiders. By the 1850s, American writers began applying the word to legislators who 'pirated' debate to obstruct a vote, and the political meaning stuck.",
@@ -1129,7 +1007,7 @@
     ]
   },
   {
-    "id": "law-103",
+    "id": "law-092",
     "domain": "law",
     "hook": "Magna Carta's most famous clause promised trial before punishment.",
     "fact": "Clause 39 of the Magna Carta, sealed by King John in 1215, declared that no free man could be imprisoned or stripped of his rights except by the lawful judgment of his equals or by the law of the land.",
@@ -1141,7 +1019,7 @@
     ]
   },
   {
-    "id": "law-104",
+    "id": "law-093",
     "domain": "law",
     "hook": "Medieval courts once let boiling water decide guilt.",
     "fact": "Under trial by ordeal, a suspect might be made to carry a red-hot iron or plunge an arm into boiling water; unhealed wounds after a set number of days were taken as proof of guilt. The Catholic Church's Fourth Lateran Council banned clergy from taking part in 1215, and the practice quickly died out across most of Europe.",
@@ -1152,10 +1030,10 @@
     ]
   },
   {
-    "id": "law-105",
+    "id": "law-094",
     "domain": "law",
     "hook": "England let an accused murderer challenge his accuser to a duel in 1818.",
-    "fact": "After Abraham Thornton was acquitted of murder in England in 1818, the victim's brother tried to force a retrial. Thornton legally invoked an ancient right to trial by combat instead; his opponent backed down, and Parliament abolished the option entirely the following year.",
+    "fact": "Abraham Thornton was acquitted of murder in England in 1817, and the victim’s brother then tried to force a retrial. In 1818 Thornton legally invoked an ancient right to trial by combat instead; his opponent backed down, and Parliament abolished the option the following year.",
     "tags": [
       "trial-by-combat",
       "legal-history",
@@ -1163,7 +1041,7 @@
     ]
   },
   {
-    "id": "law-106",
+    "id": "law-095",
     "domain": "law",
     "hook": "A jailed English juror created the modern jury's independence.",
     "fact": "In 1670, juror Edward Bushell was imprisoned for refusing to convict William Penn of unlawful preaching. A judge later ruled that jurors cannot be punished for the verdict they return, a decision now credited with securing the independence of the jury.",
@@ -1174,7 +1052,7 @@
     ]
   },
   {
-    "id": "law-107",
+    "id": "law-096",
     "domain": "law",
     "hook": "The grand jury began as a 12th-century tool for naming suspects.",
     "fact": "King Henry II's Assize of Clarendon in 1166 required local juries of townspeople to report, or 'present,' anyone suspected of serious crimes to a royal judge. Historians trace the origin of the grand jury system to this requirement.",
@@ -1185,7 +1063,7 @@
     ]
   },
   {
-    "id": "law-108",
+    "id": "law-097",
     "domain": "law",
     "hook": "The oldest known law code predates Hammurabi's by roughly three centuries.",
     "fact": "The Code of Ur-Nammu, written in Sumer around 2100–2050 BCE on clay tablets, set out fines and penalties for offenses such as assault and false accusation. It predates the more famous Code of Hammurabi by about 300 years.",
@@ -1196,7 +1074,7 @@
     ]
   },
   {
-    "id": "law-109",
+    "id": "law-098",
     "domain": "law",
     "hook": "Hammurabi's laws were carved into a stone pillar over seven feet tall.",
     "fact": "The Code of Hammurabi, issued by the Babylonian king around 1754 BCE, was inscribed on a basalt stele roughly 2.25 meters, or about seven and a half feet, tall and set up in public for all to see. It included the 'eye for an eye' principle of proportional punishment, and the stele now sits in the Louvre in Paris.",
@@ -1207,7 +1085,7 @@
     ]
   },
   {
-    "id": "law-110",
+    "id": "law-099",
     "domain": "law",
     "hook": "Ancient Athens made stealing a cabbage a capital offense.",
     "fact": "The lawgiver Draco wrote Athens's first legal code around 621 BCE, prescribing death for nearly every offense, however minor, including stealing a cabbage. His name survives in the modern word 'draconian' for excessively harsh laws.",
@@ -1218,7 +1096,7 @@
     ]
   },
   {
-    "id": "law-111",
+    "id": "law-100",
     "domain": "law",
     "hook": "The idea that accusers must prove guilt comes from a Roman legal maxim.",
     "fact": "Roman law held that the burden of proof falls on whoever makes a claim, not on the person who denies it, a principle summed up in the maxim 'ei incumbit probatio qui dicit, non qui negat.' That maxim underlies the modern presumption of innocence found in courts around the world.",
@@ -1229,7 +1107,7 @@
     ]
   },
   {
-    "id": "law-112",
+    "id": "law-101",
     "domain": "law",
     "hook": "A French officer spent years on a prison island for a crime he didn't commit.",
     "fact": "In 1894, French army officer Alfred Dreyfus was wrongly convicted of treason based on forged evidence and sent to the penal colony on Devil's Island. He was formally exonerated in 1906 after a long public campaign exposed the fabrication.",
@@ -1240,7 +1118,7 @@
     ]
   },
   {
-    "id": "law-113",
+    "id": "law-102",
     "domain": "law",
     "hook": "France executed people by guillotine as late as 1977.",
     "fact": "France continued to use the guillotine for executions into the late 20th century, with the last one carried out in 1977. The country abolished the death penalty entirely in 1981.",
@@ -1251,7 +1129,7 @@
     ]
   },
   {
-    "id": "law-114",
+    "id": "law-103",
     "domain": "law",
     "hook": "Japan held its own war crimes tribunal after World War II, modeled on Nuremberg.",
     "fact": "From 1946 to 1948, the International Military Tribunal for the Far East sat in Tokyo to try Japanese wartime leaders on charges similar to those used at Nuremberg. Twenty-five defendants were convicted, including seven who were sentenced to death.",
@@ -1262,7 +1140,7 @@
     ]
   },
   {
-    "id": "law-115",
+    "id": "law-104",
     "domain": "law",
     "hook": "Japan convicts more than 99 percent of criminal defendants who reach trial.",
     "fact": "Japan's criminal courts convict well over 99 percent of defendants whose cases go to trial, a figure widely attributed to prosecutors who rely heavily on confessions and generally only bring cases they are confident of winning. The system has drawn scrutiny for the pressure it can place on suspects during pre-trial interrogation.",
@@ -1273,7 +1151,7 @@
     ]
   },
   {
-    "id": "law-116",
+    "id": "law-105",
     "domain": "law",
     "hook": "South Africa offered amnesty to people who publicly confessed apartheid-era crimes.",
     "fact": "South Africa's Truth and Reconciliation Commission, established in 1996 and chaired by Archbishop Desmond Tutu, could grant amnesty to perpetrators of apartheid-era human rights abuses in exchange for a full and truthful public account of what they had done.",
@@ -1284,7 +1162,7 @@
     ]
   },
   {
-    "id": "law-117",
+    "id": "law-106",
     "domain": "law",
     "hook": "A fingerprint on a doorframe convicted a killer for the first time in 1892.",
     "fact": "In Necochea, Argentina in 1892, police official Juan Vucetich used a bloody fingerprint left on a door post at the crime scene to prove that Francisca Rojas had murdered her own children after trying to frame another suspect. It is widely cited as the first criminal case in the world solved using fingerprint evidence.",
@@ -1295,7 +1173,7 @@
     ]
   },
   {
-    "id": "law-118",
+    "id": "law-107",
     "domain": "law",
     "hook": "DNA evidence convicted its first killer and cleared an innocent suspect in the same case.",
     "fact": "In 1988, Colin Pitchfork became the first person in the world convicted of murder using DNA profiling, after genetic testing in the same English investigation had already cleared a wrongly suspected teenager, Richard Buckland.",
@@ -1306,7 +1184,7 @@
     ]
   },
   {
-    "id": "law-119",
+    "id": "law-108",
     "domain": "law",
     "hook": "One nonprofit has used DNA testing to free hundreds of wrongly convicted people.",
     "fact": "The Innocence Project, founded in the United States in 1992 by lawyers Barry Scheck and Peter Neufeld, uses post-conviction DNA testing to challenge wrongful convictions. It and its affiliated organizations have helped exonerate hundreds of people, some of whom had spent decades in prison.",
@@ -1318,7 +1196,7 @@
     ]
   },
   {
-    "id": "law-120",
+    "id": "law-109",
     "domain": "law",
     "hook": "A handwritten prisoner's petition won every poor defendant a right to a lawyer.",
     "fact": "Clarence Gideon, a Florida man tried for burglary without a lawyer, handwrote an appeal to the US Supreme Court from prison. The resulting 1963 ruling, Gideon v. Wainwright, established that state courts must provide a free defense attorney to any criminal defendant who cannot afford one.",
@@ -1329,7 +1207,7 @@
     ]
   },
   {
-    "id": "law-121",
+    "id": "law-110",
     "domain": "law",
     "hook": "A 1961 ruling said illegally obtained evidence can't be used in US courts.",
     "fact": "In Mapp v. Ohio, decided in 1961, the US Supreme Court ruled that evidence obtained by police through an unconstitutional search cannot be used against a defendant in state criminal trials. The rule is known as the exclusionary rule.",
@@ -1340,7 +1218,7 @@
     ]
   },
   {
-    "id": "law-122",
+    "id": "law-111",
     "domain": "law",
     "hook": "One 1803 ruling gave US courts the power to strike down laws entirely.",
     "fact": "In Marbury v. Madison, decided in 1803, the US Supreme Court under Chief Justice John Marshall ruled that courts have the authority to declare a law unconstitutional and refuse to enforce it. The decision established the principle of judicial review that still underpins the American legal system.",
@@ -1351,7 +1229,7 @@
     ]
   },
   {
-    "id": "law-123",
+    "id": "law-112",
     "domain": "law",
     "hook": "The US death penalty was briefly ruled unconstitutional nationwide in 1972.",
     "fact": "In Furman v. Georgia, decided in 1972, the US Supreme Court found that the death penalty as then applied was arbitrary and capricious, effectively suspending capital punishment across the country. States rewrote their sentencing laws, and the Court allowed the death penalty to resume in 1976.",
@@ -1362,7 +1240,7 @@
     ]
   },
   {
-    "id": "law-124",
+    "id": "law-113",
     "domain": "law",
     "hook": "The world's first juvenile court opened in a Chicago courthouse in 1899.",
     "fact": "Cook County, Illinois established the world's first dedicated juvenile court in 1899, built on the idea that children who broke the law should be rehabilitated rather than punished as adults. The model spread quickly, with most US states creating similar courts within about twenty years.",
@@ -1373,7 +1251,7 @@
     ]
   },
   {
-    "id": "law-125",
+    "id": "law-114",
     "domain": "law",
     "hook": "France ran a notorious penal colony on an island off South America for a century.",
     "fact": "From 1852 to 1953, France sent convicts, including political prisoners like Alfred Dreyfus, to the penal colony of Devil's Island off the coast of French Guiana. Harsh conditions and tropical disease made it one of the deadliest prison systems in modern history.",
@@ -1384,7 +1262,7 @@
     ]
   },
   {
-    "id": "law-126",
+    "id": "law-115",
     "domain": "law",
     "hook": "One Norwegian prison gives inmates private rooms with their own bathrooms.",
     "fact": "Norway's Halden Prison, opened in 2010, houses inmates in private rooms with en-suite bathrooms and gives them access to workshops, a recording studio, and communal kitchens. The design reflects Norway's prison philosophy that treating inmates humanely reduces the chance they reoffend after release.",
@@ -1396,7 +1274,7 @@
     ]
   },
   {
-    "id": "law-127",
+    "id": "law-116",
     "domain": "law",
     "hook": "India's top court let ordinary citizens sue on behalf of people they'd never met.",
     "fact": "Starting in the late 1970s, India's Supreme Court developed a doctrine called Public Interest Litigation, relaxing the usual rule that only a directly affected person can bring a case. It allows any citizen or group to petition the court over issues like prison conditions or environmental harm on behalf of people who cannot easily access the courts themselves.",
@@ -1407,7 +1285,7 @@
     ]
   },
   {
-    "id": "law-128",
+    "id": "law-117",
     "domain": "law",
     "hook": "In 897, a pope was formally put on trial nine months after he died.",
     "fact": "Pope Stephen VI had the corpse of his predecessor, Pope Formosus, exhumed, dressed in papal robes, and propped on a throne to face charges of perjury and illegally seizing the papacy. The corpse was found guilty, had its blessing fingers cut off, and was thrown into the Tiber River.",
@@ -1417,7 +1295,7 @@
     ]
   },
   {
-    "id": "law-129",
+    "id": "law-118",
     "domain": "law",
     "hook": "NASA once got a $400 littering ticket for dropping a space station on Australia.",
     "fact": "When the Skylab space station broke up over Western Australia in 1979, the local Shire of Esperance issued the United States a $400 fine for littering. NASA never paid it, and the debt sat unsettled for 30 years until an American radio show raised the money and paid it off in 2009.",
@@ -1427,7 +1305,7 @@
     ]
   },
   {
-    "id": "law-130",
+    "id": "law-119",
     "domain": "law",
     "hook": "A 1979 treaty tried to make the Moon's resources shared property of all humanity.",
     "fact": "The Moon Agreement declares that the Moon and its natural resources are the 'common heritage of mankind' and bars any country from claiming ownership. Fewer than twenty states have ever ratified it, and none of the major spacefaring nations are among them, so it carries little practical weight.",
@@ -1437,7 +1315,7 @@
     ]
   },
   {
-    "id": "law-131",
+    "id": "law-120",
     "domain": "law",
     "hook": "No country can legally plant a flag and claim the Moon as its own territory.",
     "fact": "The Outer Space Treaty of 1967, ratified by every major spacefaring nation, states that no country may claim sovereignty over the Moon, planets, or any other celestial body by occupation or any other means. It also bans placing nuclear weapons or other weapons of mass destruction in orbit or on celestial bodies.",
@@ -1448,7 +1326,7 @@
     ]
   },
   {
-    "id": "law-132",
+    "id": "law-121",
     "domain": "law",
     "hook": "One of Europe's oldest maritime law codes is credited to a 12th-century queen.",
     "fact": "The Rolls of Oléron, compiled in the late 1100s and traditionally linked to Eleanor of Aquitaine, set out rules governing ship captains, cargo, crew pay, and shipboard discipline. Widely copied across northern Europe, it became a foundation for English and French admiralty law for centuries.",
@@ -1458,7 +1336,7 @@
     ]
   },
   {
-    "id": "law-133",
+    "id": "law-122",
     "domain": "law",
     "hook": "Singapore has banned the sale of chewing gum since 1992.",
     "fact": "After years of gum being stuck in mailboxes, elevator buttons, and subway train doors, Singapore's government banned the import, manufacture, and sale of chewing gum in 1992. An exception was added in 2004 allowing therapeutic gum to be sold through a doctor or pharmacist.",
@@ -1468,7 +1346,7 @@
     ]
   },
   {
-    "id": "law-134",
+    "id": "law-123",
     "domain": "law",
     "hook": "Belgium once went 541 days without an elected government.",
     "fact": "After the June 2010 election, Belgian negotiators spent 541 days trying to form a coalition. A caretaker government kept the country running until a new cabinet was finally sworn in under Prime Minister Elio Di Rupo in December 2011.",
@@ -1479,7 +1357,7 @@
     ]
   },
   {
-    "id": "law-135",
+    "id": "law-124",
     "domain": "law",
     "hook": "Belgium's king was declared unfit to rule for 36 hours so a law could pass.",
     "fact": "In April 1990, King Baudouin refused on religious grounds to sign Belgium's new abortion law. Parliament resolved the impasse by declaring him temporarily unable to reign, letting the government promulgate the law without his signature before restoring him to the throne 36 hours later.",
@@ -1491,7 +1369,7 @@
     ]
   },
   {
-    "id": "law-136",
+    "id": "law-125",
     "domain": "law",
     "hook": "Belgium's 1831 constitution became a template other countries copied wholesale.",
     "fact": "Drafted after Belgium's independence, the 1831 constitution combined liberal ideas from earlier French and Dutch charters into one document. Its provisions were later echoed in the constitutions of Greece, Spain, Italy, Luxembourg, Prussia, and Romania.",
@@ -1502,7 +1380,7 @@
     ]
   },
   {
-    "id": "law-137",
+    "id": "law-126",
     "domain": "law",
     "hook": "Belgium didn't fix its internal language border until the 1960s.",
     "fact": "Laws passed in 1962 and 1963 permanently mapped Belgium into Dutch-, French-, German-, and bilingual-language areas. To protect minorities living near the new border, certain municipalities were given special 'language facilities' letting residents deal with local government in a second language.",
@@ -1513,7 +1391,7 @@
     ]
   },
   {
-    "id": "law-138",
+    "id": "law-127",
     "domain": "law",
     "hook": "A 1963 language law fixed Brussels at just nineteen municipalities.",
     "fact": "Belgium's 1963 legislation limited the officially bilingual Brussels area to nineteen municipalities. When the Brussels-Capital Region was created in 1989, it took over that same nineteen-municipality boundary.",
@@ -1524,7 +1402,7 @@
     ]
   },
   {
-    "id": "law-139",
+    "id": "law-128",
     "domain": "law",
     "hook": "Belgium once let its own courts prosecute war crimes committed anywhere on Earth.",
     "fact": "A 1993 Belgian law, expanded in 1999, gave the country's courts universal jurisdiction to try war crimes, genocide, and crimes against humanity regardless of where they occurred or the nationality of the accused. After complaints were filed against sitting foreign leaders and the law triggered serious diplomatic friction, Belgium repealed it in 2003 in favor of narrower jurisdiction rules.",
@@ -1535,7 +1413,7 @@
     ]
   },
   {
-    "id": "law-140",
+    "id": "law-129",
     "domain": "law",
     "hook": "Belgium is divided into two different maps that don't line up.",
     "fact": "Belgium's federal system layers three regions, defined by territory, over three communities, defined by language and culture. The Flemish Community includes Flemish speakers in both Flanders and Brussels, so the two sets of borders don't match.",
@@ -1546,7 +1424,7 @@
     ]
   },
   {
-    "id": "law-141",
+    "id": "law-130",
     "domain": "law",
     "hook": "Belgium's monarch isn't the King of Belgium — legally, he's King of the Belgians.",
     "fact": "Belgium's 1831 constitution styled its monarch 'King of the Belgians' rather than 'King of Belgium,' tying the crown to the people rather than the territory. Leopold I accepted the title in 1831, and every Belgian monarch since has held it.",
@@ -1557,7 +1435,7 @@
     ]
   },
   {
-    "id": "law-142",
+    "id": "law-131",
     "domain": "law",
     "hook": "Belgium executed its last prisoner decades before banning the death penalty.",
     "fact": "The last person executed in Belgium was a former concentration-camp commandant, put to death in 1950. Belgium didn't formally abolish capital punishment for all crimes until 1996, and the ban wasn't written into the constitution until 2005.",
@@ -1568,7 +1446,7 @@
     ]
   },
   {
-    "id": "law-143",
+    "id": "law-132",
     "domain": "law",
     "hook": "Belgium was the first country to let children of any age request euthanasia.",
     "fact": "Belgium legalized euthanasia for adults in 2002, becoming the second country to do so after the Netherlands. In 2014, it extended the law to minors with no minimum age, becoming the first country to remove an age limit entirely.",
@@ -1580,7 +1458,7 @@
     ]
   },
   {
-    "id": "law-144",
+    "id": "law-133",
     "domain": "law",
     "hook": "The Netherlands was the first country to open marriage to same-sex couples.",
     "fact": "A Dutch law that took effect on April 1, 2001, rewrote the civil code to make marriage gender-neutral, giving same-sex couples the same legal status as opposite-sex couples in adoption and inheritance. Amsterdam's mayor married four same-sex couples the moment the law took effect.",
@@ -1591,7 +1469,7 @@
     ]
   },
   {
-    "id": "law-145",
+    "id": "law-134",
     "domain": "law",
     "hook": "The Netherlands was the first country to write euthanasia into national law.",
     "fact": "The Dutch parliament passed the Termination of Life on Request Act in April 2001, and it took effect in 2002, formally legalizing euthanasia and assisted suicide under strict conditions. It was the first time any country had done so through national legislation.",
@@ -1602,7 +1480,7 @@
     ]
   },
   {
-    "id": "law-146",
+    "id": "law-135",
     "domain": "law",
     "hook": "Dutch judges are legally barred from ruling a law unconstitutional.",
     "fact": "Article 120 of the Dutch constitution states that the constitutionality of acts of parliament may not be reviewed by the courts. That leaves it to parliament itself to police whether its own laws respect the constitution.",
@@ -1613,7 +1491,7 @@
     ]
   },
   {
-    "id": "law-147",
+    "id": "law-136",
     "domain": "law",
     "hook": "The Dutch king was never crowned — there's no crown-wearing ceremony at all.",
     "fact": "Because the Netherlands has no state church to perform a coronation, incoming monarchs are instead inaugurated at a joint session of parliament in Amsterdam's Nieuwe Kerk, where they swear an oath to the constitution. The crown itself is simply displayed on a nearby table rather than worn.",
@@ -1624,7 +1502,7 @@
     ]
   },
   {
-    "id": "law-148",
+    "id": "law-137",
     "domain": "law",
     "hook": "Luxembourg's monarch lost the power to approve laws over a single euthanasia bill.",
     "fact": "In December 2008, Grand Duke Henri told Luxembourg's government he would not sign a bill legalizing euthanasia. Parliament responded by amending the constitution to strike the word 'approves' from the article on royal assent, leaving the Grand Duke only the ceremonial power to promulgate laws.",
@@ -1636,7 +1514,7 @@
     ]
   },
   {
-    "id": "law-149",
+    "id": "law-138",
     "domain": "law",
     "hook": "Luxembourg City, not Brussels, is where the EU's top courts sit.",
     "fact": "The Court of Justice of the European Union has been based in Luxembourg City since the European Coal and Steel Community set up its judicial arm there in 1952. The European Court of Auditors, established in 1975, sits in the same city.",
@@ -1647,7 +1525,7 @@
     ]
   },
   {
-    "id": "law-150",
+    "id": "law-139",
     "domain": "law",
     "hook": "Luxembourg is the only grand duchy left in the world.",
     "fact": "Luxembourg has been a sovereign grand duchy since gaining full independence under the 1839 Treaty of London. More than a dozen grand duchies once existed across Europe, but Luxembourg is the sole one that remains a sovereign state.",
@@ -1658,7 +1536,7 @@
     ]
   },
   {
-    "id": "law-151",
+    "id": "law-140",
     "domain": "law",
     "hook": "Parts of Germany's constitution can never legally be changed.",
     "fact": "Article 79(3) of Germany's Basic Law, its 'eternity clause,' forbids any amendment that would touch human dignity or the country's basic democratic, federal, and rule-of-law structure. Even a unanimous parliament cannot lawfully remove that protection through the normal amendment process.",
@@ -1669,7 +1547,7 @@
     ]
   },
   {
-    "id": "law-152",
+    "id": "law-141",
     "domain": "law",
     "hook": "German chancellors can only be voted out if their replacement is named in the same vote.",
     "fact": "Germany's constructive vote of no confidence lets the Bundestag remove a chancellor only if the same motion elects a successor, so the office can never sit vacant. It has succeeded only once, in October 1982, when Helmut Kohl replaced Helmut Schmidt.",
@@ -1680,7 +1558,7 @@
     ]
   },
   {
-    "id": "law-153",
+    "id": "law-142",
     "domain": "law",
     "hook": "Germany's top court has banned political parties it ruled anti-constitutional.",
     "fact": "West Germany's Federal Constitutional Court dissolved the neo-Nazi Socialist Reich Party in 1952 and the Communist Party of Germany in 1956, ruling both incompatible with the constitution's democratic order. Only the court itself can ban a party; the government or legislature cannot do so alone.",
@@ -1691,7 +1569,7 @@
     ]
   },
   {
-    "id": "law-154",
+    "id": "law-143",
     "domain": "law",
     "hook": "The world's first dedicated constitutional court was designed by one legal scholar.",
     "fact": "Austria's Constitutional Court, created as part of its 1920 constitution, was built on a design by legal theorist Hans Kelsen. It pioneered centralized constitutional review — a single specialized court checking laws against the constitution, rather than every ordinary court doing so — a model later copied by other countries.",
@@ -1702,7 +1580,7 @@
     ]
   },
   {
-    "id": "law-155",
+    "id": "law-144",
     "domain": "law",
     "hook": "Austria wrote permanent military neutrality into its own constitution.",
     "fact": "On October 26, 1955, Austria's parliament passed a constitutional law declaring the country permanently neutral, committing it to never join a military alliance or host foreign bases. The declaration followed the withdrawal of Allied occupation forces under that year's State Treaty.",
@@ -1713,7 +1591,7 @@
     ]
   },
   {
-    "id": "law-156",
+    "id": "law-145",
     "domain": "law",
     "hook": "Switzerland's head of state changes every year, and it's a committee, not a person.",
     "fact": "Switzerland's executive is a seven-member Federal Council that governs collectively, with no single leader. Each member takes a turn as president for one year, chairing meetings and representing the country, but holds no more formal power than the other six.",
@@ -1724,7 +1602,7 @@
     ]
   },
   {
-    "id": "law-157",
+    "id": "law-146",
     "domain": "law",
     "hook": "Amending Switzerland's constitution takes two separate majorities, not one.",
     "fact": "A constitutional change in Switzerland needs majority support both from voters nationwide and from voters in a majority of the country's cantons. A proposal can win the popular vote outright and still fail if too few cantons back it.",
@@ -1735,7 +1613,7 @@
     ]
   },
   {
-    "id": "law-158",
+    "id": "law-147",
     "domain": "law",
     "hook": "Ethiopia's constitution gives its regions the right to secede from the country.",
     "fact": "Article 39 of Ethiopia's 1995 constitution grants every 'nation, nationality and people' an unconditional right to self-determination, including secession, triggered by a two-thirds vote of its own council followed by a federal referendum within three years.",
@@ -1747,7 +1625,7 @@
     ]
   },
   {
-    "id": "law-159",
+    "id": "law-148",
     "domain": "law",
     "hook": "Kenya's 2010 constitution split the country into 47 brand-new counties.",
     "fact": "Kenya's 2010 constitution created a devolved system of government with 47 county governments, each electing its own governor and county assembly. The counties began operating in 2013, taking over functions like healthcare, local roads, and water services from the national government.",
@@ -1758,7 +1636,7 @@
     ]
   },
   {
-    "id": "law-160",
+    "id": "law-149",
     "domain": "law",
     "hook": "Botswana's parliament has a chiefs' chamber that can advise it but never veto a law.",
     "fact": "Botswana's House of Chiefs, known as Ntlo ya Dikgosi, is a constitutionally established body of 35 members — including eight hereditary chiefs from the country's principal tribes, plus elected and appointed members — that advises parliament on tribal law and custom. It has no power to veto legislation.",
@@ -1769,7 +1647,7 @@
     ]
   },
   {
-    "id": "law-161",
+    "id": "law-150",
     "domain": "law",
     "hook": "Twelve Nigerian states run Islamic criminal courts alongside the national ones.",
     "fact": "Nigeria operates a mixed legal system combining English-derived common law, customary law, and Sharia law. Since 1999-2000, twelve northern states have applied Sharia penal codes in parallel with the national criminal code.",
@@ -1780,7 +1658,7 @@
     ]
   },
   {
-    "id": "law-162",
+    "id": "law-151",
     "domain": "law",
     "hook": "Africa's top human rights court first met in a different country than its home.",
     "fact": "The African Court on Human and Peoples' Rights began operating out of Addis Ababa, Ethiopia, in November 2006, then moved permanently to its seat in Arusha, Tanzania, in 2007. It rules on alleged violations of the African Charter on Human and Peoples' Rights by states that accept its jurisdiction.",
@@ -1791,9 +1669,9 @@
     ]
   },
   {
-    "id": "law-163",
+    "id": "law-152",
     "domain": "law",
-    "hook": "Egypt once ran law courts staffed mostly by foreign judges.",
+    "hook": "Egypt once ran courts where European judges sat on the bench alongside Egyptians.",
     "fact": "From 1876 to 1949, Egypt's Mixed Courts heard civil and commercial cases involving foreigners, applying French-derived law codes with a bench of up to 70 judges — many from European countries — sitting alongside Egyptian judges. Their jurisdiction ended in 1949, passing to Egypt's national courts.",
     "tags": [
       "egypt",
@@ -1802,7 +1680,7 @@
     ]
   },
   {
-    "id": "law-164",
+    "id": "law-153",
     "domain": "law",
     "hook": "Morocco's 2004 family-law reform put wives on more equal footing with husbands.",
     "fact": "Morocco's 2004 reform of the Moudawana family code raised the minimum marriage age for women to 18, gave wives the right to initiate divorce through the courts, placed strict limits on polygamy, and let women retain custody of their children.",
@@ -1813,7 +1691,7 @@
     ]
   },
   {
-    "id": "law-165",
+    "id": "law-154",
     "domain": "law",
     "hook": "Ecuador wrote nature itself into its bill of rights.",
     "fact": "Ecuador's 2008 constitution made it the first country to grant nature — referred to as Pachamama — constitutional rights, including the right to exist, persist, and regenerate its natural cycles. The provision lets any person petition courts on nature's behalf.",
@@ -1824,7 +1702,7 @@
     ]
   },
   {
-    "id": "law-166",
+    "id": "law-155",
     "domain": "law",
     "hook": "A Colombian court once ruled that a river had legal rights of its own.",
     "fact": "In 2016, Colombia's Constitutional Court declared the Atrato River, its basin, and its tributaries a legal subject entitled to protection, conservation, and restoration. The ruling also recognized 'biocultural rights' tied to the Indigenous and Afro-Colombian communities who live along it.",
@@ -1835,7 +1713,7 @@
     ]
   },
   {
-    "id": "law-167",
+    "id": "law-156",
     "domain": "law",
     "hook": "Bolivia passed a law in 2010 giving the earth legal rights.",
     "fact": "Bolivia's 2010 Law of the Rights of Mother Earth declared nature a collective subject of public interest, granting it rights including the right to life, to clean water and air, and to remain free from genetic modification and pollution.",
@@ -1846,7 +1724,7 @@
     ]
   },
   {
-    "id": "law-168",
+    "id": "law-157",
     "domain": "law",
     "hook": "Mexico's signature legal remedy started as one state's idea in 1841.",
     "fact": "The amparo, a Mexican legal action letting individuals challenge government acts that violate their constitutional rights, was first proposed for the state of Yucatan in 1841 by jurist Manuel Crescencio Rejon. It became part of Mexico's national constitution in 1857 and later spread to legal systems across Latin America.",
@@ -1857,7 +1735,7 @@
     ]
   },
   {
-    "id": "law-169",
+    "id": "law-158",
     "domain": "law",
     "hook": "Argentina put its own former military rulers on trial in an ordinary courtroom.",
     "fact": "In 1985, Argentina's Trial of the Juntas prosecuted nine former military commanders from the 1976-1983 dictatorship in a civilian federal court, hearing testimony from over 800 witnesses across 232 days. Five defendants, including former de facto president Jorge Videla, were convicted.",
@@ -1869,7 +1747,7 @@
     ]
   },
   {
-    "id": "law-170",
+    "id": "law-159",
     "domain": "law",
     "hook": "Costa Rica wrote the abolition of its own army into its constitution.",
     "fact": "Costa Rica abolished its military by decree in December 1948, then made the ban permanent in Article 12 of the constitution issued in November 1949. Funds once earmarked for the armed forces were redirected toward public programs.",
@@ -1880,10 +1758,10 @@
     ]
   },
   {
-    "id": "law-171",
+    "id": "law-160",
     "domain": "law",
     "hook": "A dozen Caribbean nations share a single regional court, seated in Trinidad.",
-    "fact": "The Caribbean Court of Justice was established by treaty among twelve CARICOM states in 2001 and began sitting in 2005. Based in Trinidad and Tobago, it interprets the treaty governing the Caribbean Community and, for member states that opt in, serves as their final court of appeal.",
+    "fact": "The Caribbean Court of Justice was established by a treaty that ten CARICOM states signed in 2001, with two more joining by 2003, and it began sitting in 2005. Based in Trinidad and Tobago, it interprets the treaty governing the Caribbean Community and, for member states that opt in, serves as their final court of appeal.",
     "tags": [
       "caribbean",
       "courts",
@@ -1891,7 +1769,7 @@
     ]
   },
   {
-    "id": "law-172",
+    "id": "law-161",
     "domain": "law",
     "hook": "The Ottoman Empire once codified Islamic law into 1,851 numbered articles.",
     "fact": "Issued between 1869 and 1876, the Ottoman Empire's Mejelle codified civil law drawn from Hanafi Islamic jurisprudence into 1,851 numbered articles across sixteen books. It was the first attempt to turn Islamic legal rulings into a systematic, Western-style civil code.",
@@ -1902,7 +1780,7 @@
     ]
   },
   {
-    "id": "law-173",
+    "id": "law-162",
     "domain": "law",
     "hook": "A 1943 unwritten pact assigned Lebanon's top three offices by religion.",
     "fact": "Lebanon's 1943 National Pact, an unwritten agreement between the country's first president and prime minister, established that the presidency go to a Maronite Christian, the premiership to a Sunni Muslim, and the speakership of parliament to a Shiite Muslim, based on the results of a 1932 census.",
@@ -1913,7 +1791,7 @@
     ]
   },
   {
-    "id": "law-174",
+    "id": "law-163",
     "domain": "law",
     "hook": "Saudi Arabia's basic law declares the Quran itself to be the country's constitution.",
     "fact": "Saudi Arabia's Basic Law of Governance, issued in 1992, states that the Quran and the Sunnah — the teachings and practices of the Prophet Muhammad — serve as the country's constitution, with governance based on Islamic Sharia and consultation.",
@@ -1924,7 +1802,7 @@
     ]
   },
   {
-    "id": "law-175",
+    "id": "law-164",
     "domain": "law",
     "hook": "Dubai runs a courtroom that speaks English and follows common law, not Arabic civil law.",
     "fact": "The Dubai International Financial Centre operates its own courts that conduct proceedings in English and follow common law precedent, staffed by judges drawn from common law jurisdictions around the world. They function independently of the Arabic-language civil law courts that handle the rest of Dubai.",
@@ -1935,7 +1813,7 @@
     ]
   },
   {
-    "id": "law-176",
+    "id": "law-165",
     "domain": "law",
     "hook": "Qatar let women vote for the first time on a date chosen to make a point.",
     "fact": "Qatar's first-ever election, for a 29-member municipal advisory council, was held on March 8, 1999 — International Women's Day — and allowed women to both vote and stand as candidates. It made Qatar the first Gulf state to hold a direct election with universal suffrage.",
@@ -1946,7 +1824,7 @@
     ]
   },
   {
-    "id": "law-177",
+    "id": "law-166",
     "domain": "law",
     "hook": "Pakistan's Federal Shariat Court checks whether laws follow Islamic teachings.",
     "fact": "Pakistan's Federal Shariat Court, established in 1980, has the constitutional power to review any law and strike down provisions it finds inconsistent with Islamic injunctions. It sits in Islamabad and operates alongside the country's regular civil and criminal courts.",
@@ -1957,7 +1835,7 @@
     ]
   },
   {
-    "id": "law-178",
+    "id": "law-167",
     "domain": "law",
     "hook": "Nepal ended a 240-year-old monarchy with a single vote in 2008.",
     "fact": "On May 28, 2008, Nepal's newly elected Constituent Assembly voted to abolish the Shah dynasty's monarchy, which had ruled for roughly 240 years, and declared the country a federal democratic republic. A permanent constitution followed in 2015.",
@@ -1968,7 +1846,7 @@
     ]
   },
   {
-    "id": "law-179",
+    "id": "law-168",
     "domain": "law",
     "hook": "A 1973 Bangladeshi law sat unused for nearly forty years before it was applied.",
     "fact": "Bangladesh's International Crimes (Tribunal) Act, passed in 1973 to prosecute war crimes committed during the 1971 independence war, went unused for decades. The government revived it in 2010 by establishing the International Crimes Tribunal, which has since convicted multiple defendants.",
@@ -1980,7 +1858,7 @@
     ]
   },
   {
-    "id": "law-180",
+    "id": "law-169",
     "domain": "law",
     "hook": "Mongolia's parliament shares its name with the councils that once elected Genghis Khan.",
     "fact": "Mongolia's national legislature is called the State Great Hural, using the Mongolic word 'khural' — meaning gathering or assembly — that also named the kurultai councils historically convened to elect and advise the Great Khans, including the 1206 assembly that proclaimed Genghis Khan ruler of the Mongols.",
@@ -1991,7 +1869,7 @@
     ]
   },
   {
-    "id": "law-181",
+    "id": "law-170",
     "domain": "law",
     "hook": "Afghanistan's 1964 constitution gave women the vote in the same document as men.",
     "fact": "Afghanistan's constitution, approved in January 1964 under King Mohammad Zahir Shah, granted universal suffrage to all citizens over 20 regardless of gender and declared men and women equal before the law. Women were elected to parliament for the first time in the elections that followed in 1965.",
@@ -2002,7 +1880,7 @@
     ]
   },
   {
-    "id": "law-182",
+    "id": "law-171",
     "domain": "law",
     "hook": "Poland adopted Europe's first modern written constitution in a single day.",
     "fact": "On May 3, 1791, the Polish-Lithuanian Sejm passed the Constitution of 3 May, the first codified national constitution in Europe. It survived barely over a year before neighboring powers moved to crush it.",
@@ -2013,7 +1891,7 @@
     ]
   },
   {
-    "id": "law-183",
+    "id": "law-172",
     "domain": "law",
     "hook": "Czechoslovakia split into two countries without ever holding a vote on it.",
     "fact": "On January 1, 1993, Czechoslovakia dissolved into the Czech Republic and Slovakia purely through an act of its federal parliament. No referendum was ever put to citizens on either side, even though opinion polls showed most of them wanted one.",
@@ -2025,10 +1903,10 @@
     ]
   },
   {
-    "id": "law-184",
+    "id": "law-173",
     "domain": "law",
     "hook": "A five-judge panel decided which pieces of former Yugoslavia counted as real countries.",
-    "fact": "As Yugoslavia broke apart in 1991, the European Community set up the Badinter Arbitration Committee, chaired by French jurist Robert Badinter, to rule on which breakaway republics met the legal criteria for recognition as independent states. Its opinions shaped which borders the rest of the world accepted.",
+    "fact": "As Yugoslavia broke apart in 1991, the European Community set up the five-member Badinter Arbitration Committee, chaired by French jurist Robert Badinter, to rule on which breakaway republics met the legal criteria for recognition as independent states. Its opinions shaped which borders the rest of the world accepted.",
     "tags": [
       "yugoslavia",
       "international-law",
@@ -2036,7 +1914,7 @@
     ]
   },
   {
-    "id": "law-185",
+    "id": "law-174",
     "domain": "law",
     "hook": "A UN court ruled that Kosovo's independence declaration broke no law.",
     "fact": "In 2010, the International Court of Justice issued an advisory opinion finding that Kosovo's 2008 declaration of independence from Serbia did not violate international law. The court was careful to note it was ruling only on the declaration itself, not on Kosovo's broader right to statehood.",
@@ -2047,7 +1925,7 @@
     ]
   },
   {
-    "id": "law-186",
+    "id": "law-175",
     "domain": "law",
     "hook": "Montenegro's independence hinged on clearing a threshold no one expected to be close.",
     "fact": "Montenegro's 2006 independence referendum required at least 55% support to pass, a threshold set by the European Union to ensure a clear mandate. The vote landed at 55.5% in favor, just half a percentage point above the line.",
@@ -2058,9 +1936,9 @@
     ]
   },
   {
-    "id": "law-187",
+    "id": "law-176",
     "domain": "law",
-    "hook": "A dictator's trial and execution took less time than a football match.",
+    "hook": "A dictator's trial lasted less time than a football match.",
     "fact": "On Christmas Day 1989, Romania's Nicolae Ceaușescu and his wife were tried by a hastily formed military tribunal on charges including genocide, convicted, and executed by firing squad the same day. The trial itself reportedly lasted under an hour.",
     "tags": [
       "romania",
@@ -2069,7 +1947,7 @@
     ]
   },
   {
-    "id": "law-188",
+    "id": "law-177",
     "domain": "law",
     "hook": "Bulgaria's first constitution alarmed conservative powers for being too democratic.",
     "fact": "The 1879 Tarnovo Constitution, adopted after Bulgaria's liberation from Ottoman rule, gave the country a broadly elected parliament and civil liberties modeled partly on Belgium's charter. It was considered one of the most liberal constitutions in Europe at the time, unsettling more conservative foreign powers.",
@@ -2080,7 +1958,7 @@
     ]
   },
   {
-    "id": "law-189",
+    "id": "law-178",
     "domain": "law",
     "hook": "The Baltic states legally treated 50 years of Soviet rule as if it never happened.",
     "fact": "When Estonia, Latvia, and Lithuania broke from the USSR in 1991, they framed it in law as restoring the independent states that had existed before Soviet annexation in 1940, not creating new ones. Many Western countries backed this by having never formally recognized that annexation in the first place.",
@@ -2091,7 +1969,7 @@
     ]
   },
   {
-    "id": "law-190",
+    "id": "law-179",
     "domain": "law",
     "hook": "Sweden invented an entire job title for keeping the government honest.",
     "fact": "In 1809, Sweden's parliament created the office of justitieombudsman, an independent official tasked with investigating citizen complaints against public authorities. Nearly every country that now has an ombudsman borrowed the concept, and the word, from this Swedish original.",
@@ -2102,7 +1980,7 @@
     ]
   },
   {
-    "id": "law-191",
+    "id": "law-180",
     "domain": "law",
     "hook": "Finland let women both vote and run for office before any other country did.",
     "fact": "In 1906, Finland's parliament became the first in the world to grant women full political rights: the right to vote and the right to stand for election, in the same reform. New Zealand had granted women the vote earlier, but not the right to run.",
@@ -2113,9 +1991,9 @@
     ]
   },
   {
-    "id": "law-192",
+    "id": "law-181",
     "domain": "law",
-    "hook": "Iceland let ordinary citizens help draft a new constitution on Facebook.",
+    "hook": "Iceland let ordinary citizens help draft a new constitution online.",
     "fact": "An elected Icelandic council drafted a new constitution in 2011 partly by posting sections online for public comment, and voters approved its substance in a 2012 referendum. Parliament never passed it into law, so Iceland's older constitution remained in force.",
     "tags": [
       "iceland",
@@ -2124,7 +2002,7 @@
     ]
   },
   {
-    "id": "law-193",
+    "id": "law-182",
     "domain": "law",
     "hook": "Denmark legally recognized Greenlanders as a people under international law in 2009.",
     "fact": "Greenland's Self-Government Act of 2009 states that the people of Greenland hold status as a people under international law with the right to self-determination, and it transferred additional areas of governance from Denmark to Greenland's own government.",
@@ -2136,7 +2014,7 @@
     ]
   },
   {
-    "id": "law-194",
+    "id": "law-183",
     "domain": "law",
     "hook": "A unanimous court ruling ended a South Korean presidency in 2017.",
     "fact": "In March 2017, South Korea's Constitutional Court voted unanimously to uphold parliament's impeachment of President Park Geun-hye over an influence-peddling scandal, removing her from office immediately. She was the first South Korean president ousted through impeachment.",
@@ -2147,7 +2025,7 @@
     ]
   },
   {
-    "id": "law-195",
+    "id": "law-184",
     "domain": "law",
     "hook": "One country has rewritten its constitution twenty separate times since 1932.",
     "fact": "Thailand has had 20 constitutions and charters since its 1932 revolution ended absolute monarchy, driven largely by a cycle of military coups that scrap the existing charter and replace it with one written by the new junta's own drafting committee.",
@@ -2158,7 +2036,7 @@
     ]
   },
   {
-    "id": "law-196",
+    "id": "law-185",
     "domain": "law",
     "hook": "Indonesian courts can apply three entirely different legal systems to the same country.",
     "fact": "Indonesia formally recognizes a mix of Dutch-derived civil law, Islamic law in matters like marriage and inheritance, and customary adat law that varies by ethnic community and region. Which set of rules applies to a given dispute can depend on where in the country it arises.",
@@ -2169,7 +2047,7 @@
     ]
   },
   {
-    "id": "law-197",
+    "id": "law-186",
     "domain": "law",
     "hook": "Taiwan's top judges spent decades issuing 'interpretations' instead of rulings.",
     "fact": "For over 70 years, Taiwan's Council of Grand Justices decided constitutional questions through documents called interpretations rather than court judgments. A 2022 procedural overhaul formally reorganized the body into the Constitutional Court, which now issues judgments through court-like proceedings.",
@@ -2180,7 +2058,7 @@
     ]
   },
   {
-    "id": "law-198",
+    "id": "law-187",
     "domain": "law",
     "hook": "A revolution that toppled a dictator got written into the Philippines' constitution.",
     "fact": "The Philippines adopted a new constitution by public plebiscite on February 2, 1987, less than a year after the peaceful People Power uprising forced President Ferdinand Marcos from power. The new charter added safeguards specifically aimed at preventing another prolonged one-man rule.",
@@ -2191,7 +2069,7 @@
     ]
   },
   {
-    "id": "law-199",
+    "id": "law-188",
     "domain": "law",
     "hook": "Almost none of Papua New Guinea's land is owned the way most countries think of ownership.",
     "fact": "About 97% of land in Papua New Guinea is held under customary tenure by clans and communities rather than as individually titled private property, a system the constitution recognizes and protects alongside the small share of formally registered land.",
@@ -2202,7 +2080,7 @@
     ]
   },
   {
-    "id": "law-200",
+    "id": "law-189",
     "domain": "law",
     "hook": "For nearly three decades, only village chiefs could vote in Samoa's elections.",
     "fact": "From independence in 1962 until a 1990 referendum, the right to vote and run for Samoa's parliament belonged only to matai, the holders of traditional chiefly titles. The referendum extended the vote to all adult citizens, though candidates were still required to hold a matai title for years afterward.",
@@ -2210,6 +2088,118 @@
       "samoa",
       "suffrage",
       "matai"
+    ]
+  },
+  {
+    "id": "law-190",
+    "domain": "law",
+    "hook": "'Testify' and 'testament' come from the same Latin word for witness.",
+    "fact": "Both words trace back to the Latin 'testis,' meaning witness. To 'testify' is to bear witness in court, while a 'last will and testament' was originally a document witnessed to prove the maker's true wishes after death.",
+    "tags": [
+      "legal-language",
+      "etymology",
+      "wills-and-inheritance"
+    ]
+  },
+  {
+    "id": "law-191",
+    "domain": "law",
+    "hook": "'Attorney' comes from an Old French word meaning 'to appoint.'",
+    "fact": "The word derives from the Old French 'atourner,' meaning to turn to or assign a task to someone. An attorney was originally simply a person legally appointed to act on another person's behalf, a meaning still at the core of the modern term 'power of attorney.'",
+    "tags": [
+      "legal-language",
+      "etymology"
+    ]
+  },
+  {
+    "id": "law-192",
+    "domain": "law",
+    "hook": "A single property rule limits how far into the future a will can control land.",
+    "fact": "Common law's 'rule against perpetuities' voids any condition on property ownership that might not resolve within the lifetime of someone alive when it was created, plus 21 years. It exists to stop long-dead owners from controlling who owns land centuries into the future.",
+    "tags": [
+      "property-law",
+      "wills-and-inheritance"
+    ]
+  },
+  {
+    "id": "law-193",
+    "domain": "law",
+    "hook": "In many places, a will scrawled entirely by hand needs no witnesses to be valid.",
+    "fact": "A 'holographic will,' one written and signed entirely in the testator's own handwriting, is legally valid without witnesses in France and roughly half of US states. Courts have accepted holographic wills scratched onto unusual surfaces, including a dying farmer's tractor fender, as long as the full document is in the deceased's own hand.",
+    "tags": [
+      "wills-and-inheritance",
+      "legal-oddities"
+    ]
+  },
+  {
+    "id": "law-194",
+    "domain": "law",
+    "hook": "One of the shortest legal wills on record was just two words long.",
+    "fact": "In 1967, a German farmer named Karl Tausch wrote 'Alles meiner Frau,' German for 'all to wife,' and it was accepted as a valid, legally binding will. It is often cited as one of the shortest wills ever probated.",
+    "tags": [
+      "wills-and-inheritance",
+      "legal-oddities"
+    ]
+  },
+  {
+    "id": "law-195",
+    "domain": "law",
+    "hook": "Property owners once legally owned the sky above their land all the way to infinity.",
+    "fact": "Under the old common law maxim 'ad coelum,' owning land meant owning everything above it without limit and everything below it down to the earth's core. The rule became unworkable once airplanes existed, since every flight would technically trespass on every property beneath it, so courts eventually limited landowners' rights to only the airspace they could reasonably use.",
+    "tags": [
+      "property-law",
+      "legal-language"
+    ]
+  },
+  {
+    "id": "law-196",
+    "domain": "law",
+    "hook": "Ancient Rome's earliest law code let creditors literally cut up a debtor who couldn't pay.",
+    "fact": "The Twelve Tables, Rome's foundational law code from the 5th century BC, allowed creditors to seize a debtor who failed to pay, hold them in chains, and if the debt still went unpaid, divide the debtor's body among themselves. Historians debate whether this brutal penalty was ever actually carried out in practice.",
+    "tags": [
+      "legal-history",
+      "roman-law"
+    ]
+  },
+  {
+    "id": "law-197",
+    "domain": "law",
+    "hook": "Governments once handed out official licenses that made piracy legal.",
+    "fact": "A letter of marque was a government document authorizing a private ship owner to attack and plunder enemy vessels during wartime, turning ordinary sailors into legally sanctioned 'privateers.' The power to issue them is still written into the US Constitution, even though the US government has not issued one since the 19th century.",
+    "tags": [
+      "maritime-law",
+      "legal-history"
+    ]
+  },
+  {
+    "id": "law-198",
+    "domain": "law",
+    "hook": "Ships that rescue a sinking vessel's cargo often get paid only if the rescue actually works.",
+    "fact": "Maritime salvage law traditionally follows a 'no cure, no pay' principle: a salvor who attempts to save a ship or its cargo from danger is entitled to a reward only if the effort succeeds. If the rescue fails, the salvor typically receives nothing for the attempt.",
+    "tags": [
+      "maritime-law",
+      "contract-law"
+    ]
+  },
+  {
+    "id": "law-199",
+    "domain": "law",
+    "hook": "The term 'grandfather clause' comes from a US law designed to look neutral while blocking Black voters.",
+    "fact": "After the Civil War, several southern US states passed laws requiring voters to pass literacy tests, but exempted anyone whose grandfather had been eligible to vote before 1867, a date chosen because Black Americans had not yet been granted the right to vote. Courts eventually struck the laws down, but the term survived to describe any rule that exempts people already established under an old system.",
+    "whyItMatters": "It's a textbook example of a facially neutral law engineered to produce a discriminatory result, a pattern courts still watch for today.",
+    "tags": [
+      "legal-history",
+      "legal-language"
+    ]
+  },
+  {
+    "id": "law-200",
+    "domain": "law",
+    "hook": "The word 'verdict' literally means 'truly said' in Latin.",
+    "fact": "Verdict comes from the Latin 'vere dictum,' meaning 'truly said,' reflecting its origin as the sworn, truthful declaration a jury delivers after weighing the evidence in a case.",
+    "tags": [
+      "legal-language",
+      "etymology"
     ]
   }
 ]
