@@ -1,4 +1,9 @@
-export const config = { runtime: 'edge' }
+// Node runtime, not edge: Vercel's edge bundler rejected these functions
+// ('referencing unsupported modules: @vercel') even when they imported
+// nothing. Node has no such module restrictions and @vercel/og supports
+// it; these are cheap, cacheable calls where the latency difference
+// doesn't matter.
+export const config = { runtime: 'nodejs' }
 
 /**
  * Serves `/f/:factId` (via the rewrite in vercel.json) with real link
@@ -21,8 +26,8 @@ export const config = { runtime: 'edge' }
  * rather than shared. Keep the two in sync.
  */
 
-/** Vercel's edge runtime exposes env vars on `process.env` but is not
- * Node, so this declares only what actually exists. Both values are the
+/** Vercel functions expose env vars on `process.env`; this declares only
+ * what is used here. Both values are the
  * same public credentials the browser already ships. */
 declare const process: { env: Record<string, string | undefined> }
 

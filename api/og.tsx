@@ -1,6 +1,11 @@
 import { ImageResponse } from '@vercel/og'
 
-export const config = { runtime: 'edge' }
+// Node runtime, not edge: Vercel's edge bundler rejected these functions
+// ('referencing unsupported modules: @vercel') even when they imported
+// nothing. Node has no such module restrictions and @vercel/og supports
+// it; these are cheap, cacheable calls where the latency difference
+// doesn't matter.
+export const config = { runtime: 'nodejs' }
 
 const WIDTH = 1200
 const HEIGHT = 630
