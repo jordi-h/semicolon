@@ -10,6 +10,7 @@ import psychology from './psychology.json'
 import art from './art.json'
 import food from './food.json'
 import sports from './sports.json'
+import law from './law.json'
 
 /**
  * All curated facts, hand-seeded per domain in src/data/facts/*.json.
@@ -29,4 +30,5 @@ export const allFacts: Fact[] = [
   ...(art as Fact[]),
   ...(food as Fact[]),
   ...(sports as Fact[]),
+  ...(law as Fact[]),
 ]

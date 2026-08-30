@@ -3,7 +3,7 @@
  * components/hooks against them — see README for the full data model.
  */
 
-/** The eleven broad umbrella domains available at launch. */
+/** The twelve broad umbrella domains available at launch. */
 export const DOMAINS = [
   'science',
   'technology',
@@ -16,6 +16,7 @@ export const DOMAINS = [
   'art',
   'food',
   'sports',
+  'law',
 ] as const
 
 export type Domain = (typeof DOMAINS)[number]
@@ -52,6 +53,7 @@ export const DOMAIN_LABELS: Record<Locale, Record<Domain, string>> = {
     art: 'Art & Design',
     food: 'Food & Cuisine',
     sports: 'Sports & Fitness',
+    law: 'Law & Politics',
   },
   fr: {
     science: 'Sciences',
@@ -65,6 +67,7 @@ export const DOMAIN_LABELS: Record<Locale, Record<Domain, string>> = {
     art: 'Art & design',
     food: 'Cuisine & gastronomie',
     sports: 'Sport & forme physique',
+    law: 'Droit & politique',
   },
   nl: {
     science: 'Wetenschap',
@@ -78,6 +81,7 @@ export const DOMAIN_LABELS: Record<Locale, Record<Domain, string>> = {
     art: 'Kunst & design',
     food: 'Eten & gastronomie',
     sports: 'Sport & fitness',
+    law: 'Recht & politiek',
   },
   es: {
     science: 'Ciencia',
@@ -91,6 +95,7 @@ export const DOMAIN_LABELS: Record<Locale, Record<Domain, string>> = {
     art: 'Arte y diseño',
     food: 'Gastronomía y cocina',
     sports: 'Deporte y forma física',
+    law: 'Derecho y política',
   },
 }
 
@@ -106,6 +111,7 @@ export const DOMAIN_EMOJI: Record<Domain, string> = {
   art: '🎨',
   food: '🍽️',
   sports: '🏅',
+  law: '⚖️',
 }
 
 /** A single self-contained trivia card, resolved to the caller's locale.

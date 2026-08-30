@@ -7,10 +7,16 @@ const INK = '#0F0B17'
 
 /**
  * One accent hue per domain, all drawn from the same 75% saturation /
- * 62% lightness formula so the eleven read as a matched set rather than
+ * 62% lightness formula so the twelve read as a matched set rather than
  * stock Tailwind colors — and all kept clear of the UI's own Signal
  * Violet (~260°) and Ember (~14°), which stay reserved for chrome, never
  * content, so a domain accent is never mistaken for an action.
+ *
+ * Twelve hues across roughly 300 usable degrees leaves about 25° between
+ * neighbours, so `law` (220°) and `psychology` (205°) are the tightest
+ * pair — distinguishable on a full-bleed card, closest to each other in
+ * the settings pill list. Adding a thirteenth domain should probably
+ * re-space the whole ring rather than squeeze into another gap.
  */
 export const DOMAIN_ACCENT: Record<Domain, string> = {
   history: '#E7B655',
@@ -20,6 +26,7 @@ export const DOMAIN_ACCENT: Record<Domain, string> = {
   geography: '#55E7A1',
   technology: '#55E7E4',
   psychology: '#55A5E7',
+  law: '#5586E7',
   space: '#5561E7',
   art: '#CF55E7',
   culture: '#E755BB',
