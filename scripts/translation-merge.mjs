@@ -22,8 +22,11 @@ const WORK_DIR = '.translation-work'
 
 const checkOnly = process.argv.includes('--check')
 
+// `out-audit-*.json` is the content auditor's findings, not translations:
+// it shares the out- prefix but holds {id, severity, problem, fix}. Left
+// in, it reports every finding as a record "missing fr/nl/es".
 const outFiles = (await readdir(WORK_DIR)).filter(
-  (f) => f.startsWith('out-') && f.endsWith('.json'),
+  (f) => f.startsWith('out-') && !f.startsWith('out-audit-') && f.endsWith('.json'),
 )
 if (outFiles.length === 0) {
   console.log(`no out-*.json in ${WORK_DIR}/ — nothing to merge`)
