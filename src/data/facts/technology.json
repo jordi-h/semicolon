@@ -3256,7 +3256,21 @@
     "tags": [
       "semiconductors",
       "hardware"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une seule puce moderne peut contenir des dizaines de milliards de transistors.",
+        "fact": "L'Intel 4004 de 1971 comptait environ 2 300 transistors. Des décennies plus tard, les processeurs de pointe en entassent des dizaines de milliards sur une puce de taille comparable, grâce à une miniaturisation sans relâche."
+      },
+      "nl": {
+        "hook": "Eén moderne chip kan tientallen miljarden transistors bevatten.",
+        "fact": "De Intel 4004 uit 1971 had zo'n 2.300 transistors. Decennia later proppen geavanceerde processors er tientallen miljarden op een chip van ongeveer hetzelfde formaat, dankzij niet-aflatende miniaturisering."
+      },
+      "es": {
+        "hook": "Un solo chip moderno puede contener decenas de miles de millones de transistores.",
+        "fact": "El Intel 4004 de 1971 tenía unos 2.300 transistores. Décadas después, los procesadores más avanzados concentran decenas de miles de millones en un chip de tamaño parecido, gracias a una miniaturización incesante."
+      }
+    }
   },
   {
     "id": "technology-159",
@@ -3266,7 +3280,21 @@
     "tags": [
       "transportation",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les premières voitures ne roulaient pas à l'essence — beaucoup étaient électriques.",
+        "fact": "À la fin du XIXe et au début du XXe siècle, les voitures électriques étaient prisées en ville pour leur fonctionnement silencieux, propre et facile à démarrer. Elles se sont même mieux vendues que les modèles à essence aux États-Unis autour de 1900, avant que le carburant bon marché et de meilleures routes ne donnent l'avantage au moteur à combustion."
+      },
+      "nl": {
+        "hook": "De eerste auto's reden niet op benzine — veel ervan waren elektrisch.",
+        "fact": "Eind negentiende en begin twintigste eeuw waren elektrische auto's populair in steden omdat ze stil en schoon waren en makkelijk startten. Rond 1900 verkochten ze in de VS zelfs korte tijd beter dan benzineauto's, tot goedkope brandstof en betere wegen de verbrandingsmotor de bovenhand gaven."
+      },
+      "es": {
+        "hook": "Los primeros coches no funcionaban con gasolina: muchos eran eléctricos.",
+        "fact": "A finales del siglo XIX y principios del XX, los coches eléctricos triunfaban en las ciudades por ser silenciosos, limpios y fáciles de arrancar. Hacia 1900 llegaron a venderse más que los de gasolina en EE. UU., hasta que el combustible barato y las mejores carreteras dieron la ventaja al motor de combustión."
+      }
+    }
   },
   {
     "id": "technology-160",
@@ -3277,7 +3305,24 @@
     "tags": [
       "transportation",
       "safety"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La ceinture trois points a été offerte gratuitement à tous les constructeurs.",
+        "fact": "L'ingénieur de Volvo Nils Bohlin a breveté la ceinture de sécurité trois points moderne en 1959, et Volvo a ouvert le brevet aux autres constructeurs sans contrepartie, estimant que sauver des vies comptait plus que n'importe quel avantage concurrentiel.",
+        "whyItMatters": "On attribue à cette conception des centaines de milliers de vies sauvées dans toute l'industrie automobile."
+      },
+      "nl": {
+        "hook": "De driepuntsgordel werd gratis vrijgegeven zodat iedereen hem kon kopiëren.",
+        "fact": "Volvo-ingenieur Nils Bohlin patenteerde de moderne driepuntsgordel in 1959, waarna Volvo het patent kosteloos openstelde voor andere autofabrikanten: levens redden woog zwaarder dan welk concurrentievoordeel ook.",
+        "whyItMatters": "Het ontwerp heeft in de hele auto-industrie naar schatting honderdduizenden levens gered."
+      },
+      "es": {
+        "hook": "El cinturón de tres puntos se liberó para que cualquiera lo copiara, gratis.",
+        "fact": "El ingeniero de Volvo Nils Bohlin patentó el cinturón de seguridad moderno de tres puntos en 1959, y Volvo abrió la patente a otros fabricantes sin coste alguno, con el argumento de que salvar vidas importaba más que cualquier ventaja competitiva.",
+        "whyItMatters": "Se atribuye a este diseño el haber salvado cientos de miles de vidas en toda la industria del automóvil."
+      }
+    }
   },
   {
     "id": "technology-161",
@@ -3287,7 +3332,21 @@
     "tags": [
       "transportation",
       "safety"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les airbags ont été brevetés dans les années 1950, mais ont mis des décennies à se généraliser.",
+        "fact": "Les premiers brevets d'airbag remontent au milieu des années 1950, mais des capteurs et des systèmes de gonflage fiables n'ont vu le jour que dans les années 1970 et 1980, et l'airbag n'est devenu obligatoire sur les voitures américaines que dans les années 1990."
+      },
+      "nl": {
+        "hook": "Airbags werden in de jaren 50 gepatenteerd, maar deden er decennia over om standaard te worden.",
+        "fact": "De eerste airbagpatenten dateren van halverwege de jaren 50, maar betrouwbare sensoren en opblaassystemen kwamen er pas in de jaren 70 en 80, en pas in de jaren 90 werden airbags verplicht in Amerikaanse auto's."
+      },
+      "es": {
+        "hook": "Los airbags se patentaron en los años 50, pero tardaron décadas en ser estándar.",
+        "fact": "Las primeras patentes de airbag datan de mediados de los años 50, pero los sensores y sistemas de inflado fiables no llegaron hasta los años 70 y 80, y el airbag no fue obligatorio en los coches estadounidenses hasta los años 90."
+      }
+    }
   },
   {
     "id": "technology-162",
@@ -3297,7 +3356,21 @@
     "tags": [
       "transportation",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le réacteur a été inventé en même temps des deux côtés d'une guerre.",
+        "fact": "L'ingénieur britannique Frank Whittle et l'ingénieur allemand Hans von Ohain ont mis au point séparément des turboréacteurs fonctionnels dans les années 1930 sans rien savoir des travaux de l'autre, et c'est l'Allemagne qui a fait voler le premier avion à réaction en 1939."
+      },
+      "nl": {
+        "hook": "De straalmotor werd aan beide kanten van een oorlog los van elkaar uitgevonden.",
+        "fact": "De Britse ingenieur Frank Whittle en de Duitse ingenieur Hans von Ohain ontwikkelden in de jaren 30 elk afzonderlijk een werkende straalmotor zonder van elkaars werk te weten, en Duitsland liet in 1939 het eerste straalvliegtuig vliegen."
+      },
+      "es": {
+        "hook": "El motor a reacción se inventó por separado a ambos lados de una guerra.",
+        "fact": "El ingeniero británico Frank Whittle y el alemán Hans von Ohain desarrollaron por separado motores a reacción funcionales en los años 30 sin conocer el trabajo del otro, y Alemania hizo volar el primer avión a reacción en 1939."
+      }
+    }
   },
   {
     "id": "technology-163",
@@ -3308,7 +3381,24 @@
     "tags": [
       "transportation",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les satellites GPS tournent avec des horloges corrigées par la relativité d'Einstein.",
+        "fact": "Les horloges des satellites GPS avancent plus vite que celles restées sur Terre, à cause de la gravité plus faible et de la vitesse orbitale, deux effets prédits par la relativité. Le système applique des corrections permanentes, sans quoi les erreurs de position s'accumuleraient de plusieurs kilomètres par jour.",
+        "whyItMatters": "Sans cette correction relativiste, chaque appareil GPS sur Terre deviendrait totalement imprécis en quelques heures."
+      },
+      "nl": {
+        "hook": "GPS-satellieten draaien op klokken die gecorrigeerd zijn voor Einsteins relativiteit.",
+        "fact": "De klokken in GPS-satellieten lopen sneller dan klokken op aarde door de zwakkere zwaartekracht en de baansnelheid, effecten die de relativiteitstheorie voorspelt. Het systeem corrigeert daar voortdurend voor; anders zouden positiefouten per dag tot kilometers oplopen.",
+        "whyItMatters": "Zonder die relativistische correctie zou elk gps-apparaat op aarde binnen enkele uren hopeloos de mist in gaan."
+      },
+      "es": {
+        "hook": "Los satélites GPS funcionan con relojes corregidos por la relatividad de Einstein.",
+        "fact": "Los relojes de los satélites GPS van más rápido que los de la Tierra por la menor gravedad y la velocidad orbital, efectos predichos por la relatividad. El sistema aplica correcciones constantes; de lo contrario, los errores de posición se acumularían en kilómetros al día.",
+        "whyItMatters": "Sin esa corrección relativista, cualquier dispositivo GPS del planeta se volvería tremendamente impreciso en cuestión de horas."
+      }
+    }
   },
   {
     "id": "technology-164",
@@ -3318,7 +3408,21 @@
     "tags": [
       "transportation",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le pneu moderne existe parce qu'un vétérinaire voulait un vélo plus confortable.",
+        "fact": "John Boyd Dunlop, vétérinaire écossais, a mis au point en 1888 un pneu en caoutchouc gonflable réellement utilisable pour adoucir les trajets à vélo de son fils. Le principe a très vite été repris par l'industrie automobile naissante."
+      },
+      "nl": {
+        "hook": "Moderne banden bestaan omdat een dierenarts zijn zoon comfortabeler wilde laten fietsen.",
+        "fact": "De Schotse dierenarts John Boyd Dunlop ontwikkelde in 1888 een bruikbare luchtband van rubber om de fiets van zijn zoon soepeler te laten rijden. Het ontwerp werd al snel overgenomen door de opkomende auto-industrie."
+      },
+      "es": {
+        "hook": "Los neumáticos modernos existen porque un veterinario quería una bici más cómoda.",
+        "fact": "John Boyd Dunlop, veterinario escocés, creó en 1888 un neumático de caucho lleno de aire realmente práctico para que su hijo fuera más cómodo en bicicleta. El diseño pasó enseguida a la incipiente industria del automóvil."
+      }
+    }
   },
   {
     "id": "technology-165",
@@ -3329,7 +3433,24 @@
     "tags": [
       "transportation",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le pot catalytique a été inventé contre le smog, pas pour économiser du carburant.",
+        "fact": "Apparus sur les voitures de série au milieu des années 1970, les pots catalytiques utilisent des réactions chimiques pour transformer des gaz d'échappement nocifs comme le monoxyde de carbone en composés moins toxiques, essentiellement en réponse au durcissement des normes antipollution.",
+        "whyItMatters": "En cinquante ans, ce dispositif a retiré des quantités colossales de polluants toxiques de l'air des villes."
+      },
+      "nl": {
+        "hook": "De katalysator is uitgevonden tegen smog, niet om brandstof te besparen.",
+        "fact": "Katalysatoren verschenen halverwege de jaren 70 in serieauto's en zetten via chemische reacties schadelijke uitlaatgassen zoals koolmonoxide om in minder giftige stoffen, vooral als antwoord op strengere luchtkwaliteitsregels.",
+        "whyItMatters": "In vijftig jaar tijd heeft het apparaat enorme hoeveelheden giftige stoffen uit de stadslucht gehaald."
+      },
+      "es": {
+        "hook": "El catalizador se inventó para combatir el esmog, no para ahorrar combustible.",
+        "fact": "Los catalizadores llegaron a los coches de serie a mediados de los años 70 y usan reacciones químicas para convertir gases de escape dañinos, como el monóxido de carbono, en compuestos menos tóxicos, sobre todo como respuesta a normativas de contaminación cada vez más estrictas.",
+        "whyItMatters": "En los últimos 50 años, el dispositivo ha eliminado cantidades enormes de contaminantes tóxicos del aire urbano."
+      }
+    }
   },
   {
     "id": "technology-166",
@@ -3339,7 +3460,21 @@
     "tags": [
       "transportation",
       "aviation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La boîte noire d'un avion n'est pas noire du tout.",
+        "fact": "Les enregistreurs de vol et de conversations du cockpit sont peints en orange vif pour être plus faciles à repérer dans les débris. L'origine du surnom « boîte noire » n'est pas tranchée, mais elle n'a rien à voir avec leur vraie couleur."
+      },
+      "nl": {
+        "hook": "De zwarte doos in een vliegtuig is helemaal niet zwart.",
+        "fact": "Vluchtgegevens- en cockpitrecorders zijn feloranje geverfd zodat ze makkelijker terug te vinden zijn in het wrak. Waar de bijnaam 'zwarte doos' vandaan komt, is niet helemaal duidelijk, maar met hun echte kleur heeft het niets te maken."
+      },
+      "es": {
+        "hook": "La caja negra de los aviones no es negra.",
+        "fact": "Las grabadoras de datos de vuelo y de voz de cabina se pintan de naranja intenso para localizarlas más fácilmente entre los restos. El origen del apodo 'caja negra' no está del todo claro, pero no tiene nada que ver con su color real."
+      }
+    }
   },
   {
     "id": "technology-167",
@@ -3349,7 +3484,21 @@
     "tags": [
       "transportation",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le feu de circulation est plus vieux que l'automobile.",
+        "fact": "Le premier signal lumineux, alimenté au gaz, a été installé devant le Parlement britannique en 1868 pour régler la circulation des attelages et des piétons — des décennies avant que les voitures n'envahissent les rues. Il a explosé en quelques semaines à cause d'une fuite de gaz."
+      },
+      "nl": {
+        "hook": "Het verkeerslicht is ouder dan de auto.",
+        "fact": "Het eerste verkeerslicht, dat op gas werkte, werd in 1868 voor het Britse parlement geplaatst om paardenkoetsen en voetgangers te regelen — decennia voordat auto's de straten vulden. Binnen enkele weken ontplofte het door een gaslek."
+      },
+      "es": {
+        "hook": "El semáforo es anterior al automóvil.",
+        "fact": "La primera señal de tráfico, alimentada por gas, se instaló frente al Parlamento británico en 1868 para ordenar el tránsito de carruajes y peatones, décadas antes de que los coches llenaran las calles. Explotó a las pocas semanas por una fuga de gas."
+      }
+    }
   },
   {
     "id": "technology-168",
@@ -3359,7 +3508,21 @@
     "tags": [
       "transportation",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le régulateur de vitesse a été inventé par un ingénieur aveugle.",
+        "fact": "Ralph Teetor, devenu aveugle après un accident dans l'enfance, a inventé et breveté un système de régulation de vitesse pour automobile dans les années 1940, exaspéré par un avocat au volant duquel il voyageait et dont l'allure changeait sans cesse au fil de la conversation."
+      },
+      "nl": {
+        "hook": "Cruisecontrol is uitgevonden door een blinde ingenieur.",
+        "fact": "Ralph Teetor, die op jonge leeftijd bij een ongeluk zijn zicht verloor, bedacht en patenteerde in de jaren 40 een snelheidsregelsysteem voor auto's, uit ergernis over een advocaat bij wie hij meereed en die tijdens het praten voortdurend harder en zachter ging rijden."
+      },
+      "es": {
+        "hook": "El control de crucero lo inventó un ingeniero ciego.",
+        "fact": "Ralph Teetor, que perdió la vista en un accidente de niño, inventó y patentó un sistema de control de velocidad para automóviles en los años 40, harto de viajar con un abogado cuya velocidad al volante variaba sin parar mientras conversaban."
+      }
+    }
   },
   {
     "id": "technology-169",
@@ -3369,7 +3532,21 @@
     "tags": [
       "transportation",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les trains maglev flottent sur des aimants au lieu de toucher les rails.",
+        "fact": "Les trains à sustentation magnétique utilisent de puissants électroaimants pour se soulever légèrement au-dessus de la voie et se propulser, ce qui supprime le frottement de roulement et permet à certains d'entre eux de dépasser 480 km/h."
+      },
+      "nl": {
+        "hook": "Maglevtreinen zweven op magneten in plaats van over rails te rollen.",
+        "fact": "Magneetzweeftreinen gebruiken krachtige elektromagneten om de trein net boven het spoor te tillen en vooruit te duwen. Dat schakelt rolwrijving uit, waardoor sommige maglevs meer dan 480 km/u halen."
+      },
+      "es": {
+        "hook": "Los trenes maglev flotan sobre imanes en lugar de tocar los raíles.",
+        "fact": "Los trenes de levitación magnética emplean electroimanes potentes para elevarse ligeramente sobre la vía e impulsarse hacia delante, lo que elimina la fricción de rodadura y permite que algunos maglev superen los 480 km/h."
+      }
+    }
   },
   {
     "id": "technology-170",
@@ -3379,7 +3556,21 @@
     "tags": [
       "transportation",
       "aviation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier vol des frères Wright a couvert moins que l'envergure d'un avion de ligne actuel.",
+        "fact": "Le premier vol motorisé du Wright Flyer, en 1903, a duré 12 secondes et parcouru environ 37 mètres — moins que l'envergure de bien des gros-porteurs modernes."
+      },
+      "nl": {
+        "hook": "De eerste vlucht van de gebroeders Wright was korter dan de spanwijdte van een modern verkeersvliegtuig.",
+        "fact": "De eerste gemotoriseerde vlucht van de Wright Flyer duurde in 1903 twaalf seconden en legde zo'n 37 meter af — minder dan de spanwijdte van veel moderne jumbojets."
+      },
+      "es": {
+        "hook": "El primer vuelo de los hermanos Wright recorrió menos que la envergadura de un avión actual.",
+        "fact": "El primer vuelo propulsado del Wright Flyer, en 1903, duró 12 segundos y cubrió unos 37 metros: menos que la envergadura de muchos aviones de gran tamaño de hoy."
+      }
+    }
   },
   {
     "id": "technology-171",
@@ -3389,7 +3580,21 @@
     "tags": [
       "transportation",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'aéroglisseur a été testé avec des boîtes de conserve et un aspirateur.",
+        "fact": "L'inventeur britannique Christopher Cockerell a testé son idée de véhicule sur coussin d'air dans les années 1950 avec deux boîtes de conserve, une balance de cuisine et un aspirateur soufflant de l'air, avant de mettre au point le premier aéroglisseur réellement utilisable."
+      },
+      "nl": {
+        "hook": "De hovercraft is getest met blikjes en een stofzuiger.",
+        "fact": "De Britse uitvinder Christopher Cockerell testte zijn idee voor een luchtkussenvoertuig in de jaren 50 met twee blikjes, een keukenweegschaal en een stofzuiger die lucht blies, voordat hij de eerste bruikbare hovercraft bouwde."
+      },
+      "es": {
+        "hook": "El aerodeslizador se probó con latas de conserva y una aspiradora.",
+        "fact": "El inventor británico Christopher Cockerell puso a prueba su idea de vehículo de colchón de aire en los años 50 usando dos latas, una balanza de cocina y una aspiradora soplando aire, antes de desarrollar el primer aerodeslizador práctico."
+      }
+    }
   },
   {
     "id": "technology-172",
@@ -3399,7 +3604,21 @@
     "tags": [
       "transportation",
       "aviation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le pilote automatique existait des décennies avant l'aviation commerciale à réaction.",
+        "fact": "Le premier pilote automatique réellement fonctionnel, mis au point par la Sperry Corporation, a été présenté en 1914 : il permettait à un avion de voler en palier sans les mains — des décennies avant les premiers avions de ligne à réaction."
+      },
+      "nl": {
+        "hook": "De automatische piloot bestond decennia vóór de eerste straalverkeersvliegtuigen.",
+        "fact": "Het eerste bruikbare autopilotsysteem, ontwikkeld door Sperry Corporation, werd in 1914 gedemonstreerd en liet een vliegtuig zonder handen horizontaal doorvliegen — decennia voordat er straalverkeersvliegtuigen waren."
+      },
+      "es": {
+        "hook": "El piloto automático es décadas anterior a los aviones comerciales a reacción.",
+        "fact": "El primer sistema de piloto automático práctico, desarrollado por Sperry Corporation, se demostró en 1914 y permitía que un avión mantuviera el vuelo nivelado sin manos, décadas antes de que existieran los reactores comerciales."
+      }
+    }
   },
   {
     "id": "technology-173",
@@ -3409,7 +3628,21 @@
     "tags": [
       "transportation",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La direction assistée a mis plus de vingt ans à passer du brevet à la série.",
+        "fact": "L'ingénieur Francis W. Davis a mis au point la direction assistée hydraulique à la fin des années 1920 et dans les années 1930, mais il a fallu attendre la Chrysler Imperial de 1951 pour la voir proposée en option d'usine sur une voiture de série américaine."
+      },
+      "nl": {
+        "hook": "Stuurbekrachtiging deed er ruim twintig jaar over om van patent naar productie te gaan.",
+        "fact": "Ingenieur Francis W. Davis ontwikkelde eind jaren 20 en in de jaren 30 hydraulische stuurbekrachtiging, maar pas in de Chrysler Imperial van 1951 werd het als fabrieksoptie aangeboden op een Amerikaanse serieauto."
+      },
+      "es": {
+        "hook": "La dirección asistida tardó más de 20 años en pasar de la patente a la producción.",
+        "fact": "El ingeniero Francis W. Davis desarrolló la dirección asistida hidráulica a finales de los años 20 y durante los 30, pero no se ofreció como opción de fábrica en un coche de serie estadounidense hasta el Chrysler Imperial de 1951."
+      }
+    }
   },
   {
     "id": "technology-174",
@@ -3419,7 +3652,21 @@
     "tags": [
       "communications",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le télégraphe traversait un continent en quelques minutes, bien avant le téléphone.",
+        "fact": "Le télégraphe électrique de Samuel Morse, présenté publiquement en 1844, faisait circuler les messages sur des fils presque instantanément sur d'immenses distances, bouleversant la communication près de trente ans avant le brevet du téléphone d'Alexander Graham Bell."
+      },
+      "nl": {
+        "hook": "De telegraaf overbrugde een continent in minuten, decennia voordat de telefoon bestond.",
+        "fact": "De elektrische telegraaf van Samuel Morse, in 1844 publiekelijk gedemonstreerd, liet berichten vrijwel onmiddellijk over draden reizen tot op enorme afstanden. Dat veranderde de communicatie bijna dertig jaar voordat Alexander Graham Bell de telefoon patenteerde."
+      },
+      "es": {
+        "hook": "El telégrafo cruzaba un continente en minutos, décadas antes de que existiera el teléfono.",
+        "fact": "El telégrafo eléctrico de Samuel Morse, presentado en público en 1844, permitía que los mensajes viajaran por cables casi al instante a distancias enormes, transformando la comunicación casi 30 años antes de que Alexander Graham Bell patentara el teléfono."
+      }
+    }
   },
   {
     "id": "technology-175",
@@ -3429,7 +3676,21 @@
     "tags": [
       "communications",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le fax est plus vieux que le téléphone.",
+        "fact": "L'inventeur écossais Alexander Bain a breveté dès 1843 un appareil proche du fax, utilisant un système de balayage à pendule pour transmettre des images par les fils télégraphiques — plus de trente ans avant le brevet du téléphone de Bell en 1876."
+      },
+      "nl": {
+        "hook": "De fax is ouder dan de telefoon.",
+        "fact": "De Schotse uitvinder Alexander Bain patenteerde in 1843 al een faxachtig apparaat dat met een slingermechanisme afbeeldingen aftastte en over telegraafdraden verstuurde — ruim dertig jaar vóór Bells telefoonpatent in 1876."
+      },
+      "es": {
+        "hook": "El fax es más antiguo que el teléfono.",
+        "fact": "El inventor escocés Alexander Bain patentó en 1843 un aparato precursor del fax que usaba un sistema de barrido por péndulo para transmitir imágenes por cables telegráficos, más de tres décadas antes de la patente del teléfono de Bell en 1876."
+      }
+    }
   },
   {
     "id": "technology-176",
@@ -3439,7 +3700,21 @@
     "tags": [
       "communications",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le morse des télégraphistes n'est pas tout à fait celui que Morse a inventé.",
+        "fact": "Le code original de Samuel Morse était optimisé pour l'anglais et utilisait des pauses de durées variables. Les télégraphistes européens l'ont ensuite affiné pour donner le code Morse international, celui qu'on emploie encore aujourd'hui en radio et dans les signaux de détresse."
+      },
+      "nl": {
+        "hook": "De morsecode van telegrafisten is niet helemaal de code die Morse bedacht.",
+        "fact": "De oorspronkelijke code van Samuel Morse was afgestemd op het Engels en werkte met pauzes van wisselende lengte. Europese telegrafisten verfijnden hem later tot de internationale morsecode, die vandaag nog altijd wordt gebruikt in de radio en bij noodsignalen."
+      },
+      "es": {
+        "hook": "El código Morse de los telegrafistas no es exactamente el que inventó Morse.",
+        "fact": "El código original de Samuel Morse estaba optimizado para el inglés y usaba pausas de distinta duración. Los telegrafistas europeos lo refinaron después hasta convertirlo en el código Morse internacional, el que se sigue usando hoy en radio y en señales de emergencia."
+      }
+    }
   },
   {
     "id": "technology-177",
@@ -3449,7 +3724,21 @@
     "tags": [
       "communications",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La télévision est née de la rivalité entre deux technologies, jusqu'à ce que l'une l'emporte.",
+        "fact": "Dans les années 1920 et 1930, les premiers systèmes de télévision mécanique à disques rotatifs ont affronté les systèmes électroniques. L'Américain Philo Farnsworth a transmis la première image de télévision entièrement électronique en 1927, et l'électronique a fini par supplanter totalement le mécanique."
+      },
+      "nl": {
+        "hook": "Televisie ontstond uit twee rivaliserende technieken, tot er één won.",
+        "fact": "In de jaren 20 en 30 streden vroege mechanische televisiesystemen met draaiende schijven tegen elektronische systemen. De Amerikaanse uitvinder Philo Farnsworth zond in 1927 het eerste volledig elektronische tv-beeld uit, en uiteindelijk verdrong de elektronische tv de mechanische ontwerpen volledig."
+      },
+      "es": {
+        "hook": "La televisión nació de dos tecnologías rivales hasta que una se impuso.",
+        "fact": "En los años 20 y 30, los primeros sistemas de televisión mecánica con discos giratorios compitieron con los sistemas electrónicos. El inventor estadounidense Philo Farnsworth transmitió la primera imagen de televisión totalmente electrónica en 1927, y la TV electrónica acabó sustituyendo por completo a los diseños mecánicos."
+      }
+    }
   },
   {
     "id": "technology-178",
@@ -3459,7 +3748,21 @@
     "tags": [
       "communications",
       "space"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première émission de télévision transatlantique en direct dépendait d'un satellite gros comme un ballon de plage.",
+        "fact": "Telstar 1, lancé en 1962, a été le premier satellite à relayer des signaux de télévision et des appels téléphoniques par-dessus l'Atlantique, même s'il ne pouvait le faire qu'environ 20 minutes par orbite."
+      },
+      "nl": {
+        "hook": "De eerste live transatlantische tv-uitzending hing af van een satelliet ter grootte van een strandbal.",
+        "fact": "Telstar 1, gelanceerd in 1962, was de eerste satelliet die televisiesignalen en telefoongesprekken over de Atlantische Oceaan doorgaf, al kon hij dat maar zo'n 20 minuten per omloop."
+      },
+      "es": {
+        "hook": "La primera emisión de televisión transatlántica en directo dependió de un satélite del tamaño de una pelota de playa.",
+        "fact": "Telstar 1, lanzado en 1962, fue el primer satélite que retransmitió señales de televisión y llamadas telefónicas a través del océano Atlántico, aunque solo podía hacerlo unos 20 minutos por órbita."
+      }
+    }
   },
   {
     "id": "technology-179",
@@ -3470,7 +3773,24 @@
     "tags": [
       "communications",
       "hardware"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La fibre optique transporte l'information sous forme d'impulsions lumineuses, pas d'électricité.",
+        "fact": "Les réseaux internet et téléphoniques en fibre optique envoient les données sous forme de signaux lumineux qui rebondissent dans des brins de verre fins comme un cheveu, ce qui offre bien plus de débit et bien moins de perte de signal sur longue distance que le cuivre traditionnel.",
+        "whyItMatters": "C'est cette colonne vertébrale lumineuse qui rend physiquement possibles les réseaux mondiaux à très haut débit d'aujourd'hui."
+      },
+      "nl": {
+        "hook": "Glasvezelkabels vervoeren informatie als lichtpulsen, niet als elektriciteit.",
+        "fact": "Moderne glasvezelinfrastructuur voor internet en telefonie stuurt data als lichtsignalen die weerkaatsen door haardunne glasdraden. Dat levert veel meer bandbreedte en veel minder signaalverlies over lange afstanden op dan traditioneel koperdraad.",
+        "whyItMatters": "Die ruggengraat van licht maakt de wereldwijde netwerken met hoge bandbreedte van vandaag fysiek mogelijk."
+      },
+      "es": {
+        "hook": "La fibra óptica transporta información como pulsos de luz, no de electricidad.",
+        "fact": "La infraestructura moderna de internet y telefonía por fibra envía los datos como señales luminosas que rebotan dentro de hilos de vidrio finos como un cabello, lo que permite mucho más ancho de banda y menos pérdida de señal a larga distancia que el cableado de cobre tradicional.",
+        "whyItMatters": "Esa columna vertebral de luz es lo que hace físicamente posibles las redes globales de alta capacidad de hoy."
+      }
+    }
   },
   {
     "id": "technology-180",
@@ -3480,7 +3800,21 @@
     "tags": [
       "communications",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première télécommande de télé était reliée par un câble sur lequel tout le monde trébuchait.",
+        "fact": "Zenith a lancé en 1950 le « Lazy Bones », l'une des toutes premières télécommandes de télévision — mais elle était reliée au téléviseur par un fil qui traversait le salon."
+      },
+      "nl": {
+        "hook": "De eerste tv-afstandsbediening zat aan een snoer waar iedereen over struikelde.",
+        "fact": "Zenith bracht in 1950 de 'Lazy Bones' uit, een van de eerste afstandsbedieningen voor televisie — al hing die aan een draad die dwars door de woonkamer naar het toestel liep."
+      },
+      "es": {
+        "hook": "El primer mando de televisión iba atado a un cable con el que todos tropezaban.",
+        "fact": "Zenith lanzó en 1950 el 'Lazy Bones', uno de los primeros mandos a distancia para televisión, aunque estaba unido al televisor por un cable que cruzaba el suelo del salón."
+      }
+    }
   },
   {
     "id": "technology-181",
@@ -3490,7 +3824,21 @@
     "tags": [
       "communications",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les talkies-walkies ont été développés pour les champs de bataille de la Seconde Guerre mondiale.",
+        "fact": "Les radios portatives bidirectionnelles, dont le SCR-300 porté sur le dos et mis au point par des ingénieurs de Motorola, ont été déployées par l'armée américaine pendant la Seconde Guerre mondiale pour permettre aux soldats de communiquer en temps réel sans fil."
+      },
+      "nl": {
+        "hook": "Walkietalkies zijn ontwikkeld voor de slagvelden van de Tweede Wereldoorlog.",
+        "fact": "Draagbare tweewegradio's, waaronder de op de rug gedragen SCR-300 van Motorola-ingenieurs, werden door het Amerikaanse leger in de Tweede Wereldoorlog ingezet zodat soldaten zonder draden in real time konden communiceren."
+      },
+      "es": {
+        "hook": "Los walkie-talkies se desarrollaron para los campos de batalla de la Segunda Guerra Mundial.",
+        "fact": "Las radios portátiles bidireccionales, entre ellas la SCR-300 de mochila creada por ingenieros de Motorola, fueron desplegadas por el ejército estadounidense durante la Segunda Guerra Mundial para que los soldados se comunicaran en tiempo real sin cables."
+      }
+    }
   },
   {
     "id": "technology-182",
@@ -3500,7 +3848,21 @@
     "tags": [
       "communications",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le répondeur existait des décennies avant la messagerie vocale.",
+        "fact": "Les premiers répondeurs téléphoniques, qui enregistraient sur fil magnétique ou sur bande, sont apparus dans le commerce dès les années 1930-1950, même s'ils ne se sont répandus dans les foyers américains que dans les années 1970 et 1980."
+      },
+      "nl": {
+        "hook": "Antwoordapparaten bestonden decennia vóór voicemail.",
+        "fact": "Vroege telefoonantwoordapparaten met magnetische draad- of bandopname kwamen al tussen de jaren 30 en 50 op de markt, al werden ze pas in de jaren 70 en 80 gemeengoed in Amerikaanse huishoudens."
+      },
+      "es": {
+        "hook": "Los contestadores existían décadas antes que el buzón de voz.",
+        "fact": "Los primeros contestadores telefónicos, que grababan en hilo magnético o en cinta, aparecieron comercialmente ya entre los años 30 y 50, aunque no se hicieron habituales en los hogares estadounidenses hasta los años 70 y 80."
+      }
+    }
   },
   {
     "id": "technology-183",
@@ -3510,7 +3872,21 @@
     "tags": [
       "communications",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Plus d'un siècle après, on se dispute encore le véritable inventeur de la radio.",
+        "fact": "Si l'on attribue populairement l'invention de la radio à Guglielmo Marconi, qui a reçu un prix Nobel pour cela, le physicien Nikola Tesla détenait des brevets clés sur cette technologie, et la Cour suprême des États-Unis a jugé en 1943 que plusieurs brevets de Marconi étaient invalides du fait des travaux antérieurs de Tesla."
+      },
+      "nl": {
+        "hook": "Wie de radio echt uitvond, is ruim een eeuw later nog altijd omstreden.",
+        "fact": "Guglielmo Marconi krijgt in de volksmond de eer voor de uitvinding van de radio en won er een Nobelprijs mee, maar natuurkundige Nikola Tesla bezat cruciale patenten op radiotechnologie, en het Amerikaanse Hooggerechtshof oordeelde in 1943 dat verschillende patenten van Marconi ongeldig waren vanwege Tesla's eerdere werk."
+      },
+      "es": {
+        "hook": "Más de un siglo después, aún se discute quién inventó realmente la radio.",
+        "fact": "Aunque a Guglielmo Marconi se le atribuye popularmente la invención de la radio y ganó un Nobel por ello, el físico Nikola Tesla poseía patentes clave sobre esa tecnología, y el Tribunal Supremo de EE. UU. dictaminó en 1943 que varias patentes de Marconi eran inválidas por el trabajo previo de Tesla."
+      }
+    }
   },
   {
     "id": "technology-184",
@@ -3520,7 +3896,21 @@
     "tags": [
       "communications",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le bipeur a été un temps jugé indispensable pour des professions entières.",
+        "fact": "Les bipeurs, qui recevaient sans fil de courtes alertes numériques ou textuelles, se sont généralisés dans les années 1980 et 1990 chez les médecins, les artisans et tous ceux qui devaient rester joignables, avant que le téléphone mobile ne les rende presque obsolètes."
+      },
+      "nl": {
+        "hook": "De pieper gold ooit als onmisbaar voor hele beroepsgroepen.",
+        "fact": "Piepers, waarmee gebruikers draadloos korte cijfer- of tekstmeldingen ontvingen, werden in de jaren 80 en 90 wijdverbreid onder artsen, vaklui en anderen die bereikbaar moesten blijven, tot mobiele telefoons ze grotendeels overbodig maakten."
+      },
+      "es": {
+        "hook": "El busca llegó a considerarse imprescindible para profesiones enteras.",
+        "fact": "Los buscapersonas, que recibían de forma inalámbrica avisos numéricos o de texto breves, se generalizaron en los años 80 y 90 entre médicos, profesionales de oficios y cualquiera que necesitara estar localizable, hasta que los móviles los dejaron prácticamente obsoletos."
+      }
+    }
   },
   {
     "id": "technology-185",
@@ -3530,7 +3920,21 @@
     "tags": [
       "communications",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier câble télégraphique transatlantique n'a fonctionné qu'environ trois semaines.",
+        "fact": "Un câble télégraphique posé au fond de l'Atlantique en 1858 a permis d'échanger des messages entre l'Amérique du Nord et l'Europe, mais il a lâché au bout de trois semaines environ à cause de problèmes d'isolation. Il a fallu attendre 1866 pour qu'un câble durable soit mené à bien."
+      },
+      "nl": {
+        "hook": "De eerste transatlantische telegraafkabel werkte maar zo'n drie weken.",
+        "fact": "Een telegraafkabel die in 1858 over de bodem van de Atlantische Oceaan werd gelegd, maakte berichten tussen Noord-Amerika en Europa mogelijk, maar begaf het na ongeveer drie weken door isolatieproblemen. Pas in 1866 kwam er een duurzame verbinding tot stand."
+      },
+      "es": {
+        "hook": "El primer cable telegráfico transatlántico solo funcionó unas tres semanas.",
+        "fact": "Un cable telegráfico tendido en el fondo del Atlántico en 1858 permitió enviar mensajes entre Norteamérica y Europa, pero falló al cabo de unas tres semanas por problemas de aislamiento. No se completó con éxito un cable duradero hasta 1866."
+      }
+    }
   },
   {
     "id": "technology-186",
@@ -3540,7 +3944,21 @@
     "tags": [
       "communications",
       "hardware"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un téléphone satellite passe des appels sans la moindre antenne-relais alentour.",
+        "fact": "Les téléphones satellites acheminent les appels directement vers des satellites en orbite plutôt que vers des antennes-relais au sol, ce qui permet de communiquer depuis des océans, des déserts ou des montagnes isolés, là où les réseaux mobiles classiques ne portent pas."
+      },
+      "nl": {
+        "hook": "Satelliettelefoons bellen zonder dat er ergens een zendmast in de buurt staat.",
+        "fact": "Satelliettelefoons sturen gesprekken rechtstreeks naar satellieten in een baan om de aarde in plaats van naar zendmasten op de grond. Zo kun je communiceren vanaf afgelegen oceanen, woestijnen en bergen waar gewone mobiele netwerken niet komen."
+      },
+      "es": {
+        "hook": "Los teléfonos satelitales conectan llamadas sin una sola antena de móvil cerca.",
+        "fact": "Los teléfonos por satélite enrutan las llamadas directamente a satélites en órbita en lugar de a antenas terrestres, lo que permite comunicarse desde océanos, desiertos y montañas remotos donde no llegan las redes móviles convencionales."
+      }
+    }
   },
   {
     "id": "technology-187",
@@ -3550,7 +3968,21 @@
     "tags": [
       "robotics",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier robot industriel travaillait sur une chaîne de montage Chevrolet.",
+        "fact": "Unimate, généralement considéré comme le premier robot industriel, est entré en service dans une usine General Motors en 1961 pour soulever et empiler des pièces métalliques brûlantes issues de la coulée sous pression, trop dangereuses à manipuler à mains nues."
+      },
+      "nl": {
+        "hook": "De eerste industriële robot werkte aan een Chevrolet-lopende band.",
+        "fact": "Unimate, algemeen beschouwd als de eerste industriële robot, ging in 1961 aan de slag in een fabriek van General Motors, waar hij hete spuitgietonderdelen tilde en stapelde die te gevaarlijk waren om met de hand aan te pakken."
+      },
+      "es": {
+        "hook": "El primer robot industrial trabajó en una cadena de montaje de Chevrolet.",
+        "fact": "Unimate, considerado por lo general el primer robot industrial, empezó a trabajar en una planta de General Motors en 1961 levantando y apilando piezas metálicas de fundición a presión aún calientes, demasiado peligrosas para manipularlas a mano."
+      }
+    }
   },
   {
     "id": "technology-188",
@@ -3560,7 +3992,21 @@
     "tags": [
       "robotics",
       "gadgets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Roomba n'a pas été le premier aspirateur robot imaginé, seulement le premier à réussir.",
+        "fact": "iRobot a lancé le Roomba en 2002 après des années de recherche en robotique pour des applications militaires et spatiales ; il est devenu l'un des premiers robots domestiques autonomes à percer sur le marché grand public."
+      },
+      "nl": {
+        "hook": "De Roomba was niet het eerste idee voor een robotstofzuiger, wel het eerste dat aansloeg.",
+        "fact": "iRobot bracht de Roomba in 2002 uit na jaren robotica-onderzoek voor militaire en ruimtevaarttoepassingen, en het werd een van de eerste autonome huisrobots voor de massamarkt die commercieel succesvol was."
+      },
+      "es": {
+        "hook": "La Roomba no fue la primera idea de aspiradora robot, solo la primera que funcionó.",
+        "fact": "iRobot lanzó la Roomba en 2002 tras años de investigación en robótica para aplicaciones militares y espaciales, y se convirtió en uno de los primeros robots domésticos autónomos de gran consumo en triunfar comercialmente."
+      }
+    }
   },
   {
     "id": "technology-189",
@@ -3570,7 +4016,21 @@
     "tags": [
       "robotics",
       "aviation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les drones ont commencé comme cibles d'entraînement radiocommandées.",
+        "fact": "Les premiers avions sans pilote des années 1930, comme le « Queen Bee » britannique, étaient conçus comme des cibles radiocommandées pour l'entraînement de la DCA — un usage qui a donné naissance au terme « drone »."
+      },
+      "nl": {
+        "hook": "Drones begonnen als radiografisch bestuurde schietschijven.",
+        "fact": "Vroege onbemande vliegtuigen uit de jaren 30, zoals de Britse 'Queen Bee', werden gebouwd als radiografisch bestuurde doelen voor luchtafweeroefeningen — een toepassing waaraan de term 'drone' zijn oorsprong dankt."
+      },
+      "es": {
+        "hook": "Los drones empezaron siendo blancos de tiro por radiocontrol.",
+        "fact": "Los primeros aviones sin piloto de los años 30, como el británico 'Queen Bee', se construyeron como blancos radiocontrolados para practicar tiro antiaéreo, un uso que dio origen al término 'dron'."
+      }
+    }
   },
   {
     "id": "technology-190",
@@ -3580,7 +4040,21 @@
     "tags": [
       "invention",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'impression 3D est plus ancienne que le Web.",
+        "fact": "Chuck Hull a inventé la stéréolithographie, premier procédé commercial d'impression 3D, en 1983, et fondé 3D Systems en 1986 — soit des années avant que Tim Berners-Lee ne propose le Web en 1989."
+      },
+      "nl": {
+        "hook": "3D-printen is ouder dan het world wide web.",
+        "fact": "Chuck Hull vond in 1983 stereolithografie uit, het eerste commerciële 3D-printproces, en richtte in 1986 3D Systems op — jaren voordat Tim Berners-Lee in 1989 het web voorstelde."
+      },
+      "es": {
+        "hook": "La impresión 3D es más antigua que la World Wide Web.",
+        "fact": "Chuck Hull inventó la estereolitografía, el primer proceso comercial de impresión 3D, en 1983 y fundó 3D Systems en 1986, años antes de que Tim Berners-Lee propusiera la web en 1989."
+      }
+    }
   },
   {
     "id": "technology-191",
@@ -3590,7 +4064,21 @@
     "tags": [
       "gadgets",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'appareil photo numérique est né chez Kodak — et il fallait 23 secondes rien que pour enregistrer une photo.",
+        "fact": "Steven Sasson a construit le premier prototype d'appareil photo numérique chez Kodak en 1975. Il capturait des images en noir et blanc de 0,01 mégapixel et les enregistrait sur cassette audio."
+      },
+      "nl": {
+        "hook": "De digitale camera werd bedacht door een Kodak-ingenieur — en één foto opslaan duurde 23 seconden.",
+        "fact": "Steven Sasson bouwde in 1975 bij Kodak het eerste prototype van een digitale camera. Het toestel maakte zwart-witbeelden van 0,01 megapixel en zette ze op een cassettebandje."
+      },
+      "es": {
+        "hook": "La cámara digital la inventó un ingeniero de Kodak, y tardaba 23 segundos solo en guardar una foto.",
+        "fact": "Steven Sasson construyó el primer prototipo de cámara digital en Kodak en 1975. Captaba imágenes en blanco y negro de 0,01 megapíxeles y las grababa en una cinta de casete."
+      }
+    }
   },
   {
     "id": "technology-192",
@@ -3600,7 +4088,21 @@
     "tags": [
       "gadgets",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Polaroid est né de la curiosité d'une enfant de trois ans.",
+        "fact": "L'inventeur Edwin Land a mis au point l'appareil photo instantané après que sa fille lui a demandé, en 1943, pourquoi elle ne pouvait pas voir la photo tout de suite. Il a dévoilé le premier Polaroid commercial quatre ans plus tard seulement, en 1948."
+      },
+      "nl": {
+        "hook": "De Polaroid-instantcamera ontstond dankzij een nieuwsgierige driejarige.",
+        "fact": "Uitvinder Edwin Land ontwikkelde de instantcamera nadat zijn dochter in 1943 vroeg waarom ze de foto niet meteen kon zien. Slechts vier jaar later, in 1948, presenteerde hij de eerste commerciële Polaroid-camera."
+      },
+      "es": {
+        "hook": "La cámara instantánea Polaroid nació de la curiosidad de una niña de tres años.",
+        "fact": "El inventor Edwin Land desarrolló la cámara instantánea después de que su hija le preguntara en 1943 por qué no podía ver la foto al momento. Presentó la primera Polaroid comercial apenas cuatro años más tarde, en 1948."
+      }
+    }
   },
   {
     "id": "technology-193",
@@ -3611,7 +4113,24 @@
     "tags": [
       "gadgets",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le pacemaker moderne est né d'une erreur de composant.",
+        "fact": "L'ingénieur Wilson Greatbatch construisait en 1958 un appareil d'enregistrement du rythme cardiaque quand il a attrapé la mauvaise résistance : le circuit obtenu s'est mis à pulser régulièrement, comme un cœur — ce qui l'a conduit à mettre au point le premier stimulateur cardiaque implantable réellement utilisable.",
+        "whyItMatters": "Ce circuit accidentel fait depuis battre des millions de cœurs au bon rythme."
+      },
+      "nl": {
+        "hook": "De moderne pacemaker ontstond per ongeluk uit het verkeerde onderdeel.",
+        "fact": "Ingenieur Wilson Greatbatch werkte in 1958 aan een apparaat om het hartritme te registreren toen hij de verkeerde weerstand pakte. Het circuit ging ritmisch pulseren als een hartslag, wat hem bracht tot de eerste bruikbare implanteerbare pacemaker.",
+        "whyItMatters": "Dat toevallige schakelingetje houdt sindsdien miljoenen harten op ritme."
+      },
+      "es": {
+        "hook": "El marcapasos moderno se construyó por accidente con la pieza equivocada.",
+        "fact": "El ingeniero Wilson Greatbatch estaba construyendo en 1958 un aparato para registrar el ritmo cardíaco cuando tomó la resistencia equivocada, obteniendo un circuito que latía rítmicamente como un corazón. Aquello lo llevó a desarrollar el primer marcapasos implantable práctico.",
+        "whyItMatters": "Ese circuito accidental lleva desde entonces manteniendo a millones de corazones latiendo a su ritmo."
+      }
+    }
   },
   {
     "id": "technology-194",
@@ -3621,7 +4140,21 @@
     "tags": [
       "gadgets",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La brosse à dents électrique remonte à la recherche dentaire suisse des années 1950.",
+        "fact": "La première brosse à dents électrique, la Broxodent, a été mise au point en Suisse dans les années 1950, en partie pour les patients ayant une mobilité réduite des mains, avant que Squibb ne la commercialise aux États-Unis en 1961."
+      },
+      "nl": {
+        "hook": "De elektrische tandenborstel komt voort uit Zwitsers tandheelkundig onderzoek uit de jaren 50.",
+        "fact": "De eerste elektrische tandenborstel, de Broxodent, werd in de jaren 50 in Zwitserland ontwikkeld, mede voor patiënten met beperkte handmobiliteit, voordat Squibb hem in 1961 op de Amerikaanse markt bracht."
+      },
+      "es": {
+        "hook": "El cepillo eléctrico se remonta a la investigación dental suiza de los años 50.",
+        "fact": "El primer cepillo de dientes eléctrico, el Broxodent, se desarrolló en Suiza en los años 50, en parte para pacientes con movilidad reducida en las manos, antes de que Squibb lo llevara al mercado estadounidense en 1961."
+      }
+    }
   },
   {
     "id": "technology-195",
@@ -3632,7 +4165,24 @@
     "tags": [
       "gadgets",
       "safety"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le détecteur de fumée n'est entré dans les foyers que dans les années 1970.",
+        "fact": "Si la technologie de détection de fumée par ionisation existait bien avant, les détecteurs domestiques à pile bon marché ne sont devenus vraiment abordables et adoptés par les ménages que dans les années 1970.",
+        "whyItMatters": "On attribue à la généralisation des détecteurs de fumée une chute spectaculaire des décès par incendie dans les décennies qui ont suivi."
+      },
+      "nl": {
+        "hook": "Rookmelders werden pas in de jaren 70 gemeengoed in huis.",
+        "fact": "De ionisatietechniek om rook te detecteren bestond al eerder, maar goedkope rookmelders op batterijen werden pas in de jaren 70 breed betaalbaar en door huishoudens omarmd.",
+        "whyItMatters": "De brede invoering van rookmelders in woningen wordt gezien als een belangrijke reden voor de sterke daling van het aantal branddoden in de decennia erna."
+      },
+      "es": {
+        "hook": "Los detectores de humo no se volvieron habituales en los hogares hasta los años 70.",
+        "fact": "Aunque la tecnología de detección de humo por ionización existía desde antes, los detectores domésticos baratos a pilas no resultaron asequibles ni se adoptaron de forma generalizada hasta los años 70.",
+        "whyItMatters": "A la adopción masiva de detectores de humo en las casas se le atribuye una caída drástica de las muertes por incendio en las décadas siguientes."
+      }
+    }
   },
   {
     "id": "technology-196",
@@ -3642,7 +4192,21 @@
     "tags": [
       "gadgets",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier distributeur automatique délivrait de l'argent contre des bons en papier, pas des cartes bancaires.",
+        "fact": "Le premier distributeur automatique de billets, installé à Londres en 1967, obligeait les clients à utiliser des bons en papier spéciaux achetés à l'avance, et non les cartes à bande magnétique d'aujourd'hui."
+      },
+      "nl": {
+        "hook": "De eerste geldautomaat betaalde uit op papieren bonnen, niet op bankpassen.",
+        "fact": "De eerste geldautomaat, in 1967 in Londen geïnstalleerd, vereiste dat klanten vooraf gekochte speciale papieren bonnen gebruikten in plaats van de magneetstrippassen van nu."
+      },
+      "es": {
+        "hook": "El primer cajero automático daba dinero con vales de papel, no con tarjetas.",
+        "fact": "El primer cajero automático, instalado en Londres en 1967, exigía que los clientes usaran unos vales de papel especiales comprados por adelantado, en lugar de las tarjetas de banda magnética actuales."
+      }
+    }
   },
   {
     "id": "technology-197",
@@ -3652,7 +4216,21 @@
     "tags": [
       "gadgets",
       "semiconductors"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les prothèses auditives doivent leur miniaturisation à la même révolution des puces que les ordinateurs.",
+        "fact": "Les premières aides auditives étaient de gros appareils à tubes à vide. L'invention du transistor en 1947, puis celle des circuits intégrés, leur a permis de passer de boîtiers portés sur le corps à des dispositifs qui tiennent entièrement dans le conduit auditif."
+      },
+      "nl": {
+        "hook": "Moderne hoortoestellen danken hun minuscule formaat aan dezelfde chiprevolutie als computers.",
+        "fact": "Vroege hoortoestellen waren logge apparaten met radiobuizen. Door de uitvinding van de transistor in 1947 en later de geïntegreerde schakeling konden ze krimpen van kastjes op het lichaam tot toestellen die volledig in de gehoorgang passen."
+      },
+      "es": {
+        "hook": "Los audífonos modernos deben su tamaño diminuto a la misma revolución de los chips que los ordenadores.",
+        "fact": "Los primeros audífonos eran aparatos voluminosos de válvulas de vacío. La invención del transistor en 1947 y, más tarde, de los circuitos integrados permitió que pasaran de cajas colgadas del cuerpo a dispositivos que caben enteros dentro del canal auditivo."
+      }
+    }
   },
   {
     "id": "technology-198",

@@ -2887,7 +2887,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre cœur pompe environ 7 500 litres de sang par jour.",
+        "fact": "Avec près de 100 000 battements par jour, le cœur déplace en 24 heures de quoi remplir plusieurs camions-citernes, alors qu'il n'est guère plus gros qu'un poing."
+      },
+      "nl": {
+        "hook": "Je hart pompt ongeveer 7.500 liter bloed per dag.",
+        "fact": "Met zo'n 100.000 slagen per dag verplaatst het hart in 24 uur genoeg bloed om meerdere tankwagens te vullen, terwijl het niet groter is dan een vuist."
+      },
+      "es": {
+        "hook": "Tu corazón bombea unos 7.500 litros de sangre al día.",
+        "fact": "Con cerca de 100.000 latidos diarios, el corazón mueve en 24 horas suficiente sangre para llenar varios camiones cisterna, y eso que apenas es del tamaño de un puño."
+      }
+    }
   },
   {
     "id": "science-120",
@@ -2897,7 +2911,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Mis bout à bout, vos vaisseaux sanguins feraient deux fois le tour de la Terre.",
+        "fact": "Le système circulatoire humain — artères, veines et capillaires réunis — s'étend sur près de 100 000 kilomètres, dont l'essentiel est constitué de capillaires microscopiques."
+      },
+      "nl": {
+        "hook": "Achter elkaar gelegd zouden je bloedvaten twee keer rond de aarde gaan.",
+        "fact": "Het menselijke bloedvatenstelsel — slagaders, aders en haarvaten samen — is zo'n 100.000 kilometer lang, grotendeels bestaand uit microscopisch kleine haarvaten."
+      },
+      "es": {
+        "hook": "Puestos en línea, tus vasos sanguíneos darían dos vueltas a la Tierra.",
+        "fact": "El sistema circulatorio humano — arterias, venas y capilares juntos — mide unos 100.000 kilómetros, y la mayor parte son capilares microscópicos."
+      }
+    }
   },
   {
     "id": "science-121",
@@ -2907,7 +2935,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les bébés ont près de 100 os de plus que les adultes.",
+        "fact": "Les nouveau-nés viennent au monde avec environ 300 os, dont beaucoup ne sont encore que du cartilage mou. En grandissant, une grande partie fusionne, pour n'en laisser que 206 à l'âge adulte."
+      },
+      "nl": {
+        "hook": "Baby's hebben bijna 100 botten meer dan volwassenen.",
+        "fact": "Pasgeborenen komen ter wereld met zo'n 300 botten, waarvan veel nog zacht kraakbeen zijn. Tijdens het opgroeien vergroeien er veel met elkaar, tot de 206 botten van een volwassene."
+      },
+      "es": {
+        "hook": "Los bebés tienen casi 100 huesos más que los adultos.",
+        "fact": "Los recién nacidos vienen al mundo con unos 300 huesos, muchos de ellos aún cartílago blando. Al crecer, buena parte se fusiona y deja los 206 habituales del adulto."
+      }
+    }
   },
   {
     "id": "science-122",
@@ -2917,7 +2959,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre intestin grêle mesure environ 6 mètres de long.",
+        "fact": "Bien qu'il tienne dans un espace réduit de l'abdomen, l'intestin grêle se déroule sur près de 6 mètres, ce qui lui offre une immense surface d'absorption des nutriments."
+      },
+      "nl": {
+        "hook": "Je dunne darm is ongeveer 6 meter lang.",
+        "fact": "Hoewel hij in een kleine ruimte in je buik past, rolt de dunne darm uit tot zo'n 6 meter, wat hem een enorm oppervlak geeft om voedingsstoffen op te nemen."
+      },
+      "es": {
+        "hook": "Tu intestino delgado mide unos 6 metros.",
+        "fact": "Aunque cabe en un espacio reducido del abdomen, el intestino delgado se despliega hasta unos 6 metros, lo que le da una superficie enorme para absorber nutrientes."
+      }
+    }
   },
   {
     "id": "science-123",
@@ -2928,7 +2984,24 @@
     "tags": [
       "human-body",
       "medicine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre foie peut repousser même après avoir perdu l'essentiel de sa masse.",
+        "fact": "Le foie humain est capable de régénérer une quantité fonctionnelle de tissu même après l'ablation ou la destruction de 70 % de son volume, ce qui en fait l'un des rares organes capables de se réparer à ce point.",
+        "whyItMatters": "C'est grâce à cette capacité de régénération que les greffes de foie à partir de donneurs vivants sont possibles : le foie restant du donneur comme la portion greffée peuvent retrouver presque leur taille d'origine."
+      },
+      "nl": {
+        "hook": "Je lever groeit weer aan, zelfs na het verlies van het grootste deel ervan.",
+        "fact": "De menselijke lever kan opnieuw functioneel weefsel aanmaken, zelfs nadat tot 70 procent ervan is weggehaald of beschadigd. Dat maakt hem tot een van de weinige organen die zichzelf zo grondig kunnen herstellen.",
+        "whyItMatters": "Dankzij dat herstelvermogen zijn levertransplantaties met levende donoren mogelijk: zowel het achtergebleven stuk bij de donor als het getransplanteerde deel groeit weer bijna tot volle grootte."
+      },
+      "es": {
+        "hook": "Tu hígado se regenera incluso tras perder casi toda su masa.",
+        "fact": "El hígado humano puede regenerar una cantidad funcional de tejido incluso después de que se le extirpe o dañe hasta un 70 %, lo que lo convierte en uno de los pocos órganos capaces de repararse a sí mismo de forma tan notable.",
+        "whyItMatters": "Esa capacidad de regeneración es la que hace posibles los trasplantes de hígado de donante vivo: tanto el hígado que le queda al donante como la porción trasplantada vuelven a crecer casi hasta su tamaño completo."
+      }
+    }
   },
   {
     "id": "science-124",
@@ -2938,7 +3011,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les bébés naissent sans rotules.",
+        "fact": "Chez le nouveau-né, les rotules ne sont d'abord que du cartilage mou, pas de l'os. Elles ne s'ossifient complètement qu'entre 3 et 6 ans environ."
+      },
+      "nl": {
+        "hook": "Baby's worden zonder knieschijven geboren.",
+        "fact": "De knieschijven van een pasgeborene bestaan eerst uit zacht kraakbeen in plaats van bot. Pas ergens tussen het derde en zesde levensjaar verharden ze volledig tot echt bot."
+      },
+      "es": {
+        "hook": "Los bebés nacen sin rótulas.",
+        "fact": "Las rótulas de un recién nacido empiezan siendo cartílago blando en lugar de hueso. No se endurecen del todo hasta algún momento entre los 3 y los 6 años."
+      }
+    }
   },
   {
     "id": "science-125",
@@ -2948,7 +3035,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Vos empreintes digitales étaient fixées avant votre naissance — et elles ne changeront jamais.",
+        "fact": "Les crêtes des empreintes se forment dans l'utérus vers le quatrième mois de grossesse et gardent la même forme toute la vie : elles grandissent en taille, jamais en motif."
+      },
+      "nl": {
+        "hook": "Je vingerafdrukken lagen al vast voor je geboorte — en ze veranderen nooit.",
+        "fact": "De richels van je vingerafdrukken ontstaan in de baarmoeder rond de vierde maand van de zwangerschap en houden hun vorm je hele leven. Ze worden alleen groter, het patroon blijft hetzelfde."
+      },
+      "es": {
+        "hook": "Tus huellas dactilares quedaron fijadas antes de nacer, y nunca cambian.",
+        "fact": "Las crestas de las huellas se forman en el útero hacia el cuarto mes de embarazo y conservan la misma forma toda la vida: solo crecen de tamaño, nunca cambian de patrón."
+      }
+    }
   },
   {
     "id": "science-126",
@@ -2958,7 +3059,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une partie de votre œil n'est irriguée par aucun vaisseau sanguin.",
+        "fact": "La cornée, la couche transparente à l'avant de l'œil, est l'un des rares tissus du corps humain totalement dépourvus de vaisseaux sanguins. Elle puise son oxygène directement dans l'air."
+      },
+      "nl": {
+        "hook": "Een deel van je oog krijgt helemaal geen bloed.",
+        "fact": "Het hoornvlies, de heldere voorste laag van het oog, is een van de weinige weefsels in het menselijk lichaam zonder bloedvaten. Het haalt zijn zuurstof rechtstreeks uit de lucht."
+      },
+      "es": {
+        "hook": "Una parte de tu ojo no recibe sangre en absoluto.",
+        "fact": "La córnea, la capa transparente de la parte frontal del ojo, es uno de los pocos tejidos del cuerpo humano sin vasos sanguíneos. Toma el oxígeno directamente del aire."
+      }
+    }
   },
   {
     "id": "science-127",
@@ -2968,7 +3083,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre poumon gauche est plus petit que le droit.",
+        "fact": "Le poumon gauche présente une échancrure cardiaque qui laisse la place au cœur : il n'a que deux lobes contre trois pour le poumon droit, et un volume total légèrement inférieur."
+      },
+      "nl": {
+        "hook": "Je linkerlong is kleiner dan je rechter.",
+        "fact": "De linkerlong heeft een inkeping, de hartinsnijding, die ruimte maakt voor het hart. Daardoor heeft hij twee kwabben in plaats van de drie van de rechterlong, en iets minder volume."
+      },
+      "es": {
+        "hook": "Tu pulmón izquierdo es más pequeño que el derecho.",
+        "fact": "El pulmón izquierdo tiene una hendidura, la escotadura cardíaca, que deja sitio al corazón: por eso tiene dos lóbulos en vez de los tres del pulmón derecho y algo menos de volumen total."
+      }
+    }
   },
   {
     "id": "science-128",
@@ -2978,7 +3107,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'émail dentaire est la matière la plus dure que fabrique votre corps.",
+        "fact": "L'émail, la couche externe des dents, est plus dur que l'os et constitue la substance la plus dure du corps humain — mais contrairement à l'os, il ne peut pas se réparer une fois abîmé."
+      },
+      "nl": {
+        "hook": "Tandglazuur is het hardste materiaal dat je lichaam maakt.",
+        "fact": "Glazuur, de buitenste laag van je tanden, is harder dan bot en is de hardste stof in het menselijk lichaam. Anders dan bot kan het zichzelf echter niet herstellen als het eenmaal beschadigd is."
+      },
+      "es": {
+        "hook": "El esmalte dental es el material más duro que fabrica tu cuerpo.",
+        "fact": "El esmalte, la capa exterior de los dientes, es más duro que el hueso y es la sustancia más dura del cuerpo humano. Pero, a diferencia del hueso, no puede repararse una vez dañado."
+      }
+    }
   },
   {
     "id": "science-129",
@@ -2988,7 +3131,21 @@
     "tags": [
       "human-body",
       "evolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La chair de poule est un réflexe hérité d'ancêtres bien plus poilus.",
+        "fact": "De minuscules muscles situés à la base de chaque follicule pileux se contractent pour redresser le poil : c'est la piloérection. Chez les animaux à fourrure, elle emprisonne une couche d'air isolante ou les fait paraître plus gros face aux prédateurs — chez l'humain, elle ne sert plus à grand-chose."
+      },
+      "nl": {
+        "hook": "Kippenvel is een overblijfsel van veel harigere voorouders.",
+        "fact": "Piepkleine spiertjes aan de basis van elke haarzakje trekken samen en zetten het haar rechtop, een reflex die piloerectie heet. Bij harige dieren houdt dat een isolerende laag lucht vast of laat het ze groter lijken voor roofdieren — bij mensen gebeurt het vooral zonder veel nut."
+      },
+      "es": {
+        "hook": "La piel de gallina es un reflejo heredado de antepasados mucho más peludos.",
+        "fact": "Unos músculos diminutos en la base de cada folículo piloso se contraen para levantar el pelo, un reflejo llamado piloerección. En los animales con pelaje atrapa aire aislante o los hace parecer más grandes ante los depredadores; en los humanos, simplemente ocurre sin servir de mucho."
+      }
+    }
   },
   {
     "id": "science-130",
@@ -2998,7 +3155,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Rougir est peut-être ce que votre corps fait de plus humain.",
+        "fact": "Le rougissement est une dilatation involontaire des vaisseaux sanguins du visage, déclenchée par une émotion liée à la conscience de soi. Charles Darwin y voyait « la plus singulière et la plus humaine de toutes les expressions », et aucun autre animal ne semble en être capable."
+      },
+      "nl": {
+        "hook": "Blozen is misschien wel het meest menselijke wat je lichaam doet.",
+        "fact": "Blozen is een onwillekeurige verwijding van de bloedvaten in je gezicht, uitgelokt door een emotie waarin je je van jezelf bewust bent. Charles Darwin noemde het 'de meest eigenaardige en meest menselijke van alle uitdrukkingen', en van geen enkel ander dier is bekend dat het bloost."
+      },
+      "es": {
+        "hook": "Ruborizarse quizá sea lo más humano que hace tu cuerpo.",
+        "fact": "El rubor es una dilatación involuntaria de los vasos sanguíneos de la cara, provocada por una emoción ligada a la conciencia de uno mismo. Charles Darwin lo llamó «la más peculiar y más humana de todas las expresiones», y no se conoce ningún otro animal que se ruborice."
+      }
+    }
   },
   {
     "id": "science-131",
@@ -3008,7 +3179,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les nouveau-nés pleurent sans verser une seule larme.",
+        "fact": "Les canaux lacrymaux d'un bébé ne sont pas encore tout à fait formés à la naissance : le nourrisson peut donc pleurer à pleins poumons, avec toutes les mimiques de la détresse, mais sans presque produire de larmes avant plusieurs semaines, voire plusieurs mois."
+      },
+      "nl": {
+        "hook": "Pasgeborenen kunnen huilen zonder één traan te laten.",
+        "fact": "De traankanaaltjes van een baby zijn bij de geboorte nog niet volgroeid. Zuigelingen kunnen dus luidkeels huilen, met alle gezichtsuitdrukkingen van verdriet, maar produceren pas na enkele weken tot maanden echte tranen."
+      },
+      "es": {
+        "hook": "Los recién nacidos lloran sin derramar una sola lágrima.",
+        "fact": "Los conductos lagrimales de un bebé no están del todo desarrollados al nacer, así que puede llorar a pleno pulmón, con todos los gestos del llanto, pero apenas produce lágrimas reales hasta pasadas unas semanas o meses."
+      }
+    }
   },
   {
     "id": "science-132",
@@ -3018,7 +3203,21 @@
     "tags": [
       "human-body",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre intestin a son propre système nerveux, surnommé « deuxième cerveau ».",
+        "fact": "Le système nerveux entérique qui tapisse l'intestin compte des centaines de millions de neurones — plus que la moelle épinière — et peut piloter la digestion en grande partie tout seul, indépendamment du cerveau."
+      },
+      "nl": {
+        "hook": "Je darmen hebben een eigen zenuwstelsel, ook wel je 'tweede brein' genoemd.",
+        "fact": "Het darmzenuwstelsel dat de darmwand bekleedt telt honderden miljoenen neuronen — meer dan het ruggenmerg — en kan de spijsvertering grotendeels zelfstandig aansturen, los van de hersenen."
+      },
+      "es": {
+        "hook": "Tu intestino funciona con su propio sistema nervioso, el llamado «segundo cerebro».",
+        "fact": "El sistema nervioso entérico que recubre el intestino contiene cientos de millones de neuronas, más que la médula espinal, y puede controlar la digestión casi por su cuenta, con independencia del cerebro."
+      }
+    }
   },
   {
     "id": "science-133",
@@ -3028,7 +3227,21 @@
     "tags": [
       "human-body",
       "myths"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Faire craquer ses doigts ne donne pas d'arthrose.",
+        "fact": "Le craquement vient de bulles de gaz qui s'effondrent dans le liquide qui lubrifie les articulations. Plusieurs études — dont celle d'un médecin qui n'a fait craquer que les doigts d'une seule main pendant plus de 60 ans — n'ont trouvé aucun lien avec l'arthrose."
+      },
+      "nl": {
+        "hook": "Knakken met je knokkels veroorzaakt echt geen artrose.",
+        "fact": "Het knappende geluid ontstaat doordat gasbelletjes klappen in het vocht dat je gewrichten smeert. Meerdere studies, waaronder die van een arts die ruim 60 jaar lang alleen de knokkels van één hand liet knakken, vonden geen verband met artrose."
+      },
+      "es": {
+        "hook": "Crujirse los nudillos no provoca artritis.",
+        "fact": "El chasquido lo producen burbujas de gas que colapsan en el líquido que lubrica las articulaciones. Varios estudios, incluido el de un médico que se crujió los nudillos de una sola mano durante más de 60 años, no hallaron ninguna relación con la artritis."
+      }
+    }
   },
   {
     "id": "science-134",
@@ -3038,7 +3251,21 @@
     "tags": [
       "medicine",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La pénicilline a été découverte grâce à une paillasse mal rangée.",
+        "fact": "En 1928, Alexander Fleming rentre de vacances et découvre qu'une moisissure a contaminé l'une de ses boîtes de Petri — et remarque qu'elle tue les bactéries autour d'elle. Cette observation accidentelle a donné naissance au premier antibiotique largement utilisé."
+      },
+      "nl": {
+        "hook": "Penicilline werd ontdekt dankzij een rommelig laboratoriumtafeltje.",
+        "fact": "Toen Alexander Fleming in 1928 terugkwam van vakantie, bleek er schimmel in een van zijn petrischalen te zitten — en hij merkte dat die schimmel de bacteriën eromheen doodde. Die toevallige waarneming leidde tot het eerste breed gebruikte antibioticum."
+      },
+      "es": {
+        "hook": "La penicilina se descubrió gracias a un laboratorio desordenado.",
+        "fact": "En 1928, Alexander Fleming volvió de vacaciones y encontró que un moho había contaminado una de sus placas de Petri, y se dio cuenta de que ese moho mataba las bacterias de alrededor. Aquella observación fortuita dio lugar al primer antibiótico de uso generalizado."
+      }
+    }
   },
   {
     "id": "science-135",
@@ -3048,7 +3275,21 @@
     "tags": [
       "medicine",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les transfusions sanguines revenaient autrefois à jouer sa vie à pile ou face.",
+        "fact": "Avant que Karl Landsteiner ne découvre le système ABO en 1901, les médecins ignoraient totalement pourquoi certaines transfusions réussissaient et d'autres tuaient le patient. La découverte des groupes sanguins a rendu la transfusion sûre."
+      },
+      "nl": {
+        "hook": "Een bloedtransfusie was ooit kop of munt met je leven.",
+        "fact": "Voordat Karl Landsteiner in 1901 het ABO-bloedgroepensysteem ontdekte, hadden artsen geen idee waarom sommige transfusies werkten en andere de patiënt fataal werden. Zijn ontdekking van de bloedgroepen maakte veilig transfunderen mogelijk."
+      },
+      "es": {
+        "hook": "Las transfusiones de sangre eran antes jugarse la vida a cara o cruz.",
+        "fact": "Antes de que Karl Landsteiner descubriera el sistema de grupos sanguíneos ABO en 1901, los médicos no tenían ni idea de por qué unas transfusiones funcionaban y otras mataban al paciente. Su hallazgo de los grupos sanguíneos hizo posible la transfusión segura."
+      }
+    }
   },
   {
     "id": "science-136",
@@ -3058,7 +3299,21 @@
     "tags": [
       "medicine",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les vaccins fonctionnent en faisant répéter votre système immunitaire.",
+        "fact": "La plupart des vaccins exposent l'organisme à une version atténuée, inactivée ou partielle d'un agent pathogène, ce qui pousse le système immunitaire à préparer des défenses qu'il pourra déployer très vite s'il rencontre un jour le vrai."
+      },
+      "nl": {
+        "hook": "Vaccins werken door je afweer een oefenronde te laten draaien.",
+        "fact": "De meeste vaccins stellen het lichaam bloot aan een verzwakte, geïnactiveerde of onvolledige versie van een ziekteverwekker. Daardoor bouwt het afweersysteem verdediging op die het razendsnel kan inzetten als het de echte ooit tegenkomt."
+      },
+      "es": {
+        "hook": "Las vacunas funcionan haciendo ensayar a tu sistema inmunitario.",
+        "fact": "La mayoría de las vacunas exponen al cuerpo a una versión debilitada, inactivada o parcial de un patógeno, lo que lleva al sistema inmunitario a preparar defensas que podrá desplegar enseguida si algún día se topa con el patógeno real."
+      }
+    }
   },
   {
     "id": "science-137",
@@ -3067,7 +3322,21 @@
     "fact": "In 'open-label' placebo studies, patients are told upfront they're taking a pill with no active ingredient — and still report real symptom relief in conditions like irritable bowel syndrome and chronic pain.",
     "tags": [
       "medicine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un placebo peut agir même quand on sait que c'est un placebo.",
+        "fact": "Dans les essais de placebo « en ouvert », on annonce d'emblée aux patients qu'ils prennent un comprimé sans principe actif — et ils rapportent malgré tout un vrai soulagement des symptômes, dans le syndrome de l'intestin irritable ou les douleurs chroniques par exemple."
+      },
+      "nl": {
+        "hook": "Placebo's kunnen werken, zelfs als je wéét dat ze nep zijn.",
+        "fact": "In zogenoemde open-label placebostudies krijgen patiënten vooraf te horen dat hun pil geen werkzame stof bevat — en toch melden ze echte verlichting van klachten, bijvoorbeeld bij prikkelbaredarmsyndroom en chronische pijn."
+      },
+      "es": {
+        "hook": "Los placebos pueden funcionar aunque sepas que son falsos.",
+        "fact": "En los estudios de placebo «abierto», se les dice de entrada a los pacientes que toman una pastilla sin principio activo, y aun así informan de un alivio real de sus síntomas en trastornos como el síndrome del intestino irritable y el dolor crónico."
+      }
+    }
   },
   {
     "id": "science-138",
@@ -3077,7 +3346,21 @@
     "tags": [
       "medicine",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'insuline a transformé une condamnation à mort en maladie gérable presque du jour au lendemain.",
+        "fact": "Avant la première utilisation de l'insuline chez un patient diabétique en 1922, un diagnostic de diabète de type 1 était généralement fatal en quelques mois. Moins d'un an après sa découverte, l'insuline était produite en masse et sauvait des vies partout dans le monde."
+      },
+      "nl": {
+        "hook": "Insuline maakte van een doodvonnis vrijwel van de ene op de andere dag een behandelbare aandoening.",
+        "fact": "Voordat insuline in 1922 voor het eerst bij een diabetespatiënt werd gebruikt, was de diagnose diabetes type 1 meestal binnen enkele maanden dodelijk. Binnen een jaar na de ontdekking werd insuline massaal geproduceerd en redde ze wereldwijd levens."
+      },
+      "es": {
+        "hook": "La insulina convirtió una sentencia de muerte en una enfermedad manejable casi de la noche a la mañana.",
+        "fact": "Antes de que la insulina se usara por primera vez en un paciente diabético en 1922, un diagnóstico de diabetes tipo 1 solía ser mortal en cuestión de meses. Al año de su descubrimiento ya se producía en masa y salvaba vidas en todo el mundo."
+      }
+    }
   },
   {
     "id": "science-139",
@@ -3087,7 +3370,21 @@
     "tags": [
       "medicine",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les rayons X aussi ont été découverts par hasard.",
+        "fact": "En 1895, le physicien Wilhelm Röntgen remarque une lueur mystérieuse sur un écran voisin alors qu'il expérimente avec des rayons cathodiques — un rayonnement inconnu qu'il baptise « rayons X » et qui va bientôt révolutionner la médecine."
+      },
+      "nl": {
+        "hook": "Ook röntgenstraling werd bij toeval ontdekt.",
+        "fact": "In 1895 zag natuurkundige Wilhelm Röntgen tijdens experimenten met kathodestralen een raadselachtige gloed op een scherm verderop — een onbekende vorm van straling die hij 'X-stralen' noemde en die de geneeskunde al snel op zijn kop zette."
+      },
+      "es": {
+        "hook": "Los rayos X también se descubrieron por casualidad.",
+        "fact": "En 1895, el físico Wilhelm Röntgen advirtió un resplandor misterioso en una pantalla cercana mientras experimentaba con rayos catódicos: una forma desconocida de radiación que bautizó como «rayos X» y que pronto revolucionó la medicina."
+      }
+    }
   },
   {
     "id": "science-140",
@@ -3098,7 +3395,24 @@
     "tags": [
       "medicine",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une seule maladie humaine a été complètement éradiquée.",
+        "fact": "La variole est la seule maladie infectieuse humaine déclarée éradiquée à l'échelle mondiale, au terme d'une campagne de vaccination internationale de plusieurs décennies qui a mis fin à la transmission naturelle en 1980.",
+        "whyItMatters": "Elle reste la meilleure preuve qu'un effort de vaccination mondial coordonné peut faire disparaître une maladie pour de bon."
+      },
+      "nl": {
+        "hook": "Slechts één menselijke ziekte is ooit volledig uitgeroeid.",
+        "fact": "Pokken is de enige menselijke infectieziekte die wereldwijd uitgeroeid is verklaard, na een decennialange internationale vaccinatiecampagne die de natuurlijke besmetting in 1980 stopzette.",
+        "whyItMatters": "Het blijft het sterkste bewijs dat een gecoördineerde wereldwijde vaccinatiecampagne een ziekte volledig kan doen verdwijnen."
+      },
+      "es": {
+        "hook": "Solo una enfermedad humana ha sido erradicada por completo.",
+        "fact": "La viruela es la única enfermedad infecciosa humana declarada erradicada a escala mundial, tras una campaña de vacunación internacional de décadas que puso fin a la transmisión natural en 1980.",
+        "whyItMatters": "Sigue siendo la prueba más contundente de que un esfuerzo de vacunación global y coordinado puede eliminar una enfermedad por completo."
+      }
+    }
   },
   {
     "id": "science-141",
@@ -3107,7 +3421,21 @@
     "fact": "Anesthetic drugs reliably make people unconscious and unable to feel pain during surgery, but the precise mechanism by which they shut off consciousness in the brain remains an active area of research.",
     "tags": [
       "medicine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les médecins ne comprennent toujours pas complètement comment agit l'anesthésie générale.",
+        "fact": "Les anesthésiques plongent de façon fiable les patients dans l'inconscience et suppriment la douleur pendant une opération, mais le mécanisme précis par lequel ils éteignent la conscience dans le cerveau reste un sujet de recherche actif."
+      },
+      "nl": {
+        "hook": "Artsen begrijpen nog altijd niet helemaal hoe algehele narcose werkt.",
+        "fact": "Narcosemiddelen maken mensen betrouwbaar buiten bewustzijn en pijnvrij tijdens een operatie, maar hoe ze het bewustzijn in de hersenen precies uitschakelen, is nog altijd volop onderwerp van onderzoek."
+      },
+      "es": {
+        "hook": "Los médicos aún no entienden del todo cómo funciona la anestesia general.",
+        "fact": "Los anestésicos dejan a las personas inconscientes y sin dolor durante la cirugía de forma fiable, pero el mecanismo exacto por el que apagan la consciencia en el cerebro sigue siendo objeto de investigación."
+      }
+    }
   },
   {
     "id": "science-142",
@@ -3117,7 +3445,21 @@
     "tags": [
       "medicine",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La transplantation fécale est un vrai traitement médical, et il marche.",
+        "fact": "Transférer les selles d'un donneur sain dans l'intestin d'un patient permet de traiter efficacement les infections récidivantes à Clostridioides difficile, en rétablissant l'équilibre des bactéries intestinales détruit par les antibiotiques."
+      },
+      "nl": {
+        "hook": "Poeptransplantaties zijn een echte, werkzame medische behandeling.",
+        "fact": "Ontlasting van een gezonde donor in de darm van een patiënt brengen kan terugkerende infecties met Clostridioides difficile succesvol behandelen, doordat het de gezonde balans van darmbacteriën herstelt die door antibiotica was weggevaagd."
+      },
+      "es": {
+        "hook": "Los trasplantes fecales son un tratamiento médico real y eficaz.",
+        "fact": "Trasplantar heces de un donante sano al intestino de un paciente puede tratar con éxito las infecciones recurrentes por Clostridioides difficile, al restaurar el equilibrio de bacterias intestinales que los antibióticos habían arrasado."
+      }
+    }
   },
   {
     "id": "science-143",
@@ -3127,7 +3469,21 @@
     "tags": [
       "medicine",
       "human-body"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines personnes sont « supergoûteuses » et vivent dans un monde de saveurs bien plus intenses.",
+        "fact": "Les supergoûteurs possèdent une densité de papilles gustatives supérieure à la moyenne, ce qui leur fait percevoir l'amertume, le sucré et les autres saveurs beaucoup plus intensément que la plupart des gens."
+      },
+      "nl": {
+        "hook": "Sommige mensen zijn 'superproevers' en leven in een veel intensere smaakwereld.",
+        "fact": "Superproevers hebben meer smaakpapillen per vierkante centimeter tong dan gemiddeld, waardoor ze bitter, zoet en andere smaken veel sterker ervaren dan de meeste mensen."
+      },
+      "es": {
+        "hook": "Hay personas «supercatadoras» que viven en un mundo de sabores mucho más intenso.",
+        "fact": "Los supercatadores tienen una densidad de papilas gustativas en la lengua superior a la media, lo que les hace percibir el amargor, el dulzor y otros sabores con mucha más intensidad que la mayoría."
+      }
+    }
   },
   {
     "id": "science-144",
@@ -3137,7 +3493,21 @@
     "tags": [
       "medicine",
       "genetics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le daltonisme est bien plus fréquent chez les hommes que chez les femmes.",
+        "fact": "Les gènes de la vision des couleurs rouge-vert se trouvent sur le chromosome X. Comme les hommes n'en possèdent qu'un seul, une unique copie défectueuse suffit à provoquer un daltonisme, alors qu'il en faut généralement deux chez les femmes."
+      },
+      "nl": {
+        "hook": "Kleurenblindheid komt veel vaker voor bij mannen dan bij vrouwen.",
+        "fact": "De genen voor het onderscheiden van rood en groen liggen op het X-chromosoom. Omdat mannen maar één X-chromosoom hebben, is één defecte kopie al genoeg voor kleurenblindheid, terwijl vrouwen er meestal twee nodig hebben."
+      },
+      "es": {
+        "hook": "El daltonismo es mucho más frecuente en hombres que en mujeres.",
+        "fact": "Los genes de la visión del rojo y el verde están en el cromosoma X. Como los hombres solo tienen uno, basta con una copia defectuosa para provocar daltonismo, mientras que las mujeres suelen necesitar dos."
+      }
+    }
   },
   {
     "id": "science-145",
@@ -3147,7 +3517,21 @@
     "tags": [
       "medicine",
       "human-body"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines migraines provoquent des effets visuels saisissants sans la moindre douleur.",
+        "fact": "Une « migraine silencieuse », ou aura migraineuse, peut faire apparaître des éclairs lumineux, des taches aveugles ou des motifs en zigzag dans le champ de vision, sous l'effet de vagues d'activité cérébrale anormale — parfois sans aucun mal de tête à la clé."
+      },
+      "nl": {
+        "hook": "Sommige migraines geven levendige visuele effecten zonder ook maar enige pijn.",
+        "fact": "Een 'stille migraine' of migraineaura kan lichtflitsen, blinde vlekken of zigzagpatronen in het gezichtsveld veroorzaken, aangedreven door golven van veranderde hersenactiviteit — soms zonder dat er hoofdpijn op volgt."
+      },
+      "es": {
+        "hook": "Algunas migrañas producen efectos visuales intensos y ningún dolor.",
+        "fact": "Una «migraña silenciosa» o aura migrañosa puede provocar destellos de luz, puntos ciegos o patrones en zigzag en la visión, impulsados por oleadas de actividad cerebral alterada, y a veces sin que después llegue dolor de cabeza alguno."
+      }
+    }
   },
   {
     "id": "science-146",
@@ -3157,7 +3541,21 @@
     "tags": [
       "genetics",
       "evolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Vous partagez environ 98 à 99 % de votre ADN avec les chimpanzés.",
+        "fact": "Les comparaisons génétiques montrent que la séquence d'ADN des humains et des chimpanzés ne diffère que de quelques pour cent, reflet d'un ancêtre commun qui vivait il y a environ 6 à 7 millions d'années."
+      },
+      "nl": {
+        "hook": "Je deelt ongeveer 98 tot 99 procent van je DNA met chimpansees.",
+        "fact": "Genetische vergelijkingen laten zien dat de DNA-volgorde van mensen en chimpansees maar een klein percentage verschilt, een weerspiegeling van een gemeenschappelijke voorouder die zo'n 6 tot 7 miljoen jaar geleden leefde."
+      },
+      "es": {
+        "hook": "Compartes entre el 98 y el 99 % de tu ADN con los chimpancés.",
+        "fact": "Las comparaciones genéticas muestran que humanos y chimpancés se diferencian en un porcentaje muy pequeño de su secuencia de ADN, reflejo de un antepasado común que vivió hace unos 6 o 7 millones de años."
+      }
+    }
   },
   {
     "id": "science-147",
@@ -3167,7 +3565,21 @@
     "tags": [
       "genetics",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'essentiel de votre ADN ne fabrique rien du tout.",
+        "fact": "Les gènes codant pour des protéines ne représentent qu'une petite fraction du génome humain, de l'ordre de 1 à 2 %. Le reste comprend des séquences régulatrices, des vestiges de virus anciens et de longs segments dont on cherche encore la fonction."
+      },
+      "nl": {
+        "hook": "Het meeste van je DNA bouwt eigenlijk helemaal niets.",
+        "fact": "Genen die voor eiwitten coderen vormen maar een klein deel van het menselijk genoom, zo'n 1 tot 2 procent. De rest bestaat uit regelende stukken, resten van oeroude virussen en gebieden waarvan de functie nog wordt uitgezocht."
+      },
+      "es": {
+        "hook": "La mayor parte de tu ADN no construye nada.",
+        "fact": "Los genes que codifican proteínas suponen solo una pequeña fracción del genoma humano, en torno al 1 o 2 %. El resto incluye secuencias reguladoras, restos de virus antiguos y tramos cuya función todavía se está averiguando."
+      }
+    }
   },
   {
     "id": "science-148",
@@ -3177,7 +3589,21 @@
     "tags": [
       "genetics",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les vrais jumeaux partagent leur ADN, mais pas leurs empreintes digitales.",
+        "fact": "Les motifs des empreintes sont façonnés par des facteurs aléatoires pendant la vie intra-utérine — l'écoulement exact du liquide amniotique, la position du fœtus — et pas seulement par la génétique. Même des jumeaux génétiquement identiques finissent donc avec des empreintes distinctes."
+      },
+      "nl": {
+        "hook": "Eeneiige tweelingen delen hun DNA, maar niet hun vingerafdrukken.",
+        "fact": "Vingerafdrukpatronen worden gevormd door toevalsfactoren in de baarmoeder, zoals de precieze stroming van het vruchtwater en de ligging van het kind, en niet alleen door genen. Zelfs genetisch identieke tweelingen krijgen daardoor verschillende afdrukken."
+      },
+      "es": {
+        "hook": "Los gemelos idénticos comparten el ADN, pero no las huellas dactilares.",
+        "fact": "Los patrones de las huellas los moldean factores aleatorios del útero, como el flujo exacto del líquido amniótico y la posición del feto, y no solo la genética. Por eso incluso los gemelos genéticamente idénticos acaban con huellas distintas."
+      }
+    }
   },
   {
     "id": "science-149",
@@ -3187,7 +3613,21 @@
     "tags": [
       "genetics",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ADN qui est en vous pourrait faire de nombreux allers-retours jusqu'au Soleil.",
+        "fact": "Chacune de vos milliers de milliards de cellules contient un ADN qui, déroulé, mesurerait environ un mètre. Multipliée à l'échelle du corps entier, la longueur totale devient astronomique — largement de quoi couvrir plusieurs fois la distance Terre-Soleil aller-retour."
+      },
+      "nl": {
+        "hook": "Het DNA in jou zou vele malen heen en weer naar de zon reiken.",
+        "fact": "Elk van je biljoenen cellen bevat DNA dat, uitgerold, ongeveer een meter lang zou zijn. Vermenigvuldig dat met je hele lichaam en de totale lengte wordt astronomisch groot — ruim genoeg om de afstand tot de zon meermaals heen en terug te overbruggen."
+      },
+      "es": {
+        "hook": "El ADN que llevas dentro llegaría al Sol y volvería muchas veces.",
+        "fact": "Cada una de tus billones de células contiene un ADN que, desenrollado, mediría alrededor de un metro. Multiplicado por todo el cuerpo, la longitud combinada es astronómica: de sobra para cubrir varias veces la distancia de ida y vuelta al Sol."
+      }
+    }
   },
   {
     "id": "science-150",
@@ -3197,7 +3637,21 @@
     "tags": [
       "genetics",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre ADN mitochondrial vient uniquement de votre mère.",
+        "fact": "Les mitochondries, les structures qui produisent l'énergie dans les cellules, possèdent leur propre petite boucle d'ADN, distincte de celui du noyau, et elle se transmet presque exclusivement par la lignée maternelle."
+      },
+      "nl": {
+        "hook": "Je mitochondriaal DNA komt uitsluitend van je moeder.",
+        "fact": "Mitochondriën, de energiefabriekjes van de cel, hebben hun eigen kleine ringetje DNA, los van dat in de celkern. Dat wordt vrijwel uitsluitend via de moederlijn doorgegeven."
+      },
+      "es": {
+        "hook": "Tu ADN mitocondrial te viene solo de tu madre.",
+        "fact": "Las mitocondrias, las estructuras que producen energía en las células, tienen su propio pequeño bucle de ADN, distinto del del núcleo, y se transmite casi en exclusiva por vía materna."
+      }
+    }
   },
   {
     "id": "science-151",
@@ -3207,7 +3661,21 @@
     "tags": [
       "biology",
       "human-body"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Vos globules rouges ont jeté leur propre ADN.",
+        "fact": "Les globules rouges matures expulsent leur noyau au cours de leur développement, ce qui leur laisse plus de place pour transporter l'oxygène — mais les empêche aussi de se réparer et limite leur durée de vie à environ 120 jours."
+      },
+      "nl": {
+        "hook": "Je rode bloedcellen hebben hun eigen DNA weggegooid.",
+        "fact": "Rijpe rode bloedcellen stoten tijdens hun ontwikkeling hun celkern uit. Zo houden ze meer ruimte over om zuurstof te vervoeren, maar daardoor kunnen ze zichzelf ook niet herstellen en leven ze maar zo'n 120 dagen."
+      },
+      "es": {
+        "hook": "Tus glóbulos rojos se deshicieron de su propio ADN.",
+        "fact": "Los glóbulos rojos maduros expulsan su núcleo durante el desarrollo, lo que les deja más espacio para transportar oxígeno, pero también significa que no pueden repararse y solo viven unos 120 días."
+      }
+    }
   },
   {
     "id": "science-152",
@@ -3217,7 +3685,21 @@
     "tags": [
       "genetics",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'édition génétique CRISPR a été empruntée aux bactéries.",
+        "fact": "Le système CRISPR que les scientifiques utilisent aujourd'hui pour modifier les génomes est apparu naturellement chez les bactéries comme une défense immunitaire : il leur permet de découper l'ADN des virus qui les ont attaquées et d'en garder la mémoire."
+      },
+      "nl": {
+        "hook": "CRISPR-gentechnologie is geleend van bacteriën.",
+        "fact": "Het CRISPR-systeem waarmee wetenschappers nu genomen bewerken, is van nature ontstaan bij bacteriën als afweermechanisme: het stelt ze in staat het DNA van virussen die hen eerder aanvielen stuk te knippen en te onthouden."
+      },
+      "es": {
+        "hook": "La edición genética CRISPR se la copiamos a las bacterias.",
+        "fact": "El sistema CRISPR que hoy usan los científicos para editar genomas surgió de forma natural en las bacterias como defensa inmunitaria: les permite cortar y recordar el ADN de los virus que las habían atacado antes."
+      }
+    }
   },
   {
     "id": "science-153",
@@ -3227,7 +3709,21 @@
     "tags": [
       "genetics",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains gènes se déplacent dans le génome.",
+        "fact": "La généticienne Barbara McClintock a découvert les « gènes sauteurs », ou transposons : des segments d'ADN capables de changer de position au sein d'un génome. Une découverte tellement en avance sur son temps qu'elle ne lui a valu le prix Nobel que des décennies plus tard."
+      },
+      "nl": {
+        "hook": "Genen kunnen door je genoom springen.",
+        "fact": "Geneticus Barbara McClintock ontdekte 'springende genen', oftewel transposons: stukken DNA die van plek kunnen veranderen binnen een genoom. Haar vondst was zo ver haar tijd vooruit dat ze er pas decennia later de Nobelprijs voor kreeg."
+      },
+      "es": {
+        "hook": "Hay genes que saltan de un sitio a otro de tu genoma.",
+        "fact": "La genetista Barbara McClintock descubrió los «genes saltarines», o transposones: fragmentos de ADN capaces de cambiar de posición dentro de un genoma. Su hallazgo se adelantó tanto a su época que no le valió el Nobel hasta décadas después."
+      }
+    }
   },
   {
     "id": "science-154",
@@ -3237,7 +3733,21 @@
     "tags": [
       "biology",
       "evolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les champignons vous sont plus proches parents que les plantes.",
+        "fact": "Les champignons se sont séparés d'un ancêtre commun partagé avec les animaux après que les plantes se soient déjà détachées de la lignée : génétiquement, champignons, moisissures et levures sont donc plus proches de l'humain que du règne végétal."
+      },
+      "nl": {
+        "hook": "Paddenstoelen zijn nauwer aan jou verwant dan aan planten.",
+        "fact": "Schimmels splitsten zich af van een gemeenschappelijke voorouder met de dieren, nadat de planten al een eigen tak waren ingeslagen. Genetisch staan paddenstoelen, schimmels en gisten daardoor dichter bij de mens dan bij het plantenrijk."
+      },
+      "es": {
+        "hook": "Las setas están más emparentadas contigo que con las plantas.",
+        "fact": "Los hongos se separaron de un antepasado común con los animales después de que las plantas ya se hubieran ramificado por su cuenta, lo que sitúa a setas, mohos y levaduras genéticamente más cerca de los humanos que del reino vegetal."
+      }
+    }
   },
   {
     "id": "science-155",
@@ -3247,7 +3757,21 @@
     "tags": [
       "biology",
       "ecology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une moisissure jaune sans cerveau sait résoudre des labyrinthes.",
+        "fact": "Physarum polycephalum, un myxomycète unicellulaire dépourvu de cerveau et de système nerveux, est capable de trouver le chemin le plus court vers de la nourriture dans un labyrinthe — et a même reproduit en laboratoire des réseaux de transport réels particulièrement efficaces."
+      },
+      "nl": {
+        "hook": "Een hersenloze gele slijmzwam kan doolhoven oplossen.",
+        "fact": "Physarum polycephalum, een eencellige slijmzwam zonder hersenen of zenuwstelsel, vindt de kortste route door een doolhof naar voedsel en heeft in laboratoriumproeven zelfs efficiënte, bestaande vervoersnetwerken nagebootst."
+      },
+      "es": {
+        "hook": "Un moho mucilaginoso amarillo y sin cerebro resuelve laberintos.",
+        "fact": "Physarum polycephalum, un moho mucilaginoso unicelular sin cerebro ni sistema nervioso, es capaz de encontrar el camino más corto hasta la comida en un laberinto e incluso ha reproducido en el laboratorio trazados eficientes de redes de transporte reales."
+      }
+    }
   },
   {
     "id": "science-156",
@@ -3258,7 +3782,24 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'axolotl peut faire repousser un membre entier — et une partie de son cœur.",
+        "fact": "Ces salamandres régénèrent pattes, queue, tissu de la moelle épinière et même des portions de muscle cardiaque endommagé, avec peu ou pas de cicatrice, ce qui en fait un sujet de choix pour la recherche en médecine régénérative.",
+        "whyItMatters": "Comprendre comment l'axolotl régénère ses tissus sans cicatriser pourrait un jour aider les chercheurs à mettre au point des traitements pour les blessures et les lésions d'organes chez l'humain."
+      },
+      "nl": {
+        "hook": "Axolotls laten hele poten opnieuw aangroeien — en zelfs stukken van hun hart.",
+        "fact": "Deze salamanders kunnen verloren poten, staarten, ruggenmergweefsel en zelfs delen van beschadigde hartspier regenereren, met weinig tot geen littekens. Daarom zijn ze een belangrijk onderwerp in het onderzoek naar regeneratieve geneeskunde.",
+        "whyItMatters": "Begrijpen hoe axolotls weefsel herstellen zonder littekens te vormen, kan onderzoekers ooit helpen behandelingen te ontwikkelen voor menselijke verwondingen en orgaanschade."
+      },
+      "es": {
+        "hook": "Los ajolotes regeneran extremidades enteras, y hasta partes de su corazón.",
+        "fact": "Estas salamandras pueden regenerar patas perdidas, colas, tejido de la médula espinal e incluso porciones de músculo cardíaco dañado, con muy poca o ninguna cicatriz, lo que las ha convertido en un foco clave de la investigación en medicina regenerativa.",
+        "whyItMatters": "Entender cómo regeneran tejido sin cicatrizar podría ayudar algún día a desarrollar tratamientos para lesiones y daños de órganos en humanos."
+      }
+    }
   },
   {
     "id": "science-157",
@@ -3268,7 +3809,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le rat-taupe nu survit 18 minutes sans oxygène.",
+        "fact": "Quand l'oxygène vient à manquer, le rat-taupe nu bascule son métabolisme sur le fructose plutôt que le glucose, ce qui permet à son cerveau et à ses organes de continuer à fonctionner bien plus longtemps que chez n'importe quel autre mammifère. Il est aussi remarquablement résistant au cancer."
+      },
+      "nl": {
+        "hook": "Naakte molratten overleven 18 minuten zonder zuurstof.",
+        "fact": "Als de zuurstof opraakt, schakelen naakte molratten hun stofwisseling om van glucose naar fructose, waardoor hun hersenen en organen veel langer blijven werken dan bij welk ander zoogdier ook. Ze zijn bovendien opvallend goed bestand tegen kanker."
+      },
+      "es": {
+        "hook": "Las ratas topo desnudas sobreviven 18 minutos sin oxígeno.",
+        "fact": "Cuando escasea el oxígeno, las ratas topo desnudas cambian su metabolismo para funcionar con fructosa en lugar de glucosa, lo que permite a su cerebro y sus órganos seguir activos mucho más tiempo del que aguantaría cualquier otro mamífero. Además, son notablemente resistentes al cáncer."
+      }
+    }
   },
   {
     "id": "science-158",
@@ -3279,7 +3834,24 @@
     "tags": [
       "biology",
       "ecology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chez la tortue marine, c'est le sable qui décide du sexe.",
+        "fact": "Les œufs de tortue marine ne possèdent pas de chromosomes sexuels déterminant le sexe : ce sont les températures du nid qui décident, les plus chaudes donnant surtout des femelles et les plus fraîches surtout des mâles.",
+        "whyItMatters": "La hausse des températures mondiales déséquilibre fortement de nombreuses populations de tortues marines en faveur des femelles, ce qui menace leur reproduction future."
+      },
+      "nl": {
+        "hook": "Bij zeeschildpadden bepaalt het zand of het een mannetje of vrouwtje wordt.",
+        "fact": "Eieren van zeeschildpadden hebben geen geslachtschromosomen die het geslacht bepalen. In plaats daarvan leveren warmere nesttemperaturen vooral vrouwtjes op en koelere vooral mannetjes.",
+        "whyItMatters": "Door de stijgende temperaturen wereldwijd bestaan veel zeeschildpaddenpopulaties inmiddels overwegend uit vrouwtjes, wat hun voortplanting in de toekomst bedreigt."
+      },
+      "es": {
+        "hook": "El sexo de una tortuga marina lo decide la arena donde nace.",
+        "fact": "Los huevos de tortuga marina no tienen cromosomas sexuales que determinen el sexo: en su lugar, las temperaturas más cálidas del nido producen sobre todo hembras y las más frías, sobre todo machos.",
+        "whyItMatters": "El aumento de las temperaturas globales está desequilibrando muchas poblaciones de tortugas marinas hacia las hembras, lo que amenaza su reproducción futura."
+      }
+    }
   },
   {
     "id": "science-159",
@@ -3289,7 +3861,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les abeilles savent reconnaître un visage humain.",
+        "fact": "Bien que leur cerveau soit plus petit qu'un grain de riz, les abeilles domestiques apprennent à distinguer des visages humains précis sur des photos en assemblant les traits du visage, une méthode proche de celle que nous utilisons nous-mêmes."
+      },
+      "nl": {
+        "hook": "Bijen herkennen individuele mensengezichten.",
+        "fact": "Hoewel hun hersenen kleiner zijn dan een rijstkorrel, leren honingbijen specifieke mensengezichten op foto's uit elkaar te houden door gezichtskenmerken samen te voegen, ongeveer zoals mensen dat doen."
+      },
+      "es": {
+        "hook": "Las abejas reconocen rostros humanos concretos.",
+        "fact": "Aunque su cerebro es más pequeño que un grano de arroz, las abejas melíferas aprenden a distinguir caras humanas concretas en fotos combinando los rasgos faciales, una técnica parecida a la que usamos las personas."
+      }
+    }
   },
   {
     "id": "science-160",
@@ -3299,7 +3885,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les flamants roses ne naissent pas roses.",
+        "fact": "Les flamants naissent gris. Leur rose caractéristique vient des pigments caroténoïdes contenus dans les algues et les crevettes qu'ils mangent, qui s'accumulent peu à peu dans leurs plumes."
+      },
+      "nl": {
+        "hook": "Flamingo's zijn van nature niet roze.",
+        "fact": "Flamingo's worden grijs geboren. Hun kenmerkende roze kleur komt van carotenoïde pigmenten in de algen en pekelkreeftjes die ze eten, en die zich mettertijd in hun veren ophopen."
+      },
+      "es": {
+        "hook": "Los flamencos no son rosas por naturaleza.",
+        "fact": "Los flamencos nacen grises. Su característico color rosa procede de los pigmentos carotenoides de las algas y los camarones de salmuera que comen, que se van acumulando en sus plumas."
+      }
+    }
   },
   {
     "id": "science-161",
@@ -3309,7 +3909,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les loutres de mer se tiennent la patte pour ne pas dériver pendant leur sieste.",
+        "fact": "Avant de s'endormir à la surface de l'eau, les loutres s'enroulent souvent dans des algues ou s'accrochent les pattes les unes aux autres, ce qui ancre le groupe et empêche les courants de les séparer."
+      },
+      "nl": {
+        "hook": "Zeeotters houden pootjes vast zodat ze slapend niet uit elkaar drijven.",
+        "fact": "Voor een dutje aan het wateroppervlak wikkelen otters zich vaak in kelp of haken ze hun poten in elkaar, zodat de groep verankerd blijft en zeestromingen hen niet uit elkaar trekken."
+      },
+      "es": {
+        "hook": "Las nutrias marinas se dan la mano para no separarse mientras duermen.",
+        "fact": "Antes de dormir en la superficie del agua, las nutrias suelen enrollarse en algas o entrelazar sus patas con las de otras, anclándose como grupo para que las corrientes no las separen."
+      }
+    }
   },
   {
     "id": "science-162",
@@ -3319,7 +3933,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le nez d'un chien est des dizaines de milliers de fois plus sensible que le vôtre.",
+        "fact": "Les chiens possèdent jusqu'à 300 millions de récepteurs olfactifs, contre environ 6 millions chez l'humain, et une part bien plus importante de leur cerveau est consacrée au traitement des odeurs."
+      },
+      "nl": {
+        "hook": "De neus van een hond is tienduizenden keren gevoeliger dan die van jou.",
+        "fact": "Honden hebben tot 300 miljoen geurreceptoren tegenover zo'n 6 miljoen bij de mens, en een veel groter deel van hun hersenen is gewijd aan het verwerken van geuren."
+      },
+      "es": {
+        "hook": "El olfato de un perro es decenas de miles de veces más sensible que el tuyo.",
+        "fact": "Los perros tienen hasta 300 millones de receptores olfativos frente a los aproximadamente 6 millones de una persona, y dedican una parte mucho mayor de su cerebro a procesar olores."
+      }
+    }
   },
   {
     "id": "science-163",
@@ -3329,7 +3957,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les chats ne perçoivent pas le goût sucré.",
+        "fact": "Les chats n'ont pas de version fonctionnelle du gène nécessaire à la fabrication des récepteurs du sucré : les aliments sucrés n'ont donc pratiquement aucun goût pour eux, une particularité rare chez les mammifères."
+      },
+      "nl": {
+        "hook": "Katten proeven geen zoet.",
+        "fact": "Katten missen een werkende versie van het gen dat nodig is om zoetsmaakreceptoren aan te maken, waardoor suikerhoudend voedsel voor hen vrijwel smaakloos is — een zeldzame eigenschap onder zoogdieren."
+      },
+      "es": {
+        "hook": "Los gatos no saben lo que es lo dulce.",
+        "fact": "A los gatos les falta una versión funcional del gen necesario para formar receptores del sabor dulce, así que los alimentos azucarados les resultan prácticamente insípidos, un rasgo poco común entre los mamíferos."
+      }
+    }
   },
   {
     "id": "science-164",
@@ -3339,7 +3981,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La squille voit des couleurs que nous ne pouvons même pas imaginer.",
+        "fact": "Là où l'humain possède trois types de récepteurs de couleur, certaines espèces de squilles en ont jusqu'à 16, ce qui leur permet de détecter l'ultraviolet et la lumière polarisée, bien au-delà de notre champ visuel."
+      },
+      "nl": {
+        "hook": "De bidsprinkhaankreeft ziet kleuren die wij ons niet eens kunnen voorstellen.",
+        "fact": "Waar mensen drie soorten kleurreceptoren hebben, hebben sommige bidsprinkhaankreeften er tot 16, waarmee ze ultraviolet en gepolariseerd licht waarnemen ver buiten het menselijke bereik."
+      },
+      "es": {
+        "hook": "La galera ve colores que los humanos ni siquiera podemos imaginar.",
+        "fact": "Mientras que las personas tenemos tres tipos de receptores de color, algunas especies de galera tienen hasta 16, lo que les permite detectar luz ultravioleta y polarizada muy por encima de nuestro rango visual."
+      }
+    }
   },
   {
     "id": "science-165",
@@ -3349,7 +4005,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Cette grenouille gèle complètement chaque hiver et revient à la vie au printemps.",
+        "fact": "La grenouille des bois survit à l'hiver en laissant geler jusqu'aux deux tiers de l'eau de son corps. Son foie inonde ses cellules de glucose, qui joue le rôle d'antigel naturel, et son cœur s'arrête totalement jusqu'au dégel."
+      },
+      "nl": {
+        "hook": "Deze kikker bevriest elke winter helemaal en komt in de lente weer tot leven.",
+        "fact": "De boskikker overleeft de winter door tot twee derde van het water in zijn lichaam te laten bevriezen. Zijn lever overspoelt de cellen met glucose, een natuurlijke antivries, en zijn hart staat volledig stil tot hij ontdooit."
+      },
+      "es": {
+        "hook": "Esta rana se congela por completo cada invierno y revive en primavera.",
+        "fact": "La rana de bosque sobrevive al invierno dejando que se congele hasta dos tercios del agua de su cuerpo. Su hígado inunda las células de glucosa, que actúa como anticongelante natural, y su corazón se detiene del todo hasta el deshielo."
+      }
+    }
   },
   {
     "id": "science-166",
@@ -3359,7 +4029,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ornithorynque est un mammifère venimeux qui pond des œufs.",
+        "fact": "Les ornithorynques appartiennent à l'un des deux seuls groupes de mammifères ovipares au monde (l'autre étant les échidnés), et les mâles portent sur leurs pattes arrière un ergot venimeux capable de provoquer de vives douleurs chez l'humain."
+      },
+      "nl": {
+        "hook": "Het vogelbekdier is een giftig zoogdier dat eieren legt.",
+        "fact": "Vogelbekdieren vormen een van de slechts twee groepen eierleggende zoogdieren op aarde (de andere zijn de mierenegels), en mannetjes hebben aan hun achterpoten een gifspoor die bij mensen hevige pijn kan veroorzaken."
+      },
+      "es": {
+        "hook": "El ornitorrinco es un mamífero venenoso que pone huevos.",
+        "fact": "Los ornitorrincos forman uno de los dos únicos grupos de mamíferos ovíparos del planeta (el otro son los equidnas), y los machos tienen en las patas traseras un espolón venenoso capaz de causar un dolor intenso en las personas."
+      }
+    }
   },
   {
     "id": "science-167",
@@ -3369,7 +4053,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les étoiles de mer n'ont ni cerveau ni sang.",
+        "fact": "Au lieu d'un cerveau central, les étoiles de mer fonctionnent avec un réseau nerveux décentralisé, et à la place du sang, elles font circuler de l'eau de mer dans un système de canaux pour se déplacer et respirer."
+      },
+      "nl": {
+        "hook": "Zeesterren hebben geen hersenen en geen bloed.",
+        "fact": "In plaats van een centraal brein draaien zeesterren op een gedecentraliseerd zenuwnetwerk, en in plaats van bloed pompen ze zeewater door een stelsel van kanalen om te bewegen en te ademen."
+      },
+      "es": {
+        "hook": "Las estrellas de mar no tienen cerebro ni sangre.",
+        "fact": "En lugar de un cerebro central, las estrellas de mar funcionan con una red nerviosa descentralizada, y en vez de sangre bombean agua marina por un sistema de canales para moverse y respirar."
+      }
+    }
   },
   {
     "id": "science-168",
@@ -3379,7 +4077,21 @@
     "tags": [
       "biology",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines fourmis portent 50 fois leur propre poids.",
+        "fact": "Certaines espèces de fourmis soulèvent et transportent des objets des dizaines de fois plus lourds qu'elles, grâce à leur petite taille, à des fibres musculaires denses et à un exosquelette qui offre un excellent effet de levier."
+      },
+      "nl": {
+        "hook": "Sommige mieren dragen 50 keer hun eigen gewicht.",
+        "fact": "Bepaalde mierensoorten tillen en verslepen voorwerpen die tientallen keren zwaarder zijn dan zijzelf, dankzij hun geringe formaat, dichte spiervezels en een uitwendig skelet dat efficiënte hefboomwerking geeft."
+      },
+      "es": {
+        "hook": "Algunas hormigas cargan 50 veces su propio peso.",
+        "fact": "Ciertas especies de hormigas pueden levantar y transportar objetos decenas de veces más pesados que ellas, gracias a su pequeño tamaño, a unas fibras musculares densas y a un exoesqueleto que ofrece una palanca muy eficiente."
+      }
+    }
   },
   {
     "id": "science-169",
@@ -3389,7 +4101,21 @@
     "tags": [
       "biology",
       "ecology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le plus grand organisme vivant connu est un champignon.",
+        "fact": "Un armillaire (Armillaria) qui pousse dans les Blue Mountains de l'Oregon s'étend sous terre sur plus de 800 hectares estimés, le tout relié en un seul individu génétique, et on lui prête plusieurs milliers d'années."
+      },
+      "nl": {
+        "hook": "Het grootste bekende levende organisme is één paddenstoelvormende schimmel.",
+        "fact": "Een honingzwam (Armillaria) in de Blue Mountains van Oregon beslaat naar schatting meer dan 800 hectare ondergronds, allemaal verbonden als één genetisch individu, en wordt duizenden jaren oud geschat."
+      },
+      "es": {
+        "hook": "El mayor organismo vivo conocido es un hongo que produce setas.",
+        "fact": "Un hongo de miel (Armillaria) que crece en las Blue Mountains de Oregón se extiende bajo tierra por más de 800 hectáreas estimadas, todo conectado como un único individuo genético, y se cree que tiene miles de años."
+      }
+    }
   },
   {
     "id": "science-170",
@@ -3399,7 +4125,21 @@
     "tags": [
       "biology",
       "ecology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une forêt de 47 000 arbres dans l'Utah n'est en réalité qu'un seul organisme.",
+        "fact": "Pando, une peupleraie de trembles de l'Utah, est en fait un unique organisme génétiquement identique relié par un système racinaire commun : chaque tronc est un clone issu du même arbre d'origine."
+      },
+      "nl": {
+        "hook": "Een bos van 47.000 bomen in Utah is technisch gezien één organisme.",
+        "fact": "Pando, een bos van ratelpopulieren in Utah, is in werkelijkheid één genetisch identiek organisme, verbonden door een gedeeld wortelstelsel: elke stam is een kloon die uit dezelfde oorspronkelijke boom is ontsproten."
+      },
+      "es": {
+        "hook": "Un bosque de 47.000 árboles en Utah es técnicamente un solo organismo.",
+        "fact": "Pando, una arboleda de álamo temblón en Utah, es en realidad un único organismo genéticamente idéntico conectado por un sistema de raíces común: cada tronco es un clon brotado del mismo árbol original."
+      }
+    }
   },
   {
     "id": "science-171",
@@ -3409,7 +4149,21 @@
     "tags": [
       "biology",
       "plants"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les dionées savent compter.",
+        "fact": "Les poils sensitifs à l'intérieur d'une dionée attrape-mouche doivent être touchés deux fois en une vingtaine de secondes pour que le piège se referme, et un troisième contact est nécessaire pour lancer la digestion : un mécanisme qui évite à la plante de gaspiller son énergie pour de fausses alertes, comme une goutte de pluie."
+      },
+      "nl": {
+        "hook": "Venusvliegenvangers kunnen tellen.",
+        "fact": "De voelharen in een venusvliegenvanger moeten binnen ongeveer 20 seconden twee keer worden aangeraakt voordat de val dichtklapt, en een derde aanraking is nodig om de vertering te starten — een mechanisme dat voorkomt dat de plant energie verspilt aan vals alarm zoals regendruppels."
+      },
+      "es": {
+        "hook": "Las venus atrapamoscas saben contar.",
+        "fact": "Los pelos sensitivos del interior de una venus atrapamoscas deben tocarse dos veces en unos 20 segundos para que la trampa se cierre, y hace falta un tercer contacto para iniciar la digestión: un mecanismo que evita que la planta malgaste energía con falsas alarmas como las gotas de lluvia."
+      }
+    }
   },
   {
     "id": "science-172",
@@ -3419,7 +4173,21 @@
     "tags": [
       "biology",
       "plants"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains bambous poussent de près d'un mètre en une seule journée.",
+        "fact": "Dans des conditions idéales, certaines espèces de bambou à croissance rapide peuvent s'allonger de 91 centimètres (environ 3 pieds) en 24 heures, ce qui en fait l'une des plantes les plus rapides de la planète."
+      },
+      "nl": {
+        "hook": "Sommige bamboe groeit bijna een meter op één dag.",
+        "fact": "Onder ideale omstandigheden kunnen bepaalde snelgroeiende bamboesoorten in 24 uur tot 91 centimeter (zo'n 3 voet) langer worden, waarmee bamboe tot de snelstgroeiende planten op aarde behoort."
+      },
+      "es": {
+        "hook": "Algunos bambúes crecen casi un metro en un solo día.",
+        "fact": "En condiciones ideales, ciertas especies de bambú de crecimiento rápido pueden alargarse hasta 91 centímetros (unos 3 pies) en 24 horas, lo que convierte al bambú en una de las plantas que más rápido crecen del planeta."
+      }
+    }
   },
   {
     "id": "science-173",
@@ -3429,7 +4197,21 @@
     "tags": [
       "biology",
       "ecology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les arbres s'échangent discrètement des nutriments via un réseau souterrain de champignons.",
+        "fact": "De nombreux arbres sont reliés sous terre par des champignons mycorhiziens qui connectent leurs racines, ce qui leur permet de partager eau, carbone et signaux d'alerte face aux ravageurs : un phénomène que les chercheurs surnomment le « wood wide web »."
+      },
+      "nl": {
+        "hook": "Bomen ruilen in stilte voedingsstoffen via een ondergronds schimmelnetwerk.",
+        "fact": "Veel bomen zijn onder de grond verbonden door mycorrhizaschimmels die hun wortelstelsels koppelen, waardoor ze water, koolstof en waarschuwingssignalen over plaagdieren kunnen delen — een verschijnsel dat onderzoekers het 'wood wide web' noemen."
+      },
+      "es": {
+        "hook": "Los árboles intercambian nutrientes en silencio por una red subterránea de hongos.",
+        "fact": "Muchos árboles están conectados bajo tierra por hongos micorrícicos que enlazan sus raíces, lo que les permite compartir agua, carbono y señales de alerta sobre plagas: un fenómeno que los investigadores llaman la «wood wide web»."
+      }
+    }
   },
   {
     "id": "science-174",
@@ -3439,7 +4221,21 @@
     "tags": [
       "biology",
       "plants"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines fleurs « écoutent » le bourdonnement des abeilles et sucrent leur nectar en retour.",
+        "fact": "Des recherches sur l'onagre ont montré que les fleurs peuvent percevoir les vibrations des battements d'ailes d'un pollinisateur qui approche et augmenter, en quelques minutes, la concentration en sucre de leur nectar."
+      },
+      "nl": {
+        "hook": "Sommige bloemen 'luisteren' naar zoemende bijen en maken hun nectar zoeter.",
+        "fact": "Onderzoek aan teunisbloemen laat zien dat bloemen de trillingen van de vleugelslag van een naderende bestuiver kunnen waarnemen en binnen enkele minuten het suikergehalte van hun nectar verhogen."
+      },
+      "es": {
+        "hook": "Algunas flores «escuchan» el zumbido de las abejas y endulzan su néctar.",
+        "fact": "Las investigaciones con onagras han comprobado que las flores detectan las vibraciones del aleteo de un polinizador que se acerca y, en cuestión de minutos, aumentan la concentración de azúcar de su néctar."
+      }
+    }
   },
   {
     "id": "science-175",
@@ -3449,7 +4245,21 @@
     "tags": [
       "biology",
       "plants"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une fleur sent la viande pourrie, et c'est volontaire.",
+        "fact": "L'arum titan (Amorphophallus titanum) fleurit rarement, parfois une seule fois tous les quelques années, et dégage une odeur de chair en décomposition pour attirer les coléoptères nécrophages et les mouches qui le pollinisent."
+      },
+      "nl": {
+        "hook": "Eén bloem ruikt met opzet naar rottend vlees.",
+        "fact": "De lijkbloem (Amorphophallus titanum) bloeit zelden, soms maar eens in de paar jaar, en verspreidt een geur van rottend vlees om aaskevers en vliegen te lokken die haar bestuiven."
+      },
+      "es": {
+        "hook": "Una flor huele a carne podrida a propósito.",
+        "fact": "La flor cadáver (Amorphophallus titanum) florece pocas veces, a veces solo una cada varios años, y desprende un olor a carne en descomposición para atraer a los escarabajos carroñeros y las moscas que la polinizan."
+      }
+    }
   },
   {
     "id": "science-176",
@@ -3459,7 +4269,21 @@
     "tags": [
       "evolution",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les baleines marchaient autrefois sur la terre ferme.",
+        "fact": "Les fossiles montrent que les baleines descendent de mammifères terrestres à sabots, retournés progressivement à l'océan au fil de millions d'années, jusqu'à perdre leurs pattes arrière et développer nageoires et nageoire caudale."
+      },
+      "nl": {
+        "hook": "Walvissen liepen ooit over land.",
+        "fact": "Fossielen tonen aan dat walvissen afstammen van hoefdieren die op het land leefden en in de loop van miljoenen jaren geleidelijk naar de oceaan terugkeerden, hun achterpoten verloren en flippers en een staartvin ontwikkelden."
+      },
+      "es": {
+        "hook": "Las ballenas caminaban por tierra firme.",
+        "fact": "El registro fósil muestra que las ballenas descienden de mamíferos terrestres con pezuñas que volvieron poco a poco al océano a lo largo de millones de años, hasta perder las patas traseras y desarrollar aletas."
+      }
+    }
   },
   {
     "id": "science-177",
@@ -3469,7 +4293,21 @@
     "tags": [
       "evolution",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le changement de couleur d'un papillon pendant la révolution industrielle est l'une des démonstrations les plus claires de l'évolution en direct.",
+        "fact": "À mesure que la suie des usines noircissait l'écorce des arbres en Angleterre industrielle, la forme sombre, jusque-là rare, de la phalène du bouleau est devenue dominante, car mieux camouflée face aux prédateurs, avant que la tendance ne s'inverse quand les mesures antipollution ont assaini l'air."
+      },
+      "nl": {
+        "hook": "De kleurverandering van een nachtvlinder tijdens de industriële revolutie is een van de duidelijkste live demonstraties van evolutie.",
+        "fact": "Toen roet van fabrieken de boomschors in industrieel Engeland zwart maakte, werd de tot dan zeldzame donkere vorm van de berkenspanner dominant omdat die beter gecamoufleerd was tegen roofdieren — waarna het weer omdraaide zodra milieumaatregelen de lucht schoonmaakten."
+      },
+      "es": {
+        "hook": "El cambio de color de una polilla durante la Revolución Industrial es una de las demostraciones más claras de la evolución en directo.",
+        "fact": "A medida que el hollín de las fábricas oscurecía la corteza de los árboles en la Inglaterra industrial, la forma oscura de la polilla del abedul, antes rara, pasó a ser dominante porque se camuflaba mejor frente a los depredadores; luego la tendencia se invirtió cuando los controles de contaminación limpiaron el aire."
+      }
+    }
   },
   {
     "id": "science-178",
@@ -3479,7 +4317,21 @@
     "tags": [
       "evolution",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les dauphins et des reptiles marins disparus ont développé la même silhouette, chacun de leur côté.",
+        "fact": "Les ichtyosaures, reptiles marins anciens sans lien de parenté avec les mammifères, ont développé un corps profilé pourvu de nageoires étonnamment proche de celui des dauphins : un cas d'évolution convergente dicté par les mêmes exigences de nage rapide sous l'eau."
+      },
+      "nl": {
+        "hook": "Dolfijnen en uitgestorven zeereptielen ontwikkelden onafhankelijk vrijwel dezelfde lichaamsvorm.",
+        "fact": "Ichthyosauriërs, oude zeereptielen die niet verwant zijn aan zoogdieren, ontwikkelden een gestroomlijnd lichaam met vinnen dat opvallend veel op dat van dolfijnen lijkt — een geval van convergente evolutie, gedreven door dezelfde eis om snel onder water te zwemmen."
+      },
+      "es": {
+        "hook": "Los delfines y unos reptiles marinos extintos desarrollaron casi la misma forma corporal por separado.",
+        "fact": "Los ictiosaurios, antiguos reptiles marinos sin parentesco con los mamíferos, desarrollaron un cuerpo hidrodinámico con aletas sorprendentemente parecido al de los delfines: un caso de evolución convergente impulsado por la misma exigencia de nadar rápido bajo el agua."
+      }
+    }
   },
   {
     "id": "science-179",
@@ -3490,7 +4342,24 @@
     "tags": [
       "ecology",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les récifs coralliens couvrent moins de 1 % du fond des océans mais abritent un quart des espèces marines.",
+        "fact": "Malgré leur faible emprise, les écosystèmes des récifs coralliens offrent abri, zones de reproduction et nourriture à environ 25 % des espèces connues de l'océan.",
+        "whyItMatters": "C'est pourquoi le blanchissement des coraux lié au réchauffement des océans menace bien plus de biodiversité que la taille des récifs ne le laisserait croire."
+      },
+      "nl": {
+        "hook": "Koraalriffen beslaan minder dan 1% van de oceaanbodem maar herbergen een kwart van alle zeesoorten.",
+        "fact": "Ondanks hun kleine oppervlak bieden koraalrifecosystemen onderdak, paaigronden en voedsel aan naar schatting 25% van de bekende soorten in de oceaan.",
+        "whyItMatters": "Daarom bedreigt koraalverbleking door opwarmend zeewater veel meer biodiversiteit dan je op basis van de omvang van de riffen zou vermoeden."
+      },
+      "es": {
+        "hook": "Los arrecifes de coral ocupan menos del 1% del fondo marino pero sostienen una cuarta parte de las especies del mar.",
+        "fact": "Pese a su reducida extensión, los ecosistemas de arrecife de coral proporcionan refugio, zonas de cría y alimento a en torno al 25% de las especies conocidas del océano.",
+        "whyItMatters": "Por eso el blanqueamiento de los corales por el calentamiento del mar amenaza mucha más biodiversidad de lo que sugeriría el tamaño de los arrecifes."
+      }
+    }
   },
   {
     "id": "science-180",
@@ -3500,7 +4369,21 @@
     "tags": [
       "ecology",
       "evolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Terre a déjà traversé cinq extinctions de masse.",
+        "fact": "Les fossiles témoignent de cinq grandes extinctions de masse, la plus célèbre ayant emporté les dinosaures il y a 66 millions d'années. Beaucoup de scientifiques estiment que la perte actuelle de biodiversité, causée par l'activité humaine, pourrait en constituer une sixième."
+      },
+      "nl": {
+        "hook": "De aarde heeft al vijf massa-uitstervingen achter de rug.",
+        "fact": "Het fossielenarchief toont vijf grote massa-uitstervingen, waarvan de bekendste 66 miljoen jaar geleden de dinosauriërs wegvaagde. Veel wetenschappers stellen dat het huidige verlies aan biodiversiteit door menselijk toedoen een zesde zou kunnen vormen."
+      },
+      "es": {
+        "hook": "La Tierra ya ha pasado por cinco extinciones masivas.",
+        "fact": "El registro fósil muestra cinco grandes extinciones masivas; la más célebre acabó con los dinosaurios hace 66 millones de años. Muchos científicos sostienen que la pérdida actual de biodiversidad provocada por la actividad humana podría constituir una sexta."
+      }
+    }
   },
   {
     "id": "science-181",
@@ -3510,7 +4393,21 @@
     "tags": [
       "ecology",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Retirer une seule espèce peut faire s'effondrer tout un écosystème.",
+        "fact": "Les espèces clés de voûte, comme les loutres de mer et les loups, ont sur leur écosystème un impact bien plus grand que leur nombre ne le suggère : les loutres limitent les populations d'oursins et protègent ainsi les forêts de kelp, tandis que les loups réintroduits à Yellowstone ont remodelé les rivières en modifiant les habitudes de pâturage des wapitis."
+      },
+      "nl": {
+        "hook": "Eén soort weghalen kan een heel ecosysteem doen ontrafelen.",
+        "fact": "Sleutelsoorten zoals zeeotters en wolven hebben een veel grotere invloed op hun ecosysteem dan hun aantallen doen vermoeden: otters houden zee-egelpopulaties in toom en beschermen zo kelpwouden, terwijl de in Yellowstone geherintroduceerde wolven de rivieren hervormden door het graasgedrag van wapitiherten te veranderen."
+      },
+      "es": {
+        "hook": "Eliminar una sola especie puede deshacer un ecosistema entero.",
+        "fact": "Las especies clave, como las nutrias marinas y los lobos, influyen en sus ecosistemas mucho más de lo que su número sugiere: las nutrias mantienen a raya a los erizos de mar y protegen así los bosques de algas, mientras que los lobos reintroducidos en Yellowstone remodelaron los ríos al cambiar los hábitos de pastoreo de los alces."
+      }
+    }
   },
   {
     "id": "science-182",
@@ -3520,7 +4417,21 @@
     "tags": [
       "ecology",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les crapauds buffles ont été introduits pour régler un problème de nuisibles et sont devenus le nuisible.",
+        "fact": "L'Australie a lâché des crapauds buffles en 1935 pour lutter contre des coléoptères qui ravageaient les cultures de canne à sucre. Les crapauds ont largement ignoré les coléoptères et se sont répandus à travers le continent, empoisonnant les prédateurs locaux qui tentaient de manger leur peau toxique."
+      },
+      "nl": {
+        "hook": "Reuzenpadden werden ingezet tegen een plaag en werden zelf de plaag.",
+        "fact": "Australië liet in 1935 reuzenpadden los om kevers te bestrijden die suikerrietoogsten aantastten. De padden negeerden de kevers grotendeels en verspreidden zich over het hele continent, waarbij ze inheemse roofdieren vergiftigden die hun giftige huid probeerden te eten."
+      },
+      "es": {
+        "hook": "Los sapos de caña se introdujeron para resolver una plaga y acabaron siendo la plaga.",
+        "fact": "Australia soltó sapos de caña en 1935 para controlar unos escarabajos que dañaban los cultivos de caña de azúcar. Los sapos apenas hicieron caso a los escarabajos y se extendieron por todo el continente, envenenando a los depredadores autóctonos que intentaban comerse su piel tóxica."
+      }
+    }
   },
   {
     "id": "science-183",
@@ -3530,7 +4441,21 @@
     "tags": [
       "evolution",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les centrales énergétiques de vos cellules étaient autrefois des bactéries libres.",
+        "fact": "Selon la théorie endosymbiotique, les mitochondries et les chloroplastes étaient jadis des bactéries indépendantes, englouties par une cellule ancienne plus grande, avant de devenir avec le temps des organites internes permanents."
+      },
+      "nl": {
+        "hook": "De energiecentrales van je cellen waren ooit vrijlevende bacteriën.",
+        "fact": "Volgens de endosymbiontentheorie waren mitochondriën en chloroplasten ooit zelfstandige bacteriën die door een grotere oercel werden opgeslokt en na verloop van tijd uitgroeiden tot vaste inwendige organellen."
+      },
+      "es": {
+        "hook": "Las centrales energéticas de tus células fueron bacterias de vida libre.",
+        "fact": "Según la teoría endosimbiótica, las mitocondrias y los cloroplastos fueron en su día bacterias independientes que una célula antigua de mayor tamaño engulló y que, con el tiempo, se convirtieron en orgánulos internos permanentes."
+      }
+    }
   },
   {
     "id": "science-184",
@@ -3541,7 +4466,24 @@
     "tags": [
       "evolution",
       "medicine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La résistance aux antibiotiques, c'est l'évolution en temps réel.",
+        "fact": "Chaque fois que des bactéries sont exposées à des antibiotiques, les rares qui portent des mutations aléatoires favorisant leur survie se reproduisent et transmettent cette résistance à la génération suivante : la sélection naturelle à l'œuvre en quelques années plutôt qu'en millénaires.",
+        "whyItMatters": "C'est l'une des grandes raisons pour lesquelles les autorités sanitaires prônent un usage limité et raisonné des antibiotiques plutôt qu'une prescription systématique."
+      },
+      "nl": {
+        "hook": "Antibioticaresistentie is evolutie die zich in real time voltrekt.",
+        "fact": "Telkens als bacteriën aan antibiotica worden blootgesteld, planten de weinige exemplaren met toevallige mutaties die hen helpen overleven zich voort en geven ze die resistentie door aan de volgende generatie — natuurlijke selectie die zich in enkele jaren afspeelt in plaats van millennia.",
+        "whyItMatters": "Het is een belangrijke reden waarom de volksgezondheid aandringt op zorgvuldig en beperkt antibioticagebruik in plaats van ruimhartig voorschrijven."
+      },
+      "es": {
+        "hook": "La resistencia a los antibióticos es la evolución ocurriendo en tiempo real.",
+        "fact": "Cada vez que las bacterias se exponen a antibióticos, las pocas que llevan mutaciones aleatorias que las ayudan a sobrevivir se reproducen y transmiten esa resistencia a la siguiente generación: selección natural desplegándose en apenas años en lugar de milenios.",
+        "whyItMatters": "Es una de las principales razones por las que las autoridades sanitarias insisten en un uso prudente y limitado de los antibióticos en vez de recetarlos en exceso."
+      }
+    }
   },
   {
     "id": "science-185",
@@ -3551,7 +4493,21 @@
     "tags": [
       "evolution",
       "genetics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Humains modernes et Néandertaliens ont coexisté, et se sont mélangés.",
+        "fact": "Homo sapiens a cohabité avec les Néandertaliens dans certaines régions d'Europe et d'Asie pendant des milliers d'années, avant l'extinction de ces derniers il y a environ 40 000 ans. De nombreuses personnes portent encore aujourd'hui de petites quantités d'ADN néandertalien."
+      },
+      "nl": {
+        "hook": "Moderne mensen en neanderthalers leefden samen — en kregen kinderen samen.",
+        "fact": "Homo sapiens leefde in delen van Europa en Azië duizenden jaren naast de neanderthalers, die zo'n 40.000 jaar geleden uitstierven. Daardoor dragen veel mensen vandaag nog steeds kleine hoeveelheden neanderthaler-DNA."
+      },
+      "es": {
+        "hook": "Los humanos modernos y los neandertales convivieron, y se cruzaron.",
+        "fact": "El Homo sapiens coexistió con los neandertales en zonas de Europa y Asia durante miles de años, antes de que estos se extinguieran hace unos 40.000 años. Como resultado, muchas personas conservan hoy pequeñas cantidades de ADN neandertal."
+      }
+    }
   },
   {
     "id": "science-186",
@@ -3561,7 +4517,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Everest continue de grandir.",
+        "fact": "La collision toujours en cours entre les plaques tectoniques indienne et eurasienne pousse l'Everest vers le haut de quelques millimètres par an, même si l'érosion l'use lentement."
+      },
+      "nl": {
+        "hook": "De Mount Everest groeit nog altijd.",
+        "fact": "De aanhoudende botsing tussen de Indische en de Euraziatische tektonische plaat duwt de Everest elk jaar een paar millimeter omhoog, ook al slijt erosie hem langzaam af."
+      },
+      "es": {
+        "hook": "El Everest sigue creciendo.",
+        "fact": "El choque continuo entre las placas tectónicas india y euroasiática empuja el Everest unos pocos milímetros hacia arriba cada año, incluso mientras la erosión lo va desgastando."
+      }
+    }
   },
   {
     "id": "science-187",
@@ -3571,7 +4541,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le noyau de la Terre est solide alors qu'il est plus chaud que la surface du Soleil.",
+        "fact": "Les températures du noyau interne de la Terre rivaliseraient avec celles de la surface du Soleil, mais la pression colossale qui règne à cette profondeur maintient ce noyau de fer et de nickel à l'état solide au lieu de le laisser fondre."
+      },
+      "nl": {
+        "hook": "De kern van de aarde is vast, ook al is ze heter dan het oppervlak van de zon.",
+        "fact": "De temperaturen in de binnenkern van de aarde zouden kunnen wedijveren met het oppervlak van de zon, maar de enorme druk op die diepte houdt de ijzer-nikkelkern vast in plaats van hem te laten smelten."
+      },
+      "es": {
+        "hook": "El núcleo de la Tierra es sólido pese a estar más caliente que la superficie del Sol.",
+        "fact": "Se estima que las temperaturas del núcleo interno terrestre rivalizan con las de la superficie del Sol, pero la enorme presión a esa profundidad mantiene sólido el núcleo de hierro y níquel en lugar de dejar que se funda."
+      }
+    }
   },
   {
     "id": "science-188",
@@ -3581,7 +4565,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les pôles magnétiques de la Terre se sont inversés de nombreuses fois.",
+        "fact": "Le nord et le sud magnétiques se sont complètement inversés des centaines de fois au cours de l'histoire de la Terre, un processus enregistré dans l'orientation magnétique des minéraux figés dans la roche ancienne au moment de son refroidissement."
+      },
+      "nl": {
+        "hook": "De magnetische polen van de aarde zijn al vaak omgeklapt.",
+        "fact": "Magnetisch noord en zuid zijn in de geschiedenis van de aarde honderden keren volledig omgedraaid, een proces dat is vastgelegd in de magnetische stand van mineralen die tijdens het afkoelen in oud gesteente werden vastgezet."
+      },
+      "es": {
+        "hook": "Los polos magnéticos de la Tierra se han invertido muchas veces.",
+        "fact": "El norte y el sur magnéticos se han invertido por completo cientos de veces a lo largo de la historia de la Tierra, un proceso registrado en la orientación magnética de los minerales que quedaron fijados en la roca antigua al enfriarse."
+      }
+    }
   },
   {
     "id": "science-189",
@@ -3591,7 +4589,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une rivière a sculpté l'un des paysages les plus célèbres du monde en quelques millions d'années.",
+        "fact": "Le Grand Canyon a été creusé par le fleuve Colorado, qui a lentement érodé des couches de roche pendant plusieurs millions d'années, mettant à nu près de deux milliards d'années d'histoire géologique dans ses parois."
+      },
+      "nl": {
+        "hook": "Een rivier sneed in miljoenen jaren een van 's werelds beroemdste landschappen uit.",
+        "fact": "De Grand Canyon werd uitgesleten door de Colorado, die zich over enkele miljoenen jaren langzaam door gesteentelagen vrat en in zijn wanden bijna twee miljard jaar geologische geschiedenis blootlegde."
+      },
+      "es": {
+        "hook": "Un río talló uno de los paisajes más famosos del mundo a lo largo de millones de años.",
+        "fact": "El Gran Cañón fue excavado por el río Colorado, que erosionó lentamente capas de roca durante varios millones de años y dejó al descubierto en sus paredes casi dos mil millones de años de historia geológica."
+      }
+    }
   },
   {
     "id": "science-190",
@@ -3601,7 +4613,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce sont les éruptions volcaniques qui remontent les diamants à la surface.",
+        "fact": "Les diamants se forment sous une chaleur et une pression intenses à environ 150 kilomètres de profondeur dans le manteau terrestre, puis sont propulsés rapidement vers la surface par d'étroites cheminées volcaniques appelées kimberlites lors des éruptions."
+      },
+      "nl": {
+        "hook": "Diamanten worden door vulkaanuitbarstingen naar de oppervlakte gebracht.",
+        "fact": "Diamanten ontstaan onder enorme hitte en druk op zo'n 150 kilometer diepte in de aardmantel en worden tijdens uitbarstingen razendsnel omhooggevoerd door smalle vulkaanpijpen die kimberlieten heten."
+      },
+      "es": {
+        "hook": "Los diamantes llegan a la superficie gracias a las erupciones volcánicas.",
+        "fact": "Los diamantes se forman bajo un calor y una presión intensos a unos 150 kilómetros de profundidad en el manto terrestre, y luego ascienden rápidamente durante las erupciones por unas estrechas chimeneas volcánicas llamadas kimberlitas."
+      }
+    }
   },
   {
     "id": "science-191",
@@ -3611,7 +4637,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Sahara a été vert.",
+        "fact": "Il y a seulement 6 000 ans environ, le Sahara était couvert de prairies, de lacs et de rivières qui faisaient vivre hippopotames et crocodiles, avant qu'un changement de l'orbite terrestre ne le transforme peu à peu en le désert que l'on connaît."
+      },
+      "nl": {
+        "hook": "De Sahara was ooit groen.",
+        "fact": "Nog zo'n 6.000 jaar geleden was de Sahara bedekt met graslanden, meren en rivieren waar nijlpaarden en krokodillen leefden, tot een verschuiving in de baan van de aarde het gebied geleidelijk in de huidige woestijn veranderde."
+      },
+      "es": {
+        "hook": "El Sáhara fue verde.",
+        "fact": "Hace apenas unos 6.000 años, el Sáhara estaba cubierto de praderas, lagos y ríos que sostenían hipopótamos y cocodrilos, hasta que un cambio en la órbita terrestre lo fue convirtiendo en el desierto que es hoy."
+      }
+    }
   },
   {
     "id": "science-192",
@@ -3621,7 +4661,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'un des parcs nationaux les plus célèbres des États-Unis repose sur un supervolcan.",
+        "fact": "Le parc national de Yellowstone se situe au-dessus d'un point chaud volcanique capable d'éruptions colossales ; la dernière remonte à environ 640 000 ans et a laissé l'immense caldeira que l'on voit aujourd'hui."
+      },
+      "nl": {
+        "hook": "Een van Amerika's beroemdste nationale parken ligt boven op een supervulkaan.",
+        "fact": "Yellowstone National Park ligt boven een vulkanische hotspot die tot gigantische uitbarstingen in staat is; de meest recente vond zo'n 640.000 jaar geleden plaats en liet de enorme caldera achter die vandaag te zien is."
+      },
+      "es": {
+        "hook": "Uno de los parques nacionales más famosos de EE. UU. está sobre un supervolcán.",
+        "fact": "El Parque Nacional de Yellowstone se asienta sobre un punto caliente volcánico capaz de erupciones descomunales; la más reciente ocurrió hace unos 640.000 años y dejó la enorme caldera visible hoy en día."
+      }
+    }
   },
   {
     "id": "science-193",
@@ -3631,7 +4685,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Techniquement, nous vivons encore dans une ère glaciaire.",
+        "fact": "Les géologues définissent une ère glaciaire par la présence de calottes glaciaires permanentes ; comme l'Antarctique et le Groenland sont toujours couverts de glace, la Terre traverse actuellement une période interglaciaire chaude au sein d'une ère glaciaire commencée il y a environ 2,6 millions d'années."
+      },
+      "nl": {
+        "hook": "Technisch gezien leven we nog steeds in een ijstijd.",
+        "fact": "Geologen definiëren een ijstijd aan de hand van permanente ijskappen, en omdat Antarctica en Groenland nog altijd onder het ijs zitten, bevindt de aarde zich in een warme tussenijstijd binnen een ijstijdvak dat zo'n 2,6 miljoen jaar geleden begon."
+      },
+      "es": {
+        "hook": "Técnicamente seguimos viviendo en una edad de hielo.",
+        "fact": "Los geólogos definen una edad de hielo por la presencia de capas de hielo permanentes y, como la Antártida y Groenlandia siguen cubiertas de hielo, la Tierra atraviesa un periodo interglacial cálido dentro de una edad de hielo que comenzó hace unos 2,6 millones de años."
+      }
+    }
   },
   {
     "id": "science-194",
@@ -3641,7 +4709,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Environ trois quarts des volcans actifs du monde se trouvent dans une seule zone en fer à cheval.",
+        "fact": "La « ceinture de feu » du Pacifique, une chaîne d'environ 40 000 kilomètres (25 000 miles) qui encercle le bassin de l'océan Pacifique, abrite près de 75 % des volcans actifs de la planète, du fait des nombreuses frontières de plaques tectoniques qui la traversent."
+      },
+      "nl": {
+        "hook": "Ongeveer driekwart van alle actieve vulkanen ligt in één hoefijzervormige zone.",
+        "fact": "De 'Ring van Vuur' rond de Stille Oceaan, een keten van zo'n 40.000 kilometer (25.000 mijl) rond het Pacifische bekken, herbergt ongeveer 75% van de actieve vulkanen op aarde, door de vele tektonische plaatgrenzen die er doorheen lopen."
+      },
+      "es": {
+        "hook": "Unas tres cuartas partes de los volcanes activos del mundo están en una sola zona con forma de herradura.",
+        "fact": "El «Cinturón de Fuego» del Pacífico, una cadena de unos 40.000 kilómetros (25.000 millas) que rodea la cuenca del océano Pacífico, alberga cerca del 75% de los volcanes activos del planeta debido a los numerosos límites de placas tectónicas que lo atraviesan."
+      }
+    }
   },
   {
     "id": "science-195",
@@ -3651,7 +4733,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les continents dérivent à peu près à la vitesse à laquelle poussent vos ongles.",
+        "fact": "Les plaques tectoniques se déplacent en moyenne de 2 à 5 centimètres par an, un rythme comparable à la pousse des ongles, et pourtant, sur des dizaines de millions d'années, cette lente dérive a redessiné des continents entiers."
+      },
+      "nl": {
+        "hook": "Continenten schuiven ongeveer even snel als je nagels groeien.",
+        "fact": "Tektonische platen bewegen gemiddeld zo'n 2 tot 5 centimeter per jaar — vergelijkbaar met de groei van mensennagels — en toch heeft die trage drift over tientallen miljoenen jaren hele continenten verplaatst."
+      },
+      "es": {
+        "hook": "Los continentes se desplazan más o menos a la velocidad a la que crecen tus uñas.",
+        "fact": "Las placas tectónicas se mueven de media entre 2 y 5 centímetros al año, un ritmo parecido al del crecimiento de las uñas y, aun así, en decenas de millones de años esa lenta deriva ha reorganizado continentes enteros."
+      }
+    }
   },
   {
     "id": "science-196",
@@ -3661,7 +4757,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les concrétions des grottes poussent à une vitesse presque imperceptible.",
+        "fact": "Stalactites et stalagmites se forment quand une eau riche en minéraux s'infiltre goutte à goutte dans les grottes calcaires et y dépose de minuscules quantités de calcite ; beaucoup ne gagnent que quelques centimètres par millénaire."
+      },
+      "nl": {
+        "hook": "Druipsteen groeit in een nauwelijks waarneembaar tempo.",
+        "fact": "Stalactieten en stalagmieten ontstaan doordat mineraalrijk water door kalksteengrotten druipt en telkens minuscule hoeveelheden calciet afzet; veel ervan groeien maar een paar centimeter per duizend jaar."
+      },
+      "es": {
+        "hook": "Las formaciones de las cuevas crecen a un ritmo casi imperceptible.",
+        "fact": "Las estalactitas y estalagmitas se forman cuando el agua rica en minerales gotea por cuevas calizas y va depositando cantidades minúsculas de calcita; muchas crecen solo unos pocos centímetros cada mil años."
+      }
+    }
   },
   {
     "id": "science-197",
@@ -3671,7 +4781,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le point le plus profond de l'océan dépasse la hauteur de l'Everest.",
+        "fact": "Le Challenger Deep, dans la fosse des Mariannes au cœur du Pacifique, descend à environ 10 900 mètres sous le niveau de la mer, soit plus que les 8 849 mètres de l'Everest au-dessus."
+      },
+      "nl": {
+        "hook": "Het diepste punt in de oceaan is dieper dan de Mount Everest hoog is.",
+        "fact": "De Challenger Deep in de Marianentrog in de Stille Oceaan reikt tot zo'n 10.900 meter onder zeeniveau, dieper dan de 8.849 meter die de Mount Everest erboven uitsteekt."
+      },
+      "es": {
+        "hook": "El punto más profundo del océano supera la altura del Everest.",
+        "fact": "El abismo Challenger, en la fosa de las Marianas del Pacífico, desciende hasta unos 10.900 metros bajo el nivel del mar, más de lo que el Everest se eleva por encima con sus 8.849 metros."
+      }
+    }
   },
   {
     "id": "science-198",
@@ -3681,7 +4805,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque degré sur l'échelle de magnitude des séismes correspond à des secousses environ 10 fois plus fortes.",
+        "fact": "Les échelles de magnitude des séismes sont logarithmiques : un séisme de magnitude 6 fait trembler le sol environ 10 fois plus qu'un séisme de magnitude 5, et libère à peu près 32 fois plus d'énergie."
+      },
+      "nl": {
+        "hook": "Elke stap op de schaal van aardbevingsmagnitude betekent ongeveer 10 keer meer schudden.",
+        "fact": "Magnitudeschalen voor aardbevingen zijn logaritmisch: een beving van magnitude 6 doet de grond ongeveer 10 keer zo hard schudden als een van magnitude 5 en komt zo'n 32 keer meer energie vrij."
+      },
+      "es": {
+        "hook": "Cada punto en la escala de magnitud sísmica supone unas 10 veces más sacudida.",
+        "fact": "Las escalas de magnitud de los terremotos son logarítmicas, así que un seísmo de magnitud 6 sacude el suelo unas 10 veces más que uno de magnitud 5 y libera alrededor de 32 veces más energía."
+      }
+    }
   },
   {
     "id": "science-199",
@@ -3691,7 +4829,21 @@
     "tags": [
       "geology",
       "earth-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le carburant de votre voiture a des millions d'années.",
+        "fact": "Le charbon, le pétrole et le gaz naturel se sont formés à partir des restes de plantes anciennes et d'organismes marins, enfouis et comprimés sous l'effet de la chaleur et de la pression pendant des millions d'années : d'où leur nom d'énergies fossiles."
+      },
+      "nl": {
+        "hook": "De brandstof in je auto is miljoenen jaren oud.",
+        "fact": "Steenkool, olie en aardgas zijn ontstaan uit de resten van oeroude planten en zeeorganismen, die miljoenen jaren lang begraven en samengeperst werden onder hitte en druk. Vandaar de naam fossiele brandstoffen."
+      },
+      "es": {
+        "hook": "El combustible de tu coche tiene millones de años.",
+        "fact": "El carbón, el petróleo y el gas natural se formaron a partir de los restos de plantas antiguas y organismos marinos que quedaron enterrados y comprimidos bajo calor y presión durante millones de años; por eso se llaman combustibles fósiles."
+      }
+    }
   },
   {
     "id": "science-200",
@@ -3701,6 +4853,20 @@
     "tags": [
       "geology",
       "biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ambre peut figer un instant pendant des dizaines de millions d'années.",
+        "fact": "Lorsque la résine des arbres se fossilise en ambre, elle peut conserver des insectes, des araignées et même de petits reptiles avec un détail remarquable, offrant parfois aux scientifiques une fenêtre presque parfaite sur les écosystèmes de l'époque des dinosaures."
+      },
+      "nl": {
+        "hook": "Barnsteen kan een moment tientallen miljoenen jaren vasthouden.",
+        "fact": "Wanneer boomhars fossiliseert tot barnsteen, kan het insecten, spinnen en zelfs kleine reptielen tot in opmerkelijk detail bewaren. Soms geeft dat wetenschappers een bijna perfecte blik op ecosystemen uit de tijd van de dinosauriërs."
+      },
+      "es": {
+        "hook": "El ámbar puede atrapar un instante durante decenas de millones de años.",
+        "fact": "Cuando la resina de los árboles se fosiliza y se convierte en ámbar, puede conservar insectos, arañas e incluso pequeños reptiles con un detalle asombroso, ofreciendo a veces a los científicos una ventana casi perfecta a los ecosistemas de la era de los dinosaurios."
+      }
+    }
   }
 ]
