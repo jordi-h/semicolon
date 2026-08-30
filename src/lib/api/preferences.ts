@@ -1,8 +1,10 @@
+import { localKeys } from '@/lib/api/localKeys'
+
 import { readLocal, writeLocal } from '@/lib/localStorage'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 import type { Domain, Locale, UserPreferences } from '@/lib/types'
 
-const localKey = (userId: string) => `semicolon:preferences:${userId}`
+const localKey = localKeys.preferences
 
 export async function getUserPreferences(userId: string): Promise<UserPreferences | null> {
   if (!isSupabaseConfigured) {

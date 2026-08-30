@@ -1,9 +1,11 @@
+import { localKeys } from '@/lib/api/localKeys'
+
 import { applyDailyActivity } from '@/lib/engagement'
 import { readLocal, writeLocal } from '@/lib/localStorage'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 import type { UserStats } from '@/lib/types'
 
-const localKey = (userId: string) => `semicolon:stats:${userId}`
+const localKey = localKeys.stats
 
 const emptyStats = (userId: string): UserStats => ({
   userId,

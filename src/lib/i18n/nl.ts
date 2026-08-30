@@ -67,6 +67,28 @@ export const nl: Record<TranslationKey, string> = {
   'settings.editTopics': 'Onderwerpen bewerken',
   'settings.savedFacts': 'Opgeslagen feitjes',
   'settings.signOut': 'Uitloggen',
+
+  'settings.resetTitle': 'Voortgang wissen',
+  'settings.resetOpen': 'Voortgang wissen…',
+  'settings.resetKeepsNote': 'Je onderwerpen en taal blijven altijd behouden.',
+  'settings.resetChooseTitle': 'Wat wil je wissen?',
+  'settings.resetScopeHistory': 'Geziene feiten',
+  'settings.resetScopeHistoryDetail':
+    'Elk feit wordt weer nieuw, en de feed vergeet wat hij over jouw smaak had geleerd. Je reeksen en bewaarde feiten blijven behouden.',
+  'settings.resetScopeHistoryAndStats': 'Geziene feiten en statistieken',
+  'settings.resetScopeHistoryAndStatsDetail':
+    'Het bovenstaande, plus je reeks en het aantal geleerde feiten gaan terug naar nul. Bewaarde feiten blijven behouden.',
+  'settings.resetScopeEverything': 'Alles',
+  'settings.resetScopeEverythingDetail':
+    'Het bovenstaande, plus je bewaarde feiten worden verwijderd. Alleen je onderwerpen en taal blijven over.',
+  'settings.resetConfirmTitle': 'Weet je het zeker?',
+  'settings.resetConfirmBody':
+    'Hiermee wordt {{what}} definitief verwijderd. Dit kan niet ongedaan worden gemaakt.',
+  'settings.resetConfirmCta': 'Wissen',
+  'settings.resetCancel': 'Annuleren',
+  'settings.resetWorking': 'Bezig met wissen…',
+  'settings.resetDone': 'Je voortgang is gewist.',
+  'settings.resetFailed': 'Er ging iets mis. Er is niets gewist — probeer het opnieuw.',
   'settings.language': 'Taal',
 
   'saved.title': 'Opgeslagen feitjes',

@@ -1,8 +1,10 @@
+import { localKeys } from '@/lib/api/localKeys'
+
 import { readLocal, writeLocal } from '@/lib/localStorage'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 import type { SeenFact } from '@/lib/types'
 
-const localKey = (userId: string) => `semicolon:seen-facts:${userId}`
+const localKey = localKeys.seenFacts
 
 export async function getSeenFacts(userId: string): Promise<SeenFact[]> {
   if (!isSupabaseConfigured) {

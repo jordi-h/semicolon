@@ -1,28 +1,89 @@
-import type { ReactNode } from 'react'
+import { useState, type ReactNode } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import { ArrowLeft, BookHeart, Flame, Globe, LogOut, Sparkles, Trophy } from 'lucide-react'
+import { ArrowLeft, BookHeart, Flame, Globe, LogOut, RotateCcw, Sparkles, Trophy } from 'lucide-react'
 
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+} from '@/components/ui/dialog'
 import { useAuth } from '@/features/auth/AuthContext'
+import type { ResetScope } from '@/lib/api/resetProgress'
 import { DOMAIN_ACCENT } from '@/lib/domainTheme'
 import { usePreferences } from '@/lib/hooks/usePreferences'
+import { useResetProgress } from '@/lib/hooks/useResetProgress'
 import { useStats } from '@/lib/hooks/useStats'
 import { useLocale } from '@/lib/i18n/LocaleContext'
+import type { TranslationKey } from '@/lib/i18n/en'
 import { cn } from '@/lib/utils'
 import { DOMAIN_EMOJI, DOMAIN_LABELS, LOCALES, LOCALE_NATIVE_NAMES } from '@/lib/types'
+
+/** The three reset scopes, each paired with the keys describing what it
+ * clears. Ordered least to most destructive, which is also the order
+ * they're offered in — so the safest option is the one nearest the
+ * thumb. */
+const RESET_SCOPES: { scope: ResetScope; label: TranslationKey; detail: TranslationKey }[] = [
+  {
+    scope: 'history',
+    label: 'settings.resetScopeHistory',
+    detail: 'settings.resetScopeHistoryDetail',
+  },
+  {
+    scope: 'historyAndStats',
+    label: 'settings.resetScopeHistoryAndStats',
+    detail: 'settings.resetScopeHistoryAndStatsDetail',
+  },
+  {
+    scope: 'everything',
+    label: 'settings.resetScopeEverything',
+    detail: 'settings.resetScopeEverythingDetail',
+  },
+]
 
 export function SettingsPage() {
   const { user, authRequired, signOut } = useAuth()
   const { preferences } = usePreferences()
   const { stats } = useStats()
   const { locale, setLocale, t } = useLocale()
+  const { reset, isResetting, resetFailed } = useResetProgress()
   const navigate = useNavigate()
+
+  // null = dialog closed. A scope = the confirmation step for that scope,
+  // which names exactly what is about to be deleted; the first screen only
+  // chooses. Two steps deliberately: this is irreversible.
+  const [dialogOpen, setDialogOpen] = useState(false)
+  const [pendingScope, setPendingScope] = useState<ResetScope | null>(null)
+  const [justReset, setJustReset] = useState(false)
 
   async function handleSignOut() {
     await signOut()
     navigate('/login')
   }
+
+  function openResetDialog() {
+    setPendingScope(null)
+    setJustReset(false)
+    setDialogOpen(true)
+  }
+
+  async function confirmReset() {
+    if (!pendingScope) return
+    try {
+      await reset(pendingScope)
+      setJustReset(true)
+      setDialogOpen(false)
+      setPendingScope(null)
+    } catch {
+      // resetFailed drives the message; the dialog stays open so the
+      // user can retry or back out without losing their place.
+    }
+  }
+
+  const pendingLabel = RESET_SCOPES.find((s) => s.scope === pendingScope)?.label
 
   return (
     <div className="mx-auto flex h-full max-w-lg flex-col gap-6 overflow-y-auto p-4">
@@ -119,6 +180,24 @@ export function SettingsPage() {
         </Button>
       </section>
 
+      <section className="space-y-2">
+        <h2 className="text-body-md font-semibold">{t('settings.resetTitle')}</h2>
+        <p className="text-body-sm text-muted-foreground">{t('settings.resetKeepsNote')}</p>
+        <Button
+          variant="outline"
+          className="w-full justify-start gap-2 text-destructive hover:text-destructive"
+          onClick={openResetDialog}
+        >
+          <RotateCcw size={18} />
+          {t('settings.resetOpen')}
+        </Button>
+        {justReset && (
+          <p role="status" className="text-body-sm text-primary">
+            {t('settings.resetDone')}
+          </p>
+        )}
+      </section>
+
       {authRequired && (
         <Button
           variant="ghost"
@@ -129,6 +208,62 @@ export function SettingsPage() {
           {t('settings.signOut')}
         </Button>
       )}
+
+      <Dialog open={dialogOpen} onOpenChange={setDialogOpen}>
+        <DialogContent>
+          {pendingScope === null ? (
+            <>
+              <DialogHeader>
+                <DialogTitle>{t('settings.resetChooseTitle')}</DialogTitle>
+                <DialogDescription>{t('settings.resetKeepsNote')}</DialogDescription>
+              </DialogHeader>
+              <div className="flex flex-col gap-2">
+                {RESET_SCOPES.map(({ scope, label, detail }) => (
+                  <button
+                    key={scope}
+                    type="button"
+                    onClick={() => setPendingScope(scope)}
+                    className="rounded-lg border p-3 text-left transition-colors hover:border-destructive/50 hover:bg-destructive/5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                  >
+                    <span className="block text-body-md font-medium">{t(label)}</span>
+                    <span className="mt-0.5 block text-body-sm text-muted-foreground">
+                      {t(detail)}
+                    </span>
+                  </button>
+                ))}
+              </div>
+            </>
+          ) : (
+            <>
+              <DialogHeader>
+                <DialogTitle>{t('settings.resetConfirmTitle')}</DialogTitle>
+                <DialogDescription>
+                  {t('settings.resetConfirmBody', {
+                    what: pendingLabel ? t(pendingLabel).toLocaleLowerCase(locale) : '',
+                  })}
+                </DialogDescription>
+              </DialogHeader>
+              {resetFailed && (
+                <p role="alert" className="text-body-sm text-destructive">
+                  {t('settings.resetFailed')}
+                </p>
+              )}
+              <div className="flex justify-end gap-2">
+                <Button
+                  variant="ghost"
+                  onClick={() => setPendingScope(null)}
+                  disabled={isResetting}
+                >
+                  {t('settings.resetCancel')}
+                </Button>
+                <Button variant="destructive" onClick={confirmReset} disabled={isResetting}>
+                  {isResetting ? t('settings.resetWorking') : t('settings.resetConfirmCta')}
+                </Button>
+              </div>
+            </>
+          )}
+        </DialogContent>
+      </Dialog>
     </div>
   )
 }

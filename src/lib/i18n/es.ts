@@ -67,6 +67,27 @@ export const es: Record<TranslationKey, string> = {
   'settings.editTopics': 'Editar temas',
   'settings.savedFacts': 'Datos guardados',
   'settings.signOut': 'Cerrar sesión',
+
+  'settings.resetTitle': 'Reiniciar progreso',
+  'settings.resetOpen': 'Reiniciar progreso…',
+  'settings.resetKeepsNote': 'Tus temas y tu idioma siempre se conservan.',
+  'settings.resetChooseTitle': '¿Qué quieres reiniciar?',
+  'settings.resetScopeHistory': 'Datos ya vistos',
+  'settings.resetScopeHistoryDetail':
+    'Cada dato vuelve a ser nuevo y el feed olvida lo que había aprendido sobre tus gustos. Se conservan tus rachas y tus datos guardados.',
+  'settings.resetScopeHistoryAndStats': 'Datos vistos y estadísticas',
+  'settings.resetScopeHistoryAndStatsDetail':
+    'Lo anterior, más tu racha y tu recuento de datos aprendidos vuelven a cero. Se conservan los datos guardados.',
+  'settings.resetScopeEverything': 'Todo',
+  'settings.resetScopeEverythingDetail':
+    'Lo anterior, más se eliminan tus datos guardados. Solo quedan tus temas y tu idioma.',
+  'settings.resetConfirmTitle': '¿Seguro?',
+  'settings.resetConfirmBody': 'Esto eliminará {{what}} de forma permanente. No se puede deshacer.',
+  'settings.resetConfirmCta': 'Reiniciar',
+  'settings.resetCancel': 'Cancelar',
+  'settings.resetWorking': 'Reiniciando…',
+  'settings.resetDone': 'Tu progreso se ha reiniciado.',
+  'settings.resetFailed': 'Algo salió mal. No se reinició nada; inténtalo de nuevo.',
   'settings.language': 'Idioma',
 
   'saved.title': 'Datos guardados',

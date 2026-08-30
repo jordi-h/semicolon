@@ -1,9 +1,11 @@
+import { localKeys } from '@/lib/api/localKeys'
+
 import { updateDomainAffinity } from '@/lib/engagement'
 import { readLocal, writeLocal } from '@/lib/localStorage'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 import type { Reaction, TagAffinity } from '@/lib/types'
 
-const localKey = (userId: string) => `semicolon:tag-affinity:${userId}`
+const localKey = localKeys.tagAffinity
 
 export async function getTagAffinities(userId: string): Promise<TagAffinity[]> {
   if (!isSupabaseConfigured) {

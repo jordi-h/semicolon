@@ -70,6 +70,27 @@ export const en = {
   'settings.editTopics': 'Edit topics',
   'settings.savedFacts': 'Saved facts',
   'settings.signOut': 'Sign out',
+
+  'settings.resetTitle': 'Reset progress',
+  'settings.resetOpen': 'Reset progress…',
+  'settings.resetKeepsNote': 'Your topics and language are always kept.',
+  'settings.resetChooseTitle': 'What would you like to reset?',
+  'settings.resetScopeHistory': 'Seen facts',
+  'settings.resetScopeHistoryDetail':
+    'Every fact becomes new again, and the feed forgets what it learned about your taste. Streaks and saved facts are kept.',
+  'settings.resetScopeHistoryAndStats': 'Seen facts and statistics',
+  'settings.resetScopeHistoryAndStatsDetail':
+    'The above, plus your streak and facts-learned count go back to zero. Saved facts are kept.',
+  'settings.resetScopeEverything': 'Everything',
+  'settings.resetScopeEverythingDetail':
+    'The above, plus your saved facts are deleted. Only your topics and language remain.',
+  'settings.resetConfirmTitle': 'Are you sure?',
+  'settings.resetConfirmBody': 'This will permanently delete {{what}}. It cannot be undone.',
+  'settings.resetConfirmCta': 'Reset',
+  'settings.resetCancel': 'Cancel',
+  'settings.resetWorking': 'Resetting…',
+  'settings.resetDone': 'Your progress has been reset.',
+  'settings.resetFailed': 'Something went wrong. Nothing was reset — please try again.',
   'settings.language': 'Language',
 
   'saved.title': 'Saved facts',

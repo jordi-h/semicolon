@@ -19,6 +19,14 @@ export function writeLocal<T>(key: string, value: T): void {
   }
 }
 
+export function removeLocal(key: string): void {
+  try {
+    window.localStorage.removeItem(key)
+  } catch {
+    // Same private-browsing/quota caveat as writeLocal.
+  }
+}
+
 const GUEST_ID_KEY = 'semicolon:guest-id'
 
 /** Stable per-browser id used to namespace local data when no one is

@@ -67,6 +67,28 @@ export const fr: Record<TranslationKey, string> = {
   'settings.editTopics': 'Modifier les sujets',
   'settings.savedFacts': 'Faits enregistrés',
   'settings.signOut': 'Se déconnecter',
+
+  'settings.resetTitle': 'Réinitialiser la progression',
+  'settings.resetOpen': 'Réinitialiser la progression…',
+  'settings.resetKeepsNote': 'Vos sujets et votre langue sont toujours conservés.',
+  'settings.resetChooseTitle': 'Que souhaitez-vous réinitialiser ?',
+  'settings.resetScopeHistory': 'Les faits déjà vus',
+  'settings.resetScopeHistoryDetail':
+    'Chaque fait redevient inédit, et le fil oublie ce qu’il avait appris de vos goûts. Vos séries et vos faits enregistrés sont conservés.',
+  'settings.resetScopeHistoryAndStats': 'Les faits vus et les statistiques',
+  'settings.resetScopeHistoryAndStatsDetail':
+    'Tout ce qui précède, plus votre série et votre compteur de faits appris remis à zéro. Vos faits enregistrés sont conservés.',
+  'settings.resetScopeEverything': 'Tout',
+  'settings.resetScopeEverythingDetail':
+    'Tout ce qui précède, plus la suppression de vos faits enregistrés. Seuls vos sujets et votre langue subsistent.',
+  'settings.resetConfirmTitle': 'Êtes-vous sûr ?',
+  'settings.resetConfirmBody':
+    'Cette action supprimera définitivement {{what}}. Elle est irréversible.',
+  'settings.resetConfirmCta': 'Réinitialiser',
+  'settings.resetCancel': 'Annuler',
+  'settings.resetWorking': 'Réinitialisation…',
+  'settings.resetDone': 'Votre progression a été réinitialisée.',
+  'settings.resetFailed': 'Une erreur est survenue. Rien n’a été réinitialisé — veuillez réessayer.',
   'settings.language': 'Langue',
 
   'saved.title': 'Faits enregistrés',
