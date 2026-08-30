@@ -40,6 +40,7 @@ export const en = {
   'feed.emptyBefore': 'Try adding more domains from',
   'feed.emptyLink': 'settings',
   'feed.scrollHint': 'Swipe up for more',
+  'feed.offline': 'Offline — showing saved facts',
 
   'fact.rememberThis': 'Remember this?',
   'fact.whyItMatters': 'Why it matters',

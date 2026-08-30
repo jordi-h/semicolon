@@ -37,6 +37,7 @@ export const es: Record<TranslationKey, string> = {
   'feed.emptyBefore': 'Añade más temas desde',
   'feed.emptyLink': 'ajustes',
   'feed.scrollHint': 'Desliza hacia arriba',
+  'feed.offline': 'Sin conexión — datos guardados',
 
   'fact.rememberThis': '¿Te acuerdas?',
   'fact.whyItMatters': 'Por qué importa',

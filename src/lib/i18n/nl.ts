@@ -37,6 +37,7 @@ export const nl: Record<TranslationKey, string> = {
   'feed.emptyBefore': 'Voeg meer onderwerpen toe via',
   'feed.emptyLink': 'instellingen',
   'feed.scrollHint': 'Swipe omhoog voor meer',
+  'feed.offline': 'Offline — opgeslagen feitjes',
 
   'fact.rememberThis': 'Weet je het nog?',
   'fact.whyItMatters': 'Waarom het ertoe doet',

@@ -1,3 +1,4 @@
+import { cacheGet, cacheSet } from '@/lib/offlineCache'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 import type { Domain, Fact, Locale } from '@/lib/types'
 
@@ -85,6 +86,15 @@ async function applyServerTranslations(facts: Fact[], locale: Locale): Promise<F
   })
 }
 
+/** How many facts to keep readable offline. The feed only ever needs a
+ * handful at a time, so this is a deliberately bounded buffer rather
+ * than a mirror of the whole pool — enough for a long commute without
+ * writing megabytes to every user's device on each fetch. */
+const OFFLINE_BUFFER_SIZE = 200
+
+const offlineKey = (domains: Domain[], locale: Locale) =>
+  `facts:${[...domains].sort().join(',')}:${locale}`
+
 export async function fetchFactsByDomains(domains: Domain[], locale: Locale): Promise<Fact[]> {
   if (domains.length === 0) return []
 
@@ -93,9 +103,36 @@ export async function fetchFactsByDomains(domains: Domain[], locale: Locale): Pr
     return allFacts.filter((f) => domains.includes(f.domain)).map((f) => localizeFact(f, locale))
   }
 
-  const { data, error } = await supabase!.from('facts').select('*').in('domain', domains)
-  if (error) throw error
-  return applyServerTranslations((data as FactRow[]).map(rowToFact), locale)
+  const key = offlineKey(domains, locale)
+
+  try {
+    const { data, error } = await supabase!.from('facts').select('*').in('domain', domains)
+    if (error) throw error
+    const facts = await applyServerTranslations((data as FactRow[]).map(rowToFact), locale)
+
+    // Cache a random slice, not the first N: the feed picks randomly, so
+    // a positional slice would make every offline session serve the same
+    // corner of the pool.
+    void cacheSet(key, shuffled(facts).slice(0, OFFLINE_BUFFER_SIZE))
+    return facts
+  } catch (err) {
+    // Offline (or Supabase unreachable) — fall back to whatever was
+    // cached on a previous online visit. Re-throw if there's nothing,
+    // so the feed can show its real loading/error state rather than
+    // pretending the user's domains are empty.
+    const cached = await cacheGet<Fact[]>(key)
+    if (cached && cached.length > 0) return cached
+    throw err
+  }
+}
+
+function shuffled<T>(items: T[]): T[] {
+  const copy = [...items]
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[copy[i], copy[j]] = [copy[j], copy[i]]
+  }
+  return copy
 }
 
 export async function fetchFactsByIds(ids: string[], locale: Locale): Promise<Fact[]> {

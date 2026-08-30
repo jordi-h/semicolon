@@ -1,5 +1,5 @@
 import { Navigate, Link } from 'react-router-dom'
-import { Compass, Settings } from 'lucide-react'
+import { CloudOff, Compass, Settings } from 'lucide-react'
 
 import { FeedStack } from '@/features/feed/components/FeedStack'
 import { StreakBadge } from '@/features/feed/components/StreakBadge'
@@ -7,6 +7,7 @@ import { useFeed } from '@/features/feed/hooks/useFeed'
 import { Logo } from '@/components/Logo'
 import { usePreferences } from '@/lib/hooks/usePreferences'
 import { useSavedFacts } from '@/lib/hooks/useSavedFacts'
+import { useOnlineStatus } from '@/lib/hooks/useOnlineStatus'
 import { useStats } from '@/lib/hooks/useStats'
 import { useLocale } from '@/lib/i18n/LocaleContext'
 
@@ -15,6 +16,7 @@ export function FeedPage() {
   const { stats } = useStats()
   const { savedIds, toggle } = useSavedFacts()
   const { t } = useLocale()
+  const online = useOnlineStatus()
 
   const domains = preferences?.domains ?? []
   const {
@@ -42,6 +44,15 @@ export function FeedPage() {
       <header className="flex items-center justify-between px-4 py-3 sm:px-0">
         <Logo variant="full" className="h-7 w-7" />
         <div className="flex items-center gap-2">
+          {!online && (
+            <span
+              className="flex items-center gap-1 rounded-full bg-secondary px-2.5 py-1 text-label uppercase text-muted-foreground"
+              title={t('feed.offline')}
+            >
+              <CloudOff size={13} aria-hidden="true" />
+              <span className="sr-only sm:not-sr-only">{t('feed.offline')}</span>
+            </span>
+          )}
           <StreakBadge streak={stats?.currentStreak ?? 0} />
           <Link
             to="/settings"

@@ -37,6 +37,7 @@ export const fr: Record<TranslationKey, string> = {
   'feed.emptyBefore': 'Ajoutez d\'autres domaines dans les',
   'feed.emptyLink': 'paramètres',
   'feed.scrollHint': 'Glissez vers le haut',
+  'feed.offline': 'Hors ligne — faits enregistrés',
 
   'fact.rememberThis': 'Vous vous souvenez ?',
   'fact.whyItMatters': "Pourquoi c'est important",
