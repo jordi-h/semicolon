@@ -4,5 +4,17 @@
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" },
     { "path": "./tsconfig.edge.json" }
-  ]
+  ],
+  /* Vercel compiles the functions in api/ using this root config rather
+   * than tsconfig.edge.json, so the JSX setting api/og.tsx needs has to
+   * live here too. Inert for the local solution build ("files": []). */
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "skipLibCheck": true,
+    "strict": true
+  }
 }

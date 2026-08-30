@@ -1,6 +1,6 @@
 import { ImageResponse } from '@vercel/og'
 
-import { DOMAIN_ACCENT, INK, PAPER, loadPreviewFact, normalizeLocale } from './_shared'
+import { DOMAIN_ACCENT, INK, PAPER, loadPreviewFact, normalizeLocale } from '../edge/preview'
 
 export const config = { runtime: 'edge' }
 

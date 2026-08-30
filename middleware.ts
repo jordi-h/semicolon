@@ -1,4 +1,4 @@
-import { loadPreviewFact, normalizeLocale } from './api/_shared'
+import { loadPreviewFact, normalizeLocale } from './edge/preview'
 
 /**
  * Gives shared fact links (`/f/:factId`) real link previews.
