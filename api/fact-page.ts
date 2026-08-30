@@ -84,29 +84,49 @@ function escapeAttr(value: string): string {
     .replace(/"/g, '&quot;')
 }
 
-export default async function handler(request: Request): Promise<Response> {
-  // On Vercel's Node runtime request.url is a path ("/f/x?y"), not an
-  // absolute URL, so it needs a base — passing it bare throws
-  // "TypeError: Invalid URL". The forwarded headers give us the real
-  // public origin (the request has already been rewritten by this point).
-  const host = request.headers.get('x-forwarded-host') ?? request.headers.get('host') ?? ''
-  const proto = request.headers.get('x-forwarded-proto') ?? 'https'
-  const url = new URL(request.url, `${proto}://${host}`)
+/** Vercel's Node runtime hands the handler a Node IncomingMessage /
+ * ServerResponse pair, not the Web Request/Response pair the edge
+ * runtime uses — assuming the latter fails with "request.headers.get is
+ * not a function". Only the members used here are declared, to avoid
+ * pulling in the whole @types/node surface. */
+interface NodeRequest {
+  url?: string
+  headers: Record<string, string | string[] | undefined>
+}
+interface NodeResponse {
+  writeHead(status: number, headers: Record<string, string>): void
+  end(body?: string): void
+}
+
+function firstHeader(value: string | string[] | undefined): string | undefined {
+  return Array.isArray(value) ? value[0] : value
+}
+
+export default async function handler(req: NodeRequest, res: NodeResponse): Promise<void> {
+  // req.url is a path ("/f/x?y"), not an absolute URL, so it needs a
+  // base. The forwarded headers carry the real public origin (the
+  // request has already been rewritten by the time it lands here).
+  const host = firstHeader(req.headers['x-forwarded-host']) ?? firstHeader(req.headers.host) ?? ''
+  const proto = firstHeader(req.headers['x-forwarded-proto']) ?? 'https'
+  const url = new URL(req.url ?? '/', `${proto}://${host}`)
 
   const shell = await fetch(new URL('/index.html', url.origin))
-  if (!shell.ok) return new Response('Not found', { status: 404 })
+  if (!shell.ok) {
+    res.writeHead(404, { 'content-type': 'text/plain; charset=utf-8' })
+    res.end('Not found')
+    return
+  }
   const html = await shell.text()
 
-  const respond = (body: string) =>
-    new Response(body, {
-      status: 200,
-      headers: {
-        'content-type': 'text/html; charset=utf-8',
-        // The fact is immutable, but the shell's hashed asset names
-        // change every deploy — so cache briefly at the edge only.
-        'cache-control': 'public, max-age=0, s-maxage=300',
-      },
+  const respond = (body: string) => {
+    res.writeHead(200, {
+      'content-type': 'text/html; charset=utf-8',
+      // The fact is immutable, but the shell's hashed asset names change
+      // every deploy — so cache briefly at the edge only.
+      'cache-control': 'public, max-age=0, s-maxage=300',
     })
+    res.end(body)
+  }
 
   const factId = url.searchParams.get('id')
   if (!factId) return respond(html)
