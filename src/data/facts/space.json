@@ -2772,7 +2772,21 @@
     "fact": "Red dwarfs make up an estimated 70-80% of all stars in the Milky Way, yet not a single one is bright enough to see with the naked eye from Earth.",
     "tags": [
       "stars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plupart des étoiles de l'univers sont des naines rouges.",
+        "fact": "Les naines rouges représenteraient 70 à 80 % de toutes les étoiles de la Voie lactée, et pourtant aucune d'entre elles n'est assez brillante pour être vue à l'œil nu depuis la Terre."
+      },
+      "nl": {
+        "hook": "De meeste sterren in het heelal zijn rode dwergen.",
+        "fact": "Rode dwergen vormen naar schatting 70 tot 80 procent van alle sterren in de Melkweg, en toch is er geen enkele helder genoeg om vanaf de aarde met het blote oog te zien."
+      },
+      "es": {
+        "hook": "La mayoría de las estrellas del universo son enanas rojas.",
+        "fact": "Se calcula que las enanas rojas suponen entre el 70 y el 80 % de todas las estrellas de la Vía Láctea y, aun así, ninguna brilla lo suficiente como para verse a simple vista desde la Tierra."
+      }
+    }
   },
   {
     "id": "space-117",
@@ -2782,7 +2796,21 @@
     "tags": [
       "stars",
       "stellar-evolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un jour, le Soleil rétrécira jusqu'à la taille de la Terre.",
+        "fact": "Une fois son carburant épuisé et ses couches externes dispersées, le cœur du Soleil s'effondrera en une naine blanche à peine plus grande que la Terre, mais contenant environ la moitié de la masse actuelle du Soleil."
+      },
+      "nl": {
+        "hook": "Ooit krimpt de zon tot ongeveer het formaat van de aarde.",
+        "fact": "Zodra de zon door haar brandstof heen is en haar buitenste lagen heeft afgestoten, stort haar kern in tot een witte dwerg die ruwweg zo groot is als de aarde, maar die ongeveer de helft van de huidige zonnemassa bevat."
+      },
+      "es": {
+        "hook": "Algún día el Sol encogerá hasta el tamaño de la Tierra.",
+        "fact": "Cuando agote su combustible y se desprenda de sus capas exteriores, el núcleo del Sol colapsará en una enana blanca de un tamaño parecido al de la Tierra, pero con cerca de la mitad de la masa que el Sol tiene hoy."
+      }
+    }
   },
   {
     "id": "space-118",
@@ -2792,7 +2820,21 @@
     "tags": [
       "stars",
       "supernovae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une seule étoile qui explose peut brièvement éclipser toute sa galaxie.",
+        "fact": "Quand une étoile massive explose en supernova à effondrement de cœur, elle peut rayonner plus d'énergie en quelques semaines que le Soleil n'en émet en des milliards d'années, éclipsant souvent toutes les autres étoiles de sa galaxie réunies."
+      },
+      "nl": {
+        "hook": "Eén exploderende ster kan even feller schijnen dan haar hele sterrenstelsel.",
+        "fact": "Wanneer een zware ster als kernineenstortingssupernova explodeert, kan ze in een paar weken meer energie uitstralen dan de zon in miljarden jaren, waarbij ze vaak alle andere sterren in haar sterrenstelsel bij elkaar overstraalt."
+      },
+      "es": {
+        "hook": "Una sola estrella al explotar puede eclipsar por un momento a toda su galaxia.",
+        "fact": "Cuando una estrella masiva estalla como supernova por colapso del núcleo, puede irradiar más energía en unas pocas semanas que el Sol en miles de millones de años, y suele brillar más que el resto de estrellas de su galaxia juntas."
+      }
+    }
   },
   {
     "id": "space-119",
@@ -2802,7 +2844,21 @@
     "tags": [
       "stars",
       "pulsars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines étoiles mortes tournent plus vite qu'un mixeur de cuisine.",
+        "fact": "Les pulsars milliseconde — des étoiles à neutrons en rotation ultrarapide — peuvent tourner plus de 700 fois par seconde, balayant l'espace de faisceaux de rayonnement comme un phare."
+      },
+      "nl": {
+        "hook": "Sommige dode sterren draaien sneller rond dan een keukenblender.",
+        "fact": "Millisecondepulsars — razendsnel roterende neutronensterren — kunnen meer dan 700 keer per seconde ronddraaien en vegen daarbij stralingsbundels door de ruimte, als een vuurtoren."
+      },
+      "es": {
+        "hook": "Algunas estrellas muertas giran más rápido que una batidora de cocina.",
+        "fact": "Los púlsares de milisegundo —estrellas de neutrones en rotación vertiginosa— pueden girar más de 700 veces por segundo, barriendo el espacio con haces de radiación como si fueran un faro."
+      }
+    }
   },
   {
     "id": "space-120",
@@ -2812,7 +2868,21 @@
     "tags": [
       "stars",
       "supernovae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Bételgeuse peut exploser en supernova demain, ou dans 100 000 ans.",
+        "fact": "La supergéante rouge Bételgeuse approche de la fin de sa vie, mais en astronomie, « bientôt » couvre une plage immense ; quand elle explosera enfin, elle devrait être visible en plein jour pendant des semaines."
+      },
+      "nl": {
+        "hook": "Betelgeuze kan morgen als supernova exploderen, of pas over 100.000 jaar.",
+        "fact": "De rode superreus Betelgeuze nadert het einde van haar leven, maar astronomisch gezien beslaat 'binnenkort' een enorme marge; als ze uiteindelijk als supernova ontploft, zou ze wekenlang op klaarlichte dag te zien moeten zijn."
+      },
+      "es": {
+        "hook": "Betelgeuse podría explotar como supernova mañana, o dentro de 100.000 años.",
+        "fact": "La supergigante roja Betelgeuse se acerca al final de su vida, pero en astronomía «pronto» abarca un margen enorme; cuando por fin estalle, debería verse a plena luz del día durante semanas."
+      }
+    }
   },
   {
     "id": "space-121",
@@ -2822,7 +2892,21 @@
     "tags": [
       "stars",
       "brown-dwarfs"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'objet stellaire le plus froid connu est à peu près aussi froid que l'Antarctique.",
+        "fact": "WISE 0855-0714, la naine brune la plus froide connue, aurait une température atmosphérique estimée entre environ -48 °C et -13 °C, soit la même plage qu'un hiver antarctique, alors qu'il s'agit d'un objet de type stellaire."
+      },
+      "nl": {
+        "hook": "Het koudste bekende sterachtige object is ongeveer zo koud als Antarctica.",
+        "fact": "WISE 0855-0714, de koudste bekende bruine dwerg, heeft een geschatte atmosfeertemperatuur tussen ruwweg -48 °C en -13 °C: dezelfde marge als een Antarctische winter, en dat voor een sterachtig object."
+      },
+      "es": {
+        "hook": "El objeto estelar más frío que conocemos está tan frío como la Antártida.",
+        "fact": "WISE 0855-0714, la enana marrón más fría conocida, tiene una temperatura atmosférica estimada de entre unos -48 °C y -13 °C, el mismo rango que un invierno antártico, pese a ser un objeto de tipo estelar."
+      }
+    }
   },
   {
     "id": "space-122",
@@ -2831,7 +2915,21 @@
     "fact": "More than half of Sun-like stars exist in binary or multiple star systems, orbiting one or more companion stars rather than shining alone.",
     "tags": [
       "stars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plupart des étoiles ne sont pas solitaires comme notre Soleil.",
+        "fact": "Plus de la moitié des étoiles semblables au Soleil appartiennent à des systèmes binaires ou multiples : elles orbitent autour d'une ou plusieurs étoiles compagnes au lieu de briller seules."
+      },
+      "nl": {
+        "hook": "De meeste sterren zijn geen einzelgängers zoals onze zon.",
+        "fact": "Meer dan de helft van de zonachtige sterren maakt deel uit van een dubbel- of meervoudig sterrenstelsel en draait rond een of meer begeleidende sterren in plaats van alleen te schijnen."
+      },
+      "es": {
+        "hook": "La mayoría de las estrellas no son solitarias como nuestro Sol.",
+        "fact": "Más de la mitad de las estrellas parecidas al Sol forman parte de sistemas binarios o múltiples: orbitan alrededor de una o varias estrellas compañeras en lugar de brillar en solitario."
+      }
+    }
   },
   {
     "id": "space-123",
@@ -2840,7 +2938,21 @@
     "fact": "Blue stars are the hottest, burning above 30,000°C, while red stars are the coolest, at around 3,000°C — reversing the everyday association of red with heat and blue with cold.",
     "tags": [
       "stars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La couleur d'une étoile révèle sa température — et c'est l'inverse de ce qu'on imagine.",
+        "fact": "Les étoiles bleues sont les plus chaudes, au-delà de 30 000 °C, tandis que les rouges sont les plus froides, autour de 3 000 °C — l'exact opposé de l'association quotidienne entre rouge et chaleur, bleu et froid."
+      },
+      "nl": {
+        "hook": "De kleur van een ster verraadt haar temperatuur — precies andersom dan je denkt.",
+        "fact": "Blauwe sterren zijn het heetst, met meer dan 30.000 °C, terwijl rode sterren met zo'n 3.000 °C juist het koelst zijn — het omgekeerde van onze alledaagse associatie van rood met warm en blauw met koud."
+      },
+      "es": {
+        "hook": "El color de una estrella delata su temperatura, y es justo al revés de lo que imaginas.",
+        "fact": "Las estrellas azules son las más calientes, por encima de los 30.000 °C, mientras que las rojas son las más frías, en torno a los 3.000 °C, justo lo contrario de la asociación cotidiana del rojo con el calor y el azul con el frío."
+      }
+    }
   },
   {
     "id": "space-124",
@@ -2850,7 +2962,21 @@
     "tags": [
       "stars",
       "magnetars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les magnétars possèdent les champs magnétiques les plus puissants de l'univers connu.",
+        "fact": "Le champ magnétique d'un magnétar peut être environ un million de milliards de fois plus intense que celui de la Terre — assez puissant pour déformer les atomes et, à des milliers de kilomètres de distance, effacer les données d'une carte bancaire."
+      },
+      "nl": {
+        "hook": "Magnetars hebben de sterkste magneetvelden die we in het heelal kennen.",
+        "fact": "Het magneetveld van een magnetar kan ruwweg een biljard keer sterker zijn dan dat van de aarde — krachtig genoeg om atomen te vervormen en om van duizenden kilometers afstand de gegevens van een bankkaart te wissen."
+      },
+      "es": {
+        "hook": "Los magnetares tienen los campos magnéticos más intensos que se conocen en el universo.",
+        "fact": "El campo magnético de un magnetar puede ser unas mil billones de veces más intenso que el de la Tierra: lo bastante potente como para deformar átomos y, desde miles de kilómetros de distancia, borrar los datos de una tarjeta de crédito."
+      }
+    }
   },
   {
     "id": "space-125",
@@ -2860,7 +2986,21 @@
     "tags": [
       "stars",
       "star-formation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les étoiles naissent au cœur de nuages de gaz qui s'effondrent.",
+        "fact": "De nouvelles étoiles se forment lorsque des poches denses au sein de gigantesques nuages moléculaires d'hydrogène s'effondrent sous leur propre gravité et s'échauffent jusqu'à ce que la fusion nucléaire s'allume en leur centre."
+      },
+      "nl": {
+        "hook": "Sterren worden geboren in ineenstortende gaswolken.",
+        "fact": "Nieuwe sterren ontstaan wanneer dichte plekken binnen reusachtige moleculaire waterstofwolken onder hun eigen zwaartekracht ineenstorten en zo heet worden dat in de kern kernfusie op gang komt."
+      },
+      "es": {
+        "hook": "Las estrellas nacen dentro de nubes de gas que se derrumban.",
+        "fact": "Las estrellas nuevas se forman cuando bolsas densas dentro de gigantescas nubes moleculares de hidrógeno colapsan por su propia gravedad y se calientan hasta que se enciende la fusión nuclear en su núcleo."
+      }
+    }
   },
   {
     "id": "space-126",
@@ -2870,7 +3010,21 @@
     "tags": [
       "stars",
       "stellar-evolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ce sont les étoiles les plus massives qui s'éteignent le plus vite.",
+        "fact": "Là où le Soleil brillera environ 10 milliards d'années, les étoiles les plus massives connues — des dizaines de fois plus lourdes — épuisent leur carburant et meurent en seulement quelques millions d'années."
+      },
+      "nl": {
+        "hook": "De zwaarste sterren branden het snelst op.",
+        "fact": "Waar de zon zo'n 10 miljard jaar zal schijnen, verbruiken de zwaarste bekende sterren — tientallen keren zwaarder — hun brandstof en sterven ze al na een paar miljoen jaar."
+      },
+      "es": {
+        "hook": "Las estrellas más masivas son las que se apagan antes.",
+        "fact": "Mientras que el Sol brillará durante unos 10.000 millones de años, las estrellas más masivas que conocemos —decenas de veces más pesadas— agotan su combustible y mueren en apenas unos pocos millones de años."
+      }
+    }
   },
   {
     "id": "space-127",
@@ -2880,7 +3034,21 @@
     "tags": [
       "stars",
       "white-dwarfs"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un cadavre d'étoile peut comprimer la masse du Soleil dans une sphère grande comme la Terre.",
+        "fact": "Les naines blanches sont des vestiges stellaires si denses qu'une sphère de la taille de la Terre peut contenir à peu près autant de masse que le Soleil, soutenue non par la fusion mais par un effet quantique appelé pression de dégénérescence des électrons."
+      },
+      "nl": {
+        "hook": "Een sterrenlijk kan de massa van de zon in een bol ter grootte van de aarde persen.",
+        "fact": "Witte dwergen zijn sterrenresten die zo dicht zijn dat een bol ter grootte van de aarde ongeveer evenveel massa kan bevatten als de zon, overeind gehouden door een kwantumeffect dat elektronendegeneratiedruk heet in plaats van door kernfusie."
+      },
+      "es": {
+        "hook": "Un cadáver estelar puede comprimir la masa del Sol en una esfera del tamaño de la Tierra.",
+        "fact": "Las enanas blancas son restos estelares tan densos que una esfera del tamaño de la Tierra puede albergar casi tanta masa como el Sol, sostenida no por la fusión, sino por un efecto cuántico llamado presión de degeneración de los electrones."
+      }
+    }
   },
   {
     "id": "space-128",
@@ -2891,7 +3059,24 @@
     "tags": [
       "stars",
       "supernovae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Toutes les supernovas ne viennent pas d'une étoile massive en fin de vie.",
+        "fact": "Les supernovas de type Ia se produisent quand une naine blanche d'un système binaire arrache assez de matière à son étoile compagne pour déclencher une explosion thermonucléaire incontrôlée qui la détruit entièrement.",
+        "whyItMatters": "Comme ces explosions atteignent un pic de luminosité remarquablement constant, les astronomes s'en servent comme « chandelles standard » pour mesurer les distances cosmiques — la méthode même qui a révélé que l'expansion de l'univers s'accélère."
+      },
+      "nl": {
+        "hook": "Niet elke supernova komt van een stervende zware ster.",
+        "fact": "Type Ia-supernova's ontstaan wanneer een witte dwerg in een dubbelstersysteem genoeg materiaal van zijn begeleider wegtrekt om een op hol geslagen thermonucleaire explosie te ontketenen die hem volledig vernietigt.",
+        "whyItMatters": "Omdat deze explosies een opvallend constante piekhelderheid bereiken, gebruiken astronomen ze als 'standaardkaarsen' om kosmische afstanden te meten — dezelfde methode die aantoonde dat de uitdijing van het heelal versnelt."
+      },
+      "es": {
+        "hook": "No todas las supernovas proceden de una estrella masiva moribunda.",
+        "fact": "Las supernovas de tipo Ia se producen cuando una enana blanca de un sistema binario arranca suficiente material a su estrella compañera como para desencadenar una explosión termonuclear descontrolada que la destruye por completo.",
+        "whyItMatters": "Como estas explosiones alcanzan un brillo máximo asombrosamente constante, los astrónomos las usan como «candelas estándar» para medir distancias cósmicas: el mismo método que reveló que la expansión del universo se está acelerando."
+      }
+    }
   },
   {
     "id": "space-129",
@@ -2900,7 +3085,21 @@
     "fact": "Proxima Centauri, part of the Alpha Centauri triple star system, sits about 4.24 light-years from Earth — meaning its light takes over four years to reach us.",
     "tags": [
       "stars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'étoile la plus proche de la Terre après le Soleil est encore à plus de quatre années-lumière.",
+        "fact": "Proxima Centauri, membre du système triple d'Alpha Centauri, se trouve à environ 4,24 années-lumière de la Terre — autrement dit, sa lumière met plus de quatre ans à nous parvenir."
+      },
+      "nl": {
+        "hook": "De dichtstbijzijnde ster na de zon staat nog altijd ruim vier lichtjaar van ons vandaan.",
+        "fact": "Proxima Centauri, onderdeel van het drievoudige sterrenstelsel Alfa Centauri, staat op zo'n 4,24 lichtjaar van de aarde — haar licht doet er dus ruim vier jaar over om ons te bereiken."
+      },
+      "es": {
+        "hook": "La estrella más cercana a la Tierra después del Sol está a más de cuatro años luz.",
+        "fact": "Próxima Centauri, parte del sistema estelar triple de Alfa Centauri, se encuentra a unos 4,24 años luz de la Tierra, lo que significa que su luz tarda más de cuatro años en llegarnos."
+      }
+    }
   },
   {
     "id": "space-130",
@@ -2911,7 +3110,24 @@
     "tags": [
       "stars",
       "stellar-evolution"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Vous êtes fait de poussière d'étoiles, et ce n'est pas qu'une jolie formule.",
+        "fact": "Hormis l'hydrogène, l'hélium et des traces de lithium créés lors du Big Bang, presque tous les autres éléments — dont le carbone, l'oxygène et le fer de votre corps — ont été forgés au cœur des étoiles puis dispersés dans l'espace par les supernovas.",
+        "whyItMatters": "C'est le fondement scientifique de l'idée que les atomes de notre corps ont littéralement été cuisinés dans des étoiles mortes depuis longtemps."
+      },
+      "nl": {
+        "hook": "Je bent gemaakt van sterrenstof, en dat is geen poëzie.",
+        "fact": "Op waterstof, helium en sporen lithium uit de oerknal na is vrijwel elk element — ook de koolstof, zuurstof en het ijzer in je lichaam — gesmeed in het binnenste van sterren en door supernova's de ruimte in geslingerd.",
+        "whyItMatters": "Het is de wetenschappelijke basis voor het idee dat de atomen in ons lichaam letterlijk zijn klaargemaakt in allang gestorven sterren."
+      },
+      "es": {
+        "hook": "Estás hecho de polvo de estrellas, y no es solo poesía.",
+        "fact": "Salvo el hidrógeno, el helio y algo de litio creados en el Big Bang, prácticamente todos los demás elementos —incluidos el carbono, el oxígeno y el hierro de tu cuerpo— se forjaron dentro de las estrellas y las supernovas los esparcieron por el espacio.",
+        "whyItMatters": "Es la base científica de la idea de que los átomos de nuestro cuerpo se cocinaron literalmente dentro de estrellas que murieron hace muchísimo tiempo."
+      }
+    }
   },
   {
     "id": "space-131",
@@ -2921,7 +3137,21 @@
     "tags": [
       "galaxies",
       "milky-way"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Personne ne sait exactement combien d'étoiles compte la Voie lactée.",
+        "fact": "Comme il est difficile de compter les étoiles depuis l'intérieur du disque poussiéreux de notre galaxie, les estimations du nombre total d'étoiles de la Voie lactée varient beaucoup, d'environ 100 à 400 milliards."
+      },
+      "nl": {
+        "hook": "Niemand weet precies hoeveel sterren de Melkweg telt.",
+        "fact": "Omdat sterren tellen vanuit de stoffige schijf van ons eigen sterrenstelsel lastig is, lopen de schattingen van het totale aantal sterren in de Melkweg sterk uiteen: van ruwweg 100 tot 400 miljard."
+      },
+      "es": {
+        "hook": "Nadie sabe con exactitud cuántas estrellas hay en la Vía Láctea.",
+        "fact": "Como resulta difícil contar estrellas desde dentro del polvoriento disco de nuestra propia galaxia, las estimaciones del total de estrellas de la Vía Láctea varían mucho: entre unos 100.000 y 400.000 millones."
+      }
+    }
   },
   {
     "id": "space-132",
@@ -2930,7 +3160,21 @@
     "fact": "Astronomers broadly classify galaxies as spiral, like the Milky Way, with rotating arms of stars and gas, or elliptical — smooth, rounded collections of older stars with little new star formation.",
     "tags": [
       "galaxies"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les galaxies se rangent pour l'essentiel en deux grandes formes.",
+        "fact": "Les astronomes classent globalement les galaxies en spirales, comme la Voie lactée, avec leurs bras d'étoiles et de gaz en rotation, ou en elliptiques — des ensembles lisses et arrondis d'étoiles anciennes où peu d'étoiles nouvelles se forment."
+      },
+      "nl": {
+        "hook": "Sterrenstelsels komen grofweg in twee basisvormen.",
+        "fact": "Astronomen delen sterrenstelsels ruwweg in als spiraalstelsels, zoals de Melkweg, met roterende armen van sterren en gas, of als elliptische stelsels: gladde, ronde verzamelingen oudere sterren waar nauwelijks nieuwe sterren ontstaan."
+      },
+      "es": {
+        "hook": "Las galaxias se reparten sobre todo entre dos formas básicas.",
+        "fact": "Los astrónomos clasifican las galaxias a grandes rasgos como espirales, igual que la Vía Láctea, con brazos giratorios de estrellas y gas, o elípticas: agrupaciones suaves y redondeadas de estrellas viejas en las que apenas nacen estrellas nuevas."
+      }
+    }
   },
   {
     "id": "space-133",
@@ -2940,7 +3184,21 @@
     "tags": [
       "galaxies",
       "universe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'univers observable contiendrait environ deux mille milliards de galaxies.",
+        "fact": "Une analyse de 2016 portant sur des images profondes du télescope spatial Hubble a suggéré que l'univers observable abrite environ dix fois plus de galaxies qu'on ne l'estimait jusque-là — près de deux mille milliards au total."
+      },
+      "nl": {
+        "hook": "Het waarneembare heelal telt mogelijk zo'n twee biljoen sterrenstelsels.",
+        "fact": "Een analyse uit 2016 van diepe opnames van de Hubble-ruimtetelescoop wees erop dat het waarneembare heelal ongeveer tien keer zoveel sterrenstelsels bevat als eerder gedacht: zo'n twee biljoen in totaal."
+      },
+      "es": {
+        "hook": "El universo observable podría contener unos dos billones de galaxias.",
+        "fact": "Un análisis de 2016 de imágenes profundas del telescopio espacial Hubble apuntó a que el universo observable alberga unas diez veces más galaxias de lo que se estimaba: alrededor de dos billones en total."
+      }
+    }
   },
   {
     "id": "space-134",
@@ -2950,7 +3208,21 @@
     "tags": [
       "galaxies",
       "black-holes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Presque toutes les grandes galaxies cachent un trou noir supermassif en leur cœur.",
+        "fact": "Les observations suggèrent que la plupart des grandes galaxies, sinon toutes, abritent en leur centre un trou noir supermassif dont la masse va de quelques millions à plusieurs milliards de fois celle du Soleil."
+      },
+      "nl": {
+        "hook": "Bijna elk groot sterrenstelsel verbergt een superzwaar zwart gat in zijn hart.",
+        "fact": "Waarnemingen wijzen erop dat de meeste, zo niet alle grote sterrenstelsels in hun kern een superzwaar zwart gat herbergen, met een massa van miljoenen tot miljarden keren die van de zon."
+      },
+      "es": {
+        "hook": "Casi toda galaxia grande esconde un agujero negro supermasivo en su corazón.",
+        "fact": "Las observaciones sugieren que la mayoría de las galaxias grandes, si no todas, albergan en su núcleo un agujero negro supermasivo con masas que van de millones a miles de millones de veces la del Sol."
+      }
+    }
   },
   {
     "id": "space-135",
@@ -2959,7 +3231,21 @@
     "fact": "Large galaxies expand over cosmic time by merging with and absorbing smaller neighboring galaxies, a process astronomers can trace through streams of stars stretched out by tidal forces.",
     "tags": [
       "galaxies"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les grandes galaxies grandissent en dévorant les petites.",
+        "fact": "Au fil du temps cosmique, les grandes galaxies s'agrandissent en fusionnant avec des galaxies voisines plus petites et en les absorbant, un processus que les astronomes retracent grâce aux courants d'étoiles étirés par les forces de marée."
+      },
+      "nl": {
+        "hook": "Grote sterrenstelsels groeien door kleinere op te eten.",
+        "fact": "Grote sterrenstelsels worden in de loop van de kosmische tijd groter door te versmelten met kleinere buurstelsels en die op te slokken, een proces dat astronomen kunnen volgen aan de hand van sterrenstromen die door getijdenkrachten zijn uitgerekt."
+      },
+      "es": {
+        "hook": "Las galaxias grandes crecen comiéndose a las pequeñas.",
+        "fact": "A lo largo del tiempo cósmico, las galaxias grandes se expanden fusionándose con galaxias vecinas más pequeñas y absorbiéndolas, un proceso que los astrónomos pueden rastrear gracias a las corrientes de estrellas estiradas por las fuerzas de marea."
+      }
+    }
   },
   {
     "id": "space-136",
@@ -2969,7 +3255,21 @@
     "tags": [
       "galaxies",
       "quasars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Parmi les objets les plus brillants de l'univers, on trouve des trous noirs en train de se nourrir.",
+        "fact": "Les quasars sont des noyaux galactiques extraordinairement lumineux, alimentés par des trous noirs supermassifs qui avalent activement le gaz et la poussière environnants, lesquels brillent intensément en s'échauffant à des températures extrêmes."
+      },
+      "nl": {
+        "hook": "Enkele van de helderste objecten in het heelal zijn etende zwarte gaten.",
+        "fact": "Quasars zijn buitengewoon lichtsterke kernen van sterrenstelsels, aangedreven door superzware zwarte gaten die actief omringend gas en stof naar binnen trekken, dat fel oplicht terwijl het tot extreme temperaturen wordt verhit."
+      },
+      "es": {
+        "hook": "Algunos de los objetos más brillantes del universo son agujeros negros alimentándose.",
+        "fact": "Los cuásares son núcleos galácticos extraordinariamente luminosos, impulsados por agujeros negros supermasivos que engullen activamente el gas y el polvo de su entorno, que brilla con furia al calentarse hasta temperaturas extremas."
+      }
+    }
   },
   {
     "id": "space-137",
@@ -2979,7 +3279,21 @@
     "tags": [
       "galaxies",
       "cosmology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "À très grande échelle, l'univers ressemble à une toile.",
+        "fact": "Les galaxies ne sont pas dispersées au hasard : elles s'organisent en vastes filaments et amas séparés par d'immenses vides, une structure que les astronomes appellent la toile cosmique, sculptée par la gravité de la matière noire."
+      },
+      "nl": {
+        "hook": "Op de allergrootste schaal lijkt het heelal op een web.",
+        "fact": "Sterrenstelsels liggen niet willekeurig verspreid: ze zijn gerangschikt in reusachtige filamenten en clusters, gescheiden door enorme lege holtes — een structuur die astronomen het kosmische web noemen en die door de zwaartekracht van donkere materie is gevormd."
+      },
+      "es": {
+        "hook": "A las escalas más grandes, el universo parece una telaraña.",
+        "fact": "Las galaxias no están repartidas al azar: se organizan en enormes filamentos y cúmulos separados por vacíos inmensos, una estructura que los astrónomos llaman la red cósmica y que ha moldeado la gravedad de la materia oscura."
+      }
+    }
   },
   {
     "id": "space-138",
@@ -2989,7 +3303,21 @@
     "tags": [
       "galaxies",
       "milky-way"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Notre système solaire loge dans une petite rue secondaire de la Voie lactée.",
+        "fact": "Le Soleil et ses planètes se situent dans le bras d'Orion, un éperon secondaire de la galaxie coincé entre ses deux grandes structures, les bras de Persée et du Sagittaire."
+      },
+      "nl": {
+        "hook": "Ons zonnestelsel ligt in een onopvallend zijstraatje van de Melkweg.",
+        "fact": "De zon en haar planeten liggen in de Orionarm, een kleinere uitloper van het sterrenstelsel die ingeklemd zit tussen de twee grote structuren: de Perseus- en de Sagittariusarm."
+      },
+      "es": {
+        "hook": "Nuestro sistema solar vive en una callejuela secundaria de la Vía Láctea.",
+        "fact": "El Sol y sus planetas se sitúan en el Brazo de Orión, un ramal menor de la galaxia encajado entre sus dos grandes estructuras: los brazos de Perseo y de Sagitario."
+      }
+    }
   },
   {
     "id": "space-139",
@@ -2998,7 +3326,21 @@
     "fact": "For every large galaxy like the Milky Way, there are far more small dwarf galaxies, some containing as few as a few thousand to a few million stars.",
     "tags": [
       "galaxies"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les galaxies minuscules sont bien plus nombreuses que les géantes.",
+        "fact": "Pour chaque grande galaxie comme la Voie lactée, il existe bien plus de petites galaxies naines, dont certaines ne comptent que quelques milliers à quelques millions d'étoiles."
+      },
+      "nl": {
+        "hook": "Piepkleine sterrenstelsels zijn veel talrijker dan reusachtige.",
+        "fact": "Voor elk groot sterrenstelsel zoals de Melkweg bestaan er veel meer kleine dwergstelsels, waarvan sommige niet meer dan een paar duizend tot een paar miljoen sterren tellen."
+      },
+      "es": {
+        "hook": "Las galaxias diminutas superan con creces en número a las gigantes.",
+        "fact": "Por cada galaxia grande como la Vía Láctea existen muchísimas más galaxias enanas pequeñas, algunas con apenas unos pocos miles o unos pocos millones de estrellas."
+      }
+    }
   },
   {
     "id": "space-140",
@@ -3008,7 +3350,21 @@
     "tags": [
       "galaxies",
       "dark-matter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des astronomes ont trouvé une galaxie qui semble dépourvue de matière noire.",
+        "fact": "En 2018, des astronomes ont identifié NGC 1052-DF2, une galaxie qui paraît contenir peu ou pas de matière noire, remettant en question l'idée que la matière noire serait un ingrédient indispensable à la formation des galaxies."
+      },
+      "nl": {
+        "hook": "Astronomen vonden een sterrenstelsel dat zijn donkere materie lijkt te missen.",
+        "fact": "In 2018 identificeerden astronomen NGC 1052-DF2, een sterrenstelsel dat weinig tot geen donkere materie lijkt te bevatten en zo de aanname uitdaagt dat donkere materie een noodzakelijk ingrediënt is voor de vorming van sterrenstelsels."
+      },
+      "es": {
+        "hook": "Los astrónomos encontraron una galaxia a la que parece faltarle la materia oscura.",
+        "fact": "En 2018, un equipo de astrónomos identificó NGC 1052-DF2, una galaxia que parece contener poca o ninguna materia oscura, lo que pone en duda la idea de que la materia oscura sea un ingrediente imprescindible para formar galaxias."
+      }
+    }
   },
   {
     "id": "space-141",
@@ -3017,7 +3373,21 @@
     "fact": "Giant elliptical galaxies found at the centers of galaxy clusters can span millions of light-years and contain trillions of stars, far outsizing spiral galaxies like the Milky Way.",
     "tags": [
       "galaxies"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines galaxies elliptiques écrasent même les plus grandes spirales.",
+        "fact": "Les galaxies elliptiques géantes, que l'on trouve au centre des amas de galaxies, peuvent s'étendre sur des millions d'années-lumière et contenir des milliers de milliards d'étoiles, dépassant de loin les spirales comme la Voie lactée."
+      },
+      "nl": {
+        "hook": "Sommige elliptische stelsels doen zelfs de grootste spiraalstelsels verbleken.",
+        "fact": "Reusachtige elliptische sterrenstelsels in het centrum van clusters kunnen miljoenen lichtjaren groot zijn en biljoenen sterren bevatten, waarmee ze spiraalstelsels zoals de Melkweg ver overtreffen."
+      },
+      "es": {
+        "hook": "Algunas galaxias elípticas empequeñecen incluso a las mayores espirales.",
+        "fact": "Las galaxias elípticas gigantes que se encuentran en el centro de los cúmulos de galaxias pueden abarcar millones de años luz y contener billones de estrellas, muy por encima de espirales como la Vía Láctea."
+      }
+    }
   },
   {
     "id": "space-142",
@@ -3027,7 +3397,21 @@
     "tags": [
       "galaxies",
       "astronomy-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première photographie d'une galaxie extérieure à la nôtre date de 1888.",
+        "fact": "Grâce à la photographie à longue pose, l'astronome Isaac Roberts a capturé des images détaillées de la nébuleuse d'Andromède en 1888 — des décennies avant qu'on ne comprenne qu'il s'agissait d'une galaxie à part entière et non d'un nuage niché dans la Voie lactée."
+      },
+      "nl": {
+        "hook": "De eerste foto van een sterrenstelsel buiten het onze dateert van 1888.",
+        "fact": "Met langesluitertijdfotografie legde astronoom Isaac Roberts in 1888 gedetailleerde beelden vast van de Andromedanevel — decennia voordat iemand doorhad dat het een apart sterrenstelsel was en niet een wolk binnen de Melkweg."
+      },
+      "es": {
+        "hook": "La primera fotografía de una galaxia más allá de la nuestra se tomó en 1888.",
+        "fact": "Mediante fotografía de larga exposición, el astrónomo Isaac Roberts capturó imágenes detalladas de la nebulosa de Andrómeda en 1888, décadas antes de que alguien comprendiera que era una galaxia independiente y no una nube dentro de la Vía Láctea."
+      }
+    }
   },
   {
     "id": "space-143",
@@ -3038,7 +3422,24 @@
     "tags": [
       "black-holes",
       "telescopes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'humanité a obtenu sa toute première photo d'un trou noir en 2019.",
+        "fact": "L'Event Horizon Telescope — un réseau de radiotélescopes répartis sur toute la planète fonctionnant comme un unique instrument de la taille de la Terre — a capturé la première image directe de l'ombre d'un trou noir, situé dans la galaxie M87.",
+        "whyItMatters": "Elle a confirmé des décennies de prédictions théoriques sur l'apparence des trous noirs et validé une nouvelle façon puissante d'étudier la gravité dans sa forme la plus extrême."
+      },
+      "nl": {
+        "hook": "In 2019 kreeg de mensheid haar allereerste foto van een zwart gat.",
+        "fact": "De Event Horizon Telescope — een netwerk van radiosterrenwachten over de hele wereld dat als één instrument ter grootte van de aarde werkt — legde de eerste directe opname vast van de schaduw van een zwart gat, in het sterrenstelsel M87.",
+        "whyItMatters": "Het bevestigde decennia aan theoretische voorspellingen over hoe zwarte gaten eruitzien en leverde een krachtige nieuwe manier op om zwaartekracht in haar extreemste vorm te bestuderen."
+      },
+      "es": {
+        "hook": "La humanidad consiguió su primera foto de un agujero negro en 2019.",
+        "fact": "El Telescopio del Horizonte de Sucesos —una red de radiotelescopios repartidos por todo el planeta que funciona como un único instrumento del tamaño de la Tierra— captó la primera imagen directa de la sombra de un agujero negro, situado en la galaxia M87.",
+        "whyItMatters": "Confirmó décadas de predicciones teóricas sobre el aspecto de los agujeros negros y demostró una nueva y potente forma de estudiar la gravedad en su versión más extrema."
+      }
+    }
   },
   {
     "id": "space-144",
@@ -3047,7 +3448,21 @@
     "fact": "Near a black hole, gravity pulls so much harder on the near side of an object than the far side that it would stretch anything falling in into a long, thin strand — a process physicists genuinely call 'spaghettification.'",
     "tags": [
       "black-holes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Tomber dans un trou noir vous étirerait comme un spaghetti.",
+        "fact": "Près d'un trou noir, la gravité tire tellement plus fort sur la face proche d'un objet que sur sa face éloignée qu'elle étirerait tout ce qui y tombe en un long filament — un processus que les physiciens appellent sérieusement la « spaghettification »."
+      },
+      "nl": {
+        "hook": "In een zwart gat vallen zou je uitrekken als een sliert spaghetti.",
+        "fact": "Vlak bij een zwart gat trekt de zwaartekracht zoveel harder aan de nabije kant van een voorwerp dan aan de verre kant dat alles wat erin valt tot een lange, dunne sliert wordt uitgerekt — een proces dat natuurkundigen echt 'spaghettificatie' noemen."
+      },
+      "es": {
+        "hook": "Caer en un agujero negro te estiraría como un espagueti.",
+        "fact": "Cerca de un agujero negro, la gravedad tira con tanta más fuerza del lado cercano de un objeto que del lejano que estiraría cualquier cosa que cayera en él hasta convertirla en un hilo largo y fino, un proceso que los físicos llaman literalmente «espaguetificación»."
+      }
+    }
   },
   {
     "id": "space-145",
@@ -3056,7 +3471,21 @@
     "fact": "A black hole's gravity only pulls in objects that stray too close, just like any other mass with the same weight — if the Sun were suddenly swapped for a black hole of equal mass, Earth's orbit wouldn't change.",
     "tags": [
       "black-holes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les trous noirs ne sont pas des aspirateurs cosmiques.",
+        "fact": "La gravité d'un trou noir n'attire que les objets qui s'approchent trop près, exactement comme n'importe quelle masse équivalente — si le Soleil était soudain remplacé par un trou noir de même masse, l'orbite de la Terre ne changerait pas."
+      },
+      "nl": {
+        "hook": "Zwarte gaten zijn geen kosmische stofzuigers.",
+        "fact": "De zwaartekracht van een zwart gat zuigt alleen voorwerpen naar binnen die te dichtbij komen, net als elke andere massa van hetzelfde gewicht — als de zon plots werd vervangen door een even zwaar zwart gat, zou de baan van de aarde niet veranderen."
+      },
+      "es": {
+        "hook": "Los agujeros negros no son aspiradoras cósmicas.",
+        "fact": "La gravedad de un agujero negro solo atrae los objetos que se acercan demasiado, igual que cualquier otra masa del mismo peso: si el Sol se sustituyera de repente por un agujero negro de idéntica masa, la órbita de la Tierra no cambiaría."
+      }
+    }
   },
   {
     "id": "space-146",
@@ -3067,7 +3496,24 @@
     "tags": [
       "black-holes",
       "gravitational-waves"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En 2015, des scientifiques ont « entendu » deux trous noirs entrer en collision à plus d'un milliard d'années-lumière.",
+        "fact": "L'observatoire LIGO a détecté des ondulations de l'espace-temps produites par la fusion de deux trous noirs, confirmant une prédiction majeure de la relativité générale d'Einstein un siècle après son énoncé.",
+        "whyItMatters": "Cette découverte a ouvert une manière entièrement nouvelle d'observer l'univers — par les ondes gravitationnelles plutôt que par la lumière — et a valu le prix Nobel de physique 2017."
+      },
+      "nl": {
+        "hook": "In 2015 hoorden wetenschappers twee zwarte gaten botsen op ruim een miljard lichtjaar afstand.",
+        "fact": "De LIGO-sterrenwacht ving rimpelingen in de ruimtetijd op van twee samensmeltende zwarte gaten en bevestigde daarmee een kernvoorspelling uit Einsteins algemene relativiteitstheorie, een eeuw nadat hij die had gedaan.",
+        "whyItMatters": "De ontdekking opende een volledig nieuwe manier om het heelal waar te nemen — via zwaartekrachtgolven in plaats van licht — en leverde de Nobelprijs voor de Natuurkunde van 2017 op."
+      },
+      "es": {
+        "hook": "En 2015, unos científicos oyeron chocar dos agujeros negros a más de mil millones de años luz.",
+        "fact": "El observatorio LIGO detectó ondulaciones en el espacio-tiempo producidas por la fusión de dos agujeros negros, confirmando una predicción clave de la relatividad general de Einstein un siglo después de que la formulara.",
+        "whyItMatters": "El hallazgo abrió una forma completamente nueva de observar el universo —mediante ondas gravitacionales en lugar de luz— y valió el Premio Nobel de Física de 2017."
+      }
+    }
   },
   {
     "id": "space-147",
@@ -3077,7 +3523,21 @@
     "tags": [
       "black-holes",
       "milky-way"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il y a un trou noir au centre exact de notre galaxie.",
+        "fact": "Sagittarius A*, le trou noir supermassif au cœur de la Voie lactée, possède une masse d'environ 4 millions de fois celle du Soleil ; son existence a été confirmée en suivant des étoiles individuelles filant à une vitesse folle autour d'un point invisible, un travail récompensé par le prix Nobel de physique 2020."
+      },
+      "nl": {
+        "hook": "In het exacte midden van ons sterrenstelsel zit een zwart gat.",
+        "fact": "Sagittarius A*, het superzware zwarte gat in de kern van de Melkweg, heeft een massa van ongeveer 4 miljoen zonsmassa's; het bestaan ervan werd bevestigd door individuele sterren te volgen die met razende snelheid om een onzichtbaar punt zwiepten, werk dat in 2020 werd bekroond met de Nobelprijs voor de Natuurkunde."
+      },
+      "es": {
+        "hook": "Hay un agujero negro justo en el centro de nuestra galaxia.",
+        "fact": "Sagitario A*, el agujero negro supermasivo del núcleo de la Vía Láctea, tiene una masa unos 4 millones de veces la del Sol; su existencia se confirmó siguiendo estrellas individuales que giraban a una velocidad increíble en torno a un punto invisible, un trabajo reconocido con el Premio Nobel de Física de 2020."
+      }
+    }
   },
   {
     "id": "space-148",
@@ -3086,7 +3546,21 @@
     "fact": "Physicist Stephen Hawking proposed that black holes slowly emit faint radiation — now called Hawking radiation — causing them to lose mass and, over unimaginably long timescales, eventually evaporate entirely.",
     "tags": [
       "black-holes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les trous noirs ne durent peut-être pas éternellement.",
+        "fact": "Le physicien Stephen Hawking a proposé que les trous noirs émettent lentement un faible rayonnement — aujourd'hui appelé rayonnement de Hawking — qui leur fait perdre de la masse et finit, sur des durées inimaginables, par les faire s'évaporer complètement."
+      },
+      "nl": {
+        "hook": "Zwarte gaten bestaan misschien niet eeuwig.",
+        "fact": "Natuurkundige Stephen Hawking stelde voor dat zwarte gaten langzaam een zwakke straling uitzenden — nu hawkingstraling genoemd — waardoor ze massa verliezen en over onvoorstelbaar lange tijdschalen uiteindelijk helemaal verdampen."
+      },
+      "es": {
+        "hook": "Puede que los agujeros negros no duren para siempre.",
+        "fact": "El físico Stephen Hawking propuso que los agujeros negros emiten lentamente una radiación tenue —hoy llamada radiación de Hawking— que les hace perder masa y, en escalas de tiempo inimaginables, acabar evaporándose por completo."
+      }
+    }
   },
   {
     "id": "space-149",
@@ -3095,7 +3569,21 @@
     "fact": "Astronomers recognize stellar-mass black holes, formed from collapsing massive stars, and supermassive ones millions to billions of times heavier — but exactly how those giants grew so large so early in the universe is still debated.",
     "tags": [
       "black-holes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les trous noirs existent en plusieurs catégories de taille, et l'origine des plus gros reste un mystère.",
+        "fact": "Les astronomes distinguent les trous noirs de masse stellaire, issus de l'effondrement d'étoiles massives, et les supermassifs, des millions à des milliards de fois plus lourds — mais la façon dont ces géants ont grossi si vite dans le jeune univers fait encore débat."
+      },
+      "nl": {
+        "hook": "Zwarte gaten komen in meerdere maatklassen, en hoe de grootste ontstaan weten we niet.",
+        "fact": "Astronomen onderscheiden zwarte gaten van stellaire massa, ontstaan uit ineenstortende zware sterren, en superzware exemplaren die miljoenen tot miljarden keren zwaarder zijn — maar hoe die reuzen zo vroeg in het heelal zo groot konden worden, is nog altijd onderwerp van discussie."
+      },
+      "es": {
+        "hook": "Hay agujeros negros de distintas categorías de tamaño, y nadie sabe bien cómo se forman los mayores.",
+        "fact": "Los astrónomos distinguen los agujeros negros de masa estelar, nacidos del colapso de estrellas masivas, y los supermasivos, de millones a miles de millones de veces más pesados; pero cómo llegaron esos gigantes a ser tan grandes tan pronto en la historia del universo sigue en debate."
+      }
+    }
   },
   {
     "id": "space-150",
@@ -3104,7 +3592,21 @@
     "fact": "The event horizon is the boundary around a black hole beyond which nothing, not even light, can escape its gravitational pull — once crossed, there's no turning back.",
     "tags": [
       "black-holes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le « point de non-retour » autour d'un trou noir porte un nom bien précis.",
+        "fact": "L'horizon des événements est la frontière entourant un trou noir au-delà de laquelle rien, pas même la lumière, ne peut échapper à son attraction gravitationnelle — une fois franchie, aucun retour n'est possible."
+      },
+      "nl": {
+        "hook": "Het 'point of no return' rond een zwart gat heeft een eigen naam.",
+        "fact": "De waarnemingshorizon is de grens rond een zwart gat waarachter niets, zelfs licht niet, nog aan de zwaartekracht kan ontsnappen — eenmaal gepasseerd is er geen weg terug."
+      },
+      "es": {
+        "hook": "El «punto de no retorno» de un agujero negro tiene un nombre concreto.",
+        "fact": "El horizonte de sucesos es la frontera que rodea a un agujero negro y más allá de la cual nada, ni siquiera la luz, puede escapar a su atracción gravitatoria: una vez cruzada, no hay vuelta atrás."
+      }
+    }
   },
   {
     "id": "space-151",
@@ -3113,7 +3615,21 @@
     "fact": "As material spirals into certain black holes, powerful magnetic fields can channel part of it away in narrow jets blasting outward at close to light speed, sometimes stretching for thousands of light-years.",
     "tags": [
       "black-holes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains trous noirs crachent des jets de matière à une vitesse proche de celle de la lumière.",
+        "fact": "Lorsque la matière spirale vers certains trous noirs, de puissants champs magnétiques peuvent en réexpédier une partie sous forme de jets étroits filant à une vitesse proche de celle de la lumière, s'étendant parfois sur des milliers d'années-lumière."
+      },
+      "nl": {
+        "hook": "Sommige zwarte gaten spuwen materiestralen weg met bijna de lichtsnelheid.",
+        "fact": "Terwijl materie naar bepaalde zwarte gaten toe spiraalt, kunnen krachtige magneetvelden een deel ervan wegleiden in smalle jets die met bijna de lichtsnelheid naar buiten schieten en zich soms duizenden lichtjaren ver uitstrekken."
+      },
+      "es": {
+        "hook": "Algunos agujeros negros disparan chorros de materia a casi la velocidad de la luz.",
+        "fact": "Mientras el material cae en espiral hacia ciertos agujeros negros, unos potentes campos magnéticos pueden desviar parte de él en chorros estrechos que salen despedidos a casi la velocidad de la luz y que a veces se extienden miles de años luz."
+      }
+    }
   },
   {
     "id": "space-152",
@@ -3122,7 +3638,21 @@
     "fact": "Intermediate-mass black holes, weighing between hundreds and hundreds of thousands of solar masses, are rare and elusive, bridging the gap between stellar-mass black holes and supermassive ones.",
     "tags": [
       "black-holes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il manque une catégorie de trous noirs que les astronomes cherchent encore.",
+        "fact": "Les trous noirs de masse intermédiaire, pesant de quelques centaines à quelques centaines de milliers de masses solaires, sont rares et insaisissables ; ils comblent le fossé entre les trous noirs de masse stellaire et les supermassifs."
+      },
+      "nl": {
+        "hook": "Er ontbreekt een hele maatklasse zwarte gaten waar astronomen nog steeds op jagen.",
+        "fact": "Zwarte gaten van middelbare massa, met een gewicht tussen honderden en honderdduizenden zonsmassa's, zijn zeldzaam en ongrijpbaar; ze overbruggen de kloof tussen zwarte gaten van stellaire massa en superzware exemplaren."
+      },
+      "es": {
+        "hook": "Falta toda una categoría de agujeros negros que los astrónomos siguen buscando.",
+        "fact": "Los agujeros negros de masa intermedia, de entre cientos y cientos de miles de masas solares, son escasos y esquivos, y salvan el hueco entre los de masa estelar y los supermasivos."
+      }
+    }
   },
   {
     "id": "space-153",
@@ -3131,7 +3661,21 @@
     "fact": "Gravity near a black hole's event horizon warps space and time so severely that, to a distant observer, an object falling in would appear to slow down and freeze at the edge rather than visibly cross it.",
     "tags": [
       "black-holes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le temps semblerait se figer si vous regardiez un objet tomber dans un trou noir.",
+        "fact": "Près de l'horizon des événements, la gravité déforme si violemment l'espace et le temps qu'un objet qui tombe paraîtrait, pour un observateur lointain, ralentir puis se figer au bord au lieu de le franchir visiblement."
+      },
+      "nl": {
+        "hook": "De tijd lijkt stil te staan als je iets in een zwart gat ziet vallen.",
+        "fact": "Vlak bij de waarnemingshorizon van een zwart gat vervormt de zwaartekracht ruimte en tijd zo hevig dat een vallend voorwerp voor een verre waarnemer lijkt te vertragen en aan de rand te bevriezen, in plaats van er zichtbaar overheen te gaan."
+      },
+      "es": {
+        "hook": "El tiempo parecería congelarse si vieras algo caer en un agujero negro.",
+        "fact": "Cerca del horizonte de sucesos, la gravedad deforma el espacio y el tiempo con tanta violencia que, para un observador lejano, un objeto que cae parecería frenarse y quedarse congelado en el borde en lugar de cruzarlo a la vista."
+      }
+    }
   },
   {
     "id": "space-154",
@@ -3141,7 +3685,21 @@
     "tags": [
       "black-holes",
       "astronomy-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'expression « trou noir » ne s'est imposée qu'à la fin des années 1960.",
+        "fact": "Même si les mathématiques décrivant ces objets remontent à la relativité générale d'Einstein, c'est le physicien John Wheeler qui a contribué à populariser le terme « trou noir » vers 1967."
+      },
+      "nl": {
+        "hook": "De term 'zwart gat' sloeg pas eind jaren zestig aan.",
+        "fact": "Hoewel de wiskunde achter deze objecten teruggaat op Einsteins algemene relativiteitstheorie, hielp natuurkundige John Wheeler de term 'zwart gat' rond 1967 populair te maken."
+      },
+      "es": {
+        "hook": "La expresión «agujero negro» no se popularizó hasta finales de los años sesenta.",
+        "fact": "Aunque las matemáticas que describen estos objetos se remontan a la relatividad general de Einstein, fue el físico John Wheeler quien contribuyó a popularizar el término «agujero negro» hacia 1967."
+      }
+    }
   },
   {
     "id": "space-155",
@@ -3151,7 +3709,21 @@
     "tags": [
       "nebulae",
       "supernovae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une supernova observée en 1054 a laissé une épave lumineuse que l'on contemple encore.",
+        "fact": "Des astronomes chinois ont consigné en 1054 une « étoile invitée » assez brillante pour être vue en plein jour ; aujourd'hui, les débris en expansion de cette explosion forment la nébuleuse du Crabe, avec un pulsar tournant en son centre."
+      },
+      "nl": {
+        "hook": "Een supernova uit het jaar 1054 liet een gloeiend wrak achter dat we nog altijd bekijken.",
+        "fact": "Chinese astronomen noteerden in 1054 een 'gastster' die helder genoeg was om overdag te zien; het uitdijende puin van die explosie vormt vandaag de Krabnevel, met een pulsar die in het midden ronddraait."
+      },
+      "es": {
+        "hook": "Una supernova vista en el año 1054 dejó unos restos luminosos que aún observamos.",
+        "fact": "Los astrónomos chinos registraron en 1054 una «estrella invitada» tan brillante que se veía de día; hoy, los restos en expansión de aquella explosión forman la nebulosa del Cangrejo, con un púlsar girando en su centro."
+      }
+    }
   },
   {
     "id": "space-156",
@@ -3160,7 +3732,21 @@
     "fact": "Early astronomers named these glowing shells of gas 'planetary nebulae' because they looked like round planetary disks through small telescopes; they're actually outer layers shed by dying Sun-like stars.",
     "tags": [
       "nebulae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les nébuleuses planétaires n'ont rien à voir avec les planètes.",
+        "fact": "Les premiers astronomes ont baptisé ces coquilles de gaz lumineuses « nébuleuses planétaires » parce qu'elles ressemblaient à des disques planétaires ronds dans les petites lunettes ; ce sont en réalité les couches externes expulsées par des étoiles semblables au Soleil en fin de vie."
+      },
+      "nl": {
+        "hook": "Planetaire nevels hebben niets met planeten te maken.",
+        "fact": "Vroege astronomen noemden deze gloeiende gasschillen 'planetaire nevels' omdat ze door kleine telescopen op ronde planeetschijfjes leken; in werkelijkheid zijn het buitenlagen die stervende zonachtige sterren hebben afgestoten."
+      },
+      "es": {
+        "hook": "Las nebulosas planetarias no tienen nada que ver con los planetas.",
+        "fact": "Los primeros astrónomos bautizaron estas envolturas de gas brillante como «nebulosas planetarias» porque a través de telescopios pequeños parecían discos planetarios redondos; en realidad son las capas externas que expulsan las estrellas parecidas al Sol al morir."
+      }
+    }
   },
   {
     "id": "space-157",
@@ -3169,7 +3755,21 @@
     "fact": "The towering gas columns in the Eagle Nebula, iconic star-forming regions photographed by the Hubble Space Telescope, are gradually being eroded away by radiation from nearby young stars.",
     "tags": [
       "nebulae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les célèbres Piliers de la Création se dissolvent lentement.",
+        "fact": "Ces immenses colonnes de gaz de la nébuleuse de l'Aigle, régions emblématiques de formation d'étoiles photographiées par le télescope spatial Hubble, sont peu à peu érodées par le rayonnement des jeunes étoiles voisines."
+      },
+      "nl": {
+        "hook": "De beroemde Pijlers van de Schepping lossen langzaam op.",
+        "fact": "De torenhoge gaskolommen in de Adelaarsnevel, iconische stervormingsgebieden die de Hubble-ruimtetelescoop vastlegde, worden geleidelijk weggevreten door de straling van nabije jonge sterren."
+      },
+      "es": {
+        "hook": "Los famosos Pilares de la Creación se están disolviendo poco a poco.",
+        "fact": "Las gigantescas columnas de gas de la nebulosa del Águila, regiones de formación estelar icónicas fotografiadas por el telescopio espacial Hubble, se van erosionando por la radiación de las jóvenes estrellas cercanas."
+      }
+    }
   },
   {
     "id": "space-158",
@@ -3178,7 +3778,21 @@
     "fact": "Emission nebulae shine with their own light because intense ultraviolet radiation from nearby hot young stars ionizes the surrounding hydrogen gas, causing it to glow in a distinctive red or pink.",
     "tags": [
       "nebulae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines nébuleuses brillent parce qu'elles sont éclairées de l'intérieur.",
+        "fact": "Les nébuleuses en émission brillent de leur propre lumière : l'intense rayonnement ultraviolet des jeunes étoiles chaudes voisines ionise l'hydrogène environnant, qui se met alors à luire d'un rouge ou d'un rose caractéristique."
+      },
+      "nl": {
+        "hook": "Sommige nevels lichten op omdat ze van binnenuit worden aangestoken.",
+        "fact": "Emissienevels stralen hun eigen licht uit: intense ultraviolette straling van nabije hete jonge sterren ioniseert het omringende waterstofgas, waardoor het in een kenmerkend rood of roze gaat gloeien."
+      },
+      "es": {
+        "hook": "Algunas nebulosas brillan porque están iluminadas desde dentro.",
+        "fact": "Las nebulosas de emisión brillan con luz propia porque la intensa radiación ultravioleta de las jóvenes estrellas calientes cercanas ioniza el hidrógeno circundante, que se ilumina con un rojo o rosa característico."
+      }
+    }
   },
   {
     "id": "space-159",
@@ -3187,7 +3801,21 @@
     "fact": "Dense clouds of dust and gas called dark nebulae don't glow themselves — they show up as silhouettes because they block the light of stars and glowing gas behind them.",
     "tags": [
       "nebulae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines nébuleuses ne se voient que par ce qu'elles cachent, pas par ce qu'elles émettent.",
+        "fact": "Les nébuleuses obscures, denses nuages de poussière et de gaz, ne brillent pas d'elles-mêmes : elles apparaissent en silhouette parce qu'elles bloquent la lumière des étoiles et du gaz lumineux situés derrière elles."
+      },
+      "nl": {
+        "hook": "Sommige nevels zie je alleen door wat ze tegenhouden, niet door wat ze uitstralen.",
+        "fact": "Donkere nevels, dichte wolken van stof en gas, geven zelf geen licht: ze tekenen zich als silhouet af doordat ze het licht van sterren en gloeiend gas erachter tegenhouden."
+      },
+      "es": {
+        "hook": "Algunas nebulosas solo se ven por lo que tapan, no por lo que emiten.",
+        "fact": "Las nebulosas oscuras, densas nubes de polvo y gas, no brillan por sí mismas: se recortan como siluetas porque bloquean la luz de las estrellas y del gas brillante que hay detrás."
+      }
+    }
   },
   {
     "id": "space-160",
@@ -3196,7 +3824,21 @@
     "fact": "Located about 1,300 light-years away, the Orion Nebula is one of the brightest nebulae in the sky and can be seen as a fuzzy patch below Orion's belt without a telescope.",
     "tags": [
       "nebulae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une pouponnière d'étoiles se repère à l'œil nu.",
+        "fact": "Située à environ 1 300 années-lumière, la nébuleuse d'Orion est l'une des plus brillantes du ciel : on la distingue sans télescope, comme une tache floue sous la ceinture d'Orion."
+      },
+      "nl": {
+        "hook": "Een sterrenkraamkamer kun je met het blote oog zien.",
+        "fact": "De Orionnevel, op zo'n 1.300 lichtjaar afstand, is een van de helderste nevels aan de hemel en is zonder telescoop te zien als een wazig vlekje onder de gordel van Orion."
+      },
+      "es": {
+        "hook": "Puedes ver una guardería de estrellas a simple vista.",
+        "fact": "Situada a unos 1.300 años luz, la nebulosa de Orión es una de las más brillantes del cielo y se distingue sin telescopio como una mancha difusa bajo el cinturón de Orión."
+      }
+    }
   },
   {
     "id": "space-161",
@@ -3206,7 +3848,21 @@
     "tags": [
       "nebulae",
       "star-formation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les nébuleuses ne sont pas que jolies : c'est là que les planètes trouvent leur matière première.",
+        "fact": "Les nuages de gaz et de poussière qui font briller les nébuleuses servent aussi de pouponnières stellaires : ils s'effondrent sous l'effet de la gravité pour donner naissance à de nouvelles étoiles et aux systèmes planétaires qui peuvent se former autour d'elles."
+      },
+      "nl": {
+        "hook": "Nevels zijn niet alleen mooi, ze leveren ook de grondstof voor planeten.",
+        "fact": "Dezelfde wolken van gas en stof die als nevels oplichten, dienen ook als sterrenkraamkamers: ze storten onder hun eigen zwaartekracht ineen en brengen nieuwe sterren voort, plus de planetenstelsels die daaromheen kunnen ontstaan."
+      },
+      "es": {
+        "hook": "Las nebulosas no solo son bonitas: de ahí sale la materia prima de los planetas.",
+        "fact": "Las mismas nubes de gas y polvo que brillan como nebulosas hacen también de guarderías estelares: se colapsan por la gravedad y dan lugar a nuevas estrellas y a los sistemas planetarios que pueden formarse a su alrededor."
+      }
+    }
   },
   {
     "id": "space-162",
@@ -3215,7 +3871,21 @@
     "fact": "Reflection nebulae don't produce their own light; they glow simply by scattering the light of nearby stars off their dust particles, much like fog scatters a car's headlights.",
     "tags": [
       "nebulae"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines nébuleuses brillent comme le brouillard dans le faisceau d'un phare.",
+        "fact": "Les nébuleuses par réflexion ne produisent pas leur propre lumière : elles brillent simplement parce que leurs grains de poussière diffusent la lumière des étoiles voisines, un peu comme le brouillard diffuse les phares d'une voiture."
+      },
+      "nl": {
+        "hook": "Sommige nevels lichten op zoals mist rond een koplamp.",
+        "fact": "Reflectienevels maken geen eigen licht; ze gloeien doordat hun stofdeeltjes het licht van nabije sterren verstrooien, net zoals mist het licht van autokoplampen verstrooit."
+      },
+      "es": {
+        "hook": "Algunas nebulosas brillan igual que la niebla alrededor de un faro.",
+        "fact": "Las nebulosas de reflexión no producen luz propia; brillan simplemente porque sus partículas de polvo dispersan la luz de las estrellas cercanas, igual que la niebla dispersa los faros de un coche."
+      }
+    }
   },
   {
     "id": "space-163",
@@ -3225,7 +3895,21 @@
     "tags": [
       "exoplanets",
       "astronomy-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première planète découverte autour d'une étoile semblable au Soleil date de 1995.",
+        "fact": "Les astronomes Michel Mayor et Didier Queloz ont découvert 51 Pegasi b, une planète chaude de type Jupiter en orbite autour d'une étoile semblable au Soleil ; cette découverte leur a valu le prix Nobel de physique 2019 et a lancé l'ère moderne de l'étude des exoplanètes."
+      },
+      "nl": {
+        "hook": "De eerste planeet rond een zonachtige ster werd in 1995 ontdekt.",
+        "fact": "De astronomen Michel Mayor en Didier Queloz ontdekten 51 Pegasi b, een hete Jupiterachtige planeet in een baan om een zonachtige ster. De vondst leverde hun in 2019 de Nobelprijs voor natuurkunde op en luidde het moderne tijdperk van het exoplaneetonderzoek in."
+      },
+      "es": {
+        "hook": "El primer planeta hallado en órbita a una estrella como el Sol se descubrió en 1995.",
+        "fact": "Los astrónomos Michel Mayor y Didier Queloz descubrieron 51 Pegasi b, un planeta caliente de tipo Júpiter que orbita una estrella similar al Sol; el hallazgo les valió el Nobel de Física de 2019 e inauguró la era moderna del estudio de los exoplanetas."
+      }
+    }
   },
   {
     "id": "space-164",
@@ -3234,7 +3918,21 @@
     "fact": "The transit method — detecting the tiny drop in a star's brightness as a planet passes in front of it — has identified the majority of the more than 5,000 confirmed exoplanets to date.",
     "tags": [
       "exoplanets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plupart des exoplanètes connues ont été trouvées en guettant le clignotement des étoiles.",
+        "fact": "La méthode des transits — repérer la infime baisse de luminosité d'une étoile quand une planète passe devant elle — a permis d'identifier la majorité des plus de 5 000 exoplanètes confirmées à ce jour."
+      },
+      "nl": {
+        "hook": "De meeste bekende exoplaneten zijn gevonden door sterren te zien flikkeren.",
+        "fact": "De transitmethode — het opmerken van de minieme daling in de helderheid van een ster wanneer een planeet ervoor langs schuift — heeft het merendeel van de ruim 5.000 tot nu toe bevestigde exoplaneten opgeleverd."
+      },
+      "es": {
+        "hook": "La mayoría de los exoplanetas conocidos se hallaron vigilando el parpadeo de las estrellas.",
+        "fact": "El método del tránsito — detectar la mínima caída de brillo de una estrella cuando un planeta pasa por delante — ha identificado la mayoría de los más de 5.000 exoplanetas confirmados hasta la fecha."
+      }
+    }
   },
   {
     "id": "space-165",
@@ -3243,7 +3941,21 @@
     "fact": "Kepler-16b, discovered in 2011, orbits a binary pair of stars locked in their own mutual orbit, making it a real-world circumbinary planet with two sunsets and two sunrises.",
     "tags": [
       "exoplanets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une vraie planète tourne autour de deux soleils, exactement comme Tatooine dans Star Wars.",
+        "fact": "Kepler-16b, découverte en 2011, orbite autour d'un couple d'étoiles binaires tournant l'une autour de l'autre : c'est une véritable planète circumbinaire, avec deux couchers et deux levers de soleil."
+      },
+      "nl": {
+        "hook": "Er bestaat echt een planeet met twee zonnen, net als Tatooine uit Star Wars.",
+        "fact": "Kepler-16b, ontdekt in 2011, draait om een dubbelster waarvan de twee sterren ook om elkaar heen draaien. Daarmee is het een echte circumbinaire planeet, met twee zonsondergangen en twee zonsopgangen."
+      },
+      "es": {
+        "hook": "Existe un planeta real que orbita dos soles a la vez, como Tatooine en Star Wars.",
+        "fact": "Kepler-16b, descubierto en 2011, gira alrededor de un par de estrellas binarias que orbitan entre sí, lo que lo convierte en un auténtico planeta circumbinario con dos ocasos y dos amaneceres."
+      }
+    }
   },
   {
     "id": "space-166",
@@ -3252,7 +3964,21 @@
     "fact": "Proxima Centauri b orbits within the potentially habitable zone of Proxima Centauri, just over four light-years from Earth, making it the closest known exoplanet to our solar system.",
     "tags": [
       "exoplanets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La planète connue la plus proche hors du système solaire tourne autour de notre voisine stellaire la plus proche.",
+        "fact": "Proxima Centauri b orbite dans la zone potentiellement habitable de Proxima du Centaure, à un peu plus de quatre années-lumière de la Terre, ce qui en fait l'exoplanète connue la plus proche de notre système solaire."
+      },
+      "nl": {
+        "hook": "De dichtstbijzijnde bekende planeet buiten ons zonnestelsel draait om onze naaste buurster.",
+        "fact": "Proxima Centauri b bevindt zich in de mogelijk bewoonbare zone van Proxima Centauri, op iets meer dan vier lichtjaar van de aarde. Daarmee is het de dichtstbijzijnde bekende exoplaneet."
+      },
+      "es": {
+        "hook": "El planeta conocido más cercano fuera del sistema solar orbita nuestra estrella vecina.",
+        "fact": "Proxima Centauri b orbita dentro de la zona potencialmente habitable de Próxima Centauri, a poco más de cuatro años luz de la Tierra, lo que lo convierte en el exoplaneta conocido más próximo a nuestro sistema solar."
+      }
+    }
   },
   {
     "id": "space-167",
@@ -3261,7 +3987,21 @@
     "fact": "HD 189733 b, a hot Jupiter about 63 light-years away, has extreme winds and a hazy atmosphere thought to contain silicate particles, leading astronomers to describe conditions there as a sideways rain of glass.",
     "tags": [
       "exoplanets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Sur une planète, le vent ferait souffler du verre à l'horizontale.",
+        "fact": "HD 189733 b, une Jupiter chaude située à environ 63 années-lumière, subit des vents extrêmes et possède une atmosphère brumeuse qui contiendrait des particules de silicate : les astronomes y décrivent une pluie de verre soufflée à l'horizontale."
+      },
+      "nl": {
+        "hook": "Er is een planeet waar de wind glas horizontaal zou wegblazen.",
+        "fact": "HD 189733 b, een hete Jupiter op zo'n 63 lichtjaar afstand, kent extreme winden en een heiige atmosfeer die vermoedelijk silicaatdeeltjes bevat. Astronomen omschrijven de omstandigheden er dan ook als een zijwaartse regen van glas."
+      },
+      "es": {
+        "hook": "Hay un planeta donde el viento haría soplar el cristal de lado.",
+        "fact": "HD 189733 b, un júpiter caliente a unos 63 años luz, tiene vientos extremos y una atmósfera brumosa que se cree contiene partículas de silicato, por lo que los astrónomos describen sus condiciones como una lluvia de cristal en horizontal."
+      }
+    }
   },
   {
     "id": "space-168",
@@ -3271,7 +4011,24 @@
     "whyItMatters": "It's one of the most promising nearby systems for studying whether small rocky worlds beyond our solar system could support liquid water.",
     "tags": [
       "exoplanets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un système stellaire voisin abrite sept planètes de taille comparable à la Terre.",
+        "fact": "TRAPPIST-1, une petite naine rouge située à environ 40 années-lumière, compte sept planètes rocheuses de la taille de la Terre, dont plusieurs orbitent dans la zone habitable de l'étoile ou tout près.",
+        "whyItMatters": "C'est l'un des systèmes proches les plus prometteurs pour savoir si de petits mondes rocheux hors de notre système solaire pourraient abriter de l'eau liquide."
+      },
+      "nl": {
+        "hook": "Eén nabij sterrenstelselsysteem telt zeven ongeveer aardgrote planeten.",
+        "fact": "TRAPPIST-1, een kleine rode dwergster op zo'n 40 lichtjaar afstand, heeft zeven aardgrote rotsplaneten, waarvan er meerdere in of dicht bij de bewoonbare zone van de ster draaien.",
+        "whyItMatters": "Het is een van de meest veelbelovende nabije systemen om te onderzoeken of kleine rotsachtige werelden buiten ons zonnestelsel vloeibaar water kunnen herbergen."
+      },
+      "es": {
+        "hook": "Un sistema estelar cercano tiene siete planetas de tamaño parecido al de la Tierra.",
+        "fact": "TRAPPIST-1, una pequeña enana roja a unos 40 años luz, alberga siete planetas rocosos del tamaño de la Tierra, y varios de ellos orbitan dentro o cerca de la zona habitable de la estrella.",
+        "whyItMatters": "Es uno de los sistemas cercanos más prometedores para estudiar si mundos rocosos pequeños fuera del sistema solar podrían tener agua líquida."
+      }
+    }
   },
   {
     "id": "space-169",
@@ -3280,7 +4037,21 @@
     "fact": "Ultra-hot Jupiters orbiting extremely close to their stars can reach atmospheric temperatures over 2,000°C, hot enough to vaporize metals and strip away their outer atmospheres into long, comet-like tails.",
     "tags": [
       "exoplanets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines planètes sont si chaudes que leur atmosphère est faite de métal vaporisé.",
+        "fact": "Les Jupiter ultra-chaudes, en orbite très serrée autour de leur étoile, peuvent atteindre des températures atmosphériques supérieures à 2 000 °C — assez pour vaporiser des métaux et arracher leurs couches externes en longues traînées évoquant une comète."
+      },
+      "nl": {
+        "hook": "Sommige planeten zijn zo heet dat hun atmosfeer uit verdampt metaal bestaat.",
+        "fact": "Ultrahete Jupiters die extreem dicht om hun ster draaien, kunnen atmosferische temperaturen van meer dan 2.000 °C bereiken: heet genoeg om metalen te laten verdampen en hun buitenste atmosfeer weg te blazen in een lange, komeetachtige staart."
+      },
+      "es": {
+        "hook": "Algunos planetas están tan calientes que su atmósfera es de metal vaporizado.",
+        "fact": "Los júpiteres ultracalientes, que orbitan muy cerca de sus estrellas, pueden alcanzar temperaturas atmosféricas superiores a los 2.000 °C, suficiente para vaporizar metales y arrancarles la atmósfera exterior en largas colas parecidas a las de un cometa."
+      }
+    }
   },
   {
     "id": "space-170",
@@ -3291,7 +4062,24 @@
     "tags": [
       "exoplanets",
       "telescopes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les télescopes peuvent désormais analyser l'air de planètes situées à des années-lumière.",
+        "fact": "En analysant la façon dont la lumière d'une étoile filtre à travers l'atmosphère d'une planète lors d'un transit, des télescopes comme le James-Webb peuvent détecter des molécules précises, comme la vapeur d'eau ou le dioxyde de carbone, dans l'atmosphère des exoplanètes.",
+        "whyItMatters": "Cette technique est au cœur de la recherche de mondes potentiellement habitables, et même de biosignatures, au-delà de notre système solaire."
+      },
+      "nl": {
+        "hook": "Telescopen kunnen inmiddels aan de lucht van planeten lichtjaren verderop ruiken.",
+        "fact": "Door te analyseren hoe sterlicht tijdens een transit door de atmosfeer van een planeet filtert, kunnen telescopen zoals de James Webb-ruimtetelescoop specifieke moleculen in exoplaneetatmosferen aantonen, zoals waterdamp of koolstofdioxide.",
+        "whyItMatters": "Deze techniek staat centraal in de zoektocht naar mogelijk bewoonbare werelden en zelfs naar biosignaturen buiten ons zonnestelsel."
+      },
+      "es": {
+        "hook": "Los telescopios ya pueden oler el aire de planetas a años luz de distancia.",
+        "fact": "Al analizar cómo se filtra la luz estelar a través de la atmósfera de un planeta durante un tránsito, telescopios como el James Webb pueden detectar moléculas concretas, como vapor de agua o dióxido de carbono, en atmósferas de exoplanetas.",
+        "whyItMatters": "Esta técnica es clave en la búsqueda de mundos potencialmente habitables e incluso de biofirmas más allá del sistema solar."
+      }
+    }
   },
   {
     "id": "space-171",
@@ -3300,7 +4088,21 @@
     "fact": "A planet orbiting within the range of distances where liquid water could theoretically exist on its surface is said to be in the habitable zone, but factors like atmosphere, magnetic field, and composition also determine whether it's truly hospitable.",
     "tags": [
       "exoplanets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Être dans la « zone habitable » ne garantit pas qu'une planète soit vivable.",
+        "fact": "Une planète qui orbite dans la plage de distances où de l'eau liquide pourrait théoriquement exister en surface est dite dans la zone habitable, mais l'atmosphère, le champ magnétique ou la composition déterminent aussi si elle est réellement accueillante."
+      },
+      "nl": {
+        "hook": "In de 'bewoonbare zone' liggen betekent nog niet dat een planeet leefbaar is.",
+        "fact": "Een planeet die draait binnen het afstandsbereik waar in theorie vloeibaar water aan het oppervlak kan bestaan, ligt in de bewoonbare zone. Maar of hij echt gastvrij is, hangt ook af van factoren als atmosfeer, magnetisch veld en samenstelling."
+      },
+      "es": {
+        "hook": "Estar en la «zona habitable» no garantiza que un planeta sea habitable de verdad.",
+        "fact": "Se dice que un planeta está en la zona habitable cuando orbita dentro del rango de distancias donde podría existir agua líquida en su superficie, pero factores como la atmósfera, el campo magnético y la composición también determinan si es realmente acogedor."
+      }
+    }
   },
   {
     "id": "space-172",
@@ -3309,7 +4111,21 @@
     "fact": "Rogue planets have been ejected from their original star systems, or may have formed independently, wandering through interstellar space untethered to any sun — astronomers estimate there could be billions of them in the Milky Way alone.",
     "tags": [
       "exoplanets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines planètes errent dans l'espace sans aucune étoile à appeler leur foyer.",
+        "fact": "Les planètes errantes ont été éjectées de leur système d'origine, ou se sont peut-être formées seules, et vagabondent dans l'espace interstellaire sans être liées à aucun soleil — les astronomes estiment qu'il pourrait y en avoir des milliards rien que dans la Voie lactée."
+      },
+      "nl": {
+        "hook": "Sommige planeten dwalen door de ruimte zonder ster om thuis te noemen.",
+        "fact": "Zwerfplaneten zijn uit hun oorspronkelijke sterrenstelsel geslingerd, of misschien zelfstandig ontstaan, en dolen ongebonden door de interstellaire ruimte. Astronomen schatten dat er alleen al in de Melkweg miljarden van kunnen zijn."
+      },
+      "es": {
+        "hook": "Hay planetas que vagan por el espacio sin ninguna estrella a la que llamar hogar.",
+        "fact": "Los planetas errantes fueron expulsados de sus sistemas estelares originales, o quizá se formaron por su cuenta, y deambulan por el espacio interestelar sin estar atados a ningún sol; los astrónomos calculan que podría haber miles de millones solo en la Vía Láctea."
+      }
+    }
   },
   {
     "id": "space-173",
@@ -3319,7 +4135,21 @@
     "tags": [
       "cosmology",
       "big-bang"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'univers a environ 13,8 milliards d'années.",
+        "fact": "En mesurant le fond diffus cosmologique et le taux d'expansion de l'univers, les scientifiques ont estimé son âge à environ 13,8 milliards d'années depuis le Big Bang."
+      },
+      "nl": {
+        "hook": "Het heelal is ongeveer 13,8 miljard jaar oud.",
+        "fact": "Door de kosmische achtergrondstraling en de uitdijingssnelheid van het heelal te meten, hebben wetenschappers de leeftijd berekend op zo'n 13,8 miljard jaar sinds de oerknal."
+      },
+      "es": {
+        "hook": "El universo tiene unos 13.800 millones de años.",
+        "fact": "Midiendo el fondo cósmico de microondas y el ritmo de expansión del universo, los científicos han calculado su edad en unos 13.800 millones de años desde el Big Bang."
+      }
+    }
   },
   {
     "id": "space-174",
@@ -3329,7 +4159,21 @@
     "tags": [
       "cosmology",
       "big-bang"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Big Bang n'était pas une explosion survenue à l'intérieur de l'espace.",
+        "fact": "Plutôt qu'une matière projetée vers l'extérieur dans un vide préexistant, le Big Bang décrit l'espace lui-même qui s'étire et se dilate depuis un état extrêmement chaud et dense, éloignant les galaxies les unes des autres à mesure qu'il grandit."
+      },
+      "nl": {
+        "hook": "De oerknal was geen explosie die zich binnen de ruimte afspeelde.",
+        "fact": "In plaats van materie die naar buiten spatte in een reeds bestaande leegte, beschrijft de oerknal hoe de ruimte zelf uitrekt en uitdijt vanuit een extreem hete, dichte toestand, waarbij sterrenstelsels al groeiend uit elkaar worden gedreven."
+      },
+      "es": {
+        "hook": "El Big Bang no fue una explosión ocurrida dentro del espacio.",
+        "fact": "Más que materia lanzada hacia fuera en un vacío preexistente, el Big Bang describe cómo el propio espacio se estira y se expande desde un estado extremadamente caliente y denso, separando las galaxias a medida que crece."
+      }
+    }
   },
   {
     "id": "space-175",
@@ -3339,7 +4183,21 @@
     "tags": [
       "cosmology",
       "big-bang"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il reste de la chaleur du Big Bang, détectable dans tout le ciel.",
+        "fact": "Le fond diffus cosmologique est un faible rayonnement qui imprègne tout l'univers, libéré environ 380 000 ans après le Big Bang, lorsque le cosmos s'est assez refroidi pour que la lumière circule librement pour la première fois."
+      },
+      "nl": {
+        "hook": "Er is restwarmte van de oerknal, overal aan de hemel meetbaar.",
+        "fact": "De kosmische achtergrondstraling is zwakke straling die het hele heelal doordringt. Ze kwam zo'n 380.000 jaar na de oerknal vrij, toen de kosmos ver genoeg was afgekoeld om licht voor het eerst vrij te laten reizen."
+      },
+      "es": {
+        "hook": "Queda calor residual del Big Bang, y se detecta en todo el cielo.",
+        "fact": "El fondo cósmico de microondas es una radiación tenue que impregna todo el universo y se liberó unos 380.000 años después del Big Bang, cuando el cosmos se enfrió lo suficiente para que la luz viajara libremente por primera vez."
+      }
+    }
   },
   {
     "id": "space-176",
@@ -3349,7 +4207,21 @@
     "tags": [
       "cosmology",
       "universe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'univers observable est bien plus vaste que son âge ne le laisse penser.",
+        "fact": "Parce que l'espace lui-même s'étend depuis le Big Bang, la lumière la plus lointaine qui nous parvient aujourd'hui a quitté des galaxies désormais bien plus éloignées que 13,8 milliards d'années-lumière — ce qui donne à l'univers observable un diamètre d'environ 93 milliards d'années-lumière."
+      },
+      "nl": {
+        "hook": "Het waarneembare heelal is veel groter dan zijn leeftijd doet vermoeden.",
+        "fact": "Doordat de ruimte zelf sinds de oerknal uitdijt, komt het verste licht dat ons vandaag bereikt van sterrenstelsels die inmiddels veel verder weg staan dan 13,8 miljard lichtjaar. Daardoor heeft het waarneembare heelal een doorsnede van zo'n 93 miljard lichtjaar."
+      },
+      "es": {
+        "hook": "El universo observable es mucho más grande de lo que sugiere su edad.",
+        "fact": "Como el propio espacio lleva expandiéndose desde el Big Bang, la luz más lejana que nos llega hoy partió de galaxias que ahora están mucho más allá de los 13.800 millones de años luz, lo que da al universo observable un diámetro de unos 93.000 millones de años luz."
+      }
+    }
   },
   {
     "id": "space-177",
@@ -3359,7 +4231,21 @@
     "tags": [
       "cosmology",
       "big-bang"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Presque tout l'hydrogène et l'hélium de l'univers se sont formés en quelques minutes après le Big Bang.",
+        "fact": "Lors d'un processus appelé nucléosynthèse primordiale, les premiers éléments légers de l'univers — surtout de l'hydrogène et de l'hélium, avec des traces de lithium — se sont formés durant les vingt premières minutes environ de l'histoire cosmique."
+      },
+      "nl": {
+        "hook": "Vrijwel alle waterstof en helium in het heelal ontstond binnen minuten na de oerknal.",
+        "fact": "In een proces dat oerknalnucleosynthese heet, ontstonden de eerste lichte elementen van het heelal — vooral waterstof en helium, met sporen lithium — binnen ruwweg de eerste twintig minuten van de kosmische geschiedenis."
+      },
+      "es": {
+        "hook": "Casi todo el hidrógeno y el helio del universo se formó a los pocos minutos del Big Bang.",
+        "fact": "En un proceso llamado nucleosíntesis primordial, los primeros elementos ligeros del universo — sobre todo hidrógeno y helio, con trazas de litio — se formaron dentro de los primeros veinte minutos de la historia cósmica."
+      }
+    }
   },
   {
     "id": "space-178",
@@ -3370,7 +4256,24 @@
     "tags": [
       "cosmology",
       "hubble"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Plus une galaxie est lointaine, plus elle semble s'éloigner vite de nous.",
+        "fact": "L'observation d'Edwin Hubble selon laquelle les galaxies lointaines s'éloignent à des vitesses proportionnelles à leur distance, aujourd'hui appelée loi de Hubble, a fourni la première preuve solide de l'expansion de l'univers.",
+        "whyItMatters": "Elle a posé les bases observationnelles de tout le modèle du Big Bang sur l'origine de l'univers."
+      },
+      "nl": {
+        "hook": "Hoe verder een sterrenstelsel weg staat, hoe sneller het van ons weg lijkt te razen.",
+        "fact": "Edwin Hubbles waarneming dat verre sterrenstelsels zich verwijderen met een snelheid evenredig aan hun afstand — nu bekend als de wet van Hubble — leverde het eerste sterke bewijs dat het heelal uitdijt.",
+        "whyItMatters": "Het legde de waarnemingsbasis voor het hele oerknalmodel over het ontstaan van het heelal."
+      },
+      "es": {
+        "hook": "Cuanto más lejos está una galaxia, más rápido parece alejarse de nosotros.",
+        "fact": "La observación de Edwin Hubble de que las galaxias lejanas se alejan a velocidades proporcionales a su distancia, hoy conocida como ley de Hubble, aportó la primera prueba sólida de que el universo se expande.",
+        "whyItMatters": "Sentó las bases observacionales de todo el modelo del Big Bang sobre el origen del universo."
+      }
+    }
   },
   {
     "id": "space-179",
@@ -3379,7 +4282,21 @@
     "fact": "As the universe expands, light traveling through it gets stretched to longer, redder wavelengths — a phenomenon called redshift that astronomers use to measure how far away and how fast distant galaxies are receding.",
     "tags": [
       "cosmology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La lumière des galaxies les plus lointaines nous arrive étirée vers le rouge.",
+        "fact": "À mesure que l'univers s'étend, la lumière qui le traverse est étirée vers des longueurs d'onde plus grandes, donc plus rouges — un phénomène appelé décalage vers le rouge, que les astronomes utilisent pour mesurer la distance des galaxies lointaines et leur vitesse d'éloignement."
+      },
+      "nl": {
+        "hook": "Licht van de verste sterrenstelsels komt uitgerekt naar rodere kleuren bij ons aan.",
+        "fact": "Terwijl het heelal uitdijt, wordt licht dat er doorheen reist opgerekt naar langere, rodere golflengten. Dat verschijnsel heet roodverschuiving, en astronomen gebruiken het om te meten hoe ver verre sterrenstelsels weg staan en hoe snel ze zich verwijderen."
+      },
+      "es": {
+        "hook": "La luz de las galaxias más lejanas nos llega estirada hacia el rojo.",
+        "fact": "A medida que el universo se expande, la luz que lo atraviesa se estira hacia longitudes de onda más largas y rojizas: es el llamado corrimiento al rojo, que los astrónomos usan para medir a qué distancia están las galaxias lejanas y a qué velocidad se alejan."
+      }
+    }
   },
   {
     "id": "space-180",
@@ -3389,7 +4306,21 @@
     "tags": [
       "cosmology",
       "big-bang"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Pendant une fraction de seconde, l'univers s'est peut-être dilaté plus vite que la lumière.",
+        "fact": "La théorie de l'inflation cosmique propose que, dans l'instant qui a suivi le Big Bang, l'univers s'est dilaté de façon exponentielle — plus vite que la lumière, puisque c'était l'espace lui-même qui s'étirait et non des objets s'y déplaçant, ce que la relativité autorise."
+      },
+      "nl": {
+        "hook": "Een fractie van een seconde lang dijde het heelal mogelijk sneller uit dan het licht.",
+        "fact": "De theorie van de kosmische inflatie stelt dat het heelal vlak na de oerknal in een oogwenk exponentieel uitdijde — sneller dan de lichtsnelheid, want het was de ruimte zelf die uitrekte en niet objecten die er doorheen bewogen, en dat staat de relativiteitstheorie toe."
+      },
+      "es": {
+        "hook": "Durante una fracción de segundo, el universo pudo expandirse más rápido que la luz.",
+        "fact": "La teoría de la inflación cósmica propone que, en un instante tras el Big Bang, el universo se expandió de forma exponencial — más rápido que la velocidad de la luz, ya que era el propio espacio el que se estiraba y no objetos moviéndose por él, algo que la relatividad sí permite."
+      }
+    }
   },
   {
     "id": "space-181",
@@ -3400,7 +4331,24 @@
     "tags": [
       "cosmology",
       "dark-matter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La matière ordinaire représente moins de 5 % de l'univers.",
+        "fact": "Les modèles cosmologiques actuels estiment que l'univers est composé d'environ 68 % d'énergie noire, 27 % de matière noire et moins de 5 % de matière ordinaire — les atomes qui forment les étoiles, les planètes et tout ce qui est visible.",
+        "whyItMatters": "Cela signifie que tout ce que l'humanité a jamais vu ou touché — chaque étoile, chaque planète, chaque personne — n'est qu'une infime fraction de ce qui existe réellement."
+      },
+      "nl": {
+        "hook": "Gewone materie vormt minder dan 5% van het heelal.",
+        "fact": "Volgens de huidige kosmologische modellen bestaat het heelal voor ongeveer 68% uit donkere energie, 27% uit donkere materie en minder dan 5% uit gewone materie: de atomen waaruit sterren, planeten en al het zichtbare zijn opgebouwd.",
+        "whyItMatters": "Alles wat mensen ooit hebben gezien of aangeraakt — elke ster, planeet en persoon — is dus maar een minuscuul deel van wat er werkelijk bestaat."
+      },
+      "es": {
+        "hook": "La materia ordinaria supone menos del 5% del universo.",
+        "fact": "Los modelos cosmológicos actuales estiman que el universo es un 68% energía oscura, un 27% materia oscura y menos de un 5% materia ordinaria: los átomos que componen estrellas, planetas y todo lo visible.",
+        "whyItMatters": "Significa que todo lo que los humanos han visto o tocado — cada estrella, planeta y persona — es una fracción diminuta de lo que realmente existe."
+      }
+    }
   },
   {
     "id": "space-182",
@@ -3410,7 +4358,21 @@
     "tags": [
       "cosmology",
       "dark-matter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'univers visible n'est qu'une petite part de tout ce qui existe là-haut.",
+        "fact": "Même les galaxies brillantes que les astronomes peuvent observer pèsent infiniment moins que la matière noire et l'énergie noire invisibles : l'univers lumineux que nous voyons ne représente qu'une mince tranche du cosmos total."
+      },
+      "nl": {
+        "hook": "Het zichtbare heelal is maar een klein deel van alles wat er werkelijk is.",
+        "fact": "Zelfs de heldere sterrenstelsels die astronomen kunnen waarnemen, worden ruimschoots overtroffen door onzichtbare donkere materie en donkere energie. Het lichtgevende heelal dat we zien, is dus maar een flintertje van de totale kosmos."
+      },
+      "es": {
+        "hook": "El universo visible es una pequeña parte de todo lo que hay ahí fuera.",
+        "fact": "Incluso las galaxias brillantes que los astrónomos pueden observar quedan ampliamente superadas por la materia oscura y la energía oscura invisibles, de modo que el universo luminoso que vemos es solo una porción mínima del cosmos total."
+      }
+    }
   },
   {
     "id": "space-183",
@@ -3420,7 +4382,21 @@
     "tags": [
       "cosmology",
       "big-bang"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'univers primitif a traversé une période sans la moindre étoile.",
+        "fact": "Pendant les premières centaines de millions d'années après le Big Bang, aucune étoile ne s'était encore formée pour produire de la lumière ; les cosmologistes appellent cette période les âges sombres cosmiques, qui ont pris fin quand les premières étoiles se sont allumées."
+      },
+      "nl": {
+        "hook": "Het vroege heelal kende een periode zonder ook maar één ster.",
+        "fact": "De eerste paar honderd miljoen jaar na de oerknal waren er nog geen sterren gevormd om licht te maken. Kosmologen noemen die periode de kosmische donkere eeuwen; ze eindigde toen de eerste sterren ontbrandden."
+      },
+      "es": {
+        "hook": "El universo primitivo pasó por una etapa sin ninguna estrella.",
+        "fact": "Durante los primeros cientos de millones de años tras el Big Bang no se había formado aún ninguna estrella que produjera luz, un periodo que los cosmólogos llaman la edad oscura cósmica y que terminó cuando se encendieron las primeras estrellas."
+      }
+    }
   },
   {
     "id": "space-184",
@@ -3429,7 +4405,21 @@
     "fact": "Depending on how dark energy behaves over time, cosmologists have proposed competing fates for the universe, including a 'Big Freeze' of eternal cold expansion or a 'Big Rip' that tears galaxies, stars, and even atoms apart.",
     "tags": [
       "cosmology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les scientifiques débattent : l'univers finira-t-il dans la glace ou déchiré ?",
+        "fact": "Selon la façon dont l'énergie noire évolue avec le temps, les cosmologistes proposent des destins rivaux pour l'univers, dont un « Big Freeze » d'expansion glaciale éternelle ou un « Big Rip » qui déchirerait galaxies, étoiles et jusqu'aux atomes."
+      },
+      "nl": {
+        "hook": "Wetenschappers twisten of het heelal eindigt in ijs of in een scheur.",
+        "fact": "Afhankelijk van hoe donkere energie zich in de tijd gedraagt, hebben kosmologen concurrerende eindes voor het heelal voorgesteld, waaronder een 'Big Freeze' van eeuwige koude uitdijing of een 'Big Rip' die sterrenstelsels, sterren en zelfs atomen uiteenrijt."
+      },
+      "es": {
+        "hook": "Los científicos debaten si el universo acabará en hielo o desgarrado.",
+        "fact": "Según cómo se comporte la energía oscura con el tiempo, los cosmólogos han propuesto destinos rivales para el universo, entre ellos un «Big Freeze» de expansión fría y eterna o un «Big Rip» que desgarraría galaxias, estrellas e incluso átomos."
+      }
+    }
   },
   {
     "id": "space-185",
@@ -3438,7 +4428,21 @@
     "fact": "Despite making up about 27% of the universe's mass-energy content, dark matter has never been directly detected — its existence is inferred entirely from its gravitational effects on galaxies and light.",
     "tags": [
       "dark-matter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La matière noire n'a jamais été vue, seulement déduite.",
+        "fact": "Bien qu'elle représente environ 27 % du contenu masse-énergie de l'univers, la matière noire n'a jamais été détectée directement : son existence se déduit entièrement de ses effets gravitationnels sur les galaxies et la lumière."
+      },
+      "nl": {
+        "hook": "Donkere materie is nooit echt gezien, alleen afgeleid.",
+        "fact": "Hoewel donkere materie zo'n 27% van de massa-energie-inhoud van het heelal uitmaakt, is ze nooit rechtstreeks aangetoond: haar bestaan wordt volledig afgeleid uit haar zwaartekrachtseffecten op sterrenstelsels en licht."
+      },
+      "es": {
+        "hook": "La materia oscura nunca se ha visto, solo se ha inferido.",
+        "fact": "Pese a constituir cerca del 27% del contenido de masa-energía del universo, la materia oscura nunca se ha detectado de forma directa: su existencia se deduce por completo de sus efectos gravitatorios sobre las galaxias y la luz."
+      }
+    }
   },
   {
     "id": "space-186",
@@ -3449,7 +4453,24 @@
     "tags": [
       "dark-matter",
       "galaxies"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les galaxies tournent d'une façon impossible sans une matière invisible qui les retient.",
+        "fact": "Les étoiles situées au bord des galaxies spirales orbitent bien plus vite que la matière visible seule ne pourrait l'expliquer ; les travaux de l'astronome Vera Rubin sur ces courbes de rotation galactique, dans les années 1970, ont fourni des preuves clés de l'existence de la matière noire.",
+        "whyItMatters": "On lui attribue largement le mérite d'avoir fait passer la matière noire d'idée marginale à pilier de la cosmologie moderne."
+      },
+      "nl": {
+        "hook": "Sterrenstelsels draaien op een manier die zonder onzichtbare materie onmogelijk zou zijn.",
+        "fact": "Sterren aan de buitenrand van spiraalstelsels draaien veel sneller dan de zichtbare materie alleen kan verklaren. Het onderzoek van astronoom Vera Rubin naar deze rotatiekrommen in de jaren zeventig leverde cruciaal bewijs voor donkere materie.",
+        "whyItMatters": "Haar werk wordt algemeen gezien als de doorbraak die donkere materie van randidee tot hoeksteen van de moderne kosmologie maakte."
+      },
+      "es": {
+        "hook": "Las galaxias giran de un modo imposible sin materia invisible que las mantenga unidas.",
+        "fact": "Las estrellas del borde exterior de las galaxias espirales orbitan mucho más rápido de lo que la materia visible por sí sola podría explicar; los estudios de la astrónoma Vera Rubin sobre estas curvas de rotación galáctica en los años setenta aportaron pruebas clave de la materia oscura.",
+        "whyItMatters": "A su trabajo se le atribuye haber convertido la materia oscura de una idea marginal en un pilar de la cosmología moderna."
+      }
+    }
   },
   {
     "id": "space-187",
@@ -3459,7 +4480,21 @@
     "tags": [
       "dark-matter",
       "dark-energy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La matière noire et l'énergie noire sont deux mystères totalement différents.",
+        "fact": "La matière noire est une forme invisible de matière qui ajoute de la gravité et aide à maintenir les galaxies cohérentes, tandis que l'énergie noire est une force mystérieuse qui accélère l'expansion de l'univers — des noms voisins, des rôles opposés."
+      },
+      "nl": {
+        "hook": "Donkere materie en donkere energie zijn twee totaal verschillende raadsels.",
+        "fact": "Donkere materie is een onzichtbare vorm van materie die extra zwaartekracht levert en sterrenstelsels bijeenhoudt, terwijl donkere energie een mysterieuze kracht is die de uitdijing van het heelal versnelt — vergelijkbare namen, tegengestelde taken."
+      },
+      "es": {
+        "hook": "La materia oscura y la energía oscura son dos misterios completamente distintos.",
+        "fact": "La materia oscura es una forma invisible de materia que aporta gravedad extra y ayuda a mantener unidas las galaxias, mientras que la energía oscura es una fuerza misteriosa que acelera la expansión del universo: nombres parecidos, funciones opuestas."
+      }
+    }
   },
   {
     "id": "space-188",
@@ -3469,7 +4504,21 @@
     "tags": [
       "dark-matter",
       "cosmology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une collision d'amas de galaxies a livré l'une des meilleures preuves de la matière noire.",
+        "fact": "Dans l'amas de la Balle, deux amas de galaxies sont entrés en collision, et l'effet de lentille gravitationnelle a révélé que l'essentiel de la masse — probablement de la matière noire — avait traversé la collision séparément du gaz visible, lui bien resté au contact."
+      },
+      "nl": {
+        "hook": "Een botsing van clusters leverde astronomen een van hun beste bewijzen voor donkere materie.",
+        "fact": "In de Kogelcluster botsten twee clusters van sterrenstelsels, en zwaartekrachtlenswerking liet zien dat het grootste deel van de massa — vermoedelijk donkere materie — de botsing gescheiden van het zichtbare, botsende gas was gepasseerd."
+      },
+      "es": {
+        "hook": "El choque de dos cúmulos de galaxias dio una de las mejores pruebas de la materia oscura.",
+        "fact": "En el Cúmulo Bala chocaron dos cúmulos de galaxias, y las lentes gravitacionales revelaron que la mayor parte de la masa — presumiblemente materia oscura — había atravesado la colisión por separado del gas visible que sí colisionó."
+      }
+    }
   },
   {
     "id": "space-189",
@@ -3480,7 +4529,24 @@
     "tags": [
       "dark-energy",
       "astronomy-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Einstein a qualifié une idée de sa « plus grande erreur » — elle préfigurait peut-être l'énergie noire.",
+        "fact": "Einstein avait ajouté une « constante cosmologique » à ses équations pour maintenir l'univers statique, puis l'a abandonnée comme une erreur quand Hubble a montré que l'univers était en expansion — mais une constante très semblable sert aujourd'hui à modéliser l'effet de l'énergie noire.",
+        "whyItMatters": "Un concept qu'Einstein avait jeté comme une bévue ressemble étrangement à l'une des plus grandes questions ouvertes de la physique moderne."
+      },
+      "nl": {
+        "hook": "Einstein noemde een idee zijn 'grootste blunder' — het liep mogelijk vooruit op donkere energie.",
+        "fact": "Einstein voegde een 'kosmologische constante' aan zijn vergelijkingen toe om het heelal statisch te houden, en liet die als vergissing vallen toen Hubble aantoonde dat het heelal uitdijt. Toch wordt een zeer vergelijkbare constante nu gebruikt om het effect van donkere energie te modelleren.",
+        "whyItMatters": "Een idee dat Einstein als fout weggooide, blijkt sterk te lijken op een van de grootste openstaande vragen in de moderne natuurkunde."
+      },
+      "es": {
+        "hook": "Einstein llamó a una idea su «mayor error»; quizá anticipaba la energía oscura.",
+        "fact": "Einstein añadió una «constante cosmológica» a sus ecuaciones para mantener estático el universo y luego la descartó como un fallo cuando Hubble demostró que el universo se expandía, pero hoy se usa una constante muy similar para modelar el efecto de la energía oscura.",
+        "whyItMatters": "Un concepto que Einstein desechó por erróneo acabó pareciéndose mucho a una de las mayores incógnitas de la física moderna."
+      }
+    }
   },
   {
     "id": "space-190",
@@ -3490,7 +4556,21 @@
     "tags": [
       "dark-energy",
       "cosmology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le terme « énergie noire » n'a que quelques décennies.",
+        "fact": "Le cosmologiste Michael Turner a forgé l'expression « énergie noire » en 1998 pour décrire la force mystérieuse à l'origine de l'accélération de l'expansion de l'univers, en faisant délibérément écho au terme déjà établi de « matière noire »."
+      },
+      "nl": {
+        "hook": "De term 'donkere energie' bestaat pas een paar decennia.",
+        "fact": "Kosmoloog Michael Turner bedacht de term 'donkere energie' in 1998 voor de mysterieuze kracht achter de versnellende uitdijing van het heelal, als bewuste knipoog naar de al gangbare term 'donkere materie'."
+      },
+      "es": {
+        "hook": "El término «energía oscura» solo tiene unas décadas.",
+        "fact": "El cosmólogo Michael Turner acuñó el término «energía oscura» en 1998 para describir la misteriosa fuerza detrás de la expansión acelerada del universo, haciendo eco deliberado del ya asentado término «materia oscura»."
+      }
+    }
   },
   {
     "id": "space-191",
@@ -3499,7 +4579,21 @@
     "fact": "Unlike the Hubble Space Telescope, which mainly observes visible and ultraviolet light, JWST is optimized to detect infrared light, letting it peer through dust clouds and see some of the earliest, most distant galaxies.",
     "tags": [
       "telescopes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le télescope James-Webb voit l'univers dans une tout autre lumière que Hubble.",
+        "fact": "Contrairement au télescope spatial Hubble, qui observe surtout la lumière visible et ultraviolette, le JWST est optimisé pour détecter l'infrarouge, ce qui lui permet de percer les nuages de poussière et d'observer certaines des galaxies les plus anciennes et les plus lointaines."
+      },
+      "nl": {
+        "hook": "De James Webb-ruimtetelescoop ziet het heelal in een totaal ander soort licht dan Hubble.",
+        "fact": "Anders dan de Hubble-ruimtetelescoop, die vooral zichtbaar en ultraviolet licht waarneemt, is JWST geoptimaliseerd voor infrarood licht. Daardoor kan hij door stofwolken heen kijken en enkele van de vroegste, verste sterrenstelsels zien."
+      },
+      "es": {
+        "hook": "El telescopio James Webb ve el universo con un tipo de luz muy distinto al del Hubble.",
+        "fact": "A diferencia del telescopio espacial Hubble, que observa sobre todo luz visible y ultravioleta, el JWST está optimizado para detectar luz infrarroja, lo que le permite atravesar nubes de polvo y ver algunas de las galaxias más antiguas y lejanas."
+      }
+    }
   },
   {
     "id": "space-192",
@@ -3509,7 +4603,21 @@
     "tags": [
       "pulsars",
       "astronomy-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les pulsars ont été découverts par hasard par une doctorante qui dépouillait des données.",
+        "fact": "En 1967, l'astronome Jocelyn Bell Burnell a remarqué une étrange impulsion radio d'une régularité parfaite en analysant des données de télescope pour sa thèse ; le signal s'est révélé être le tout premier pulsar détecté — une étoile à neutrons en rotation rapide."
+      },
+      "nl": {
+        "hook": "Pulsars werden bij toeval ontdekt door een promovenda die data uitploos.",
+        "fact": "In 1967 viel astronoom Jocelyn Bell Burnell een vreemde, exact regelmatige radiopuls op tijdens het analyseren van telescoopgegevens voor haar promotieonderzoek. Het signaal bleek de eerste ooit waargenomen pulsar te zijn: een snel roterende neutronenster."
+      },
+      "es": {
+        "hook": "Los púlsares se descubrieron por casualidad, gracias a una doctoranda que revisaba datos.",
+        "fact": "En 1967, la astrónoma Jocelyn Bell Burnell detectó un extraño pulso de radio de regularidad exacta mientras analizaba datos de telescopio para su doctorado; la señal resultó ser el primer púlsar jamás detectado, una estrella de neutrones en rotación rápida."
+      }
+    }
   },
   {
     "id": "space-193",
@@ -3519,7 +4627,21 @@
     "tags": [
       "telescopes",
       "gravitational-waves"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains observatoires détectent la gravité elle-même plutôt que la lumière.",
+        "fact": "Les observatoires d'ondes gravitationnelles comme LIGO et Virgo n'utilisent pas du tout la lumière : ils détectent des déformations infinitésimales de l'espace-temps provoquées par des événements cataclysmiques, comme la collision de trous noirs ou d'étoiles à neutrons."
+      },
+      "nl": {
+        "hook": "Sommige observatoria meten de zwaartekracht zelf in plaats van licht.",
+        "fact": "Zwaartekrachtgolfobservatoria als LIGO en Virgo gebruiken helemaal geen licht: ze meten oneindig kleine vervormingen van de ruimtetijd die worden veroorzaakt door catastrofale gebeurtenissen, zoals botsende zwarte gaten of neutronensterren."
+      },
+      "es": {
+        "hook": "Algunos observatorios detectan la gravedad misma en lugar de la luz.",
+        "fact": "Observatorios de ondas gravitacionales como LIGO y Virgo no usan luz en absoluto: detectan distorsiones infinitesimales del espacio-tiempo causadas por sucesos cataclísmicos, como la colisión de agujeros negros o de estrellas de neutrones."
+      }
+    }
   },
   {
     "id": "space-194",
@@ -3528,7 +4650,21 @@
     "fact": "A technique called very-long-baseline interferometry links radio observatories across the globe so they function together as a single telescope, with resolution sharp enough to image a black hole's shadow.",
     "tags": [
       "telescopes"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les astronomes ont relié des radiotélescopes du monde entier pour créer un télescope grand comme la Terre.",
+        "fact": "Une technique appelée interférométrie à très longue base relie des observatoires radio répartis sur tout le globe pour qu'ils fonctionnent comme un seul télescope, avec une résolution assez fine pour photographier l'ombre d'un trou noir."
+      },
+      "nl": {
+        "hook": "Astronomen koppelden radiotelescopen wereldwijd tot één telescoop zo groot als de aarde.",
+        "fact": "Een techniek die zeer-lange-basislijninterferometrie heet, verbindt radio-observatoria over de hele wereld zodat ze samen als één telescoop werken, met een resolutie scherp genoeg om de schaduw van een zwart gat af te beelden."
+      },
+      "es": {
+        "hook": "Los astrónomos enlazaron radiotelescopios de todo el mundo para crear uno del tamaño de la Tierra.",
+        "fact": "Una técnica llamada interferometría de línea de base muy larga conecta observatorios de radio repartidos por el planeta para que funcionen como un único telescopio, con una resolución lo bastante nítida como para fotografiar la sombra de un agujero negro."
+      }
+    }
   },
   {
     "id": "space-195",
@@ -3537,7 +4673,21 @@
     "fact": "Gamma-ray bursts can release more energy in seconds than the Sun will emit over its entire lifetime, and are thought to originate from the collapse of massive stars or the collision of neutron stars.",
     "tags": [
       "gamma-ray-bursts"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les sursauts gamma sont les explosions les plus puissantes observées depuis le Big Bang.",
+        "fact": "Les sursauts gamma peuvent libérer en quelques secondes plus d'énergie que le Soleil n'en émettra durant toute son existence ; on pense qu'ils proviennent de l'effondrement d'étoiles massives ou de la collision d'étoiles à neutrons."
+      },
+      "nl": {
+        "hook": "Gammaflitsen zijn de krachtigste explosies die sinds de oerknal zijn waargenomen.",
+        "fact": "Gammaflitsen kunnen in enkele seconden meer energie vrijmaken dan de zon in haar hele bestaan zal uitstralen. Vermoedelijk ontstaan ze bij het ineenstorten van zware sterren of bij de botsing van neutronensterren."
+      },
+      "es": {
+        "hook": "Los estallidos de rayos gamma son las explosiones más potentes vistas desde el Big Bang.",
+        "fact": "Los estallidos de rayos gamma pueden liberar en segundos más energía de la que el Sol emitirá en toda su vida, y se cree que se originan en el colapso de estrellas masivas o en la colisión de estrellas de neutrones."
+      }
+    }
   },
   {
     "id": "space-196",
@@ -3547,7 +4697,21 @@
     "tags": [
       "telescopes",
       "astronomy-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le lancement du télescope spatial Hubble a failli tourner à l'humiliation à cause d'un minuscule défaut de fabrication.",
+        "fact": "Lorsque Hubble a été lancé en 1990, son miroir primaire présentait un défaut équivalant à une fraction de l'épaisseur d'un cheveu, qui rendait ses images floues, jusqu'à ce qu'une sortie extravéhiculaire en 1993 permette d'installer une optique correctrice."
+      },
+      "nl": {
+        "hook": "De lancering van de Hubble-ruimtetelescoop liep bijna uit op een blamage door een piepklein fabricagefoutje.",
+        "fact": "Toen Hubble in 1990 werd gelanceerd, had de primaire spiegel een afwijking van slechts een fractie van de dikte van een mensenhaar. Daardoor waren de beelden wazig, tot astronauten tijdens een ruimtewandeling in 1993 corrigerende optiek installeerden."
+      },
+      "es": {
+        "hook": "El lanzamiento del telescopio espacial Hubble estuvo a punto de acabar en bochorno por un diminuto defecto de fabricación.",
+        "fact": "Cuando el Hubble se lanzó en 1990, su espejo primario tenía un defecto de apenas una fracción del grosor de un cabello humano que emborronaba sus imágenes, hasta que en 1993 una misión de paseo espacial instaló una óptica correctora."
+      }
+    }
   },
   {
     "id": "space-197",
@@ -3557,7 +4721,21 @@
     "tags": [
       "telescopes",
       "universe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'une des images les plus célèbres de l'astronomie est née d'un coin de ciel qui semblait vide.",
+        "fact": "Le champ profond de Hubble et ses successeurs ont été obtenus en pointant le télescope pendant plus de cent heures vers une zone du ciel qui paraissait totalement vide, révélant des milliers de galaxies lointaines jusque-là invisibles."
+      },
+      "nl": {
+        "hook": "Een van de beroemdste beelden uit de astronomie ontstond door naar een schijnbaar leeg stukje hemel te staren.",
+        "fact": "Het Hubble Deep Field en zijn opvolgers kwamen tot stand door de telescoop ruim honderd uur lang te richten op een stukje hemel dat er volkomen leeg uitzag. Daarop verschenen duizenden nooit eerder geziene verre sterrenstelsels."
+      },
+      "es": {
+        "hook": "Una de las imágenes más famosas de la astronomía salió de mirar fijamente un cielo aparentemente vacío.",
+        "fact": "El Campo Profundo del Hubble y sus sucesores se obtuvieron apuntando el telescopio durante más de cien horas hacia una porción de cielo que parecía completamente vacía, lo que reveló miles de galaxias lejanas nunca antes vistas."
+      }
+    }
   },
   {
     "id": "space-198",
@@ -3566,7 +4744,21 @@
     "fact": "Researchers have proposed several possible identities for dark matter, including WIMPs (weakly interacting massive particles) and MACHOs (massive compact halo objects), though its true nature remains unconfirmed.",
     "tags": [
       "dark-matter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les physiciens ont donné aux candidats à la matière noire des noms dignes d'un rayon d'électroménager.",
+        "fact": "Les chercheurs ont proposé plusieurs identités possibles pour la matière noire, notamment les WIMPs (particules massives interagissant faiblement) et les MACHOs (objets massifs compacts de halo), même si sa véritable nature reste à confirmer."
+      },
+      "nl": {
+        "hook": "Natuurkundigen bedachten voor kandidaten voor donkere materie namen die klinken als huishoudapparaten.",
+        "fact": "Onderzoekers hebben verschillende mogelijke identiteiten voor donkere materie voorgesteld, waaronder WIMPs (zwak wisselwerkende massieve deeltjes) en MACHO's (massieve compacte halo-objecten), al is de ware aard ervan nog altijd niet bevestigd."
+      },
+      "es": {
+        "hook": "Los físicos han inventado nombres para los candidatos a materia oscura que suenan a electrodomésticos.",
+        "fact": "Los investigadores han propuesto varias identidades posibles para la materia oscura, entre ellas los WIMP (partículas masivas de interacción débil) y los MACHO (objetos masivos compactos de halo), aunque su verdadera naturaleza sigue sin confirmarse."
+      }
+    }
   },
   {
     "id": "space-199",
@@ -3576,7 +4768,21 @@
     "tags": [
       "stars",
       "astronomical-distances"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines étoiles battent comme un cœur, et ce rythme trahit leur véritable éclat.",
+        "fact": "Les céphéides s'éclaircissent et s'assombrissent régulièrement selon un rythme directement lié à leur luminosité réelle, ce qui permet aux astronomes de s'en servir comme « chandelles standard » fiables pour mesurer les distances dans la Galaxie et au-delà."
+      },
+      "nl": {
+        "hook": "Sommige sterren kloppen als een hart, en dat ritme verraadt hoe helder ze echt zijn.",
+        "fact": "Cepheïden worden regelmatig helderder en weer zwakker volgens een patroon dat rechtstreeks samenhangt met hun werkelijke lichtkracht. Daardoor kunnen astronomen ze gebruiken als betrouwbare 'standaardkaarsen' om afstanden binnen en buiten ons melkwegstelsel te meten."
+      },
+      "es": {
+        "hook": "Algunas estrellas laten como un corazón, y ese ritmo revela su brillo real.",
+        "fact": "Las estrellas variables cefeidas se iluminan y se atenúan con regularidad siguiendo un patrón ligado directamente a su luminosidad real, lo que permite a los astrónomos usarlas como fiables «candelas estándar» para medir distancias dentro de la galaxia y más allá."
+      }
+    }
   },
   {
     "id": "space-200",
@@ -3586,6 +4792,20 @@
     "tags": [
       "moon",
       "measurement"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Lune s'éloigne de la Terre de la largeur d'un ongle chaque année.",
+        "fact": "La Lune s'écarte de la Terre d'environ 3,8 centimètres par an, un rythme mesuré avec précision grâce aux réflecteurs laser déposés sur le sol lunaire par les astronautes d'Apollo."
+      },
+      "nl": {
+        "hook": "De maan drijft elk jaar ongeveer een nagelbreedte verder bij de aarde vandaan.",
+        "fact": "De maan beweegt jaarlijks zo'n 3,8 centimeter verder van de aarde af, een tempo dat nauwkeurig wordt gemeten met laserreflectoren die Apollo-astronauten op het maanoppervlak achterlieten."
+      },
+      "es": {
+        "hook": "La Luna se aleja de la Tierra el ancho de una uña cada año.",
+        "fact": "La Luna se aleja de la Tierra unos 3,8 centímetros al año, un ritmo medido con precisión gracias a los reflectores láser que los astronautas del Apolo dejaron en la superficie lunar."
+      }
+    }
   }
 ]

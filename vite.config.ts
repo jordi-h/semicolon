@@ -10,6 +10,13 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon-16.png', 'favicon-32.png', 'apple-touch-icon.png'],
+      workbox: {
+        // The bundled seed dataset (see local-facts-fallback below) is
+        // only ever loaded when Supabase isn't configured — i.e. local
+        // dev. Precaching ~2 MB that production clients never request
+        // would just bloat every install, so it's excluded.
+        globIgnores: ['**/local-facts-fallback-*.js'],
+      },
       manifest: {
         name: 'semicolon',
         short_name: 'semicolon',
@@ -41,6 +48,17 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
+    },
+  },
+  build: {
+    rollupOptions: {
+      output: {
+        // Pin the lazily-imported seed dataset to a predictable chunk
+        // name so the service worker can exclude it by glob above.
+        manualChunks(id) {
+          if (id.includes('src/data/facts')) return 'local-facts-fallback'
+        },
+      },
     },
   },
 })

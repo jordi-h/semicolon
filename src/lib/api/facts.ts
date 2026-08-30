@@ -1,6 +1,18 @@
-import { allFacts } from '@/data/facts'
 import { isSupabaseConfigured, supabase } from '@/lib/supabaseClient'
 import type { Domain, Fact, Locale } from '@/lib/types'
+
+/**
+ * The bundled seed dataset, loaded lazily and only in the no-Supabase
+ * local-dev fallback. It's ~2.8 MB with every locale's translations —
+ * far too big to ship to production clients, which always read facts
+ * from Supabase instead. A dynamic import keeps it in its own chunk
+ * that real users never download (and keeps the main bundle under
+ * Workbox's precache limit).
+ */
+async function loadLocalFacts(): Promise<Fact[]> {
+  const { allFacts } = await import('@/data/facts')
+  return allFacts
+}
 
 interface FactRow {
   id: string
@@ -77,6 +89,7 @@ export async function fetchFactsByDomains(domains: Domain[], locale: Locale): Pr
   if (domains.length === 0) return []
 
   if (!isSupabaseConfigured) {
+    const allFacts = await loadLocalFacts()
     return allFacts.filter((f) => domains.includes(f.domain)).map((f) => localizeFact(f, locale))
   }
 
@@ -89,6 +102,7 @@ export async function fetchFactsByIds(ids: string[], locale: Locale): Promise<Fa
   if (ids.length === 0) return []
 
   if (!isSupabaseConfigured) {
+    const allFacts = await loadLocalFacts()
     const idSet = new Set(ids)
     return allFacts.filter((f) => idSet.has(f.id)).map((f) => localizeFact(f, locale))
   }

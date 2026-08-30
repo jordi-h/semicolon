@@ -2820,7 +2820,21 @@
     "tags": [
       "social-movements",
       "suffrage"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Nouvelle-Zélande fut le premier pays autonome où les femmes ont pu voter aux élections nationales.",
+        "fact": "En 1893, la Nouvelle-Zélande a accordé à toutes les femmes le droit de vote aux élections parlementaires, des décennies avant la plupart des pays occidentaux."
+      },
+      "nl": {
+        "hook": "Nieuw-Zeeland was het eerste zelfbesturende land waar vrouwen bij nationale verkiezingen mochten stemmen.",
+        "fact": "In 1893 gaf Nieuw-Zeeland alle vrouwen het stemrecht bij parlementsverkiezingen, decennia voordat de meeste westerse landen volgden."
+      },
+      "es": {
+        "hook": "Nueva Zelanda fue el primer país autónomo donde las mujeres pudieron votar en elecciones nacionales.",
+        "fact": "En 1893, Nueva Zelanda concedió a todas las mujeres el derecho a votar en las elecciones parlamentarias, décadas antes de que lo hicieran la mayoría de los países occidentales."
+      }
+    }
   },
   {
     "id": "culture-117",
@@ -2831,7 +2845,21 @@
       "social-movements",
       "suffrage",
       "uk"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le slogan des suffragettes était « Des actes, pas des mots ».",
+        "fact": "Emmeline Pankhurst fonde en 1903 la Women's Social and Political Union, dont les membres les plus radicales mènent grèves de la faim, campagnes de bris de vitrines et incendies volontaires pour obtenir le droit de vote des femmes britanniques."
+      },
+      "nl": {
+        "hook": "De leus van de suffragettes was 'Daden, geen woorden'.",
+        "fact": "Emmeline Pankhurst richtte in 1903 de Women's Social and Political Union op. De militante leden voerden hongerstakingen, sloegen etalageruiten in en stichtten brand om het vrouwenkiesrecht in Groot-Brittannië af te dwingen."
+      },
+      "es": {
+        "hook": "El lema de las sufragistas era 'Hechos, no palabras'.",
+        "fact": "Emmeline Pankhurst fundó la Unión Social y Política de las Mujeres en 1903, y sus miembros más combativas recurrieron a huelgas de hambre, campañas de rotura de escaparates e incendios provocados para exigir el voto femenino en el Reino Unido."
+      }
+    }
   },
   {
     "id": "culture-118",
@@ -2842,7 +2870,21 @@
       "social-movements",
       "suffrage",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Américaines n'ont obtenu un droit de vote constitutionnel qu'en 1920.",
+        "fact": "Le 19e amendement, ratifié en août 1920 après plus de 70 ans de mobilisation, a interdit de refuser le droit de vote en raison du sexe — même si de nombreuses femmes racisées ont continué à se heurter à des obstacles pendant des décennies."
+      },
+      "nl": {
+        "hook": "Amerikaanse vrouwen kregen pas in 1920 grondwettelijk stemrecht.",
+        "fact": "Het negentiende amendement, in augustus 1920 bekrachtigd na ruim 70 jaar actievoeren, verbood het weigeren van stemrecht op grond van geslacht — al stuitten veel vrouwen van kleur nog decennialang op drempels bij de stembus."
+      },
+      "es": {
+        "hook": "Las estadounidenses no lograron el derecho constitucional al voto hasta 1920.",
+        "fact": "La Decimonovena Enmienda, ratificada en agosto de 1920 tras más de 70 años de organización, prohibió negar el voto por razón de sexo, aunque muchas mujeres racializadas siguieron enfrentándose a barreras electorales durante décadas."
+      }
+    }
   },
   {
     "id": "culture-119",
@@ -2852,7 +2894,21 @@
     "tags": [
       "civil-rights",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le boycott des bus de Montgomery a duré plus d'un an.",
+        "fact": "Après l'arrestation de Rosa Parks en décembre 1955 pour avoir refusé de céder sa place dans un bus, les habitants noirs de Montgomery, en Alabama, ont boycotté les bus de la ville pendant 381 jours, jusqu'à ce que la ségrégation des places soit jugée inconstitutionnelle."
+      },
+      "nl": {
+        "hook": "De busboycot van Montgomery duurde meer dan een jaar.",
+        "fact": "Nadat Rosa Parks in december 1955 was gearresteerd omdat ze haar zitplaats in de bus niet wilde afstaan, boycotten de zwarte inwoners van Montgomery, Alabama, 381 dagen lang de stadsbussen, totdat gescheiden zitplaatsen ongrondwettig werden verklaard."
+      },
+      "es": {
+        "hook": "El boicot de autobuses de Montgomery duró más de un año.",
+        "fact": "Tras la detención de Rosa Parks en diciembre de 1955 por negarse a ceder su asiento en el autobús, los vecinos negros de Montgomery (Alabama) boicotearon los autobuses municipales durante 381 días, hasta que la segregación de asientos fue declarada inconstitucional."
+      }
+    }
   },
   {
     "id": "culture-120",
@@ -2862,7 +2918,21 @@
     "tags": [
       "civil-rights",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un quart de million de personnes sont venues écouter Martin Luther King Jr. en 1963.",
+        "fact": "La Marche sur Washington pour l'emploi et la liberté a rassemblé environ 250 000 personnes sur le National Mall, où King a prononcé son discours « I Have a Dream », plaidant pour les droits civiques et économiques."
+      },
+      "nl": {
+        "hook": "Een kwart miljoen mensen kwam in 1963 luisteren naar Martin Luther King Jr.",
+        "fact": "De Mars op Washington voor werk en vrijheid trok ongeveer 250.000 mensen naar de National Mall, waar King zijn 'I Have a Dream'-toespraak hield met een pleidooi voor burgerrechten en economische rechten."
+      },
+      "es": {
+        "hook": "Un cuarto de millón de personas se reunió para escuchar a Martin Luther King Jr. en 1963.",
+        "fact": "La Marcha sobre Washington por el Trabajo y la Libertad congregó a unas 250.000 personas en el National Mall, donde King pronunció su discurso 'I Have a Dream' en defensa de los derechos civiles y económicos."
+      }
+    }
   },
   {
     "id": "culture-121",
@@ -2873,7 +2943,24 @@
     "tags": [
       "lgbtq-rights",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première marche des fiertés a eu lieu un an jour pour jour après les émeutes de Stonewall.",
+        "fact": "Les descentes de police au Stonewall Inn de New York en juin 1969 ont déclenché plusieurs jours de résistance de la part de la clientèle LGBTQ+ ; pour le premier anniversaire, en 1970, des militants ont organisé ce que l'on considère comme la première marche des fiertés.",
+        "whyItMatters": "Des événements Pride sont aujourd'hui organisés chaque année dans des villes du monde entier, faisant de Stonewall l'une des nuits les plus déterminantes de l'histoire LGBTQ+."
+      },
+      "nl": {
+        "hook": "De eerste Pride-mars vond precies een jaar na de Stonewall-rellen plaats.",
+        "fact": "Politie-invallen in de New Yorkse Stonewall Inn in juni 1969 leidden tot dagen van verzet door de LHBTQ+-bezoekers; op de eerste verjaardag in 1970 organiseerden activisten wat geldt als de allereerste Pride-mars.",
+        "whyItMatters": "Pride-evenementen worden nu jaarlijks in steden over de hele wereld gehouden, waarmee Stonewall een van de meest bepalende nachten uit de LHBTQ+-geschiedenis is."
+      },
+      "es": {
+        "hook": "La primera marcha del Orgullo se celebró justo un año después de los disturbios de Stonewall.",
+        "fact": "Las redadas policiales en el Stonewall Inn de Nueva York, en junio de 1969, desataron días de resistencia por parte de su clientela LGBTQ+; en el primer aniversario, en 1970, un grupo de activistas organizó lo que se considera la primera marcha del Orgullo.",
+        "whyItMatters": "Hoy se celebran marchas del Orgullo cada año en ciudades de todo el mundo, lo que convierte a Stonewall en una de las noches más decisivas de la historia LGBTQ+."
+      }
+    }
   },
   {
     "id": "culture-122",
@@ -2883,7 +2970,21 @@
     "tags": [
       "social-movements",
       "south-africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des lycéens sud-africains ont risqué leur vie contre une politique linguistique.",
+        "fact": "Le 16 juin 1976, des milliers d'élèves noirs de Soweto ont manifesté contre une directive gouvernementale imposant l'enseignement en afrikaans ; la police a ouvert le feu, tuant des élèves, et cette journée est devenue un tournant dans la lutte contre l'apartheid."
+      },
+      "nl": {
+        "hook": "Zuid-Afrikaanse scholieren riskeerden hun leven vanwege een taalbeleid.",
+        "fact": "Op 16 juni 1976 demonstreerden duizenden zwarte scholieren in Soweto tegen een overheidsbesluit dat onderwijs in het Afrikaans verplicht stelde; de politie opende het vuur en doodde leerlingen. Die dag werd een keerpunt in de strijd tegen de apartheid."
+      },
+      "es": {
+        "hook": "Estudiantes sudafricanos se jugaron la vida por una política lingüística.",
+        "fact": "El 16 de junio de 1976, miles de estudiantes negros de Soweto se manifestaron contra una orden gubernamental que imponía la enseñanza en afrikáans; la policía abrió fuego y mató a varios estudiantes, y aquel día se convirtió en un punto de inflexión en la lucha contra el apartheid."
+      }
+    }
   },
   {
     "id": "culture-123",
@@ -2893,7 +2994,21 @@
     "tags": [
       "social-movements",
       "czechoslovakia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le régime communiste tchécoslovaque est tombé en quelques semaines.",
+        "fact": "Les manifestations massives menées par les étudiants en novembre et décembre 1989 — plus tard appelées la Révolution de velours — ont mis fin à plus de quatre décennies de parti unique sans faire un seul mort, et le dramaturge Václav Havel est devenu président en quelques semaines."
+      },
+      "nl": {
+        "hook": "De communistische regering van Tsjechoslowakije viel in een paar weken.",
+        "fact": "Massale, door studenten geleide protesten in november en december 1989 — later de Fluwelen Revolutie genoemd — maakten zonder één dode een einde aan ruim vier decennia eenpartijbewind, en toneelschrijver Václav Havel werd binnen enkele weken president."
+      },
+      "es": {
+        "hook": "El gobierno comunista de Checoslovaquia cayó en cuestión de semanas.",
+        "fact": "Las multitudinarias protestas estudiantiles de noviembre y diciembre de 1989 — más tarde llamadas la Revolución de Terciopelo — pusieron fin a más de cuatro décadas de partido único sin una sola víctima mortal, y el dramaturgo Václav Havel llegó a la presidencia en pocas semanas."
+      }
+    }
   },
   {
     "id": "culture-124",
@@ -2903,7 +3018,21 @@
     "tags": [
       "labor",
       "poland"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une grève sur un chantier naval a donné naissance au premier syndicat libre du bloc soviétique.",
+        "fact": "Les ouvriers du chantier naval de Gdańsk, en Pologne, se sont mis en grève en 1980 et ont fondé Solidarność sous la houlette de l'électricien Lech Wałęsa — un mouvement qui a contribué à précipiter l'effondrement du régime communiste en Europe de l'Est."
+      },
+      "nl": {
+        "hook": "Een staking op een scheepswerf leverde de eerste onafhankelijke vakbond van het Oostblok op.",
+        "fact": "Arbeiders van de scheepswerf in het Poolse Gdańsk legden in 1980 het werk neer en richtten onder leiding van elektricien Lech Wałęsa Solidarność op — een beweging die mede de uiteindelijke ineenstorting van het communisme in Oost-Europa in gang zette."
+      },
+      "es": {
+        "hook": "Una huelga en un astillero dio lugar al primer sindicato independiente del bloque soviético.",
+        "fact": "Los trabajadores del astillero de Gdansk, en Polonia, se declararon en huelga en 1980 y fundaron Solidaridad bajo el liderazgo del electricista Lech Walesa, un movimiento que contribuyó a desencadenar el desplome final del régimen comunista en Europa del Este."
+      }
+    }
   },
   {
     "id": "culture-125",
@@ -2913,7 +3042,21 @@
     "tags": [
       "social-movements",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Gandhi a parcouru près de 390 kilomètres à pied pour une question de sel.",
+        "fact": "En 1930, Mohandas Gandhi a mené une marche de 24 jours jusqu'au village côtier de Dandi pour y produire illégalement du sel, défiant une taxe coloniale britannique et déclenchant une vaste campagne de désobéissance civile à travers l'Inde."
+      },
+      "nl": {
+        "hook": "Gandhi liep zo'n 390 kilometer om een politiek punt te maken over zout.",
+        "fact": "In 1930 leidde Mohandas Gandhi een tocht van 24 dagen naar het kustdorp Dandi om daar illegaal zout te winnen. Daarmee tartte hij een Britse koloniale belasting en ontketende hij een massale campagne van burgerlijke ongehoorzaamheid in heel India."
+      },
+      "es": {
+        "hook": "Gandhi caminó unos 390 kilómetros para hacer una reivindicación política sobre la sal.",
+        "fact": "En 1930, Mohandas Gandhi encabezó una marcha de 24 días hasta la aldea costera de Dandi para producir sal de forma ilegal, desafiando un impuesto colonial británico y encendiendo una campaña masiva de desobediencia civil en toda la India."
+      }
+    }
   },
   {
     "id": "culture-126",
@@ -2923,7 +3066,21 @@
     "tags": [
       "protest",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines des plus grandes manifestations contre la guerre du Vietnam ont eu lieu sur les campus américains.",
+        "fact": "L'opposition à la conscription et à la guerre du Vietnam a nourri sit-in, autodafés de fiches d'incorporation et grandes marches à la fin des années 1960 ; en 1970, la Garde nationale a tué quatre étudiants lors d'une manifestation à l'université de Kent State."
+      },
+      "nl": {
+        "hook": "Enkele van de grootste protesten tegen de Vietnamoorlog vonden plaats op Amerikaanse universiteiten.",
+        "fact": "Verzet tegen de dienstplicht en de Vietnamoorlog leidde eind jaren zestig tot sit-ins, het verbranden van oproepkaarten en massale marsen; in 1970 doodden militairen van de Nationale Garde vier studenten tijdens een protest aan Kent State University."
+      },
+      "es": {
+        "hook": "Algunas de las mayores protestas contra la guerra de Vietnam ocurrieron en campus universitarios de EE. UU.",
+        "fact": "El rechazo al reclutamiento y a la guerra de Vietnam alimentó sentadas, quemas de cartillas militares y marchas multitudinarias a finales de los sesenta; en 1970, la Guardia Nacional mató a cuatro estudiantes durante una protesta en la Universidad de Kent State."
+      }
+    }
   },
   {
     "id": "culture-127",
@@ -2934,7 +3091,21 @@
       "lgbtq-rights",
       "activism",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Le silence = la mort » est devenu un cri de ralliement pendant la crise du sida.",
+        "fact": "Fondé à New York en 1987, le groupe militant ACT UP a eu recours à des actions directes et à des slogans provocateurs pour exiger une accélération de l'autorisation des traitements et une réaction des pouvoirs publics face à l'épidémie de sida."
+      },
+      "nl": {
+        "hook": "'Silence = Death' werd een strijdkreet tijdens de aidscrisis.",
+        "fact": "De in 1987 in New York opgerichte actiegroep ACT UP zette directe actie en provocerende leuzen in om snellere goedkeuring van medicijnen en overheidsoptreden tegen de aidsepidemie te eisen."
+      },
+      "es": {
+        "hook": "'Silencio = Muerte' se convirtió en el grito de guerra de la crisis del sida.",
+        "fact": "Fundado en Nueva York en 1987, el grupo activista ACT UP recurrió a la acción directa y a lemas provocadores para exigir aprobaciones de fármacos más rápidas y una respuesta del gobierno ante la epidemia del sida."
+      }
+    }
   },
   {
     "id": "culture-128",
@@ -2945,7 +3116,24 @@
     "tags": [
       "disability-rights",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des militants ont abandonné leur fauteuil roulant pour gravir à la force des bras les marches du Capitole.",
+        "fact": "En mars 1990, des dizaines de militants des droits des personnes handicapées ont laissé derrière eux leurs aides à la mobilité pour escalader physiquement les marches du Capitole, dénonçant ainsi le manque d'accessibilité — quelques mois avant l'adoption de l'Americans with Disabilities Act.",
+        "whyItMatters": "On attribue largement à cette action le fait d'avoir contribué à faire adopter par le Congrès l'ADA, une loi majeure sur l'accessibilité."
+      },
+      "nl": {
+        "hook": "Activisten lieten hun rolstoel achter om de trappen van het Capitool op te kruipen.",
+        "fact": "In maart 1990 lieten tientallen demonstranten voor gehandicaptenrechten hun hulpmiddelen achter om op eigen kracht de trappen van het Capitool te beklimmen, als aanklacht tegen het gebrek aan toegankelijkheid — maanden voordat de Americans with Disabilities Act werd aangenomen.",
+        "whyItMatters": "Het protest wordt algemeen gezien als een belangrijke duw in de rug voor de ADA, een baanbrekende toegankelijkheidswet, in het Congres."
+      },
+      "es": {
+        "hook": "Unos activistas abandonaron sus sillas de ruedas para subir a rastras las escaleras del Capitolio.",
+        "fact": "En marzo de 1990, decenas de manifestantes por los derechos de las personas con discapacidad dejaron atrás sus dispositivos de movilidad para trepar por las escaleras del Capitolio y evidenciar la falta de accesibilidad, meses antes de que se aprobara la Ley de Estadounidenses con Discapacidades.",
+        "whyItMatters": "Se considera que aquella protesta fue clave para que la ADA, una ley histórica sobre accesibilidad, saliera adelante en el Congreso."
+      }
+    }
   },
   {
     "id": "culture-129",
@@ -2955,7 +3143,21 @@
     "tags": [
       "environment",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier Jour de la Terre a mobilisé environ 20 millions de personnes.",
+        "fact": "Le 22 avril 1970, des Américains de tout le pays ont organisé rassemblements, conférences et opérations de nettoyage pour le premier Jour de la Terre, une mobilisation qui a contribué à la création de l'Agence américaine de protection de l'environnement plus tard la même année."
+      },
+      "nl": {
+        "hook": "De eerste Dag van de Aarde trok naar schatting 20 miljoen deelnemers.",
+        "fact": "Op 22 april 1970 hielden Amerikanen door het hele land bijeenkomsten, teach-ins en opruimacties voor de eerste Dag van de Aarde. Die mobilisatie droeg eraan bij dat later dat jaar het Amerikaanse milieuagentschap EPA werd opgericht."
+      },
+      "es": {
+        "hook": "El primer Día de la Tierra reunió a unos 20 millones de participantes.",
+        "fact": "El 22 de abril de 1970, ciudadanos de todo Estados Unidos organizaron concentraciones, charlas y limpiezas por el primer Día de la Tierra, una movilización que contribuyó a la creación de la Agencia de Protección Ambiental ese mismo año."
+      }
+    }
   },
   {
     "id": "culture-130",
@@ -2966,7 +3168,24 @@
     "tags": [
       "environment",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des villageois de l'Himalaya ont stoppé les bûcherons en enlaçant les arbres.",
+        "fact": "À partir des années 1970, le mouvement Chipko a vu des communautés rurales — souvent menées par des femmes — enlacer physiquement les arbres de l'Uttarakhand, en Inde, pour bloquer l'exploitation forestière commerciale, devenant un symbole précoce de l'écologie populaire.",
+        "whyItMatters": "Cette tactique et son nom ont inspiré des mobilisations écologistes de « serreurs d'arbres » partout dans le monde."
+      },
+      "nl": {
+        "hook": "Dorpelingen in de Himalaya hielden houtkappers tegen door bomen te omhelzen.",
+        "fact": "Vanaf de jaren zeventig sloegen plattelandsgemeenschappen in de Chipko-beweging — vaak aangevoerd door vrouwen — letterlijk hun armen om bomen in Uttarakhand, India, om commerciële houtkap tegen te houden. Zo werden ze een vroeg symbool van milieuactivisme van onderop.",
+        "whyItMatters": "De tactiek en de naam ervan inspireerden wereldwijd milieuprotesten van zogeheten 'boomknuffelaars'."
+      },
+      "es": {
+        "hook": "Unos aldeanos del Himalaya frenaron a los madereros abrazando árboles.",
+        "fact": "A partir de los años setenta, el movimiento Chipko llevó a comunidades rurales — a menudo encabezadas por mujeres — a abrazar físicamente los árboles de Uttarakhand, en la India, para impedir la tala comercial, y se convirtió en un símbolo temprano del ecologismo de base.",
+        "whyItMatters": "La táctica y su nombre inspiraron protestas ecologistas de 'abrazaárboles' en todo el mundo."
+      }
+    }
   },
   {
     "id": "culture-131",
@@ -2977,7 +3196,24 @@
     "tags": [
       "social-movements",
       "tunisia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le geste de protestation d'un vendeur ambulant tunisien a embrasé toute une région.",
+        "fact": "Après l'immolation par le feu de Mohamed Bouazizi en décembre 2010, en protestation contre le harcèlement des autorités, les manifestations se sont propagées de la Tunisie à l'Égypte, à la Libye, à la Syrie et au-delà, dans ce que l'on a appelé le Printemps arabe.",
+        "whyItMatters": "Ces soulèvements ont fait tomber plusieurs régimes en place de longue date, mais avec des issues très différentes : d'une fragile transition démocratique en Tunisie à des conflits prolongés ailleurs."
+      },
+      "nl": {
+        "hook": "Het protest van één straatverkoper in Tunesië ontketende opstanden in een hele regio.",
+        "fact": "Nadat Mohamed Bouazizi zichzelf in december 2010 in brand had gestoken uit protest tegen pesterijen door de overheid, verspreidden de demonstraties zich van Tunesië naar Egypte, Libië, Syrië en verder, in wat de Arabische Lente ging heten.",
+        "whyItMatters": "De opstanden brachten meerdere regimes ten val die al lang aan de macht waren, maar de uitkomsten liepen sterk uiteen: van een kwetsbare democratische overgang in Tunesië tot langdurig conflict elders."
+      },
+      "es": {
+        "hook": "La protesta de un vendedor ambulante en Túnez desató revueltas en toda una región.",
+        "fact": "Después de que Mohamed Bouazizi se prendiera fuego en diciembre de 2010 para protestar contra el acoso de las autoridades, las manifestaciones se extendieron de Túnez a Egipto, Libia, Siria y más allá, en lo que se conoció como la Primavera Árabe.",
+        "whyItMatters": "Las revueltas derribaron a varios gobiernos que llevaban décadas en el poder, aunque con resultados muy dispares: desde una frágil transición democrática en Túnez hasta conflictos prolongados en otros países."
+      }
+    }
   },
   {
     "id": "culture-132",
@@ -2987,7 +3223,21 @@
     "tags": [
       "protest",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un homme anonyme barrant la route à des chars est devenu un symbole mondial de la contestation.",
+        "fact": "Lors des manifestations de la place Tian'anmen à Pékin en 1989, un homme seul, jamais identifié, s'est planté devant une colonne de chars — la photographie est devenue l'une des images de protestation les plus reconnaissables du XXe siècle."
+      },
+      "nl": {
+        "hook": "Eén anonieme man die tanks tegenhield werd een wereldwijd symbool van protest.",
+        "fact": "Tijdens de demonstraties op het Tiananmenplein in Peking in 1989 ging één onbekende man in zijn eentje voor een colonne tanks staan — de foto werd een van de bekendste protestbeelden van de twintigste eeuw."
+      },
+      "es": {
+        "hook": "Un hombre anónimo frente a una fila de tanques se convirtió en símbolo global de la protesta.",
+        "fact": "Durante las manifestaciones de la plaza de Tiananmén en Pekín en 1989, un hombre solo, nunca identificado, se plantó ante una columna de tanques; la fotografía se convirtió en una de las imágenes de protesta más reconocibles del siglo XX."
+      }
+    }
   },
   {
     "id": "culture-133",
@@ -2997,7 +3247,21 @@
     "tags": [
       "social-movements",
       "germany"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mur de Berlin est tombé presque par accident.",
+        "fact": "Le 9 novembre 1989, un responsable est-allemand s'est mal exprimé lors d'une conférence de presse, laissant entendre que les restrictions de voyage étaient levées sur-le-champ ; la foule s'est ruée sur les postes-frontières le soir même, et le Mur qui coupait la ville en deux depuis 1961 a cédé."
+      },
+      "nl": {
+        "hook": "De Berlijnse Muur viel bijna per ongeluk.",
+        "fact": "Op 9 november 1989 versprak een Oost-Duitse functionaris zich op een persconferentie en wekte hij de indruk dat de reisbeperkingen per direct werden opgeheven; nog diezelfde avond stormden mensenmassa's op de grensposten af en werd de Muur die de stad sinds 1961 had verdeeld doorbroken."
+      },
+      "es": {
+        "hook": "El Muro de Berlín cayó casi por accidente.",
+        "fact": "El 9 de noviembre de 1989, un funcionario de Alemania Oriental se equivocó en una rueda de prensa y dio a entender que las restricciones de viaje se levantaban de inmediato; esa misma noche las multitudes se agolparon en los pasos fronterizos y el Muro que dividía la ciudad desde 1961 quedó abierto."
+      }
+    }
   },
   {
     "id": "culture-134",
@@ -3007,7 +3271,21 @@
     "tags": [
       "social-movements",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'expression « #MeToo » existait depuis plus de dix ans avant de devenir virale.",
+        "fact": "La militante Tarana Burke a commencé à employer « Me Too » en 2006 pour soutenir les victimes de violences sexuelles ; l'expression a explosé en mouvement mondial sous forme de hashtag en 2017, après les accusations visant le producteur de cinéma Harvey Weinstein."
+      },
+      "nl": {
+        "hook": "De uitdrukking '#MeToo' bestond al ruim tien jaar voordat ze viraal ging.",
+        "fact": "Activiste Tarana Burke gebruikte 'Me Too' vanaf 2006 om slachtoffers van seksueel geweld te steunen; in 2017 groeide de uitdrukking uit tot een wereldwijde hashtagbeweging na de beschuldigingen tegen filmproducent Harvey Weinstein."
+      },
+      "es": {
+        "hook": "La expresión '#MeToo' existía desde más de una década antes de hacerse viral.",
+        "fact": "La activista Tarana Burke empezó a usar 'Me Too' en 2006 para apoyar a supervivientes de violencia sexual; la expresión estalló como movimiento global con forma de hashtag en 2017, tras las acusaciones contra el productor de cine Harvey Weinstein."
+      }
+    }
   },
   {
     "id": "culture-135",
@@ -3017,7 +3295,21 @@
     "tags": [
       "civil-rights",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Black Lives Matter est né d'un hashtag après un acquittement.",
+        "fact": "Les militantes Alicia Garza, Patrisse Cullors et Opal Tometi ont créé #BlackLivesMatter en 2013, après l'acquittement de George Zimmerman dans l'affaire de la mort par balle de Trayvon Martin ; le mot-clé est devenu un mouvement international contre les violences policières."
+      },
+      "nl": {
+        "hook": "Black Lives Matter begon als hashtag na een vrijspraak.",
+        "fact": "Organisatoren Alicia Garza, Patrisse Cullors en Opal Tometi bedachten #BlackLivesMatter in 2013, na de vrijspraak van George Zimmerman voor de dodelijke schietpartij op Trayvon Martin. Het groeide uit tot een internationale beweging tegen politiegeweld."
+      },
+      "es": {
+        "hook": "Black Lives Matter nació como un hashtag tras una absolución.",
+        "fact": "Las activistas Alicia Garza, Patrisse Cullors y Opal Tometi acuñaron #BlackLivesMatter en 2013, tras la absolución de George Zimmerman por la muerte a tiros de Trayvon Martin, y el lema creció hasta convertirse en un movimiento internacional contra la violencia policial."
+      }
+    }
   },
   {
     "id": "culture-136",
@@ -3028,7 +3320,24 @@
     "tags": [
       "social-movements",
       "iceland"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Neuf Islandaises sur dix ont un jour refusé de travailler pendant vingt-quatre heures.",
+        "fact": "Le 24 octobre 1975, environ 90 % des femmes islandaises sont restées chez elles, cessant aussi bien le travail rémunéré que le travail domestique pour démontrer leur poids économique — banques, écoles et usines se sont retrouvées à l'arrêt.",
+        "whyItMatters": "Cinq ans plus tard, l'Islande élisait Vigdís Finnbogadóttir, première femme au monde à devenir présidente au terme d'une élection démocratique."
+      },
+      "nl": {
+        "hook": "Negentig procent van de IJslandse vrouwen weigerde ooit een dag lang te werken.",
+        "fact": "Op 24 oktober 1975 bleef naar schatting 90% van de IJslandse vrouwen thuis en legde zowel betaald als onbetaald werk neer om hun economische belang te tonen — banken, scholen en fabrieken kwamen tot stilstand.",
+        "whyItMatters": "Vijf jaar later koos IJsland Vigdís Finnbogadóttir tot 's werelds eerste vrouwelijke president die democratisch werd verkozen."
+      },
+      "es": {
+        "hook": "El noventa por ciento de las islandesas se negó una vez a trabajar durante un día.",
+        "fact": "El 24 de octubre de 1975, se calcula que el 90 % de las mujeres islandesas se quedó en casa y dejó de hacer tanto trabajo remunerado como no remunerado para demostrar su peso económico; bancos, escuelas y fábricas quedaron paralizados.",
+        "whyItMatters": "Cinco años después, Islandia eligió a Vigdís Finnbogadóttir como la primera mujer presidenta del mundo escogida en unas elecciones democráticas."
+      }
+    }
   },
   {
     "id": "culture-137",
@@ -3039,7 +3348,24 @@
     "tags": [
       "labor",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le 1er Mai trouve son origine dans un attentat lors d'un rassemblement ouvrier à Chicago.",
+        "fact": "Un rassemblement pour la journée de huit heures, à Haymarket Square à Chicago, a viré au drame en 1886 après le jet d'une bombe sur les policiers ; l'événement est devenu un symbole de ralliement qui a inspiré la Journée internationale des travailleurs, célébrée le 1er mai dans de nombreux pays.",
+        "whyItMatters": "Le 1er Mai est aujourd'hui un jour férié en l'honneur des travailleurs dans des dizaines de pays, tandis que les États-Unis célèbrent leur Labor Day en septembre."
+      },
+      "nl": {
+        "hook": "De Dag van de Arbeid gaat terug op een bomaanslag tijdens een arbeidersbijeenkomst in Chicago.",
+        "fact": "Een bijeenkomst voor de achturige werkdag op Haymarket Square in Chicago liep in 1886 dodelijk uit de hand nadat er een bom naar de politie was gegooid; het incident werd een symbool dat later de internationale Dag van de Arbeid inspireerde, die in veel landen op 1 mei valt.",
+        "whyItMatters": "1 mei is nu in tientallen landen een vrije dag ter ere van werkenden, terwijl de VS in september Labor Day viert."
+      },
+      "es": {
+        "hook": "El origen del Primero de Mayo se remonta a una bomba en un mitin obrero en Chicago.",
+        "fact": "Una concentración por la jornada de ocho horas en la plaza Haymarket de Chicago terminó en tragedia en 1886, cuando alguien lanzó una bomba contra la policía; el suceso se convirtió en un símbolo de lucha que más tarde inspiró el Día Internacional de los Trabajadores, celebrado el 1 de mayo en muchos países.",
+        "whyItMatters": "El Primero de Mayo es hoy festivo en honor a los trabajadores en decenas de países, mientras que Estados Unidos celebra su Día del Trabajo en septiembre."
+      }
+    }
   },
   {
     "id": "culture-138",
@@ -3049,7 +3375,21 @@
     "tags": [
       "civil-rights",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des militants prenaient délibérément le bus vers le Sud ségrégationniste pour se faire arrêter.",
+        "fact": "En 1961, des groupes mixtes de « Freedom Riders » ont emprunté des bus interétatiques à travers le Sud des États-Unis pour tester un arrêt de la Cour suprême interdisant la ségrégation dans les gares routières, affrontant en chemin la violence des foules et des arrestations massives."
+      },
+      "nl": {
+        "hook": "Activisten reisden bewust met de bus het gesegregeerde Zuiden in om gearresteerd te worden.",
+        "fact": "In 1961 stapten gemengde groepen 'Freedom Riders' in interstatelijke bussen door het Amerikaanse Zuiden om een uitspraak van het Hooggerechtshof te testen die segregatie in busstations verbood. Onderweg kregen ze te maken met geweld van menigten en massale arrestaties."
+      },
+      "es": {
+        "hook": "Unos activistas viajaron en autobús al Sur segregado con la intención de ser detenidos.",
+        "fact": "En 1961, grupos interraciales de 'Viajeros de la Libertad' tomaron autobuses interestatales por el sur de Estados Unidos para poner a prueba una sentencia del Tribunal Supremo que prohibía la segregación en las estaciones de autobuses, y por el camino sufrieron ataques de turbas y detenciones masivas."
+      }
+    }
   },
   {
     "id": "culture-139",
@@ -3060,7 +3400,24 @@
     "tags": [
       "civil-rights",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des marcheurs ont été battus sur un pont lors de ce que l'on a appelé le « Dimanche sanglant ».",
+        "fact": "Le 7 mars 1965, la police d'État a attaqué des manifestants pacifiques réclamant le droit de vote alors qu'ils franchissaient le pont Edmund Pettus à Selma, en Alabama ; les images télévisées de ces violences ont renforcé le soutien à une loi fédérale majeure adoptée quelques mois plus tard.",
+        "whyItMatters": "Le Congrès a voté le Voting Rights Act de 1965 quelques mois plus tard, interdisant de nombreuses pratiques électorales discriminatoires."
+      },
+      "nl": {
+        "hook": "Demonstranten werden op een brug in elkaar geslagen op wat 'Bloody Sunday' ging heten.",
+        "fact": "Op 7 maart 1965 vielen staatsagenten vreedzame demonstranten voor stemrecht aan terwijl die de Edmund Pettus-brug in Selma, Alabama, overstaken; televisiebeelden van het geweld vergrootten de steun voor baanbrekende federale wetgeving die maanden later werd aangenomen.",
+        "whyItMatters": "Het Congres nam enkele maanden later de Voting Rights Act van 1965 aan, die veel discriminerende kiespraktijken verbood."
+      },
+      "es": {
+        "hook": "Unos manifestantes fueron apaleados al cruzar un puente en el llamado 'Domingo Sangriento'.",
+        "fact": "El 7 de marzo de 1965, la policía estatal atacó a manifestantes pacíficos que reclamaban el derecho al voto mientras cruzaban el puente Edmund Pettus en Selma (Alabama); las imágenes televisadas de la violencia impulsaron el apoyo a una ley federal histórica aprobada meses después.",
+        "whyItMatters": "El Congreso aprobó la Ley del Derecho al Voto de 1965 apenas unos meses más tarde, prohibiendo muchas prácticas electorales discriminatorias."
+      }
+    }
   },
   {
     "id": "culture-140",
@@ -3070,7 +3427,21 @@
     "tags": [
       "protest",
       "germany"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des étudiants allemands imprimaient des tracts antinazis depuis le sous-sol d'une université.",
+        "fact": "La Rose blanche, animée par le frère et la sœur Hans et Sophie Scholl, distribuait clandestinement à l'université de Munich des tracts dénonçant le régime nazi ; le groupe a été découvert en 1943 et ses principaux membres ont été exécutés."
+      },
+      "nl": {
+        "hook": "Een groep Duitse studenten drukte anti-nazipamfletten in een universiteitskelder.",
+        "fact": "De Witte Roos, geleid door broer en zus Hans en Sophie Scholl, verspreidde aan de Universiteit van München in het geheim pamfletten die het naziregime aan de kaak stelden; de groep werd in 1943 ontdekt en de kernleden werden geëxecuteerd."
+      },
+      "es": {
+        "hook": "Un grupo de estudiantes alemanes imprimía panfletos antinazis desde el sótano de una universidad.",
+        "fact": "La Rosa Blanca, encabezada por los hermanos Hans y Sophie Scholl, repartía en secreto en la Universidad de Múnich panfletos que denunciaban al régimen nazi; el grupo fue descubierto en 1943 y sus miembros principales fueron ejecutados."
+      }
+    }
   },
   {
     "id": "culture-141",
@@ -3080,7 +3451,21 @@
     "tags": [
       "social-movements",
       "uk"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les marches nocturnes contre les violences faites aux femmes ont débuté dans une ville britannique en 1977.",
+        "fact": "Les marches Reclaim the Night sont nées à Leeds, en Angleterre, après que l'on eut conseillé aux femmes de rester chez elles pendant une série d'agressions — les manifestantes estimaient que c'était la rue, et non leur liberté, qu'il fallait restreindre. Des marches similaires ont désormais lieu dans le monde entier."
+      },
+      "nl": {
+        "hook": "De nachtelijke marsen tegen geweld tegen vrouwen begonnen in 1977 in een Britse stad.",
+        "fact": "De Reclaim the Night-marsen ontstonden in het Engelse Leeds, nadat vrouwen tijdens een reeks aanvallen het advies hadden gekregen binnen te blijven. Demonstranten vonden dat de straten beperkt moesten worden, niet hun vrijheid. Vergelijkbare marsen worden inmiddels wereldwijd gehouden."
+      },
+      "es": {
+        "hook": "Las marchas nocturnas contra la violencia hacia las mujeres empezaron en una ciudad británica en 1977.",
+        "fact": "Las marchas Reclaim the Night nacieron en Leeds, Inglaterra, después de que se aconsejara a las mujeres quedarse en casa durante una serie de ataques; las manifestantes replicaron que lo que debía restringirse eran las calles, no su libertad. Hoy se celebran marchas similares en todo el mundo."
+      }
+    }
   },
   {
     "id": "culture-142",
@@ -3090,7 +3475,21 @@
     "tags": [
       "social-movements",
       "mexico"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un soulèvement indigène dans le sud du Mexique a été calé sur un accord commercial.",
+        "fact": "L'Armée zapatiste de libération nationale s'est emparée de plusieurs villes du Chiapas le 1er janvier 1994 — le jour même de l'entrée en vigueur de l'ALENA — en réclamant des terres et des droits pour les peuples autochtones, et elle maintient depuis lors des territoires autonomes."
+      },
+      "nl": {
+        "hook": "Een inheemse opstand in Zuid-Mexico was afgestemd op een handelsverdrag.",
+        "fact": "Het Zapatistische Nationale Bevrijdingsleger nam op 1 januari 1994 steden in Chiapas in — precies de dag waarop het NAFTA-verdrag in werking trad — met de eis van land en rechten voor inheemse volken, en houdt sindsdien autonome gebieden in stand."
+      },
+      "es": {
+        "hook": "Un levantamiento indígena en el sur de México se hizo coincidir con un tratado comercial.",
+        "fact": "El Ejército Zapatista de Liberación Nacional tomó varias localidades de Chiapas el 1 de enero de 1994, el mismo día en que entró en vigor el TLCAN, para exigir tierra y derechos indígenas, y desde entonces mantiene territorios autónomos."
+      }
+    }
   },
   {
     "id": "culture-143",
@@ -3101,7 +3500,21 @@
       "music",
       "media",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le tout premier clip diffusé par MTV parlait de la fin de la radio.",
+        "fact": "Au lancement de MTV, le 1er août 1981, la première vidéo diffusée fut « Video Killed the Radio Star » des Buggles — un choix d'une ironie parfaite pour une chaîne sur le point de bouleverser l'industrie musicale."
+      },
+      "nl": {
+        "hook": "De allereerste videoclip op MTV ging over het einde van de radio.",
+        "fact": "Toen MTV op 1 augustus 1981 de lucht in ging, was de eerste uitgezonden clip 'Video Killed the Radio Star' van The Buggles — een treffend zelfbewuste keuze voor een zender die de muziekindustrie op zijn kop zou zetten."
+      },
+      "es": {
+        "hook": "El primer videoclip de MTV hablaba del final de la radio.",
+        "fact": "Cuando MTV se estrenó el 1 de agosto de 1981, el primer vídeo que emitió fue 'Video Killed the Radio Star', de The Buggles, una elección tan irónica como acertada para un canal que estaba a punto de transformar la industria musical."
+      }
+    }
   },
   {
     "id": "culture-144",
@@ -3112,7 +3525,21 @@
       "music",
       "uk",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Soixante-treize millions d'Américains ont regardé les débuts télé des Beatles aux États-Unis.",
+        "fact": "L'apparition des Beatles dans The Ed Sullivan Show en février 1964 a réuni environ 73 millions de téléspectateurs et est considérée comme le point de départ de la « British Invasion » de la culture pop américaine."
+      },
+      "nl": {
+        "hook": "Drieënzeventig miljoen Amerikanen keken naar het tv-debuut van de Beatles in de VS.",
+        "fact": "Het optreden van de Beatles in The Ed Sullivan Show in februari 1964 trok naar schatting 73 miljoen kijkers en geldt als de start van de 'British Invasion' van de Amerikaanse popcultuur."
+      },
+      "es": {
+        "hook": "Setenta y tres millones de estadounidenses vieron el debut televisivo de los Beatles en EE. UU.",
+        "fact": "La aparición de los Beatles en The Ed Sullivan Show en febrero de 1964 congregó a unos 73 millones de espectadores y se considera el arranque de la 'invasión británica' de la cultura pop estadounidense."
+      }
+    }
   },
   {
     "id": "culture-145",
@@ -3122,7 +3549,21 @@
     "tags": [
       "music",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Woodstock a attiré environ dix fois plus de monde que prévu.",
+        "fact": "Les organisateurs du festival d'août 1969, dans la campagne de l'État de New York, tablaient sur quelques dizaines de milliers de participants ; environ 400 000 personnes sont venues, débordant le site et transformant l'événement en moment fondateur de la contre-culture des années 1960."
+      },
+      "nl": {
+        "hook": "Woodstock trok ongeveer tien keer zoveel bezoekers als verwacht.",
+        "fact": "De organisatoren van het festival in augustus 1969 op het platteland van de staat New York rekenden op enkele tienduizenden bezoekers; er kwamen er naar schatting 400.000, waardoor het terrein overspoeld raakte en het evenement uitgroeide tot een bepalend moment van de tegencultuur van de jaren zestig."
+      },
+      "es": {
+        "hook": "Woodstock atrajo unas diez veces más público del previsto.",
+        "fact": "Los organizadores del festival de agosto de 1969 en la zona rural del estado de Nueva York esperaban decenas de miles de asistentes; se calcula que aparecieron 400.000 personas, que desbordaron el recinto y convirtieron el festival en un momento decisivo de la contracultura de los sesenta."
+      }
+    }
   },
   {
     "id": "culture-146",
@@ -3134,7 +3575,21 @@
       "fashion",
       "uk",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un club new-yorkais et une boutique londonienne ont donné au punk ses deux villes natales.",
+        "fact": "Au milieu des années 1970, des groupes comme les Ramones ont bâti la scène du CBGB à New York, tandis que la boutique londonienne de Vivienne Westwood et Malcolm McLaren façonnait le look et l'attitude que des groupes comme les Sex Pistols allaient diffuser."
+      },
+      "nl": {
+        "hook": "Een club in New York en een boetiek in Londen gaven punk zijn twee thuissteden.",
+        "fact": "Halverwege de jaren zeventig bouwden bands als de Ramones de scene rond CBGB in New York op, terwijl de Londense boetiek van Vivienne Westwood en Malcolm McLaren de look en houding vormgaf die met acts als de Sex Pistols hun weg vonden."
+      },
+      "es": {
+        "hook": "Un club de Nueva York y una tienda de Londres le dieron al punk sus dos ciudades natales.",
+        "fact": "A mediados de los años setenta, bandas como los Ramones levantaron la escena del CBGB en Nueva York, mientras que la boutique londinense de Vivienne Westwood y Malcolm McLaren definió la estética y la actitud que se difundieron con grupos como los Sex Pistols."
+      }
+    }
   },
   {
     "id": "culture-147",
@@ -3144,7 +3599,21 @@
     "tags": [
       "music",
       "korea"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "On fait souvent remonter la K-pop moderne à un unique passage télé en 1992.",
+        "fact": "Lorsque le groupe Seo Taiji and Boys est apparu à la télévision coréenne en 1992 en mêlant rap et rock à des paroles en coréen, le jury lui a donné une note faible — mais ce son a transformé la pop coréenne et est largement considéré comme le point de départ de la K-pop moderne."
+      },
+      "nl": {
+        "hook": "Moderne K-pop wordt vaak gedateerd op één talentenjachtoptreden in 1992.",
+        "fact": "Toen de groep Seo Taiji and Boys in 1992 debuteerde op de Koreaanse televisie met een mix van rap en rock op Koreaanse teksten, gaf de jury hen een lage score — maar het geluid veranderde de Koreaanse popmuziek en geldt breed als het startpunt van de moderne K-pop."
+      },
+      "es": {
+        "hook": "El K-pop moderno suele fecharse en una única actuación en un concurso de talentos de 1992.",
+        "fact": "Cuando el grupo Seo Taiji and Boys debutó en la televisión coreana en 1992 mezclando rap y rock con letras en coreano, el jurado les puso una nota baja, pero aquel sonido transformó el pop coreano y se considera de forma generalizada el punto de partida del K-pop moderno."
+      }
+    }
   },
   {
     "id": "culture-148",
@@ -3154,7 +3623,21 @@
     "tags": [
       "music",
       "jamaica"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un musicien jamaïcain a fait d'un genre local un son planétaire.",
+        "fact": "Les tournées internationales et les albums de Bob Marley dans les années 1970 ont porté le reggae, né en Jamaïque à la fin des années 1960, jusqu'aux publics d'Afrique, d'Europe et des Amériques."
+      },
+      "nl": {
+        "hook": "Eén Jamaicaanse muzikant maakte van een lokaal genre een wereldgeluid.",
+        "fact": "Met zijn internationale tournees en albums in de jaren zeventig bracht Bob Marley de reggae, eind jaren zestig ontstaan in Jamaica, naar publiek in Afrika, Europa en Noord- en Zuid-Amerika."
+      },
+      "es": {
+        "hook": "Un músico jamaicano convirtió un género local en un sonido global.",
+        "fact": "Las giras internacionales y los discos de Bob Marley en los años setenta llevaron el reggae, nacido en Jamaica a finales de los sesenta, a públicos de África, Europa y América."
+      }
+    }
   },
   {
     "id": "culture-149",
@@ -3164,7 +3647,21 @@
     "tags": [
       "fashion",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le jean était un vêtement de travail pour mineurs avant de devenir un objet de mode.",
+        "fact": "Levi Strauss a breveté en 1873 un pantalon en denim renforcé par des rivets, destiné aux travailleurs ; le jean n'est devenu une mode juvénile grand public qu'après la Seconde Guerre mondiale, porté par des stars hollywoodiennes comme Marlon Brando et James Dean dans les années 1950."
+      },
+      "nl": {
+        "hook": "De spijkerbroek was werkkleding voor mijnwerkers voordat het een modestatement werd.",
+        "fact": "Levi Strauss patenteerde in 1873 een denimbroek met klinknagels voor arbeiders; pas na de Tweede Wereldoorlog werd de spijkerbroek gangbare jeugdmode, aangejaagd door Hollywoodsterren als Marlon Brando en James Dean in de jaren vijftig."
+      },
+      "es": {
+        "hook": "Los vaqueros fueron ropa de trabajo para mineros antes de ser una declaración de estilo.",
+        "fact": "Levi Strauss patentó en 1873 unos pantalones de tela vaquera con remaches destinados a los obreros; los vaqueros solo se convirtieron en moda juvenil masiva después de la Segunda Guerra Mundial, impulsados por estrellas de Hollywood como Marlon Brando y James Dean en los años cincuenta."
+      }
+    }
   },
   {
     "id": "culture-150",
@@ -3174,7 +3671,21 @@
     "tags": [
       "fashion",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans les années 1920, les cheveux courts et les jupes raccourcies étaient un acte politique.",
+        "fact": "Le look « garçonne » — cheveux coupés court, ourlets remontés, silhouettes plus amples — rompait visiblement avec les codes vestimentaires de l'ère victorienne et s'est trouvé associé aux nouvelles libertés sociales et politiques conquises par les femmes après la Première Guerre mondiale."
+      },
+      "nl": {
+        "hook": "Kort geknipt haar en korte rokken waren in de jaren 1920 een politiek statement.",
+        "fact": "De 'flapper'-look — kort haar, hogere zomen, lossere silhouetten — brak zichtbaar met de victoriaanse kledingvoorschriften en raakte verbonden met de nieuwe sociale en politieke vrijheden die vrouwen na de Eerste Wereldoorlog hadden verworven."
+      },
+      "es": {
+        "hook": "En los años veinte, el pelo corto y las faldas cortas eran una declaración política.",
+        "fact": "El look 'flapper' — pelo cortado a lo garçon, dobladillos más cortos, siluetas más holgadas — rompía visiblemente con los códigos de vestimenta victorianos y quedó asociado a las nuevas libertades sociales y políticas que las mujeres habían conquistado tras la Primera Guerra Mundial."
+      }
+    }
   },
   {
     "id": "culture-151",
@@ -3185,7 +3696,21 @@
       "music",
       "fashion",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une boîte de nuit new-yorkaise est devenue le symbole de toute la démesure d'une décennie.",
+        "fact": "Le Studio 54, ouvert à Manhattan à partir de 1977, est devenu l'épicentre de la culture people de l'ère disco, célèbre pour sa sélection impitoyable à l'entrée et ses fêtes hédonistes remplies de stars."
+      },
+      "nl": {
+        "hook": "Eén New Yorkse nachtclub werd het symbool van de excessen van een heel decennium.",
+        "fact": "Studio 54, vanaf 1977 open in Manhattan, groeide uit tot het epicentrum van de sterrencultuur van het discotijdperk, berucht om zijn strenge deurbeleid en zijn hedonistische feesten vol beroemdheden."
+      },
+      "es": {
+        "hook": "Un club nocturno de Nueva York resumió el exceso de toda una década.",
+        "fact": "Studio 54, abierto en Manhattan desde 1977, se convirtió en el epicentro de la cultura de las celebridades de la era disco, famoso por su implacable política de puerta y sus fiestas hedonistas repletas de estrellas."
+      }
+    }
   },
   {
     "id": "culture-152",
@@ -3196,7 +3721,21 @@
       "music",
       "fashion",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le deuxième album d'un groupe de Seattle a propulsé une scène underground dans le grand public du jour au lendemain.",
+        "fact": "« Nevermind » de Nirvana, sorti en 1991, s'est hissé contre toute attente en tête des classements et a projeté la scène grunge du nord-ouest du Pacifique — et sa mode de friperie — sous les projecteurs du monde entier."
+      },
+      "nl": {
+        "hook": "Het tweede album van een band uit Seattle maakte een undergroundscene van de ene op de andere dag mainstream.",
+        "fact": "Nirvana's 'Nevermind' uit 1991 belandde onverwacht bovenaan de hitlijsten en katapulteerde de grungescene van de Pacific Northwest — en haar tweedehandsmode — in de wereldwijde schijnwerpers."
+      },
+      "es": {
+        "hook": "El segundo disco de una banda de Seattle llevó una escena underground al gran público de la noche a la mañana.",
+        "fact": "'Nevermind' de Nirvana, publicado en 1991, encabezó las listas de forma inesperada y arrastró a la escena grunge del noroeste del Pacífico — y a su moda de tienda de segunda mano — al foco mundial."
+      }
+    }
   },
   {
     "id": "culture-153",
@@ -3206,7 +3745,21 @@
     "tags": [
       "cinema",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier dessin animé télévisé à succès du Japon a été diffusé en noir et blanc en 1963.",
+        "fact": "« Astro Boy » d'Osamu Tezuka fut la première série animée japonaise à connaître un large succès à la télévision, imposant des techniques de production et un style visuel qui ont façonné l'industrie de l'anime pendant des décennies."
+      },
+      "nl": {
+        "hook": "Japans eerste succesvolle tv-tekenfilm werd in 1963 in zwart-wit uitgezonden.",
+        "fact": "'Astro Boy' van Osamu Tezuka was de eerste Japanse animatieserie op televisie die breed populair werd en legde productietechnieken en een beeldtaal vast die de animebranche decennialang hebben gevormd."
+      },
+      "es": {
+        "hook": "El primer dibujo animado televisivo de éxito en Japón se emitió en blanco y negro en 1963.",
+        "fact": "'Astro Boy', de Osamu Tezuka, fue la primera serie de animación japonesa por entregas en alcanzar gran popularidad, y estableció técnicas de producción y un estilo visual que marcaron la industria del anime durante décadas."
+      }
+    }
   },
   {
     "id": "culture-154",
@@ -3216,7 +3769,21 @@
     "tags": [
       "music",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un label de Detroit installé dans une maison transformée en studio a changé la musique américaine.",
+        "fact": "Berry Gordy fonde Motown Records à Detroit en 1959 ; depuis un modeste studio aménagé dans une maison surnommée « Hitsville U.S.A. », le label lance des stars comme Diana Ross et Stevie Wonder et fait entrer la musique noire américaine dans la pop grand public."
+      },
+      "nl": {
+        "hook": "Een platenlabel uit Detroit, gevestigd in een omgebouwd woonhuis, veranderde de Amerikaanse muziek.",
+        "fact": "Berry Gordy richtte Motown Records in 1959 op in Detroit; vanuit een bescheiden thuisstudio met de bijnaam 'Hitsville U.S.A.' lanceerde het label sterren als Diana Ross en Stevie Wonder en bracht het zwarte Amerikaanse muziek naar de popmainstream."
+      },
+      "es": {
+        "hook": "Un sello discográfico de Detroit montado en una casa reformada cambió la música estadounidense.",
+        "fact": "Berry Gordy fundó Motown Records en Detroit en 1959; desde un modesto estudio casero apodado 'Hitsville U.S.A.' lanzó a estrellas como Diana Ross y Stevie Wonder y llevó la música negra estadounidense al pop mayoritario."
+      }
+    }
   },
   {
     "id": "culture-155",
@@ -3226,7 +3793,21 @@
     "tags": [
       "cinema",
       "france"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "À la fin des années 1950, des cinéastes français ont jeté le manuel par la fenêtre.",
+        "fact": "Des réalisateurs comme Jean-Luc Godard et François Truffaut ont lancé la Nouvelle Vague, en recourant à la caméra portée, aux faux raccords et au tournage en décors réels pour rompre avec les conventions léchées du cinéma de studio."
+      },
+      "nl": {
+        "hook": "Franse filmmakers gooiden eind jaren vijftig het draaiboek overboord.",
+        "fact": "Regisseurs als Jean-Luc Godard en François Truffaut lanceerden de Nouvelle Vague en braken met de gepolijste conventies van de studiofilm door te werken met handcamera's, jump cuts en opnamen op locatie."
+      },
+      "es": {
+        "hook": "A finales de los años cincuenta, unos cineastas franceses tiraron el manual a la basura.",
+        "fact": "Directores como Jean-Luc Godard y François Truffaut impulsaron la Nouvelle Vague, con cámara en mano, saltos de montaje y rodajes en exteriores para romper con las pulidas convenciones del cine de estudio."
+      }
+    }
   },
   {
     "id": "culture-156",
@@ -3236,7 +3817,21 @@
     "tags": [
       "cinema",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des films à petit budget faits par et pour le public noir ont transformé le Hollywood des années 1970.",
+        "fact": "Le genre blaxploitation, avec des films comme « Shaft » et « Super Fly » au début des années 1970, plaçait au centre des protagonistes noirs et des récits urbains que les grands studios avaient largement ignorés, malgré les critiques ultérieures sur ses stéréotypes."
+      },
+      "nl": {
+        "hook": "Films met een klein budget, door en voor een zwart publiek, hertekenden Hollywood in de jaren zeventig.",
+        "fact": "Het blaxploitationgenre, met films als 'Shaft' en 'Super Fly' uit de vroege jaren zeventig, zette zwarte hoofdpersonages en stadsverhalen centraal die de grote studio's grotendeels hadden genegeerd, ondanks latere kritiek op de stereotypering."
+      },
+      "es": {
+        "hook": "Películas de bajo presupuesto hechas por y para el público negro transformaron el Hollywood de los setenta.",
+        "fact": "El género blaxploitation, con títulos como 'Shaft' y 'Super Fly' a principios de los años setenta, puso en el centro a protagonistas negros y a historias urbanas que los grandes estudios habían ignorado en gran medida, pese a las críticas posteriores por sus estereotipos."
+      }
+    }
   },
   {
     "id": "culture-157",
@@ -3246,7 +3841,21 @@
     "tags": [
       "music",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "On fait souvent remonter la naissance du hip-hop à une seule fête de quartier dans le Bronx.",
+        "fact": "La fête de rentrée scolaire organisée par DJ Kool Herc en août 1973, où il prolongeait les « breaks » instrumentaux des disques de funk pour les danseurs, est largement considérée comme un moment fondateur de la culture hip-hop."
+      },
+      "nl": {
+        "hook": "Hiphop wordt vaak teruggevoerd op één huisfeest in de Bronx.",
+        "fact": "Het back-to-schoolfeest van DJ Kool Herc in augustus 1973, waar hij de instrumentale 'breaks' van funkplaten rekte voor de dansers, geldt breed als een stichtingsmoment van de hiphopcultuur."
+      },
+      "es": {
+        "hook": "El hip hop suele situar su origen en una sola fiesta casera del Bronx.",
+        "fact": "La fiesta de vuelta al cole de DJ Kool Herc, en agosto de 1973, donde alargaba los 'breaks' instrumentales de los discos de funk para los bailarines, se considera ampliamente un momento fundacional de la cultura hip hop."
+      }
+    }
   },
   {
     "id": "culture-158",
@@ -3255,7 +3864,21 @@
     "fact": "Chaplin's Little Tramp character became one of the most recognized figures in the world during the silent film era, since physical comedy needed no translation and could travel across every language and border.",
     "tags": [
       "cinema"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Charlie Chaplin est devenu une star mondiale sans jamais prononcer un mot à l'écran.",
+        "fact": "Le personnage de Charlot est devenu l'une des figures les plus reconnaissables au monde à l'époque du cinéma muet : le comique gestuel n'avait besoin d'aucune traduction et pouvait franchir toutes les langues et toutes les frontières."
+      },
+      "nl": {
+        "hook": "Charlie Chaplin werd een wereldster zonder ooit een woord op het scherm te zeggen.",
+        "fact": "Chaplins personage de Zwerver werd tijdens het stommefilmtijdperk een van de bekendste figuren ter wereld, omdat fysieke komedie geen vertaling nodig had en elke taal en grens kon oversteken."
+      },
+      "es": {
+        "hook": "Charlie Chaplin se convirtió en estrella mundial sin decir una sola palabra en pantalla.",
+        "fact": "Su personaje de Charlot fue una de las figuras más reconocidas del mundo durante la época del cine mudo, porque la comedia física no necesitaba traducción y podía cruzar cualquier idioma y cualquier frontera."
+      }
+    }
   },
   {
     "id": "culture-159",
@@ -3266,7 +3889,24 @@
     "tags": [
       "cinema",
       "nigeria"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'industrie du cinéma nigériane produit aujourd'hui plus de films par an qu'Hollywood.",
+        "fact": "Nollywood, l'industrie nigériane du film à petit budget et à production rapide qui a décollé dans les années 1990, est régulièrement citée parmi les plus importantes au monde en nombre de films produits et emploie des centaines de milliers de personnes.",
+        "whyItMatters": "C'est devenu un moteur économique majeur et une exportation culturelle de premier plan en Afrique et dans sa diaspora."
+      },
+      "nl": {
+        "hook": "De Nigeriaanse filmindustrie maakt inmiddels meer films per jaar dan Hollywood.",
+        "fact": "Nollywood, de snelle Nigeriaanse filmindustrie met kleine budgetten die in de jaren negentig doorbrak, wordt geregeld genoemd als een van de grootste ter wereld qua aantal geproduceerde films en biedt werk aan honderdduizenden mensen.",
+        "whyItMatters": "Het is uitgegroeid tot een belangrijke economische motor en een cultureel exportproduct in heel Afrika en de diaspora."
+      },
+      "es": {
+        "hook": "La industria del cine de Nigeria produce hoy más películas al año que Hollywood.",
+        "fact": "Nollywood, la ágil industria nigeriana de cine de bajo presupuesto que despegó en los años noventa, aparece habitualmente entre las mayores del mundo por número de películas producidas y da empleo a cientos de miles de personas.",
+        "whyItMatters": "Se ha convertido en un gran motor económico y en una exportación cultural clave en toda África y su diáspora."
+      }
+    }
   },
   {
     "id": "culture-160",
@@ -3276,7 +3916,21 @@
     "tags": [
       "media",
       "latin-america"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un format télévisé latino-américain est devenu l'un des genres les plus regardés au monde.",
+        "fact": "Les telenovelas — des feuilletons souvent mélodramatiques nés dans des pays comme le Mexique et le Brésil — sont exportées et adaptées en Amérique latine, en Europe, en Asie et en Afrique depuis le milieu du XXe siècle."
+      },
+      "nl": {
+        "hook": "Een Latijns-Amerikaans tv-format werd een van de best bekeken entertainmentgenres ter wereld.",
+        "fact": "Telenovelas — vaak melodramatische feuilletons die in landen als Mexico en Brazilië ontstonden — worden sinds het midden van de twintigste eeuw geëxporteerd naar en bewerkt in Latijns-Amerika, Europa, Azië en Afrika."
+      },
+      "es": {
+        "hook": "Un formato televisivo latinoamericano se convirtió en uno de los géneros más vistos del mundo.",
+        "fact": "Las telenovelas — dramas seriados, a menudo melodramáticos, impulsados en países como México y Brasil — se exportan y adaptan en América Latina, Europa, Asia y África desde mediados del siglo XX."
+      }
+    }
   },
   {
     "id": "culture-161",
@@ -3286,7 +3940,21 @@
     "tags": [
       "music",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une folie de la danse née en 1960 a fait bouger toute une génération sans partenaire.",
+        "fact": "La chanson « The Twist » de Chubby Checker a déclenché en 1960 une folie de la danse qui rompait avec les pas de bal traditionnels à deux et permettait à chacun de danser seul — un basculement qui a transformé la danse sociale pour les décennies suivantes."
+      },
+      "nl": {
+        "hook": "Een danserage uit 1960 kreeg een hele generatie in beweging, zonder danspartner.",
+        "fact": "Chubby Checkers nummer 'The Twist' ontketende in 1960 een danserage die brak met de traditionele danspassen voor paren en mensen los van elkaar liet dansen — een omslag die het sociale dansen decennialang zou veranderen."
+      },
+      "es": {
+        "hook": "Una fiebre del baile de 1960 puso a bailar a toda una generación sin pareja.",
+        "fact": "La canción 'The Twist', de Chubby Checker, desató en 1960 una fiebre del baile que rompía con los pasos de salón en pareja y permitía bailar de forma independiente, un cambio que transformó el baile social durante las décadas siguientes."
+      }
+    }
   },
   {
     "id": "culture-162",
@@ -3296,7 +3964,21 @@
     "tags": [
       "media",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La « panique » provoquée par une fiction radiophonique de 1938 a surtout été exagérée par la presse.",
+        "fact": "L'adaptation radiophonique de « La Guerre des mondes » par Orson Welles, diffusée la veille d'Halloween, a inquiété certains auditeurs qui l'avaient prise en cours de route, mais des recherches ultérieures ont montré que les récits d'une panique nationale de masse avaient été largement gonflés par la presse écrite, désireuse de discréditer la radio comme source d'information."
+      },
+      "nl": {
+        "hook": "De 'paniek' rond een hoorspel uit 1938 was vooral opgeklopt door kranten.",
+        "fact": "Orson Welles' radiobewerking van 'The War of the Worlds' op de avond voor Halloween verontrustte sommige luisteraars die halverwege afstemden, maar later onderzoek wees uit dat berichten over massapaniek in het hele land grotendeels waren opgeblazen door de gedrukte pers, die de radio graag als nieuwsbron in diskrediet bracht."
+      },
+      "es": {
+        "hook": "El 'pánico' por un radioteatro de 1938 fue sobre todo una exageración de la prensa.",
+        "fact": "La adaptación radiofónica de 'La guerra de los mundos' que Orson Welles emitió la víspera de Halloween alarmó a algunos oyentes que sintonizaron a mitad del programa, pero investigaciones posteriores concluyeron que los relatos de un pánico masivo en todo el país fueron en buena medida inflados por la prensa escrita, deseosa de desacreditar a la radio como fuente informativa."
+      }
+    }
   },
   {
     "id": "culture-163",
@@ -3306,7 +3988,21 @@
     "tags": [
       "media",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un personnage japonais de papeterie est devenu une icône mondiale valant des milliards.",
+        "fact": "Sanrio a lancé Hello Kitty en 1974 sur un porte-monnaie ; le personnage est devenu un symbole majeur de l'esthétique japonaise « kawaii » (mignon) et l'une des franchises les plus vendues de l'histoire."
+      },
+      "nl": {
+        "hook": "Een Japans schrijfwarenfiguurtje groeide uit tot een miljardenicoon.",
+        "fact": "Sanrio introduceerde Hello Kitty in 1974 op een portemonnee; het figuurtje werd een bepalend symbool van de Japanse 'kawaii'-esthetiek (schattig) en een van de best verkopende mediafranchises ooit."
+      },
+      "es": {
+        "hook": "Un personaje japonés de papelería se convirtió en un icono global multimillonario.",
+        "fact": "Sanrio presentó a Hello Kitty en 1974 en un monedero; el personaje se convirtió en un símbolo definitorio de la estética japonesa 'kawaii' (tierno) y en una de las franquicias más vendidas de la historia."
+      }
+    }
   },
   {
     "id": "culture-164",
@@ -3316,7 +4012,21 @@
     "tags": [
       "music",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les débuts de la gloire d'Elvis Presley reposaient sur des sons inventés par des musiciens noirs.",
+        "fact": "L'ascension de Presley dans les années 1950 a apporté le rhythm and blues et le rock'n'roll, depuis longtemps populaires dans la musique noire américaine, à un large public blanc que la ségrégation de la radio et des commerces tenait à l'écart des enregistrements originaux de ces artistes."
+      },
+      "nl": {
+        "hook": "Elvis Presley's vroege roem dreef op klanken die zwarte muzikanten hadden uitgevonden.",
+        "fact": "Presleys doorbraak in de jaren vijftig bracht rhythm-and-blues en rock-'n-roll, die in de zwarte Amerikaanse muziek al lang populair waren, naar een breed wit publiek dat door gesegregeerde radio en winkels grotendeels geen toegang had tot de oorspronkelijke opnamen van die artiesten."
+      },
+      "es": {
+        "hook": "La fama temprana de Elvis Presley se apoyó en sonidos creados por músicos negros.",
+        "fact": "El ascenso de Presley en los años cincuenta llevó el rhythm and blues y el rock and roll, populares desde hacía tiempo en la música negra estadounidense, a un público blanco mayoritario al que la segregación de la radio y del comercio mantenía apartado de las grabaciones originales de esos artistas."
+      }
+    }
   },
   {
     "id": "culture-165",
@@ -3327,7 +4037,21 @@
       "music",
       "lgbtq-rights",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un style de danse né dans les ballrooms de Harlem a percé grâce à un tube pop de 1990.",
+        "fact": "Le voguing s'est développé dans la culture ballroom noire et latino LGBTQ+ du Harlem des années 1980, comme une danse stylisée inspirée des poses de mannequins ; la chanson « Vogue » de Madonna, en 1990, l'a fait découvrir au grand public."
+      },
+      "nl": {
+        "hook": "Een dansstijl uit de balzalen van Harlem brak door via een popsong uit 1990.",
+        "fact": "Vogueing ontstond in de jaren tachtig binnen de zwarte en Latino LGBTQ+-ballroomcultuur van Harlem als een gestileerde dansvorm geïnspireerd op modellenposes; Madonna's nummer 'Vogue' uit 1990 bracht de stijl bij een massapubliek."
+      },
+      "es": {
+        "hook": "Un estilo de baile nacido en los salones de Harlem llegó al gran público con una canción pop de 1990.",
+        "fact": "El vogue se desarrolló en la cultura ballroom negra y latina LGBTQ+ del Harlem de los años ochenta como una danza estilizada inspirada en las poses de las modelos; la canción 'Vogue' de Madonna, de 1990, lo dio a conocer a un público masivo."
+      }
+    }
   },
   {
     "id": "culture-166",
@@ -3337,7 +4061,21 @@
     "tags": [
       "fashion",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En 1943, à Los Angeles, porter un costume trop ample pouvait vous valoir d'être agressé dans la rue.",
+        "fact": "Lors des émeutes des zoot suits, en juin 1943, des militaires et des civils américains ont agressé de jeunes hommes latinos et noirs parce qu'ils portaient les zoot suits voyants et très amples de l'époque, que l'armée jugeait un gaspillage de tissu en pleine période de rationnement."
+      },
+      "nl": {
+        "hook": "In Los Angeles kon een wijd pak je in 1943 op straat een pak slaag opleveren.",
+        "fact": "Tijdens de Zoot Suit Riots van juni 1943 vielen Amerikaanse militairen en burgers jonge Latino- en zwarte mannen aan omdat ze de opvallende, stofrijke zoot suits van die tijd droegen, die het leger als verkwisting zag in een periode van oorlogsrantsoenering."
+      },
+      "es": {
+        "hook": "En Los Ángeles de 1943, llevar un traje holgado podía costarte una paliza en plena calle.",
+        "fact": "Durante los disturbios de los zoot suits, en junio de 1943, militares y civiles estadounidenses agredieron a jóvenes latinos y negros por vestir los llamativos y voluminosos zoot suits de la época, que el ejército consideraba un derroche de tela en plena escasez de guerra."
+      }
+    }
   },
   {
     "id": "culture-167",
@@ -3347,7 +4085,21 @@
     "tags": [
       "fashion",
       "uk"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Deux sous-cultures de jeunes britanniques se sont livré de véritables batailles rangées dans les stations balnéaires.",
+        "fact": "Les Mods, reconnaissables à leurs scooters et à leurs costumes cintrés, et les Rockers, associés aux motos et aux blousons de cuir, se sont affrontés dans des villes balnéaires anglaises comme Brighton et Margate au milieu des années 1960, alimentant une vague de panique médiatique autour de la jeunesse."
+      },
+      "nl": {
+        "hook": "Twee Britse jeugdsubculturen leverden veldslagen in badplaatsen.",
+        "fact": "Mods, bekend van hun scooters en op maat gemaakte pakken, en Rockers, geassocieerd met motoren en leren jacks, botsten halverwege de jaren zestig in Engelse kustplaatsen als Brighton en Margate, wat een golf van mediapaniek over de jeugdcultuur voedde."
+      },
+      "es": {
+        "hook": "Dos subculturas juveniles británicas libraron auténticas batallas en los pueblos costeros.",
+        "fact": "Los mods, conocidos por sus scooters y sus trajes entallados, y los rockers, asociados a las motos y las cazadoras de cuero, se enfrentaron a mediados de los años sesenta en localidades costeras inglesas como Brighton y Margate, alimentando una ola de pánico mediático sobre la juventud."
+      }
+    }
   },
   {
     "id": "culture-168",
@@ -3357,7 +4109,21 @@
     "tags": [
       "cinema",
       "brazil"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des cinéastes brésiliens ont fait de la pauvreté et de la politique un mouvement cinématographique.",
+        "fact": "Le Cinema Novo est né au Brésil dans les années 1960 : des réalisateurs comme Glauber Rocha rejetaient le lissé des grands studios au profit de films bruts et socialement engagés sur les inégalités et la vie quotidienne."
+      },
+      "nl": {
+        "hook": "Braziliaanse regisseurs maakten van armoede en politiek een filmbeweging.",
+        "fact": "Cinema Novo ontstond in de jaren zestig in Brazilië, met regisseurs als Glauber Rocha die de gladde afwerking van de grote studio's inruilden voor rauwe, maatschappelijk geëngageerde films over ongelijkheid en het dagelijks leven."
+      },
+      "es": {
+        "hook": "Unos directores brasileños convirtieron la pobreza y la política en un movimiento cinematográfico.",
+        "fact": "El Cinema Novo surgió en Brasil en los años sesenta, con directores como Glauber Rocha que rechazaron el acabado pulido de los grandes estudios en favor de películas crudas y socialmente comprometidas sobre la desigualdad y la vida cotidiana."
+      }
+    }
   },
   {
     "id": "culture-169",
@@ -3368,7 +4134,21 @@
       "music",
       "panama",
       "puerto-rico"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les racines du reggaeton passent par le Panama avant qu'il ne devienne un son portoricain.",
+        "fact": "Dans les années 1980 et 1990, des artistes panaméens ont adapté le dancehall jamaïcain en espagnol ; le style a ensuite été retravaillé à Porto Rico au cours des années 1990 pour donner le reggaeton, qui s'est plus tard imposé dans le monde entier."
+      },
+      "nl": {
+        "hook": "De wortels van reggaeton liggen in Panama, voordat het een Puerto Ricaans geluid werd.",
+        "fact": "In de jaren tachtig en negentig zetten Panamese artiesten Jamaicaanse dancehall om naar het Spaans; de stijl werd in de loop van de jaren negentig in Puerto Rico omgevormd tot het genre reggaeton, dat later wereldwijd doorbrak."
+      },
+      "es": {
+        "hook": "Las raíces del reguetón pasan por Panamá antes de que fuera un sonido puertorriqueño.",
+        "fact": "En los años ochenta y noventa, artistas panameños tradujeron el dancehall jamaicano al español; el estilo se transformó después en Puerto Rico a lo largo de los noventa hasta dar lugar al reguetón, que más tarde se volvió global."
+      }
+    }
   },
   {
     "id": "culture-170",
@@ -3378,7 +4158,21 @@
     "tags": [
       "music",
       "nigeria"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un musicien nigérian a inventé un genre en fusionnant jazz, funk et highlife.",
+        "fact": "Fela Kuti a créé l'afrobeat à Lagos à la fin des années 1960 et dans les années 1970, mêlant le highlife nigérian au jazz et au funk américains dans de longues compositions à forte charge politique, qui ont aussi fait de lui une cible du gouvernement."
+      },
+      "nl": {
+        "hook": "Eén Nigeriaanse muzikant vond een genre uit door jazz, funk en highlife te versmelten.",
+        "fact": "Fela Kuti gaf eind jaren zestig en in de jaren zeventig in Lagos vorm aan afrobeat, waarin hij Nigeriaanse highlife mengde met Amerikaanse jazz en funk in lange, politiek geladen composities die hem ook tot doelwit van de regering maakten."
+      },
+      "es": {
+        "hook": "Un músico nigeriano inventó un género fusionando jazz, funk y highlife.",
+        "fact": "Fela Kuti creó el afrobeat en Lagos a finales de los años sesenta y en los setenta, mezclando el highlife nigeriano con el jazz y el funk estadounidenses en composiciones largas y de fuerte carga política que también lo convirtieron en blanco del gobierno."
+      }
+    }
   },
   {
     "id": "culture-171",
@@ -3389,7 +4183,21 @@
       "technology",
       "music",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un appareil Sony de la taille d'un livre de poche a changé notre façon d'écouter la musique.",
+        "fact": "Le Walkman, lancé par Sony en 1979, fut l'un des premiers appareils à rendre la musique portable et privée, permettant pour la première fois d'emporter partout sa propre bande-son."
+      },
+      "nl": {
+        "hook": "Een Sony-apparaatje ter grootte van een pocketboek veranderde hoe mensen naar muziek luisteren.",
+        "fact": "De Walkman, in 1979 door Sony uitgebracht, was een van de eerste apparaten die muziek draagbaar en privé maakten, waardoor luisteraars voor het eerst hun eigen soundtrack overal mee naartoe konden nemen."
+      },
+      "es": {
+        "hook": "Un aparato de Sony del tamaño de un libro de bolsillo cambió la forma de escuchar música.",
+        "fact": "El Walkman, lanzado por Sony en 1979, fue uno de los primeros dispositivos que hicieron la música portátil y privada, y permitió por primera vez llevar una banda sonora personal a cualquier parte."
+      }
+    }
   },
   {
     "id": "culture-172",
@@ -3399,7 +4207,21 @@
     "tags": [
       "fashion",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le denim n'est arrivé sur les podiums que des décennies après être devenu un vêtement de travail.",
+        "fact": "Au début des années 1990, les créateurs ont commencé à faire défiler en haute couture des looks inspirés du grunge et du denim — dont la collection grunge controversée de Marc Jacobs pour Perry Ellis en 1992 — érigeant en mode de luxe ce qui relevait jusque-là du style friperie."
+      },
+      "nl": {
+        "hook": "Denim haalde de modeshows pas decennia nadat het werkkleding was geworden.",
+        "fact": "Begin jaren negentig stuurden ontwerpers door grunge en denim geïnspireerde looks de couturecatwalk op — waaronder de omstreden grungecollectie die Marc Jacobs in 1992 voor Perry Ellis maakte — waarmee tweedehandsstijl tot luxemode werd verheven."
+      },
+      "es": {
+        "hook": "El denim no llegó a las pasarelas de alta costura hasta décadas después de convertirse en ropa de trabajo.",
+        "fact": "A principios de los años noventa, los diseñadores empezaron a llevar a la alta costura propuestas inspiradas en el grunge y el denim — incluida la polémica colección grunge que Marc Jacobs presentó en 1992 para Perry Ellis —, consagrando como moda de lujo un estilo hasta entonces de tienda de segunda mano."
+      }
+    }
   },
   {
     "id": "culture-173",
@@ -3409,7 +4231,21 @@
     "tags": [
       "customs",
       "france"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En France, ne pas dire « bon appétit » avant de manger peut sembler étrangement sec.",
+        "fact": "En France, il est d'usage de souhaiter « bon appétit » aux autres avant de commencer à manger, y compris à des inconnus attablés à côté au restaurant ; ne pas le dire peut passer pour inhabituellement brusque."
+      },
+      "nl": {
+        "hook": "In Frankrijk komt het vreemd bruusk over als je voor het eten geen 'bon appétit' zegt.",
+        "fact": "In Frankrijk is het gebruikelijk om anderen 'bon appétit' te wensen voordat het eten begint, zelfs aan onbekenden die vlakbij zitten in een restaurant; het achterwege laten kan ongewoon kortaf overkomen."
+      },
+      "es": {
+        "hook": "En Francia, no decir 'bon appétit' antes de comer puede resultar extrañamente brusco.",
+        "fact": "En Francia se acostumbra a desear 'bon appétit' a los demás antes de empezar a comer, incluso a desconocidos sentados cerca en un restaurante; no hacerlo puede sonar inusualmente seco."
+      }
+    }
   },
   {
     "id": "culture-174",
@@ -3419,7 +4255,21 @@
     "tags": [
       "customs",
       "germany"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Allemagne, traverser au rouge dans une rue déserte attire encore des regards désapprobateurs.",
+        "fact": "Traverser au feu piéton rouge en Allemagne, même sans une voiture en vue, est largement mal vu et peut être sanctionné d'une amende — beaucoup d'Allemands s'en abstiennent notamment pour donner l'exemple aux enfants."
+      },
+      "nl": {
+        "hook": "Door rood lopen op een lege straat levert in Duitsland nog altijd afkeurende blikken op.",
+        "fact": "Bij rood oversteken als voetganger wordt in Duitsland breed afgekeurd, zelfs als er geen auto te bekennen is, en kan een boete opleveren — veel Duitsers laten het onder meer om het goede voorbeeld te geven aan kinderen."
+      },
+      "es": {
+        "hook": "Cruzar en rojo en una calle vacía todavía provoca miradas de desaprobación en Alemania.",
+        "fact": "Cruzar con el semáforo peatonal en rojo en Alemania, aunque no haya ni un coche a la vista, está muy mal visto y puede acarrear una multa; muchos alemanes lo evitan en parte para dar ejemplo a los niños."
+      }
+    }
   },
   {
     "id": "culture-175",
@@ -3429,7 +4279,21 @@
     "tags": [
       "customs",
       "netherlands"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les maisons néerlandaises sont réputées pour laisser leurs rideaux grands ouverts le soir.",
+        "fact": "Dans une grande partie des Pays-Bas, il est courant de laisser rideaux et stores ouverts après la tombée de la nuit, une habitude souvent rattachée à une valeur culturelle de transparence et à l'idée de n'avoir « rien à cacher »."
+      },
+      "nl": {
+        "hook": "Nederlandse huizen staan erom bekend dat de gordijnen 's avonds wagenwijd openblijven.",
+        "fact": "In grote delen van Nederland is het gewoon om gordijnen en rolluiken na het donker open te laten, een gewoonte die vaak wordt teruggevoerd op de culturele waarde die aan openheid wordt gehecht en aan het idee 'niets te verbergen' te hebben."
+      },
+      "es": {
+        "hook": "Las casas neerlandesas son famosas por dejar las cortinas abiertas de par en par por la noche.",
+        "fact": "En buena parte de los Países Bajos es habitual dejar cortinas y persianas abiertas después del anochecer, una costumbre que suele atribuirse al valor cultural que se da a la transparencia y a no tener 'nada que ocultar'."
+      }
+    }
   },
   {
     "id": "culture-176",
@@ -3440,7 +4304,24 @@
     "tags": [
       "customs",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Montrer la semelle de sa chaussure est une grave insulte dans une grande partie du Moyen-Orient.",
+        "fact": "Dans de nombreuses cultures du Moyen-Orient et d'Asie du Sud, les pieds sont considérés comme la partie la moins propre du corps : pointer la semelle de sa chaussure vers quelqu'un, ou poser son pied de façon à ce qu'il soit tourné vers lui, est perçu comme irrespectueux.",
+        "whyItMatters": "La portée de ce geste a été montrée au monde entier en 2008, lorsqu'un journaliste irakien a lancé ses chaussures sur le président américain George W. Bush, en guise d'insulte délibérée."
+      },
+      "nl": {
+        "hook": "Iemand je schoenzool tonen is in grote delen van het Midden-Oosten een zware belediging.",
+        "fact": "In veel culturen in het Midden-Oosten en Zuid-Azië gelden voeten als het minst schone deel van het lichaam, waardoor het als respectloos wordt gezien om je schoenzool naar iemand te richten of je voet zo neer te leggen dat hij naar die persoon wijst.",
+        "whyItMatters": "Hoe zwaar het gebaar weegt, bleek wereldwijd in 2008, toen een Iraakse journalist zijn schoenen naar de Amerikaanse president George W. Bush gooide als een berekende belediging."
+      },
+      "es": {
+        "hook": "Enseñar la suela del zapato es una ofensa grave en buena parte de Oriente Medio.",
+        "fact": "En muchas culturas de Oriente Medio y del sur de Asia los pies se consideran la parte menos limpia del cuerpo, de modo que apuntar con la suela del zapato hacia alguien, o apoyar el pie de forma que quede orientado hacia esa persona, se percibe como una falta de respeto.",
+        "whyItMatters": "El peso del gesto quedó a la vista de todo el mundo en 2008, cuando un periodista iraquí lanzó sus zapatos al presidente estadounidense George W. Bush como un insulto deliberado."
+      }
+    }
   },
   {
     "id": "culture-177",
@@ -3450,7 +4331,21 @@
     "tags": [
       "customs",
       "uk"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Au Royaume-Uni, resquiller dans une file est presque considéré comme une faute morale.",
+        "fact": "La file d'attente est prise particulièrement au sérieux dans la culture britannique : passer devant tout le monde est largement vu comme l'une des choses les plus grossières que l'on puisse faire en public, même pour une broutille comme un arrêt de bus."
+      },
+      "nl": {
+        "hook": "Voordringen in de rij geldt in het Verenigd Koninkrijk bijna als een morele overtreding.",
+        "fact": "In de Britse cultuur wordt in de rij staan uitzonderlijk serieus genomen: voordringen geldt breed als een van de onbeleefdste dingen die je in het openbaar kunt doen, zelfs bij iets kleins als een bushalte."
+      },
+      "es": {
+        "hook": "Colarse en una cola se considera casi una falta moral en el Reino Unido.",
+        "fact": "Hacer cola se toma con una seriedad poco común en la cultura británica: colarse se ve ampliamente como una de las cosas más groseras que se pueden hacer en público, aunque sea por algo tan menor como una parada de autobús."
+      }
+    }
   },
   {
     "id": "culture-178",
@@ -3460,7 +4355,21 @@
     "tags": [
       "customs",
       "switzerland"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Suisse, arriver cinq minutes en retard à un rendez-vous peut passer pour un manque de respect.",
+        "fact": "La ponctualité est très valorisée en Suisse, où même un léger retard à un rendez-vous professionnel ou amical est souvent interprété comme un manque de considération pour le temps de l'autre."
+      },
+      "nl": {
+        "hook": "Vijf minuten te laat komen op een Zwitserse afspraak kan als respectloos worden gelezen.",
+        "fact": "Punctualiteit staat in Zwitserland hoog in het vaandel: zelfs kort te laat komen op een zakelijke of sociale afspraak wordt vaak opgevat als weinig respect voor de tijd van de ander."
+      },
+      "es": {
+        "hook": "Llegar cinco minutos tarde a una cita en Suiza puede interpretarse como una falta de respeto.",
+        "fact": "La puntualidad se valora muchísimo en Suiza, donde incluso un breve retraso en una cita profesional o social suele interpretarse como falta de consideración hacia el tiempo del otro."
+      }
+    }
   },
   {
     "id": "culture-179",
@@ -3470,7 +4379,21 @@
     "tags": [
       "customs",
       "latin-america"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Arriver pile à l'heure à une fête peut passer pour de l'impatience dans une grande partie de l'Amérique latine.",
+        "fact": "Dans de nombreux pays d'Amérique latine, les invités arrivent couramment 30 minutes à une heure après l'heure annoncée pour les réunions entre amis, et se présenter à l'heure exacte peut surprendre des hôtes encore en pleins préparatifs."
+      },
+      "nl": {
+        "hook": "Precies op tijd op een feest verschijnen komt in veel Latijns-Amerikaanse landen gretig over.",
+        "fact": "In veel Latijns-Amerikaanse landen komen gasten bij sociale gelegenheden doorgaans een half uur tot een uur na het genoemde aanvangstijdstip, en wie exact op tijd is, treft de gastheer vaak nog midden in de voorbereidingen aan."
+      },
+      "es": {
+        "hook": "Llegar puntual a una fiesta puede parecer demasiado ansioso en buena parte de América Latina.",
+        "fact": "En muchos países latinoamericanos los invitados suelen llegar entre 30 minutos y una hora después de la hora anunciada para las reuniones sociales, y presentarse a la hora exacta puede pillar a los anfitriones todavía preparándolo todo."
+      }
+    }
   },
   {
     "id": "culture-180",
@@ -3480,7 +4403,21 @@
     "tags": [
       "customs",
       "russia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Russie, on dit que siffler à l'intérieur fait fuir l'argent.",
+        "fact": "Une superstition russe bien ancrée veut que siffler dans une maison fasse « s'envoler » l'argent ou attire la malchance financière ; on évite donc généralement de le faire à l'intérieur."
+      },
+      "nl": {
+        "hook": "In Rusland gelooft men dat binnen fluiten je geld kost.",
+        "fact": "Een hardnekkig Russisch bijgeloof wil dat fluiten in huis je geld 'wegfluit' of financiële tegenslag aantrekt, waardoor het binnenshuis doorgaans wordt ontraden."
+      },
+      "es": {
+        "hook": "En Rusia se cree que silbar dentro de casa te cuesta dinero.",
+        "fact": "Una arraigada superstición rusa sostiene que silbar dentro de una casa 'ahuyenta' el dinero o atrae la mala suerte económica, por lo que suele desaconsejarse hacerlo en interiores."
+      }
+    }
   },
   {
     "id": "culture-181",
@@ -3490,7 +4427,21 @@
     "tags": [
       "customs",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Au Moyen-Orient, refuser poliment un thé n'est souvent que la première étape avant de l'accepter.",
+        "fact": "Dans les traditions d'hospitalité bédouines et plus largement moyen-orientales, il est d'usage de décliner un café ou un thé une ou deux fois avant d'accepter, par humilité et non par véritable refus."
+      },
+      "nl": {
+        "hook": "Beleefd thee weigeren is in delen van het Midden-Oosten vaak pas de eerste stap naar aannemen.",
+        "fact": "In bedoeïense en bredere Midden-Oosterse gastvrijheidstradities is het gebruikelijk om aangeboden koffie of thee een of twee keer af te slaan voordat je aanneemt, als blijk van bescheidenheid en niet als echte weigering."
+      },
+      "es": {
+        "hook": "Rechazar cortésmente un té en partes de Oriente Medio suele ser solo el primer paso para aceptarlo.",
+        "fact": "En las tradiciones de hospitalidad beduinas y de Oriente Medio en general, se acostumbra a rechazar un café o un té una o dos veces antes de aceptarlo, como gesto de humildad más que como una negativa real."
+      }
+    }
   },
   {
     "id": "culture-182",
@@ -3500,7 +4451,21 @@
     "tags": [
       "customs",
       "korea"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Corée du Sud, se servir soi-même à boire est un impair à table.",
+        "fact": "L'étiquette coréenne veut traditionnellement que l'on ne remplisse pas son propre verre : les convives se servent mutuellement, souvent à deux mains en signe de respect, en particulier envers les aînés."
+      },
+      "nl": {
+        "hook": "Je eigen glas inschenken hoort in Zuid-Korea niet aan tafel.",
+        "fact": "De Koreaanse tafeletiquette schrijft van oudsher voor dat je je eigen glas niet vult; in plaats daarvan schenken tafelgenoten voor elkaar in, vaak met beide handen als teken van respect, zeker tegenover ouderen."
+      },
+      "es": {
+        "hook": "Servirte tú mismo la bebida está mal visto en la mesa en Corea del Sur.",
+        "fact": "La etiqueta coreana en la mesa dicta tradicionalmente que uno no debe llenarse el propio vaso; en su lugar, los comensales se sirven unos a otros, a menudo con ambas manos como señal de respeto, sobre todo hacia los mayores."
+      }
+    }
   },
   {
     "id": "culture-183",
@@ -3510,7 +4475,21 @@
     "tags": [
       "customs",
       "thailand"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Thaïlande, tapoter la tête d'un enfant est profondément offensant.",
+        "fact": "Dans la culture thaïlandaise, la tête est considérée comme la partie la plus sacrée du corps et les pieds comme la plus basse : toucher la tête de quelqu'un ou pointer ses pieds vers une personne ou une image du Bouddha est jugé très irrespectueux."
+      },
+      "nl": {
+        "hook": "Een kind over het hoofd aaien is in Thailand diep beledigend.",
+        "fact": "In de Thaise cultuur geldt het hoofd als het meest heilige deel van het lichaam en de voeten als het laagste, waardoor iemands hoofd aanraken of je voeten richten op een persoon of een boeddhabeeld als zeer respectloos wordt beschouwd."
+      },
+      "es": {
+        "hook": "Dar palmaditas en la cabeza a un niño es profundamente ofensivo en Tailandia.",
+        "fact": "En la cultura tailandesa la cabeza se considera la parte más sagrada del cuerpo y los pies la más baja, de modo que tocar la cabeza de alguien o apuntar con los pies hacia una persona o una imagen de Buda se considera muy irrespetuoso."
+      }
+    }
   },
   {
     "id": "culture-184",
@@ -3520,7 +4499,21 @@
     "tags": [
       "customs",
       "finland"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les longs silences dans une conversation ne mettent pas les Finlandais mal à l'aise.",
+        "fact": "Le silence paisible fait partie intégrante, et même appréciée, des conversations quotidiennes en Finlande, contrairement aux cultures où une pause est aussitôt comblée par des banalités."
+      },
+      "nl": {
+        "hook": "Lange stiltes in een gesprek maken Finnen niet ongemakkelijk.",
+        "fact": "Comfortabele stilte is in Finland een normaal, zelfs gewaardeerd onderdeel van alledaagse gesprekken, anders dan in culturen waar een pauze meteen met smalltalk wordt opgevuld."
+      },
+      "es": {
+        "hook": "Los silencios largos en una conversación no incomodan a los finlandeses.",
+        "fact": "El silencio cómodo es una parte normal, e incluso valorada, de la conversación cotidiana en Finlandia, a diferencia de culturas donde cualquier pausa se llena enseguida con charla intrascendente."
+      }
+    }
   },
   {
     "id": "culture-185",
@@ -3530,7 +4523,21 @@
     "tags": [
       "customs",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Au Japon, la carte de visite est traitée presque comme un prolongement de la personne.",
+        "fact": "Échanger une meishi, ou carte de visite, au Japon suppose traditionnellement de la présenter et de la recevoir à deux mains avec une légère inclinaison, puis de l'examiner attentivement plutôt que de l'empocher aussitôt."
+      },
+      "nl": {
+        "hook": "Visitekaartjes worden in Japan bijna behandeld als een verlengstuk van de persoon.",
+        "fact": "Het uitwisselen van een meishi, of visitekaartje, gebeurt in Japan traditioneel met beide handen en een lichte buiging, waarna je het kaartje aandachtig bekijkt in plaats van het meteen in je zak te steken."
+      },
+      "es": {
+        "hook": "En Japón, las tarjetas de visita se tratan casi como una extensión de la persona.",
+        "fact": "Intercambiar una meishi, o tarjeta de visita, en Japón implica tradicionalmente entregarla y recibirla con ambas manos y una leve inclinación, y después examinarla con atención en lugar de guardarla de inmediato en el bolsillo."
+      }
+    }
   },
   {
     "id": "culture-186",
@@ -3540,7 +4547,21 @@
     "tags": [
       "customs",
       "france"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En France, le nombre de bises dépend de la région où vous vous trouvez.",
+        "fact": "La bise, salut traditionnel, varie d'une région française à l'autre, d'un seul baiser jusqu'à quatre, et les attentes différentes entre habitants de régions distinctes provoquent souvent de petits ratés gênants."
+      },
+      "nl": {
+        "hook": "Hoeveel wangzoenen je in Frankrijk geeft, hangt af van de regio waar je bent.",
+        "fact": "De traditionele begroetingskus, of 'bise', verschilt per Franse regio van één kus tot wel vier, en botsende verwachtingen tussen mensen uit verschillende streken zorgen geregeld voor onhandig gehannes."
+      },
+      "es": {
+        "hook": "Cuántos besos das en la mejilla en Francia depende de la región en la que estés.",
+        "fact": "El beso de saludo tradicional, la 'bise', varía según la región francesa entre uno y hasta cuatro besos, y el desajuste de expectativas entre gente de distintas zonas es una fuente habitual de momentos incómodos."
+      }
+    }
   },
   {
     "id": "culture-187",
@@ -3550,7 +4571,21 @@
     "tags": [
       "customs",
       "scandinavia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un code social scandinave décourage de se vanter de ses succès.",
+        "fact": "La « loi de Jante », un ensemble de normes informelles répandues dans les pays nordiques, dissuade chacun de se prétendre supérieur aux autres, en privilégiant la modestie et l'égalité collective plutôt que la mise en avant des réussites personnelles."
+      },
+      "nl": {
+        "hook": "Een Scandinavische sociale code ontmoedigt opscheppen over eigen succes.",
+        "fact": "De 'wet van Jante', een reeks informele normen die wijdverbreid is in de Noordse landen, ontmoedigt mensen om zich beter te wanen dan anderen en stelt bescheidenheid en collectieve gelijkheid boven het etaleren van persoonlijke prestaties."
+      },
+      "es": {
+        "hook": "Un código social escandinavo desaconseja presumir de los propios éxitos.",
+        "fact": "La 'ley de Jante', un conjunto de normas informales extendido por los países nórdicos, desaconseja que nadie se considere mejor que los demás y prima la modestia y la igualdad colectiva sobre la exhibición de los logros personales."
+      }
+    }
   },
   {
     "id": "culture-188",
@@ -3560,7 +4595,21 @@
     "tags": [
       "customs",
       "portugal"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Au Portugal, demander du sel au restaurant peut passer pour une pique au cuisinier.",
+        "fact": "Au Portugal, réclamer du sel ou du poivre avant d'avoir goûté son plat est parfois perçu comme sous-entendre qu'il manque d'assaisonnement, ce qui peut être reçu comme une insulte involontaire envers le cuisinier."
+      },
+      "nl": {
+        "hook": "In Portugal kan om zout vragen in een restaurant klinken als kritiek op de kok.",
+        "fact": "In Portugal wordt om extra zout of peper vragen voordat je hebt geproefd soms opgevat als de suggestie dat het gerecht te weinig op smaak is gebracht, wat kan overkomen als een onbedoelde belediging van de kok."
+      },
+      "es": {
+        "hook": "Pedir sal en un restaurante puede sonar a reproche al cocinero en Portugal.",
+        "fact": "En Portugal, pedir más sal o pimienta antes de probar la comida se interpreta a veces como dar a entender que el plato está soso, lo que puede resultar un insulto involuntario para quien cocina."
+      }
+    }
   },
   {
     "id": "culture-189",
@@ -3570,7 +4619,21 @@
     "tags": [
       "customs",
       "italy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Italie, commander un cappuccino après le dîner trahit immédiatement le touriste.",
+        "fact": "Les Italiens ne boivent généralement du cappuccino que le matin, souvent avant ou pendant le petit-déjeuner ; en commander un après un repas, surtout le dîner, est jugé insolite et signale aussitôt un visiteur."
+      },
+      "nl": {
+        "hook": "Een cappuccino bestellen na het avondeten verraadt in Italië meteen de toerist.",
+        "fact": "Italianen drinken cappuccino doorgaans alleen 's ochtends, vaak voor of bij het ontbijt; er een bestellen na een maaltijd, zeker na het diner, geldt als ongebruikelijk en verraadt meteen een bezoeker."
+      },
+      "es": {
+        "hook": "Pedir un capuchino después de cenar delata al turista al instante en Italia.",
+        "fact": "Los italianos suelen tomar capuchino solo por la mañana, normalmente antes del desayuno o con él; pedir uno después de una comida, y sobre todo tras la cena, se considera raro y señala enseguida a quien está de visita."
+      }
+    }
   },
   {
     "id": "culture-190",
@@ -3581,7 +4644,21 @@
       "customs",
       "uk",
       "usa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans les pays anglophones, « How are you ? » n'est généralement pas une vraie question.",
+        "fact": "Dans une grande partie du monde anglophone, « How are you ? » sert de formule de salutation plutôt que de véritable question, et répondre par un récit détaillé et sincère de sa journée peut décontenancer l'interlocuteur."
+      },
+      "nl": {
+        "hook": "In Engelstalige landen is 'How are you?' meestal geen echte vraag.",
+        "fact": "In een groot deel van de Engelstalige wereld werkt 'How are you?' als een begroeting en niet als een oprechte vraag. Wie antwoordt met een uitgebreid, eerlijk verslag van zijn dag, overvalt de ander dan ook nogal eens."
+      },
+      "es": {
+        "hook": "En los países anglófonos, «How are you?» casi nunca es una pregunta de verdad.",
+        "fact": "En buena parte del mundo anglófono, «How are you?» funciona como un saludo más que como una pregunta genuina, y responder con un relato detallado y sincero de tu día puede pillar a la gente desprevenida."
+      }
+    }
   },
   {
     "id": "culture-191",
@@ -3591,7 +4668,21 @@
     "tags": [
       "customs",
       "norway"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Norvégiens laissent des espaces bien visibles entre eux et les inconnus.",
+        "fact": "L'espace personnel aux arrêts de bus et dans les files d'attente est généralement plus grand en Norvège que dans beaucoup d'autres cultures : les gens se tiennent souvent nettement à l'écart des personnes qu'ils ne connaissent pas."
+      },
+      "nl": {
+        "hook": "Noren houden opvallend veel ruimte tussen zichzelf en vreemden.",
+        "fact": "De persoonlijke ruimte bij bushaltes en in de rij is in Noorwegen doorgaans groter dan in veel andere culturen: mensen gaan vaak op flinke afstand van iemand staan die ze niet kennen."
+      },
+      "es": {
+        "hook": "Los noruegos dejan huecos muy visibles entre ellos y los desconocidos.",
+        "fact": "El espacio personal en las paradas de autobús y en las colas suele ser mayor en Noruega que en muchas otras culturas: la gente tiende a colocarse bastante lejos de cualquiera a quien no conozca."
+      }
+    }
   },
   {
     "id": "culture-192",
@@ -3601,7 +4692,21 @@
     "tags": [
       "customs",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le côté où l'on se tient dans un escalator peut s'inverser à l'intérieur d'un même pays.",
+        "fact": "Au Japon, la règle tacite est de se tenir à gauche et de marcher à droite à Tokyo, mais la convention s'inverse à Osaka, où l'on se tient à droite."
+      },
+      "nl": {
+        "hook": "Aan welke kant je op de roltrap staat, kan binnen één land omdraaien.",
+        "fact": "In Japan geldt in Tokio de ongeschreven regel dat je links staat en rechts doorloopt, maar in Osaka is het precies andersom: daar houden stilstaanders rechts aan."
+      },
+      "es": {
+        "hook": "El lado en el que te colocas en la escalera mecánica puede invertirse dentro de un mismo país.",
+        "fact": "En Japón, la norma no escrita en Tokio es quedarse a la izquierda y caminar por la derecha, pero en Osaka la convención se invierte y quienes van parados se sitúan a la derecha."
+      }
+    }
   },
   {
     "id": "culture-193",
@@ -3611,7 +4716,21 @@
     "tags": [
       "customs",
       "argentina"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Partager une seule paille à plusieurs est la norme quand on boit le maté.",
+        "fact": "En Argentine, en Uruguay, au Paraguay et dans le sud du Brésil, le maté, une boisson à base de plantes, se passe traditionnellement de main en main dans une même calebasse avec une unique paille en métal, que la personne qui sert remplit à nouveau à chaque tour."
+      },
+      "nl": {
+        "hook": "Eén rietje delen met de hele groep is heel gewoon bij het drinken van maté.",
+        "fact": "In Argentinië, Uruguay, Paraguay en het zuiden van Brazilië gaat het kruidendrankje maté van oudsher rond in één gedeelde kalebas met een enkel metalen rietje, dat telkens wordt bijgevuld door degene die schenkt."
+      },
+      "es": {
+        "hook": "Compartir una sola bombilla entre todo el grupo es lo normal al tomar mate.",
+        "fact": "En Argentina, Uruguay, Paraguay y el sur de Brasil, el mate se pasa tradicionalmente de mano en mano en un mismo recipiente con una única bombilla de metal, que rellena quien ceba."
+      }
+    }
   },
   {
     "id": "culture-194",
@@ -3621,7 +4740,21 @@
     "tags": [
       "customs",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Chine, finir son assiette peut laisser croire, sans le vouloir, qu'on a encore faim.",
+        "fact": "Selon les règles traditionnelles de la table en Chine, laisser un peu de nourriture dans son assiette montre que l'hôte en a servi largement assez, tandis qu'une assiette vide peut suggérer que le repas n'était pas suffisant."
+      },
+      "nl": {
+        "hook": "In China kan een leeggegeten bord onbedoeld betekenen dat je nog honger hebt.",
+        "fact": "De traditionele Chinese tafeletiquette schrijft voor dat je een klein beetje eten op je bord laat liggen om te tonen dat de gastheer ruim voldoende heeft opgediend; een leeg bord kan juist suggereren dat de maaltijd niet toereikend was."
+      },
+      "es": {
+        "hook": "En China, dejar el plato limpio puede dar a entender sin querer que sigues con hambre.",
+        "fact": "La etiqueta tradicional china en la mesa sostiene que dejar un poco de comida en el plato demuestra que el anfitrión sirvió más que suficiente, mientras que un plato vacío puede sugerir que la comida no bastó."
+      }
+    }
   },
   {
     "id": "culture-195",
@@ -3631,7 +4764,21 @@
     "tags": [
       "customs",
       "gulf-states"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans le Golfe, un geste précis de la main signale qu'on a assez bu de café.",
+        "fact": "Lorsqu'ils boivent le café arabe traditionnel dans les pays du Golfe, les invités indiquent qu'ils ont terminé en secouant doucement leur petite tasse de gauche à droite au moment de la rendre — sans ce geste, elle est habituellement resservie."
+      },
+      "nl": {
+        "hook": "In de Golfstaten geef je met één handgebaar aan dat je genoeg koffie hebt gehad.",
+        "fact": "Bij het drinken van traditionele Arabische koffie in de Golfstaten laten gasten weten dat ze klaar zijn door hun kopje zachtjes heen en weer te schudden wanneer ze het teruggeven — anders wordt het volgens gewoonte gewoon opnieuw gevuld."
+      },
+      "es": {
+        "hook": "En el Golfo hay un gesto concreto con la mano para indicar que ya no quieres más café.",
+        "fact": "Al tomar café árabe tradicional en los países del Golfo, los invitados señalan que han terminado moviendo suavemente la tacita de un lado a otro al devolverla; de lo contrario, lo habitual es que se la vuelvan a llenar."
+      }
+    }
   },
   {
     "id": "culture-196",
@@ -3641,7 +4788,21 @@
     "tags": [
       "gestures",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Inde, un balancement de la tête peut vouloir dire oui, non ou « je t'écoute ».",
+        "fact": "Le balancement de tête indien est un geste polyvalent dont le sens change selon le contexte et le ton : il peut marquer l'accord, l'écoute ou une hésitation polie, ce qui déroute souvent les visiteurs qui attendent un oui ou un non clair."
+      },
+      "nl": {
+        "hook": "Een wiegend hoofd in India kan ja, nee of 'ik hoor je' betekenen.",
+        "fact": "De Indiase hoofdwiebel is een veelzijdig gebaar waarvan de betekenis afhangt van context en toon: het kan instemming, erkenning of beleefde twijfel uitdrukken, wat bezoekers die een duidelijk ja of nee verwachten vaak in verwarring brengt."
+      },
+      "es": {
+        "hook": "En India, un balanceo de cabeza puede significar sí, no o «te escucho».",
+        "fact": "El balanceo de cabeza indio es un gesto versátil cuyo significado cambia según el contexto y el tono: puede indicar acuerdo, reconocimiento o una duda cortés, y suele desconcertar a los visitantes que esperan un sí o un no claros."
+      }
+    }
   },
   {
     "id": "culture-197",
@@ -3651,7 +4812,21 @@
     "tags": [
       "customs",
       "germany"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Allemagne, appeler un collègue pour le travail en dehors des heures de bureau passe souvent mal.",
+        "fact": "La culture professionnelle allemande accorde une grande importance au « Feierabend », la frontière nette entre travail et vie privée, et contacter un collègue pour une question non urgente en dehors des heures de bureau peut être perçu comme un manque de savoir-vivre."
+      },
+      "nl": {
+        "hook": "In Duitsland is een collega na werktijd bellen over werk vaak ongepast.",
+        "fact": "De Duitse werkcultuur hecht veel waarde aan 'Feierabend', de duidelijke scheiding tussen werk en privétijd. Collega's buiten kantooruren benaderen over iets wat niet dringend is, geldt daar al snel als onbeleefd."
+      },
+      "es": {
+        "hook": "En Alemania, llamar a un compañero por temas de trabajo fuera de horario suele estar mal visto.",
+        "fact": "La cultura laboral alemana concede mucha importancia al «Feierabend», la frontera clara entre el trabajo y la vida personal, y contactar con un compañero por asuntos no urgentes fuera del horario de oficina puede considerarse una falta de educación."
+      }
+    }
   },
   {
     "id": "culture-198",
@@ -3661,7 +4836,21 @@
     "tags": [
       "customs",
       "gulf-states"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans une grande partie du Golfe, on salue d'abord la personne la plus âgée de la pièce.",
+        "fact": "Dans de nombreuses cultures arabes du Golfe, les usages veulent que l'on salue en premier la personne la plus âgée ou la plus haut placée avant les autres, ce qui reflète des normes plus larges de respect de l'âge et de la hiérarchie."
+      },
+      "nl": {
+        "hook": "In grote delen van de Golfregio begroet je eerst de oudste persoon in de ruimte.",
+        "fact": "In veel Arabische culturen in de Golfregio hoort het bij de omgangsvormen om de oudste of hoogste in rang als eerste te begroeten, wat past bij bredere normen rond respect voor leeftijd en hiërarchie."
+      },
+      "es": {
+        "hook": "En buena parte del Golfo, se saluda primero a la persona de mayor edad de la sala.",
+        "fact": "La etiqueta social de muchas culturas árabes del Golfo da gran importancia a saludar antes que a nadie a la persona de mayor edad o rango presente, en línea con normas más amplias de respeto a la edad y a la jerarquía."
+      }
+    }
   },
   {
     "id": "culture-199",
@@ -3671,7 +4860,21 @@
     "tags": [
       "customs",
       "mongolia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Marcher sur le seuil d'une tente mongole traditionnelle porte malheur.",
+        "fact": "En entrant dans une ger, la tente ronde traditionnelle des nomades mongols, les visiteurs doivent enjamber le seuil plutôt que de marcher dessus, une coutume ancrée dans des croyances liées à la chance et au respect du foyer."
+      },
+      "nl": {
+        "hook": "Op de drempel van een traditionele Mongoolse tent stappen brengt ongeluk.",
+        "fact": "Wie een ger binnengaat, de traditionele ronde tent van Mongoolse nomaden, wordt geacht over de drempel te stappen in plaats van erop. Die gewoonte komt voort uit opvattingen over geluk en respect voor het huishouden."
+      },
+      "es": {
+        "hook": "Pisar el umbral de una tienda mongola tradicional se considera de mala suerte.",
+        "fact": "Al entrar en un ger, la tienda redonda tradicional de los nómadas mongoles, se espera que los visitantes pasen por encima del umbral en lugar de pisarlo, una costumbre arraigada en creencias sobre la suerte y el respeto al hogar."
+      }
+    }
   },
   {
     "id": "culture-200",
@@ -3681,6 +4884,20 @@
     "tags": [
       "customs",
       "denmark"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Laisser un bébé endormi devant un café est tout à fait normal dans certaines régions de Scandinavie.",
+        "fact": "Au Danemark et dans d'autres pays nordiques, il est courant que les parents laissent leur nourrisson faire la sieste dans sa poussette devant les magasins ou les cafés pendant qu'ils entrent, ce qui témoigne d'une grande confiance dans l'espace public et de la conviction que le grand air favorise le sommeil."
+      },
+      "nl": {
+        "hook": "Een slapende baby buiten voor het café laten staan is in delen van Scandinavië heel normaal.",
+        "fact": "In Denemarken en andere Noordse landen is het gebruikelijk dat ouders hun baby buiten voor een winkel of café in de kinderwagen laten doorslapen terwijl ze zelf naar binnen gaan. Dat weerspiegelt het grote onderlinge vertrouwen en de overtuiging dat frisse lucht goed is voor de slaap."
+      },
+      "es": {
+        "hook": "Dejar a un bebé dormido a la puerta de una cafetería es de lo más normal en parte de Escandinavia.",
+        "fact": "En Dinamarca y otros países nórdicos es habitual que los padres dejen a sus bebés durmiendo la siesta en el carrito a la puerta de tiendas o cafeterías mientras ellos entran, algo que refleja una gran confianza en el espacio público y la creencia de que el aire fresco favorece el sueño."
+      }
+    }
   }
 ]

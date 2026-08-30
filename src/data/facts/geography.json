@@ -4673,7 +4673,24 @@
       "borders",
       "exclaves",
       "asia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des milliers de personnes ont vécu dans des morceaux d'un pays perdus à l'intérieur d'un autre.",
+        "fact": "Jusqu'en 2015, l'Inde et le Bangladesh partageaient le système d'enclaves le plus complexe du monde : plus d'une centaine de minuscules parcelles du territoire de chaque pays étaient disséminées dans l'autre, certaines abritant même leurs propres enclaves.",
+        "whyItMatters": "Un accord d'échange de terres conclu en 2015 a enfin permuté ces territoires, mettant fin à des décennies durant lesquelles de nombreux habitants n'avaient en pratique pas pleinement accès à la citoyenneté, à l'école ou aux services publics."
+      },
+      "nl": {
+        "hook": "Duizenden mensen woonden ooit in stukjes van het ene land, volledig ingesloten door het andere.",
+        "fact": "Tot 2015 deelden India en Bangladesh het ingewikkeldste enclavestelsel ter wereld: ruim honderd piepkleine stukjes grondgebied van het ene land lagen verspreid in het andere, sommige met daarin weer eigen enclaves.",
+        "whyItMatters": "Een landruilakkoord uit 2015 wisselde de gebieden eindelijk uit en maakte een einde aan decennia waarin veel bewoners feitelijk geen volwaardige toegang hadden tot staatsburgerschap, onderwijs of nutsvoorzieningen."
+      },
+      "es": {
+        "hook": "Miles de personas vivieron en trozos de un país atrapados dentro de otro.",
+        "fact": "Hasta 2015, India y Bangladés compartían el sistema de enclaves más complejo del mundo: más de cien diminutos fragmentos del territorio de cada país repartidos dentro del otro, algunos con enclaves propios en su interior.",
+        "whyItMatters": "Un acuerdo de intercambio de tierras firmado en 2015 permutó por fin los territorios y puso fin a décadas en las que muchos residentes vivían prácticamente sin acceso pleno a la ciudadanía, la escuela o los servicios básicos."
+      }
+    }
   },
   {
     "id": "geography-193",
@@ -4683,7 +4700,21 @@
     "tags": [
       "cities",
       "south-america"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Deux villes se disputent le titre de ville la plus australe du monde.",
+        "fact": "L'argentine Ushuaïa se présente depuis longtemps comme la ville la plus au sud de la planète, mais la chilienne Puerto Williams, passée du statut de bourg à celui de ville en 2019, se trouve en réalité plus au sud."
+      },
+      "nl": {
+        "hook": "Twee steden strijden om de titel van zuidelijkste stad ter wereld.",
+        "fact": "Het Argentijnse Ushuaia afficheert zich al jaren als de zuidelijkste stad op aarde, maar het Chileense Puerto Williams, dat in 2019 van dorp tot stad werd opgewaardeerd, ligt in werkelijkheid zuidelijker."
+      },
+      "es": {
+        "hook": "Dos ciudades se disputan el título de ciudad más austral del mundo.",
+        "fact": "La argentina Ushuaia lleva mucho tiempo promocionándose como la ciudad más al sur del planeta, pero la chilena Puerto Williams, que pasó de pueblo a ciudad en 2019, está en realidad más al sur."
+      }
+    }
   },
   {
     "id": "geography-194",
@@ -4693,7 +4724,21 @@
     "tags": [
       "cities",
       "europe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La localité habitée toute l'année la plus septentrionale du monde se trouve en plein Arctique.",
+        "fact": "Longyearbyen, dans l'archipel norvégien du Svalbard, compte environ 2 400 habitants et constitue l'établissement le plus au nord de la planète doté d'une population civile permanente."
+      },
+      "nl": {
+        "hook": "Het noordelijkste stadje met bewoners het hele jaar door ligt diep in het Noordpoolgebied.",
+        "fact": "Longyearbyen, op de Noorse eilandengroep Spitsbergen, telt zo'n 2.400 inwoners en is de noordelijkste nederzetting op aarde met een permanente burgerbevolking."
+      },
+      "es": {
+        "hook": "La localidad habitada todo el año más septentrional del mundo está en pleno Ártico.",
+        "fact": "Longyearbyen, en el archipiélago noruego de Svalbard, tiene unos 2.400 habitantes y es el asentamiento más al norte del planeta con población civil permanente."
+      }
+    }
   },
   {
     "id": "geography-195",
@@ -4703,7 +4748,21 @@
     "tags": [
       "maps",
       "trivia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une île imaginaire trône au centre exact de la carte du monde.",
+        "fact": "Null Island est un emplacement fictif inventé pour rire, aux coordonnées 0° de latitude et 0° de longitude — un point de l'océan Atlantique où les logiciels cartographiques déversent souvent les données de localisation défectueuses, au point que la NOAA y a réellement mouillé une bouée de mesure."
+      },
+      "nl": {
+        "hook": "Op het exacte middelpunt van de wereldkaart ligt een verzonnen eiland.",
+        "fact": "Null Island is een grappige plaatsaanduiding voor de coördinaten 0° breedte, 0° lengte — een punt in de Atlantische Oceaan waar kaartsoftware vaak kapotte locatiegegevens dumpt, wat de NOAA ertoe bracht er echt een meetboei te verankeren."
+      },
+      "es": {
+        "hook": "Hay una isla ficticia justo en el centro del mapa del mundo.",
+        "fact": "Null Island es un marcador de broma para las coordenadas 0° de latitud y 0° de longitud: un punto del océano Atlántico donde los programas de mapas suelen arrojar los datos de ubicación defectuosos, lo que llevó a la NOAA a fondear allí una boya de vigilancia real."
+      }
+    }
   },
   {
     "id": "geography-196",
@@ -4713,7 +4772,21 @@
     "tags": [
       "countries",
       "europe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Hollande » n'est pas vraiment le nom du pays tout entier.",
+        "fact": "La Hollande ne désigne en réalité que deux des douze provinces des Pays-Bas, la Hollande-Septentrionale et la Hollande-Méridionale ; le gouvernement néerlandais a même lancé en 2020 une campagne pour abandonner « Hollande » comme surnom du pays entier."
+      },
+      "nl": {
+        "hook": "'Holland' is eigenlijk niet de naam van het hele land.",
+        "fact": "Holland slaat strikt genomen op maar twee van de twaalf Nederlandse provincies: Noord-Holland en Zuid-Holland. De Nederlandse overheid begon in 2020 zelfs een campagne om 'Holland' als bijnaam voor het hele land af te schaffen."
+      },
+      "es": {
+        "hook": "«Holanda» no es en realidad el nombre de todo el país.",
+        "fact": "Holanda designa técnicamente solo dos de las doce provincias de los Países Bajos, Holanda Septentrional y Holanda Meridional; el gobierno neerlandés incluso lanzó en 2020 una campaña para jubilar «Holanda» como apodo del país entero."
+      }
+    }
   },
   {
     "id": "geography-197",
@@ -4723,7 +4796,21 @@
     "tags": [
       "countries",
       "south-america"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un pays porte littéralement le nom de sa position sur le globe.",
+        "fact": "Ecuador est le mot espagnol qui désigne l'équateur, et la ligne elle-même passe juste au nord de la capitale, Quito, où un monument en marque le franchissement."
+      },
+      "nl": {
+        "hook": "Eén land is letterlijk vernoemd naar zijn plek op de aardbol.",
+        "fact": "Ecuador is het Spaanse woord voor 'evenaar', en die lijn loopt vlak ten noorden van de hoofdstad Quito, waar een monument de oversteek markeert."
+      },
+      "es": {
+        "hook": "Un país lleva literalmente el nombre de su ubicación en el globo.",
+        "fact": "Ecuador es la palabra española que designa la línea del ecuador, que pasa justo al norte de la capital, Quito, donde un monumento señala el cruce."
+      }
+    }
   },
   {
     "id": "geography-198",
@@ -4733,7 +4820,21 @@
     "tags": [
       "countries",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un pays sans accès à la mer compte six voisins différents.",
+        "fact": "Le Tchad, entièrement enclavé en Afrique centrale, partage ses frontières avec la Libye, le Soudan, la République centrafricaine, le Cameroun, le Nigeria et le Niger."
+      },
+      "nl": {
+        "hook": "Eén land zonder kustlijn heeft zes verschillende buurlanden.",
+        "fact": "Tsjaad, volledig ingesloten in Centraal-Afrika, grenst aan Libië, Soedan, de Centraal-Afrikaanse Republiek, Kameroen, Nigeria en Niger."
+      },
+      "es": {
+        "hook": "Un país sin salida al mar tiene seis vecinos distintos.",
+        "fact": "Chad, totalmente sin litoral en el centro de África, limita con Libia, Sudán, la República Centroafricana, Camerún, Nigeria y Níger."
+      }
+    }
   },
   {
     "id": "geography-199",
@@ -4743,7 +4844,21 @@
     "tags": [
       "countries",
       "borders"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Deux pays sont à égalité pour le plus grand nombre de voisins terrestres au monde.",
+        "fact": "La Chine et la Russie ont chacune 14 pays limitrophes, plus que n'importe quel autre État, reflet de leur immensité et de l'étendue de leurs frontières."
+      },
+      "nl": {
+        "hook": "Twee landen delen het record voor de meeste buurlanden op aarde.",
+        "fact": "China en Rusland grenzen elk aan 14 andere landen, meer dan welk ander land ook — een gevolg van hun enorme omvang en hun uitgestrekte grenzen."
+      },
+      "es": {
+        "hook": "Dos países empatan como los que más vecinos terrestres tienen del mundo.",
+        "fact": "China y Rusia limitan cada uno con 14 países, más que cualquier otra nación, reflejo de su enorme tamaño y de sus extensas fronteras."
+      }
+    }
   },
   {
     "id": "geography-200",
@@ -4753,6 +4868,20 @@
     "tags": [
       "countries",
       "europe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le plus petit pays du monde possède son propre chemin de fer miniature.",
+        "fact": "Le Vatican est relié au réseau ferroviaire italien par un court embranchement d'environ 300 mètres, souvent cité comme l'un des plus courts réseaux ferrés nationaux au monde."
+      },
+      "nl": {
+        "hook": "Het kleinste land ter wereld heeft zijn eigen minuscule spoorlijn.",
+        "fact": "Vaticaanstad is met het Italiaanse spoornet verbonden via een kort zijspoor van ongeveer 300 meter, vaak genoemd als een van de kortste staatsspoorwegen ter wereld."
+      },
+      "es": {
+        "hook": "El país más pequeño del mundo tiene su propio ferrocarril en miniatura.",
+        "fact": "La Ciudad del Vaticano está conectada a la red ferroviaria italiana por un corto ramal de unos 300 metros, citado a menudo como uno de los ferrocarriles estatales más cortos del mundo."
+      }
+    }
   }
 ]
