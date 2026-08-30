@@ -9,13 +9,20 @@ const FAST_SKIP_MS = 2500
 /** Around this dwell time or above, a skip counts as genuine engagement. */
 const ENGAGED_DWELL_MS = 6000
 
+/** The engagement fields this weighting needs — shared by DomainAffinity
+ * and TagAffinity, so the same math serves both granularities. */
+export type EngagementSignal = Pick<
+  DomainAffinity,
+  'avgDwellMs' | 'reactionScore' | 'cardsSeen'
+>
+
 /**
- * Turns one domain's rolling engagement signal into a feed weight. No ML —
- * just a bounded multiplier: fast skips and "less like this" pull it down,
- * lingering and "more like this" push it up. New domains stay neutral (1)
- * until we have a few data points.
+ * Turns one rolling engagement signal into a feed weight. No ML — just a
+ * bounded multiplier: fast skips and "less like this" pull it down,
+ * lingering and "more like this" push it up. Anything new stays neutral
+ * (1) until we have a few data points. Used for both domains and tags.
  */
-export function computeDomainWeight(affinity: DomainAffinity | undefined): number {
+export function computeDomainWeight(affinity: EngagementSignal | undefined): number {
   if (!affinity || affinity.cardsSeen === 0) return 1
 
   const dwellFactor = clamp(

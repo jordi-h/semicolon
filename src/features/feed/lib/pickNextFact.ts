@@ -36,16 +36,35 @@ export function isPoolExhausted(pool: Fact[], seenIds: ReadonlySet<string>): boo
 }
 
 /**
+ * How much a single fact should be favoured, from its tags' affinity
+ * weights. The mean (not the product) so a fact isn't penalised simply
+ * for carrying more tags, and an untagged fact sits at the neutral 1.0
+ * rather than being excluded.
+ */
+export function factTagWeight(fact: Fact, tagWeights: ReadonlyMap<string, number>): number {
+  if (fact.tags.length === 0) return 1
+  const sum = fact.tags.reduce((total, tag) => total + (tagWeights.get(tag) ?? 1), 0)
+  return sum / fact.tags.length
+}
+
+/**
  * Branch 1 — normal (default) selection: weighted-random domain, then a
- * random fact from it that isn't in `excludeIds`. Returns null once
- * every selected domain has nothing left to offer, which is the signal
- * to fall back to the exhausted-pool branch.
+ * tag-weighted-random fact from it that isn't in `excludeIds`. Returns
+ * null once every selected domain has nothing left to offer, which is
+ * the signal to fall back to the exhausted-pool branch.
+ *
+ * The two weightings are deliberately layered rather than combined:
+ * domain affinity decides *which subject*, tag affinity decides *which
+ * fact within it*. That keeps the user's domain choices meaningful (a
+ * selected domain still comes up) while letting "less like this" damp a
+ * narrow topic instead of a whole domain.
  */
 export function pickNormalCard(
   pool: Fact[],
   domains: Domain[],
   weights: Partial<Record<Domain, number>>,
   excludeIds: ReadonlySet<string>,
+  tagWeights: ReadonlyMap<string, number> = new Map(),
 ): Fact | null {
   const byDomain = new Map<Domain, Fact[]>()
   for (const domain of domains) {
@@ -60,7 +79,7 @@ export function pickNormalCard(
 
   const domain = weightedRandomPick(available, (d) => weights[d] ?? 1)
   const candidates = byDomain.get(domain)!
-  return candidates[Math.floor(Math.random() * candidates.length)]
+  return weightedRandomPick(candidates, (fact) => factTagWeight(fact, tagWeights))
 }
 
 /**
@@ -114,6 +133,8 @@ export interface PickNextCardParams {
   seenByFactId: ReadonlyMap<string, SeenFact>
   /** Facts already queued for an upcoming slot, so this pick doesn't repeat them. */
   excludeIds: ReadonlySet<string>
+  /** Per-tag multipliers, biasing which fact is picked within a domain. */
+  tagWeights?: ReadonlyMap<string, number>
   now?: number
 }
 
@@ -127,7 +148,15 @@ export interface PickNextCardParams {
  *   3. Otherwise            → normal (branch 1)
  */
 export function pickNextCard(params: PickNextCardParams): QueuedCard | null {
-  const { pool, domains, weights, seenByFactId, excludeIds, now = Date.now() } = params
+  const {
+    pool,
+    domains,
+    weights,
+    seenByFactId,
+    excludeIds,
+    tagWeights = new Map(),
+    now = Date.now(),
+  } = params
   const seenIds = new Set(seenByFactId.keys())
 
   if (isPoolExhausted(pool, seenIds)) {
@@ -140,6 +169,12 @@ export function pickNextCard(params: PickNextCardParams): QueuedCard | null {
     if (fact) return { fact, source: 'resurfaced' }
   }
 
-  const fact = pickNormalCard(pool, domains, weights, new Set([...excludeIds, ...seenIds]))
+  const fact = pickNormalCard(
+    pool,
+    domains,
+    weights,
+    new Set([...excludeIds, ...seenIds]),
+    tagWeights,
+  )
   return fact ? { fact, source: 'normal' } : null
 }

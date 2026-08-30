@@ -149,6 +149,21 @@ export interface SavedFact {
   savedAt: string
 }
 
+/** Per-user, per-tag engagement signal — the finer-grained sibling of
+ * DomainAffinity. Domains are broad (11 buckets), so "less like this" on
+ * a chemistry card would otherwise damp all of Science. Every fact
+ * already carries 1-3 curated tags, so the same engagement signal can be
+ * tracked per tag and used to bias which fact is picked *within* the
+ * chosen domain. Deliberately reuses DomainAffinity's shape so the same
+ * (unit-tested) weighting math in src/lib/engagement.ts applies. */
+export interface TagAffinity {
+  userId: string
+  tag: string
+  avgDwellMs: number
+  reactionScore: number
+  cardsSeen: number
+}
+
 /** Per-user, per-domain engagement signal used to weight the feed. */
 export interface DomainAffinity {
   userId: string

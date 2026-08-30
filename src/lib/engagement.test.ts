@@ -7,8 +7,6 @@ describe('computeDomainWeight', () => {
     expect(computeDomainWeight(undefined)).toBe(1)
     expect(
       computeDomainWeight({
-        userId: 'u1',
-        domain: 'science',
         avgDwellMs: 0,
         reactionScore: 0,
         cardsSeen: 0,
@@ -18,8 +16,6 @@ describe('computeDomainWeight', () => {
 
   it('rewards lingering and "more like this"', () => {
     const engaged = computeDomainWeight({
-      userId: 'u1',
-      domain: 'science',
       avgDwellMs: 8000,
       reactionScore: 3,
       cardsSeen: 5,
@@ -30,8 +26,6 @@ describe('computeDomainWeight', () => {
 
   it('penalizes fast skips and "less like this"', () => {
     const disinterested = computeDomainWeight({
-      userId: 'u1',
-      domain: 'science',
       avgDwellMs: 500,
       reactionScore: -3,
       cardsSeen: 5,
@@ -42,8 +36,6 @@ describe('computeDomainWeight', () => {
 
   it('never returns a non-positive weight', () => {
     const weight = computeDomainWeight({
-      userId: 'u1',
-      domain: 'science',
       avgDwellMs: 0,
       reactionScore: -100,
       cardsSeen: 10,

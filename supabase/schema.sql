@@ -142,6 +142,30 @@ create policy "users manage their own domain affinity"
   with check (auth.uid() = user_id);
 
 -- ─────────────────────────────────────────────────────────────────────────
+-- tag_affinity: the finer-grained sibling of domain_affinity. Domains are
+-- broad (11 buckets), so a "less like this" on a chemistry card would
+-- otherwise damp all of Science. Every fact already carries 1-3 curated
+-- tags, so the same signal is tracked per tag and used to bias which fact
+-- is chosen *within* the already-picked domain (see pickNormalCard).
+-- ─────────────────────────────────────────────────────────────────────────
+create table if not exists public.tag_affinity (
+  user_id uuid not null references auth.users (id) on delete cascade,
+  tag text not null,
+  avg_dwell_ms numeric not null default 0,
+  reaction_score integer not null default 0,
+  cards_seen integer not null default 0,
+  primary key (user_id, tag)
+);
+
+alter table public.tag_affinity enable row level security;
+
+create policy "users manage their own tag affinity"
+  on public.tag_affinity for all
+  to authenticated
+  using (auth.uid() = user_id)
+  with check (auth.uid() = user_id);
+
+-- ─────────────────────────────────────────────────────────────────────────
 -- user_stats: streaks and total facts learned, shown in the profile.
 -- ─────────────────────────────────────────────────────────────────────────
 create table if not exists public.user_stats (

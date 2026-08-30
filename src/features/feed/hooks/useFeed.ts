@@ -4,6 +4,7 @@ import { useQuery, useQueryClient } from '@tanstack/react-query'
 import { useAuth } from '@/features/auth/AuthContext'
 import { pickNextCard, type QueuedCard } from '@/features/feed/lib/pickNextFact'
 import { getDomainAffinities, recordDomainEngagement } from '@/lib/api/domainAffinity'
+import { getTagAffinities, recordTagEngagement } from '@/lib/api/tagAffinity'
 import { fetchFactsByDomains } from '@/lib/api/facts'
 import { bumpLastShown, getSeenFacts, recordFirstSeen } from '@/lib/api/seenFacts'
 import { markPoolExhaustedNoticeShown } from '@/lib/api/stats'
@@ -38,6 +39,12 @@ export function useFeed(domains: Domain[]) {
   const affinityQuery = useQuery({
     queryKey: ['domain-affinity', user?.id],
     queryFn: () => getDomainAffinities(user!.id),
+    enabled: Boolean(user),
+  })
+
+  const tagAffinityQuery = useQuery({
+    queryKey: ['tag-affinity', user?.id],
+    queryFn: () => getTagAffinities(user!.id),
     enabled: Boolean(user),
   })
 
@@ -77,6 +84,16 @@ export function useFeed(domains: Domain[]) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [affinityQuery.data, domainsKey])
 
+  /** Same weighting math as domains, keyed by tag — biases which fact is
+   * chosen within a domain rather than which domain is chosen. */
+  const tagWeights = useMemo(() => {
+    const result = new Map<string, number>()
+    for (const affinity of tagAffinityQuery.data ?? []) {
+      result.set(affinity.tag, computeDomainWeight(affinity))
+    }
+    return result
+  }, [tagAffinityQuery.data])
+
   const ready = poolQuery.isSuccess && seenQuery.isSuccess && initializedRef.current
 
   // Keep the queue topped up, one explicit branch pick (pickNextCard) per slot.
@@ -94,6 +111,7 @@ export function useFeed(domains: Domain[]) {
         weights,
         seenByFactId,
         excludeIds: queuedIds,
+        tagWeights,
       })
       if (!card) break
       additions.push(card)
@@ -111,7 +129,7 @@ export function useFeed(domains: Domain[]) {
       }
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [ready, pool.length, queue.length, seenByFactId, domainsKey, weights, stats])
+  }, [ready, pool.length, queue.length, seenByFactId, domainsKey, weights, tagWeights, stats])
 
   const current = queue[0] ?? null
   const currentFact = current?.fact ?? null
@@ -154,6 +172,13 @@ export function useFeed(domains: Domain[]) {
     recordDomainEngagement(user.id, fact.domain, dwellMs, reaction).then(() =>
       queryClient.invalidateQueries({ queryKey: ['domain-affinity', user.id] }),
     )
+
+    // Same signal at tag granularity, so "less like this" on one narrow
+    // topic doesn't damp the whole domain. Failures here are non-fatal —
+    // the feed still works, it just learns a little less.
+    recordTagEngagement(user.id, fact.tags, dwellMs, reaction)
+      .then(() => queryClient.invalidateQueries({ queryKey: ['tag-affinity', user.id] }))
+      .catch(() => {})
   }
 
   /** Brings back the fact that was just skipped — the down-swipe mirror

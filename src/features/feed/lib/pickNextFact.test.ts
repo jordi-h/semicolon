@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest'
 
 import {
   RESURFACE_MIN_AGE_MS,
+  factTagWeight,
   isPoolExhausted,
   pickFallbackCard,
   pickNextCard,
@@ -55,6 +56,87 @@ describe('isPoolExhausted', () => {
     const pool = makeFacts('science', 3)
     const seen = new Set(pool.map((f) => f.id))
     expect(isPoolExhausted(pool, seen)).toBe(true)
+  })
+})
+
+describe('factTagWeight', () => {
+  const tagged = (tags: string[]): Fact => ({
+    id: 'x',
+    domain: 'science',
+    hook: 'h',
+    fact: 'f',
+    tags,
+  })
+
+  it('is neutral for an untagged fact', () => {
+    expect(factTagWeight(tagged([]), new Map([['physics', 0.2]]))).toBe(1)
+  })
+
+  it('is neutral for tags with no signal yet', () => {
+    expect(factTagWeight(tagged(['unknown']), new Map())).toBe(1)
+  })
+
+  it('averages rather than multiplies, so extra tags are not a penalty', () => {
+    const weights = new Map([
+      ['a', 2],
+      ['b', 2],
+      ['c', 2],
+    ])
+    // Multiplying would give 8; averaging keeps it comparable to a
+    // single-tag fact with the same enthusiasm.
+    expect(factTagWeight(tagged(['a', 'b', 'c']), weights)).toBe(2)
+  })
+
+  it('lets a disliked tag pull a fact below neutral', () => {
+    const weights = new Map([['chemistry', 0.2]])
+    expect(factTagWeight(tagged(['chemistry']), weights)).toBeLessThan(1)
+  })
+
+  it('blends liked and disliked tags on the same fact', () => {
+    const weights = new Map([
+      ['astronomy', 2.0],
+      ['chemistry', 0.2],
+    ])
+    const blended = factTagWeight(tagged(['astronomy', 'chemistry']), weights)
+    expect(blended).toBeCloseTo(1.1)
+  })
+})
+
+describe('pickNormalCard tag weighting', () => {
+  /** Two facts in one domain, identical except for their tag. */
+  const pool: Fact[] = [
+    { id: 'liked', domain: 'science', hook: 'h', fact: 'f', tags: ['astronomy'] },
+    { id: 'disliked', domain: 'science', hook: 'h', fact: 'f', tags: ['chemistry'] },
+  ]
+
+  it('strongly favours the fact whose tag the user likes', () => {
+    const tagWeights = new Map([
+      ['astronomy', 2.5],
+      ['chemistry', 0.15],
+    ])
+    let likedCount = 0
+    for (let i = 0; i < 400; i++) {
+      const fact = pickNormalCard(pool, ['science'], {}, new Set(), tagWeights)
+      if (fact?.id === 'liked') likedCount++
+    }
+    // 2.5 vs 0.15 is a ~94% share; allow wide slack for randomness.
+    expect(likedCount).toBeGreaterThan(300)
+  })
+
+  it('still returns a disliked-tag fact when it is the only one left', () => {
+    const tagWeights = new Map([['chemistry', 0.15]])
+    const fact = pickNormalCard(pool, ['science'], {}, new Set(['liked']), tagWeights)
+    expect(fact?.id).toBe('disliked')
+  })
+
+  it('is unbiased when no tag signal exists', () => {
+    let likedCount = 0
+    for (let i = 0; i < 400; i++) {
+      const fact = pickNormalCard(pool, ['science'], {}, new Set(), new Map())
+      if (fact?.id === 'liked') likedCount++
+    }
+    expect(likedCount).toBeGreaterThan(140)
+    expect(likedCount).toBeLessThan(260)
   })
 })
 
