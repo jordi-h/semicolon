@@ -7,7 +7,21 @@
     "tags": [
       "latin",
       "myth-bust"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les soldats romains n'ont sans doute jamais été payés en sel, au sens littéral.",
+        "fact": "Le mot « salary » (salaire) vient du latin salarium, un terme lié à sal (le sel), probablement à l'origine une allocation destinée aux soldats pour acheter du sel ou d'autres provisions. L'idée répandue selon laquelle les légionnaires recevaient littéralement du sel en guise de solde est une exagération largement répétée, peu étayée par des preuves solides."
+      },
+      "nl": {
+        "hook": "Romeinse soldaten werden waarschijnlijk nooit letterlijk in zout betaald.",
+        "fact": "Het woord \"salary\" (salaris) komt van het Latijnse salarium, een term verwant aan sal (zout), oorspronkelijk waarschijnlijk een vergoeding waarmee soldaten zout of andere voorraden konden kopen. De populaire bewering dat legionairs letterlijk zout als loon kregen, is een veelgehoorde overdrijving waarvoor weinig hard bewijs bestaat."
+      },
+      "es": {
+        "hook": "Los soldados romanos probablemente nunca cobraron literalmente en sal.",
+        "fact": "La palabra \"salary\" (salario) proviene del latín salarium, un término ligado a sal, probablemente en origen una asignación que recibían los soldados para comprar sal u otras provisiones. La creencia popular de que a los legionarios se les pagaba literalmente con sal es una exageración muy repetida con poca evidencia sólida."
+      }
+    }
   },
   {
     "id": "language-002",
@@ -17,7 +31,21 @@
     "tags": [
       "greek-mythology",
       "etymology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « clue » (indice) vient d'une pelote de fil dans un mythe grec.",
+        "fact": "« Clue » descend du moyen anglais « clew », qui désignait une pelote de fil. Il a pris le sens d'un élément qui aide à résoudre un mystère à cause du mythe de Thésée, qui déroula une pelote de fil pour retrouver son chemin hors du labyrinthe du Minotaure."
+      },
+      "nl": {
+        "hook": "Het woord \"clue\" (aanwijzing) komt van een kluwen garen uit een Griekse mythe.",
+        "fact": "\"Clue\" is afgeleid van het Middelengelse \"clew,\" wat een kluwen garen betekende. Het kreeg de betekenis van iets dat helpt een mysterie op te lossen dankzij de mythe van Theseus, die een kluwen garen afwikkelde om zijn weg terug uit het labyrint van de Minotaurus te vinden."
+      },
+      "es": {
+        "hook": "La palabra \"clue\" (pista) viene de un ovillo de hilo en un mito griego.",
+        "fact": "\"Clue\" deriva del inglés medio \"clew,\" que significaba un ovillo de hilo. Adquirió el sentido de algo que ayuda a resolver un misterio gracias al mito de Teseo, quien desenrolló un ovillo de hilo para encontrar el camino de vuelta fuera del laberinto del Minotauro."
+      }
+    }
   },
   {
     "id": "language-003",
@@ -27,7 +55,21 @@
     "tags": [
       "latin",
       "anatomy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Contracter son biceps, c'est techniquement faire bouger une petite souris.",
+        "fact": "« Muscle » vient du latin musculus, littéralement « petite souris ». Les Romains trouvaient qu'un muscle en contraction, surtout le biceps, ressemblait à une petite souris se déplaçant sous la peau."
+      },
+      "nl": {
+        "hook": "Als je je biceps aanspant, laat je technisch gezien een muisje bewegen.",
+        "fact": "\"Muscle\" (spier) komt van het Latijnse musculus, letterlijk \"muisje.\" Romeinen vonden dat een aangespannen spier, vooral de biceps, leek op een klein muisje dat onder de huid bewoog."
+      },
+      "es": {
+        "hook": "Al flexionar el bíceps, técnicamente estás moviendo un ratoncito.",
+        "fact": "\"Muscle\" (músculo) viene del latín musculus, literalmente \"ratoncito.\" Los romanos pensaban que un músculo al flexionarse, sobre todo el bíceps, parecía un ratoncito moviéndose bajo la piel."
+      }
+    }
   },
   {
     "id": "language-004",
@@ -37,7 +79,21 @@
     "tags": [
       "latin",
       "etymology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un « companion » (compagnon) est littéralement quelqu'un avec qui on partage le pain.",
+        "fact": "« Companion » vient du latin com- (« ensemble avec ») et panis (« pain »). Un compagnon était à l'origine quelqu'un avec qui l'on rompait le pain."
+      },
+      "nl": {
+        "hook": "Een \"companion\" (metgezel) is letterlijk iemand met wie je brood deelt.",
+        "fact": "\"Companion\" komt van het Latijnse com- (\"samen met\") en panis (\"brood\"). Een companion was oorspronkelijk iemand met wie je het brood brak."
+      },
+      "es": {
+        "hook": "Un \"companion\" (compañero) es literalmente alguien con quien compartes el pan.",
+        "fact": "\"Companion\" viene del latín com- (\"junto con\") y panis (\"pan\"). Un compañero era originalmente alguien con quien se partía el pan."
+      }
+    }
   },
   {
     "id": "language-005",
@@ -47,7 +103,21 @@
     "tags": [
       "astrology",
       "etymology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un « disaster » (désastre) était à l'origine imputé aux étoiles.",
+        "fact": "« Disaster » vient de l'italien disastro, formé du préfixe d'origine grecque dis- (« mauvais ») et astro (« étoile »). Le mot reflète une ancienne croyance astrologique selon laquelle les catastrophes étaient causées par la position défavorable d'une étoile ou d'une planète."
+      },
+      "nl": {
+        "hook": "Een \"disaster\" (ramp) werd oorspronkelijk de sterren aangewreven.",
+        "fact": "\"Disaster\" komt van het Italiaanse disastro, gevormd uit het uit het Grieks afkomstige voorvoegsel dis- (\"slecht\") en astro (\"ster\"). Het weerspiegelt een oud astrologisch geloof dat rampen werden veroorzaakt door de ongunstige stand van een ster of planeet."
+      },
+      "es": {
+        "hook": "Un \"disaster\" (desastre) se atribuía originalmente a las estrellas.",
+        "fact": "\"Disaster\" viene del italiano disastro, formado por el prefijo de origen griego dis- (\"malo\") y astro (\"estrella\"). Refleja una antigua creencia astrológica según la cual las catástrofes eran causadas por la posición desfavorable de una estrella o un planeta."
+      }
+    }
   },
   {
     "id": "language-006",
@@ -59,7 +129,24 @@
       "italian",
       "history",
       "medicine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Quarantine » (quarantaine) signifie « quarante jours », pour une raison bien littérale.",
+        "fact": "Pendant la peste noire, la République de Venise exigeait que les navires arrivant de ports touchés par la peste restent au mouillage pendant 40 jours avant que quiconque puisse débarquer. Cette pratique s'appelait quarantena, du mot vénitien pour « quarante ».",
+        "whyItMatters": "La même idée de base, isoler les personnes potentiellement infectées pendant une période fixe, est encore utilisée aujourd'hui dans la gestion moderne des épidémies et des pandémies."
+      },
+      "nl": {
+        "hook": "\"Quarantine\" betekent \"veertig dagen,\" om een heel letterlijke reden.",
+        "fact": "Tijdens de builenpest verplichtte de Republiek Venetië schepen die uit door de pest getroffen havens kwamen om 40 dagen voor anker te blijven liggen voordat iemand aan land mocht gaan. Deze praktijk heette quarantena, naar het Venetiaanse woord voor \"veertig.\"",
+        "whyItMatters": "Hetzelfde basisidee, het isoleren van mogelijk besmette mensen gedurende een vaste periode, wordt vandaag de dag nog steeds gebruikt bij de aanpak van epidemieën en pandemieën."
+      },
+      "es": {
+        "hook": "\"Quarantine\" (cuarentena) significa \"cuarenta días\" por una razón muy literal.",
+        "fact": "Durante la peste negra, la República de Venecia exigía que los barcos que llegaban de puertos afectados por la peste permanecieran anclados durante 40 días antes de que nadie pudiera desembarcar. Esta práctica se llamaba quarantena, de la palabra veneciana para \"cuarenta.\"",
+        "whyItMatters": "La misma idea central, aislar a los posibles infectados durante un período fijo, se sigue usando hoy en la respuesta moderna a epidemias y pandemias."
+      }
+    }
   },
   {
     "id": "language-007",
@@ -69,7 +156,21 @@
     "tags": [
       "old-english",
       "folklore"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le « mare » de « nightmare » (cauchemar) n'a rien à voir avec les chevaux.",
+        "fact": "Le « mare » de « nightmare » vient du vieil anglais mare, un terme désignant un démon ou un lutin mythique censé s'asseoir sur la poitrine d'un dormeur pour l'étouffer, provoquant de mauvais rêves. Ce mot n'a aucun lien avec « mare », qui désigne une jument."
+      },
+      "nl": {
+        "hook": "De \"mare\" in \"nightmare\" (nachtmerrie) heeft niets met paarden te maken.",
+        "fact": "De \"mare\" in \"nightmare\" komt van het Oudengelse mare, een term voor een mythische demon of geest die op de borst van een slapend persoon zou zitten en hem verstikken, wat nare dromen veroorzaakte. Het woord staat los van \"mare,\" wat een merrie betekent."
+      },
+      "es": {
+        "hook": "El \"mare\" de \"nightmare\" (pesadilla) no tiene nada que ver con los caballos.",
+        "fact": "El \"mare\" de \"nightmare\" viene del inglés antiguo mare, un término para un demonio o duende mítico que, se creía, se sentaba sobre el pecho de quien dormía y lo asfixiaba, provocando malos sueños. No tiene relación con \"mare,\" que en inglés significa yegua."
+      }
+    }
   },
   {
     "id": "language-008",
@@ -79,7 +180,21 @@
     "tags": [
       "greek",
       "etymology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Sarcasm » (sarcasme) signifie littéralement « déchirer la chair ».",
+        "fact": "« Sarcasm » vient du verbe grec sarkazein, « déchirer la chair comme un chien », dérivé de sarx (« chair »). Le mot est arrivé en anglais via le latin tardif et le français pour désigner des remarques mordantes et cinglantes."
+      },
+      "nl": {
+        "hook": "\"Sarcasm\" betekent letterlijk \"vlees verscheuren.\"",
+        "fact": "\"Sarcasm\" komt van het Griekse werkwoord sarkazein, \"vlees verscheuren zoals een hond,\" afgeleid van sarx (\"vlees\"). Het woord kwam via het Laatlatijn en het Frans in het Engels terecht om scherpe, bijtende opmerkingen te beschrijven."
+      },
+      "es": {
+        "hook": "\"Sarcasm\" (sarcasmo) significa literalmente \"desgarrar carne.\"",
+        "fact": "\"Sarcasm\" viene del verbo griego sarkazein, \"desgarrar la carne como un perro,\" derivado de sarx (\"carne\"). La palabra llegó al inglés a través del latín tardío y el francés para describir comentarios cortantes y mordaces."
+      }
+    }
   },
   {
     "id": "language-009",
@@ -89,7 +204,21 @@
     "tags": [
       "greek-mythology",
       "etymology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Panic » (panique) tire son nom d'un dieu grec qui vivait dans les bois.",
+        "fact": "« Panic » vient du dieu grec Pan, une divinité champêtre associée aux lieux sauvages, qui aurait provoqué une terreur soudaine et irrationnelle chez les voyageurs et les troupeaux traversant ses forêts."
+      },
+      "nl": {
+        "hook": "\"Panic\" (paniek) is vernoemd naar een Griekse god die in de bossen leefde.",
+        "fact": "\"Panic\" komt van de Griekse god Pan, een landelijke godheid geassocieerd met wilde plaatsen, die naar verluidt plotselinge, irrationele angst veroorzaakte bij reizigers en kuddes die zijn bossen doorkruisten."
+      },
+      "es": {
+        "hook": "\"Panic\" (pánico) recibe su nombre de un dios griego que vivía en los bosques.",
+        "fact": "\"Panic\" viene del dios griego Pan, una deidad rústica asociada con los lugares salvajes, de quien se decía que provocaba un terror repentino e irracional en los viajeros y los rebaños que atravesaban sus bosques."
+      }
+    }
   },
   {
     "id": "language-010",
@@ -99,7 +228,21 @@
     "tags": [
       "greek-mythology",
       "etymology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Tantalize » (tantaliser), c'est punir quelqu'un comme un roi grec.",
+        "fact": "« Tantalize » vient de Tantale, une figure de la mythologie grecque condamnée aux enfers à se tenir dans l'eau sous un arbre fruitier, la nourriture et la boisson s'éloignant sans cesse hors de portée dès qu'il tentait de les saisir."
+      },
+      "nl": {
+        "hook": "Iemand \"tantalizen\" betekent hem straffen zoals een Griekse koning.",
+        "fact": "\"Tantalize\" komt van Tantalus, een figuur uit de Griekse mythologie die in de onderwereld veroordeeld werd om in water te staan onder een fruitboom, waarbij zowel eten als drinken zich telkens net buiten bereik terugtrokken wanneer hij ernaar reikte."
+      },
+      "es": {
+        "hook": "\"Tantalizar\" a alguien es castigarlo como a un rey griego.",
+        "fact": "\"Tantalize\" viene de Tántalo, una figura de la mitología griega condenada en el inframundo a permanecer de pie en el agua bajo un árbol frutal, con la comida y la bebida alejándose siempre fuera de su alcance cada vez que intentaba tomarlas."
+      }
+    }
   },
   {
     "id": "language-011",
@@ -109,7 +252,21 @@
     "tags": [
       "latin",
       "folklore"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Lunatic » (lunatique) accuse la lune de rendre fou.",
+        "fact": "« Lunatic » vient du latin luna, « lune ». Le mot reflète une vieille croyance populaire, encore répandue bien après le Moyen Âge, selon laquelle les phases de la lune pouvaient déclencher la folie ou un comportement erratique."
+      },
+      "nl": {
+        "hook": "\"Lunatic\" (krankzinnige) geeft de maan de schuld van waanzin.",
+        "fact": "\"Lunatic\" komt van het Latijnse luna, \"maan.\" Het weerspiegelt een oud volksgeloof, dat tot ver in de moderne tijd gangbaar bleef, dat de maanfasen waanzin of grillig gedrag konden veroorzaken."
+      },
+      "es": {
+        "hook": "\"Lunatic\" (lunático) culpa a la luna de la locura.",
+        "fact": "\"Lunatic\" viene del latín luna, \"luna.\" Refleja una vieja creencia popular, común hasta bien entrada la era moderna, según la cual las fases de la luna podían desencadenar locura o comportamientos erráticos."
+      }
+    }
   },
   {
     "id": "language-012",
@@ -119,7 +276,21 @@
     "tags": [
       "arabic",
       "mathematics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Algebra » (algèbre) tire son nom du titre d'un livre du IXe siècle, pas d'une personne.",
+        "fact": "« Algebra » vient de l'arabe al-jabr, signifiant « la réunion des parties brisées ». Le mot est tiré du titre d'un traité mathématique écrit vers 820 apr. J.-C. par le savant persan al-Khwarizmi."
+      },
+      "nl": {
+        "hook": "\"Algebra\" is vernoemd naar een boektitel uit de 9e eeuw, niet naar een persoon.",
+        "fact": "\"Algebra\" komt van het Arabische al-jabr, wat \"het herenigen van gebroken delen\" betekent. Het woord is ontleend aan de titel van een wiskundig verhandeling geschreven rond 820 n.Chr. door de Perzische geleerde al-Chwarizmi."
+      },
+      "es": {
+        "hook": "\"Algebra\" (álgebra) toma su nombre del título de un libro del siglo IX, no de una persona.",
+        "fact": "\"Algebra\" viene del árabe al-jabr, que significa \"la reunión de las partes rotas.\" Está tomado del título de un tratado matemático escrito hacia el año 820 d.C. por el erudito persa al-Juarismi."
+      }
+    }
   },
   {
     "id": "language-013",
@@ -131,7 +302,24 @@
       "arabic",
       "mathematics",
       "eponym"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque « algorithm » (algorithme) porte discrètement le nom d'un mathématicien du IXe siècle.",
+        "fact": "« Algorithm » vient d'Algorismus, la forme latinisée du nom du mathématicien persan al-Khwarizmi, dont les travaux ont introduit les chiffres indo-arabes et des méthodes de calcul systématiques dans le monde islamique, puis en Europe.",
+        "whyItMatters": "Presque tous les logiciels modernes reposent sur des « algorithms », un mot qui remonte directement au nom d'un véritable savant du IXe siècle."
+      },
+      "nl": {
+        "hook": "Elk \"algorithm\" (algoritme) is stilletjes vernoemd naar één wiskundige uit de 9e eeuw.",
+        "fact": "\"Algorithm\" komt van Algorismus, de gelatiniseerde naam van de Perzische wiskundige al-Chwarizmi, wiens werk de Hindoe-Arabische cijfers en systematische rekenmethoden introduceerde in de islamitische wereld en uiteindelijk in Europa.",
+        "whyItMatters": "Bijna elk stukje moderne software draait op \"algorithms,\" een woord dat rechtstreeks teruggaat op de naam van één echte geleerde uit de 9e eeuw."
+      },
+      "es": {
+        "hook": "Cada \"algorithm\" (algoritmo) lleva en secreto el nombre de un matemático del siglo IX.",
+        "fact": "\"Algorithm\" viene de Algorismus, la forma latinizada del nombre del matemático persa al-Juarismi, cuyo trabajo introdujo los numerales indoarábigos y métodos de cálculo sistemáticos en el mundo islámico y, con el tiempo, en Europa.",
+        "whyItMatters": "Casi todo el software moderno funciona gracias a los \"algorithms,\" una palabra que se remonta directamente al nombre de un erudito real del siglo IX."
+      }
+    }
   },
   {
     "id": "language-014",
@@ -141,7 +329,21 @@
     "tags": [
       "arabic",
       "military"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un « admiral » (amiral) n'était à l'origine que « le commandant ».",
+        "fact": "« Admiral » vient de l'arabe amir (« commandant »), souvent utilisé dans le titre complet amir al-bahr, « commandant de la mer ». Le mot est passé en anglais via le français médiéval et le latin."
+      },
+      "nl": {
+        "hook": "Een \"admiral\" (admiraal) was oorspronkelijk gewoon \"de bevelhebber.\"",
+        "fact": "\"Admiral\" komt van het Arabische amir (\"bevelhebber\"), vaak gebruikt in de volledige titel amir al-bahr, \"bevelhebber van de zee.\" Het woord kwam via het middeleeuwse Frans en Latijn in het Engels terecht."
+      },
+      "es": {
+        "hook": "Un \"admiral\" (almirante) era originalmente solo \"el comandante.\"",
+        "fact": "\"Admiral\" viene del árabe amir (\"comandante\"), a menudo usado en el título completo amir al-bahr, \"comandante del mar.\" La palabra pasó al inglés a través del francés medieval y el latín."
+      }
+    }
   },
   {
     "id": "language-015",
@@ -151,7 +353,21 @@
     "tags": [
       "arabic",
       "etymology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Alcohol » (alcool) désignait au départ un maquillage pour les yeux.",
+        "fact": "« Alcohol » vient de l'arabe al-kuhl, une poudre fine d'antimoine utilisée comme eye-liner (le khôl). Les Européens ont d'abord employé « alcohol » pour désigner toute poudre fine obtenue par distillation, avant que le mot ne se restreigne aux spiritueux distillés."
+      },
+      "nl": {
+        "hook": "\"Alcohol\" begon als een woord voor oogmake-up.",
+        "fact": "\"Alcohol\" komt van het Arabische al-kuhl, een fijngemalen antimoonpoeder gebruikt als oogpotlood (kohl). Europeanen gebruikten \"alcohol\" aanvankelijk voor elk fijn poeder verkregen door destillatie, voordat het beperkt werd tot gedistilleerde sterkedrank."
+      },
+      "es": {
+        "hook": "\"Alcohol\" empezó siendo una palabra para el maquillaje de ojos.",
+        "fact": "\"Alcohol\" viene del árabe al-kuhl, un polvo fino de antimonio usado como delineador de ojos (kohl). Los europeos usaron primero \"alcohol\" para referirse a cualquier polvo fino obtenido por destilación, antes de que el término se limitara a los licores destilados."
+      }
+    }
   },
   {
     "id": "language-016",
@@ -162,7 +378,21 @@
       "arabic",
       "turkish",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « coffee » (café) a traversé trois langues avant d'arriver en anglais.",
+        "fact": "« Coffee » vient de l'arabe qahwa, devenu kahve en turc avant d'entrer dans les langues européennes, arrivant en anglais via l'italien et le néerlandais au XVIIe siècle."
+      },
+      "nl": {
+        "hook": "Het woord \"coffee\" (koffie) reisde langs drie talen voordat het het Engels bereikte.",
+        "fact": "\"Coffee\" komt van het Arabische qahwa, dat in het Turks kahve werd voordat het de Europese talen binnenkwam, en in de 17e eeuw via het Italiaans en het Nederlands in het Engels terechtkwam."
+      },
+      "es": {
+        "hook": "La palabra \"coffee\" (café) viajó por tres idiomas antes de llegar al inglés.",
+        "fact": "\"Coffee\" viene del árabe qahwa, que se convirtió en kahve en turco antes de entrar en las lenguas europeas, llegando al inglés a través del italiano y el neerlandés en el siglo XVII."
+      }
+    }
   },
   {
     "id": "language-017",
@@ -173,7 +403,21 @@
       "swahili",
       "arabic",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Safari » signifie simplement « voyage ».",
+        "fact": "« Safari » vient du swahili safari, signifiant « voyage », lui-même dérivé de l'arabe safar, « voyager ». Le mot n'a pris sa connotation spécifique de chasse au gros gibier en anglais qu'à l'époque coloniale en Afrique de l'Est."
+      },
+      "nl": {
+        "hook": "\"Safari\" betekent gewoon \"reis.\"",
+        "fact": "\"Safari\" komt van het Swahili safari, dat \"reis\" betekent, zelf afgeleid van het Arabische safar, \"reizen.\" Het woord kreeg zijn specifieke connotatie van grofwildjacht in het Engels pas tijdens het koloniale tijdperk in Oost-Afrika."
+      },
+      "es": {
+        "hook": "\"Safari\" simplemente significa \"viaje.\"",
+        "fact": "\"Safari\" viene del suajili safari, que significa \"viaje,\" a su vez derivado del árabe safar, \"viajar.\" La palabra adquirió su connotación específica de caza mayor en inglés solo durante la era colonial en África Oriental."
+      }
+    }
   },
   {
     "id": "language-018",
@@ -184,7 +428,24 @@
     "tags": [
       "arabic",
       "mathematics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Zero » (zéro) est arrivé en Europe comme un mot arabe signifiant « vide ».",
+        "fact": "« Zero » remonte à l'arabe sifr, signifiant « vide » ou « rien », qui a aussi donné le mot anglais « cipher ». Les savants arabes ont transmis le concept du zéro, développé à l'origine en Inde, à l'Europe médiévale.",
+        "whyItMatters": "L'adoption du zéro et du système de numération positionnelle qu'il a rendu possible est considérée comme un tournant qui a rendu praticables les mathématiques et la comptabilité modernes."
+      },
+      "nl": {
+        "hook": "\"Zero\" (nul) kwam als Arabisch woord voor \"leeg\" naar Europa.",
+        "fact": "\"Zero\" gaat terug op het Arabische sifr, wat \"leeg\" of \"niets\" betekent, en dat ook het Engelse woord \"cipher\" opleverde. Arabische geleerden brachten het concept van de nul, oorspronkelijk ontwikkeld in India, naar middeleeuws Europa.",
+        "whyItMatters": "De invoering van de nul en het positionele talstelsel dat daardoor mogelijk werd, wordt beschouwd als een keerpunt dat de moderne wiskunde en boekhouding praktisch bruikbaar maakte."
+      },
+      "es": {
+        "hook": "El \"zero\" (cero) llegó a Europa como una palabra árabe que significa \"vacío.\"",
+        "fact": "\"Zero\" se remonta al árabe sifr, que significa \"vacío\" o \"nada,\" y que también dio origen a la palabra inglesa \"cipher.\" Los eruditos árabes transmitieron el concepto del cero, desarrollado originalmente en la India, a la Europa medieval.",
+        "whyItMatters": "La adopción del cero y el sistema de numeración posicional que hizo posible se considera un punto de inflexión que hizo viables las matemáticas y la contabilidad modernas."
+      }
+    }
   },
   {
     "id": "language-019",
@@ -194,7 +455,21 @@
     "tags": [
       "persian",
       "games"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Checkmate » (échec et mat) signifie « le roi est impuissant ».",
+        "fact": "« Checkmate » vient du persan shah mat, approximativement « le roi est impuissant » ou « le roi est bloqué », via l'arabe et l'ancien français. Les échecs eux-mêmes sont arrivés en Europe depuis la Perse, qui les avait adaptés d'un jeu indien plus ancien."
+      },
+      "nl": {
+        "hook": "\"Checkmate\" (schaakmat) betekent \"de koning is hulpeloos.\"",
+        "fact": "\"Checkmate\" komt van het Perzische shah mat, ongeveer \"de koning is hulpeloos\" of \"de koning zit vast,\" via het Arabisch en Oudfrans. Schaken zelf kwam via Perzië naar Europa, dat het spel had overgenomen van een ouder Indiaas spel."
+      },
+      "es": {
+        "hook": "\"Checkmate\" (jaque mate) significa \"el rey está indefenso.\"",
+        "fact": "\"Checkmate\" viene del persa shah mat, aproximadamente \"el rey está indefenso\" o \"el rey está atrapado,\" a través del árabe y el francés antiguo. El propio ajedrez llegó a Europa desde Persia, que lo había adaptado de un juego indio anterior."
+      }
+    }
   },
   {
     "id": "language-020",
@@ -204,7 +479,21 @@
     "tags": [
       "persian",
       "color"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les oranges n'ont pas été nommées d'après la couleur ; c'est l'inverse.",
+        "fact": "« Orange » vient du persan narang, via l'arabe naranj et l'ancien français. Le nom du fruit est apparu en premier ; le nom de la couleur a suivi une fois le fruit assez répandu en Europe pour désigner une teinte."
+      },
+      "nl": {
+        "hook": "Sinaasappels zijn niet naar de kleur genoemd; het is net andersom.",
+        "fact": "\"Orange\" komt van het Perzische narang, via het Arabische naranj en het Oudfrans. De naam van de vrucht kwam eerst; de kleurnaam volgde pas nadat de vrucht in Europa gangbaar genoeg werd om er een tint mee te beschrijven."
+      },
+      "es": {
+        "hook": "Las naranjas no se llamaron así por el color; fue al revés.",
+        "fact": "\"Orange\" (naranja) viene del persa narang, a través del árabe naranj y el francés antiguo. El nombre de la fruta surgió primero; el nombre del color llegó después, una vez que la fruta se hizo lo bastante común en Europa como para describir un tono con ella."
+      }
+    }
   },
   {
     "id": "language-021",
@@ -214,7 +503,21 @@
     "tags": [
       "arabic",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un « magazine » était à l'origine un entrepôt d'armes.",
+        "fact": "« Magazine » vient de l'arabe makhazin, « entrepôts », passé par l'italien et le français avant d'entrer en anglais, où il désignait à l'origine un lieu de stockage de marchandises ou de munitions. Le sens de publication n'est apparu qu'au XVIIIe siècle, lorsque « magazine » a servi à désigner un entrepôt d'informations."
+      },
+      "nl": {
+        "hook": "Een \"magazine\" (tijdschrift) was oorspronkelijk een opslagplaats voor wapens.",
+        "fact": "\"Magazine\" komt van het Arabische makhazin, \"opslagplaatsen,\" dat via het Italiaans en Frans het Engels binnenkwam, waar het oorspronkelijk een plek voor het opslaan van goederen of munitie betekende. De betekenis van tijdschrift ontstond pas in de 18e eeuw, toen \"magazine\" gebruikt werd om een opslagplaats van informatie aan te duiden."
+      },
+      "es": {
+        "hook": "Una \"magazine\" (revista) fue originalmente un almacén de armas.",
+        "fact": "\"Magazine\" viene del árabe makhazin, \"almacenes,\" que pasó por el italiano y el francés hasta llegar al inglés, donde originalmente significaba un lugar para guardar mercancías o municiones. El sentido de publicación solo se desarrolló en el siglo XVIII, cuando \"magazine\" se usó para referirse a un almacén de información."
+      }
+    }
   },
   {
     "id": "language-022",
@@ -224,7 +527,21 @@
     "tags": [
       "arabic",
       "weather"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Monsoon » (mousson) signifie littéralement « saison ».",
+        "fact": "« Monsoon » vient de l'arabe mawsim, « saison », via le portugais monção. Le mot désignait à l'origine, de façon générale, les régimes de vents saisonniers de la mer d'Arabie, avant de se restreindre aux vents porteurs de pluie propres à l'Asie du Sud."
+      },
+      "nl": {
+        "hook": "\"Monsoon\" (moesson) betekent letterlijk gewoon \"seizoen.\"",
+        "fact": "\"Monsoon\" komt van het Arabische mawsim, \"seizoen,\" via het Portugese monção. Het verwees oorspronkelijk in het algemeen naar seizoensgebonden windpatronen op de Arabische Zee, voordat het zich beperkte tot de specifieke regenbrengende winden van Zuid-Azië."
+      },
+      "es": {
+        "hook": "\"Monsoon\" (monzón) significa literalmente \"estación.\"",
+        "fact": "\"Monsoon\" viene del árabe mawsim, \"estación,\" a través del portugués monção. Originalmente se refería en general a los patrones de viento estacionales del mar Arábigo, antes de restringirse a los vientos portadores de lluvia propios del sur de Asia."
+      }
+    }
   },
   {
     "id": "language-023",
@@ -234,7 +551,21 @@
     "tags": [
       "arabic",
       "games"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Hazard » (hasard) a débuté comme un jeu de dés.",
+        "fact": "« Hazard » vient de l'arabe az-zahr, « le dé », via l'ancien français hasard, qui désignait à l'origine un jeu d'argent médiéval joué aux dés. Son sens moderne de « danger » est né du risque lié aux paris."
+      },
+      "nl": {
+        "hook": "\"Hazard\" begon als een dobbelspel.",
+        "fact": "\"Hazard\" komt van het Arabische az-zahr, \"de dobbelsteen,\" via het Oudfranse hasard, dat oorspronkelijk een middeleeuws gokspel met dobbelstenen aanduidde. De moderne betekenis van \"gevaar\" groeide uit het risico dat bij het wedden hoorde."
+      },
+      "es": {
+        "hook": "\"Hazard\" (peligro) empezó siendo un juego de dados.",
+        "fact": "\"Hazard\" viene del árabe az-zahr, \"el dado,\" a través del francés antiguo hasard, que originalmente nombraba un juego de azar medieval jugado con dados. Su sentido moderno de \"peligro\" surgió del riesgo implicado en las apuestas."
+      }
+    }
   },
   {
     "id": "language-024",
@@ -244,7 +575,21 @@
     "tags": [
       "arabic",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le nom de la girafe a à peine changé en arrivant en anglais.",
+        "fact": "« Giraffe » vient presque directement de l'arabe zarafa, entré en anglais via l'italien et le français avec peu de changement sonore."
+      },
+      "nl": {
+        "hook": "De naam van de giraf veranderde nauwelijks op weg naar het Engels.",
+        "fact": "\"Giraffe\" komt bijna rechtstreeks van het Arabische zarafa, dat via het Italiaans en Frans in het Engels terechtkwam met weinig verandering in klank."
+      },
+      "es": {
+        "hook": "El nombre de la jirafa apenas cambió en su camino hacia el inglés.",
+        "fact": "\"Giraffe\" viene casi directamente del árabe zarafa, y entró al inglés a través del italiano y el francés con poca alteración en el sonido."
+      }
+    }
   },
   {
     "id": "language-025",
@@ -255,7 +600,21 @@
       "arabic",
       "sanskrit",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Candy » (bonbon) remonte, via l'arabe, à un mot sanskrit désignant un morceau de sucre.",
+        "fact": "« Candy » vient de l'arabe qandi, lui-même issu du sanskrit khanda, signifiant un morceau ou un fragment de sucre. Le mot décrit la façon dont le sucre était vendu à l'origine, cassé en morceaux cristallisés."
+      },
+      "nl": {
+        "hook": "\"Candy\" (snoep) gaat via het Arabisch terug op een Sanskrietwoord voor een stuk suiker.",
+        "fact": "\"Candy\" komt van het Arabische qandi, zelf afkomstig van het Sanskriet khanda, wat een stuk of brokje suiker betekent. Het woord beschrijft hoe suiker oorspronkelijk werd verkocht: gebroken in gekristalliseerde brokken."
+      },
+      "es": {
+        "hook": "\"Candy\" (caramelo) se remonta, a través del árabe, a una palabra sánscrita para un trozo de azúcar.",
+        "fact": "\"Candy\" viene del árabe qandi, a su vez del sánscrito khanda, que significa un trozo o fragmento de azúcar. La palabra describe cómo se vendía originalmente el azúcar, partido en trozos cristalizados."
+      }
+    }
   },
   {
     "id": "language-026",
@@ -267,7 +626,24 @@
       "sanskrit",
       "hindi",
       "colonial-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un mot désignant une force inarrêtable vient d'un festival hindou mal compris.",
+        "fact": "« Juggernaut » vient de Jagannath, une forme de la divinité hindoue Krishna vénérée à Puri, en Inde, dont l'immense char de temple était promené dans les rues lors des festivals. Les premiers voyageurs européens croyaient à tort que les fidèles se jetaient délibérément sous ses roues, et le mot est entré en anglais pour désigner toute force inarrêtable et écrasante.",
+        "whyItMatters": "C'est un exemple frappant d'une incompréhension coloniale d'une pratique religieuse qui a fini par se figer en un mot anglais durable."
+      },
+      "nl": {
+        "hook": "Een woord voor een onstuitbare kracht komt van een verkeerd begrepen hindoefeest.",
+        "fact": "\"Juggernaut\" komt van Jagannath, een vorm van de hindoegod Krishna die vereerd wordt in Puri, India, wiens massieve tempelwagen tijdens festivals door de straten werd gereden. Vroege Europese reizigers geloofden ten onrechte dat gelovigen zich opzettelijk onder de wielen wierpen, en het woord kwam in het Engels terecht als term voor elke onstuitbare, verpletterende kracht.",
+        "whyItMatters": "Het is een treffend voorbeeld van hoe een koloniaal misverstand over een religieuze praktijk uitgroeide tot een blijvend Engels woord."
+      },
+      "es": {
+        "hook": "Una palabra para una fuerza imparable viene de un festival hindú malinterpretado.",
+        "fact": "\"Juggernaut\" viene de Jagannath, una forma de la deidad hindú Krishna venerada en Puri, India, cuyo enorme carro de templo era paseado por las calles durante los festivales. Los primeros viajeros europeos creyeron erróneamente que los devotos se arrojaban deliberadamente bajo sus ruedas, y la palabra entró al inglés como término para cualquier fuerza imparable y arrolladora.",
+        "whyItMatters": "Es un ejemplo llamativo de cómo un malentendido colonial sobre una práctica religiosa terminó fijándose como una palabra inglesa permanente."
+      }
+    }
   },
   {
     "id": "language-027",
@@ -277,7 +653,21 @@
     "tags": [
       "sanskrit",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Avatar » signifiait « descente du ciel » bien avant de désigner une photo de profil.",
+        "fact": "« Avatar » vient du sanskrit avatara, désignant la « descente » d'une divinité sur terre sous une forme corporelle. L'anglais l'a d'abord emprunté pour désigner les incarnations terrestres des dieux hindous, avant que le mot ne soit réemployé pour les représentations numériques d'une personne."
+      },
+      "nl": {
+        "hook": "\"Avatar\" betekende \"nederdaling uit de hemel\" lang voordat het een profielfoto betekende.",
+        "fact": "\"Avatar\" komt van het Sanskriet avatara, wat de \"nederdaling\" van een godheid naar de aarde in lichamelijke vorm betekent. Het Engels leende het woord eerst voor de aardse incarnaties van hindoegoden, voordat het werd hergebruikt voor digitale weergaven van een persoon."
+      },
+      "es": {
+        "hook": "\"Avatar\" significaba \"descenso desde el cielo\" mucho antes de significar una foto de perfil.",
+        "fact": "\"Avatar\" viene del sánscrito avatara, que significa el \"descenso\" de una deidad a la tierra en forma corporal. El inglés lo tomó primero para las encarnaciones terrenales de los dioses hindúes, antes de que la palabra se reutilizara para las representaciones digitales de una persona."
+      }
+    }
   },
   {
     "id": "language-028",
@@ -287,7 +677,21 @@
     "tags": [
       "hindi",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Shampoo » (shampooing) désignait autrefois un massage complet du corps, pas un lavage de cheveux.",
+        "fact": "« Shampoo » vient du hindi champo, une forme impérative de champna, « presser » ou « pétrir ». Le mot est entré en anglais au XVIIIe siècle pour décrire une pratique de massage thérapeutique, avant que son sens ne se restreigne au lavage des cheveux."
+      },
+      "nl": {
+        "hook": "\"Shampoo\" betekende vroeger een lichaamsmassage, geen haarwas.",
+        "fact": "\"Shampoo\" komt van het Hindi champo, een gebiedende wijs van champna, \"drukken\" of \"kneden.\" Het woord kwam in de 18e eeuw in het Engels terecht als beschrijving van een therapeutische massagepraktijk, voordat de betekenis zich beperkte tot het wassen van haar."
+      },
+      "es": {
+        "hook": "\"Shampoo\" (champú) solía significar un masaje de cuerpo entero, no lavarse el pelo.",
+        "fact": "\"Shampoo\" viene del hindi champo, una forma imperativa de champna, \"presionar\" o \"amasar.\" Entró al inglés en el siglo XVIII describiendo una práctica de masaje terapéutico, antes de que su significado se redujera a lavar el cabello."
+      }
+    }
   },
   {
     "id": "language-029",
@@ -298,7 +702,21 @@
       "hindi",
       "loanword",
       "colonial-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Thug » désignait à l'origine un réseau criminel précis en Inde.",
+        "fact": "« Thug » vient du hindi thag, désignant les membres d'un réseau organisé de voleurs en Inde qui, selon les récits coloniaux britanniques du XIXe siècle, opéraient sous ce nom. Le mot est entré en anglais via ces récits coloniaux et s'est élargi pour désigner tout criminel violent."
+      },
+      "nl": {
+        "hook": "\"Thug\" (schurk) benoemde oorspronkelijk een specifiek crimineel netwerk in India.",
+        "fact": "\"Thug\" komt van het Hindi thag, dat verwees naar leden van een georganiseerd rovernetwerk in India dat, volgens 19e-eeuwse Britse koloniale verslagen, onder deze naam opereerde. Het woord kwam via die koloniale verslagen het Engels binnen en kreeg een bredere betekenis van elke gewelddadige crimineel."
+      },
+      "es": {
+        "hook": "\"Thug\" (matón) originalmente nombraba a una red criminal concreta en la India.",
+        "fact": "\"Thug\" viene del hindi thag, que se refería a los miembros de una red organizada de ladrones en la India que, según relatos coloniales británicos del siglo XIX, operaba bajo ese nombre. La palabra entró al inglés a través de esos relatos coloniales y se amplió para significar cualquier criminal violento."
+      }
+    }
   },
   {
     "id": "language-030",
@@ -308,7 +726,21 @@
     "tags": [
       "hindi",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Loot » (butin) est un emprunt direct au hindi.",
+        "fact": "« Loot » vient directement du hindi lut, signifiant pillage ou biens volés, adopté en anglais par les soldats et fonctionnaires britanniques en poste dans l'Inde coloniale."
+      },
+      "nl": {
+        "hook": "\"Loot\" (buit) is rechtstreeks overgenomen uit het Hindi.",
+        "fact": "\"Loot\" komt rechtstreeks van het Hindi lut, wat plundering of gestolen goederen betekent, overgenomen in het Engels door Britse soldaten en ambtenaren die dienden in koloniaal India."
+      },
+      "es": {
+        "hook": "\"Loot\" (botín) es una importación directa del hindi.",
+        "fact": "\"Loot\" viene directamente del hindi lut, que significa saqueo o bienes robados, adoptado en inglés por soldados y funcionarios británicos que servían en la India colonial."
+      }
+    }
   },
   {
     "id": "language-031",
@@ -319,7 +751,21 @@
       "hindi",
       "sanskrit",
       "food-drink"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un « punch » au rhum tire son nom de ses cinq ingrédients.",
+        "fact": "« Punch », la boisson mélangée, vient du hindi et du sanskrit panch, signifiant « cinq ». Le nom faisait référence aux cinq ingrédients traditionnels : alcool, eau, citron, sucre et épices."
+      },
+      "nl": {
+        "hook": "Een rumpunch is genoemd naar zijn vijf ingrediënten.",
+        "fact": "\"Punch,\" de mixdrank, komt van het Hindi en Sanskriet panch, wat \"vijf\" betekent. De naam verwees naar de traditionele vijf ingrediënten: sterke drank, water, citroen, suiker en specerijen."
+      },
+      "es": {
+        "hook": "Un ponche de ron debe su nombre a sus cinco ingredientes.",
+        "fact": "\"Punch\" (ponche), la bebida mezclada, viene del hindi y el sánscrito panch, que significa \"cinco.\" El nombre se refería a los cinco ingredientes tradicionales: licor, agua, limón, azúcar y especias."
+      }
+    }
   },
   {
     "id": "language-032",
@@ -330,7 +776,21 @@
       "hindi",
       "persian",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le « pyjama » tire son nom d'un vêtement porté sur les jambes.",
+        "fact": "« Pajamas » (pyjama) vient du hindi et de l'ourdou payjama, lui-même issu du persan pay (« jambe ») et jama (« vêtement »). Le mot désignait à l'origine un pantalon ample noué à la taille, porté en Asie du Sud bien avant de devenir, en anglais, le mot pour les vêtements de nuit."
+      },
+      "nl": {
+        "hook": "\"Pajamas\" (pyjama) is vernoemd naar een kledingstuk voor de benen.",
+        "fact": "\"Pajamas\" komt van het Hindi en Urdu payjama, zelf afkomstig van het Perzische pay (\"been\") en jama (\"kledingstuk\"). Het beschreef oorspronkelijk een losse broek die om het middel werd vastgebonden, gedragen in Zuid-Azië lang voordat het in het Engels de naam voor nachtkleding werd."
+      },
+      "es": {
+        "hook": "El \"pajamas\" (pijama) toma su nombre de una prenda que se lleva en las piernas.",
+        "fact": "\"Pajamas\" viene del hindi y el urdu payjama, a su vez del persa pay (\"pierna\") y jama (\"prenda\"). Originalmente describía un pantalón holgado atado a la cintura, usado en el sur de Asia mucho antes de convertirse en la palabra inglesa para la ropa de dormir."
+      }
+    }
   },
   {
     "id": "language-033",
@@ -341,7 +801,21 @@
       "persian",
       "greek",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Paradise » (paradis) désignait à l'origine un jardin clos.",
+        "fact": "« Paradise » vient du vieux persan pairidaeza, désignant un parc clos ou un jardin entouré de murs. Le mot est passé en grec sous la forme paradeisos, puis en anglais via le latin et le français, prenant peu à peu son sens céleste."
+      },
+      "nl": {
+        "hook": "\"Paradise\" (paradijs) betekende oorspronkelijk een omheinde tuin.",
+        "fact": "\"Paradise\" komt van het Oudperzische pairidaeza, wat een omsloten park of ommuurde tuin betekent. Het woord kwam in het Grieks terecht als paradeisos en uiteindelijk in het Engels via het Latijn en Frans, waarbij het geleidelijk zijn hemelse betekenis kreeg."
+      },
+      "es": {
+        "hook": "\"Paradise\" (paraíso) empezó significando un jardín amurallado.",
+        "fact": "\"Paradise\" viene del persa antiguo pairidaeza, que significa un parque cercado o jardín amurallado. La palabra pasó al griego como paradeisos y finalmente al inglés a través del latín y el francés, adquiriendo poco a poco su sentido celestial."
+      }
+    }
   },
   {
     "id": "language-034",
@@ -351,7 +825,21 @@
     "tags": [
       "persian",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Bazaar » (bazar) est un emprunt direct au persan.",
+        "fact": "« Bazaar » vient du persan bazar, signifiant un marché, et est entré en anglais quasiment sans changement grâce aux échanges commerciaux et à l'usage colonial en Asie du Sud."
+      },
+      "nl": {
+        "hook": "\"Bazaar\" (bazaar) is een rechtstreeks leenwoord uit het Perzisch.",
+        "fact": "\"Bazaar\" komt van het Perzische bazar, wat een marktplaats betekent, en kwam grotendeels onveranderd het Engels binnen door handelscontacten en koloniaal gebruik in Zuid-Azië."
+      },
+      "es": {
+        "hook": "\"Bazaar\" (bazar) es un préstamo directo del persa.",
+        "fact": "\"Bazaar\" viene del persa bazar, que significa mercado, y entró al inglés prácticamente sin cambios a través del contacto comercial y el uso colonial en el sur de Asia."
+      }
+    }
   },
   {
     "id": "language-035",
@@ -362,7 +850,21 @@
       "urdu",
       "persian",
       "military"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Khaki » tire son nom d'une couleur, pas d'un tissu.",
+        "fact": "« Khaki » vient de l'ourdou et du persan khaki, signifiant « couleur de poussière », de khak (« poussière »). Les troupes coloniales britanniques en Inde ont adopté des uniformes couleur poussière pour se camoufler, et le nom de la couleur est devenu celui du tissu."
+      },
+      "nl": {
+        "hook": "\"Khaki\" is vernoemd naar een kleur, niet naar een stof.",
+        "fact": "\"Khaki\" komt van het Urdu en Perzische khaki, wat \"stofkleurig\" betekent, van khak (\"stof\"). Britse koloniale troepen in India namen stofkleurige uniformen aan als camouflage, en de kleurnaam werd de naam van de stof."
+      },
+      "es": {
+        "hook": "\"Khaki\" (caqui) toma su nombre de un color, no de una tela.",
+        "fact": "\"Khaki\" viene del urdu y el persa khaki, que significa \"color polvo,\" de khak (\"polvo\"). Las tropas coloniales británicas en la India adoptaron uniformes de tono polvoriento como camuflaje, y el nombre del color pasó a ser el nombre de la tela."
+      }
+    }
   },
   {
     "id": "language-036",
@@ -372,7 +874,21 @@
     "tags": [
       "persian",
       "color"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La couleur « azure » (azur) tire son nom d'un lieu où l'on extrayait une pierre bleue.",
+        "fact": "« Azure » vient du persan lazhward, une région réputée pour être une source de lapis-lazuli, le minéral bleu profond. Le mot est passé par l'arabe puis l'ancien français avant de s'installer en anglais comme nom de couleur."
+      },
+      "nl": {
+        "hook": "De kleur \"azure\" (azuurblauw) is vernoemd naar een plaats waar blauwe steen werd gedolven.",
+        "fact": "\"Azure\" komt van het Perzische lazhward, een streek die bekendstond als bron van lapis lazuli, het diepblauwe mineraal. Het woord ging via het Arabisch en Oudfrans, voordat het als kleurnaam in het Engels belandde."
+      },
+      "es": {
+        "hook": "El color \"azure\" (azul) toma su nombre de un lugar donde se extraía piedra azul.",
+        "fact": "\"Azure\" viene del persa lazhward, una región famosa por ser fuente de lapislázuli, el mineral azul profundo. La palabra pasó por el árabe y el francés antiguo antes de asentarse en el inglés como nombre de color."
+      }
+    }
   },
   {
     "id": "language-037",
@@ -383,7 +899,21 @@
       "czech",
       "coinage",
       "literature"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « robot » n'a qu'un siècle environ, et il est né sur une scène de théâtre.",
+        "fact": "« Robot » vient du tchèque robota, signifiant travail forcé ou corvée. Le mot a été inventé pour la pièce de Karel Čapek de 1920, R.U.R. (Rossum's Universal Robots), le terme précis ayant, selon les récits, été suggéré par son frère, le peintre et écrivain Josef Čapek."
+      },
+      "nl": {
+        "hook": "Het woord \"robot\" is pas ongeveer een eeuw oud en ontstond op een toneel.",
+        "fact": "\"Robot\" komt van het Tsjechische robota, wat dwangarbeid of zwoegen betekent. Het woord werd bedacht voor Karel Čapeks toneelstuk R.U.R. (Rossum's Universal Robots) uit 1920, waarbij het specifieke woord naar verluidt werd voorgesteld door zijn broer, de schilder en schrijver Josef Čapek."
+      },
+      "es": {
+        "hook": "La palabra \"robot\" tiene apenas un siglo de antigüedad, y nació en un escenario.",
+        "fact": "\"Robot\" viene del checo robota, que significa trabajo forzado o labor tediosa. Fue acuñada para la obra de teatro de Karel Čapek de 1920, R.U.R. (Rossum's Universal Robots), palabra que, según se cuenta, fue sugerida por su hermano, el pintor y escritor Josef Čapek."
+      }
+    }
   },
   {
     "id": "language-038",
@@ -394,7 +924,21 @@
       "slavic",
       "folklore",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Vampire » est un emprunt venu des Balkans.",
+        "fact": "« Vampire » est entré en anglais au début du XVIIIe siècle via le français et l'allemand, provenant en définitive d'un mot slave (comparer au serbe vampir), à la suite d'une vague de récits et de folklore sur des frayeurs liées aux vampires dans les Balkans et en Europe centrale."
+      },
+      "nl": {
+        "hook": "\"Vampire\" (vampier) is een leenwoord uit de Balkan.",
+        "fact": "\"Vampire\" kwam begin 18e eeuw via het Frans en Duits het Engels binnen, uiteindelijk afkomstig van een Slavisch woord (vergelijk het Servische vampir), na een golf van berichten en folklore over vampierschrik in de Balkan en Midden-Europa."
+      },
+      "es": {
+        "hook": "\"Vampire\" (vampiro) es un préstamo de los Balcanes.",
+        "fact": "\"Vampire\" entró al inglés a principios del siglo XVIII a través del francés y el alemán, procedente en última instancia de una palabra eslava (compárese con el serbio vampir), tras una oleada de relatos y folclore sobre el pánico a los vampiros en los Balcanes y Europa Central."
+      }
+    }
   },
   {
     "id": "language-039",
@@ -405,7 +949,21 @@
       "turkish",
       "persian",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un « kiosk » (kiosque) était à l'origine un pavillon de jardin persan.",
+        "fact": "« Kiosk » vient du turc köşk, lui-même issu du persan kushk, qui désignait à l'origine un pavillon ouvert et couvert dans un jardin ou un palais. Le mot s'est restreint en Europe occidentale pour désigner un petit stand ou une échoppe."
+      },
+      "nl": {
+        "hook": "Een \"kiosk\" was oorspronkelijk een Perzisch tuinpaviljoen.",
+        "fact": "\"Kiosk\" komt van het Turkse köşk, zelf afkomstig van het Perzische kushk, dat oorspronkelijk een open, overdekt paviljoen in een tuin of paleis beschreef. Het woord kreeg in West-Europa een beperktere betekenis: een klein kraampje of stalletje."
+      },
+      "es": {
+        "hook": "Un \"kiosk\" (quiosco) fue originalmente un pabellón de jardín persa.",
+        "fact": "\"Kiosk\" viene del turco köşk, a su vez del persa kushk, que originalmente describía un pabellón abierto y techado en un jardín o palacio. La palabra se restringió en Europa Occidental hasta significar un pequeño puesto o caseta."
+      }
+    }
   },
   {
     "id": "language-040",
@@ -416,7 +974,21 @@
       "hungarian",
       "transportation",
       "eponym"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « coach » (voiture, entraîneur) tire son nom d'un village hongrois.",
+        "fact": "« Coach » vient du hongrois kocsi (szekér), littéralement « chariot de Kocs », un village de Hongrie réputé au XVe siècle pour produire un style distinctif de calèche à chevaux, bien suspendue."
+      },
+      "nl": {
+        "hook": "Het woord \"coach\" is vernoemd naar een Hongaars dorp.",
+        "fact": "\"Coach\" komt van het Hongaarse kocsi (szekér), letterlijk \"wagen van Kocs,\" een dorp in Hongarije dat in de 15e eeuw bekendstond om het produceren van een kenmerkende, goed geveerde paardenkoets."
+      },
+      "es": {
+        "hook": "La palabra \"coach\" (carruaje, entrenador) toma su nombre de un pueblo húngaro.",
+        "fact": "\"Coach\" viene del húngaro kocsi (szekér), literalmente \"carro de Kocs,\" un pueblo de Hungría reconocido en el siglo XV por producir un estilo distintivo de carruaje tirado por caballos, con una suspensión particularmente buena."
+      }
+    }
   },
   {
     "id": "language-041",
@@ -426,7 +998,21 @@
     "tags": [
       "old-norse",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Berserk » vient de guerriers qui combattaient vêtus de peaux d'ours.",
+        "fact": "Berserk vient du vieux norrois berserkr, qui signifierait « chemise d'ours », en référence aux légendaires guerriers nordiques réputés combattre dans une transe frénétique, parfois décrits comme portant des peaux d'ours ou de loup."
+      },
+      "nl": {
+        "hook": "\"Berserk\" komt van krijgers die in berenhuiden vochten.",
+        "fact": "Berserk komt van het Oudnoorse berserkr, wat waarschijnlijk \"berenhemd\" betekent, een verwijzing naar de legendarische Noorse krijgers die in een trance-achtige, razende woede zouden vechten, soms beschreven als gehuld in beren- of wolvenvellen."
+      },
+      "es": {
+        "hook": "\"Berserk\" viene de guerreros que luchaban vestidos con pieles de oso.",
+        "fact": "Berserk proviene del nórdico antiguo berserkr, que probablemente significa \"camisa de oso\", en referencia a los legendarios guerreros nórdicos que, según se decía, luchaban en un estado de trance furioso, a veces descritos vistiendo pieles de oso o de lobo."
+      }
+    }
   },
   {
     "id": "language-042",
@@ -437,7 +1023,21 @@
       "icelandic",
       "old-norse",
       "eponym"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Geyser » tire son nom d'une source chaude précise, en Islande.",
+        "fact": "Geyser vient de Geysir, le nom propre d'une source chaude particulière du sud-ouest de l'Islande, dérivé du verbe vieux norrois geysa, « jaillir ». Le mot est devenu le terme générique anglais pour désigner toute source chaude similaire."
+      },
+      "nl": {
+        "hook": "\"Geyser\" is vernoemd naar één specifieke hete bron in IJsland.",
+        "fact": "Geyser komt van Geysir, de eigennaam van een specifieke hete bron in het zuidwesten van IJsland, afgeleid van het Oudnoorse werkwoord geysa, \"opborrelen\". Het werd het algemene Engelse woord voor elke vergelijkbare hete bron."
+      },
+      "es": {
+        "hook": "\"Géiser\" recibe su nombre de una fuente termal concreta de Islandia.",
+        "fact": "Géiser proviene de Geysir, el nombre propio de una fuente termal concreta del suroeste de Islandia, derivado del verbo nórdico antiguo geysa, \"brotar con fuerza\". Se convirtió en la palabra genérica en inglés para cualquier fuente termal similar."
+      }
+    }
   },
   {
     "id": "language-043",
@@ -447,7 +1047,21 @@
     "tags": [
       "irish-gaelic",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Galore » vient de l'irlandais et signifie « en abondance ».",
+        "fact": "Galore vient du gaélique irlandais et écossais go leor, qui signifie « assez » ou « suffisant ». L'anglais a emprunté l'expression presque telle quelle, et elle s'emploie encore toujours après le nom, comme dans « bargains galore » (des bonnes affaires à foison)."
+      },
+      "nl": {
+        "hook": "\"Galore\" is Iers voor \"in overvloed\".",
+        "fact": "Galore komt van het Ierse en Schotse Gaelic go leor, wat \"genoeg\" of \"voldoende\" betekent. Het Engels leende de uitdrukking vrijwel ongewijzigd, en ze wordt nog altijd achter het zelfstandig naamwoord geplaatst, zoals in \"bargains galore\" (koopjes in overvloed)."
+      },
+      "es": {
+        "hook": "\"Galore\" es una palabra irlandesa que significa \"en abundancia\".",
+        "fact": "Galore proviene del gaélico irlandés y escocés go leor, que significa \"suficiente\" o \"bastante\". El inglés tomó prestada la expresión casi intacta, y todavía se usa siempre después del sustantivo, como en \"bargains galore\" (gangas a montones)."
+      }
+    }
   },
   {
     "id": "language-044",
@@ -458,7 +1072,21 @@
       "irish-gaelic",
       "loanword",
       "food-drink"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le whisky signifie « eau de vie ».",
+        "fact": "Whiskey vient de l'irlandais uisce beatha et du gaélique écossais uisge beatha, qui signifient tous deux « eau de vie », traduction directe du latin aqua vitae autrefois employé dans toute l'Europe médiévale pour désigner les spiritueux distillés."
+      },
+      "nl": {
+        "hook": "Whiskey betekent \"levenswater\".",
+        "fact": "Whiskey komt van het Ierse uisce beatha en het Schotse Gaelic uisge beatha, die beide \"levenswater\" betekenen, een rechtstreekse vertaling van het Latijnse aqua vitae, ooit in heel middeleeuws Europa gebruikt voor gedistilleerde sterkedrank."
+      },
+      "es": {
+        "hook": "El whisky significa \"agua de vida\".",
+        "fact": "Whiskey proviene del irlandés uisce beatha y del gaélico escocés uisge beatha, ambos con el significado de \"agua de vida\", traducción directa del latín aqua vitae, usado en toda la Europa medieval para referirse a los licores destilados."
+      }
+    }
   },
   {
     "id": "language-045",
@@ -468,7 +1096,21 @@
     "tags": [
       "irish-gaelic",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Smithereens » est un petit mot irlandais pour désigner de tout petits morceaux.",
+        "fact": "Smithereens vient de l'irlandais smidiríní, forme diminutive de smiodar, qui signifie un petit fragment ou un petit morceau."
+      },
+      "nl": {
+        "hook": "\"Smithereens\" is een piepklein Iers woord voor piepkleine stukjes.",
+        "fact": "Smithereens komt van het Ierse smidiríní, een verkleinvorm van smiodar, wat een klein fragment of stukje betekent."
+      },
+      "es": {
+        "hook": "\"Smithereens\" es una diminuta palabra irlandesa para fragmentos diminutos.",
+        "fact": "Smithereens proviene del irlandés smidiríní, forma diminutiva de smiodar, que significa un pequeño fragmento o trozo."
+      }
+    }
   },
   {
     "id": "language-046",
@@ -478,7 +1120,21 @@
     "tags": [
       "japanese",
       "natural-disaster"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un tsunami est littéralement une « vague de port ».",
+        "fact": "Tsunami vient du japonais tsu (« port ») et nami (« vague »), le terme décrivant la façon dont ces vagues destructrices deviennent particulièrement visibles et dévastatrices en déferlant dans les ports et les baies côtières."
+      },
+      "nl": {
+        "hook": "Een tsunami is letterlijk een \"havengolf\".",
+        "fact": "Tsunami komt van het Japanse tsu (\"haven\") en nami (\"golf\"), een verwijzing naar hoe deze verwoestende golven vooral merkbaar en schadelijk worden wanneer ze havens en kustinhammen binnenstromen."
+      },
+      "es": {
+        "hook": "Un tsunami es literalmente una \"ola de puerto\".",
+        "fact": "Tsunami proviene del japonés tsu (\"puerto\") y nami (\"ola\"), y describe cómo estas olas destructivas resultan más visibles y dañinas al irrumpir en puertos y ensenadas costeras."
+      }
+    }
   },
   {
     "id": "language-047",
@@ -488,7 +1144,21 @@
     "tags": [
       "japanese",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Tycoon » était à l'origine un titre désignant le shogun japonais.",
+        "fact": "Tycoon vient du japonais taikun, qui signifie « grand seigneur » ou « grand prince », un titre utilisé pour le shogun. Des diplomates et marins américains ont adopté le mot lors des négociations commerciales avec le Japon dans les années 1850, et il est entré dans la langue anglaise pour désigner des personnalités puissantes et fortunées."
+      },
+      "nl": {
+        "hook": "\"Tycoon\" was oorspronkelijk een titel voor de Japanse shogun.",
+        "fact": "Tycoon komt van het Japanse taikun, wat \"grote heer\" of \"grote vorst\" betekent, een titel die voor de shogun werd gebruikt. Amerikaanse diplomaten en zeelieden namen het woord over tijdens handelsonderhandelingen met Japan in de jaren 1850, en het kreeg in het Engels de betekenis van machtige, rijke figuren."
+      },
+      "es": {
+        "hook": "\"Tycoon\" fue originalmente un título para el shogun japonés.",
+        "fact": "Tycoon proviene del japonés taikun, que significa \"gran señor\" o \"gran príncipe\", un título usado para el shogun. Diplomáticos y marineros estadounidenses adoptaron la palabra durante las negociaciones comerciales con Japón en la década de 1850, y pasó al inglés para describir a figuras poderosas y adineradas."
+      }
+    }
   },
   {
     "id": "language-048",
@@ -499,7 +1169,21 @@
       "japanese",
       "military",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Honcho » vient d'un grade militaire japonais.",
+        "fact": "Honcho vient du japonais hanchō, qui signifie « chef d'escouade » ou « chef de groupe ». Les militaires américains ont adopté le terme durant l'occupation du Japon après la Seconde Guerre mondiale, et il est entré dans l'argot anglais pour désigner toute personne aux commandes."
+      },
+      "nl": {
+        "hook": "\"Honcho\" komt van een Japanse militaire rang.",
+        "fact": "Honcho komt van het Japanse hanchō, wat \"ploegleider\" of \"groepshoofd\" betekent. Amerikaanse militairen namen de term over tijdens de bezetting van Japan na de Tweede Wereldoorlog, en het werd Engelse straattaal voor wie de leiding heeft."
+      },
+      "es": {
+        "hook": "\"Honcho\" proviene de un rango militar japonés.",
+        "fact": "Honcho proviene del japonés hanchō, que significa \"jefe de escuadra\" o \"jefe de grupo\". Los militares estadounidenses adoptaron el término durante la ocupación de Japón tras la Segunda Guerra Mundial, y pasó al argot inglés para referirse a quien está al mando."
+      }
+    }
   },
   {
     "id": "language-049",
@@ -510,7 +1194,24 @@
     "tags": [
       "japanese",
       "technology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Emoji » n'a rien à voir avec le mot anglais « emotion ».",
+        "fact": "Emoji vient du japonais e (« image ») et moji (« caractère » ou « lettre »). Sa ressemblance avec le mot anglais « emoticon » est purement fortuite, et non le fruit d'un lien étymologique.",
+        "whyItMatters": "On croit souvent à tort que « emoji » est une contraction de « emotion » et « icon » ; la ressemblance n'est qu'une coïncidence entre deux langues sans lien."
+      },
+      "nl": {
+        "hook": "Emoji heeft niets te maken met het woord \"emotion\".",
+        "fact": "Emoji komt van het Japanse e (\"plaatje\") en moji (\"teken\" of \"letter\"). De sterke gelijkenis met het Engelse woord \"emoticon\" berust volledig op toeval en niet op een etymologisch verband.",
+        "whyItMatters": "Het is een veelvoorkomend misverstand dat \"emoji\" een samentrekking is van \"emotion\" en \"icon\"; de gelijkenis is pure toeval tussen twee ongerelateerde talen."
+      },
+      "es": {
+        "hook": "\"Emoji\" no tiene nada que ver con la palabra inglesa \"emotion\".",
+        "fact": "Emoji proviene del japonés e (\"imagen\") y moji (\"carácter\" o \"letra\"). Su parecido con la palabra inglesa \"emoticon\" es pura coincidencia, no una conexión etimológica.",
+        "whyItMatters": "Es un error común pensar que \"emoji\" es una mezcla de \"emotion\" e \"icon\"; el parecido es simple coincidencia entre lenguas sin relación."
+      }
+    }
   },
   {
     "id": "language-050",
@@ -520,7 +1221,21 @@
     "tags": [
       "japanese",
       "music"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Karaoké » signifie littéralement « orchestre vide ».",
+        "fact": "Karaoke combine le japonais kara (« vide ») et oke, emprunt raccourci du mot anglais « orchestra ». Ensemble, ils désignaient une piste musicale jouant sans ses musiciens habituels."
+      },
+      "nl": {
+        "hook": "\"Karaoke\" betekent letterlijk \"leeg orkest\".",
+        "fact": "Karaoke combineert het Japanse kara (\"leeg\") met oke, een verkorte ontlening van het Engelse woord \"orchestra\". Samen beschreven ze een begeleidingsspoor dat speelde zonder zijn gebruikelijke live-muzikanten."
+      },
+      "es": {
+        "hook": "\"Karaoke\" significa literalmente \"orquesta vacía\".",
+        "fact": "Karaoke combina el japonés kara (\"vacío\") con oke, una forma abreviada tomada de la palabra inglesa \"orchestra\". Juntas describían una pista musical que sonaba sin sus músicos habituales en directo."
+      }
+    }
   },
   {
     "id": "language-051",
@@ -531,7 +1246,21 @@
       "chinese",
       "military",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Gung ho » était à l'origine un slogan de coopératives industrielles chinoises.",
+        "fact": "Gung ho vient du chinois gōnghé, approximativement « travailler ensemble » ou « travailler en harmonie », utilisé comme nom pour les coopératives industrielles chinoises dans les années 1930. Un officier des Marines américains ayant servi en Chine en fit une devise d'entraînement pendant la Seconde Guerre mondiale, et l'expression s'est répandue en anglais avec le sens de trop enthousiaste."
+      },
+      "nl": {
+        "hook": "\"Gung ho\" begon als een Chinese slogan voor industriële coöperaties.",
+        "fact": "Gung ho komt van het Chinese gōnghé, ongeveer \"samen werken\" of \"in harmonie werken\", gebruikt als naam voor Chinese industriële coöperaties in de jaren 1930. Een Amerikaanse mariniersofficier die in China had gediend, maakte er tijdens de Tweede Wereldoorlog een trainingsmotto van, en het woord verspreidde zich in het Engels met de betekenis overdreven enthousiast."
+      },
+      "es": {
+        "hook": "\"Gung ho\" empezó como un eslogan de cooperativas industriales chinas.",
+        "fact": "Gung ho proviene del chino gōnghé, aproximadamente \"trabajar juntos\" o \"trabajar en armonía\", usado como nombre de las cooperativas industriales chinas en la década de 1930. Un oficial de los marines estadounidenses que había servido en China lo adoptó como lema de entrenamiento durante la Segunda Guerra Mundial, y se extendió en inglés con el sentido de excesivamente entusiasta."
+      }
+    }
   },
   {
     "id": "language-052",
@@ -541,7 +1270,21 @@
     "tags": [
       "chinese",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Faire du « kowtow », c'est littéralement se cogner la tête par terre.",
+        "fact": "Kowtow vient du chinois kòutóu, qui signifie « cogner la tête », décrivant la pratique traditionnelle consistant à s'agenouiller et à toucher le sol du front en signe de profond respect ou de soumission devant un supérieur."
+      },
+      "nl": {
+        "hook": "\"Kowtowen\" betekent letterlijk je hoofd tegen de grond stoten.",
+        "fact": "Kowtow komt van het Chinese kòutóu, wat \"het hoofd stoten\" betekent, een verwijzing naar de traditionele gewoonte om te knielen en met het voorhoofd de grond aan te raken als teken van diep respect of onderworpenheid tegenover een meerdere."
+      },
+      "es": {
+        "hook": "Hacer \"kowtow\" es literalmente golpearse la cabeza contra el suelo.",
+        "fact": "Kowtow proviene del chino kòutóu, que significa \"golpear la cabeza\", y describe la práctica tradicional de arrodillarse y tocar el suelo con la frente como muestra de profundo respeto o sumisión ante un superior."
+      }
+    }
   },
   {
     "id": "language-053",
@@ -552,7 +1295,21 @@
       "chinese",
       "malay",
       "food-drink"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le ketchup a commencé comme une sauce de poisson fermenté.",
+        "fact": "Ketchup vient très probablement du hokkien kê-tsiap, une saumure de poisson mariné, arrivée en anglais via le malais kicap après avoir été adaptée par des marchands britanniques en Asie du Sud-Est. Il ne ressemblait guère au condiment à base de tomate d'aujourd'hui, jusqu'à ce que les recettes évoluent au cours des deux siècles suivants."
+      },
+      "nl": {
+        "hook": "Ketchup begon als een gefermenteerde vissaus.",
+        "fact": "Ketchup komt hoogstwaarschijnlijk van het Hokkien-Chinese kê-tsiap, een gepekelde vissaus, dat via het Maleisische kicap in het Engels terechtkwam nadat Britse handelaars in Zuidoost-Azië het woord hadden aangepast. Het leek nauwelijks op het huidige tomatengebaseerde condiment, tot recepten zich in de daaropvolgende twee eeuwen ontwikkelden."
+      },
+      "es": {
+        "hook": "El ketchup empezó siendo una salsa de pescado fermentado.",
+        "fact": "Ketchup proviene muy probablemente del hokkien kê-tsiap, una salmuera de pescado encurtido, que llegó al inglés a través del malayo kicap tras ser adaptada por comerciantes británicos en el sudeste asiático. Apenas se parecía al condimento a base de tomate actual, hasta que las recetas evolucionaron durante los dos siglos siguientes."
+      }
+    }
   },
   {
     "id": "language-054",
@@ -563,7 +1320,24 @@
     "tags": [
       "chinese",
       "trade-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Tea » et « chai » sont en fait le même mot, séparé par les routes commerciales.",
+        "fact": "Les deux mots remontent à la même racine chinoise. « Tea » est entré dans l'anglais via des marchands néerlandais, qui ont transporté par mer le mot te du dialecte chinois min nan d'Amoy, tandis que « chai » s'est répandu par voie terrestre, à travers le persan et le russe, à partir du mandarin cha, donnant naissance à deux mots de sonorité différente pour la même plante selon les langues du monde.",
+        "whyItMatters": "Les linguistes peuvent retracer les anciennes routes commerciales du thé simplement en observant si le mot désignant le thé dans une langue sonne plutôt comme « cha » ou comme « tea »."
+      },
+      "nl": {
+        "hook": "\"Tea\" en \"chai\" zijn eigenlijk hetzelfde woord, uiteengegroeid via handelsroutes.",
+        "fact": "Beide woorden gaan terug op dezelfde Chinese wortel. \"Tea\" kwam het Engels binnen via Nederlandse handelaars, die het woord te via de zee meenamen uit het Min Nan-Chinese dialect van Amoy, terwijl \"chai\" zich over land verspreidde via het Perzisch en Russisch vanuit het Mandarijnse cha, wat resulteerde in twee heel verschillend klinkende woorden voor dezelfde plant in talen wereldwijd.",
+        "whyItMatters": "Taalkundigen kunnen historische theehandelsroutes achterhalen door simpelweg na te gaan of het woord voor thee in een taal meer klinkt als \"cha\" of als \"tea\"."
+      },
+      "es": {
+        "hook": "\"Tea\" y \"chai\" son en realidad la misma palabra, separada por las rutas comerciales.",
+        "fact": "Ambas palabras se remontan a la misma raíz china. \"Tea\" entró en inglés a través de comerciantes neerlandeses, que transportaron por mar la palabra te del dialecto chino min nan de Amoy, mientras que \"chai\" se extendió por tierra a través del persa y el ruso desde el mandarín cha, dando lugar a dos palabras de sonido muy distinto para la misma planta en las lenguas del mundo.",
+        "whyItMatters": "Los lingüistas pueden rastrear antiguas rutas comerciales del té con solo comprobar si la palabra que usa una lengua para el té suena más a \"cha\" o a \"tea\"."
+      }
+    }
   },
   {
     "id": "language-055",
@@ -573,7 +1347,21 @@
     "tags": [
       "nahuatl",
       "food-drink"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Avocat (le fruit) et « testicule » partagent une racine en nahuatl.",
+        "fact": "Avocado vient du nahuatl ahuacatl, un mot qui désignait aussi un testicule, probablement en raison de la forme du fruit lorsqu'il pend par paires sur l'arbre. Les colonisateurs espagnols l'ont adapté en aguacate, que l'anglais a ensuite transformé en « avocado »."
+      },
+      "nl": {
+        "hook": "Avocado en \"testikel\" delen een wortel in het Nahuatl.",
+        "fact": "Avocado komt van het Nahuatl ahuacatl, een woord dat ook naar een testikel verwees, waarschijnlijk vanwege de vorm van de vrucht wanneer ze in paren aan de boom hangt. Spaanse kolonisten pasten het aan tot aguacate, dat het Engels later omvormde tot \"avocado\"."
+      },
+      "es": {
+        "hook": "Aguacate y \"testículo\" comparten raíz en náhuatl.",
+        "fact": "Aguacate proviene del náhuatl ahuacatl, palabra que también designaba un testículo, probablemente por la forma de la fruta al colgar por pares del árbol. Los colonizadores españoles lo adaptaron como aguacate, que el inglés reformuló más tarde como \"avocado\"."
+      }
+    }
   },
   {
     "id": "language-056",
@@ -583,7 +1371,21 @@
     "tags": [
       "taino",
       "weather"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ouragan porte le nom d'un dieu de la tempête.",
+        "fact": "Hurricane vient du mot taïno hurakan, le nom d'une divinité de la tempête dans la mythologie du peuple autochtone taïno des Caraïbes. Les colonisateurs espagnols l'ont adopté sous la forme huracán, avant qu'il ne passe de là dans la langue anglaise."
+      },
+      "nl": {
+        "hook": "Een orkaan is vernoemd naar een stormgod.",
+        "fact": "Hurricane komt van het Taino-woord hurakan, de naam van een stormgod in de mythologie van het inheemse Taino-volk van het Caraïbisch gebied. Spaanse kolonisten namen het over als huracán, van waaruit het in het Engels terechtkwam."
+      },
+      "es": {
+        "hook": "El huracán lleva el nombre de un dios de la tormenta.",
+        "fact": "Huracán proviene de la palabra taína hurakan, el nombre de una deidad de la tormenta en la mitología del pueblo indígena taíno del Caribe. Los colonizadores españoles la adoptaron como huracán, y de ahí pasó al inglés."
+      }
+    }
   },
   {
     "id": "language-057",
@@ -593,7 +1395,21 @@
     "tags": [
       "inuktitut",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Kayak est un mot inuit désignant l'embarcation elle-même.",
+        "fact": "Kayak vient de l'inuktitut et du yupik qayaq, le mot autochtone arctique désignant la fine embarcation recouverte de peau, emprunté par l'anglais presque sans modification."
+      },
+      "nl": {
+        "hook": "Kajak is een Inuit-woord voor de boot zelf.",
+        "fact": "Kayak komt van het Inuktitut en Yupik qayaq, het inheemse Arctische woord voor de smalle, met huid beklede boot, vrijwel ongewijzigd overgenomen in het Engels."
+      },
+      "es": {
+        "hook": "Kayak es una palabra inuit para designar la propia embarcación.",
+        "fact": "Kayak proviene del inuktitut y del yupik qayaq, la palabra indígena ártica para designar la estrecha embarcación revestida de piel, tomada por el inglés prácticamente sin cambios."
+      }
+    }
   },
   {
     "id": "language-058",
@@ -603,7 +1419,21 @@
     "tags": [
       "yiddish",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Klutz » vient d'un mot désignant un bloc de bois.",
+        "fact": "Klutz vient du yiddish klots, qui signifie une poutre ou un bloc de bois, lui-même apparenté à l'allemand Klotz. Le mot en est venu à désigner une personne maladroite et empotée."
+      },
+      "nl": {
+        "hook": "\"Klutz\" komt van een woord voor een blok hout.",
+        "fact": "Klutz komt van het Jiddische klots, wat een houten balk of blok betekent, zelf verwant aan het Duitse Klotz. Het kreeg de betekenis van een onhandig, log persoon."
+      },
+      "es": {
+        "hook": "\"Klutz\" proviene de una palabra que designa un bloque de madera.",
+        "fact": "Klutz proviene del yidis klots, que significa una viga o un bloque de madera, emparentado a su vez con el alemán Klotz. Pasó a describir a una persona torpe y desmañada."
+      }
+    }
   },
   {
     "id": "language-059",
@@ -614,7 +1444,21 @@
       "yiddish",
       "hebrew",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Chutzpah » est de l'hébreu passé par le yiddish.",
+        "fact": "Chutzpah est entré dans l'anglais via le yiddish khutspe, lui-même issu de l'hébreu ḥutspāh, qui signifie audace effrontée ou culot."
+      },
+      "nl": {
+        "hook": "\"Chutzpah\" is Hebreeuws via het Jiddisch.",
+        "fact": "Chutzpah kwam het Engels binnen via het Jiddische khutspe, dat uiteindelijk teruggaat op het Hebreeuwse ḥutspāh, wat brutale vermetelheid of lef betekent."
+      },
+      "es": {
+        "hook": "\"Chutzpah\" es hebreo llegado a través del yidis.",
+        "fact": "Chutzpah entró en inglés a través del yidis khutspe, que proviene en última instancia del hebreo ḥutspāh, que significa audacia descarada o desparpajo."
+      }
+    }
   },
   {
     "id": "language-060",
@@ -625,7 +1469,21 @@
       "yiddish",
       "hebrew",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Schmoozer », c'est papoter, et le mot vient d'un terme hébreu pour « rumeurs ».",
+        "fact": "Schmooze vient du yiddish shmuesn, « bavarder », lui-même dérivé de l'hébreu shmuot, qui signifie nouvelles ou rumeurs."
+      },
+      "nl": {
+        "hook": "\"Schmoozen\" komt van een Hebreeuws woord voor geruchten.",
+        "fact": "Schmooze komt van het Jiddische shmuesn, \"kletsen\", dat op zijn beurt is afgeleid van het Hebreeuwse shmuot, wat nieuws of geruchten betekent."
+      },
+      "es": {
+        "hook": "\"Schmooze\" proviene de una palabra hebrea para \"rumores\".",
+        "fact": "Schmooze proviene del yidis shmuesn, \"charlar\", que a su vez deriva del hebreo shmuot, que significa noticias o rumores."
+      }
+    }
   },
   {
     "id": "language-061",
@@ -636,7 +1494,21 @@
       "kikongo",
       "haitian-creole",
       "folklore"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « zombie » viendrait d'un terme ouest-africain pour « esprit ».",
+        "fact": "On pense généralement que zombie dérive d'une langue d'Afrique de l'Ouest, probablement le kikongo, où un mot apparenté désignait l'esprit d'un défunt. Il est entré dans l'anglais via le créole haïtien zonbi, lié aux croyances du vaudou haïtien sur les morts réanimés."
+      },
+      "nl": {
+        "hook": "De naam \"zombie\" komt vermoedelijk van een West-Afrikaans woord voor geest.",
+        "fact": "Men neemt algemeen aan dat zombie afkomstig is van een West-Afrikaanse taal, mogelijk het Kikongo, waarin een verwant woord verwees naar de geest van een overledene. Het kwam het Engels binnen via het Haïtiaans Creools zonbi, verbonden met Haïtiaanse voodoo-overtuigingen over de herrezen doden."
+      },
+      "es": {
+        "hook": "El nombre \"zombi\" probablemente proviene de una palabra de África Occidental para \"espíritu\".",
+        "fact": "Se cree ampliamente que zombi deriva de una lengua de África Occidental, posiblemente el kikongo, donde una palabra relacionada designaba el espíritu de una persona fallecida. Entró en inglés a través del criollo haitiano zonbi, vinculado a las creencias del vudú haitiano sobre los muertos reanimados."
+      }
+    }
   },
   {
     "id": "language-062",
@@ -646,7 +1518,21 @@
     "tags": [
       "hawaiian",
       "technology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Wikipédia doit son nom à un mot hawaïen signifiant « rapide ».",
+        "fact": "Wiki vient du mot hawaïen wiki, qui signifie « rapide », comme dans les navettes wiki wiki de l'aéroport de Honolulu. Le programmeur Ward Cunningham a emprunté ce mot en 1995 pour nommer son nouveau logiciel de site web modifiable de façon collaborative, qu'il a baptisé WikiWikiWeb."
+      },
+      "nl": {
+        "hook": "Wikipedia is vernoemd naar een Hawaïaans woord voor \"snel\".",
+        "fact": "Wiki komt van het Hawaïaanse woord wiki, dat \"snel\" betekent, zoals in de wiki wiki pendelbussen op de luchthaven van Honolulu. Programmeur Ward Cunningham leende het woord in 1995 om zijn nieuwe, gezamenlijk bewerkbare websitesoftware te noemen: WikiWikiWeb."
+      },
+      "es": {
+        "hook": "Wikipedia debe su nombre a una palabra hawaiana que significa \"rápido\".",
+        "fact": "Wiki proviene de la palabra hawaiana wiki, que significa \"rápido\", como en los autobuses lanzadera wiki wiki del aeropuerto de Honolulu. El programador Ward Cunningham tomó prestada la palabra en 1995 para nombrar su nuevo software de sitio web editable de forma colaborativa, al que llamó WikiWikiWeb."
+      }
+    }
   },
   {
     "id": "language-063",
@@ -656,7 +1542,21 @@
     "tags": [
       "hawaiian",
       "music"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le nom du ukulélé se traduit par « puce sauteuse ».",
+        "fact": "Ukulele vient de mots hawaïens signifiant « puce sauteuse », une expression que l'on pense généralement décrire le mouvement rapide et sautillant des doigts du musicien sur les cordes de ce petit instrument."
+      },
+      "nl": {
+        "hook": "De naam ukelele betekent \"springende vlo\".",
+        "fact": "Ukulele komt van Hawaïaanse woorden die \"springende vlo\" betekenen, algemeen aangenomen als beschrijving van de snelle, huppelende beweging van de vingers van een speler over de snaren van dit kleine instrument."
+      },
+      "es": {
+        "hook": "El nombre del ukelele se traduce como \"pulga saltarina\".",
+        "fact": "Ukulele proviene de palabras hawaianas que significan \"pulga saltarina\", una expresión que, según se cree, describe el movimiento rápido y saltarín de los dedos del músico sobre las cuerdas de este pequeño instrumento."
+      }
+    }
   },
   {
     "id": "language-064",
@@ -666,7 +1566,21 @@
     "tags": [
       "polynesian",
       "loanword"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « tatouage » est entré dans l'anglais grâce aux voyages du capitaine Cook.",
+        "fact": "Tattoo, pour désigner le marquage de la peau, vient du polynésien et du tahitien tatau, consigné par l'explorateur britannique le capitaine James Cook et son équipage lors de leurs voyages dans le Pacifique à la fin des années 1760 et dans les années 1770."
+      },
+      "nl": {
+        "hook": "Tattoo kwam het Engels binnen dankzij de reizen van kapitein Cook.",
+        "fact": "Tattoo, voor huidmarkeringen, komt van het Polynesische en Tahitiaanse tatau, opgetekend door de Britse ontdekkingsreiziger kapitein James Cook en zijn bemanning tijdens hun reizen door de Stille Oceaan aan het eind van de jaren 1760 en in de jaren 1770."
+      },
+      "es": {
+        "hook": "La palabra \"tattoo\" entró en inglés gracias a los viajes del capitán Cook.",
+        "fact": "Tattoo, para referirse a las marcas en la piel, proviene del polinesio y tahitiano tatau, registrado por el explorador británico el capitán James Cook y su tripulación durante sus viajes por el Pacífico a finales de la década de 1760 y en la de 1770."
+      }
+    }
   },
   {
     "id": "language-065",
@@ -677,7 +1591,21 @@
       "physics",
       "literature",
       "coinage"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un physicien a nommé une particule subatomique d'après une ligne de roman.",
+        "fact": "Le mot « quark », utilisé pour une particule subatomique fondamentale, a été choisi par le physicien Murray Gell-Mann à partir du vers « Three quarks for Muster Mark » dans le roman tristement célèbre pour sa densité de James Joyce, Finnegans Wake. Gell-Mann avait déjà arrêté le son de la particule et a simplement trouvé que l'orthographe de Joyce correspondait."
+      },
+      "nl": {
+        "hook": "Een natuurkundige noemde een subatomair deeltje naar een regel uit een roman.",
+        "fact": "Het woord \"quark\", gebruikt voor een fundamenteel subatomair deeltje, werd gekozen door natuurkundige Murray Gell-Mann naar aanleiding van de regel \"Three quarks for Muster Mark\" uit James Joyce' beruchte, dichtbeschreven roman Finnegans Wake. Gell-Mann had de klank van het deeltje al vastgelegd en vond simpelweg dat Joyce's spelling ermee overeenkwam."
+      },
+      "es": {
+        "hook": "Un físico bautizó una partícula subatómica con una línea de una novela.",
+        "fact": "La palabra \"quark\", usada para una partícula subatómica fundamental, fue elegida por el físico Murray Gell-Mann a partir del verso \"Three quarks for Muster Mark\" en la célebremente densa novela de James Joyce Finnegans Wake. Gell-Mann ya había decidido el sonido de la partícula y simplemente encontró que la grafía de Joyce coincidía."
+      }
+    }
   },
   {
     "id": "language-066",
@@ -688,7 +1616,21 @@
       "german",
       "military",
       "coinage"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Flak » a commencé sa vie comme un acronyme allemand.",
+        "fact": "Flak vient de l'allemand Fliegerabwehrkanone, qui signifie « canon de défense antiaérienne ». Les pilotes alliés de la Seconde Guerre mondiale ont adopté cette abréviation pour désigner les tirs antiaériens, et le mot a ensuite élargi son sens en anglais pour désigner toute critique sévère."
+      },
+      "nl": {
+        "hook": "\"Flak\" begon als een Duits letterwoord.",
+        "fact": "Flak komt van het Duitse Fliegerabwehrkanone, wat \"luchtafweerkanon\" betekent. Geallieerde piloten in de Tweede Wereldoorlog namen de afkorting over voor luchtafweervuur, en het kreeg later in het Engels de bredere betekenis van harde kritiek."
+      },
+      "es": {
+        "hook": "\"Flak\" empezó su vida como un acrónimo alemán.",
+        "fact": "Flak proviene del alemán Fliegerabwehrkanone, que significa \"cañón de defensa antiaérea\". Los pilotos aliados en la Segunda Guerra Mundial adoptaron la abreviatura para referirse al fuego antiaéreo, y más tarde el término se amplió en inglés para significar cualquier crítica dura."
+      }
+    }
   },
   {
     "id": "language-067",
@@ -698,7 +1640,21 @@
     "tags": [
       "biblical",
       "coinage"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un traducteur de la Bible du XVIe siècle a inventé le mot anglais « scapegoat ».",
+        "fact": "William Tyndale a forgé le mot « scapegoat » dans sa traduction anglaise de la Bible de 1530, pour rendre un rituel hébreu du Lévitique où un bouc emportait symboliquement les péchés de la communauté dans le désert. « Scapegoat » était sa contraction de « escape goat » (bouc qui s'échappe)."
+      },
+      "nl": {
+        "hook": "Een 16e-eeuwse Bijbelvertaler bedacht het woord \"scapegoat\" (zondebok).",
+        "fact": "William Tyndale bedacht \"scapegoat\" in zijn Engelse Bijbelvertaling van 1530, als weergave van een Hebreeuws ritueel uit Leviticus waarbij een bok symbolisch de zonden van de gemeenschap de wildernis in droeg. \"Scapegoat\" was zijn samentrekking van \"escape goat\" (ontsnappende bok)."
+      },
+      "es": {
+        "hook": "Un traductor de la Biblia del siglo XVI inventó la palabra inglesa \"scapegoat\".",
+        "fact": "William Tyndale acuñó \"scapegoat\" en su traducción de la Biblia al inglés de 1530, para verter un ritual hebreo del Levítico en el que un macho cabrío cargaba simbólicamente con los pecados de la comunidad hacia el desierto. \"Scapegoat\" era su contracción de \"escape goat\" (cabra que escapa)."
+      }
+    }
   },
   {
     "id": "language-068",
@@ -708,7 +1664,21 @@
     "tags": [
       "biblical",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Voir l'écriture sur le mur » vient d'un festin royal voué à la catastrophe.",
+        "fact": "L'expression vient du Livre de Daniel, où une main mystérieuse apparaît pendant le festin du roi Balthazar et écrit sur le mur un message énigmatique, prophétisant la chute de son royaume."
+      },
+      "nl": {
+        "hook": "\"Het geschrift aan de wand\" komt van een ten dode opgeschreven koninklijk feestmaal.",
+        "fact": "De uitdrukking komt uit het Bijbelboek Daniël, waarin tijdens het feestmaal van koning Belsazar een mysterieuze hand verschijnt die een cryptisch bericht op de muur schrijft, dat de val van zijn koninkrijk voorspelt."
+      },
+      "es": {
+        "hook": "\"Las palabras escritas en la pared\" viene de un banquete real condenado.",
+        "fact": "La expresión proviene del Libro de Daniel, donde una mano misteriosa aparece durante el banquete del rey Belsasar y escribe en la pared un mensaje enigmático que profetiza la caída de su reino."
+      }
+    }
   },
   {
     "id": "language-069",
@@ -718,7 +1688,21 @@
     "tags": [
       "biblical",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« By the skin of your teeth » (« de justesse ») vient presque mot pour mot du Livre de Job.",
+        "fact": "L'expression provient presque mot pour mot du Livre de Job (19:20), où Job décrit son échappée de justesse à la mort, et elle est employée en anglais depuis que la Bible du roi Jacques a popularisé cette traduction."
+      },
+      "nl": {
+        "hook": "\"By the skin of your teeth\" (op het nippertje) komt letterlijk uit het Bijbelboek Job.",
+        "fact": "De uitdrukking komt vrijwel woordelijk uit het Bijbelboek Job (19:20), waar Job beschrijft hoe hij op het nippertje aan de dood ontsnapte, en wordt sinds de King James-bijbelvertaling deze populair maakte, in het Engels gebruikt."
+      },
+      "es": {
+        "hook": "\"By the skin of your teeth\" (\"por los pelos\") es casi una cita literal del Libro de Job.",
+        "fact": "La expresión proviene casi palabra por palabra del Libro de Job (19:20), donde Job describe cómo escapó por poco de la muerte, y se ha usado en inglés desde que la Biblia del rey Jacobo popularizó esa traducción."
+      }
+    }
   },
   {
     "id": "language-070",
@@ -730,7 +1714,24 @@
       "biblical",
       "roman-history",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Go the extra mile » (« faire un effort supplémentaire ») renvoie à une véritable loi romaine.",
+        "fact": "L'expression vient de Matthieu 5:41, qui fait référence à une pratique romaine autorisant légalement les soldats à contraindre des civils à porter leur équipement sur un mile. L'enseignement de Jésus était de parcourir deux miles au lieu du seul mile légalement exigé, transformant un travail forcé en un acte de générosité volontaire.",
+        "whyItMatters": "Le dicton ne prend tout son sens que lorsqu'on sait qu'il repose sur un véritable pouvoir légal romain, honni, exercé sur des civils occupés."
+      },
+      "nl": {
+        "hook": "\"Go the extra mile\" (een stap extra zetten) verwijst naar een echte Romeinse wet.",
+        "fact": "De uitdrukking komt uit Matteüs 5:41, een verwijzing naar een Romeinse praktijk waarbij soldaten burgers wettelijk konden dwingen hun uitrusting één mijl te dragen. Jezus' onderwijzing was om twee mijl te gaan in plaats van de wettelijk verplichte ene mijl, waardoor een daad van dwangarbeid werd omgezet in een daad van vrijwillige vrijgevigheid.",
+        "whyItMatters": "Het gezegde krijgt pas zijn volle betekenis zodra je weet dat het gebouwd is op een echte, verafschuwde Romeinse wettelijke macht over bezette burgers."
+      },
+      "es": {
+        "hook": "\"Go the extra mile\" (hacer un esfuerzo extra) alude a una ley romana real.",
+        "fact": "La expresión proviene de Mateo 5:41, en referencia a una práctica romana que permitía a los soldados obligar legalmente a los civiles a cargar su equipo durante una milla. La enseñanza de Jesús consistía en recorrer dos millas en lugar de la única exigida por la ley, convirtiendo un trabajo forzado en un acto de generosidad voluntaria.",
+        "whyItMatters": "El dicho solo cobra pleno sentido al saber que se basa en un poder legal romano real y resentido sobre los civiles ocupados."
+      }
+    }
   },
   {
     "id": "language-071",
@@ -741,7 +1742,24 @@
     "tags": [
       "american-history",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Deadline » (délai) était autrefois une ligne bien réelle, qu'on risquait sa vie à franchir.",
+        "fact": "Pendant la guerre de Sécession, des camps de prisonniers comme celui d'Andersonville traçaient une ligne bien réelle à l'intérieur de l'enceinte ; tout prisonnier qui la franchissait pouvait être abattu sans sommation par les gardes. Le terme s'est ensuite adouci pour prendre son sens moderne de délai, notamment dans l'édition.",
+        "whyItMatters": "C'est un rappel saisissant de la façon dont un mot peut perdre une origine littérale violente tout en conservant son sentiment d'urgence et de conséquence."
+      },
+      "nl": {
+        "hook": "\"Deadline\" was ooit een echte lijn waarvoor je werd doodgeschoten als je hem overstak.",
+        "fact": "Tijdens de Amerikaanse Burgeroorlog markeerden gevangenkampen zoals Andersonville een letterlijke lijn binnen de omheining; elke gevangene die hem overstak, kon zonder waarschuwing door bewakers worden doodgeschoten. De term verzachtte later tot de moderne betekenis van tijdslimiet, vooral in de uitgeverswereld.",
+        "whyItMatters": "Het is een schrijnende herinnering aan hoe een woord een gewelddadige, letterlijke oorsprong kan afwerpen en toch zijn gevoel van urgentie en gevolg behoudt."
+      },
+      "es": {
+        "hook": "\"Deadline\" fue en su día una línea real que costaba la vida cruzar.",
+        "fact": "Durante la Guerra de Secesión estadounidense, campos de prisioneros como Andersonville marcaban una línea literal dentro del perímetro; cualquier prisionero que la cruzara podía ser abatido por los guardias sin previo aviso. El término se suavizó más tarde hasta adquirir su sentido moderno de plazo límite, especialmente en el mundo editorial.",
+        "whyItMatters": "Es un recordatorio crudo de cómo una palabra puede desprenderse de un origen literal violento y aun así conservar su sentido de urgencia y consecuencia."
+      }
+    }
   },
   {
     "id": "language-072",
@@ -751,7 +1769,21 @@
     "tags": [
       "aviation",
       "coinage"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Mayday » vient du français, pas de l'anglais.",
+        "fact": "Mayday a été inventé en 1923 par l'officier radio en chef Frederick Stanley Mockford à l'aéroport de Croydon, à Londres. Il s'est inspiré de l'expression française « venez m'aider », choisie car elle serait clairement comprise par les pilotes anglophones comme francophones, même à travers les grésillements de la radio."
+      },
+      "nl": {
+        "hook": "\"Mayday\" is Frans, geen Engels.",
+        "fact": "Mayday werd in 1923 bedacht door hoofdradio-officier Frederick Stanley Mockford op luchthaven Croydon in Londen. Hij baseerde het op de Franse uitdrukking venez m'aider (\"kom me helpen\"), gekozen omdat zowel Engels- als Franstalige piloten het duidelijk zouden verstaan, zelfs via een kraakstemmige radioverbinding."
+      },
+      "es": {
+        "hook": "\"Mayday\" es francés, no inglés.",
+        "fact": "Mayday fue acuñado en 1923 por el oficial de radio principal Frederick Stanley Mockford en el aeropuerto de Croydon, en Londres. Se basó en la frase francesa venez m'aider (\"vengan a ayudarme\"), elegida porque tanto los pilotos angloparlantes como los francófonos la entenderían con claridad incluso a través de una radio con interferencias."
+      }
+    }
   },
   {
     "id": "language-073",
@@ -762,7 +1794,24 @@
     "tags": [
       "morse-code",
       "myth-bust"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "SOS ne signifie en réalité rien du tout.",
+        "fact": "SOS a été adopté comme signal de détresse international en 1906, non pas parce qu'il abrège une expression comme « Save Our Souls » (sauvez nos âmes), mais parce que son motif en morse, trois points, trois traits, trois points, est simple, indubitable et facile à transmettre même sous pression.",
+        "whyItMatters": "Cela corrige l'une des idées reçues les plus répandues en anglais courant : SOS a été choisi pour sa forme en morse, et non pour ses lettres."
+      },
+      "nl": {
+        "hook": "SOS staat eigenlijk nergens voor.",
+        "fact": "SOS werd in 1906 aangenomen als internationaal noodsignaal, niet omdat het een afkorting is van een uitdrukking als \"Save Our Souls\" (\"red onze zielen\"), maar omdat het morsepatroon, drie punten, drie strepen, drie punten, eenvoudig, onmiskenbaar en gemakkelijk te seinen is, zelfs onder druk.",
+        "whyItMatters": "Het corrigeert een van de meest voorkomende misvattingen in alledaags Engels: SOS werd gekozen om zijn vorm in morsecode, niet om zijn letters."
+      },
+      "es": {
+        "hook": "SOS en realidad no significa nada.",
+        "fact": "SOS se adoptó como señal internacional de socorro en 1906, no porque abrevie una frase como \"Save Our Souls\" (\"salven nuestras almas\"), sino porque su patrón en morse, tres puntos, tres rayas, tres puntos, es sencillo, inconfundible y fácil de transmitir incluso bajo presión.",
+        "whyItMatters": "Corrige uno de los malentendidos más comunes del inglés cotidiano: SOS se eligió por su forma en código morse, no por sus letras."
+      }
+    }
   },
   {
     "id": "language-074",
@@ -772,7 +1821,21 @@
     "tags": [
       "sports",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le « hat trick » a commencé avec un véritable chapeau.",
+        "fact": "Hat trick vient du cricket anglais du XIXe siècle, où un lanceur qui prenait trois guichets sur trois balles consécutives se voyait parfois récompensé d'un chapeau, ou s'en voyait offrir un en son honneur. Le terme s'est ensuite répandu au hockey, au football et à d'autres sports pour désigner trois réussites d'affilée."
+      },
+      "nl": {
+        "hook": "Een \"hattrick\" begon met een echte hoed.",
+        "fact": "Hat trick is ontstaan in het 19e-eeuwse Engelse cricket, waar een bowler die drie wickets nam met drie opeenvolgende ballen soms werd beloond met een hoed, of er een aangeboden kreeg ter ere daarvan. De term verspreidde zich later naar hockey, voetbal en andere sporten voor elke drie prestaties op rij."
+      },
+      "es": {
+        "hook": "El \"hat trick\" empezó con un sombrero de verdad.",
+        "fact": "Hat trick se originó en el cricket inglés del siglo XIX, cuando a un lanzador que eliminaba a tres bateadores con tres lanzamientos consecutivos a veces se le recompensaba con un sombrero, o se le obsequiaba uno en su honor. El término se extendió después al hockey, al fútbol y a otros deportes para referirse a tres logros seguidos."
+      }
+    }
   },
   {
     "id": "language-075",
@@ -782,7 +1845,21 @@
     "tags": [
       "theater",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Voler la vedette à quelqu'un » (littéralement « lui voler son tonnerre ») vient d'un véritable effet sonore dérobé.",
+        "fact": "Le dramaturge John Dennis a inventé un dispositif mécanique pour simuler le bruit du tonnerre pour sa pièce de 1704. La pièce a fait un four, mais lorsqu'un théâtre rival a ensuite utilisé son dispositif à tonnerre pour une production de Macbeth, Dennis se serait plaint qu'on lui avait « volé son tonnerre » (« stolen his thunder »)."
+      },
+      "nl": {
+        "hook": "\"Iemands donder stelen\" (de show stelen) komt van een echt gestolen geluidseffect.",
+        "fact": "Toneelschrijver John Dennis vond een mechanisch apparaat uit om het geluid van donder na te bootsen voor zijn toneelstuk uit 1704. Het stuk flopte, maar toen een concurrerend theater later zijn donderapparaat gebruikte voor een productie van Macbeth, zou Dennis hebben geklaagd dat ze zijn \"donder hadden gestolen\" (\"stolen his thunder\")."
+      },
+      "es": {
+        "hook": "\"Robarle el trueno a alguien\" (robarle el protagonismo) viene de un efecto de sonido realmente robado.",
+        "fact": "El dramaturgo John Dennis inventó un dispositivo mecánico para simular el sonido del trueno en su obra de 1704. La obra fue un fracaso, pero cuando un teatro rival usó después su dispositivo de trueno para una producción de Macbeth, Dennis se habría quejado de que le habían \"robado su trueno\" (\"stolen his thunder\")."
+      }
+    }
   },
   {
     "id": "language-076",
@@ -793,7 +1870,21 @@
       "british-history",
       "law",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Lire l'acte d'émeute » (sermonner sévèrement) était autrefois une véritable obligation légale.",
+        "fact": "L'expression vient du Riot Act britannique de 1714, qui obligeait les autorités à lire littéralement à voix haute une proclamation précise devant tout rassemblement illégal, lui ordonnant de se disperser, avant que la force ne puisse être légalement employée contre la foule."
+      },
+      "nl": {
+        "hook": "\"De relletjeswet voorlezen\" (iemand streng toespreken) was ooit een letterlijke wettelijke verplichting.",
+        "fact": "De uitdrukking komt van de Britse Riot Act van 1714, die vereiste dat autoriteiten letterlijk een specifieke proclamatie hardop voorlazen aan elke onwettige samenscholing, met het bevel uiteen te gaan, voordat geweld wettelijk tegen de menigte mocht worden gebruikt."
+      },
+      "es": {
+        "hook": "\"Leer la ley antidisturbios\" (echar una bronca severa) solía ser un requisito legal literal.",
+        "fact": "La expresión proviene de la Riot Act británica de 1714, que obligaba a las autoridades a leer literalmente en voz alta una proclama específica ante cualquier reunión ilegal, ordenando su dispersión, antes de que se pudiera usar la fuerza legalmente contra la multitud."
+      }
+    }
   },
   {
     "id": "language-077",
@@ -803,7 +1894,21 @@
     "tags": [
       "scots-law",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Pris la main dans le sac » (littéralement « pris la main rouge ») vient de sang bien réel sur les mains de quelqu'un.",
+        "fact": "L'expression trouve son origine dans le droit écossais, où elle désignait un criminel, typiquement un braconnier ou un meurtrier, surpris avec du sang encore littéralement sur les mains sur les lieux du crime."
+      },
+      "nl": {
+        "hook": "\"Op heterdaad betrapt\" (letterlijk: met rode handen) komt van echt bloed aan iemands handen.",
+        "fact": "De uitdrukking vindt haar oorsprong in het Schotse recht, waar ze verwees naar een crimineel, doorgaans een stroper of moordenaar, die op de plaats van het misdrijf werd betrapt met letterlijk nog bloed aan zijn handen."
+      },
+      "es": {
+        "hook": "\"Pillado con las manos en la masa\" (en inglés, literalmente \"con las manos rojas\") viene de sangre real en las manos de alguien.",
+        "fact": "La expresión tiene su origen en el derecho escocés, donde se refería a un criminal, típicamente un cazador furtivo o un asesino, sorprendido con sangre literal todavía en las manos en la escena del crimen."
+      }
+    }
   },
   {
     "id": "language-078",
@@ -814,7 +1919,21 @@
       "old-french",
       "medieval",
       "idiom-origin"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le « couvre-feu » était à l'origine un ordre médiéval d'étouffer son feu.",
+        "fact": "Curfew vient de l'ancien français couvre-feu, une réglementation médiévale obligeant les foyers à éteindre ou à couvrir le feu de leur âtre à une heure fixée le soir, afin de réduire le risque d'incendies se propageant à travers les villes aux maisons de bois."
+      },
+      "nl": {
+        "hook": "\"Curfew\" (avondklok) was ooit een middeleeuws bevel om je vuur te doven.",
+        "fact": "Curfew komt van het Oudfranse couvre-feu, \"bedek het vuur\", een middeleeuwse regeling die huishoudens verplichtte hun haardvuur op een vast avonduur te doven of af te dekken, om het risico op branden die zich door houten steden konden verspreiden, te verkleinen."
+      },
+      "es": {
+        "hook": "El \"toque de queda\" era originalmente una orden medieval de apagar el fuego.",
+        "fact": "Curfew proviene del francés antiguo couvre-feu, \"cubrir el fuego\", una normativa medieval que obligaba a los hogares a apagar o cubrir el fuego de su hogar a una hora fija de la tarde, para reducir el riesgo de incendios que se propagaran por las ciudades de casas de madera."
+      }
+    }
   },
   {
     "id": "language-079",
@@ -825,7 +1944,21 @@
       "french",
       "labor-history",
       "myth-bust"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'histoire des sabots jetés dans les machines derrière « sabotage » est probablement exagérée.",
+        "fact": "Sabotage vient du verbe français saboter, qui signifie travailler maladroitement ou bâcler délibérément un travail, apparenté aux sabots, les chaussures de bois portées par les ouvriers français. L'anecdote populaire d'ouvriers jetant littéralement des sabots dans les machines pour les bloquer est une légende plus tardive, probablement enjolivée, plutôt que le mécanisme documenté derrière le mot."
+      },
+      "nl": {
+        "hook": "Het verhaal van klompen die in machines werden gegooid achter \"sabotage\" is waarschijnlijk overdreven.",
+        "fact": "Sabotage komt van het Franse werkwoord saboter, wat betekent onhandig werken of een klus opzettelijk verknoeien, verwant aan sabots, de houten klompen die Franse arbeiders droegen. Het populaire verhaal van arbeiders die letterlijk klompen in machines gooiden om ze te blokkeren, is een latere, waarschijnlijk verfraaide legende, en niet het gedocumenteerde mechanisme achter het woord."
+      },
+      "es": {
+        "hook": "La historia de los zuecos de madera arrojados a la maquinaria detrás de \"sabotaje\" probablemente está exagerada.",
+        "fact": "Sabotaje proviene del verbo francés saboter, que significa trabajar torpemente o estropear deliberadamente un trabajo, relacionado con sabots, los zuecos de madera que llevaban los obreros franceses. La popular anécdota de obreros arrojando literalmente zuecos a la maquinaria para bloquearla es una leyenda posterior, probablemente adornada, y no el mecanismo documentado detrás de la palabra."
+      }
+    }
   },
   {
     "id": "language-080",
@@ -836,7 +1969,24 @@
     "tags": [
       "eponym",
       "irish-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Boycott » porte le nom d'un régisseur terrien particulièrement impopulaire.",
+        "fact": "Boycott vient du capitaine Charles Boycott, un régisseur terrien anglais du comté de Mayo, en Irlande, systématiquement mis au ban par sa communauté locale en 1880 lors d'un conflit sur les droits fonciers. Son nom de famille est devenu un verbe presque immédiatement.",
+        "whyItMatters": "Il a nommé une tactique de protestation, l'isolement social et économique coordonné, que des militants organisent encore délibérément aujourd'hui."
+      },
+      "nl": {
+        "hook": "\"Boycot\" is vernoemd naar de gehate rentmeester van een landeigenaar.",
+        "fact": "Boycott komt van kapitein Charles Boycott, een Engelse landagent in County Mayo, Ierland, die in 1880 systematisch werd geboycot door zijn plaatselijke gemeenschap tijdens een geschil over landrechten. Zijn achternaam werd vrijwel meteen een werkwoord.",
+        "whyItMatters": "Het gaf een naam aan een protesttactiek, gecoördineerde sociale en economische isolatie, die activisten vandaag nog steeds bewust organiseren."
+      },
+      "es": {
+        "hook": "\"Boicot\" recibe su nombre del agente de un terrateniente muy impopular.",
+        "fact": "Boycott proviene del capitán Charles Boycott, un agente de tierras inglés en el condado de Mayo, Irlanda, sistemáticamente marginado por su comunidad local en 1880 durante una disputa sobre derechos de tierra. Su apellido se convirtió en verbo casi de inmediato.",
+        "whyItMatters": "Dio nombre a una táctica de protesta, el aislamiento social y económico coordinado, que los activistas todavía organizan deliberadamente hoy en día."
+      }
+    }
   },
   {
     "id": "language-081",

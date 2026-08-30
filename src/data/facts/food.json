@@ -2958,7 +2958,21 @@
       "japan",
       "korea",
       "dining-etiquette"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Soulever son bol de riz de la table est poli au Japon, mais impoli en Corée.",
+        "fact": "Au Japon, on attend des convives qu'ils tiennent les petits bols près de la bouche en mangeant. En Corée, la coutume est inversée : le bol doit rester sur la table pendant tout le repas."
+      },
+      "nl": {
+        "hook": "Je rijstkom van tafel tillen is beleefd in Japan en onbeleefd in Korea.",
+        "fact": "In Japan wordt van eters verwacht dat ze kleine kommen dicht bij hun mond houden tijdens het eten. In Korea geldt het tegenovergestelde: de kom hoort de hele maaltijd op tafel te blijven staan."
+      },
+      "es": {
+        "hook": "Levantar el bol de arroz de la mesa es de buena educación en Japón y de mala educación en Corea.",
+        "fact": "En Japón se espera que los comensales sostengan los bols pequeños cerca de la boca al comer. En Corea rige la costumbre contraria: el bol debe permanecer sobre la mesa durante toda la comida."
+      }
+    }
   },
   {
     "id": "food-122",
@@ -2968,7 +2982,21 @@
     "tags": [
       "georgia",
       "toasting-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Refuser un toast en Géorgie peut arrêter tout un festin.",
+        "fact": "Lors d'un supra géorgien traditionnel, un maître de cérémonie appelé le tamada mène une longue série de toasts formels, des ancêtres à la paix. Refuser de boire à un toast est considéré comme un grave manquement à l'étiquette."
+      },
+      "nl": {
+        "hook": "Een toost weigeren in Georgië kan een heel feestmaal doen stilvallen.",
+        "fact": "Tijdens een traditionele Georgische supra leidt een ceremoniemeester, de tamada, een lange reeks formele toosten over alles van voorouders tot vrede. Weigeren mee te drinken op een toost geldt als een ernstige etiquetteschending."
+      },
+      "es": {
+        "hook": "Rechazar un brindis en Georgia puede detener todo un banquete.",
+        "fact": "En una supra georgiana tradicional, un maestro de ceremonias llamado tamada dirige una larga secuencia de brindis formales que abarcan desde los antepasados hasta la paz. Negarse a beber por un brindis se considera una falta de etiqueta grave."
+      }
+    }
   },
   {
     "id": "food-123",
@@ -2978,7 +3006,21 @@
     "tags": [
       "italy",
       "coffee-culture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Commander un cappuccino après midi en Italie vous vaudra des regards étonnés.",
+        "fact": "Les Italiens ne boivent généralement du cappuccino que le matin, jugeant les cafés au lait trop lourds après un repas. Après le déjeuner ou le dîner, l'espresso est de rigueur."
+      },
+      "nl": {
+        "hook": "Een cappuccino bestellen na de middag levert je in Italië rare blikken op.",
+        "fact": "Italianen drinken cappuccino doorgaans alleen 's ochtends, omdat ze melkkoffie te zwaar vinden na een maaltijd. Na de lunch of het avondeten bestelt men in plaats daarvan een espresso."
+      },
+      "es": {
+        "hook": "Pedir un capuchino después del mediodía en Italia te ganará alguna mirada extrañada.",
+        "fact": "Los italianos suelen tomar capuchino solo por la mañana, ya que consideran las bebidas de café con leche demasiado pesadas después de una comida. Tras el almuerzo o la cena, lo habitual es pedir un espresso."
+      }
+    }
   },
   {
     "id": "food-124",
@@ -2988,7 +3030,21 @@
     "tags": [
       "france",
       "dining-etiquette"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En France, le pain se pose directement sur la nappe, pas dans l'assiette.",
+        "fact": "Selon l'étiquette française classique, on pose un morceau de baguette directement sur la table, à côté de son assiette plutôt que dedans, une habitude qui vient du rôle du pain comme ustensile pour pousser les aliments."
+      },
+      "nl": {
+        "hook": "In Frankrijk leg je het brood recht op het tafellaken, niet op je bord.",
+        "fact": "Volgens de klassieke Franse tafeletiquette leg je een stuk stokbrood direct op tafel naast je bord in plaats van erop, een gewoonte die voortkomt uit de rol van het brood als hulpmiddel om eten op de vork te duwen."
+      },
+      "es": {
+        "hook": "En Francia, el pan va directo sobre el mantel, no en tu plato.",
+        "fact": "Según la etiqueta francesa clásica, se coloca un trozo de baguette directamente sobre la mesa, junto al plato en vez de encima, una costumbre que viene del papel del pan como utensilio para empujar la comida."
+      }
+    }
   },
   {
     "id": "food-125",
@@ -2998,7 +3054,21 @@
     "tags": [
       "east-asia",
       "chopstick-etiquette"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Planter ses baguettes à la verticale dans un bol de riz est un véritable impair dans toute l'Asie de l'Est.",
+        "fact": "Des baguettes plantées debout dans le riz rappellent les bâtons d'encens brûlés lors des funérailles et sur les autels des morts. Ce geste est donc évité à table, car il évoque la mort et le mauvais présage."
+      },
+      "nl": {
+        "hook": "Je eetstokjes rechtop in een kom rijst steken is een echte faux pas in heel Oost-Azië.",
+        "fact": "Rechtopstaande eetstokjes in rijst doen denken aan de wierookstokjes die bij begrafenissen en op altaren voor de doden worden gebrand. Het gebaar wordt daarom aan tafel vermeden, omdat het de dood en ongeluk oproept."
+      },
+      "es": {
+        "hook": "Clavar los palillos en vertical sobre un bol de arroz es un gesto muy mal visto en toda Asia Oriental.",
+        "fact": "Los palillos clavados en vertical en el arroz recuerdan a las varillas de incienso que se queman en funerales y altares para los difuntos, así que ese gesto se evita en la mesa porque evoca la muerte y la mala suerte."
+      }
+    }
   },
   {
     "id": "food-126",
@@ -3008,7 +3078,21 @@
     "tags": [
       "thailand",
       "dining-etiquette"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Thaïlande, la fourchette sert à pousser la nourriture, pas à la manger.",
+        "fact": "Le couvert thaïlandais traditionnel associe une fourchette à une cuillère : la fourchette sert à guider les aliments vers la cuillère plutôt qu'à les porter directement à la bouche, car c'est la cuillère qui fait l'essentiel du travail."
+      },
+      "nl": {
+        "hook": "In Thailand is de vork er om eten naartoe te duwen, niet om het te eten.",
+        "fact": "Bij een traditioneel Thais gedekte tafel horen een vork en een lepel samen: de vork duwt het eten naar de lepel in plaats van het rechtstreeks naar de mond te brengen, want de lepel doet het eigenlijke werk."
+      },
+      "es": {
+        "hook": "En Tailandia, el tenedor sirve para empujar la comida, no para comerla.",
+        "fact": "En la mesa tailandesa tradicional, el tenedor va emparejado con una cuchara: su función es guiar la comida hacia la cuchara en lugar de llevarla directamente a la boca, ya que es la cuchara la que hace el trabajo de comer."
+      }
+    }
   },
   {
     "id": "food-127",
@@ -3018,7 +3102,21 @@
     "tags": [
       "uk",
       "tea-culture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Depuis des générations, les Britanniques se disputent pour savoir si le lait doit être versé avant ou après le thé.",
+        "fact": "Le débat « lait d'abord » contre « lait après » vient en partie d'un souci pratique : verser du thé brûlant dans une porcelaine bon marché et fine pouvait la fissurer, d'où l'habitude de mettre le lait en premier pour protéger la tasse."
+      },
+      "nl": {
+        "hook": "Britten twisten al generaties lang over de vraag of de melk eerst of laatst in de kop hoort.",
+        "fact": "Het debat 'melk eerst' versus 'melk erna' bij thee komt deels voort uit een praktisch probleem: heet thee in goedkoop, dun porselein gieten kon het laten barsten, dus goot men eerst de melk erin om de kop te beschermen."
+      },
+      "es": {
+        "hook": "Los británicos llevan generaciones discutiendo si la leche va primero o después en la taza.",
+        "fact": "El debate entre 'la leche primero' y 'la leche después' del té surgió en parte por un problema práctico: verter té hirviendo en porcelana barata y fina podía agrietarla, así que se echaba la leche primero para proteger la taza."
+      }
+    }
   },
   {
     "id": "food-128",
@@ -3029,7 +3127,21 @@
       "dining-etiquette",
       "china",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Laisser de la nourriture dans son assiette signifie des choses très différentes selon l'endroit où l'on mange.",
+        "fact": "Dans certaines régions de Chine, laisser un peu de nourriture montre que l'hôte en a servi plus qu'assez, ce qui honore sa générosité. Au Japon, finir jusqu'au dernier grain de riz est au contraire la façon polie de montrer sa gratitude pour le repas."
+      },
+      "nl": {
+        "hook": "Eten laten liggen op je bord betekent iets heel anders al naargelang waar je eet.",
+        "fact": "In delen van China laat je bewust wat eten liggen om te tonen dat de gastheer meer dan genoeg heeft geserveerd, als eerbetoon aan diens gulheid. In Japan is juist elke laatste rijstkorrel opeten de beleefde manier om je waardering voor de maaltijd te tonen."
+      },
+      "es": {
+        "hook": "Dejar comida en el plato significa cosas muy distintas según dónde estés comiendo.",
+        "fact": "En partes de China, dejar un poco de comida indica que el anfitrión sirvió más que suficiente, en honor a su generosidad. En Japón, en cambio, terminarse hasta el último grano de arroz es la forma educada de mostrar aprecio por la comida."
+      }
+    }
   },
   {
     "id": "food-129",
@@ -3039,7 +3151,21 @@
     "tags": [
       "japan",
       "meal-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un dîner kaiseki traditionnel au Japon peut compter plus d'une douzaine de tout petits plats.",
+        "fact": "Le kaiseki est une tradition de haute cuisine à plusieurs services organisée autour des saisons, chaque petit plat, disposé avec précision, devant être dégusté dans un ordre précis qui équilibre saveur, texture et présentation."
+      },
+      "nl": {
+        "hook": "Een traditioneel kaiseki-diner in Japan kan uit meer dan een dozijn minigerechtjes bestaan.",
+        "fact": "Kaiseki is een meergangen-haute-cuisinetraditie rond de seizoenen, waarbij elk klein, nauwkeurig gerangschikt gerecht in een specifieke volgorde wordt gegeten die smaak, textuur en presentatie in evenwicht houdt."
+      },
+      "es": {
+        "hook": "Una cena kaiseki tradicional en Japón puede constar de más de una docena de platitos.",
+        "fact": "El kaiseki es una tradición de alta cocina de múltiples platos construida en torno a la estacionalidad, en la que cada pequeño plato, dispuesto con precisión, se come en un orden específico que equilibra sabor, textura y presentación."
+      }
+    }
   },
   {
     "id": "food-130",
@@ -3049,7 +3175,21 @@
     "tags": [
       "china",
       "meal-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les repas du Nouvel An chinois sont composés d'aliments choisis pour leur sonorité.",
+        "fact": "On sert un poisson entier car le mot pour « poisson » ressemble à celui pour « surplus », et l'on mange de longues nouilles non coupées pour symboliser une longue vie. Couper les nouilles avant de servir porte malheur."
+      },
+      "nl": {
+        "hook": "De maaltijden voor Chinees Nieuwjaar draaien om gerechten die gekozen zijn om hoe hun naam klinkt.",
+        "fact": "Er wordt een hele vis geserveerd omdat het woord voor 'vis' klinkt als het woord voor 'overvloed', en er worden lange, ongesneden noedels gegeten als symbool voor een lang leven. De noedels vóór het serveren doorsnijden brengt ongeluk."
+      },
+      "es": {
+        "hook": "Las cenas del Año Nuevo chino se organizan en torno a alimentos elegidos por cómo suena su nombre.",
+        "fact": "Se sirve pescado entero porque la palabra para 'pescado' suena como la palabra para 'excedente', y se comen fideos largos sin cortar para simbolizar una vida larga. Cortar los fideos antes de servirlos trae mala suerte."
+      }
+    }
   },
   {
     "id": "food-131",
@@ -3059,7 +3199,21 @@
     "tags": [
       "ramadan",
       "meal-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans le monde entier, les musulmans rompent traditionnellement le jeûne du ramadan avec une datte, pas un repas complet.",
+        "fact": "L'iftar commence traditionnellement par quelques dattes et de l'eau, une pratique attribuée au prophète Mahomet, avant de passer à la prière puis à un repas plus copieux."
+      },
+      "nl": {
+        "hook": "Moslims wereldwijd breken hun ramadanvasten traditioneel met een dadel, niet met een volledige maaltijd.",
+        "fact": "De iftar begint van oudsher met het eten van een paar dadels en het drinken van water, een gewoonte die wordt toegeschreven aan de profeet Mohammed, voordat men verdergaat met gebed en een uitgebreidere maaltijd."
+      },
+      "es": {
+        "hook": "Los musulmanes de todo el mundo suelen romper el ayuno del Ramadán con un dátil, no con una comida completa.",
+        "fact": "El iftar comienza tradicionalmente con unos dátiles y agua, una práctica atribuida al profeta Mahoma, antes de pasar a la oración y a una comida más completa."
+      }
+    }
   },
   {
     "id": "food-132",
@@ -3069,7 +3223,21 @@
     "tags": [
       "united-states",
       "food-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Depuis 1989, chaque président américain a officiellement gracié une dinde de Thanksgiving.",
+        "fact": "Si des présidents précédents avaient déjà épargné une dinde de façon informelle, c'est George H. W. Bush qui a instauré en 1989 la grâce annuelle de la dinde à la Maison-Blanche comme tradition officielle."
+      },
+      "nl": {
+        "hook": "Elke Amerikaanse president sinds 1989 heeft officieel gratie verleend aan een Thanksgivingkalkoen.",
+        "fact": "Eerdere presidenten spaarden weleens informeel een kalkoen, maar het was George H. W. Bush die in 1989 de jaarlijkse presidentiële kalkoengratie tot officiële traditie in het Witte Huis maakte."
+      },
+      "es": {
+        "hook": "Desde 1989, todos los presidentes de EE. UU. han indultado formalmente a un pavo de Acción de Gracias.",
+        "fact": "Aunque presidentes anteriores ya habían perdonado algún pavo de manera informal, fue George H. W. Bush quien en 1989 instauró el indulto anual del pavo en la Casa Blanca como tradición oficial."
+      }
+    }
   },
   {
     "id": "food-133",
@@ -3079,7 +3247,21 @@
     "tags": [
       "jewish-tradition",
       "meal-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le plat du seder de Pessah transforme un repas en leçon d'histoire que l'on mange.",
+        "fact": "Chaque élément du plat du seder est symbolique : les herbes amères représentent la dureté de l'esclavage en Égypte, une pâte sucrée aux fruits et aux noix appelée « harosset » évoque le mortier utilisé par les esclaves, et un os rôti rappelle le sacrifice de l'ancien Temple."
+      },
+      "nl": {
+        "hook": "Het sederbord met Pesach maakt van een maaltijd een geschiedenisles die je opeet.",
+        "fact": "Elk onderdeel van het sederbord is symbolisch: bittere kruiden staan voor de hardheid van de slavernij in Egypte, een zoete vrucht-en-notenpasta genaamd charoset verwijst naar de mortel die de tot slaaf gemaakten gebruikten, en een geroosterd bot herinnert aan het offer in de oude Tempel."
+      },
+      "es": {
+        "hook": "El plato del séder de Pésaj convierte una comida en una lección de historia que se come.",
+        "fact": "Cada elemento del plato del séder es simbólico: las hierbas amargas representan la dureza de la esclavitud en Egipto, una pasta dulce de frutas y frutos secos llamada jaróset evoca el mortero usado por los esclavos, y un hueso asado recuerda el sacrificio del antiguo Templo."
+      }
+    }
   },
   {
     "id": "food-134",
@@ -3089,7 +3271,21 @@
     "tags": [
       "ethiopia",
       "meal-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Éthiopie, l'assiette est aussi la nappe, le couvert, et finalement une partie du repas.",
+        "fact": "L'injera, une galette spongieuse à base de pâte fermentée, est étalée à plat pour recevoir ragoûts et légumes. Les convives en déchirent des morceaux pour ramasser la nourriture, et la galette du dessous, imbibée de sauce, est mangée en dernier."
+      },
+      "nl": {
+        "hook": "In Ethiopië is het bord tegelijk het tafellaken, het bestek, en uiteindelijk ook een deel van de maaltijd zelf.",
+        "fact": "Injera, een sponzig zuurdesembrood, wordt plat uitgespreid om stoofschotels en groenten op te leggen. Eters scheuren er stukken van af om het eten op te scheppen, en het brood eronder, doordrenkt van de saus, wordt als laatste opgegeten."
+      },
+      "es": {
+        "hook": "En Etiopía, el plato también es el mantel, el cubierto y, al final, parte de la comida misma.",
+        "fact": "La injera, un pan plano y esponjoso de masa fermentada, se extiende para sostener guisos y verduras. Los comensales arrancan trozos para recoger la comida, y el pan de debajo, empapado en las salsas, se come al final."
+      }
+    }
   },
   {
     "id": "food-135",
@@ -3099,7 +3295,21 @@
     "tags": [
       "norway",
       "meal-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Norvège a bâti toute une tradition de buffet froid autour d'aliments conservés et marinés.",
+        "fact": "Le koldtbord, un généreux assortiment de plats froids comme le poisson mariné, les fromages et les charcuteries, s'est développé comme un moyen pratique de servir de grands groupes avec des aliments qui se conservaient bien avant la réfrigération moderne."
+      },
+      "nl": {
+        "hook": "Noorwegen bouwde een hele koudebuffettraditie rond bewaar- en pekelvoedsel.",
+        "fact": "Het koldtbord, een overvloedig assortiment koude gerechten zoals gemarineerde vis, kazen en koud vlees, ontstond als praktische manier om grote groepen te bedienen met voedsel dat goed bewaarde voordat er moderne koeling bestond."
+      },
+      "es": {
+        "hook": "Noruega construyó toda una tradición de bufé frío en torno a alimentos conservados y encurtidos.",
+        "fact": "El koldtbord, un espléndido surtido de platos fríos como pescado curado, quesos y carnes frías, surgió como una forma práctica de servir a grandes grupos con alimentos que se conservaban bien antes de la refrigeración moderna."
+      }
+    }
   },
   {
     "id": "food-136",
@@ -3109,7 +3319,21 @@
     "tags": [
       "india",
       "dining-etiquette"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans une grande partie du sud de l'Inde, un repas n'est terminé que lorsque la feuille de bananier est pliée d'une certaine façon.",
+        "fact": "Après un repas traditionnel servi sur une feuille de bananier, la replier vers soi signifie que le repas était satisfaisant, tandis que la replier vers l'extérieur signale une déception, une sorte de critique culinaire silencieuse adressée à l'hôte."
+      },
+      "nl": {
+        "hook": "In grote delen van Zuid-India is een maaltijd pas afgelopen als het bananenblad op een bepaalde manier is gevouwen.",
+        "fact": "Na een traditionele maaltijd op een bananenblad betekent het blad naar jezelf toe vouwen dat het eten bevredigend was, terwijl het blad van je af vouwen ontevredenheid aangeeft, een subtiele, stille recensie van de kookkunst van de gastheer."
+      },
+      "es": {
+        "hook": "En gran parte del sur de la India, una comida no termina hasta que la hoja de plátano se dobla de cierta manera.",
+        "fact": "Después de una comida tradicional servida sobre una hoja de plátano, doblarla hacia uno mismo indica que la comida fue satisfactoria, mientras que doblarla hacia afuera indica descontento: una sutil crítica silenciosa a la cocina del anfitrión."
+      }
+    }
   },
   {
     "id": "food-137",
@@ -3119,7 +3343,21 @@
     "tags": [
       "russia",
       "toasting-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ne pas trinquer avec un verre vide est une vraie superstition en Russie.",
+        "fact": "Les coutumes russes du toast déconseillent de boire à un toast avec un verre vide, de trinquer avec des verres sans alcool, ou de reposer sur la table une bouteille vide : tout cela est considéré comme porte-malheur ou irrespectueux envers l'occasion."
+      },
+      "nl": {
+        "hook": "Niet klinken met een leeg glas is een echt bijgeloof in Rusland.",
+        "fact": "Russische toostgewoonten raden af om op een toost te drinken met een leeg glas, te klinken met glazen zonder alcohol, of een lege fles op tafel te zetten: dat alles geldt als ongeluk brengend of respectloos tegenover de gelegenheid."
+      },
+      "es": {
+        "hook": "No brindar con una copa vacía es una auténtica superstición en Rusia.",
+        "fact": "Las costumbres rusas de brindis desaconsejan beber un brindis con la copa vacía, chocar copas sin alcohol dentro, o dejar una botella vacía sobre la mesa: todo ello se considera de mala suerte o una falta de respeto hacia la ocasión."
+      }
+    }
   },
   {
     "id": "food-138",
@@ -3129,7 +3367,21 @@
     "tags": [
       "dining-etiquette",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans une grande partie du monde arabe, une assiette vide est un signal pour la resservir, pas un signe que l'on a fini.",
+        "fact": "Laisser une assiette complètement vide peut être interprété comme un signe que l'hôte n'a pas servi assez ; c'est pourquoi, dans de nombreux foyers arabes, les invités laissent traditionnellement un peu de nourriture pour montrer qu'ils en ont eu largement assez."
+      },
+      "nl": {
+        "hook": "In grote delen van de Arabische wereld is een leeg bord een teken om het bij te vullen, niet dat je klaar bent.",
+        "fact": "Omdat een volledig leeg bord kan worden opgevat als een hint dat de gastheer niet genoeg heeft geserveerd, laten gasten in veel Arabische huishoudens traditioneel wat eten liggen om te laten zien dat ze meer dan genoeg hebben gehad."
+      },
+      "es": {
+        "hook": "En gran parte del mundo árabe, un plato vacío es la señal para volver a llenarlo, no de que has terminado.",
+        "fact": "Como dejar el plato completamente vacío puede interpretarse como una indirecta de que el anfitrión no sirvió suficiente, en muchos hogares árabes los invitados dejan tradicionalmente un poco de comida para mostrar que han comido de sobra."
+      }
+    }
   },
   {
     "id": "food-139",
@@ -3139,7 +3391,21 @@
     "tags": [
       "coffee",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un berger de chèvres poursuivant des chèvres étrangement pleines d'énergie serait à l'origine de la découverte du café par l'humanité.",
+        "fact": "Selon une légende éthiopienne, un berger nommé Kaldi remarqua que ses chèvres devenaient particulièrement vives après avoir mangé les baies d'un certain arbuste. Il en informa un monastère local, d'où seraient nées les premières découvertes sur les effets stimulants du café."
+      },
+      "nl": {
+        "hook": "Een geitenhoeder die achter ongewoon energieke geiten aan rende, is mogelijk de reden dat mensen koffie ontdekten.",
+        "fact": "Volgens een Ethiopische legende merkte een hoeder genaamd Kaldi dat zijn geiten levendig werden na het eten van bessen van een bepaalde struik. Hij meldde dit aan een plaatselijk klooster, en van daaruit zouden de stimulerende effecten van koffie zijn ontdekt."
+      },
+      "es": {
+        "hook": "Un pastor de cabras persiguiendo a cabras extrañamente enérgicas podría ser la razón por la que los humanos descubrieron el café.",
+        "fact": "Según una leyenda etíope, un pastor llamado Kaldi notó que sus cabras se volvían muy activas después de comer bayas de cierto arbusto. Se lo contó a un monasterio local, y se dice que fue así como se descubrieron los efectos estimulantes del café."
+      }
+    }
   },
   {
     "id": "food-140",
@@ -3149,7 +3415,21 @@
     "tags": [
       "coffee",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La machine à espresso a été brevetée des années avant que la plupart des Italiens n'aient jamais goûté un espresso.",
+        "fact": "L'inventeur turinois Angelo Moriondo a breveté en 1884 une première machine à café à vapeur, mais ce sont les améliorations apportées par Luigi Bezzera au début des années 1900 qui ont rendu les machines à espresso commerciales viables pour les cafés."
+      },
+      "nl": {
+        "hook": "De espressomachine werd gepatenteerd jaren voordat de meeste Italianen ooit espresso hadden geproefd.",
+        "fact": "De Turijnse uitvinder Angelo Moriondo patenteerde in 1884 een vroege stoomgedreven koffiemachine, maar het waren de verbeteringen van Luigi Bezzera in het begin van de jaren 1900 die commerciële espressomachines praktisch bruikbaar maakten voor cafés."
+      },
+      "es": {
+        "hook": "La máquina de espresso se patentó años antes de que la mayoría de los italianos hubiera probado uno.",
+        "fact": "El inventor turinés Angelo Moriondo patentó en 1884 una primera máquina de café a vapor, pero fueron las mejoras de Luigi Bezzera a principios del siglo XX las que hicieron viables las máquinas de espresso comerciales para las cafeterías."
+      }
+    }
   },
   {
     "id": "food-141",
@@ -3159,7 +3439,21 @@
     "tags": [
       "turkey",
       "coffee"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le café turc est le seul café que l'on est censé boire, puis lire.",
+        "fact": "Infusé sans filtre dans une petite cafetière appelée cezve, le café turc laisse un marc épais au fond de la tasse. Après avoir bu, certaines traditions consistent à retourner la tasse et à lire les motifs laissés par le marc, comme une forme de divination."
+      },
+      "nl": {
+        "hook": "Turkse koffie is de enige koffie die je zou moeten drinken en daarna lezen.",
+        "fact": "Turkse koffie wordt ongefilterd gezet in een klein kannetje, een cezve, en laat een dikke laag koffiedik achter op de bodem van het kopje. Na het drinken keert men in sommige tradities het kopje om en leest men de patronen van het bezonken koffiedik als een vorm van waarzeggerij."
+      },
+      "es": {
+        "hook": "El café turco es el único café que se supone que hay que beber y luego leer.",
+        "fact": "Preparado sin filtrar en una pequeña cafetera llamada cezve, el café turco deja un poso espeso en el fondo de la taza. Después de beberlo, algunas tradiciones consisten en darle la vuelta a la taza y leer los dibujos que deja el poso asentado, como una forma de adivinación."
+      }
+    }
   },
   {
     "id": "food-142",
@@ -3170,7 +3464,21 @@
       "tea",
       "china",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Selon la légende, le thé aurait été inventé lorsque des feuilles se sont envolées dans l'eau bouillante d'un empereur.",
+        "fact": "La légende chinoise attribue la découverte du thé au mythique empereur Shen Nong, vers 2700 avant notre ère, lorsque des feuilles d'un arbuste voisin seraient tombées dans l'eau qu'il faisait bouillir, produisant une infusion parfumée."
+      },
+      "nl": {
+        "hook": "Volgens de legende is thee ontstaan toen er per ongeluk blaadjes in het kokende water van een keizer waaiden.",
+        "fact": "Een Chinese legende schrijft de ontdekking van thee toe aan de mythische keizer Shen Nong, rond 2700 v.Chr., toen bladeren van een nabijgelegen struik in het water waaiden dat hij aan het koken was en een geurig aftreksel opleverden."
+      },
+      "es": {
+        "hook": "Según la leyenda, el té se inventó cuando unas hojas cayeron por accidente en el agua hirviendo de un emperador.",
+        "fact": "La leyenda china atribuye el descubrimiento del té al mítico emperador Shen Nong, hacia el año 2700 a. C., cuando hojas de un arbusto cercano cayeron en el agua que hervía y produjeron una infusión aromática."
+      }
+    }
   },
   {
     "id": "food-143",
@@ -3181,7 +3489,21 @@
       "uk",
       "tea",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le thé de l'après-midi a été inventé par une duchesse qui s'ennuyait avant le dîner.",
+        "fact": "Anna, septième duchesse de Bedford, est créditée d'avoir lancé la coutume du thé de l'après-midi dans les années 1840, afin de calmer la faim pendant le long intervalle entre le déjeuner et un dîner tardif chez l'aristocratie anglaise."
+      },
+      "nl": {
+        "hook": "De afternoon tea werd uitgevonden door een verveelde hertogin die de kloof voor het avondeten moest overbruggen.",
+        "fact": "Anna, de zevende hertogin van Bedford, wordt gecrediteerd voor het starten van de gewoonte van de afternoon tea in de jaren 1840, om de honger te stillen tijdens de lange periode tussen de lunch en een laat avondeten bij de Engelse aristocratie."
+      },
+      "es": {
+        "hook": "El té de la tarde fue inventado por una duquesa aburrida que intentaba sobrevivir al hueco antes de la cena.",
+        "fact": "A Anna, séptima duquesa de Bedford, se le atribuye haber iniciado la costumbre del té de la tarde en la década de 1840, para calmar el hambre durante el largo intervalo entre el almuerzo y una cena tardía entre la aristocracia inglesa."
+      }
+    }
   },
   {
     "id": "food-144",
@@ -3191,7 +3513,21 @@
     "tags": [
       "champagne",
       "wine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le vrai champagne tire ses bulles d'une seconde fermentation qui se produit à l'intérieur de la bouteille scellée.",
+        "fact": "Selon la méthode traditionnelle, un vin tranquille est embouteillé avec des levures et du sucre ajoutés, déclenchant une seconde fermentation qui emprisonne le dioxyde de carbone dans la bouteille. Les levures mortes, ou lies, sont ensuite retirées par un procédé impliquant congélation et dégorgement du col."
+      },
+      "nl": {
+        "hook": "Echte champagne krijgt zijn bubbels van een tweede gisting die binnen de gesloten fles plaatsvindt.",
+        "fact": "Bij de traditionele methode wordt stille wijn gebotteld met toegevoegde gist en suiker, wat een tweede gisting op gang brengt die koolzuurgas in de fles opsluit. De dode gistcellen, of droesem, worden later verwijderd via een proces met invriezen en het ontdegorgeren van de hals."
+      },
+      "es": {
+        "hook": "El champán auténtico obtiene sus burbujas de una segunda fermentación que ocurre dentro de la botella sellada.",
+        "fact": "En el método tradicional, el vino base se embotella con levadura y azúcar añadidos, lo que desencadena una segunda fermentación que atrapa el dióxido de carbono en la botella. Las células de levadura muertas, o lías, se eliminan después mediante un proceso que implica congelar y desgorgar el cuello de la botella."
+      }
+    }
   },
   {
     "id": "food-145",
@@ -3201,7 +3537,21 @@
     "tags": [
       "wine",
       "bottle-design"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le creux au fond d'une bouteille de vin n'est pas juste décoratif.",
+        "fact": "Cette cavité, appelée piqûre, aide la bouteille à résister à la pression interne, en particulier pour les vins effervescents, et rendait historiquement le fond du verre plus solide et plus facile à fabriquer uniformément."
+      },
+      "nl": {
+        "hook": "Die deuk in de bodem van een wijnfles is niet zomaar voor de sier.",
+        "fact": "De inkeping, punt genoemd, helpt de fles weerstand te bieden aan interne druk, vooral bij mousserende wijnen, en maakte de bodem van het glas historisch gezien steviger en gemakkelijker om gelijkmatig te vervaardigen."
+      },
+      "es": {
+        "hook": "El hoyuelo en el fondo de una botella de vino no está ahí solo por estética.",
+        "fact": "Esa hendidura, llamada picado o punt, ayuda a la botella a soportar la presión interna, sobre todo en los vinos espumosos, y históricamente hacía la base del vidrio más resistente y más fácil de fabricar de forma uniforme."
+      }
+    }
   },
   {
     "id": "food-146",
@@ -3212,7 +3562,21 @@
       "beer",
       "germany",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une loi allemande vieille de 500 ans continue de façonner une grande partie de la bière brassée dans le monde.",
+        "fact": "Le Reinheitsgebot, promulgué en Bavière en 1516, limitait à l'origine les ingrédients de la bière à l'eau, l'orge et le houblon (le rôle de la levure n'était pas encore compris). Des versions de cette loi de pureté influencent encore aujourd'hui la réglementation du brassage en Allemagne."
+      },
+      "nl": {
+        "hook": "Een 500 jaar oude Duitse wet bepaalt nog steeds mee hoe een groot deel van het bier ter wereld wordt gebrouwen.",
+        "fact": "Het Reinheitsgebot, uitgevaardigd in Beieren in 1516, beperkte de ingrediënten van bier oorspronkelijk tot water, gerst en hop (de rol van gist was toen nog niet bekend). Versies van deze zuiverheidswet beïnvloeden vandaag nog steeds de brouwregels in Duitsland."
+      },
+      "es": {
+        "hook": "Una ley alemana de hace 500 años todavía determina cómo se elabora gran parte de la cerveza del mundo.",
+        "fact": "El Reinheitsgebot, promulgado en Baviera en 1516, limitaba originalmente los ingredientes de la cerveza al agua, la cebada y el lúpulo (el papel de la levadura aún no se entendía). Versiones de esta ley de pureza siguen influyendo hoy en la normativa cervecera de Alemania."
+      }
+    }
   },
   {
     "id": "food-147",
@@ -3222,7 +3586,21 @@
     "tags": [
       "beer",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Guinness a placé une minuscule bille en plastique dans ses canettes rien que pour recréer chez soi une pinte tirée au pub.",
+        "fact": "Le widget est une petite bille remplie d'azote qui libère du gaz à l'ouverture de la canette, agitant la bière pour créer la cascade de bulles et la mousse crémeuse caractéristiques de la Guinness, en dehors de tout système de pression sous pompe."
+      },
+      "nl": {
+        "hook": "Guinness stopte een piepklein plastic balletje in zijn blikjes, alleen maar om een in de pub getapte pint thuis na te bootsen.",
+        "fact": "De widget is een klein, met stikstof gevuld balletje dat gas vrijgeeft zodra het blikje wordt geopend, wat het bier in beweging brengt en zo de kenmerkende neervallende belletjes en romige schuimkraag van Guinness creëert, buiten een onder druk staand tapsysteem om."
+      },
+      "es": {
+        "hook": "Guinness metió una bolita de plástico en sus latas solo para recrear en casa una pinta tirada de barril.",
+        "fact": "El widget es una pequeña bola rellena de nitrógeno que libera gas al abrir la lata, agitando la cerveza para crear las burbujas en cascada y la espuma cremosa características de Guinness, sin necesidad de un sistema de grifo a presión."
+      }
+    }
   },
   {
     "id": "food-148",
@@ -3232,7 +3610,21 @@
     "tags": [
       "whisky",
       "spirits"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La même boisson s'écrit de deux façons différentes selon le pays qui l'a produite.",
+        "fact": "L'Écosse, le Canada et le Japon écrivent « whisky », tandis que l'Irlande et les États-Unis écrivent « whiskey ». Cette différence remonte à des choix de traduction faits par des distillateurs gaéliques au XIXe siècle et s'est maintenue depuis comme une convention régionale."
+      },
+      "nl": {
+        "hook": "Dezelfde drank wordt op twee verschillende manieren gespeld, afhankelijk van het land dat hem maakte.",
+        "fact": "Schotland, Canada en Japan spellen het 'whisky', terwijl Ierland en de Verenigde Staten 'whiskey' spellen. Het verschil gaat terug op vertaalkeuzes van Gaelische stokers in de 19e eeuw en is sindsdien blijven bestaan als een regionale conventie."
+      },
+      "es": {
+        "hook": "La misma bebida se escribe de dos formas distintas según el país que la elaboró.",
+        "fact": "Escocia, Canadá y Japón lo escriben 'whisky', mientras que Irlanda y Estados Unidos lo escriben 'whiskey'. La diferencia se remonta a decisiones de traducción de destiladores gaélicos en el siglo XIX, y desde entonces se ha mantenido como convención regional."
+      }
+    }
   },
   {
     "id": "food-149",
@@ -3242,7 +3634,21 @@
     "tags": [
       "tequila",
       "mexico"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La tequila ne peut légalement être produite que dans une poignée de régions bien précises du Mexique.",
+        "fact": "Selon la loi mexicaine, la véritable tequila doit être produite à partir d'agave bleue cultivée dans des zones désignées, principalement l'État de Jalisco, un peu comme le champagne est protégé en tant que nom régional en France."
+      },
+      "nl": {
+        "hook": "Tequila mag wettelijk alleen worden gemaakt in een handvol specifieke regio's van Mexico.",
+        "fact": "Volgens de Mexicaanse wet moet echte tequila worden geproduceerd uit blauwe agave die in aangewezen gebieden wordt geteeld, voornamelijk de staat Jalisco, vergelijkbaar met de manier waarop champagne in Frankrijk als regionale naam wordt beschermd."
+      },
+      "es": {
+        "hook": "El tequila solo puede fabricarse legalmente en un puñado de regiones concretas de México.",
+        "fact": "Según la ley mexicana, el tequila auténtico debe elaborarse a partir de agave azul cultivado en zonas designadas, principalmente el estado de Jalisco, de forma similar a como el champán está protegido como nombre regional en Francia."
+      }
+    }
   },
   {
     "id": "food-150",
@@ -3253,7 +3659,21 @@
       "sake",
       "japan",
       "brewing"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le brassage du saké fait tourner deux fermentations en même temps, dans la même cuve.",
+        "fact": "Contrairement à la bière, où les amidons sont convertis en sucre avant le début de la fermentation, le brassage du saké utilise une moisissure appelée koji pour convertir l'amidon du riz en sucre pendant que la levure fermente simultanément ce sucre en alcool, une technique appelée fermentation parallèle multiple."
+      },
+      "nl": {
+        "hook": "Bij het brouwen van sake lopen twee gistingsprocessen tegelijk in hetzelfde vat.",
+        "fact": "In tegenstelling tot bier, waarbij zetmeel wordt omgezet in suiker vóórdat de gisting begint, gebruikt sakebrouwen een schimmel genaamd koji om rijstzetmeel om te zetten in suiker, terwijl gist tegelijkertijd die suiker omzet in alcohol, een techniek die multiple parallelle fermentatie wordt genoemd."
+      },
+      "es": {
+        "hook": "La elaboración del sake hace correr dos fermentaciones a la vez, en la misma cuba.",
+        "fact": "A diferencia de la cerveza, donde los almidones se convierten en azúcar antes de que comience la fermentación, la elaboración del sake usa un moho llamado koji para convertir el almidón del arroz en azúcar mientras la levadura fermenta simultáneamente ese azúcar en alcohol, una técnica llamada fermentación paralela múltiple."
+      }
+    }
   },
   {
     "id": "food-151",
@@ -3263,7 +3683,21 @@
     "tags": [
       "champagne",
       "wine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Seul le vin effervescent d'une région bien précise de France a légalement le droit de s'appeler champagne.",
+        "fact": "Le nom est protégé par le droit français et européen, et réservé au vin effervescent produit dans la région Champagne selon des cépages et des méthodes approuvés. Un vin effervescent produit ailleurs, même selon un procédé identique, doit porter un autre nom, comme cava ou prosecco."
+      },
+      "nl": {
+        "hook": "Alleen mousserende wijn uit één specifieke regio van Frankrijk mag wettelijk champagne worden genoemd.",
+        "fact": "De naam is beschermd onder Frans en Europees recht en voorbehouden aan mousserende wijn die in de Champagnestreek wordt geproduceerd met goedgekeurde druivensoorten en methoden. Mousserende wijn die elders wordt gemaakt, zelfs volgens hetzelfde procedé, moet anders heten, zoals cava of prosecco."
+      },
+      "es": {
+        "hook": "Solo el vino espumoso de una región muy concreta de Francia puede llamarse legalmente champán.",
+        "fact": "El nombre está protegido por la legislación francesa y europea, y reservado al vino espumoso producido en la región de Champaña con uvas y métodos aprobados. El vino espumoso elaborado en otro lugar, incluso con el mismo proceso, debe llamarse de otra forma, como cava o prosecco."
+      }
+    }
   },
   {
     "id": "food-152",
@@ -3273,7 +3707,21 @@
     "tags": [
       "coffee",
       "plant-biology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les plants de café ont développé la caféine comme pesticide intégré.",
+        "fact": "La caféine est toxique pour de nombreux insectes et champignons à haute concentration, et les chercheurs pensent que le caféier l'a développée en partie comme mécanisme de défense naturel, en plus de son effet aujourd'hui célèbre sur le système nerveux humain."
+      },
+      "nl": {
+        "hook": "Koffieplanten ontwikkelden cafeïne als een ingebouwd bestrijdingsmiddel.",
+        "fact": "Cafeïne is in hoge concentraties giftig voor veel insecten en schimmels, en onderzoekers denken dat de koffieplant het deels ontwikkelde als natuurlijk verdedigingsmechanisme, naast het inmiddels beroemde effect ervan op het menselijk zenuwstelsel."
+      },
+      "es": {
+        "hook": "Las plantas de café desarrollaron la cafeína como pesticida incorporado.",
+        "fact": "La cafeína es tóxica para muchos insectos y hongos en altas concentraciones, y los investigadores creen que la planta del café la desarrolló en parte como mecanismo natural de defensa, además de su ya famoso efecto en el sistema nervioso humano."
+      }
+    }
   },
   {
     "id": "food-153",
@@ -3283,7 +3731,21 @@
     "tags": [
       "kombucha",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le pétillant du kombucha vient d'une culture vivante qui ressemble un peu à une crêpe.",
+        "fact": "La boisson est fermentée à l'aide d'un SCOBY, une colonie symbiotique de bactéries et de levures, qui transforme du thé sucré en une boisson acidulée et légèrement gazeuse après une à deux semaines de fermentation."
+      },
+      "nl": {
+        "hook": "De bubbels van kombucha komen van een levende cultuur die een beetje op een pannenkoek lijkt.",
+        "fact": "De drank wordt gefermenteerd met een SCOBY, een symbiotische kolonie van bacteriën en gist, die gezoete thee omzet in een pittig-zure, licht koolzuurhoudende drank na één tot twee weken fermentatie."
+      },
+      "es": {
+        "hook": "El burbujeo de la kombucha viene de un cultivo vivo que se parece un poco a una tortita.",
+        "fact": "La bebida se fermenta con un SCOBY, una colonia simbiótica de bacterias y levaduras, que convierte el té endulzado en una bebida ácida y ligeramente carbonatada tras una o dos semanas de fermentación."
+      }
+    }
   },
   {
     "id": "food-154",
@@ -3293,7 +3755,21 @@
     "tags": [
       "mead",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'hydromel pourrait être l'une des plus anciennes boissons alcoolisées jamais fabriquées par l'humanité.",
+        "fact": "Fabriqué en fermentant du miel avec de l'eau, l'hydromel a probablement des origines antérieures à la bière et au vin dans de nombreuses régions, car des levures sauvages pouvaient faire fermenter naturellement du miel dilué avec très peu de traitement."
+      },
+      "nl": {
+        "hook": "Mede is mogelijk een van de oudste alcoholische dranken die de mens ooit heeft gemaakt.",
+        "fact": "Mede wordt gemaakt door honing met water te fermenteren, en de oorsprong ervan gaat in veel regio's waarschijnlijk verder terug dan die van zowel bier als wijn, omdat wilde gist op natuurlijke wijze verdunde honing kon fermenteren met nauwelijks bewerking."
+      },
+      "es": {
+        "hook": "El hidromiel podría ser una de las bebidas alcohólicas más antiguas que ha fabricado la humanidad.",
+        "fact": "Elaborado fermentando miel con agua, el hidromiel probablemente sea anterior tanto a la cerveza como al vino en muchas regiones, ya que la levadura silvestre podía fermentar de forma natural la miel diluida con muy poco procesamiento."
+      }
+    }
   },
   {
     "id": "food-155",
@@ -3303,7 +3779,21 @@
     "tags": [
       "wine",
       "cork"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le bouchon de votre bouteille de vin vient d'un arbre qui est encore vivant.",
+        "fact": "Les bouchons de liège sont récoltés à partir de l'écorce du chêne-liège, qui peut être écorcé environ tous les neuf ans sans tuer l'arbre. Un même chêne-liège peut être exploité pendant bien plus d'un siècle."
+      },
+      "nl": {
+        "hook": "De kurk in je wijnfles komt van een boom die nog altijd leeft.",
+        "fact": "Wijnkurken worden geoogst uit de bast van de kurkeik, die ongeveer om de negen jaar kan worden gestroopt zonder de boom te doden. Eenzelfde kurkeik kan ruim een eeuw lang worden geoogst."
+      },
+      "es": {
+        "hook": "El corcho de tu botella de vino proviene de un árbol que sigue vivo.",
+        "fact": "Los corchos de vino se obtienen de la corteza del alcornoque, que puede descortezarse aproximadamente cada nueve años sin matar al árbol. Un mismo alcornoque puede aprovecharse durante bastante más de un siglo."
+      }
+    }
   },
   {
     "id": "food-156",
@@ -3313,7 +3803,21 @@
     "tags": [
       "beer",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Dans une grande partie de l'Europe préindustrielle, la bière légère était plus sûre à boire que l'eau.",
+        "fact": "La 'petite bière', peu alcoolisée, était couramment consommée aussi bien par les adultes que par les enfants, car le processus de brassage impliquait de faire bouillir l'eau, ce qui aidait à tuer les agents pathogènes souvent présents dans les réseaux d'eau non traitée."
+      },
+      "nl": {
+        "hook": "Zwak bier was in grote delen van premodern Europa vroeger veiliger om te drinken dan water.",
+        "fact": "Alcoholarm 'klein bier' werd algemeen gedronken door zowel volwassenen als kinderen, omdat bij het brouwproces het water werd gekookt, wat hielp om ziekteverwekkers te doden die vaak in onbehandeld drinkwater voorkwamen."
+      },
+      "es": {
+        "hook": "En gran parte de la Europa premoderna, la cerveza floja era más segura de beber que el agua.",
+        "fact": "La 'cerveza pequeña', de baja graduación, la consumían por igual adultos y niños, ya que el proceso de elaboración implicaba hervir el agua, lo cual ayudaba a eliminar los patógenos que a menudo contenían los suministros de agua sin tratar."
+      }
+    }
   },
   {
     "id": "food-157",
@@ -3323,7 +3827,21 @@
     "tags": [
       "coca-cola",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La recette originale du Coca-Cola contenait bel et bien une petite quantité de cocaïne.",
+        "fact": "L'inventeur de la boisson, John Pemberton, incluait de l'extrait de feuille de coca dans sa formule des années 1880. L'entreprise a retiré la cocaïne de la recette vers 1929, même si elle utilise encore aujourd'hui un extrait de feuille de coca décocaïnisé pour l'arôme."
+      },
+      "nl": {
+        "hook": "Het oorspronkelijke recept van Coca-Cola bevatte inderdaad een kleine hoeveelheid cocaïne.",
+        "fact": "De uitvinder van de drank, John Pemberton, verwerkte in de jaren 1880 cocabladextract in zijn formule. Het bedrijf haalde de cocaïne rond 1929 uit het recept, al gebruikt het vandaag nog steeds een cocaïnevrij cocabladextract voor de smaak."
+      },
+      "es": {
+        "hook": "La receta original de Coca-Cola sí que contenía una pequeña cantidad de cocaína.",
+        "fact": "El inventor de la bebida, John Pemberton, incluyó extracto de hoja de coca en su fórmula de la década de 1880. La empresa eliminó la cocaína de la receta hacia 1929, aunque hoy sigue usando un extracto de hoja de coca sin cocaína para dar sabor."
+      }
+    }
   },
   {
     "id": "food-158",
@@ -3334,7 +3852,24 @@
     "tags": [
       "absinthe",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'absinthe a été interdite dans une grande partie du monde à cause d'un ingrédient qui s'est révélé presque inoffensif.",
+        "fact": "Les interdictions du début du XXe siècle incriminaient la thuyone, un composé de l'absinthe (la plante), accusée de provoquer hallucinations et folie. Les recherches modernes suggèrent que le vrai danger de la boisson venait simplement de sa très forte teneur en alcool, et non de la thuyone.",
+        "whyItMatters": "L'interdiction séculaire de l'absinthe, largement fondée sur une peur scientifique aujourd'hui démentie, montre à quel point une panique publique peut survivre bien plus longtemps que les preuves qui la fondaient."
+      },
+      "nl": {
+        "hook": "Absint werd in grote delen van de wereld verboden vanwege een ingrediënt dat achteraf grotendeels onschadelijk bleek.",
+        "fact": "Verboden uit het begin van de 20e eeuw gaven de schuld aan thujon, een stof in alsem, die hallucinaties en waanzin zou veroorzaken. Modern onderzoek suggereert dat de werkelijk gevaarlijke eigenschap van de drank gewoon het zeer hoge alcoholpercentage was, niet thujon.",
+        "whyItMatters": "Het eeuwenlange verbod op absint, grotendeels gebaseerd op een inmiddels ontkrachte wetenschappelijke angst, laat zien hoe publieke paniek veel langer kan standhouden dan het bewijs waarop ze gestoeld was."
+      },
+      "es": {
+        "hook": "La absenta se prohibió en buena parte del mundo por un ingrediente que resultó ser prácticamente inofensivo.",
+        "fact": "Las prohibiciones de principios del siglo XX culpaban a la tuyona, un compuesto del ajenjo, de causar alucinaciones y locura. La investigación moderna sugiere que lo verdaderamente peligroso de la bebida era simplemente su altísimo contenido de alcohol, no la tuyona.",
+        "whyItMatters": "La prohibición centenaria de la absenta, basada en gran parte en un temor científico hoy desmentido, muestra cómo el pánico público puede perdurar mucho más que las pruebas que lo sustentaban."
+      }
+    }
   },
   {
     "id": "food-159",
@@ -3344,7 +3879,21 @@
     "tags": [
       "rum",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le rhum existe parce que les producteurs de sucre avaient besoin de faire quelque chose de leur mélasse résiduelle.",
+        "fact": "Le rhum a été développé dans les Caraïbes comme moyen d'utiliser la mélasse, un sous-produit du raffinage de la canne à sucre, transformant ce qui n'était essentiellement qu'un déchet en un spiritueux distillé de valeur."
+      },
+      "nl": {
+        "hook": "Rum bestaat omdat suikerproducenten iets moesten doen met hun overgebleven melasse.",
+        "fact": "Rum werd in het Caribisch gebied ontwikkeld als manier om melasse te gebruiken, een bijproduct van het raffineren van suikerriet tot suiker, waardoor wat in wezen afvalmateriaal was, veranderde in een waardevolle gedistilleerde drank."
+      },
+      "es": {
+        "hook": "El ron existe porque los productores de azúcar necesitaban hacer algo con su melaza sobrante.",
+        "fact": "El ron se desarrolló en el Caribe como una forma de aprovechar la melaza, un subproducto de refinar la caña de azúcar, convirtiendo lo que era esencialmente un desecho en un valioso destilado."
+      }
+    }
   },
   {
     "id": "food-160",
@@ -3354,7 +3903,21 @@
     "tags": [
       "irish-coffee",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le café irlandais a été inventé pour réchauffer des passagers d'avion épuisés, secoués par la tempête.",
+        "fact": "Le chef Joe Sheridan a créé cette boisson dans les années 1940 au terminal des hydravions de Foynes, en Irlande, en ajoutant du whiskey au café pour des voyageurs qui avaient dû faire demi-tour en plein Atlantique à cause du mauvais temps et avaient besoin de se réchauffer."
+      },
+      "nl": {
+        "hook": "Irish coffee werd uitgevonden om uitgeputte, door storm geteisterde vliegtuigpassagiers op te warmen.",
+        "fact": "Chef Joe Sheridan bedacht de drank in de jaren 1940 op de vliegbootterminal van Foynes in Ierland, door whiskey aan koffie toe te voegen voor reizigers die door slecht weer midden boven de Atlantische Oceaan waren omgekeerd en de kou uit hun lijf moesten verdrijven."
+      },
+      "es": {
+        "hook": "El café irlandés se inventó para entrar en calor a pasajeros de avión agotados y golpeados por una tormenta.",
+        "fact": "El chef Joe Sheridan creó esta bebida en la década de 1940 en la terminal de hidroaviones de Foynes, en Irlanda, añadiendo whiskey al café para viajeros que habían tenido que dar media vuelta en pleno Atlántico por el mal tiempo y necesitaban algo que los calentara."
+      }
+    }
   },
   {
     "id": "food-161",
@@ -3364,7 +3927,21 @@
     "tags": [
       "gin",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le gin a débuté comme médicament, pas comme ingrédient à cocktail.",
+        "fact": "Le gin trouve son origine dans le genièvre néerlandais, à l'origine aromatisé au genévrier pour ses supposées vertus médicinales. Les soldats anglais combattant aux Pays-Bas auraient rapporté cette eau-de-vie chez eux, ainsi que l'expression « Dutch courage » (le courage puisé dans l'alcool)."
+      },
+      "nl": {
+        "hook": "Gin begon als medicijn, niet als cocktailingrediënt.",
+        "fact": "Gin vindt zijn oorsprong in de Nederlandse jenever, oorspronkelijk op smaak gebracht met jeneverbes vanwege de vermeende medicinale eigenschappen. Engelse soldaten die in Nederland vochten, zouden de drank en de uitdrukking 'Dutch courage' mee naar huis hebben genomen."
+      },
+      "es": {
+        "hook": "La ginebra empezó como medicina, no como ingrediente de cóctel.",
+        "fact": "La ginebra tiene su origen en la ginebra neerlandesa (genever), aromatizada originalmente con enebro por sus supuestas propiedades medicinales. Se atribuye a los soldados ingleses que combatieron en los Países Bajos el haber llevado esta bebida y la expresión 'Dutch courage' (valor holandés) a su país."
+      }
+    }
   },
   {
     "id": "food-162",
@@ -3374,7 +3951,21 @@
     "tags": [
       "vodka",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Personne ne s'accorde vraiment sur le pays qui a inventé la vodka.",
+        "fact": "La Russie et la Pologne revendiquent toutes deux l'invention de la vodka : des traces historiques de distillation d'alcool à base de céréales et de pommes de terre existent dans les deux régions depuis des siècles, et le débat sur son véritable lieu de naissance reste non résolu."
+      },
+      "nl": {
+        "hook": "Niemand is het er echt over eens welk land wodka nu eigenlijk heeft uitgevonden.",
+        "fact": "Zowel Rusland als Polen claimt de oorsprong van wodka, met historisch bewijs van graan- en aardappelgebaseerde distillatie in beide regio's die eeuwen teruggaat, en het dispuut over de werkelijke geboorteplaats blijft onopgelost."
+      },
+      "es": {
+        "hook": "Nadie se pone del todo de acuerdo sobre qué país inventó realmente el vodka.",
+        "fact": "Tanto Rusia como Polonia afirman haber originado el vodka, con registros históricos de destilación de alcohol a base de cereales y patatas en ambas regiones que se remontan siglos atrás, y la disputa sobre su verdadero lugar de origen sigue sin resolverse."
+      }
+    }
   },
   {
     "id": "food-163",
@@ -3384,7 +3975,21 @@
     "tags": [
       "champagne",
       "sabrage"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ouvrir une bouteille de champagne au sabre est une véritable technique, pas un tour de fête.",
+        "fact": "Le sabrage consiste à frapper le col de la bouteille avec le plat de la lame d'un sabre pour le sectionner net, projetant le bouchon et la bague de verre sous l'effet de la pression interne. Cette pratique est souvent associée aux officiers de Napoléon célébrant leurs victoires."
+      },
+      "nl": {
+        "hook": "Een champagnefles met een sabel openen is een echte techniek, geen feesttrucje.",
+        "fact": "Bij sabrage wordt de hals van de fles geraakt met de platte kant van een sabellemmet, zodat hij er netjes afbreekt en de kurk en glazen ring door de druk in de fles wegvliegen. De praktijk wordt vaak in verband gebracht met officieren van Napoleon die overwinningen vierden."
+      },
+      "es": {
+        "hook": "Abrir una botella de champán con un sable es una técnica real, no un truco de fiesta.",
+        "fact": "El sabrado consiste en golpear el cuello de la botella con la parte plana de la hoja de un sable para cortarlo limpiamente, lanzando el corcho y el anillo de vidrio por la presión interior. La práctica suele asociarse con los oficiales de Napoleón celebrando victorias."
+      }
+    }
   },
   {
     "id": "food-164",
@@ -3394,7 +3999,21 @@
     "tags": [
       "tea",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les sachets de thé ont été inventés par accident, par un marchand qui n'avait jamais eu l'intention de les créer.",
+        "fact": "Au début des années 1900, le marchand de thé new-yorkais Thomas Sullivan envoyait des échantillons dans de petits sachets de soie. Persuadés que les sachets devaient être infusés entiers plutôt qu'ouverts, les clients ont fait infuser le thé à l'intérieur, et le sachet de thé était né."
+      },
+      "nl": {
+        "hook": "Theezakjes zijn per ongeluk uitgevonden door een handelaar die ze nooit had bedoeld te maken.",
+        "fact": "In het begin van de twintigste eeuw stuurde de New Yorkse theehandelaar Thomas Sullivan monsters in kleine zijden zakjes. Klanten dachten dat de zakjes heel gezet moesten worden in plaats van geopend, en zetten de thee gewoon in het zakje, en zo was het theezakje geboren."
+      },
+      "es": {
+        "hook": "Las bolsitas de té se inventaron por accidente, gracias a un comerciante que nunca pretendió crearlas.",
+        "fact": "A principios del siglo XX, el comerciante de té neoyorquino Thomas Sullivan enviaba muestras en pequeñas bolsitas de seda. Los clientes, creyendo que las bolsitas debían infusionarse enteras en lugar de abrirse, prepararon el té dentro de ellas, y así nació la bolsita de té."
+      }
+    }
   },
   {
     "id": "food-165",
@@ -3404,7 +4023,21 @@
     "tags": [
       "bourbon",
       "spirits"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le bourbon doit respecter des règles strictes avant même de pouvoir porter ce nom.",
+        "fact": "Pour être légalement appelé bourbon aux États-Unis, l'alcool doit être élaboré à partir d'au moins 51 % de maïs et vieilli en fûts de chêne neufs et carbonisés, entre autres exigences. Contrairement à une idée reçue, il n'est pas obligatoire qu'il soit produit dans le Kentucky."
+      },
+      "nl": {
+        "hook": "Bourbon moet aan strikte regels voldoen voordat het die naam zelfs maar mag dragen.",
+        "fact": "Om in de VS wettelijk bourbon te mogen heten, moet de drank voor minstens 51 procent uit maïs bestaan en rijpen in nieuwe, verkoolde eikenhouten vaten, naast andere vereisten. In tegenstelling tot wat vaak wordt gedacht, hoeft het niet in Kentucky te worden gemaakt."
+      },
+      "es": {
+        "hook": "El bourbon debe cumplir normas estrictas antes de poder llevar siquiera ese nombre.",
+        "fact": "Para poder llamarse legalmente bourbon en Estados Unidos, el destilado debe elaborarse con al menos un 51 % de maíz y envejecer en barricas nuevas de roble carbonizado, entre otros requisitos. Contrariamente a la creencia popular, no tiene que producirse en Kentucky."
+      }
+    }
   },
   {
     "id": "food-166",
@@ -3414,7 +4047,21 @@
     "tags": [
       "cognac",
       "spirits"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le cognac est distillé deux fois dans des alambics en cuivre avant même de toucher un fût de chêne.",
+        "fact": "Élaboré dans la région de Cognac, en France, ce brandy subit une double distillation dans des alambics traditionnels en cuivre, puis vieillit pendant des années dans des fûts de chêne français qui façonnent une grande partie de sa saveur finale."
+      },
+      "nl": {
+        "hook": "Cognac wordt twee keer gedistilleerd in koperen ketels voordat het ooit een eikenhouten vat raakt.",
+        "fact": "Deze brandewijn, gemaakt in de Franse regio Cognac, ondergaat een dubbele distillatie in traditionele koperen pot-stills en rijpt vervolgens jarenlang in Franse eikenhouten vaten die grotendeels de uiteindelijke smaak bepalen."
+      },
+      "es": {
+        "hook": "El coñac se destila dos veces en alambiques de cobre antes incluso de tocar un barril de roble.",
+        "fact": "Elaborado en la región francesa de Cognac, este brandy se somete a una doble destilación en alambiques tradicionales de cobre y luego envejece durante años en barricas de roble francés que definen gran parte de su sabor final."
+      }
+    }
   },
   {
     "id": "food-167",
@@ -3425,7 +4072,21 @@
       "matcha",
       "tea",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le matcha est le seul thé courant où l'on boit véritablement la feuille entière.",
+        "fact": "Contrairement aux thés infusés dont on jette les feuilles après infusion, le matcha est obtenu en broyant à la meule de pierre des feuilles de thé cultivées à l'ombre, réduites en une fine poudre fouettée directement dans l'eau chaude, si bien que la feuille entière est consommée."
+      },
+      "nl": {
+        "hook": "Matcha is de enige veelvoorkomende thee waarbij je echt het hele blad opdrinkt.",
+        "fact": "In tegenstelling tot getrokken thee, waarbij de blaadjes na het zetten worden weggegooid, wordt matcha gemaakt door in de schaduw gekweekte theebladeren met een stenen molen tot een fijn poeder te malen, dat direct in heet water wordt geklopt, waardoor het hele blad wordt geconsumeerd."
+      },
+      "es": {
+        "hook": "El matcha es el único té habitual en el que realmente te bebes toda la hoja.",
+        "fact": "A diferencia de los tés de infusión, cuyas hojas se descartan tras prepararse, el matcha se elabora moliendo con piedra hojas de té cultivadas a la sombra hasta obtener un polvo fino que se bate directamente en agua caliente, de modo que se consume la hoja entera."
+      }
+    }
   },
   {
     "id": "food-168",
@@ -3435,7 +4096,21 @@
     "tags": [
       "beer",
       "brewing"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les stouts et les lagers doivent leurs textures de bulles différentes à deux gaz totalement distincts.",
+        "fact": "La plupart des bières sont carbonatées au dioxyde de carbone, produisant des bulles vives et plus grosses. Les stouts servis à l'azote, comme la Guinness, utilisent à la place du gaz azote, créant une mousse plus onctueuse, crémeuse et à bulles fines."
+      },
+      "nl": {
+        "hook": "Stouts en lagers danken hun verschillende belstructuur aan twee compleet verschillende gassen.",
+        "fact": "De meeste bieren worden gecarboniseerd met koolstofdioxide, wat scherpe, grotere bubbels oplevert. Met stikstof geschonken stouts zoals Guinness gebruiken in plaats daarvan stikstofgas, wat zorgt voor een gladdere, romigere schuimkraag met fijnere bubbels."
+      },
+      "es": {
+        "hook": "Las stouts y las lagers deben la textura de sus burbujas a dos gases totalmente distintos.",
+        "fact": "La mayoría de las cervezas se carbonatan con dióxido de carbono, lo que produce burbujas grandes y punzantes. Las stouts servidas con nitrógeno, como la Guinness, usan gas nitrógeno en su lugar, creando una espuma más suave, cremosa y de burbuja fina."
+      }
+    }
   },
   {
     "id": "food-169",
@@ -3446,7 +4121,21 @@
       "prohibition",
       "united-states",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Pendant 13 ans, il a été illégal d'acheter légalement un verre presque partout aux États-Unis.",
+        "fact": "La Prohibition, instaurée par le 18e amendement en 1920 et abrogée en 1933, a interdit la fabrication et la vente de boissons alcoolisées dans tout le pays, favorisant l'essor des bars clandestins et des réseaux de contrebande organisée."
+      },
+      "nl": {
+        "hook": "13 jaar lang was het bijna nergens in de Verenigde Staten legaal mogelijk om een drankje te kopen.",
+        "fact": "De drooglegging, ingesteld door het 18e amendement in 1920 en ingetrokken in 1933, verbood de productie en verkoop van alcoholische dranken in het hele land, wat de opkomst van illegale kroegen en georganiseerde drankensmokkel aanwakkerde."
+      },
+      "es": {
+        "hook": "Durante 13 años, fue ilegal comprar legalmente una copa en casi cualquier lugar de Estados Unidos.",
+        "fact": "La Ley Seca, promulgada por la Decimoctava Enmienda en 1920 y derogada en 1933, prohibió la fabricación y venta de bebidas alcohólicas en todo el país, impulsando el auge de los bares clandestinos y las redes organizadas de contrabando."
+      }
+    }
   },
   {
     "id": "food-170",
@@ -3456,7 +4145,21 @@
     "tags": [
       "port-wine",
       "portugal"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le porto doit sa douceur à une fermentation volontairement interrompue.",
+        "fact": "De l'eau-de-vie de raisin est ajoutée en cours de fermentation, tuant les levures avant que tout le sucre ne se transforme en alcool. Cela laisse un sucre résiduel et augmente la teneur en alcool, une technique appelée fortification (ou mutage), nommée d'après la ville de Porto, au Portugal."
+      },
+      "nl": {
+        "hook": "Portwijn dankt zijn zoetheid aan een doelbewust onderbroken gisting.",
+        "fact": "Druivenbrandewijn wordt tijdens de gisting toegevoegd, waardoor de gist afsterft voordat alle suiker in alcohol is omgezet. Dit laat restsuiker achter en verhoogt het alcoholpercentage, een techniek die fortificatie wordt genoemd, vernoemd naar de stad Porto in Portugal."
+      },
+      "es": {
+        "hook": "El vino de Oporto debe su dulzor a una fermentación interrumpida deliberadamente.",
+        "fact": "Se añade aguardiente de uva a mitad de la fermentación, lo que mata la levadura antes de que todo el azúcar se convierta en alcohol. Esto deja azúcar residual y aumenta el contenido de alcohol, una técnica llamada fortificación, llamada así por la ciudad de Oporto, Portugal."
+      }
+    }
   },
   {
     "id": "food-171",
@@ -3466,7 +4169,21 @@
     "tags": [
       "champagne",
       "wine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « brut » sur une étiquette de champagne ne dit presque rien sur les cépages, mais tout sur le sucre.",
+        "fact": "Après la seconde fermentation, les vignerons ajoutent un mélange de sucre et de vin appelé liqueur d'expédition pour ajuster la douceur. La quantité ajoutée détermine si la bouteille finale sera étiquetée brut, extra brut, sec ou demi-sec."
+      },
+      "nl": {
+        "hook": "Het woord 'brut' op een champagne-etiket zegt bijna niets over de druiven, maar alles over de suiker.",
+        "fact": "Na de tweede gisting voegen wijnmakers een mengsel van suiker en wijn toe, dosage genoemd, om de zoetheid fijn af te stellen. De toegevoegde hoeveelheid bepaalt of de uiteindelijke fles wordt gelabeld als brut, extra brut, sec of demi-sec."
+      },
+      "es": {
+        "hook": "La palabra 'brut' en una etiqueta de champán casi no dice nada sobre las uvas, pero sí todo sobre el azúcar.",
+        "fact": "Tras la segunda fermentación, los enólogos añaden una mezcla de azúcar y vino llamada dosage para ajustar el dulzor. La cantidad añadida determina si la botella final se etiqueta como brut, extra brut, sec o demi-sec."
+      }
+    }
   },
   {
     "id": "food-172",
@@ -3476,7 +4193,21 @@
     "tags": [
       "coffee",
       "cupping"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les dégustateurs professionnels de café aspirent bruyamment exprès, tout comme les sommeliers font tourner le vin.",
+        "fact": "Dans une pratique appelée cupping, les dégustateurs aèrent une cuillerée de café d'une forte aspiration pour le projeter sur tout le palais, évaluant arôme, acidité, corps et saveur de façon standardisée, à l'image de la dégustation formelle du vin."
+      },
+      "nl": {
+        "hook": "Professionele koffieproevers slurpen expres luid, net zoals sommeliers wijn laten walsen.",
+        "fact": "Bij een praktijk die cupping heet, beluchten proevers een lepel koffie met een scherpe slurp om hem over het gehele gehemelte te verspreiden, waarbij ze aroma, zuurgraad, body en smaak op een gestandaardiseerde manier beoordelen, vergelijkbaar met formele wijnproeverijen."
+      },
+      "es": {
+        "hook": "Los catadores profesionales de café sorben ruidosamente a propósito, igual que los sumilleres agitan el vino en la copa.",
+        "fact": "En una práctica llamada cata de taza (cupping), los catadores airean una cucharada de café con un sorbo enérgico para esparcirlo por todo el paladar, evaluando aroma, acidez, cuerpo y sabor de forma estandarizada, de manera similar a la cata formal de vino."
+      }
+    }
   },
   {
     "id": "food-173",
@@ -3486,7 +4217,21 @@
     "tags": [
       "sous-vide",
       "cooking-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une méthode de cuisson née dans la haute gastronomie française fonctionne aujourd'hui discrètement dans les appareils électroménagers du quotidien.",
+        "fact": "La cuisson sous vide consiste à sceller les aliments dans un sac hermétique et à les cuire dans un bain-marie à température précisément contrôlée, souvent pendant des heures, pour obtenir une cuisson uniforme d'un bout à l'autre. Des chefs français et américains ont commencé à la développer pour un usage en restauration dans les années 1970."
+      },
+      "nl": {
+        "hook": "Een kookmethode ontstaan in de Franse gastronomie werkt nu geruisloos in keukenapparaten overal.",
+        "fact": "Bij sous-vide worden voedingsmiddelen verzegeld in een luchtdichte zak en gegaard in een nauwkeurig gecontroleerd waterbad, vaak urenlang, voor een gelijkmatige gaarheid tot in de kern. Franse en Amerikaanse chef-koks begonnen de techniek in de jaren zeventig te ontwikkelen voor gebruik in restaurants."
+      },
+      "es": {
+        "hook": "Un método de cocción nacido en la alta cocina francesa funciona ahora silenciosamente en los electrodomésticos de cualquier casa.",
+        "fact": "La cocción al vacío (sous vide) consiste en sellar los alimentos en una bolsa hermética y cocinarlos en un baño de agua con temperatura controlada con precisión, a menudo durante horas, para lograr una cocción uniforme de borde a borde. Chefs franceses y estadounidenses empezaron a desarrollarla para uso en restaurantes en la década de 1970."
+      }
+    }
   },
   {
     "id": "food-174",
@@ -3497,7 +4242,24 @@
     "tags": [
       "microwave",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le four à micro-ondes existe parce qu'une barre chocolatée a fondu dans la poche d'un ingénieur.",
+        "fact": "En testant un magnétron radar en 1945, l'ingénieur de Raytheon Percy Spencer a remarqué qu'une barre de chocolat dans sa poche avait fondu. Sa curiosité face à ce phénomène a directement mené au développement des premiers fours à micro-ondes.",
+        "whyItMatters": "Un des appareils de cuisine les plus courants au monde existe uniquement parce qu'un ingénieur a prêté attention à un incident étrange au lieu de l'ignorer."
+      },
+      "nl": {
+        "hook": "De magnetron bestaat omdat er een chocoladereep smolt in de zak van een ingenieur.",
+        "fact": "Tijdens het testen van een radarmagnetron in 1945 merkte Raytheon-ingenieur Percy Spencer dat een chocoladereep in zijn zak was gesmolten. Zijn nieuwsgierigheid naar dit effect leidde rechtstreeks tot de ontwikkeling van de eerste magnetronovens.",
+        "whyItMatters": "Een van de meest voorkomende keukenapparaten ter wereld bestaat puur omdat een ingenieur aandacht besteedde aan een vreemd ongeluk in plaats van het te negeren."
+      },
+      "es": {
+        "hook": "El microondas existe porque a un ingeniero se le derritió una chocolatina en el bolsillo.",
+        "fact": "Mientras probaba un magnetrón de radar en 1945, el ingeniero de Raytheon Percy Spencer notó que una barra de chocolate en su bolsillo se había derretido. Su curiosidad por el efecto lo llevó directamente al desarrollo de los primeros hornos microondas.",
+        "whyItMatters": "Uno de los electrodomésticos de cocina más comunes del mundo existe solo porque un ingeniero prestó atención a un accidente curioso en lugar de ignorarlo."
+      }
+    }
   },
   {
     "id": "food-175",
@@ -3507,7 +4269,21 @@
     "tags": [
       "pressure-cooker",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'autocuiseur a plus de 300 ans.",
+        "fact": "Le physicien français Denis Papin a inventé une version primitive appelée « digesteur à vapeur » en 1679, utilisant la pression de la vapeur emprisonnée pour élever le point d'ébullition de l'eau et cuire les aliments plus vite, le même principe que les autocuiseurs modernes utilisent aujourd'hui."
+      },
+      "nl": {
+        "hook": "De snelkookpan is al meer dan 300 jaar oud.",
+        "fact": "De Franse fysicus Denis Papin vond in 1679 een vroege versie uit, de 'stoomdigestor', die de druk van opgesloten stoom gebruikte om het kookpunt van water te verhogen en voedsel sneller te garen, hetzelfde principe dat moderne snelkookpannen vandaag nog gebruiken."
+      },
+      "es": {
+        "hook": "La olla a presión tiene más de 300 años.",
+        "fact": "El físico francés Denis Papin inventó una versión primitiva llamada 'digestor de vapor' en 1679, que usaba la presión del vapor atrapado para elevar el punto de ebullición del agua y cocinar los alimentos más rápido, el mismo principio que usan hoy las ollas a presión modernas."
+      }
+    }
   },
   {
     "id": "food-176",
@@ -3518,7 +4294,21 @@
       "canning",
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La conserve alimentaire a été inventée avant même que quiconque comprenne pourquoi elle fonctionnait.",
+        "fact": "Le confiseur français Nicolas Appert a mis au point une méthode consistant à sceller les aliments dans des bocaux en verre puis à les chauffer pour les conserver, remportant un prix du gouvernement de Napoléon pour avoir nourri ses armées sur le terrain. Cela s'est produit des décennies avant que la théorie des germes n'explique pourquoi ce procédé empêchait réellement les aliments de se gâter."
+      },
+      "nl": {
+        "hook": "Ingeblikt voedsel werd uitgevonden voordat iemand begreep waarom het werkte.",
+        "fact": "De Franse zoetwarenmaker Nicolas Appert ontwikkelde een methode om voedsel in glazen potten te verzegelen en te verhitten om het te bewaren, waarmee hij een prijs won van de regering van Napoleon voor het voeden van zijn legers in het veld. Dit gebeurde decennia voordat de kiemtheorie verklaarde waarom dit proces bederf daadwerkelijk voorkwam."
+      },
+      "es": {
+        "hook": "La comida enlatada se inventó antes de que nadie entendiera por qué funcionaba.",
+        "fact": "El confitero francés Nicolas Appert desarrolló un método para sellar alimentos en frascos de vidrio y calentarlos para conservarlos, ganando un premio del gobierno de Napoleón por alimentar a sus ejércitos en campaña. Esto ocurrió décadas antes de que la teoría de los gérmenes explicara por qué ese proceso realmente evitaba que los alimentos se echaran a perder."
+      }
+    }
   },
   {
     "id": "food-177",
@@ -3528,7 +4318,21 @@
     "tags": [
       "knife-skills",
       "culinary-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Julienne, brunoise et chiffonade ne sont que des noms français chics pour dire « couper plus petit ».",
+        "fact": "Le vocabulaire culinaire français a standardisé des coupes de couteau précises : la julienne donne de fines allumettes, la brunoise détaille ces allumettes en minuscules dés, et la chiffonade tranche les herbes ou légumes-feuilles en fins rubans."
+      },
+      "nl": {
+        "hook": "Julienne, brunoise en chiffonade zijn allemaal gewoon chique Franse namen voor 'dingen kleiner snijden'.",
+        "fact": "De Franse culinaire vaktaal standaardiseerde precieze messnedes: julienne levert dunne lucifers op, brunoise snijdt die lucifers verder in piepkleine blokjes, en chiffonade snijdt bladgroenten of kruiden in fijne linten."
+      },
+      "es": {
+        "hook": "Juliana, brunoise y chiffonade son solo nombres franceses elegantes para 'cortar las cosas más pequeñas'.",
+        "fact": "El vocabulario culinario francés estandarizó cortes de cuchillo precisos: la juliana produce finos bastoncillos, la brunoise corta esos bastoncillos en cubitos diminutos, y la chiffonade corta hierbas o verduras de hoja en finas tiras."
+      }
+    }
   },
   {
     "id": "food-178",
@@ -3538,7 +4342,21 @@
     "tags": [
       "maillard-reaction",
       "cooking-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le brunissement d'un steak saisi porte le nom du chimiste qui a découvert pourquoi il se produit.",
+        "fact": "La réaction de Maillard, nommée d'après le chimiste français Louis-Camille Maillard, décrit la réaction chimique entre acides aminés et sucres qui survient à haute température, produisant les saveurs complexes et la couleur brune des aliments saisis, rôtis ou cuits au four."
+      },
+      "nl": {
+        "hook": "De bruine korst op een gebakken steak is vernoemd naar de scheikundige die ontdekte waarom dit gebeurt.",
+        "fact": "De maillardreactie, vernoemd naar de Franse scheikundige Louis-Camille Maillard, beschrijft de chemische reactie tussen aminozuren en suikers die bij hoge hitte optreedt, en die de complexe smaken en bruine kleur van gebakken, geroosterd of gebakken voedsel veroorzaakt."
+      },
+      "es": {
+        "hook": "El dorado de un filete a la plancha lleva el nombre del químico que descubrió por qué ocurre.",
+        "fact": "La reacción de Maillard, llamada así por el químico francés Louis-Camille Maillard, describe la reacción química entre aminoácidos y azúcares que se produce a altas temperaturas, generando los sabores complejos y el color dorado de los alimentos sellados, asados u horneados."
+      }
+    }
   },
   {
     "id": "food-179",
@@ -3548,7 +4366,21 @@
     "tags": [
       "blanching",
       "cooking-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Plonger des légumes dans l'eau glacée juste après les avoir fait bouillir n'est pas qu'une question d'esthétique.",
+        "fact": "Le blanchiment consiste à cuire brièvement des légumes dans l'eau bouillante avant de les plonger dans l'eau glacée, arrêtant instantanément la cuisson. Cela fixe la couleur vive et la texture croquante tout en cuisant partiellement l'aliment."
+      },
+      "nl": {
+        "hook": "Groenten meteen na het koken in ijswater dompelen is niet alleen voor de show.",
+        "fact": "Bij blancheren worden groenten kort gekookt in kokend water voordat ze in ijswater worden geschrokt, waardoor het kookproces onmiddellijk stopt. Dit behoudt de heldere kleur en knapperige textuur, terwijl het voedsel toch gedeeltelijk gaar wordt."
+      },
+      "es": {
+        "hook": "Sumergir las verduras en agua helada justo después de hervirlas no es solo por estética.",
+        "fact": "El escaldado cuece brevemente las verduras en agua hirviendo antes de sumergirlas en agua helada, deteniendo la cocción al instante. Esto fija el color vivo y la textura crujiente mientras cocina el alimento solo parcialmente."
+      }
+    }
   },
   {
     "id": "food-180",
@@ -3558,7 +4390,21 @@
     "tags": [
       "flambe",
       "cooking-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Mettre volontairement une poêle en feu est une véritable technique de cuisine, pas un accident de cuisine.",
+        "fact": "Le flambage consiste à enflammer de l'alcool, souvent du brandy ou du rhum, ajouté dans une poêle chaude. La flamme brûle une grande partie de l'âpreté de l'alcool tout en intensifiant la saveur, et fait aussi office de spectacle en salle dans le service de restauration classique."
+      },
+      "nl": {
+        "hook": "Een pan met opzet in brand steken is een legitieme kooktechniek, geen keukenongeluk.",
+        "fact": "Bij flamberen wordt alcohol, vaak brandy of rum, aan een hete pan toegevoegd en aangestoken. De vlam brandt een groot deel van de scherpte van de alcohol weg en versterkt tegelijk de smaak, en dient ook als tafelspektakel bij klassieke restaurantbediening."
+      },
+      "es": {
+        "hook": "Prender fuego a una sartén a propósito es una técnica de cocina legítima, no un accidente de cocina.",
+        "fact": "El flambeado consiste en encender alcohol, a menudo brandy o ron, añadido a una sartén caliente. La llama quema gran parte de la aspereza del alcohol mientras intensifica el sabor, y también sirve de espectáculo junto a la mesa en el servicio de restaurante clásico."
+      }
+    }
   },
   {
     "id": "food-181",
@@ -3568,7 +4414,21 @@
     "tags": [
       "cast-iron",
       "cookware"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une poêle en fonte bien entretenue peut survivre à la personne qui l'a achetée.",
+        "fact": "Une fonte correctement culottée développe une couche d'huile polymérisée qui agit comme une surface antiadhésive naturelle. Avec un usage et un entretien réguliers, les poêles en fonte peuvent rester fonctionnelles pendant des générations, et les pièces anciennes sont souvent plus prisées que les neuves."
+      },
+      "nl": {
+        "hook": "Een goed onderhouden gietijzeren pan kan de persoon die hem kocht overleven.",
+        "fact": "Goed ingebrand gietijzer bouwt een laag gepolymeriseerde olie op die als natuurlijke antiaanbaklaag fungeert. Met regelmatig gebruik en onderhoud kunnen gietijzeren pannen generaties lang bruikbaar blijven, en oude exemplaren worden vaak hoger gewaardeerd dan nieuwe."
+      },
+      "es": {
+        "hook": "Una sartén de hierro fundido bien cuidada puede sobrevivir a la persona que la compró.",
+        "fact": "El hierro fundido correctamente curado desarrolla una capa de aceite polimerizado que actúa como superficie antiadherente natural. Con uso y cuidado regulares, las sartenes de hierro fundido pueden seguir funcionando durante generaciones, y las piezas antiguas suelen apreciarse más que las nuevas."
+      }
+    }
   },
   {
     "id": "food-182",
@@ -3578,7 +4438,21 @@
     "tags": [
       "non-stick",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le matériau à l'origine des poêles antiadhésives a été découvert par accident lors de recherches qui n'avaient rien à voir avec la cuisine.",
+        "fact": "Le chimiste Roy Plunkett est tombé par hasard sur le polytétrafluoroéthylène, plus tard commercialisé sous le nom de Teflon, en 1938, alors qu'il travaillait sur des gaz réfrigérants. Il a fallu attendre les années 1950 pour que l'ingénieur français Marc Grégoire applique ce revêtement glissant aux ustensiles de cuisine."
+      },
+      "nl": {
+        "hook": "Het materiaal achter antiaanbakpannen werd bij toeval ontdekt tijdens onderzoek dat niets met koken te maken had.",
+        "fact": "Scheikundige Roy Plunkett stuitte in 1938 per toeval op polytetrafluorethyleen, later op de markt gebracht als Teflon, terwijl hij aan koelgassen werkte. Het duurde tot de jaren vijftig voordat de Franse ingenieur Marc Grégoire de gladde coating op kookgerei toepaste."
+      },
+      "es": {
+        "hook": "El material detrás de las sartenes antiadherentes se descubrió por accidente durante una investigación que no tenía nada que ver con la cocina.",
+        "fact": "El químico Roy Plunkett se topó por casualidad con el politetrafluoroetileno, más tarde comercializado como Teflón, en 1938 mientras trabajaba con gases refrigerantes. Hubo que esperar hasta la década de 1950 para que el ingeniero francés Marc Grégoire aplicara el revestimiento antiadherente a los utensilios de cocina."
+      }
+    }
   },
   {
     "id": "food-183",
@@ -3588,7 +4462,21 @@
     "tags": [
       "salamander",
       "kitchen-equipment"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les cuisines professionnelles ont un gril nommé d'après un lézard.",
+        "fact": "La salamandre est un petit gril à chaleur descendante utilisé pour apporter une chaleur intense et directe par le dessus, afin de faire dorer, gratiner ou finir rapidement des plats, nommée d'après la créature mythique habitant le feu."
+      },
+      "nl": {
+        "hook": "Professionele keukens hebben een grill die vernoemd is naar een hagedis.",
+        "fact": "De salamander is een kleine bovengrill die intense, directe warmte van bovenaf levert om te bruinen, kaas te smelten of gerechten snel af te werken, vernoemd naar het mythische vuurwezen."
+      },
+      "es": {
+        "hook": "Las cocinas profesionales tienen un gratinador con nombre de lagarto.",
+        "fact": "La salamandra es un pequeño gratinador superior que aporta calor intenso y directo desde arriba para dorar, fundir queso o terminar platos rápidamente, llamada así por la mítica criatura que habita en el fuego."
+      }
+    }
   },
   {
     "id": "food-184",
@@ -3599,7 +4487,21 @@
       "escoffier",
       "sauces",
       "culinary-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un chef français du 19e siècle a pratiquement standardisé le vocabulaire des sauces que tout le monde culinaire utilise encore.",
+        "fact": "Auguste Escoffier a codifié les cinq sauces mères françaises, béchamel, velouté, espagnole, hollandaise et tomate, comme les éléments fondamentaux à partir desquels d'innombrables autres sauces sont dérivées."
+      },
+      "nl": {
+        "hook": "Eén negentiende-eeuwse Franse chef standaardiseerde vrijwel eigenhandig de sausterminologie die de hele culinaire wereld nog steeds gebruikt.",
+        "fact": "Auguste Escoffier codificeerde de vijf Franse moedersauzen, béchamel, velouté, espagnole, hollandaise en tomatensaus, als de fundamentele bouwstenen waaruit talloze andere sauzen worden afgeleid."
+      },
+      "es": {
+        "hook": "Un chef francés del siglo XIX prácticamente estandarizó el vocabulario de salsas que todo el mundo culinario sigue usando.",
+        "fact": "Auguste Escoffier codificó las cinco salsas madre francesas, bechamel, velouté, española, holandesa y de tomate, como los elementos fundamentales a partir de los cuales derivan innumerables otras salsas."
+      }
+    }
   },
   {
     "id": "food-185",
@@ -3609,7 +4511,21 @@
     "tags": [
       "immersion-blender",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mixeur plongeant a été inventé précisément pour rendre la préparation des soupes moins salissante.",
+        "fact": "L'ingénieur suisse Roger Perrinjaquet a développé le premier mixeur plongeant vers 1950, permettant aux cuisiniers de mixer soupes et sauces directement dans la casserole plutôt que de transvaser le liquide chaud dans un blender sur pied."
+      },
+      "nl": {
+        "hook": "De staafmixer is speciaal uitgevonden om soep maken minder rommelig te maken.",
+        "fact": "De Zwitserse ingenieur Roger Perrinjaquet ontwikkelde rond 1950 de eerste staafmixer, waardoor koks soepen en sauzen direct in de pan konden mixen in plaats van hete vloeistof over te gieten in een blender."
+      },
+      "es": {
+        "hook": "La batidora de mano se inventó específicamente para que hacer sopa fuera menos engorroso.",
+        "fact": "El ingeniero suizo Roger Perrinjaquet desarrolló la primera batidora de mano hacia 1950, permitiendo a los cocineros batir sopas y salsas directamente en la olla en lugar de trasvasar el líquido caliente a una batidora de vaso."
+      }
+    }
   },
   {
     "id": "food-186",
@@ -3619,7 +4535,21 @@
     "tags": [
       "food-processor",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le robot culinaire qui a transformé la cuisine familiale américaine a débuté comme une machine de restaurant français.",
+        "fact": "L'ingénieur Carl Sontheimer a adapté le Robot-Coupe commercial français en un appareil domestique plus petit, introduisant le Cuisinart dans les cuisines américaines dans les années 1970 et contribuant à populariser des techniques transformées, de style restaurant, à la maison."
+      },
+      "nl": {
+        "hook": "De keukenmachine die de Amerikaanse thuiskeuken veranderde, begon als een Franse restaurantmachine.",
+        "fact": "Ingenieur Carl Sontheimer paste de Franse commerciële Robot-Coupe aan tot een kleiner huishoudapparaat en introduceerde de Cuisinart in de jaren zeventig in Amerikaanse keukens, wat hielp om bewerkte, restaurantachtige technieken thuis populair te maken."
+      },
+      "es": {
+        "hook": "El robot de cocina que transformó la cocina doméstica estadounidense empezó como una máquina de restaurante francesa.",
+        "fact": "El ingeniero Carl Sontheimer adaptó el Robot-Coupe comercial francés a un electrodoméstico más pequeño, introduciendo el Cuisinart en las cocinas estadounidenses en la década de 1970 y ayudando a popularizar en casa técnicas procesadas al estilo restaurante."
+      }
+    }
   },
   {
     "id": "food-187",
@@ -3629,7 +4559,21 @@
     "tags": [
       "sourdough",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains levains utilisés par les boulangers aujourd'hui auraient plus d'un siècle.",
+        "fact": "Un levain est une culture vivante de levures sauvages et de bactéries entretenue par des nourrissages réguliers. Comme il peut théoriquement être maintenu en vie indéfiniment, certaines boulangeries et familles se transmettent des levains qu'elles affirment nourrir en continu depuis des générations."
+      },
+      "nl": {
+        "hook": "Sommige zuurdesemstarters die bakkers vandaag gebruiken, zouden al meer dan honderd jaar oud zijn.",
+        "fact": "Een zuurdesemstarter is een levende cultuur van wilde gist en bacteriën die in stand wordt gehouden door regelmatig te voeden. Omdat hij theoretisch oneindig lang in leven kan worden gehouden, geven sommige bakkerijen en families starters door waarvan ze beweren dat ze al generaties lang continu worden gevoed."
+      },
+      "es": {
+        "hook": "Algunas masas madre que usan hoy los panaderos se dice que tienen más de un siglo.",
+        "fact": "Una masa madre es un cultivo vivo de levaduras salvajes y bacterias que se mantiene mediante alimentación regular. Como en teoría puede mantenerse viva indefinidamente, algunas panaderías y familias transmiten masas madre que aseguran haber alimentado continuamente durante generaciones."
+      }
+    }
   },
   {
     "id": "food-188",
@@ -3639,7 +4583,21 @@
     "tags": [
       "tandoor",
       "cooking-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le four tandoor peut atteindre des températures assez élevées pour cuire du pain contre ses parois intérieures en quelques secondes.",
+        "fact": "Le tandoor est un four cylindrique en argile qui atteint des températures extrêmement élevées, traditionnellement alimenté au bois ou au charbon. Il est utilisé en Asie du Sud et centrale depuis des milliers d'années pour cuire du pain et griller rapidement des brochettes de viande."
+      },
+      "nl": {
+        "hook": "De tandoor-oven kan temperaturen bereiken die heet genoeg zijn om brood in enkele seconden tegen de binnenwanden te bakken.",
+        "fact": "Een tandoor is een cilindrische kleioven die extreem hoge temperaturen bereikt, traditioneel gestookt met hout of houtskool. Hij wordt al duizenden jaren in Zuid- en Centraal-Azië gebruikt om brood te bakken en gespietst vlees snel te garen."
+      },
+      "es": {
+        "hook": "El horno tandoor puede alcanzar temperaturas lo bastante altas como para cocer pan contra sus paredes interiores en segundos.",
+        "fact": "El tandoor es un horno cilíndrico de arcilla que alcanza temperaturas extremadamente altas, tradicionalmente alimentado con leña o carbón. Se ha usado en el sur y centro de Asia durante miles de años para hornear pan y cocinar rápidamente carnes en brocheta."
+      }
+    }
   },
   {
     "id": "food-189",
@@ -3649,7 +4607,21 @@
     "tags": [
       "wok",
       "cooking-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La forme incurvée du wok n'est pas qu'une question de tradition : elle est conçue pour un style de cuisson précis.",
+        "fact": "Le fond arrondi concentre une chaleur intense au centre tandis que les parois inclinées offrent des zones plus fraîches, permettant aux cuisiniers de sauter rapidement les ingrédients à haute température avec peu d'huile tout en contrôlant la cuisson."
+      },
+      "nl": {
+        "hook": "De gebogen vorm van een wok is niet alleen traditie, hij is ontworpen voor een specifieke manier van koken.",
+        "fact": "De ronde bodem concentreert intense hitte in het midden, terwijl de aflopende zijkanten koelere zones bieden, waardoor koks ingrediënten snel op hoog vuur kunnen roerbakken met minimale olie, terwijl ze toch de gaarheid onder controle houden."
+      },
+      "es": {
+        "hook": "La forma curvada del wok no es solo tradición: está diseñada para un estilo de cocción específico.",
+        "fact": "El fondo redondeado concentra el calor intenso en el centro, mientras que los lados inclinados ofrecen zonas más frías, lo que permite a los cocineros saltear ingredientes rápidamente a fuego alto con poco aceite mientras controlan el punto de cocción."
+      }
+    }
   },
   {
     "id": "food-190",
@@ -3659,7 +4631,21 @@
     "tags": [
       "multi-cooker",
       "kitchen-appliance"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un appareil électrique fait aujourd'hui le travail de trois ustensiles de cuisine distincts d'une génération précédente.",
+        "fact": "Les multicuiseurs combinent des fonctions comme la cuisson sous pression, la cuisson lente, la cuisson du riz et la cuisson sautée en un seul appareil électrique, simplifiant des tâches qui nécessitaient traditionnellement plusieurs casseroles et techniques différentes sur la cuisinière."
+      },
+      "nl": {
+        "hook": "Eén elektrisch apparaat doet nu het werk van drie aparte stukken keukengerei van een generatie geleden.",
+        "fact": "Multicookers combineren functies zoals druk koken, langzaam koken, rijst koken en sauteren in één elektrisch apparaat, wat taken vereenvoudigt die traditioneel meerdere potten en fornuistechnieken vereisten."
+      },
+      "es": {
+        "hook": "Un electrodoméstico hace hoy el trabajo de tres utensilios de cocina distintos de hace una generación.",
+        "fact": "Las ollas multifunción combinan funciones como cocción a presión, cocción lenta, cocción de arroz y salteado en un solo electrodoméstico, simplificando tareas que tradicionalmente requerían varias ollas y técnicas distintas en la cocina."
+      }
+    }
   },
   {
     "id": "food-191",
@@ -3669,7 +4655,21 @@
     "tags": [
       "molecular-gastronomy",
       "spherification"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Transformer un liquide en petites sphères comestibles est une véritable technique de cuisine, pas un effet spécial.",
+        "fact": "La sphérification, une signature de la cuisine moléculaire, utilise de l'alginate de sodium et du chlorure de calcium pour former une fine membrane de gel autour d'un liquide, créant des perles façon caviar ou des sphères plus grandes qui éclatent en bouche."
+      },
+      "nl": {
+        "hook": "Vloeistof omtoveren tot kleine eetbare bolletjes is een echte kooktechniek, geen speciaal effect.",
+        "fact": "Sferificatie, een kenmerk van moleculaire gastronomie, gebruikt natriumalginaat en calciumchloride om een dun gelmembraan rond een vloeistof te vormen, wat kaviaarachtige balletjes of grotere bolletjes oplevert die bij het eten openbarsten van smaak."
+      },
+      "es": {
+        "hook": "Convertir un líquido en pequeñas esferas comestibles es una técnica de cocina real, no un efecto especial.",
+        "fact": "La esferificación, un sello distintivo de la gastronomía molecular, usa alginato de sodio y cloruro de calcio para formar una fina membrana de gel alrededor de un líquido, creando perlas tipo caviar o esferas más grandes que estallan de sabor al comerlas."
+      }
+    }
   },
   {
     "id": "food-192",
@@ -3679,7 +4679,21 @@
     "tags": [
       "toaster",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le grille-pain automatique a à peine un siècle.",
+        "fact": "Charles Strite a breveté le grille-pain automatique éjectable en 1919, exaspéré par les toasts brûlés de cafétéria, en ajoutant un mécanisme à ressort et une minuterie qui éjectait le pain une fois la cuisson désirée atteinte."
+      },
+      "nl": {
+        "hook": "De pop-uptoaster is amper honderd jaar oud.",
+        "fact": "Charles Strite patenteerde de automatische pop-uptoaster in 1919, gefrustreerd door verbrande toast in de cafetaria, en voegde een veermechanisme en timer toe die het brood uitwierpen zodra de gewenste bruining was bereikt."
+      },
+      "es": {
+        "hook": "La tostadora automática apenas tiene un siglo.",
+        "fact": "Charles Strite patentó la tostadora automática en 1919, tras hartarse de las tostadas quemadas de la cafetería, añadiendo un mecanismo de resorte y un temporizador que expulsaba el pan al alcanzar el punto deseado."
+      }
+    }
   },
   {
     "id": "food-193",
@@ -3690,7 +4704,24 @@
     "tags": [
       "dishwasher",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le lave-vaisselle a été inventé par une femme lasse de voir sa belle porcelaine ébréchée par des domestiques peu soigneux.",
+        "fact": "Josephine Cochrane, une riche mondaine, a conçu et breveté un lave-vaisselle mécanique en 1886 après avoir remarqué que sa porcelaine lavée à la main était sans cesse abîmée. Son appareil utilisait la pression de l'eau plutôt que le frottage pour nettoyer la vaisselle.",
+        "whyItMatters": "L'invention de Cochrane est finalement devenue un équipement courant dans la plupart des cuisines modernes, transformant une corvée quotidienne fastidieuse, bien qu'il ait fallu des décennies avant qu'elle soit commercialisée pour un usage domestique plutôt que pour les hôtels et restaurants."
+      },
+      "nl": {
+        "hook": "De vaatwasser is uitgevonden door een vrouw die er genoeg van had dat haar fijne porselein werd beschadigd door onzorgvuldig personeel.",
+        "fact": "Josephine Cochrane, een welgestelde society-dame, ontwierp en patenteerde in 1886 een mechanische vaatwasser nadat ze merkte dat haar met de hand gewassen porselein steeds beschadigd raakte. Haar ontwerp gebruikte waterdruk in plaats van schrobben om de vaat te reinigen.",
+        "whyItMatters": "Cochranes uitvinding werd uiteindelijk een vast onderdeel van de meeste moderne keukens en veranderde een vervelende dagelijkse klus, al duurde het decennia voordat het werd vermarkt voor thuisgebruik in plaats van voor hotels en restaurants."
+      },
+      "es": {
+        "hook": "El lavavajillas fue inventado por una mujer harta de que la servidumbre descuidada le astillara la porcelana fina.",
+        "fact": "Josephine Cochrane, una adinerada dama de sociedad, diseñó y patentó un lavavajillas mecánico en 1886 tras notar que su porcelana lavada a mano se dañaba constantemente. Su diseño usaba la presión del agua en lugar del fregado para limpiar los platos.",
+        "whyItMatters": "El invento de Cochrane acabó convirtiéndose en un elemento habitual en la mayoría de las cocinas modernas, transformando una tediosa tarea diaria, aunque tardó décadas en comercializarse para uso doméstico en lugar de para hoteles y restaurantes."
+      }
+    }
   },
   {
     "id": "food-194",
@@ -3701,7 +4732,21 @@
       "can-opener",
       "invention",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les aliments en conserve ont existé pendant des décennies avant qu'il n'existe un moyen facile d'ouvrir la boîte.",
+        "fact": "Les premières conserves étaient accompagnées d'instructions demandant de les ouvrir au marteau et au burin, car l'ouvre-boîte dédié n'est devenu largement disponible qu'au milieu du 19e siècle, soit environ 50 ans après l'invention de la conserve elle-même."
+      },
+      "nl": {
+        "hook": "Blikvoedsel bestond al tientallen jaren voordat er een gemakkelijke manier was om het blik te openen.",
+        "fact": "Vroege conserven kwamen met instructies om ze met een hamer en beitel te openen, want de speciale blikopener werd pas halverwege de negentiende eeuw algemeen verkrijgbaar, ongeveer 50 jaar nadat inblikken zelf was uitgevonden."
+      },
+      "es": {
+        "hook": "La comida enlatada existió durante décadas antes de que hubiera una forma sencilla de abrir la lata.",
+        "fact": "Las primeras conservas venían con instrucciones para abrirlas con un martillo y un cincel, ya que el abrelatas específico no estuvo ampliamente disponible hasta mediados del siglo XIX, unos 50 años después de que se inventara el propio enlatado."
+      }
+    }
   },
   {
     "id": "food-195",
@@ -3711,7 +4756,21 @@
     "tags": [
       "fermentation",
       "food-preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Bien avant l'invention du réfrigérateur, des cultures du monde entier conservaient déjà les aliments par une pourriture contrôlée.",
+        "fact": "Les techniques de fermentation comme le kimchi en Corée, la choucroute en Europe centrale et les légumes marinés dans de nombreuses cuisines s'appuyaient sur des bactéries bénéfiques pour conserver les aliments et développer leur saveur, des milliers d'années avant la réfrigération mécanique."
+      },
+      "nl": {
+        "hook": "Lang voordat er koelkasten bestonden, bewaarden culturen wereldwijd al voedsel via gecontroleerd rotten.",
+        "fact": "Fermentatietechnieken zoals kimchi in Korea, zuurkool in Centraal-Europa en gepekelde groenten in vele keukens vertrouwden op gunstige bacteriën om voedsel te bewaren en smaak te ontwikkelen, duizenden jaren vóór mechanische koeling."
+      },
+      "es": {
+        "hook": "Mucho antes de que existieran los frigoríficos, culturas de todo el mundo ya conservaban alimentos mediante una putrefacción controlada.",
+        "fact": "Técnicas de fermentación como el kimchi en Corea, el chucrut en Europa Central y las verduras encurtidas en muchas cocinas dependían de bacterias beneficiosas para conservar los alimentos y desarrollar sabor, miles de años antes de la refrigeración mecánica."
+      }
+    }
   },
   {
     "id": "food-196",
@@ -3721,7 +4780,21 @@
     "tags": [
       "smoking",
       "food-preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le fumage de la viande fait double emploi, à la fois comme méthode de cuisson et comme conservateur.",
+        "fact": "Le fumage déshydrate les aliments tout en y déposant des composés issus de la fumée aux propriétés antimicrobiennes, permettant historiquement de conserver viande et poisson en toute sécurité pendant de longues périodes avant l'existence de la réfrigération."
+      },
+      "nl": {
+        "hook": "Vlees roken doet dubbel dienst, als zowel kookmethode als conserveringstechniek.",
+        "fact": "Roken onttrekt vocht aan voedsel terwijl het verbindingen uit de rook afzet met antimicrobiële eigenschappen, waardoor vlees en vis historisch gezien lange tijd veilig konden worden bewaard voordat koeling bestond."
+      },
+      "es": {
+        "hook": "Ahumar carne cumple una doble función, como método de cocción y como conservante.",
+        "fact": "El ahumado deshidrata el alimento mientras deposita compuestos del humo con propiedades antimicrobianas, lo que históricamente permitía almacenar carne y pescado de forma segura durante largos periodos antes de que existiera la refrigeración."
+      }
+    }
   },
   {
     "id": "food-197",
@@ -3731,7 +4804,21 @@
     "tags": [
       "deep-frying",
       "cooking-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les cuisiniers jugeaient la température de friture avec des cubes de pain bien avant que les thermomètres ne soient courants en cuisine.",
+        "fact": "Avant l'apparition de thermomètres de cuisine fiables, les cuisiniers plongeaient un cube de pain dans l'huile chaude et chronométraient sa dorure pour estimer si l'huile avait atteint la bonne température de friture."
+      },
+      "nl": {
+        "hook": "Koks beoordeelden de frituurtemperatuur met broodblokjes lang voordat thermometers gangbaar waren in de keuken.",
+        "fact": "Voordat betrouwbare keukenthermometers bestonden, lieten koks een blokje brood in de hete olie vallen en klokten hoe snel het bruin werd om in te schatten of de olie de juiste frituurtemperatuur had bereikt."
+      },
+      "es": {
+        "hook": "Los cocineros calculaban la temperatura de fritura con cubitos de pan mucho antes de que los termómetros fueran habituales en la cocina.",
+        "fact": "Antes de que existieran termómetros de cocina fiables, los cocineros dejaban caer un cubito de pan en el aceite caliente y cronometraban lo rápido que se doraba para calcular si el aceite había alcanzado la temperatura adecuada para freír."
+      }
+    }
   },
   {
     "id": "food-198",
@@ -3741,7 +4828,21 @@
     "tags": [
       "whisk",
       "kitchen-tool"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La forme en ballon d'un fouet métallique existe pour une raison précise : emprisonner l'air.",
+        "fact": "Les fils arrondis et bouclés d'un fouet ballon sont conçus pour incorporer l'air aussi efficacement que possible dans des ingrédients comme les blancs d'œufs ou la crème, ce qui explique pourquoi c'est la forme privilégiée pour fouetter plutôt que pour simplement mélanger."
+      },
+      "nl": {
+        "hook": "De ballonvorm van een garde bestaat om één specifieke reden: lucht vasthouden.",
+        "fact": "De ronde, gebogen draden van een ballongarde zijn ontworpen om zo efficiënt mogelijk lucht door ingrediënten zoals eiwitten of room te kloppen, wat verklaart waarom dit de voorkeursvorm is voor kloppen in plaats van roeren."
+      },
+      "es": {
+        "hook": "La forma de globo de un batidor de varillas existe por una razón específica: atrapar aire.",
+        "fact": "Los alambres redondeados y curvados de un batidor de globo están diseñados para incorporar aire a ingredientes como claras de huevo o nata de la forma más eficiente posible, motivo por el cual es la forma preferida para batir en lugar de simplemente remover."
+      }
+    }
   },
   {
     "id": "food-199",
@@ -3751,7 +4852,21 @@
     "tags": [
       "pizza-oven",
       "cooking-technique"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un vrai four à pizza au feu de bois peut cuire une pizza en environ 90 secondes.",
+        "fact": "Les fours à pizza napolitains traditionnels atteignent des températures d'environ 430 à 480 °C, suffisamment chaudes pour carboniser et cuire une pâte fine en moins de deux minutes tout en gardant les garnitures fraîches."
+      },
+      "nl": {
+        "hook": "Een goede houtgestookte pizzaoven kan een pizza in ongeveer 90 seconden garen.",
+        "fact": "Traditionele Napolitaanse pizzaovens bereiken temperaturen van ongeveer 430 tot 480 °C, heet genoeg om een dunne pizzabodem in minder dan twee minuten te schroeien en te bakken terwijl de toppings vers blijven."
+      },
+      "es": {
+        "hook": "Un buen horno de pizza de leña puede cocinar una pizza en unos 90 segundos.",
+        "fact": "Los hornos de pizza napolitanos tradicionales alcanzan temperaturas de entre 430 y 480 °C, lo bastante calientes para chamuscar y cocinar una masa fina en menos de dos minutos mientras los ingredientes se mantienen frescos."
+      }
+    }
   },
   {
     "id": "food-200",
@@ -3761,6 +4876,20 @@
     "tags": [
       "coffee",
       "oddity"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le café le plus cher du monde est d'abord passé par le système digestif d'une civette.",
+        "fact": "Le kopi luwak est fabriqué à partir de cerises de café mangées puis excrétées par des civettes palmistes asiatiques. Les enzymes présentes dans l'intestin de l'animal modifieraient la saveur des grains, et le processus de collecte, très laborieux, en fait l'un des cafés les plus chers vendus."
+      },
+      "nl": {
+        "hook": "De duurste koffie ter wereld heeft eerst het spijsverteringsstelsel van een civetkat doorlopen.",
+        "fact": "Kopi luwak wordt gemaakt van koffiebessen die zijn gegeten en uitgescheiden door de Aziatische civetkat. Enzymen in de darmen van het dier zouden de smaak van de bonen veranderen, en het arbeidsintensieve verzamelproces maakt het een van de duurste koffiesoorten die worden verkocht."
+      },
+      "es": {
+        "hook": "El café más caro del mundo primero ha pasado por el sistema digestivo de una civeta.",
+        "fact": "El kopi luwak se elabora con cerezas de café comidas y excretadas por civetas de palma asiáticas. Se dice que las enzimas del intestino del animal alteran el sabor de los granos, y el laborioso proceso de recolección lo convierte en uno de los cafés más caros del mercado."
+      }
+    }
   }
 ]
