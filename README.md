@@ -87,6 +87,9 @@ Defined in `src/lib/types.ts`:
 - **`SavedFact`** — a user's hearted facts.
 - **`DomainAffinity`** — per-user, per-domain rolling engagement signal
   (average dwell time + reaction score) used to weight the feed.
+- **`TagAffinity`** — the same signal at tag granularity, for the
+  finer-grained second weight described under "How the feed picks the
+  next card". Both share the `EngagementSignal` scoring shape.
 - **`UserStats`** — streak counters and total facts learned.
 
 Supabase tables mirror these 1:1 — see `supabase/schema.sql` for the exact
@@ -177,8 +180,21 @@ written:
    from `computeDomainWeight` in `src/lib/engagement.ts` (neutral by
    default, pulled up by longer dwell time and "more like this", pulled
    down by fast skips and "less like this"), then the card is a
-   weighted-random domain pick followed by a random _unseen_ fact
-   within it.
+   weighted-random domain pick followed by a weighted-random _unseen_
+   fact within it.
+
+That second weight is **tag** affinity, and it applies to branch 3 only —
+the fallback and resurface branches have their own ordering rules that
+tag weighting would undermine. Every fact already carried `tags[]`
+(`science`, `history`, …) that nothing read; `src/lib/api/tagAffinity.ts`
+now records the same dwell/reaction signal per tag that domains already
+got, and `factTagWeight` in `pickNextFact.ts` averages a fact's tag
+weights into its pick probability. It reuses `computeDomainWeight` — the
+scoring shape is identical, so `EngagementSignal` was widened rather than
+duplicated. The effect is a finer grain than domains alone: someone who
+likes space facts but skips the chemistry ones inside Science gets more
+of what they actually stayed on. A fact with no tags weighs 1 (neutral),
+so untagged content is never penalised.
 
 This relies on two separate timestamps per seen fact
 (`src/lib/api/seenFacts.ts`, `supabase/schema.sql`): `first_seen_at` is
@@ -187,6 +203,33 @@ set once and never overwritten (it gates resurface eligibility),
 ordering). A one-time "you've seen everything in your topics" notice
 (`ExhaustionNotice.tsx`) shows the first time branch 1 kicks in, tracked
 via `user_stats.pool_exhausted_notice_shown` so it never shows twice.
+
+## Reading offline
+
+The app is already installable (`vite-plugin-pwa` precaches the shell),
+but a precached shell with no data is just a spinner. `fetchFactsByDomains`
+in `src/lib/api/facts.ts` is cache-aside: on a successful fetch it writes
+a bounded buffer to IndexedDB, and when the network fails it reads that
+buffer back instead of erroring.
+
+- **`src/lib/offlineCache.ts`** is a ~70-line hand-rolled promise wrapper
+  over IndexedDB — no dependency, because the whole surface is get and
+  set. Every path degrades to "no cache" rather than throwing: private
+  browsing, blocked storage, and quota errors must not break the feed.
+- **The buffer is 200 facts, shuffled, not the first 200.** The feed
+  picks randomly, so a positional slice would make every offline session
+  serve the same corner of the pool. 200 is enough for a long commute
+  without writing megabytes to every device on every fetch.
+- **The key is `facts:<sorted domains>:<locale>`.** Sorting matters —
+  otherwise the same domain set in a different order would miss its own
+  cache. Locale is in the key because translated text is baked into the
+  cached rows.
+- **An empty cache re-throws.** Returning `[]` would render the feed's
+  "no facts in your topics" empty state, which is a lie; re-throwing lets
+  the real error state show.
+
+`fetchFactsByIds` (used by saved facts and `/f/:id`) is deliberately
+*not* cached — it's a lookup by explicit id, not a browsing buffer.
 
 ## Sharing a fact
 
@@ -206,14 +249,47 @@ opening up the `facts` table's RLS policy to the `anon` role too (see
 `supabase/schema.sql`); nothing else changed, since `facts` content was
 already meant to be non-sensitive, publicly-shareable trivia.
 
-**Not built yet:** rich link previews (the image WhatsApp/iMessage/Slack/
-Twitter show when you paste the raw `/f/:id` link, before anyone clicks
-it) need per-URL Open Graph meta tags served to crawlers that don't run
-JavaScript — which means a server or edge-function step, and the specific
-approach (e.g. Vercel's `@vercel/og`, a Netlify/Cloudflare edge function,
-or a Supabase Edge Function) depends on wherever this ends up hosted.
-Worth revisiting once that's decided; the in-app "share image directly"
-flow above doesn't need it and works today.
+### Link previews
+
+Pasting a raw `/f/:id` link into WhatsApp/iMessage/Slack/Discord/X used to
+show a bare URL: those crawlers don't run JavaScript, and this is a
+client-rendered SPA whose static `index.html` carries only generic meta
+tags. `api/fact-page.ts` fixes that. `vercel.json` rewrites `/f/:factId`
+to it; it fetches the real built `index.html` (so the hashed asset
+references stay correct), looks the fact up through Supabase's REST API
+with the public anon key, and injects per-fact `og:` / `twitter:` tags
+plus a fact-specific `<title>`. `?lang=` is honoured, falling back to the
+English original when a translation is missing — the same rule the app
+applies. Unknown ids degrade to the generic shell rather than erroring.
+Human visitors get the untouched SPA; the extra tags are inert for them.
+
+Two things are worth knowing before touching it:
+
+- **It runs on the Node runtime, not edge.** Vercel's edge bundler
+  rejected the function with "referencing unsupported modules: @vercel"
+  even when it imported nothing at all. Node has no such allowlist, and
+  the latency difference on an edge-cached call is immaterial.
+- **The handler takes `(req, res)`, not a `Request`.** Vercel's Node
+  runtime hands over an `IncomingMessage`/`ServerResponse` pair; assuming
+  the Web signature fails with `request.headers.get is not a function`.
+
+Because `api/` lives outside `src/`, Vercel type-checks it with the
+**root** `tsconfig.json` — which is why that file carries
+`compilerOptions` of its own — and `tsconfig.edge.json` (referenced from
+the root solution, so `npm run build`'s `tsc -b` picks it up) covers it
+locally, so deployed code outside `src/` isn't left unchecked.
+
+**Follow-up worth doing:** `og:image` currently points at a static
+branded card (`resources/og-default.svg` → `public/og-default.png`, built
+by `npm run generate:icons`), so every fact previews with the same
+picture. A per-fact generated image was attempted with `@vercel/og` and
+abandoned — it built only after several workarounds, then failed at
+runtime with "Failed to load the ES module". Doing it properly means
+rendering the image outside the request path (e.g. generating a PNG per
+fact at seed time and uploading it to Supabase Storage, then pointing
+`og:image` at that URL), which also removes the per-request cost. The
+fact's own words already reach previews via `og:title`/`og:description`,
+which is the bulk of the value.
 
 ## Content pipeline (future)
 
