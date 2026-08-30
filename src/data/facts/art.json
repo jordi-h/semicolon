@@ -3941,7 +3941,21 @@
     "tags": [
       "typography",
       "logo-design"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le logo FedEx cache une flèche que presque personne ne remarque.",
+        "fact": "Le designer Lindon Leader a créé, dans l'espace négatif entre le « E » et le « X » du logo FedEx, une flèche pointant vers l'avant, symbole de vitesse et de précision, lors de sa refonte de 1994."
+      },
+      "nl": {
+        "hook": "Het FedEx-logo verbergt een pijl die bijna niemand opmerkt.",
+        "fact": "Ontwerper Lindon Leader creëerde in de negatieve ruimte tussen de 'E' en de 'X' van het FedEx-logo een naar voren wijzende pijl, als symbool voor snelheid en precisie, tijdens zijn redesign van 1994."
+      },
+      "es": {
+        "hook": "El logo de FedEx esconde una flecha que casi nadie nota.",
+        "fact": "El diseñador Lindon Leader creó, en el espacio negativo entre la 'E' y la 'X' del logotipo de FedEx, una flecha apuntando hacia adelante que simboliza velocidad y precisión, en su rediseño de 1994."
+      }
+    }
   },
   {
     "id": "art-162",
@@ -3951,7 +3965,21 @@
     "tags": [
       "typography",
       "times-new-roman"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une police de journal ultra-répandue est née d'un coup de colère.",
+        "fact": "Le Times de Londres a commandé Times New Roman après qu'une critique de 1929 a accusé le journal d'une typographie médiocre. Stanley Morison a dirigé sa conception, et la police a fait ses débuts dans le journal en 1932."
+      },
+      "nl": {
+        "hook": "Een veelgebruikt krantenlettertype ontstond uit pure frustratie.",
+        "fact": "Times New Roman werd besteld door The Times of London nadat een kritiek uit 1929 de krant slechte typografie verweet. Stanley Morison leidde het ontwerp, en het lettertype debuteerde in de krant in 1932."
+      },
+      "es": {
+        "hook": "Una tipografía de periódico muy usada nació de la frustración.",
+        "fact": "The Times de Londres encargó Times New Roman después de que una crítica de 1929 acusara al periódico de tener una tipografía deficiente. Stanley Morison dirigió su diseño, y debutó en el periódico en 1932."
+      }
+    }
   },
   {
     "id": "art-163",
@@ -3961,7 +3989,21 @@
     "tags": [
       "typography",
       "garamond"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une police vieille de 500 ans reste l'une des plus utilisées de l'édition.",
+        "fact": "Le Garamond, nommé d'après le typographe français du XVIe siècle Claude Garamond, reste apprécié pour sa lisibilité et ses proportions élégantes, et des variantes en sont encore intégrées aux traitements de texte modernes."
+      },
+      "nl": {
+        "hook": "Een 500 jaar oud lettertype behoort nog steeds tot de meest gebruikte in de uitgeverswereld.",
+        "fact": "Garamond, vernoemd naar de 16e-eeuwse Franse typograaf Claude Garamond, blijft populair om zijn leesbaarheid en elegante verhoudingen, en varianten ervan worden nog steeds standaard meegeleverd met moderne tekstverwerkers."
+      },
+      "es": {
+        "hook": "Una tipografía de 500 años sigue siendo una de las más usadas en la edición.",
+        "fact": "Garamond, llamada así por el diseñador tipográfico francés del siglo XVI Claude Garamond, sigue siendo popular por su legibilidad y proporciones elegantes, y variantes suyas todavía vienen incluidas en los procesadores de texto modernos."
+      }
+    }
   },
   {
     "id": "art-164",
@@ -3971,7 +4013,21 @@
     "tags": [
       "typography",
       "caslon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les imprimeurs avaient un dicton : dans le doute, utilisez cette police.",
+        "fact": "« Dans le doute, utilisez le Caslon » est devenu un adage courant chez les imprimeurs, car cette police anglaise du XVIIIe siècle créée par William Caslon était considérée comme un choix fiable et polyvalent par défaut. Elle a même servi à imprimer la Déclaration d'indépendance des États-Unis."
+      },
+      "nl": {
+        "hook": "Drukkers hadden een gezegde: bij twijfel, gebruik dit lettertype.",
+        "fact": "'Bij twijfel, gebruik Caslon' werd een veelgehoord gezegde onder drukkers, omdat het 18e-eeuwse Engelse lettertype van William Caslon werd gezien als een betrouwbare, veelzijdige standaardkeuze. Het werd zelfs gebruikt om de Amerikaanse Onafhankelijkheidsverklaring te drukken."
+      },
+      "es": {
+        "hook": "Los impresores tenían un dicho: en la duda, usa esta tipografía.",
+        "fact": "'En la duda, usa Caslon' se convirtió en un dicho habitual entre los impresores, porque la tipografía inglesa del siglo XVIII de William Caslon se consideraba una opción fiable y versátil por defecto. Incluso se usó para imprimir la Declaración de Independencia de Estados Unidos."
+      }
+    }
   },
   {
     "id": "art-165",
@@ -3981,7 +4037,21 @@
     "tags": [
       "typography",
       "gill-sans"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une police a façonné l'image de la BBC et de Penguin Books pendant des décennies.",
+        "fact": "Le Gill Sans d'Eric Gill, créé en 1928, s'est étroitement associé à l'identité institutionnelle britannique, largement utilisé par la BBC et comme police standard des couvertures de poche Penguin pendant des années."
+      },
+      "nl": {
+        "hook": "Eén lettertype bepaalde tientallen jaren lang het uiterlijk van de BBC en Penguin Books.",
+        "fact": "Eric Gills Gill Sans uit 1928 raakte nauw verbonden met de Britse institutionele identiteit, veelvuldig gebruikt door de BBC en jarenlang als standaardlettertype op de covers van Penguin-paperbacks."
+      },
+      "es": {
+        "hook": "Una tipografía definió el aspecto de la BBC y Penguin Books durante décadas.",
+        "fact": "Gill Sans, creada por Eric Gill en 1928, quedó estrechamente asociada con la identidad institucional británica, usada ampliamente por la BBC y como tipografía estándar en las portadas de bolsillo de Penguin durante años."
+      }
+    }
   },
   {
     "id": "art-166",
@@ -3991,7 +4061,21 @@
     "tags": [
       "typography",
       "logo-design"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le logo IBM a reçu ses rayures pour paraître plus rapide et plus moderne.",
+        "fact": "Le designer Paul Rand a créé le logo massif d'IBM en 1956, puis a introduit en 1972 la version rayée à huit barres, censée évoquer la vitesse, le dynamisme et les lignes de balayage des premiers téléviseurs."
+      },
+      "nl": {
+        "hook": "Het IBM-logo kreeg strepen om sneller en moderner te ogen.",
+        "fact": "Ontwerper Paul Rand creëerde in 1956 het blokvormige lettermerk-logo van IBM, en introduceerde in 1972 de versie met acht strepen, bedoeld om snelheid, dynamiek en de scanlijnen van vroege televisies op te roepen."
+      },
+      "es": {
+        "hook": "El logo de IBM ganó sus rayas para parecer más rápido y moderno.",
+        "fact": "El diseñador Paul Rand creó el logotipo en bloque de IBM en 1956, y en 1972 introdujo la versión de ocho barras a rayas, pensada para evocar velocidad, dinamismo y las líneas de barrido de los primeros televisores."
+      }
+    }
   },
   {
     "id": "art-167",
@@ -4001,7 +4085,21 @@
     "tags": [
       "typography",
       "nasa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La NASA a brièvement abandonné son logo classique pour un sobre logotype rouge.",
+        "fact": "Entre 1975 et 1992, la NASA a utilisé un logo typographique rouge minimaliste surnommé « le ver », remplaçant l'ancien insigne circulaire « meatball ». Le logo du ver a ensuite été réutilisé pour certaines missions à partir de 2020."
+      },
+      "nl": {
+        "hook": "NASA verruilde zijn klassieke logo tijdelijk voor een strak rood woordmerk.",
+        "fact": "Tussen 1975 en 1992 gebruikte NASA een minimalistisch rood typografisch logo met de bijnaam 'the worm', ter vervanging van het oudere ronde 'meatball'-insigne. Het worm-logo werd later, vanaf 2020, weer ingezet voor bepaalde missies."
+      },
+      "es": {
+        "hook": "La NASA cambió brevemente su logo clásico por un elegante logotipo rojo.",
+        "fact": "Entre 1975 y 1992, la NASA usó un logotipo tipográfico rojo minimalista apodado 'the worm' ('el gusano'), en sustitución del antiguo emblema circular 'meatball'. El logo del gusano se recuperó más tarde para ciertas misiones a partir de 2020."
+      }
+    }
   },
   {
     "id": "art-168",
@@ -4011,7 +4109,21 @@
     "tags": [
       "typography",
       "wingdings"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une police de symboles est devenue le sujet d'une théorie du complot sur internet.",
+        "fact": "Wingdings, une police de symboles de Microsoft datant de 1990, a alimenté dans les années 1990 des rumeurs en ligne selon lesquelles certaines combinaisons de lettres révélaient des messages cachés offensants une fois converties — une affirmation largement attribuée à une coïncidence et à une mauvaise lecture."
+      },
+      "nl": {
+        "hook": "Een symboollettertype werd het onderwerp van een internet-complottheorie.",
+        "fact": "Wingdings, een symboollettertype van Microsoft uit 1990, voedde in de jaren negentig online geruchten dat bepaalde lettercombinaties, eenmaal omgezet, verborgen aanstootgevende boodschappen zouden vormen — een claim die grotendeels werd toegeschreven aan toeval en verkeerd lezen."
+      },
+      "es": {
+        "hook": "Una fuente de símbolos se convirtió en el centro de una teoría de la conspiración de internet.",
+        "fact": "Wingdings, una fuente de símbolos de Microsoft de 1990, alimentó en los años noventa rumores en línea de que ciertas combinaciones de letras, al convertirse, formaban mensajes ofensivos ocultos, una afirmación atribuida en gran parte a la coincidencia y a una mala lectura."
+      }
+    }
   },
   {
     "id": "art-169",
@@ -4021,7 +4133,21 @@
     "tags": [
       "typography",
       "baskerville"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une police du XVIIIe siècle a été jugée, à sa sortie, controversée pour être « trop parfaite ».",
+        "fact": "La police créée par John Baskerville au milieu du XVIIIe siècle utilisait un contraste plus marqué entre pleins et déliés que les polices antérieures, et certains contemporains estimaient que cette netteté fatiguait les yeux des lecteurs. Elle a ensuite fortement influencé la conception des polices à empattements modernes."
+      },
+      "nl": {
+        "hook": "Eén 18e-eeuws lettertype werd bij lancering fel bekritiseerd als 'te perfect'.",
+        "fact": "Het lettertype van John Baskerville uit het midden van de 18e eeuw gebruikte een scherper contrast tussen dikke en dunne lijnen dan eerdere lettertypen, en sommige tijdgenoten beweerden dat die scherpte de ogen van lezers vermoeide. Het beïnvloedde later sterk het moderne schreefletterontwerp."
+      },
+      "es": {
+        "hook": "Una tipografía del siglo XVIII se consideró polémicamente 'demasiado perfecta' al lanzarse.",
+        "fact": "La tipografía de mediados del siglo XVIII de John Baskerville usaba un contraste más marcado entre trazos gruesos y finos que las fuentes anteriores, y algunos contemporáneos afirmaban que esa nitidez cansaba la vista. Con el tiempo influyó profundamente en el diseño moderno de tipografías con serifa."
+      }
+    }
   },
   {
     "id": "art-170",
@@ -4031,7 +4157,21 @@
     "tags": [
       "color-theory",
       "pigments"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un artiste a fait breveter sa propre nuance de bleu.",
+        "fact": "Yves Klein a travaillé avec un chimiste pour mettre au point l'International Klein Blue en 1960, un pigment outremer mat en suspension dans un liant de résine synthétique qui préservait l'intensité brute du pigment mieux que les liants traditionnels à base d'huile."
+      },
+      "nl": {
+        "hook": "Een kunstenaar liet zijn eigen specifieke tint blauw patenteren.",
+        "fact": "Yves Klein werkte samen met een chemicus om in 1960 het International Klein Blue te ontwikkelen, een mat ultramarijn pigment gesuspendeerd in een synthetisch harsbindmiddel dat de rauwe intensiteit van het pigment beter behield dan traditionele oliegebonden bindmiddelen."
+      },
+      "es": {
+        "hook": "Un artista patentó su propio tono específico de azul.",
+        "fact": "Yves Klein trabajó con un químico para desarrollar el International Klein Blue en 1960, un pigmento ultramar mate suspendido en un aglutinante de resina sintética que preservaba la intensidad pura del pigmento mejor que los aglutinantes tradicionales a base de aceite."
+      }
+    }
   },
   {
     "id": "art-171",
@@ -4042,7 +4182,24 @@
     "tags": [
       "color-theory",
       "pigments"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier colorant synthétique a été découvert par accident en cherchant un remède contre le paludisme.",
+        "fact": "En 1856, le chimiste William Perkin, âgé de 18 ans, tentait de synthétiser la quinine lorsqu'il a produit à la place la mauvéine, le premier colorant synthétique à base d'aniline, donnant naissance à l'industrie chimique et des colorants synthétiques modernes.",
+        "whyItMatters": "La découverte accidentelle de Perkin a lancé toute une branche de la chimie industrielle, menant plus tard aux médicaments synthétiques autant qu'aux colorants."
+      },
+      "nl": {
+        "hook": "De eerste synthetische kleurstof werd bij toeval ontdekt tijdens de zoektocht naar een malariageneesmiddel.",
+        "fact": "In 1856 probeerde de 18-jarige scheikundige William Perkin kinine te synthetiseren, maar produceerde in plaats daarvan mauveïne, de eerste synthetische anilinekleurstof, wat het begin was van de moderne synthetische kleurstof- en chemische industrie.",
+        "whyItMatters": "Perkins toevallige ontdekking luidde een hele tak van de industriële chemie in, die uiteindelijk leidde tot synthetische geneesmiddelen én kleurstoffen."
+      },
+      "es": {
+        "hook": "El primer tinte sintético se descubrió por accidente mientras se buscaba una cura contra la malaria.",
+        "fact": "En 1856, el químico de 18 años William Perkin intentaba sintetizar quinina cuando produjo, en cambio, la mauveína, el primer tinte sintético de anilina, dando origen a la industria química y de tintes sintéticos moderna.",
+        "whyItMatters": "El descubrimiento accidental de Perkin dio inicio a toda una rama de la química industrial, que con el tiempo llevó tanto a fármacos sintéticos como a tintes."
+      }
+    }
   },
   {
     "id": "art-172",
@@ -4052,7 +4209,21 @@
     "tags": [
       "color-theory",
       "pigments"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un pigment bleu éclatant a été découvert par accident au début du XVIIIe siècle.",
+        "fact": "Le bleu de Prusse a été créé vers 1706 par un fabricant de pigments berlinois qui cherchait en réalité à produire un colorant rouge. Il est devenu l'un des premiers pigments synthétiques modernes et a plus tard servi de base au procédé photographique du cyanotype."
+      },
+      "nl": {
+        "hook": "Een levendig blauw pigment werd begin 18e eeuw bij toeval ontdekt.",
+        "fact": "Pruisisch blauw werd rond 1706 gemaakt door een Berlijnse pigmentmaker die eigenlijk probeerde een rode kleurstof te produceren. Het werd een van de eerste moderne synthetische pigmenten en vormde later de basis van het cyanotypie-fotoprocedé."
+      },
+      "es": {
+        "hook": "Un vivo pigmento azul se descubrió por accidente a principios del siglo XVIII.",
+        "fact": "El azul de Prusia se creó hacia 1706 gracias a un fabricante de pigmentos de Berlín que en realidad intentaba producir un tinte rojo. Se convirtió en uno de los primeros pigmentos sintéticos modernos y más tarde sirvió de base al proceso fotográfico del cianotipo."
+      }
+    }
   },
   {
     "id": "art-173",
@@ -4062,7 +4233,21 @@
     "tags": [
       "color-theory",
       "dye-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le violet coûtait autrefois plus cher que l'or, à cause de milliers d'escargots de mer broyés.",
+        "fact": "La pourpre de Tyr était extraite du mucus d'escargots de mer murex dans la Méditerranée antique, et produire ne serait-ce qu'une petite quantité de colorant nécessitait des milliers de coquillages, faisant de cette couleur un symbole réservé à la royauté et aux plus hauts statuts."
+      },
+      "nl": {
+        "hook": "Paars kostte ooit meer dan goud, vanwege duizenden verpulverde zeeslakken.",
+        "fact": "Tyrische purper werd in het oude Middellandse Zeegebied gewonnen uit het slijm van murex-zeeslakken, en zelfs een kleine hoeveelheid kleurstof produceren vereiste duizenden slakken, waardoor de kleur een symbool werd dat voorbehouden was aan koningshuizen en hoge status."
+      },
+      "es": {
+        "hook": "El púrpura solía costar más que el oro, por culpa de miles de caracoles marinos triturados.",
+        "fact": "La púrpura de Tiro se extraía del mucus de caracoles marinos múrex en el Mediterráneo antiguo, y producir incluso una pequeña cantidad de tinte requería miles de caracoles, lo que convirtió el color en un símbolo reservado a la realeza y a los de más alto estatus."
+      }
+    }
   },
   {
     "id": "art-174",
@@ -4072,7 +4257,21 @@
     "tags": [
       "color-theory",
       "print-design"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Votre écran et votre imprimante n'utilisent pas vraiment les mêmes couleurs.",
+        "fact": "Les écrans créent la couleur par synthèse additive en combinant lumière rouge, verte et bleue (RVB), tandis que les imprimantes créent la couleur par synthèse soustractive avec des encres cyan, magenta, jaune et noire (CMJN), ce qui explique pourquoi les couleurs à l'écran peuvent changer une fois imprimées."
+      },
+      "nl": {
+        "hook": "Je scherm en je printer gebruiken eigenlijk niet dezelfde kleuren.",
+        "fact": "Schermen creëren kleur additief door rood, groen en blauw licht te combineren (RGB), terwijl printers kleur subtractief creëren met cyaan, magenta, geel en zwarte inkt (CMYK), waardoor kleuren op het scherm kunnen verschuiven zodra ze worden afgedrukt."
+      },
+      "es": {
+        "hook": "Tu pantalla y tu impresora en realidad no usan los mismos colores.",
+        "fact": "Las pantallas crean el color de forma aditiva combinando luz roja, verde y azul (RGB), mientras que las impresoras crean el color de forma sustractiva usando tinta cian, magenta, amarilla y negra (CMYK), por lo que los colores en pantalla pueden variar al imprimirse."
+      }
+    }
   },
   {
     "id": "art-175",
@@ -4083,7 +4282,24 @@
     "tags": [
       "color-theory",
       "pantone"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le système de numérotation des couleurs d'une entreprise est devenu le langage universel de l'appariement des couleurs.",
+        "fact": "Lawrence Herbert a mis au point le Pantone Matching System en 1963, attribuant des codes numériques standardisés aux couleurs afin que fabricants, imprimeurs et designers du monde entier puissent reproduire une couleur exacte de façon constante.",
+        "whyItMatters": "Les codes Pantone permettent à la couleur exacte d'une marque de rester cohérente sur des matériaux et des usines totalement différents, de l'emballage au tissu en passant par le plastique."
+      },
+      "nl": {
+        "hook": "Het genummerde kleursysteem van één bedrijf werd de universele taal voor kleurmatching.",
+        "fact": "Lawrence Herbert ontwikkelde in 1963 het Pantone Matching System, waarbij hij kleuren gestandaardiseerde numerieke codes gaf zodat fabrikanten, drukkers en ontwerpers overal ter wereld consistent dezelfde exacte kleur konden reproduceren.",
+        "whyItMatters": "Pantone-codes zorgen ervoor dat de exacte kleur van een merk consistent blijft over compleet verschillende materialen en fabrieken heen, van verpakking tot stof tot plastic."
+      },
+      "es": {
+        "hook": "El sistema numerado de colores de una empresa se convirtió en el lenguaje universal para igualar colores.",
+        "fact": "Lawrence Herbert desarrolló el Pantone Matching System en 1963, asignando códigos numéricos estandarizados a los colores para que fabricantes, impresores y diseñadores de cualquier parte del mundo pudieran reproducir un color exacto de forma coherente.",
+        "whyItMatters": "Los códigos Pantone permiten que el color exacto de una marca se mantenga coherente en materiales y fábricas completamente distintos, desde el envase hasta la tela y el plástico."
+      }
+    }
   },
   {
     "id": "art-176",
@@ -4093,7 +4309,21 @@
     "tags": [
       "color-theory",
       "newton"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Isaac Newton a été le premier à disposer les couleurs en cercle.",
+        "fact": "Dans son ouvrage Opticks de 1704, Newton a projeté le spectre visible sur un diagramme circulaire, créant ce qui est considéré comme le premier cercle chromatique et posant un cadre pour comprendre les relations entre les couleurs."
+      },
+      "nl": {
+        "hook": "Isaac Newton was de eerste die kleuren in een cirkel rangschikte.",
+        "fact": "In zijn boek Opticks uit 1704 bracht Newton het zichtbare spectrum in kaart als een cirkelvormig diagram, waarmee hij creëerde wat wordt beschouwd als de eerste kleurencirkel, en legde hij een basis voor het begrijpen van relaties tussen kleuren."
+      },
+      "es": {
+        "hook": "Isaac Newton fue el primero en organizar los colores en un círculo.",
+        "fact": "En su libro Opticks de 1704, Newton representó el espectro visible en un diagrama circular, creando lo que se considera el primer círculo cromático y sentando las bases para entender las relaciones entre colores."
+      }
+    }
   },
   {
     "id": "art-177",
@@ -4103,7 +4333,21 @@
     "tags": [
       "color-theory",
       "goethe"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Goethe a écrit tout un livre pour contester la théorie des couleurs de Newton.",
+        "fact": "Dans son Traité des couleurs de 1810, le poète et scientifique Johann Wolfgang von Goethe a rejeté l'explication purement physique de la couleur proposée par Newton, s'intéressant plutôt à l'expérience psychologique et perceptive de la façon dont les humains voient et ressentent la couleur."
+      },
+      "nl": {
+        "hook": "Goethe schreef een heel boek om Newtons kleurentheorie te weerleggen.",
+        "fact": "In zijn Theorie der kleuren uit 1810 verwierp dichter en wetenschapper Johann Wolfgang von Goethe Newtons puur fysieke verklaring van kleur, en richtte hij zich in plaats daarvan op de psychologische en perceptuele ervaring van hoe mensen kleur zien en voelen."
+      },
+      "es": {
+        "hook": "Goethe escribió un libro entero para rebatir la teoría del color de Newton.",
+        "fact": "En su Teoría de los colores de 1810, el poeta y científico Johann Wolfgang von Goethe rechazó la explicación puramente física del color de Newton, centrándose en cambio en la experiencia psicológica y perceptiva de cómo los humanos ven y sienten el color."
+      }
+    }
   },
   {
     "id": "art-178",
@@ -4114,7 +4358,24 @@
     "tags": [
       "color-theory",
       "safety-design"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un orange spécifique conçu uniquement pour attirer le regard.",
+        "fact": "L'orange de sécurité est formulé pour se détacher nettement de la plupart des arrière-plans naturels comme le feuillage, le ciel ou le bitume, ce qui explique qu'il soit la couleur standard des cônes de signalisation, des gilets de sauvetage et des équipements de travail à haute visibilité.",
+        "whyItMatters": "Choisir une couleur scientifiquement pour une visibilité maximale plutôt que pour l'esthétique a mesurablement réduit les accidents en matière de sécurité routière et industrielle."
+      },
+      "nl": {
+        "hook": "Er bestaat een specifieke oranje tint die puur ontworpen is om op te vallen.",
+        "fact": "Veiligheidsoranje is ontwikkeld om scherp af te steken tegen de meeste natuurlijke achtergronden zoals gebladerte, lucht en asfalt, waardoor het de standaardkleur is voor verkeerskegels, reddingsvesten en werkkleding met hoge zichtbaarheid.",
+        "whyItMatters": "Het wetenschappelijk kiezen van een kleur voor maximale zichtbaarheid in plaats van esthetiek heeft aantoonbaar het aantal ongevallen in het verkeer en op industriële werkplekken verminderd."
+      },
+      "es": {
+        "hook": "Existe un naranja específico diseñado solo para llamar la atención.",
+        "fact": "El naranja de seguridad está formulado para destacar claramente sobre la mayoría de los fondos naturales, como el follaje, el cielo o el pavimento, por lo que es el color estándar de los conos de tráfico, los chalecos salvavidas y la ropa de trabajo de alta visibilidad.",
+        "whyItMatters": "Elegir un color científicamente para lograr máxima visibilidad, en lugar de por estética, ha reducido de forma medible los accidentes en entornos de tráfico y seguridad industrial."
+      }
+    }
   },
   {
     "id": "art-179",
@@ -4124,7 +4385,21 @@
     "tags": [
       "color-theory",
       "pigments"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les peintres médiévaux utilisaient parfois un pigment bleu qui valait plus cher que l'or, once pour once.",
+        "fact": "Le pigment outremer était obtenu en broyant du lapis-lazuli, une pierre semi-précieuse extraite presque exclusivement dans ce qui est aujourd'hui l'Afghanistan, ce qui en faisait l'un des matériaux les plus coûteux à la disposition des artisans et mécènes européens."
+      },
+      "nl": {
+        "hook": "Middeleeuwse schilders gebruikten soms een blauw pigment dat, ounce voor ounce, duurder was dan goud.",
+        "fact": "Ultramarijn pigment werd gemaakt door lapis lazuli te vermalen, een halfedelsteen die bijna uitsluitend werd gedolven in wat nu Afghanistan is, waardoor het een van de duurste materialen was die Europese ambachtslieden en opdrachtgevers tot hun beschikking hadden."
+      },
+      "es": {
+        "hook": "Los pintores medievales a veces usaban un pigmento azul que, onza por onza, valía más que el oro.",
+        "fact": "El pigmento ultramar se obtenía moliendo lapislázuli, una piedra semipreciosa extraída casi exclusivamente en lo que hoy es Afganistán, lo que lo convertía en uno de los materiales más costosos al alcance de artesanos y mecenas europeos."
+      }
+    }
   },
   {
     "id": "art-180",
@@ -4134,7 +4409,21 @@
     "tags": [
       "photography",
       "camera-history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le tout premier « appareil photo » n'avait ni objectif, ni pellicule, ni moyen de conserver l'image.",
+        "fact": "La chambre noire, décrite dès l'époque d'Aristote, projette l'image inversée du monde extérieur à travers un petit trou dans une pièce ou une boîte obscure. Des artistes s'en sont servis pendant des siècles comme aide au dessin, bien avant l'invention de la photographie."
+      },
+      "nl": {
+        "hook": "De allereerste 'camera' had geen lens, geen film en geen manier om een beeld te bewaren.",
+        "fact": "De camera obscura, al beschreven ten tijde van Aristoteles, projecteert een omgekeerd beeld van de buitenwereld door een klein gaatje in een verduisterde ruimte of doos. Kunstenaars gebruikten hem eeuwenlang als tekenhulpmiddel, lang voordat de fotografie bestond."
+      },
+      "es": {
+        "hook": "La primera 'cámara' no tenía lente, ni película, ni forma de guardar una imagen.",
+        "fact": "La cámara oscura, descrita ya en tiempos de Aristóteles, proyecta una imagen invertida del mundo exterior a través de un pequeño orificio hacia una habitación o caja oscurecida. Los artistas la usaron durante siglos como ayuda para dibujar, mucho antes de que existiera la fotografía."
+      }
+    }
   },
   {
     "id": "art-181",
@@ -4144,7 +4433,21 @@
     "tags": [
       "photography",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus ancienne photographie conservée a nécessité plus de huit heures de pose.",
+        "fact": "Le Point de vue du Gras de Nicéphore Niépce, réalisé vers 1826-1827, a nécessité un temps de pose extrêmement long sur une plaque d'étain enduite de bitume, ce qui en fait la plus ancienne photographie connue prise à la chambre noire."
+      },
+      "nl": {
+        "hook": "De oudste bewaard gebleven foto vergde meer dan acht uur belichting.",
+        "fact": "Uitzicht vanuit het raam te Le Gras van Nicéphore Niépce, gemaakt rond 1826-1827, vereiste een extreem lange belichtingstijd op een tinnen plaat bedekt met bitumen, waardoor het de oudst bekende bewaard gebleven camerafoto is."
+      },
+      "es": {
+        "hook": "La fotografía más antigua que se conserva tardó más de ocho horas en captarse.",
+        "fact": "Vista desde la ventana en Le Gras, de Nicéphore Niépce, realizada hacia 1826-27, requirió una exposición extremadamente larga sobre una placa de peltre recubierta de betún, lo que la convierte en la fotografía de cámara más antigua conocida que se conserva."
+      }
+    }
   },
   {
     "id": "art-182",
@@ -4154,7 +4457,21 @@
     "tags": [
       "photography",
       "daguerreotype"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les premières photographies commerciales ne pouvaient absolument pas être reproduites.",
+        "fact": "Le procédé du daguerréotype, mis au point par Louis Daguerre en 1839, créait une image unique directement sur une plaque de cuivre argentée, sans négatif, ce qui faisait de chaque daguerréotype un original absolument unique."
+      },
+      "nl": {
+        "hook": "De eerste commerciële foto's konden helemaal niet worden gekopieerd.",
+        "fact": "Het daguerreotypieprocedé van Louis Daguerre uit 1839 creëerde een uniek beeld rechtstreeks op een verzilverde koperen plaat, zonder negatief, waardoor elke daguerreotypie een origineel unicum was."
+      },
+      "es": {
+        "hook": "Las primeras fotografías comerciales no se podían copiar en absoluto.",
+        "fact": "El proceso del daguerrotipo, creado por Louis Daguerre en 1839, generaba una imagen única directamente sobre una placa de cobre plateada, sin negativo, lo que hacía que cada daguerrotipo fuera un original irrepetible."
+      }
+    }
   },
   {
     "id": "art-183",
@@ -4164,7 +4481,21 @@
     "tags": [
       "photography",
       "kodak"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le slogan d'un appareil photo promettait une simplicité totale : « vous appuyez sur le bouton, nous faisons le reste ».",
+        "fact": "Le Brownie de Kodak, lancé en 1900, était assez bon marché et facile d'utilisation pour le grand public, contribuant à transformer la photographie d'une spécialité technique en un loisir de masse."
+      },
+      "nl": {
+        "hook": "De slogan van één camera beloofde totale eenvoud: 'druk op de knop, wij doen de rest.'",
+        "fact": "Kodaks Brownie-camera, uitgebracht in 1900, was goedkoop en eenvoudig genoeg voor gewone mensen om te bedienen, en hielp fotografie te veranderen van een technische specialiteit in een hobby voor de massa."
+      },
+      "es": {
+        "hook": "El eslogan de una cámara prometía sencillez total: 'usted pulsa el botón, nosotros hacemos el resto'.",
+        "fact": "La cámara Brownie de Kodak, lanzada en 1900, era lo bastante barata y fácil de usar para la gente común, lo que ayudó a que la fotografía pasara de ser una especialidad técnica a convertirse en una afición de masas."
+      }
+    }
   },
   {
     "id": "art-184",
@@ -4174,7 +4505,21 @@
     "tags": [
       "photography",
       "polaroid"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un appareil photo capable de développer ses propres clichés en quelques minutes a été inventé par un seul scientifique.",
+        "fact": "Edwin Land a présenté l'appareil photo instantané Polaroid en 1948, utilisant un procédé chimique auto-développant intégré directement à la pellicule, si bien qu'une photo terminée sortait de l'appareil quelques minutes après la prise de vue."
+      },
+      "nl": {
+        "hook": "Een camera die zijn eigen foto's binnen enkele minuten ontwikkelt, werd door één enkele wetenschapper uitgevonden.",
+        "fact": "Edwin Land introduceerde in 1948 de Polaroid-instantcamera, die gebruikmaakte van een zelfontwikkelend chemisch proces ingebouwd in de film zelf, waardoor een afgewerkte foto binnen enkele minuten na het maken uit de camera kwam."
+      },
+      "es": {
+        "hook": "Una cámara capaz de revelar sus propias fotos en minutos fue invento de un solo científico.",
+        "fact": "Edwin Land presentó la cámara instantánea Polaroid en 1948, con un proceso químico autorrevelador incorporado en la propia película, de modo que una foto terminada salía de la cámara pocos minutos después de tomarla."
+      }
+    }
   },
   {
     "id": "art-185",
@@ -4185,7 +4530,24 @@
     "tags": [
       "photography",
       "kodak"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le tout premier appareil photo numérique pesait 3,6 kg et mettait 23 secondes à prendre une photo.",
+        "fact": "L'ingénieur de Kodak Steven Sasson a construit le premier appareil photo numérique en 1975. Il capturait des images à 0,01 mégapixel sur une cassette audio et n'avait pas d'écran de visualisation pour revoir le cliché.",
+        "whyItMatters": "Kodak a mis cette technologie au placard pendant des années pour protéger son activité de pellicules, une décision souvent citée comme un cas d'école d'une entreprise incapable de se réinventer avant que ses concurrents ne le fassent à sa place."
+      },
+      "nl": {
+        "hook": "De allereerste digitale camera woog ruim drie kilo en deed er 23 seconden over om één foto te maken.",
+        "fact": "Kodak-ingenieur Steven Sasson bouwde in 1975 de eerste digitale camera. Die legde beelden vast op 0,01 megapixel op een cassettebandje en had geen zoekerscherm om de foto te bekijken.",
+        "whyItMatters": "Kodak legde de technologie jarenlang in de kast om zijn filmactiviteiten te beschermen, een beslissing die vaak wordt aangehaald als schoolvoorbeeld van een bedrijf dat zichzelf niet durfde te disrupten voordat concurrenten dat voor hen deden."
+      },
+      "es": {
+        "hook": "La primera cámara digital jamás construida pesaba casi cuatro kilos y tardaba 23 segundos por foto.",
+        "fact": "El ingeniero de Kodak Steven Sasson construyó la primera cámara digital en 1975. Capturaba imágenes de 0,01 megapíxeles en una cinta de casete y no tenía pantalla para revisar la toma.",
+        "whyItMatters": "Kodak dejó la tecnología en un cajón durante años para proteger su negocio del carrete, una decisión que suele citarse como ejemplo clásico de una empresa incapaz de disrumpirse a sí misma antes de que lo hiciera la competencia."
+      }
+    }
   },
   {
     "id": "art-186",
@@ -4195,7 +4557,21 @@
     "tags": [
       "photography",
       "leica"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un appareil photo conçu pour être compact a changé le type de photos possibles.",
+        "fact": "Oskar Barnack a développé l'appareil photo compact Leica 35 mm au début du XXe siècle, et sa portabilité a rendu possible, pour la première fois, une photographie rapide, spontanée et non posée, favorisant l'essor du photojournalisme moderne."
+      },
+      "nl": {
+        "hook": "Een camera die klein moest zijn, veranderde welk soort foto's mogelijk was.",
+        "fact": "Oskar Barnack ontwikkelde begin 20e eeuw de compacte 35mm Leica-camera, en de draagbaarheid ervan maakte snelle, spontane, ongeposeerde fotografie voor het eerst praktisch haalbaar, wat de opkomst van de moderne fotojournalistiek aanwakkerde."
+      },
+      "es": {
+        "hook": "Una cámara pensada para ser pequeña cambió qué tipo de fotos eran posibles.",
+        "fact": "Oskar Barnack desarrolló la cámara compacta Leica de 35 mm a principios del siglo XX, y su portabilidad hizo posible por primera vez una fotografía rápida, espontánea y sin posar, impulsando el auge del fotoperiodismo moderno."
+      }
+    }
   },
   {
     "id": "art-187",
@@ -4205,7 +4581,21 @@
     "tags": [
       "photography",
       "ansel-adams"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ansel Adams traitait l'exposition comme une gamme musicale.",
+        "fact": "Adams et Fred Archer ont mis au point le Zone System dans les années 1930 et 1940, une méthode consistant à faire correspondre les niveaux de lumière perçus à une échelle de tons d'impression, offrant aux photographes un contrôle précis du contraste et des détails sur les tirages en noir et blanc."
+      },
+      "nl": {
+        "hook": "Ansel Adams behandelde belichting als een muzikale toonladder.",
+        "fact": "Adams en Fred Archer ontwikkelden in de jaren 1930 en 1940 het Zone System, een methode om waargenomen lichtniveaus af te beelden op een schaal van afdruktonen, waardoor fotografen precieze controle kregen over contrast en detail in zwart-witafdrukken."
+      },
+      "es": {
+        "hook": "Ansel Adams trataba la exposición como una escala musical.",
+        "fact": "Adams y Fred Archer desarrollaron el Zone System en las décadas de 1930 y 1940, un método para trasladar los niveles de luz percibidos a una escala de tonos de impresión, dando a los fotógrafos un control preciso sobre el contraste y el detalle en las copias en blanco y negro."
+      }
+    }
   },
   {
     "id": "art-188",
@@ -4215,7 +4605,21 @@
     "tags": [
       "photography",
       "color-photography"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les premières photographies en couleur tiraient leurs couleurs de fécule de pomme de terre teintée.",
+        "fact": "Le procédé Autochrome des frères Lumière, mis au point en 1907, utilisait de microscopiques grains de fécule de pomme de terre teintés en rouge, vert et bleu comme filtres colorés sur une plaque photographique, devenant la première méthode de photographie couleur à connaître un succès commercial."
+      },
+      "nl": {
+        "hook": "Vroege kleurenfoto's ontleenden hun kleur aan gekleurd aardappelzetmeel.",
+        "fact": "Het Autochrome-procedé van de gebroeders Lumière uit 1907 gebruikte microscopisch kleine korrels aardappelzetmeel, geverfd in rood, groen en blauw, als kleurfilters over een fotografische plaat, en werd zo de eerste commercieel succesvolle kleurenfotografiemethode."
+      },
+      "es": {
+        "hook": "Las primeras fotografías en color obtenían su color de fécula de patata teñida.",
+        "fact": "El proceso Autochrome de los hermanos Lumière, de 1907, usaba diminutos granos de fécula de patata teñidos de rojo, verde y azul como filtros de color sobre una placa fotográfica, convirtiéndose en el primer método de fotografía en color con éxito comercial."
+      }
+    }
   },
   {
     "id": "art-189",
@@ -4225,7 +4629,21 @@
     "tags": [
       "photography",
       "x-ray"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La toute première image radiographique montrait la main de l'épouse du scientifique lui-même.",
+        "fact": "Wilhelm Röntgen a découvert les rayons X en 1895 et a produit peu après la première photographie radiographique, une image de la main de son épouse Anna montrant ses os et son alliance, donnant naissance au domaine de l'imagerie médicale."
+      },
+      "nl": {
+        "hook": "De allereerste röntgenfoto ooit gemaakt was van de hand van de vrouw van de wetenschapper zelf.",
+        "fact": "Wilhelm Röntgen ontdekte röntgenstraling in 1895 en maakte kort daarna de eerste röntgenfoto, een beeld van de hand van zijn vrouw Anna met haar botten en trouwring zichtbaar, wat de start vormde van de medische beeldvorming."
+      },
+      "es": {
+        "hook": "La primera imagen de rayos X jamás tomada fue de la mano de la propia esposa del científico.",
+        "fact": "Wilhelm Röntgen descubrió los rayos X en 1895 y produjo poco después la primera fotografía radiográfica, una imagen de la mano de su esposa Anna que mostraba sus huesos y su anillo de boda, dando origen al campo de la imagenología médica."
+      }
+    }
   },
   {
     "id": "art-190",
@@ -4235,7 +4653,21 @@
     "tags": [
       "photography",
       "aerial-photography"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première photographie aérienne a été prise depuis une montgolfière survolant Paris.",
+        "fact": "Le photographe et aéronaute Nadar a réalisé en 1858 la plus ancienne photographie aérienne conservée, en installant une chambre noire portable dans le panier de sa montgolfière pour développer l'image en plein vol."
+      },
+      "nl": {
+        "hook": "De eerste luchtfoto werd genomen vanuit een luchtballon boven Parijs.",
+        "fact": "Fotograaf en ballonvaarder Nadar maakte in 1858 de oudst bewaard gebleven luchtfoto, door een draagbare doka in de mand van zijn luchtballon te bouwen om het beeld tijdens de vlucht te ontwikkelen."
+      },
+      "es": {
+        "hook": "La primera fotografía aérea se tomó desde un globo aerostático sobre París.",
+        "fact": "El fotógrafo y aeronauta Nadar captó en 1858 la fotografía aérea más antigua que se conserva, instalando un cuarto oscuro portátil en la barquilla de su globo para revelar la imagen mientras volaba."
+      }
+    }
   },
   {
     "id": "art-191",
@@ -4245,7 +4677,21 @@
     "tags": [
       "photography",
       "pinhole-camera"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "On peut fabriquer un appareil photo fonctionnel sans aucun objectif.",
+        "fact": "Un sténopé utilise une minuscule ouverture à la place d'un objectif pour projeter une image sur une surface sensible à la lumière, un principe compris depuis des siècles et encore utilisé aujourd'hui dans l'enseignement de la photographie et l'art expérimental."
+      },
+      "nl": {
+        "hook": "Je kunt een werkende camera bouwen zonder enige lens.",
+        "fact": "Een pinholecamera gebruikt een piepklein diafragma in plaats van een lens om een beeld te projecteren op lichtgevoelig materiaal, een principe dat al eeuwenlang bekend is en tegenwoordig nog steeds wordt gebruikt in fotografie-onderwijs en experimentele kunst."
+      },
+      "es": {
+        "hook": "Se puede construir una cámara funcional sin ninguna lente.",
+        "fact": "Una cámara estenopeica usa una diminuta apertura en lugar de una lente para proyectar una imagen sobre un material sensible a la luz, un principio conocido desde hace siglos y que todavía se usa hoy en la enseñanza de la fotografía y el arte experimental."
+      }
+    }
   },
   {
     "id": "art-192",
@@ -4255,7 +4701,21 @@
     "tags": [
       "film-design",
       "saul-bass"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un designer a pratiquement inventé le générique de film moderne.",
+        "fact": "Saul Bass a transformé les génériques de films, de simples textes statiques en véritables mini-films de cinéma, avec son travail sur Sueurs froides, Psychose et L'Homme au bras d'or, et il a également conçu les logos d'entreprises comme AT&T et Quaker Oats."
+      },
+      "nl": {
+        "hook": "Eén ontwerper vond in feite de moderne filmaftiteling uit.",
+        "fact": "Saul Bass veranderde filmtitelsequenties van statische tekst in cinematografische miniatuurfilms met zijn werk voor Vertigo, Psycho en The Man with the Golden Arm, en hij ontwierp ook bedrijfslogo's voor AT&T en Quaker Oats."
+      },
+      "es": {
+        "hook": "Un diseñador prácticamente inventó los títulos de crédito modernos del cine.",
+        "fact": "Saul Bass transformó las secuencias de títulos de las películas, de simple texto estático a auténticos minifilmes cinematográficos, con su trabajo en Vértigo, Psicosis y El hombre del brazo de oro, y también diseñó logotipos corporativos para AT&T y Quaker Oats."
+      }
+    }
   },
   {
     "id": "art-193",
@@ -4265,7 +4725,21 @@
     "tags": [
       "film-design",
       "logo-design"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le logo de Star Wars a bien failli avoir une tout autre allure.",
+        "fact": "Le logo massif et audacieux de Star Wars est généralement attribué à la designer Suzy Rice en 1976, le traitement du titre du film ayant ensuite été affiné par le concepteur de génériques Dan Perri avant la sortie de 1977."
+      },
+      "nl": {
+        "hook": "Het Star Wars-logo had er bijna compleet anders uitgezien.",
+        "fact": "Het gedurfde, blokvormige Star Wars-logo wordt doorgaans toegeschreven aan ontwerper Suzy Rice in 1976, waarna de titelbehandeling van de film verder werd verfijnd door titelontwerper Dan Perri vóór de release in 1977."
+      },
+      "es": {
+        "hook": "El logo de Star Wars estuvo a punto de tener un aspecto completamente distinto.",
+        "fact": "El audaz y macizo logotipo de Star Wars suele atribuirse a la diseñadora Suzy Rice en 1976, y el tratamiento del título de la película fue después refinado por el diseñador de títulos Dan Perri antes del estreno de 1977."
+      }
+    }
   },
   {
     "id": "art-194",
@@ -4275,7 +4749,21 @@
     "tags": [
       "film-design",
       "pixar"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La mascotte de Pixar a débuté sous la forme d'un court métrage de sept minutes, façon film d'étudiant.",
+        "fact": "Luxo Jr., la lampe de bureau sautillante, a fait ses débuts dans un court métrage de 1986 qui est devenu l'un des tout premiers films entièrement animés par ordinateur à recevoir une nomination aux Oscars, et la lampe est ensuite devenue le logo permanent du studio Pixar."
+      },
+      "nl": {
+        "hook": "De mascotte van Pixar begon als een studentikoze kortfilm van zeven minuten.",
+        "fact": "Luxo Jr., de stuiterende bureaulamp, debuteerde in een kortfilm uit 1986 die een van de eerste volledig computergeanimeerde films werd met een Oscarnominatie, en de lamp werd het permanente studiologo van Pixar."
+      },
+      "es": {
+        "hook": "La mascota de Pixar comenzó como un cortometraje de siete minutos con aire estudiantil.",
+        "fact": "Luxo Jr., la lámpara de escritorio saltarina, debutó en un cortometraje de 1986 que se convirtió en una de las primeras películas totalmente animadas por ordenador en recibir una nominación al Óscar, y la lámpara pasó a ser el logotipo permanente del estudio Pixar."
+      }
+    }
   },
   {
     "id": "art-195",
@@ -4285,7 +4773,21 @@
     "tags": [
       "film-design",
       "technicolor"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les couleurs éclatantes du vieux Hollywood venaient de la combinaison de trois bandes de film distinctes.",
+        "fact": "Le procédé Technicolor trichrome, perfectionné à la fin des années 1920 et dans les années 1930, captait les informations de couleur rouge, verte et bleue sur trois négatifs distincts, ensuite combinés en une seule copie d'un éclat très saturé, comme on le voit dans Le Magicien d'Oz."
+      },
+      "nl": {
+        "hook": "De levendige kleuren van het oude Hollywood ontstonden door drie aparte filmstroken te combineren.",
+        "fact": "Het driestrooks-Technicolorprocedé, verfijnd in de late jaren 1920 en de jaren 1930, legde rode, groene en blauwe kleurinformatie vast op drie afzonderlijke filmnegatieven die werden samengevoegd tot één sterk verzadigde print, zoals te zien in The Wizard of Oz."
+      },
+      "es": {
+        "hook": "Los vívidos colores del viejo Hollywood venían de combinar tres tiras de película distintas.",
+        "fact": "El proceso Technicolor de tres tiras, perfeccionado a finales de los años 1920 y en los 1930, captaba la información de color rojo, verde y azul en tres negativos de película independientes que se combinaban en una sola copia de gran saturación, como se ve en El mago de Oz."
+      }
+    }
   },
   {
     "id": "art-196",
@@ -4295,7 +4797,21 @@
     "tags": [
       "film-design",
       "blade-runner"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La vision d'un artiste concept d'un futur pluvieux et néon a façonné des décennies de films de science-fiction.",
+        "fact": "La conception artistique de Syd Mead pour Blade Runner (1982) a instauré une esthétique cyberpunk « rafistolée », mêlant bâtiments anciens délabrés et publicités néon high-tech, un style qui a influencé d'innombrables films de science-fiction par la suite."
+      },
+      "nl": {
+        "hook": "De visie van één conceptkunstenaar op een regenachtige neonfuture bepaalde decennialang sciencefictionfilms.",
+        "fact": "Het productieontwerp van Syd Mead voor Blade Runner (1982) vestigde een 'retrofitted' cyberpunklook, waarbij vervallen oude gebouwen werden gecombineerd met hightech neonreclames, een esthetiek die daarna talloze sciencefictionfilms beïnvloedde."
+      },
+      "es": {
+        "hook": "La visión de un artista conceptual de un futuro lluvioso y neón marcó décadas de cine de ciencia ficción.",
+        "fact": "El diseño de producción de Syd Mead para Blade Runner (1982) estableció una estética cyberpunk 'reciclada', que combinaba edificios antiguos en ruinas con publicidad de neón de alta tecnología, un estilo que influyó en incontables películas de ciencia ficción posteriores."
+      }
+    }
   },
   {
     "id": "art-197",
@@ -4305,7 +4821,21 @@
     "tags": [
       "film-design",
       "imax"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les images de film IMAX sont environ dix fois plus grandes que celles d'un film standard.",
+        "fact": "Le format IMAX utilise des images de film bien plus grandes que le cinéma 35 mm classique, permettant une résolution et un niveau de détail nettement supérieurs une fois projetés sur des écrans gigantesques."
+      },
+      "nl": {
+        "hook": "IMAX-filmbeelden zijn ongeveer tien keer groter dan standaard filmbeeld.",
+        "fact": "Het IMAX-formaat gebruikt veel grotere filmbeelden dan de conventionele 35mm-bioscoopfilm, wat een aanzienlijk hogere beeldresolutie en meer detail mogelijk maakt bij projectie op enorme schermen."
+      },
+      "es": {
+        "hook": "Los fotogramas de película IMAX son unas diez veces más grandes que los del cine estándar.",
+        "fact": "El formato IMAX usa fotogramas de película mucho más grandes que el cine convencional de 35 mm, lo que permite una resolución de imagen y un nivel de detalle drásticamente superiores al proyectarse en pantallas gigantescas."
+      }
+    }
   },
   {
     "id": "art-198",
@@ -4315,7 +4845,21 @@
     "tags": [
       "film-design",
       "storyboarding"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le storyboard a été inventé pour permettre aux studios de repérer des erreurs coûteuses avant même le début du tournage.",
+        "fact": "Les studios Walt Disney ont popularisé le storyboard au début des années 1930, en épinglant des croquis séquentiels de scènes pour planifier l'animation avant de se lancer dans une production dessinée à la main coûteuse, une pratique qui s'est ensuite rapidement étendue au cinéma en prises de vues réelles."
+      },
+      "nl": {
+        "hook": "Storyboards werden bedacht zodat studio's dure fouten konden opsporen nog vóór de opnames begonnen.",
+        "fact": "Walt Disney Studios populariseerde het storyboarden begin jaren 1930, door opeenvolgende schetsen van scènes op te hangen om animatie te plannen voordat er werd begonnen aan kostbare met de hand getekende productie, en de praktijk verspreidde zich al snel naar live-action filmmaken."
+      },
+      "es": {
+        "hook": "Los storyboards se crearon para que los estudios detectaran errores costosos antes incluso de empezar a rodar.",
+        "fact": "Walt Disney Studios popularizó el storyboard a principios de la década de 1930, colgando bocetos secuenciales de escenas para planificar la animación antes de embarcarse en una costosa producción dibujada a mano, y la práctica se extendió poco después al cine de acción real."
+      }
+    }
   },
   {
     "id": "art-199",
@@ -4325,7 +4869,21 @@
     "tags": [
       "film-design",
       "cinematography"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les films en écran large existent en partie parce que les studios paniquaient face à la télévision.",
+        "fact": "La 20th Century Fox a lancé le format écran large CinemaScope en 1953, utilisant des objectifs anamorphiques pour capturer un format d'image beaucoup plus large, en partie comme stratégie pour offrir aux spectateurs un spectacle d'une ampleur que la télévision ne pouvait pas reproduire."
+      },
+      "nl": {
+        "hook": "Widescreenfilms bestaan deels omdat studio's in paniek raakten door de televisie.",
+        "fact": "20th Century Fox introduceerde in 1953 het breedbeeldformaat CinemaScope, met anamorfotische lenzen om een veel bredere beeldverhouding vast te leggen, deels als strategie om bioscoopbezoekers een schaal van spektakel te bieden die televisie niet kon evenaren."
+      },
+      "es": {
+        "hook": "Las películas en panorámico existen en parte porque los estudios entraron en pánico por la televisión.",
+        "fact": "20th Century Fox introdujo el formato panorámico CinemaScope en 1953, usando lentes anamórficas para captar una relación de aspecto mucho más ancha, en parte como estrategia para ofrecer a los espectadores una escala de espectáculo que la televisión no podía igualar."
+      }
+    }
   },
   {
     "id": "art-200",
@@ -4335,6 +4893,20 @@
     "tags": [
       "painting",
       "renaissance"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Joconde n'a ni sourcils ni cils.",
+        "fact": "Le célèbre portrait de Léonard de Vinci est dépourvu de sourcils et de cils, très probablement parce que les épiler était une tendance beauté à la mode chez les Florentines de l'époque, bien que certains effets de restauration et de vieillissement aient pu aussi y jouer un rôle."
+      },
+      "nl": {
+        "hook": "De Mona Lisa heeft geen wenkbrauwen of wimpers.",
+        "fact": "Op het beroemde portret van Leonardo da Vinci ontbreken wenkbrauwen en wimpers, hoogstwaarschijnlijk omdat het epileren ervan een modieuze schoonheidstrend was onder Florentijnse vrouwen in die tijd, al kunnen restauratie- en verouderingseffecten ook een rol hebben gespeeld."
+      },
+      "es": {
+        "hook": "La Mona Lisa no tiene cejas ni pestañas.",
+        "fact": "Al famoso retrato de Leonardo da Vinci le faltan cejas y pestañas, muy probablemente porque depilárselas era una tendencia de belleza de moda entre las mujeres florentinas de la época, aunque algunos efectos de restauración y envejecimiento también podrían haber influido."
+      }
+    }
   }
 ]

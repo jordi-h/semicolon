@@ -7,7 +7,21 @@
     "tags": [
       "dish-origins",
       "italy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La pizza Margherita a été conçue comme un drapeau.",
+        "fact": "En 1889, le pizzaiolo napolitain Raffaele Esposito aurait garni une pizza de tomate, de mozzarella et de basilic pour reproduire le rouge, le blanc et le vert du drapeau italien, la nommant en l'honneur de la reine Marguerite de Savoie."
+      },
+      "nl": {
+        "hook": "De pizza Margherita was ontworpen als een vlag.",
+        "fact": "In 1889 zou de Napolitaanse pizzabakker Raffaele Esposito een pizza hebben belegd met tomaat, mozzarella en basilicum om het rood, wit en groen van de Italiaanse vlag na te bootsen, en vernoemde hij haar naar koningin Margherita van Savoye."
+      },
+      "es": {
+        "hook": "La pizza margarita fue diseñada como una bandera.",
+        "fact": "En 1889, el pizzaiolo napolitano Raffaele Esposito habría cubierto una pizza con tomate, mozzarella y albahaca para reflejar el rojo, blanco y verde de la bandera italiana, y la nombró en honor a la reina Margarita de Saboya."
+      }
+    }
   },
   {
     "id": "food-002",
@@ -18,7 +32,21 @@
       "dish-origins",
       "japan",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le sushi est né comme méthode de conservation du poisson, pas pour le manger frais.",
+        "fact": "La forme la plus ancienne de sushi, le narezushi, conservait le poisson dans du riz fermenté pendant des mois ; le riz était à l'origine jeté et seul le poisson était mangé. Le riz vinaigré destiné à être mangé avec le poisson est apparu bien plus tard au Japon."
+      },
+      "nl": {
+        "hook": "Sushi ontstond als manier om vis te bewaren, niet om hem vers te eten.",
+        "fact": "De oudste vorm van sushi, narezushi, bewaarde vis maandenlang in gefermenteerde rijst; de rijst werd oorspronkelijk weggegooid en alleen de vis werd gegeten. Rijst met azijn, bedoeld om samen te eten, kwam pas veel later in Japan."
+      },
+      "es": {
+        "hook": "El sushi surgió como una forma de conservar el pescado, no de comerlo fresco.",
+        "fact": "La forma más antigua de sushi, el narezushi, conservaba el pescado en arroz fermentado durante meses; el arroz se desechaba originalmente y solo se comía el pescado. El arroz avinagrado pensado para comerse junto con el pescado llegó mucho más tarde en Japón."
+      }
+    }
   },
   {
     "id": "food-003",
@@ -29,7 +57,21 @@
       "dish-origins",
       "korea",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le kimchi existait depuis des siècles avant même d'être épicé.",
+        "fact": "Des plats de légumes fermentés sont préparés sur la péninsule coréenne depuis plus de mille ans, mais le piment n'y est arrivé qu'après son introduction depuis les Amériques aux XVIe et XVIIe siècles : le kimchi rouge et épicé est donc une évolution relativement récente."
+      },
+      "nl": {
+        "hook": "Kimchi bestond al eeuwenlang voordat het pittig werd.",
+        "fact": "Op het Koreaanse schiereiland worden al meer dan duizend jaar gefermenteerde groentegerechten gemaakt, maar chilipepers arriveerden pas nadat ze in de 16e-17e eeuw vanuit Amerika werden geïntroduceerd, waardoor rode, pittige kimchi een relatief recente ontwikkeling is."
+      },
+      "es": {
+        "hook": "El kimchi existió durante siglos antes de ser picante.",
+        "fact": "En la península de Corea se preparan platos de verduras fermentadas desde hace más de mil años, pero el chile llegó recién tras ser introducido desde América en los siglos XVI y XVII, por lo que el kimchi rojo y picante es un desarrollo relativamente reciente."
+      }
+    }
   },
   {
     "id": "food-004",
@@ -39,7 +81,21 @@
     "tags": [
       "dish-origins",
       "thailand"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le pad thaï était une campagne marketing du gouvernement.",
+        "fact": "Dans les années 1930-1940, le Premier ministre thaïlandais Plaek Phibunsongkhram a promu les nouilles de riz sautées comme plat national pour réduire la consommation de riz et forger une identité thaïlandaise unifiée, lançant ainsi le pad thaï tel qu'on le connaît aujourd'hui."
+      },
+      "nl": {
+        "hook": "Pad thai was een marketingcampagne van de overheid.",
+        "fact": "In de jaren 1930-1940 promootte de Thaise premier Plaek Phibunsongkhram gebakken rijstnoedels als nationalistisch gerecht om de rijstconsumptie te verminderen en een eenduidige Thaise identiteit op te bouwen, en lanceerde daarmee in feite pad thai zoals we het vandaag kennen."
+      },
+      "es": {
+        "hook": "El pad thai fue una campaña publicitaria del gobierno.",
+        "fact": "En las décadas de 1930 y 1940, el primer ministro tailandés Plaek Phibunsongkhram promovió los fideos de arroz salteados como plato nacionalista para reducir el consumo de arroz y construir una identidad tailandesa unificada, lanzando así el pad thai tal como lo conocemos hoy."
+      }
+    }
   },
   {
     "id": "food-005",
@@ -49,7 +105,21 @@
     "tags": [
       "dish-origins",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le tempura a été apporté au Japon par des missionnaires portugais.",
+        "fact": "La technique consistant à enrober des aliments de pâte et à les frire est arrivée au Japon au XVIe siècle avec des marchands et missionnaires portugais, qui faisaient frire poisson et légumes pendant les périodes de jeûne du Carême appelées « tempora » en latin."
+      },
+      "nl": {
+        "hook": "Tempura werd door Portugese missionarissen naar Japan gebracht.",
+        "fact": "De techniek van het in beslag dompelen en frituren van voedsel kwam in de 16e eeuw naar Japan met Portugese handelaars en missionarissen, die vis en groenten frituurden tijdens de vastenperiodes die in het Latijn 'tempora' werden genoemd."
+      },
+      "es": {
+        "hook": "El tempura fue llevado a Japón por misioneros portugueses.",
+        "fact": "La técnica de rebozar y freír alimentos llegó a Japón en el siglo XVI con comerciantes y misioneros portugueses, que freían pescado y verduras durante los periodos de ayuno cuaresmal llamados «tempora» en latín."
+      }
+    }
   },
   {
     "id": "food-006",
@@ -59,7 +129,21 @@
     "tags": [
       "dish-origins",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le nom d'un curry de Goa est en réalité portugais.",
+        "fact": "Le vindaloo dérive du plat portugais carne de vinha d'alhos, une viande marinée dans du vin et de l'ail. Les colons portugais l'ont apporté à Goa, en Inde, où le vinaigre a remplacé le vin et où des piments locaux ont été ajoutés."
+      },
+      "nl": {
+        "hook": "De naam van een Goa-curry is eigenlijk Portugees.",
+        "fact": "Vindaloo is afgeleid van het Portugese gerecht carne de vinha d'alhos, vlees gemarineerd in wijn en knoflook. Portugese kolonisten brachten het naar Goa, India, waar azijn de wijn verving en lokale chilipepers werden toegevoegd."
+      },
+      "es": {
+        "hook": "El nombre de un curry de Goa es en realidad portugués.",
+        "fact": "El vindaloo deriva del plato portugués carne de vinha d'alhos, carne marinada en vino y ajo. Los colonizadores portugueses lo llevaron a Goa, India, donde el vinagre sustituyó al vino y se añadieron chiles locales."
+      }
+    }
   },
   {
     "id": "food-007",
@@ -70,7 +154,24 @@
     "tags": [
       "ingredient-history",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le piment est un nouveau venu dans presque toutes les cuisines réputées pour leur caractère épicé.",
+        "fact": "Le piment a été domestiqué au Mexique et restait inconnu hors des Amériques jusqu'au contact européen après 1492. En quelques siècles, il a transformé les cuisines indienne, thaïlandaise, coréenne, sichuanaise et hongroise.",
+        "whyItMatters": "De nombreux plats considérés comme d'anciens symboles nationaux du piquant n'ont en réalité que quelques centaines d'années."
+      },
+      "nl": {
+        "hook": "Chilipepers zijn nieuwkomers in bijna elke keuken die bekendstaat om pittigheid.",
+        "fact": "Chilipepers werden gedomesticeerd in Mexico en waren buiten Amerika onbekend tot het Europese contact na 1492. Binnen een paar eeuwen veranderden ze de Indiase, Thaise, Koreaanse, Sichuanese en Hongaarse keuken ingrijpend.",
+        "whyItMatters": "Veel gerechten die worden gezien als eeuwenoude nationale symbolen van 'pittigheid' zijn in werkelijkheid pas een paar honderd jaar oud."
+      },
+      "es": {
+        "hook": "El chile es un recién llegado a casi todas las cocinas famosas por su picante.",
+        "fact": "El chile fue domesticado en México y era desconocido fuera de América hasta el contacto europeo posterior a 1492. En pocos siglos transformó las cocinas india, tailandesa, coreana, sichuanesa y húngara.",
+        "whyItMatters": "Muchos platos considerados antiguos símbolos nacionales del picante en realidad tienen solo unos pocos cientos de años."
+      }
+    }
   },
   {
     "id": "food-008",
@@ -80,7 +181,21 @@
     "tags": [
       "ingredient-history",
       "italy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La tomate n'a intégré la cuisine italienne qu'au XIXe siècle.",
+        "fact": "La tomate est originaire des Amériques et a été regardée avec méfiance en Europe pendant des siècles après son arrivée. Elle n'est devenue centrale dans les sauces italiennes et la pizza qu'aux XVIIIe et XIXe siècles."
+      },
+      "nl": {
+        "hook": "Tomaten maakten pas in de 19e eeuw deel uit van de Italiaanse keuken.",
+        "fact": "Tomaten zijn afkomstig uit Amerika en werden in Europa eeuwenlang met argwaan bekeken na hun aankomst. Ze werden pas in de 18e en 19e eeuw essentieel voor Italiaanse sauzen en pizza."
+      },
+      "es": {
+        "hook": "El tomate no formó parte de la cocina italiana hasta el siglo XIX.",
+        "fact": "El tomate es originario de América y fue visto con recelo en Europa durante siglos tras su llegada. No se volvió esencial para las salsas italianas y la pizza hasta los siglos XVIII y XIX."
+      }
+    }
   },
   {
     "id": "food-009",
@@ -90,7 +205,21 @@
     "tags": [
       "dish-origins",
       "united-states"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le biscuit chinois n'est pas chinois.",
+        "fact": "Les biscuits chinois ont très probablement été créés par des immigrants japonais en Californie au début du XXe siècle, adaptés d'une tradition de biscuits japonais appelés tsujiura senbei. Ils sont largement inconnus en Chine même."
+      },
+      "nl": {
+        "hook": "Het gelukskoekje is niet Chinees.",
+        "fact": "Gelukskoekjes werden hoogstwaarschijnlijk gemaakt door Japanse immigranten in Californië, begin 20e eeuw, en zijn afgeleid van een Japanse koekjestraditie genaamd tsujiura senbei. Ze zijn in China zelf grotendeels onbekend."
+      },
+      "es": {
+        "hook": "La galleta de la fortuna no es china.",
+        "fact": "Las galletas de la fortuna probablemente fueron creadas por inmigrantes japoneses en California a principios del siglo XX, adaptadas de una tradición japonesa de galletas llamada tsujiura senbei. Son prácticamente desconocidas en la propia China."
+      }
+    }
   },
   {
     "id": "food-010",
@@ -101,7 +230,21 @@
       "dish-origins",
       "china",
       "united-states"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le poulet du général Tso est presque inconnu au Hunan.",
+        "fact": "Le plat a été créé par le chef Peng Chang-kuei, qui a fui la Chine continentale pour Taïwan et l'a développé là-bas dans les années 1950, avant d'en apporter une version à New York dans les années 1970. Il reste pratiquement inconnu dans la province du Hunan."
+      },
+      "nl": {
+        "hook": "Kip van generaal Tso is in Hunan nauwelijks bekend.",
+        "fact": "Het gerecht werd gecreëerd door chef Peng Chang-kuei, die van het Chinese vasteland naar Taiwan vluchtte en het daar in de jaren 50 ontwikkelde, voordat hij in de jaren 70 een versie naar New York bracht. Het blijft vrijwel onbekend in de provincie Hunan."
+      },
+      "es": {
+        "hook": "El pollo del general Tso es casi desconocido en Hunan.",
+        "fact": "El plato fue creado por el chef Peng Chang-kuei, quien huyó de la China continental a Taiwán y lo desarrolló allí en la década de 1950, antes de llevar una versión a Nueva York en la década de 1970. Sigue siendo prácticamente desconocido en la provincia de Hunan."
+      }
+    }
   },
   {
     "id": "food-011",
@@ -111,7 +254,21 @@
     "tags": [
       "dish-origins",
       "united-kingdom"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le poulet tikka masala est peut-être né en Écosse.",
+        "fact": "Selon un récit souvent cité, le restaurant Shish Mahal de Glasgow aurait créé le poulet tikka masala dans les années 1970 en ajoutant une sauce tomate crémeuse pour satisfaire un client trouvant le poulet grillé trop sec."
+      },
+      "nl": {
+        "hook": "Kip tikka masala is mogelijk in Schotland ontstaan.",
+        "fact": "Volgens een veelgeciteerd verhaal zou het Glasgowse restaurant Shish Mahal in de jaren 70 kip tikka masala hebben bedacht door een romige tomatensaus toe te voegen om een klant tevreden te stellen die de gegrilde kip te droog vond."
+      },
+      "es": {
+        "hook": "El pollo tikka masala pudo haber nacido en Escocia.",
+        "fact": "Según un relato muy citado, el restaurante Shish Mahal de Glasgow habría creado el pollo tikka masala en la década de 1970 al añadir una salsa cremosa de tomate para satisfacer a un cliente que encontraba el pollo a la parrilla demasiado seco."
+      }
+    }
   },
   {
     "id": "food-012",
@@ -122,7 +279,21 @@
       "dish-origins",
       "japan",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le ramen était à l'origine une importation chinoise.",
+        "fact": "Les soupes de nouilles de blé sont arrivées au Japon depuis la Chine et étaient à l'origine vendues sous le nom de « Shina soba ». Les cuisiniers japonais ont adapté bouillons et garnitures tout au long du XXe siècle pour créer le ramen reconnu aujourd'hui dans le monde entier."
+      },
+      "nl": {
+        "hook": "Ramen begon als Chinese import.",
+        "fact": "Soepen met tarwenoedels kwamen vanuit China naar Japan en werden aanvankelijk verkocht als 'Shina soba'. Japanse koks pasten de bouillons en toppings gedurende de 20e eeuw aan tot de ramen die tegenwoordig wereldwijd bekend is."
+      },
+      "es": {
+        "hook": "El ramen empezó siendo una importación china.",
+        "fact": "Las sopas de fideos de trigo llegaron a Japón desde China y originalmente se vendían como «Shina soba». Los cocineros japoneses adaptaron los caldos y los ingredientes a lo largo del siglo XX hasta convertirlos en el ramen reconocido hoy en todo el mundo."
+      }
+    }
   },
   {
     "id": "food-013",
@@ -132,7 +303,21 @@
     "tags": [
       "dish-origins",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il n'existe pas de plat unique appelé « curry » en Inde.",
+        "fact": "Le mot « curry » vient du terme tamoul kari et a été popularisé par les colons britanniques comme étiquette générique pour désigner divers plats régionaux en sauce d'Asie du Sud, qui n'ont ni nom ni recette unifiés."
+      },
+      "nl": {
+        "hook": "Er bestaat geen enkel gerecht dat 'curry' heet in India.",
+        "fact": "Het woord curry komt van het Tamil-woord kari en werd door Britse kolonisten populair gemaakt als verzamelnaam voor uiteenlopende regionale sausgerechten in Zuid-Azië, die geen eenduidige naam of recept hebben."
+      },
+      "es": {
+        "hook": "No existe un único plato llamado «curry» en la India.",
+        "fact": "La palabra curry proviene del término tamil kari y fue popularizada por los colonizadores británicos como etiqueta genérica para designar diversos platos regionales con salsa de Asia meridional, que no tienen un nombre ni una receta unificados."
+      }
+    }
   },
   {
     "id": "food-014",
@@ -142,7 +327,21 @@
     "tags": [
       "dish-origins",
       "brazil"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le plat national du Brésil doit probablement son existence à des cuisiniers réduits en esclavage.",
+        "fact": "La feijoada, un ragoût de haricots noirs et de porc, est souvent rattachée aux traditions portugaises de ragoûts, mêlées aux pratiques culinaires développées par les Africains réduits en esclavage au Brésil, qui utilisaient des morceaux de porc bon marché."
+      },
+      "nl": {
+        "hook": "Brazilië's nationale gerecht heeft zijn bestaan waarschijnlijk te danken aan tot slaaf gemaakte koks.",
+        "fact": "Feijoada, een stoofpot van zwarte bonen en varkensvlees, wordt vaak herleid tot Portugese stooftradities, vermengd met kookpraktijken die tot slaaf gemaakte Afrikanen in Brazilië ontwikkelden, die goedkope stukken varkensvlees gebruikten."
+      },
+      "es": {
+        "hook": "El plato nacional de Brasil probablemente debe su existencia a cocineros esclavizados.",
+        "fact": "La feijoada, un guiso de frijoles negros y cerdo, suele rastrearse hasta las tradiciones portuguesas de guisos, mezcladas con las prácticas culinarias desarrolladas por los africanos esclavizados en Brasil, que aprovechaban cortes baratos de cerdo."
+      }
+    }
   },
   {
     "id": "food-015",
@@ -152,7 +351,21 @@
     "tags": [
       "dish-origins",
       "canada"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La poutine est à peine plus vieille que la génération des premiers pas sur la Lune.",
+        "fact": "Les frites garnies de fromage en grains et de sauce brune sont apparues dans le Québec rural à la fin des années 1950, plusieurs petites villes se disputant l'honneur du premier restaurant à en avoir servi."
+      },
+      "nl": {
+        "hook": "Poutine is nauwelijks ouder dan de generatie van de maanlanding.",
+        "fact": "Friet met kaaswrongel en jus ontstond op het Canadese platteland van Québec, eind jaren 50, waarbij verschillende kleine steden erover twisten welk eethuisje het gerecht als eerste serveerde."
+      },
+      "es": {
+        "hook": "La poutine es apenas más antigua que la generación de la llegada a la Luna.",
+        "fact": "Las papas fritas con requesón y salsa gravy surgieron en la zona rural de Quebec a finales de los años 50, con varios pueblos disputándose cuál las sirvió primero."
+      }
+    }
   },
   {
     "id": "food-016",
@@ -162,7 +375,21 @@
     "tags": [
       "dish-origins",
       "korea"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le bibimbap est peut-être né comme moyen d'utiliser les restes.",
+        "fact": "Ce plat coréen de riz mélangé trouverait son origine dans la combinaison du riz avec les restes de banchan, les accompagnements ; certains font remonter une version de cette pratique aux offrandes alimentaires mélangées après les rites ancestraux."
+      },
+      "nl": {
+        "hook": "Bibimbap is mogelijk ontstaan als manier om restjes op te maken.",
+        "fact": "Van dit Koreaanse gemengde-rijstgerecht wordt aangenomen dat het is ontstaan uit het combineren van rijst met overgebleven banchan-bijgerechten, en sommigen herleiden een versie van deze gewoonte tot voedseloffers die na voorouderrituelen werden gemengd."
+      },
+      "es": {
+        "hook": "El bibimbap pudo haber surgido como una forma de aprovechar las sobras.",
+        "fact": "Se cree que este plato coreano de arroz mezclado se originó combinando arroz con las sobras de banchan, los acompañamientos; algunos rastrean una versión de esta práctica hasta las ofrendas de comida mezcladas tras los ritos ancestrales."
+      }
+    }
   },
   {
     "id": "food-017",
@@ -172,7 +399,21 @@
     "tags": [
       "dish-origins",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La pâte feuilletée du baklava remonterait peut-être à la Mésopotamie antique.",
+        "fact": "Des versions de pâte fine et feuilletée aux noix et au sucre apparaissent dans les mondes assyrien, byzantin et ottoman, l'Empire ottoman étant généralement crédité d'avoir affiné et diffusé la recette du baklava connue aujourd'hui."
+      },
+      "nl": {
+        "hook": "Het gelaagde deeg van baklava gaat mogelijk terug tot het oude Mesopotamië.",
+        "fact": "Versies van dun, gelaagd deeg met noten en zoetstof komen voor in de Assyrische, Byzantijnse en Ottomaanse wereld, waarbij het Ottomaanse Rijk over het algemeen de eer krijgt voor het verfijnen en verspreiden van het baklavarecept zoals we dat vandaag kennen."
+      },
+      "es": {
+        "hook": "La masa en capas del baklava podría remontarse a la antigua Mesopotamia.",
+        "fact": "Versiones de masa fina y en capas con frutos secos y edulcorante aparecen en los mundos asirio, bizantino y otomano, y suele atribuirse al Imperio otomano el mérito de haber refinado y difundido la receta del baklava que conocemos hoy."
+      }
+    }
   },
   {
     "id": "food-018",
@@ -182,7 +423,21 @@
     "tags": [
       "dish-origins",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le houmous possède une recette écrite vieille de plus de 700 ans.",
+        "fact": "Les tartinades de pois chiches et de tahini sont anciennes au Levant, mais l'une des premières recettes écrites connues ressemblant au houmous apparaît dans un livre de cuisine égyptien du XIIIe siècle."
+      },
+      "nl": {
+        "hook": "Hummus heeft een geschreven recept van meer dan 700 jaar oud.",
+        "fact": "Smeersels van kikkererwten en tahini zijn eeuwenoud in de Levant, maar een van de vroegst bekende geschreven recepten die op hummus lijken, staat in een Egyptisch kookboek uit de 13e eeuw."
+      },
+      "es": {
+        "hook": "El hummus tiene una receta escrita de hace más de 700 años.",
+        "fact": "Las pastas de garbanzo y tahini son antiguas en el Levante, pero una de las primeras recetas escritas conocidas que se asemeja al hummus aparece en un libro de cocina egipcio del siglo XIII."
+      }
+    }
   },
   {
     "id": "food-019",
@@ -193,7 +448,21 @@
       "dish-origins",
       "ethiopia",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le pain plat spongieux d'Éthiopie fermente pendant des jours avant d'être cuit.",
+        "fact": "L'injera est préparée à partir d'une pâte de farine de teff laissée à fermenter pendant plusieurs jours, développant des levures sauvages et des bactéries qui lui donnent son goût acidulé caractéristique et sa texture spongieuse et bullée."
+      },
+      "nl": {
+        "hook": "Ethiopiës sponsachtige platbrood fermenteert dagenlang voordat het wordt gebakken.",
+        "fact": "Injera wordt gemaakt van een beslag van teffmeel dat enkele dagen mag fermenteren, waarbij wilde gisten en bacteriën ontstaan die het brood zijn kenmerkende zure smaak en sponzige, bubbelige textuur geven."
+      },
+      "es": {
+        "hook": "El pan plano esponjoso de Etiopía fermenta durante días antes de cocinarse.",
+        "fact": "La injera se elabora con una masa líquida de harina de teff que se deja fermentar durante varios días, desarrollando levaduras salvajes y bacterias que le dan su característico sabor ácido y su textura esponjosa y con burbujas."
+      }
+    }
   },
   {
     "id": "food-020",
@@ -203,7 +472,21 @@
     "tags": [
       "dish-origins",
       "west-africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le riz jollof tire son nom d'un empire d'Afrique de l'Ouest.",
+        "fact": "Le riz jollof remonterait à l'Empire wolof, dans la région de la Sénégambie, en Afrique de l'Ouest ; des variantes de ce plat de riz à base de tomate sont aujourd'hui revendiquées avec fierté par de nombreuses nations ouest-africaines."
+      },
+      "nl": {
+        "hook": "Jollofrijst dankt zijn naam aan een West-Afrikaans rijk.",
+        "fact": "Jollofrijst wordt herleid tot het Wolofrijk in de Senegambia-regio van West-Afrika, en varianten van dit op tomaten gebaseerde rijstgerecht worden tegenwoordig door tal van West-Afrikaanse landen met trots opgeëist."
+      },
+      "es": {
+        "hook": "El arroz jollof toma su nombre de un imperio de África occidental.",
+        "fact": "El arroz jollof se remonta al Imperio wólof, en la región de Senegambia, en África occidental, y hoy en día muchas naciones de África occidental reclaman con orgullo variantes de este plato de arroz a base de tomate."
+      }
+    }
   },
   {
     "id": "food-021",
@@ -213,7 +496,21 @@
     "tags": [
       "dish-origins",
       "peru"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le ceviche péruvien est antérieur aux citrons verts qui le caractérisent.",
+        "fact": "Les peuples préhispaniques du littoral péruvien faisaient déjà mariner le poisson dans des jus locaux fermentés bien avant la colonisation espagnole. Les colons espagnols ont introduit les agrumes, qui ont transformé le plat en ceviche mariné au citron vert que l'on connaît aujourd'hui."
+      },
+      "nl": {
+        "hook": "Peruaanse ceviche bestond al vóór de limoenen waarmee het bekendstaat.",
+        "fact": "Pre-Spaanse volkeren aan de kust van Peru marineerden vis al in gefermenteerde lokale sappen lang vóór de Spaanse kolonisatie. Spaanse kolonisten introduceerden citrusvruchten, die het gerecht veranderden in de met limoen gemarineerde ceviche die vandaag wordt gegeten."
+      },
+      "es": {
+        "hook": "El ceviche peruano es anterior a los limones con los que se lo asocia.",
+        "fact": "Los pueblos prehispánicos de la costa peruana marinaban el pescado en jugos locales fermentados mucho antes de la colonización española. Los colonizadores españoles introdujeron los cítricos, lo que transformó el plato en el ceviche marinado con limón que se come hoy."
+      }
+    }
   },
   {
     "id": "food-022",
@@ -223,7 +520,21 @@
     "tags": [
       "dish-origins",
       "mexico"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le taco de rue préféré du Mexique a des racines libanaises.",
+        "fact": "Les tacos al pastor descendent du chawarma, apporté au Mexique par des immigrants libanais entre le début et le milieu du XXe siècle. Les cuisiniers mexicains ont adapté la technique de la broche verticale, y ajoutant marinade à l'achiote et ananas."
+      },
+      "nl": {
+        "hook": "Mexico's geliefde straattaco heeft Libanese wortels.",
+        "fact": "Tacos al pastor stammen af van shoarma, dat begin tot midden 20e eeuw door Libanese immigranten naar Mexico werd gebracht. Mexicaanse koks pasten de verticale spit-techniek aan, met een achiote-marinade en ananas."
+      },
+      "es": {
+        "hook": "El querido taco callejero de México tiene raíces libanesas.",
+        "fact": "Los tacos al pastor descienden del shawarma, traído a México por inmigrantes libaneses a principios y mediados del siglo XX. Los cocineros mexicanos adaptaron la técnica del asador vertical, incorporando el adobo de achiote y la piña."
+      }
+    }
   },
   {
     "id": "food-023",
@@ -234,7 +545,21 @@
       "dish-origins",
       "united-states",
       "italy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les spaghettis aux boulettes de viande sont une invention américaine.",
+        "fact": "La cuisine italienne sert rarement de grosses boulettes de viande empilées sur des pâtes en sauce ; cette combinaison a été popularisée par les immigrants italiens aux États-Unis au début du XXe siècle, et non en Italie."
+      },
+      "nl": {
+        "hook": "Spaghetti met gehaktballen is een Amerikaanse uitvinding.",
+        "fact": "In de Italiaanse keuken worden zelden grote gehaktballen op pasta met saus geserveerd; deze combinatie werd begin 20e eeuw gepopulariseerd door Italiaanse immigranten in de Verenigde Staten, niet in Italië."
+      },
+      "es": {
+        "hook": "Los espaguetis con albóndigas son un invento estadounidense.",
+        "fact": "La cocina italiana rara vez sirve grandes albóndigas apiladas sobre pasta con salsa; esta combinación fue popularizada por inmigrantes italianos en Estados Unidos a principios del siglo XX, no en Italia."
+      }
+    }
   },
   {
     "id": "food-024",
@@ -245,7 +570,21 @@
       "dish-origins",
       "italy",
       "united-states"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les fettuccine Alfredo ont commencé avec trois ingrédients, pas de la crème.",
+        "fact": "Le restaurateur romain Alfredo di Lelio a créé ce plat vers 1908 en utilisant seulement du beurre, du parmesan et de l'eau de cuisson des pâtes. La version riche en crème servie aujourd'hui dans le monde est en grande partie une adaptation américaine."
+      },
+      "nl": {
+        "hook": "Fettuccine Alfredo begon met drie ingrediënten, geen room.",
+        "fact": "De Romeinse restauranthouder Alfredo di Lelio bedacht het gerecht rond 1908 met alleen boter, parmezaan en kookvocht van de pasta. De romige versie die tegenwoordig internationaal wordt geserveerd, is grotendeels een Amerikaanse bewerking."
+      },
+      "es": {
+        "hook": "El fettuccine Alfredo empezó con tres ingredientes, no con crema.",
+        "fact": "El restaurador romano Alfredo di Lelio creó el plato hacia 1908 usando solo mantequilla, parmesano y agua de cocción de la pasta. La versión rica en crema que se sirve hoy en todo el mundo es en gran parte una adaptación estadounidense."
+      }
+    }
   },
   {
     "id": "food-025",
@@ -256,7 +595,21 @@
       "ingredient-history",
       "india",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « naan » n'est pas du tout sud-asiatique.",
+        "fact": "Le mot naan vient du persan désignant le pain et s'est répandu en Asie du Sud principalement grâce à la cuisine de cour moghole, influencée par la Perse, devenant un aliment de base dans la région au fil des siècles."
+      },
+      "nl": {
+        "hook": "Het woord 'naan' is helemaal niet Zuid-Aziatisch.",
+        "fact": "Naan komt van het Perzische woord voor brood en verspreidde zich naar Zuid-Azië grotendeels via de door Perzië beïnvloede keuken van het Mogol-hof, en werd door de eeuwen heen een basisvoedsel in de regio."
+      },
+      "es": {
+        "hook": "La palabra «naan» no es en absoluto surasiática.",
+        "fact": "Naan proviene de la palabra persa para pan y se extendió a Asia meridional principalmente a través de la cocina cortesana mogol de influencia persa, convirtiéndose en un alimento básico de la región a lo largo de los siglos."
+      }
+    }
   },
   {
     "id": "food-026",
@@ -266,7 +619,21 @@
     "tags": [
       "dish-origins",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le canard laqué de Pékin était déjà vieux de plusieurs siècles quand les Européens en ont entendu parler pour la première fois.",
+        "fact": "Le canard rôti préparé pour les cours impériales chinoises remonte à au moins la dynastie Ming, au XIVe siècle, le plat ayant évolué vers le canard laqué de Pékin à la peau croustillante servi aujourd'hui."
+      },
+      "nl": {
+        "hook": "Pekingeend was al eeuwenoud toen Europeanen er voor het eerst van hoorden.",
+        "fact": "Gebraden eend voor Chinese keizerlijke hoven gaat terug tot ten minste de Ming-dynastie in de 14e eeuw, waarbij het gerecht evolueerde tot de krokante Pekingeend die vandaag wordt geserveerd."
+      },
+      "es": {
+        "hook": "El pato pekinés ya tenía siglos de antigüedad cuando los europeos oyeron hablar de él por primera vez.",
+        "fact": "El pato asado preparado para las cortes imperiales chinas se remonta al menos a la dinastía Ming, en el siglo XIV, y el plato evolucionó hasta convertirse en el pato pekinés de piel crujiente que se sirve hoy."
+      }
+    }
   },
   {
     "id": "food-027",
@@ -276,7 +643,21 @@
     "tags": [
       "dish-origins",
       "spain"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le nom de la paella pourrait simplement signifier « poêle ».",
+        "fact": "La plupart des étymologistes font remonter le mot paella au latin patella, signifiant poêle, en référence au large plat peu profond dans lequel le riz valencien est traditionnellement cuit et servi."
+      },
+      "nl": {
+        "hook": "De naam paella betekent mogelijk gewoon 'pan'.",
+        "fact": "De meeste etymologen herleiden het woord paella tot het Latijnse patella, wat pan betekent, verwijzend naar de brede, ondiepe pan waarin het Valenciaanse rijstgerecht traditioneel wordt bereid en geserveerd."
+      },
+      "es": {
+        "hook": "El nombre de la paella podría simplemente significar «sartén».",
+        "fact": "La mayoría de los etimólogos remontan la palabra paella al latín patella, que significa sartén, en referencia al recipiente ancho y poco profundo en el que tradicionalmente se cocina y se sirve el arroz valenciano."
+      }
+    }
   },
   {
     "id": "food-028",
@@ -287,7 +668,21 @@
       "dish-origins",
       "hungary",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le ragoût national de la Hongrie est antérieur de plusieurs siècles à son épice emblématique.",
+        "fact": "Le goulasch a commencé comme un simple ragoût préparé par des bergers magyars, dont le nom gulyás signifie « berger ». Le paprika, aujourd'hui central dans ce plat, n'y a été ajouté que des générations plus tard, une fois les piments venus des Amériques cultivés en Hongrie."
+      },
+      "nl": {
+        "hook": "Hongarije's nationale stoofpot bestond al eeuwen vóór zijn kenmerkende specerij.",
+        "fact": "Goulash begon als een eenvoudige stoofpot gemaakt door Magyaarse herders, van wie de naam gulyás 'herder' betekent. Paprika, nu essentieel voor het gerecht, werd pas generaties later toegevoegd, nadat pepers uit Amerika in Hongarije werden verbouwd."
+      },
+      "es": {
+        "hook": "El guiso nacional de Hungría es varios siglos anterior a su especia distintiva.",
+        "fact": "El gulash comenzó como un sencillo guiso preparado por pastores magiares, cuyo nombre gulyás significa «pastor». El pimentón, hoy central en el plato, no se añadió hasta generaciones después, cuando se cultivaron en Hungría los pimientos llegados de América."
+      }
+    }
   },
   {
     "id": "food-029",
@@ -297,7 +692,21 @@
     "tags": [
       "dish-origins",
       "germany"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le currywurst est né des restes de rations de l'armée alliée.",
+        "fact": "En 1949, à Berlin, Herta Heuwer a mélangé du ketchup et du curry en poudre qu'elle avait obtenus de soldats britanniques avec une saucisse grillée, créant le currywurst, aujourd'hui un pilier de la restauration de rue allemande."
+      },
+      "nl": {
+        "hook": "Currywurst werd uitgevonden met restjes uit geallieerde legerrantsoenen.",
+        "fact": "In 1949 combineerde Herta Heuwer in Berlijn ketchup en kerriepoeder die ze van Britse soldaten had gekregen met gegrilde worst, en creëerde zo currywurst, tegenwoordig een vast onderdeel van het Duitse straatvoedsel."
+      },
+      "es": {
+        "hook": "El currywurst se inventó con sobras de las raciones del ejército aliado.",
+        "fact": "En 1949, en Berlín, Herta Heuwer combinó kétchup y curry en polvo que había conseguido de soldados británicos con salchicha a la parrilla, creando el currywurst, hoy un clásico de la comida callejera alemana."
+      }
+    }
   },
   {
     "id": "food-030",
@@ -307,7 +716,21 @@
     "tags": [
       "dish-origins",
       "mexico"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les tamales nourrissaient déjà des armées avant même que les Européens n'atteignent les Amériques.",
+        "fact": "Les tamales étaient un aliment de base des civilisations maya et aztèque depuis des milliers d'années avant le contact espagnol, appréciés comme nourriture portable et facile à conserver pour les voyageurs, ouvriers et guerriers."
+      },
+      "nl": {
+        "hook": "Tamales voedden al legers voordat Europeanen ooit Amerika bereikten.",
+        "fact": "Tamales waren duizenden jaren vóór het Spaanse contact al een basisvoedsel van de Maya- en Azteekse beschavingen, gewaardeerd als draagbaar en goed houdbaar voedsel voor reizigers, arbeiders en krijgers."
+      },
+      "es": {
+        "hook": "Los tamales ya alimentaban ejércitos antes de que los europeos llegaran a América.",
+        "fact": "Los tamales fueron un alimento básico de las civilizaciones maya y azteca durante miles de años antes del contacto español, valorados como comida portátil y fácil de conservar para viajeros, trabajadores y guerreros."
+      }
+    }
   },
   {
     "id": "food-031",
@@ -317,7 +740,21 @@
     "tags": [
       "dish-origins",
       "vietnam"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La célèbre soupe de nouilles du Vietnam est une fusion de trois cultures.",
+        "fact": "Le pho est né au début du XXe siècle dans le nord du Vietnam, mêlant nouilles de riz et herbes vietnamiennes aux traditions françaises de bœuf mijoté comme le pot-au-feu, lui-même façonné par une influence culinaire chinoise antérieure."
+      },
+      "nl": {
+        "hook": "Vietnams beroemde noedelsoep is een fusie van drie culturen.",
+        "fact": "Pho ontstond begin 20e eeuw in Noord-Vietnam, waarbij Vietnamese rijstnoedels en kruiden werden gecombineerd met Franse tradities van gestoofd rundvlees zoals pot-au-feu, dat op zijn beurt was gevormd door eerdere Chinese culinaire invloeden."
+      },
+      "es": {
+        "hook": "La famosa sopa de fideos de Vietnam es una fusión de tres culturas.",
+        "fact": "El pho surgió a principios del siglo XX en el norte de Vietnam, combinando fideos de arroz y hierbas vietnamitas con tradiciones francesas de carne de res estofada como el pot-au-feu, a su vez moldeado por una influencia culinaria china anterior."
+      }
+    }
   },
   {
     "id": "food-032",
@@ -327,7 +764,21 @@
     "tags": [
       "dish-origins",
       "vietnam"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le sandwich banh mi fonctionne grâce à des restes coloniaux.",
+        "fact": "Le banh mi combine la baguette française, introduite pendant la domination coloniale au Vietnam, avec des garnitures typiquement vietnamiennes comme le radis blanc et la carotte marinés, la coriandre et le pâté."
+      },
+      "nl": {
+        "hook": "De banh-mibroodje draait op koloniale restjes.",
+        "fact": "Banh mi combineert het Franse stokbrood, geïntroduceerd tijdens de koloniale overheersing in Vietnam, met kenmerkend Vietnamese vullingen zoals ingemaakte daikon en wortel, koriander en paté."
+      },
+      "es": {
+        "hook": "El sándwich banh mi funciona con sobras coloniales.",
+        "fact": "El banh mi combina la baguette francesa, introducida durante el dominio colonial en Vietnam, con rellenos claramente vietnamitas como rábano daikon y zanahoria encurtidos, cilantro y paté."
+      }
+    }
   },
   {
     "id": "food-033",
@@ -337,7 +788,21 @@
     "tags": [
       "dish-origins",
       "jamaica"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'assaisonnement jerk jamaïcain est né de la résistance, pas de livres de recettes.",
+        "fact": "La cuisson jerk est attribuée aux Marrons, des Africains autrefois réduits en esclavage ayant fui vers les montagnes de la Jamaïque, qui ont combiné les traditions d'assaisonnement ouest-africaines avec les méthodes de cuisson en fosse des Taïnos autochtones et le piment de la Jamaïque local."
+      },
+      "nl": {
+        "hook": "Jamaicaanse jerkkruiden ontstonden uit verzet, niet uit kookboeken.",
+        "fact": "Jerk-koken wordt toegeschreven aan de Marrons, voormalig tot slaaf gemaakte Afrikanen die naar de bergen van Jamaica vluchtten en West-Afrikaanse kruidentradities combineerden met de kuilkooktechnieken van de inheemse Taino en lokale piment (allspice)."
+      },
+      "es": {
+        "hook": "El condimento jerk jamaicano nació de la resistencia, no de recetarios.",
+        "fact": "La cocción jerk se atribuye a los cimarrones, africanos antes esclavizados que huyeron a las montañas de Jamaica y combinaron tradiciones de condimentación de África occidental con los métodos de cocción en foso de los taínos indígenas y la pimienta de Jamaica local."
+      }
+    }
   },
   {
     "id": "food-034",
@@ -347,7 +812,21 @@
     "tags": [
       "dish-origins",
       "greece"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un classique grec doit sa forme moderne à une technique tirée d'un livre de cuisine français.",
+        "fact": "La moussaka existait sous diverses formes dans le monde ottoman et balkanique, mais la version grecque désormais emblématique, nappée de sauce béchamel, a été créée par le chef Nikolaos Tselementes dans les années 1920, en s'inspirant de la cuisine française."
+      },
+      "nl": {
+        "hook": "Een Griekse klassieker kreeg zijn moderne vorm dankzij een techniek uit een Frans kookboek.",
+        "fact": "Moussaka bestond in verschillende vormen in de Ottomaanse en Balkanwereld, maar de nu iconische Griekse versie met bechamelsaus werd in de jaren 20 gecreëerd door chef Nikolaos Tselementes, geïnspireerd op de Franse keuken."
+      },
+      "es": {
+        "hook": "Un clásico griego obtuvo su forma moderna gracias a una técnica de un recetario francés.",
+        "fact": "La musaca existía en diversas formas en el mundo otomano y balcánico, pero la versión griega hoy icónica, cubierta con salsa bechamel, fue creada por el chef Nikolaos Tselementes en la década de 1920, inspirándose en la cocina francesa."
+      }
+    }
   },
   {
     "id": "food-035",
@@ -358,7 +837,21 @@
       "dish-origins",
       "united-states",
       "mexico"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le chili con carne est un plat texan, pas mexicain.",
+        "fact": "Le chili con carne s'est développé dans les régions frontalières entre le Texas et le nord du Mexique au XIXe siècle et ne fait pas partie de la cuisine traditionnelle du centre ou du sud du Mexique, malgré une idée reçue répandue."
+      },
+      "nl": {
+        "hook": "Chili con carne is een gerecht uit Texas, geen Mexicaans gerecht.",
+        "fact": "Chili con carne ontstond in de 19e eeuw in het grensgebied tussen Texas en Noord-Mexico en maakt geen deel uit van de traditionele keuken van Centraal- of Zuid-Mexico, ondanks een veelvoorkomende aanname."
+      },
+      "es": {
+        "hook": "El chili con carne es un plato de Texas, no mexicano.",
+        "fact": "El chili con carne se desarrolló en la frontera entre Texas y el norte de México en el siglo XIX y no forma parte de la cocina tradicional del centro o el sur de México, pese a la suposición habitual."
+      }
+    }
   },
   {
     "id": "food-036",
@@ -368,7 +861,21 @@
     "tags": [
       "dish-origins",
       "turkey"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La broche tournante du döner kebab est une invention ottomane du XIXe siècle.",
+        "fact": "La technique consistant à empiler de la viande et à la rôtir verticalement sur une broche tournante s'est développée dans la Turquie ottomane du XIXe siècle, donnant naissance plus tard à des plats apparentés comme le gyro grec et le sandwich popularisé en Allemagne."
+      },
+      "nl": {
+        "hook": "Het draaiende spit van de döner kebab was een 19e-eeuwse Ottomaanse uitvinding.",
+        "fact": "De techniek van vlees stapelen en het verticaal roosteren op een draaiend spit ontstond in het 19e-eeuwse Ottomaanse Turkije, en leidde later tot verwante gerechten zoals de Griekse gyros en het broodje dat populair werd in Duitsland."
+      },
+      "es": {
+        "hook": "El asador giratorio del döner kebab fue un invento otomano del siglo XIX.",
+        "fact": "La técnica de apilar carne y asarla verticalmente en un asador giratorio se desarrolló en la Turquía otomana del siglo XIX, dando origen más tarde a platos afines como el gyros griego y el sándwich popularizado en Alemania."
+      }
+    }
   },
   {
     "id": "food-037",
@@ -379,7 +886,21 @@
       "dish-origins",
       "united-states",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le chop suey est un plat américain sous un nom chinois.",
+        "fact": "Le chop suey a probablement été créé par des immigrants chinois, en grande partie originaires de Taishan, dans l'Amérique du XIXe siècle, et il n'est guère reconnu comme plat traditionnel en Chine même."
+      },
+      "nl": {
+        "hook": "Chop suey is een Amerikaans gerecht met een Chinese naam.",
+        "fact": "Chop suey werd waarschijnlijk ontwikkeld door Chinese immigranten, grotendeels afkomstig uit Taishan, in het 19e-eeuwse Amerika, en wordt in China zelf grotendeels niet erkend als traditioneel gerecht."
+      },
+      "es": {
+        "hook": "El chop suey es un plato estadounidense con nombre chino.",
+        "fact": "El chop suey probablemente fue creado por inmigrantes chinos, en gran parte originarios de Taishan, en el Estados Unidos del siglo XIX, y apenas se reconoce como plato tradicional en la propia China."
+      }
+    }
   },
   {
     "id": "food-038",
@@ -390,7 +911,21 @@
       "dish-origins",
       "india",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La samosa a parcouru des milliers de kilomètres avant d'atteindre l'Inde.",
+        "fact": "La samosa serait originaire d'Asie centrale ou de Perse sous le nom de sanbosag, et aurait atteint l'Asie du Sud via les routes commerciales de la Route de la soie vers les XIIIe-XIVe siècles, bien avant qu'elle ne contienne habituellement de la pomme de terre."
+      },
+      "nl": {
+        "hook": "De samosa reisde duizenden kilometers voordat hij India bereikte.",
+        "fact": "De samosa is waarschijnlijk ontstaan in Centraal-Azië of Perzië als sanbosag en bereikte Zuid-Azië via handelaars langs de zijderoute rond de 13e-14e eeuw, eeuwen voordat hij doorgaans aardappel bevatte."
+      },
+      "es": {
+        "hook": "La samosa viajó miles de kilómetros antes de llegar a la India.",
+        "fact": "La samosa probablemente se originó en Asia Central o Persia como sanbosag y llegó a Asia meridional a través de comerciantes de la Ruta de la Seda hacia los siglos XIII-XIV, siglos antes de que típicamente llevara patata."
+      }
+    }
   },
   {
     "id": "food-039",
@@ -400,7 +935,21 @@
     "tags": [
       "dish-origins",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le nom du biryani est un indice de ses origines perses.",
+        "fact": "Le nom biryani viendrait du mot persan birian, signifiant « frit avant cuisson », et ce plat de riz en couches a été popularisé en Asie du Sud dans les cuisines royales de l'époque moghole."
+      },
+      "nl": {
+        "hook": "De naam biryani verraadt zijn Perzische afkomst.",
+        "fact": "De naam biryani zou afkomstig zijn van het Perzische woord birian, wat 'gebakken vóór het koken' betekent, en het gelaagde rijstgerecht werd populair in Zuid-Azië via koninklijke keukens uit het Mogol-tijdperk."
+      },
+      "es": {
+        "hook": "El nombre del biryani es una pista de su ascendencia persa.",
+        "fact": "Se cree que el nombre biryani deriva de la palabra persa birian, que significa «frito antes de cocinar», y este plato de arroz en capas se popularizó en Asia meridional a través de las cocinas reales de la era mogol."
+      }
+    }
   },
   {
     "id": "food-040",
@@ -410,7 +959,21 @@
     "tags": [
       "ingredient-history",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le vrai wasabi ne quitte presque jamais le Japon.",
+        "fact": "La véritable plante de wasabi pousse dans des lits de ruisseaux montagneux froids au Japon et est notoirement difficile à cultiver. La majeure partie du wasabi servi dans le monde, et même une grande partie de celui servi au Japon, est en réalité du raifort et de la moutarde colorés."
+      },
+      "nl": {
+        "hook": "Echte wasabi verlaat bijna nooit Japan.",
+        "fact": "De echte wasabiplant groeit in koude bergbeekbeddingen in Japan en is notoir lastig te kweken. De meeste wasabi die wereldwijd wordt geserveerd, en zelfs veel van wat in Japan zelf wordt geserveerd, is eigenlijk gekleurde mierikswortel en mosterd."
+      },
+      "es": {
+        "hook": "El wasabi auténtico casi nunca sale de Japón.",
+        "fact": "La planta de wasabi verdadero crece en lechos de arroyos de montaña fríos en Japón y es notoriamente difícil de cultivar. La mayor parte del wasabi que se sirve en el mundo, e incluso gran parte del que se sirve en el propio Japón, es en realidad rábano picante y mostaza teñidos."
+      }
+    }
   },
   {
     "id": "food-041",
@@ -420,7 +983,21 @@
     "tags": [
       "dish-origins",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une restauratrice au visage grêlé a donné à la cuisine sichuanaise l'une de ses icônes.",
+        "fact": "Le mapo tofu aurait été inventé au XIXe siècle par une femme surnommée « Chen Mapo », qui tenait un petit restaurant près de Chengdu et associait le tofu à une pâte de fèves fermentée et au poivre du Sichuan."
+      },
+      "nl": {
+        "hook": "Een pokdalige restauranthoudster gaf de Sichuanese keuken een van haar iconen.",
+        "fact": "Mapo tofu zou in de 19e eeuw zijn uitgevonden door een vrouw die bekendstond als 'Chen Mapo', die een klein restaurant bij Chengdu runde en tofu combineerde met gefermenteerde tuinbonenpasta en Sichuanpeper."
+      },
+      "es": {
+        "hook": "Una restauradora con marcas de viruela dio a la cocina sichuanesa uno de sus iconos.",
+        "fact": "Se dice que el mapo tofu fue inventado en el siglo XIX por una mujer conocida como 'Chen Mapo', que regentaba un pequeño restaurante cerca de Chengdu y combinaba tofu con pasta de habas fermentada y pimienta de Sichuan."
+      }
+    }
   },
   {
     "id": "food-042",
@@ -431,7 +1008,21 @@
       "dish-origins",
       "china",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains œufs chinois sont conservés pendant des semaines sans aucune réfrigération.",
+        "fact": "Les œufs de cent ans, ou pidan, sont conservés en faisant mariner des œufs crus pendant des semaines dans un mélange d'argile, de cendre, de sel et de chaux vive, ce qui élève suffisamment le pH pour décomposer les protéines et rendre le jaune sombre et crémeux."
+      },
+      "nl": {
+        "hook": "Sommige Chinese eieren worden wekenlang gerijpt zonder koeling.",
+        "fact": "Eeuwenoude eieren, of pidan, worden bewaard door rauwe eieren wekenlang te laten rijpen in een mengsel van klei, as, zout en ongebluste kalk, waardoor de pH hoog genoeg wordt om eiwitten af te breken en de dooier donker en romig te maken."
+      },
+      "es": {
+        "hook": "Algunos huevos chinos se curan durante semanas sin refrigeración.",
+        "fact": "Los huevos centenarios, o pidan, se conservan curando huevos crudos durante semanas en una mezcla de arcilla, ceniza, sal y cal viva, que eleva el pH lo suficiente como para descomponer las proteínas y volver la yema oscura y cremosa."
+      }
+    }
   },
   {
     "id": "food-043",
@@ -442,7 +1033,21 @@
       "dish-origins",
       "africa",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un condiment colonial portugais était en réalité fait à base de piments africains.",
+        "fact": "La sauce piri piri est née lorsque des marchands portugais ont associé des piments, à l'origine domestiqués en Amérique, aux piments oiseau africains cultivés dans des colonies comme le Mozambique et l'Angola, créant une fusion luso-africaine unique."
+      },
+      "nl": {
+        "hook": "Een Portugees koloniaal kruidenmiddel was eigenlijk gemaakt van Afrikaanse pepers.",
+        "fact": "Piripirisaus ontstond toen Portugese handelaars chilipepers, oorspronkelijk gedomesticeerd in Amerika, combineerden met Afrikaanse vogeloogpepertjes die werden verbouwd in koloniën als Mozambique en Angola, wat een unieke Luso-Afrikaanse fusie opleverde."
+      },
+      "es": {
+        "hook": "Un condimento colonial portugués en realidad se hacía con chiles africanos.",
+        "fact": "La salsa piri piri surgió cuando los comerciantes portugueses combinaron los chiles, originalmente domesticados en América, con los chiles ojo de pájaro africanos cultivados en colonias como Mozambique y Angola, creando una fusión lusoafricana singular."
+      }
+    }
   },
   {
     "id": "food-044",
@@ -453,7 +1058,21 @@
       "ingredient-history",
       "ethiopia",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'un des mélanges d'épices emblématiques de l'Éthiopie contient un ingrédient vieux de seulement 500 ans dans le pays.",
+        "fact": "Le berbéré, ce mélange d'épices ardent essentiel à des plats comme le doro wat, repose sur le piment, qui n'a été introduit en Éthiopie qu'après l'échange colombien, bien qu'il semble aujourd'hui être un ingrédient ancestral."
+      },
+      "nl": {
+        "hook": "Een van Ethiopiës kenmerkende kruidenmengsels bevat een ingrediënt dat er pas 500 jaar bestaat.",
+        "fact": "Berbere, het pittige kruidenmengsel dat centraal staat in gerechten als doro wat, is gebaseerd op chilipepers, die pas na de Columbiaanse uitwisseling in Ethiopië werden geïntroduceerd, ook al voelt het vandaag als een eeuwenoud basisingrediënt."
+      },
+      "es": {
+        "hook": "Una de las mezclas de especias más características de Etiopía contiene un ingrediente que solo lleva 500 años allí.",
+        "fact": "El berbere, la ardiente mezcla de especias esencial en platos como el doro wat, se basa en el chile, que no se introdujo en Etiopía hasta después del intercambio colombino, aunque hoy parezca un ingrediente ancestral."
+      }
+    }
   },
   {
     "id": "food-045",
@@ -463,7 +1082,21 @@
     "tags": [
       "dish-origins",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'origine du falafel est revendiquée par deux régions différentes.",
+        "fact": "Le falafel est souvent attribué à l'Égypte, où les chrétiens coptes auraient consommé des beignets frits de pois chiches ou de fèves comme substitut de viande pendant le Carême, bien que le Levant revendique lui aussi des liens historiques profonds avec ce plat."
+      },
+      "nl": {
+        "hook": "Twee verschillende regio's claimen de oorsprong van falafel.",
+        "fact": "Falafel wordt vaak herleid tot Egypte, waar koptische christenen tijdens de vasten gefrituurde balletjes van kikkererwten of tuinbonen zouden hebben gegeten als vleesvervanger, al claimt ook de Levant diepe historische banden met het gerecht."
+      },
+      "es": {
+        "hook": "El origen del falafel lo reclaman dos regiones distintas.",
+        "fact": "El falafel suele atribuirse a Egipto, donde se cree que los cristianos coptos comían buñuelos fritos de garbanzos o habas como sustituto de la carne durante la Cuaresma, aunque el Levante también reivindica profundos vínculos históricos con el plato."
+      }
+    }
   },
   {
     "id": "food-046",
@@ -474,7 +1107,24 @@
     "tags": [
       "ingredient-history",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Européens médiévaux payaient parfois leur loyer en grains de poivre.",
+        "fact": "Le poivre noir avait une telle valeur dans l'Europe médiévale qu'il servait parfois de monnaie ou permettait de payer loyers et dots ; le commerce du poivre a d'ailleurs contribué à lancer l'ère des grandes explorations.",
+        "whyItMatters": "La quête de routes commerciales directes vers les épices a redessiné l'exploration mondiale, la colonisation et les réseaux commerciaux pendant des siècles."
+      },
+      "nl": {
+        "hook": "Middeleeuwse Europeanen betaalden hun huur soms met peperkorrels.",
+        "fact": "Zwarte peper was in middeleeuws Europa zo waardevol dat hij af en toe als betaalmiddel diende of werd gebruikt om huur en bruidsschatten te betalen, en de peperhandel hielp het tijdperk van ontdekkingsreizen op gang brengen.",
+        "whyItMatters": "De zoektocht naar directe handelsroutes voor specerijen hertekende eeuwenlang de wereldwijde ontdekkingstochten, kolonisatie en handelsnetwerken."
+      },
+      "es": {
+        "hook": "Los europeos medievales a veces pagaban el alquiler con granos de pimienta.",
+        "fact": "La pimienta negra era tan valiosa en la Europa medieval que a veces se usaba como moneda o para pagar alquileres y dotes, y el comercio de la pimienta ayudó a impulsar la era de los descubrimientos.",
+        "whyItMatters": "La búsqueda de rutas comerciales directas hacia las especias transformó durante siglos la exploración mundial, la colonización y las redes comerciales."
+      }
+    }
   },
   {
     "id": "food-047",
@@ -485,7 +1135,24 @@
     "tags": [
       "ingredient-history",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Manhattan a jadis été échangée contre une île productrice de noix de muscade.",
+        "fact": "La noix de muscade ne poussait à l'origine que sur les minuscules îles Banda, en Indonésie. Par le traité de Breda de 1667, les Néerlandais ont cédé leurs droits sur l'île de Manhattan aux Anglais en échange du contrôle total de Run, l'une des îles Banda.",
+        "whyItMatters": "Cet accord a contribué à faire passer New York sous contrôle anglais, tout en assurant aux Néerlandais un monopole sur l'une des épices les plus précieuses de l'époque."
+      },
+      "nl": {
+        "hook": "Manhattan werd ooit ingeruild voor een nootmuskaateiland.",
+        "fact": "Nootmuskaat groeide oorspronkelijk alleen op de kleine Banda-eilanden in Indonesië. Bij het Verdrag van Breda in 1667 ruilden de Nederlanders hun aanspraak op Manhattan in bij de Engelsen, in ruil voor volledige controle over Run, een van de Banda-eilanden.",
+        "whyItMatters": "De deal hielp New York onder Engelse controle te brengen, terwijl de Nederlanders een monopolie kregen op een van de meest waardevolle specerijen van die tijd."
+      },
+      "es": {
+        "hook": "Manhattan se intercambió una vez por una isla productora de nuez moscada.",
+        "fact": "La nuez moscada originalmente solo crecía en las diminutas islas Banda de Indonesia. En el Tratado de Breda de 1667, los neerlandeses cedieron su reclamo sobre la isla de Manhattan a los ingleses a cambio del control total de Run, una de las islas Banda.",
+        "whyItMatters": "El acuerdo ayudó a que Nueva York pasara a manos inglesas, a la vez que aseguró a los neerlandeses el monopolio de una de las especias más valiosas de la época."
+      }
+    }
   },
   {
     "id": "food-048",
@@ -495,7 +1162,21 @@
     "tags": [
       "ingredient-history",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il faut environ 150 fleurs pour obtenir un seul gramme de safran.",
+        "fact": "Le safran provient des stigmates récoltés à la main de la fleur de crocus, et chaque fleur ne produit que trois minuscules filaments, ce qui en fait, au poids, l'une des épices les plus chères au monde."
+      },
+      "nl": {
+        "hook": "Er zijn zo'n 150 bloemen nodig voor slechts één gram saffraan.",
+        "fact": "Saffraan komt van de met de hand geoogste stampers van de crocusbloem, en elke bloem levert slechts drie piepkleine draadjes op, waardoor het qua gewicht een van de duurste specerijen ter wereld is."
+      },
+      "es": {
+        "hook": "Se necesitan unas 150 flores para obtener un solo gramo de azafrán.",
+        "fact": "El azafrán proviene de los estigmas de la flor del azafrán, recolectados a mano, y cada flor produce solo tres finísimos hilos, lo que lo convierte, por peso, en una de las especias más caras del mundo."
+      }
+    }
   },
   {
     "id": "food-049",
@@ -506,7 +1187,24 @@
     "tags": [
       "ingredient-history",
       "vanilla"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un garçon réduit en esclavage de 12 ans a rendu possible l'industrie mondiale de la vanille.",
+        "fact": "Les orchidées à vanille n'étaient à l'origine pollinisées que par des abeilles indigènes du Mexique, ce qui limitait sa culture ailleurs. En 1841, Edmond Albius, un garçon réduit en esclavage de 12 ans sur l'île de la Réunion, a inventé une méthode de pollinisation manuelle qui a permis de cultiver la vanille dans le monde entier.",
+        "whyItMatters": "La technique d'Albius, toujours utilisée aujourd'hui, explique pourquoi la vanille peut être cultivée commercialement bien au-delà de son Mexique natal."
+      },
+      "nl": {
+        "hook": "Een 12-jarige tot slaaf gemaakte jongen maakte de wereldwijde vanille-industrie mogelijk.",
+        "fact": "Vanille-orchideeën werden oorspronkelijk alleen bestoven door inheemse Mexicaanse bijen, wat teelt elders beperkte. In 1841 vond Edmond Albius, een 12-jarige tot slaaf gemaakte jongen op het eiland Réunion, een methode voor handbestuiving uit die vanilleteelt wereldwijd mogelijk maakte.",
+        "whyItMatters": "Albius' techniek, die nog steeds wordt gebruikt, is de reden dat vanille commercieel geteeld kan worden ver buiten zijn geboorteland Mexico."
+      },
+      "es": {
+        "hook": "Un niño esclavizado de 12 años hizo posible la industria mundial de la vainilla.",
+        "fact": "Las orquídeas de vainilla originalmente solo eran polinizadas por abejas nativas mexicanas, lo que limitaba su cultivo en otros lugares. En 1841, Edmond Albius, un niño esclavizado de 12 años en la isla de Reunión, inventó un método de polinización manual que permitió cultivar vainilla en todo el mundo.",
+        "whyItMatters": "La técnica de Albius, todavía utilizada hoy, es la razón por la que la vainilla puede cultivarse comercialmente mucho más allá de su México natal."
+      }
+    }
   },
   {
     "id": "food-050",
@@ -516,7 +1214,21 @@
     "tags": [
       "ingredient-history",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des marchands arabes ont inventé des histoires abracadabrantes pour protéger leur monopole sur la cannelle.",
+        "fact": "Pendant des siècles, des marchands d'épices arabes ont propagé des récits élaborés et mensongers selon lesquels la cannelle était gardée par des oiseaux géants ou récoltée dans des ravins dangereux, dissimulant ainsi sa véritable origine en Asie du Sud pour maintenir des prix élevés et écarter la concurrence."
+      },
+      "nl": {
+        "hook": "Arabische handelaars verzonnen fabels om hun kaneelmonopolie te beschermen.",
+        "fact": "Eeuwenlang verspreidden Arabische specerijenhandelaars uitgebreide en valse verhalen dat kaneel werd bewaakt door reuzenvogels of verzameld in gevaarlijke ravijnen, om de werkelijke herkomst in Zuid-Azië te verbergen en zo de prijzen hoog te houden en concurrenten weg te houden."
+      },
+      "es": {
+        "hook": "Los comerciantes árabes inventaron leyendas para proteger su monopolio de la canela.",
+        "fact": "Durante siglos, los mercaderes árabes de especias difundieron historias elaboradas y falsas sobre que la canela estaba custodiada por aves gigantes o se recolectaba en barrancos peligrosos, ocultando así su verdadero origen en el sur de Asia para mantener los precios altos y alejar a los rivales."
+      }
+    }
   },
   {
     "id": "food-051",
@@ -526,7 +1238,21 @@
     "tags": [
       "ingredient-history",
       "peru"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La pomme de terre compte des milliers de variétés cousines encore cultivées dans son berceau andin.",
+        "fact": "La pomme de terre a été domestiquée dans les Andes du Pérou et de Bolivie il y a des milliers d'années, et des milliers de variétés locales y sont encore cultivées aujourd'hui. Les colons espagnols l'ont introduite en Europe au XVIe siècle."
+      },
+      "nl": {
+        "hook": "De aardappel heeft duizenden verwanten die nog altijd groeien in zijn Andesbakermat.",
+        "fact": "Aardappelen werden duizenden jaren geleden gedomesticeerd in de Andes van Peru en Bolivia, en er worden er nog steeds duizenden inheemse variëteiten geteeld. Spaanse kolonisatoren brachten de aardappel in de 16e eeuw naar Europa."
+      },
+      "es": {
+        "hook": "La patata tiene miles de parientes que aún crecen en su tierra natal andina.",
+        "fact": "La patata fue domesticada en los Andes de Perú y Bolivia hace miles de años, y allí todavía se cultivan miles de variedades nativas. Los colonizadores españoles la llevaron a Europa en el siglo XVI."
+      }
+    }
   },
   {
     "id": "food-052",
@@ -536,7 +1262,21 @@
     "tags": [
       "ingredient-history",
       "mexico"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ancêtre sauvage du maïs ressemble à peine à un épi de maïs.",
+        "fact": "Le maïs a été domestiqué à partir d'une graminée sauvage appelée téosinte dans le sud du Mexique il y a environ 9 000 ans, une transformation si radicale que les épis de téosinte d'origine ressemblent à peine au maïs moderne."
+      },
+      "nl": {
+        "hook": "De wilde voorouder van maïs lijkt nauwelijks op een maïskolf.",
+        "fact": "Maïs werd ongeveer 9.000 jaar geleden in het zuiden van Mexico gedomesticeerd uit een wild gras genaamd teosinte, een transformatie zo ingrijpend dat vroege teosintekolven nauwelijks lijken op moderne maïs."
+      },
+      "es": {
+        "hook": "El ancestro silvestre del maíz apenas se parece a una mazorca.",
+        "fact": "El maíz fue domesticado a partir de una hierba silvestre llamada teosinte en el sur de México hace unos 9.000 años, una transformación tan drástica que las primeras mazorcas de teosinte apenas se parecen al maíz moderno."
+      }
+    }
   },
   {
     "id": "food-053",
@@ -547,7 +1287,24 @@
     "tags": [
       "ingredient-history",
       "sugar"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La diffusion du sucre dans le monde a contribué à alimenter la traite négrière transatlantique.",
+        "fact": "La canne à sucre a d'abord été domestiquée en Nouvelle-Guinée puis s'est répandue en Asie, avant que des marchands arabes n'apportent les techniques de raffinage jusqu'en Méditerranée. La demande européenne croissante a ensuite alimenté l'expansion des plantations esclavagistes dans les Caraïbes.",
+        "whyItMatters": "La culture du sucre est devenue l'un des principaux moteurs économiques de la traite négrière transatlantique."
+      },
+      "nl": {
+        "hook": "De verspreiding van suiker over de wereld hielp de trans-Atlantische slavenhandel aanwakkeren.",
+        "fact": "Suikerriet werd voor het eerst gedomesticeerd in Nieuw-Guinea en verspreidde zich via Azië, voordat Arabische handelaars raffinagetechnieken naar het Middellandse Zeegebied brachten. De groeiende Europese vraag dreef later de uitbreiding van plantages met slavenarbeid in het Caribisch gebied.",
+        "whyItMatters": "Suikerteelt werd een van de belangrijkste economische motoren achter de trans-Atlantische slavenhandel."
+      },
+      "es": {
+        "hook": "La expansión del azúcar por el mundo ayudó a impulsar el comercio transatlántico de esclavos.",
+        "fact": "La caña de azúcar se domesticó primero en Nueva Guinea y se extendió por Asia antes de que los comerciantes árabes llevaran las técnicas de refinado al Mediterráneo. La creciente demanda europea impulsó después la expansión de las plantaciones de trabajo esclavo en el Caribe.",
+        "whyItMatters": "El cultivo del azúcar se convirtió en uno de los principales motores económicos del comercio transatlántico de esclavos."
+      }
+    }
   },
   {
     "id": "food-054",
@@ -557,7 +1314,21 @@
     "tags": [
       "ingredient-history",
       "mesoamerica"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le chocolat était à l'origine amer, épicé et sans sucre.",
+        "fact": "Les Aztèques et les Mayas buvaient le cacao sous forme de breuvage amer, souvent mélangé à du piment et des épices, mais jamais à du sucre. Le chocolat sucré tel qu'on le connaît aujourd'hui n'est apparu qu'après que les Européens ont rapporté le cacao et commencé à y ajouter sucre et lait."
+      },
+      "nl": {
+        "hook": "Chocolade was ooit bitter, pittig en zonder suiker.",
+        "fact": "De Azteken en Maya's dronken cacao als een bitter drankje, vaak gemengd met chilipeper en kruiden, maar niet met suiker. Gezoete chocolade zoals we die nu kennen, ontstond pas nadat Europeanen cacao meebrachten en er suiker en melk aan begonnen toe te voegen."
+      },
+      "es": {
+        "hook": "El chocolate empezó siendo amargo, picante y sin azúcar.",
+        "fact": "Los aztecas y los mayas bebían el cacao como una bebida amarga, a menudo mezclada con chile y especias, pero no con azúcar. El chocolate dulce tal como lo conocemos hoy solo surgió después de que los europeos llevaran el cacao consigo y empezaran a añadirle azúcar y leche."
+      }
+    }
   },
   {
     "id": "food-055",
@@ -567,7 +1338,21 @@
     "tags": [
       "ingredient-history",
       "ethiopia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La découverte du café est liée à une légende de chèvres dansantes.",
+        "fact": "Le café serait originaire d'Éthiopie, où une légende attribue sa découverte à un chevrier nommé Kaldi, qui aurait remarqué l'énergie de ses chèvres après qu'elles eurent mangé des cerises de café. Sa culture s'est d'abord implantée au Yémen avant de se diffuser via les routes commerciales ottomanes."
+      },
+      "nl": {
+        "hook": "De ontdekking van koffie is verbonden aan een legende over dansende geiten.",
+        "fact": "Koffie zou zijn ontstaan in Ethiopië, waar een legende de ontdekking toeschrijft aan een geitenhoeder genaamd Kaldi, die de energie van zijn geiten opmerkte nadat ze koffiebessen hadden gegeten. De teelt kreeg eerst voet aan de grond in Jemen, voordat ze zich via Ottomaanse handelsroutes verspreidde."
+      },
+      "es": {
+        "hook": "El descubrimiento del café está ligado a una leyenda sobre cabras bailarinas.",
+        "fact": "Se cree que el café se originó en Etiopía, donde una leyenda atribuye su descubrimiento a un cabrero llamado Kaldi, que notó la energía de sus cabras tras comer cerezas de café. Su cultivo arraigó primero en Yemen antes de extenderse a través de las rutas comerciales otomanas."
+      }
+    }
   },
   {
     "id": "food-056",
@@ -577,7 +1362,21 @@
     "tags": [
       "ingredient-history",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La diffusion mondiale du thé a été portée par le commerce d'une seule compagnie avec la Chine.",
+        "fact": "Le thé est originaire de Chine, la légende situant sa découverte vers 2737 avant notre ère. Il est devenu une marchandise mondiale des siècles plus tard, en grande partie grâce aux vastes échanges commerciaux de la Compagnie britannique des Indes orientales avec la Chine."
+      },
+      "nl": {
+        "hook": "De wereldwijde verspreiding van thee werd aangedreven door de handel van één bedrijf met China.",
+        "fact": "Thee is afkomstig uit China, waar legendes de ontdekking ervan dateren rond 2737 v.Chr. Het werd eeuwen later een wereldwijd handelsproduct, grotendeels dankzij de uitgebreide handelsrelatie van de Britse Oost-Indische Compagnie met China."
+      },
+      "es": {
+        "hook": "La expansión mundial del té la impulsó el comercio de una sola compañía con China.",
+        "fact": "El té es originario de China, y la leyenda sitúa su descubrimiento hacia el año 2737 a. C. Se convirtió en un producto global siglos después, en gran parte gracias a la extensa relación comercial de la Compañía Británica de las Indias Orientales con China."
+      }
+    }
   },
   {
     "id": "food-057",
@@ -588,7 +1387,21 @@
       "ingredient-history",
       "china",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La sauce soja est née d'un sous-produit que personne ne voulait gaspiller.",
+        "fact": "La sauce soja est apparue en Chine il y a plus de 2 000 ans comme moyen d'utiliser le liquide résultant de la fermentation de la pâte de soja, et la technique s'est ensuite répandue au Japon grâce aux moines bouddhistes."
+      },
+      "nl": {
+        "hook": "Sojasaus begon als een bijproduct dat niemand wilde verspillen.",
+        "fact": "Sojasaus ontstond in China ruim 2.000 jaar geleden als een manier om het vloeibare bijproduct van gefermenteerde sojabonenpasta te benutten, en de techniek verspreidde zich later via boeddhistische monniken naar Japan."
+      },
+      "es": {
+        "hook": "La salsa de soja empezó como un subproducto que nadie quería desperdiciar.",
+        "fact": "La salsa de soja se originó en China hace más de 2.000 años como una forma de aprovechar el líquido resultante de fermentar la pasta de soja, y la técnica se extendió más tarde a Japón a través de los monjes budistas."
+      }
+    }
   },
   {
     "id": "food-058",
@@ -598,7 +1411,21 @@
     "tags": [
       "ingredient-history",
       "peru"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Incas appelaient le quinoa le « grain-mère ».",
+        "fact": "Le quinoa a été domestiqué par les peuples andins il y a des milliers d'années et jouissait d'un statut sacré chez les Incas, qui l'appelaient chisiya mama, soit le grain-mère."
+      },
+      "nl": {
+        "hook": "De Inca's noemden quinoa het 'moedergraan'.",
+        "fact": "Quinoa werd duizenden jaren geleden gedomesticeerd door Andesvolkeren en had een heilige status bij de Inca's, die het chisiya mama noemden, oftewel moedergraan."
+      },
+      "es": {
+        "hook": "Los incas llamaban a la quinoa el 'grano madre'.",
+        "fact": "La quinoa fue domesticada por los pueblos andinos hace miles de años y tenía un estatus sagrado entre los incas, quienes la llamaban chisiya mama, es decir, grano madre."
+      }
+    }
   },
   {
     "id": "food-059",
@@ -608,7 +1435,21 @@
     "tags": [
       "ingredient-history",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le blé est l'une des cultures qui ont donné naissance à l'agriculture elle-même.",
+        "fact": "Le blé a été domestiqué dans le Croissant fertile du Moyen-Orient il y a environ 10 000 ans, ce qui en fait l'une des cultures fondatrices de la révolution agricole."
+      },
+      "nl": {
+        "hook": "Tarwe is een van de gewassen die de landbouw zelf op gang bracht.",
+        "fact": "Tarwe werd ongeveer 10.000 jaar geleden gedomesticeerd in de Vruchtbare Halvemaan in het Midden-Oosten, waardoor het een van de grondleggende gewassen van de landbouwrevolutie is."
+      },
+      "es": {
+        "hook": "El trigo es uno de los cultivos que dieron origen a la agricultura misma.",
+        "fact": "El trigo fue domesticado en el Creciente Fértil de Oriente Medio hace unos 10.000 años, lo que lo convierte en uno de los cultivos fundadores de la revolución agrícola."
+      }
+    }
   },
   {
     "id": "food-060",
@@ -618,7 +1459,21 @@
     "tags": [
       "ingredient-history",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le riz nourrit plus de la moitié de la planète, et tout a commencé dans un seul bassin fluvial.",
+        "fact": "Le riz a été domestiqué indépendamment dans le bassin du fleuve Yangtsé, en Chine, il y a environ 9 000 ans, et il est devenu un aliment de base pour plus de la moitié de la population mondiale."
+      },
+      "nl": {
+        "hook": "Rijst voedt meer dan de helft van de planeet, en het begon allemaal in één rivierbekken.",
+        "fact": "Rijst werd ongeveer 9.000 jaar geleden onafhankelijk gedomesticeerd in het stroomgebied van de Jangtsekiang in China en is uitgegroeid tot een basisvoedsel voor meer dan de helft van de wereldbevolking."
+      },
+      "es": {
+        "hook": "El arroz alimenta a más de la mitad del planeta, y todo empezó en una sola cuenca fluvial.",
+        "fact": "El arroz fue domesticado de forma independiente en la cuenca del río Yangtsé, en China, hace unos 9.000 años, y se ha convertido en alimento básico para más de la mitad de la población mundial."
+      }
+    }
   },
   {
     "id": "food-061",
@@ -629,7 +1484,24 @@
     "tags": [
       "ingredient-history",
       "bananas"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La banane que vous mangez a déjà bien failli disparaître une fois.",
+        "fact": "La banane Gros Michel dominait les marchés mondiaux d'exportation jusqu'à ce qu'une maladie fongique appelée maladie de Panama ne dévaste les plantations au milieu du XXe siècle, forçant l'industrie à se tourner vers la variété Cavendish, aujourd'hui dominante.",
+        "whyItMatters": "Une souche fongique apparentée, la Race tropicale 4, se propage aujourd'hui dans les plantations de Cavendish du monde entier, menaçant de provoquer un effondrement similaire."
+      },
+      "nl": {
+        "hook": "De banaan die je nu eet, is al bijna eens uitgestorven.",
+        "fact": "De Gros Michel-banaan domineerde de wereldwijde exportmarkten totdat een schimmelziekte genaamd de panamaziekte halverwege de 20e eeuw plantages verwoestte, waardoor de industrie moest overschakelen op de nu dominante Cavendish-variëteit.",
+        "whyItMatters": "Een verwante schimmelstam, Tropical Race 4, verspreidt zich nu wereldwijd door Cavendish-plantages en dreigt een nieuwe ineenstorting te veroorzaken."
+      },
+      "es": {
+        "hook": "El plátano que estás comiendo ya estuvo casi extinto una vez.",
+        "fact": "El plátano Gros Michel dominaba los mercados mundiales de exportación hasta que una enfermedad fúngica llamada mal de Panamá devastó las plantaciones a mediados del siglo XX, obligando a la industria a cambiar a la variedad Cavendish, hoy dominante.",
+        "whyItMatters": "Una cepa fúngica relacionada, la Raza Tropical 4, se está extendiendo ahora por las plantaciones de Cavendish en todo el mundo, amenazando con repetir el colapso."
+      }
+    }
   },
   {
     "id": "food-062",
@@ -639,7 +1511,21 @@
     "tags": [
       "ingredient-history",
       "west-africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'arachide a traversé l'Atlantique deux fois avant de devenir un aliment de base ouest-africain.",
+        "fact": "L'arachide a été domestiquée en Amérique du Sud puis transportée en Afrique par des marchands portugais et espagnols. En quelques siècles, elle s'est profondément ancrée dans la cuisine ouest-africaine, notamment dans des plats comme le ragoût d'arachide."
+      },
+      "nl": {
+        "hook": "Pinda's staken twee keer de Atlantische Oceaan over voordat ze een West-Afrikaans basisvoedsel werden.",
+        "fact": "Pinda's werden gedomesticeerd in Zuid-Amerika en door Portugese en Spaanse handelaars naar Afrika gebracht. Binnen enkele eeuwen raakten ze diep verankerd in de West-Afrikaanse keuken, in gerechten zoals pindastoofpot."
+      },
+      "es": {
+        "hook": "Los cacahuetes cruzaron el Atlántico dos veces antes de convertirse en un básico de África Occidental.",
+        "fact": "Los cacahuetes fueron domesticados en Sudamérica y llevados a África por comerciantes portugueses y españoles. En pocos siglos se arraigaron profundamente en la cocina de África Occidental, en platos como el guiso de cacahuete."
+      }
+    }
   },
   {
     "id": "food-063",
@@ -650,7 +1536,24 @@
     "tags": [
       "ingredient-history",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un tubercule sud-américain est devenu une bouée de sauvetage à travers l'Afrique.",
+        "fact": "Le manioc, originaire d'Amérique du Sud, a été introduit en Afrique par des marchands portugais au XVIe siècle. Sa tolérance à la sécheresse en a fait une culture vivrière essentielle à la sécurité alimentaire sur tout le continent.",
+        "whyItMatters": "Le manioc reste aujourd'hui une source calorique majeure pour des centaines de millions de personnes, en grande partie grâce à sa résistance à la sécheresse."
+      },
+      "nl": {
+        "hook": "Een Zuid-Amerikaans wortelgewas werd een reddingslijn voor heel Afrika.",
+        "fact": "Cassave, afkomstig uit Zuid-Amerika, werd in de 16e eeuw door Portugese handelaars in Afrika geïntroduceerd. Dankzij zijn droogtebestendigheid werd het een cruciaal basisgewas voor de voedselzekerheid op het hele continent.",
+        "whyItMatters": "Cassave blijft vandaag een belangrijke calorienbron voor honderden miljoenen mensen, grotendeels dankzij zijn weerstand tegen droogte."
+      },
+      "es": {
+        "hook": "Un tubérculo sudamericano se convirtió en un salvavidas para toda África.",
+        "fact": "La yuca, originaria de Sudamérica, fue introducida en África por comerciantes portugueses en el siglo XVI. Su tolerancia a la sequía la convirtió en un cultivo básico crucial para la seguridad alimentaria en todo el continente.",
+        "whyItMatters": "La yuca sigue siendo hoy una fuente calórica primordial para cientos de millones de personas, en gran parte gracias a su resistencia a la sequía."
+      }
+    }
   },
   {
     "id": "food-064",
@@ -660,7 +1563,21 @@
     "tags": [
       "ingredient-history",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le curcuma teinte les mains et parfume les plats en Inde depuis des millénaires.",
+        "fact": "Le curcuma est originaire d'Asie du Sud, où il est utilisé depuis des milliers d'années comme épice, comme teinture et comme composant de la médecine ayurvédique."
+      },
+      "nl": {
+        "hook": "Kurkuma kleurt handen en kruidt eten al millennia lang in India.",
+        "fact": "Kurkuma is inheems in Zuid-Azië en wordt daar al duizenden jaren gebruikt als specerij, als kleurstof en als bestanddeel van de ayurvedische geneeskunde."
+      },
+      "es": {
+        "hook": "La cúrcuma lleva milenios tiñendo manos y dando sabor a la comida en la India.",
+        "fact": "La cúrcuma es originaria del sur de Asia y se ha usado allí durante miles de años como especia, como tinte y como componente de la medicina ayurvédica."
+      }
+    }
   },
   {
     "id": "food-065",
@@ -670,7 +1587,21 @@
     "tags": [
       "ingredient-history",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le gingembre fut l'une des premières épices asiatiques à atteindre la Rome antique.",
+        "fact": "Le gingembre est originaire d'Asie du Sud-Est et fut l'une des premières épices exportées vers l'ouest, devenant une marchandise précieuse dans le commerce romain et méditerranéen antique."
+      },
+      "nl": {
+        "hook": "Gember was een van de eerste Aziatische specerijen die het oude Rome bereikten.",
+        "fact": "Gember is inheems in Zuidoost-Azië en was een van de eerste specerijen die naar het westen werden geëxporteerd, waardoor het een waardevol handelsgoed werd in de antieke Romeinse en mediterrane handel."
+      },
+      "es": {
+        "hook": "El jengibre fue una de las primeras especias asiáticas en llegar a la antigua Roma.",
+        "fact": "El jengibre es originario del sudeste asiático y fue una de las primeras especias exportadas hacia occidente, convirtiéndose en un valioso producto en el comercio de la antigua Roma y el Mediterráneo."
+      }
+    }
   },
   {
     "id": "food-066",
@@ -680,7 +1611,21 @@
     "tags": [
       "ingredient-history",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Néerlandais ont jadis contrôlé toute l'offre mondiale de clous de girofle depuis une poignée d'îles minuscules.",
+        "fact": "Le clou de girofle ne poussait à l'origine que sur un petit nombre d'îles de l'archipel indonésien des Moluques, historiquement appelées les îles aux Épices. La Compagnie néerlandaise des Indes orientales s'est emparée par la violence de la production locale au XVIIe siècle pour monopoliser le commerce."
+      },
+      "nl": {
+        "hook": "De Nederlanders beheersten ooit de hele wereldwijde kruidnagelvoorziening vanuit een handvol piepkleine eilanden.",
+        "fact": "Kruidnagel groeide oorspronkelijk alleen op een klein aantal eilanden in de Indonesische Molukken, historisch bekend als de Specerij-eilanden. De Verenigde Oost-Indische Compagnie greep in de 17e eeuw met geweld de controle over de productie daar om de handel te monopoliseren."
+      },
+      "es": {
+        "hook": "Los neerlandeses llegaron a controlar todo el suministro mundial de clavo desde un puñado de islas diminutas.",
+        "fact": "El clavo originalmente solo crecía en un pequeño número de islas del archipiélago indonesio de las Molucas, históricamente llamadas las Islas de las Especias. La Compañía Neerlandesa de las Indias Orientales se apoderó violentamente del control de la producción allí en el siglo XVII para monopolizar el comercio."
+      }
+    }
   },
   {
     "id": "food-067",
@@ -690,7 +1635,21 @@
     "tags": [
       "ingredient-history",
       "mediterranean"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'huile d'olive a éclairé des lampes et sacré des rois, pas seulement assaisonné des salades.",
+        "fact": "L'olivier a été domestiqué au Levant il y a environ 6 000 ans. Les Grecs antiques utilisaient l'huile d'olive non seulement pour cuisiner, mais aussi pour éclairer des lampes et lors de cérémonies religieuses d'onction."
+      },
+      "nl": {
+        "hook": "Olijfolie heeft lampen doen branden en koningen gezalfd, niet alleen salades aangemaakt.",
+        "fact": "Olijven werden ongeveer 6.000 jaar geleden gedomesticeerd in de Levant. De oude Grieken gebruikten olijfolie niet alleen om te koken, maar ook om lampen te laten branden en bij religieuze zalvingsceremonies."
+      },
+      "es": {
+        "hook": "El aceite de oliva ha encendido lámparas y ungido a reyes, no solo aliñado ensaladas.",
+        "fact": "El olivo fue domesticado en el Levante hace unos 6.000 años. Los antiguos griegos usaban el aceite de oliva no solo para cocinar, sino también para encender lámparas y en ceremonias religiosas de unción."
+      }
+    }
   },
   {
     "id": "food-068",
@@ -700,7 +1659,21 @@
     "tags": [
       "ingredient-history",
       "salt"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « salaire » vient d'un conservateur alimentaire.",
+        "fact": "Le sel avait une telle valeur dans la Rome antique que les soldats recevaient parfois une allocation pour s'en procurer, donnant naissance au mot latin salarium, à l'origine du mot français « salaire »."
+      },
+      "nl": {
+        "hook": "Het woord 'salaris' komt van een voedselconserveringsmiddel.",
+        "fact": "Zout was in het oude Rome zo waardevol dat soldaten er soms een toelage voor kregen, wat aanleiding gaf tot het Latijnse woord salarium, de wortel van het moderne woord salaris."
+      },
+      "es": {
+        "hook": "La palabra 'salario' proviene de un conservante alimentario.",
+        "fact": "La sal era tan valiosa en la antigua Roma que a los soldados a veces se les pagaba una asignación para ella, lo que dio origen a la palabra latina salarium, raíz de la palabra moderna salario."
+      }
+    }
   },
   {
     "id": "food-069",
@@ -710,7 +1683,21 @@
     "tags": [
       "ingredient-history",
       "hungary"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'épice emblématique de la Hongrie est une arrivée relativement récente.",
+        "fact": "Le paprika est fabriqué à partir de piments séchés et moulus, originaires des Amériques. Il n'est devenu central dans la cuisine hongroise qu'après la culture des piments dans la région, entre le XVIe et le XVIIIe siècle."
+      },
+      "nl": {
+        "hook": "Hongarijes kenmerkende specerij is een relatief recente aanwinst.",
+        "fact": "Paprikapoeder wordt gemaakt van gemalen gedroogde pepers die afkomstig zijn uit Amerika. Het werd pas centraal in de Hongaarse keuken nadat pepers vanaf de 16e tot 18e eeuw in de regio werden verbouwd."
+      },
+      "es": {
+        "hook": "La especia característica de Hungría es una llegada relativamente reciente.",
+        "fact": "El pimentón se elabora con pimientos secos y molidos originarios de América. Solo se volvió central en la cocina húngara después de que los pimientos se cultivaran en la región entre los siglos XVI y XVIII."
+      }
+    }
   },
   {
     "id": "food-070",
@@ -720,7 +1707,21 @@
     "tags": [
       "ingredient-history",
       "caribbean"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le piment de la Jamaïque doit son nom à une méprise.",
+        "fact": "Le piment de la Jamaïque est originaire des Caraïbes et d'Amérique centrale. Les premiers marchands européens l'ont appelé « toutes-épices » (allspice) car ils pensaient que sa saveur combinait cannelle, noix de muscade et clou de girofle, alors qu'il provient d'une seule baie séchée."
+      },
+      "nl": {
+        "hook": "Piment dankt zijn Engelse naam 'allspice' aan een misvatting.",
+        "fact": "Piment (allspice) is inheems in het Caribisch gebied en Midden-Amerika. Vroege Europese handelaars noemden het allspice omdat ze dachten dat de smaak een combinatie was van kaneel, nootmuskaat en kruidnagel, terwijl het eigenlijk van één enkele gedroogde bes afkomstig is."
+      },
+      "es": {
+        "hook": "La pimienta de Jamaica debe su nombre a una confusión.",
+        "fact": "La pimienta de Jamaica es originaria del Caribe y Centroamérica. Los primeros comerciantes europeos la llamaron allspice ('todas las especias') porque creían que su sabor combinaba canela, nuez moscada y clavo, aunque en realidad proviene de una sola baya seca."
+      }
+    }
   },
   {
     "id": "food-071",
@@ -730,7 +1731,21 @@
     "tags": [
       "ingredient-history",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La cardamome a mérité le surnom de « reine des épices ».",
+        "fact": "La cardamome est originaire des forêts des Ghâts occidentaux, en Inde, et reste, au poids, l'une des épices les plus chères au monde, prisée aussi bien dans la cuisine sud-asiatique que moyen-orientale."
+      },
+      "nl": {
+        "hook": "Kardemom verdiende de bijnaam 'koningin der specerijen'.",
+        "fact": "Kardemom is inheems in de bossen van de Western Ghats in India en blijft qua gewicht een van de duurste specerijen ter wereld, geliefd in zowel de Zuid-Aziatische als de Midden-Oosterse keuken."
+      },
+      "es": {
+        "hook": "El cardamomo se ganó el apodo de 'reina de las especias'.",
+        "fact": "El cardamomo es originario de los bosques de los Ghats Occidentales de la India y sigue siendo, por peso, una de las especias más caras del mundo, apreciada tanto en la cocina del sur de Asia como en la de Oriente Medio."
+      }
+    }
   },
   {
     "id": "food-072",
@@ -741,7 +1756,24 @@
     "tags": [
       "ingredient-history",
       "food-science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une épice du mélange chinois cinq-épices est aussi essentielle à la fabrication du Tamiflu.",
+        "fact": "L'anis étoilé, originaire de Chine et du Vietnam, est un ingrédient incontournable du mélange cinq-épices, mais c'est aussi la principale source industrielle d'acide shikimique, un composé utilisé pour fabriquer l'antiviral Tamiflu.",
+        "whyItMatters": "L'approvisionnement mondial d'une épice de cuisine courante a directement influencé la capacité de production d'un médicament antigrippal important."
+      },
+      "nl": {
+        "hook": "Eén specerij uit het Chinese vijfkruidenpoeder is ook essentieel voor het maken van Tamiflu.",
+        "fact": "Steranijs, inheems in China en Vietnam, is een basisingrediënt van vijfkruidenpoeder, maar ook de belangrijkste industriële bron van sikimzuur, een verbinding die wordt gebruikt om het antivirale middel Tamiflu te vervaardigen.",
+        "whyItMatters": "De wereldwijde voorraad van een alledaagse keukenspecerij heeft rechtstreeks invloed gehad op de productiecapaciteit van een belangrijk griepmedicijn."
+      },
+      "es": {
+        "hook": "Una especia del cinco especias chino también es clave para fabricar Tamiflu.",
+        "fact": "El anís estrellado, originario de China y Vietnam, es un ingrediente básico del cinco especias, pero también es la principal fuente industrial de ácido shikímico, un compuesto utilizado para fabricar el antiviral Tamiflu.",
+        "whyItMatters": "El suministro mundial de una especia de cocina común ha afectado directamente la capacidad de producción de un importante medicamento contra la gripe."
+      }
+    }
   },
   {
     "id": "food-073",
@@ -751,7 +1783,21 @@
     "tags": [
       "ingredient-history",
       "north-america"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les agriculteurs autochtones d'Amérique du Nord avaient compris les cultures associées bien avant que le terme n'existe.",
+        "fact": "La méthode des Trois Sœurs consistait à planter ensemble le maïs, les haricots et la courge : les tiges de maïs servaient de support aux haricots, les haricots fixaient l'azote dans le sol, et les larges feuilles de la courge faisaient de l'ombre aux mauvaises herbes concurrentes."
+      },
+      "nl": {
+        "hook": "Inheemse Noord-Amerikaanse boeren doorgrondden combinatieteelt lang voordat de term bestond.",
+        "fact": "Bij de methode van de Drie Zusters werden maïs, bonen en pompoen samen geplant: de maïsstengels dienden als steun voor de bonen om tegenop te klimmen, de bonen bonden stikstof in de bodem, en de brede bladeren van de pompoen hielden concurrerend onkruid onder controle door schaduw te geven."
+      },
+      "es": {
+        "hook": "Los agricultores indígenas de Norteamérica dominaban el cultivo asociado mucho antes de que existiera el término.",
+        "fact": "El método de las Tres Hermanas plantaba juntos maíz, frijoles y calabaza: los tallos de maíz servían de soporte para que trepasen los frijoles, los frijoles fijaban nitrógeno en el suelo, y las anchas hojas de la calabaza daban sombra que ahogaba las malas hierbas competidoras."
+      }
+    }
   },
   {
     "id": "food-074",
@@ -762,7 +1808,21 @@
       "ingredient-history",
       "hawaii",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'aliment féculent traditionnel d'Hawaï est fermenté et pilé, pas bouilli et écrasé.",
+        "fact": "Le poi est préparé en cuisant puis en pilant la racine de taro pour en faire une pâte, qu'on laisse ensuite légèrement fermenter, ce qui en fait l'un des plus anciens féculents fermentés du Pacifique."
+      },
+      "nl": {
+        "hook": "Hawaï's traditionele zetmeelvoedsel wordt gefermenteerd en gestampt, niet gekookt en geprakt.",
+        "fact": "Poi wordt gemaakt door tarowortel te koken en tot een pasta te stampen, die vervolgens licht mag fermenteren, waardoor het een van de oudste gefermenteerde zetmeelbasisvoedingsmiddelen van de Stille Oceaan is."
+      },
+      "es": {
+        "hook": "El almidón tradicional de Hawái se fermenta y se machaca, no se hierve y se tritura.",
+        "fact": "El poi se elabora cociendo y machacando la raíz de taro hasta obtener una pasta, que luego se deja fermentar ligeramente, lo que lo convierte en uno de los alimentos básicos fermentados más antiguos del Pacífico."
+      }
+    }
   },
   {
     "id": "food-075",
@@ -772,7 +1832,21 @@
     "tags": [
       "food-science",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La fermentation conserve les aliments sans le moindre besoin de réfrigérateur.",
+        "fact": "La fermentation utilise des bactéries, des levures ou des moisissures pour transformer les sucres des aliments en acides, en gaz ou en alcool, souvent en l'absence d'oxygène. L'acidité ou la teneur en alcool qui en résulte rend l'aliment inhospitalier aux organismes responsables de sa dégradation."
+      },
+      "nl": {
+        "hook": "Fermentatie bewaart voedsel zonder dat er een koelkast aan te pas komt.",
+        "fact": "Bij fermentatie zetten bacteriën, gist of schimmel de suikers in voedsel om in zuren, gassen of alcohol, vaak zonder zuurstof. De resulterende zuurgraad of het alcoholgehalte maakt het voedsel onherbergzaam voor bederforganismen."
+      },
+      "es": {
+        "hook": "La fermentación conserva los alimentos sin necesidad de refrigeración.",
+        "fact": "La fermentación utiliza bacterias, levaduras o mohos para convertir los azúcares de los alimentos en ácidos, gases o alcohol, a menudo sin oxígeno. La acidez o el contenido de alcohol resultante hace que el alimento resulte inhóspito para los organismos que causan su deterioro."
+      }
+    }
   },
   {
     "id": "food-076",
@@ -782,7 +1856,21 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le brunissement d'un steak saisi porte un nom, celui d'un chimiste français.",
+        "fact": "La réaction de Maillard est une réaction chimique entre des acides aminés et des sucres réducteurs, déclenchée par la chaleur, qui produit le brunissement et les saveurs complexes de la viande saisie, du pain grillé et du café torréfié. Elle a été décrite en 1912 par le chimiste français Louis-Camille Maillard."
+      },
+      "nl": {
+        "hook": "De bruining op een dichtgeschroeide steak heeft een naam en een Franse scheikundige erachter.",
+        "fact": "De maillardreactie is een chemische reactie tussen aminozuren en reducerende suikers, veroorzaakt door hitte, die zorgt voor de bruining en complexe smaken van dichtgeschroeid vlees, geroosterd brood en gebrande koffie. Ze werd in 1912 beschreven door de Franse scheikundige Louis-Camille Maillard."
+      },
+      "es": {
+        "hook": "El dorado de un filete sellado tiene un nombre, y detrás hay un químico francés.",
+        "fact": "La reacción de Maillard es una reacción química entre aminoácidos y azúcares reductores, provocada por el calor, que produce el dorado y los sabores complejos de la carne sellada, el pan tostado y el café tostado. Fue descrita en 1912 por el químico francés Louis-Camille Maillard."
+      }
+    }
   },
   {
     "id": "food-077",
@@ -792,7 +1880,21 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Caraméliser du sucre et faire dorer de la viande sont deux réactions totalement différentes.",
+        "fact": "La caramélisation est la décomposition et le brunissement du sucre seul sous l'effet de la chaleur, sans besoin de protéines, et se produit généralement à des températures plus élevées que la réaction de Maillard, qui nécessite à la fois des sucres et des acides aminés."
+      },
+      "nl": {
+        "hook": "Suiker karameliseren en vlees bruinen zijn twee compleet verschillende reacties.",
+        "fact": "Karamelisatie is het afbreken en bruin worden van louter suiker onder invloed van hitte, zonder dat er eiwit voor nodig is, en gebeurt doorgaans bij hogere temperaturen dan de maillardreactie, die zowel suikers als aminozuren vereist."
+      },
+      "es": {
+        "hook": "Caramelizar azúcar y dorar carne son dos reacciones completamente distintas.",
+        "fact": "La caramelización es la descomposición y el dorado del azúcar por sí solo bajo el calor, sin necesitar proteína, y suele ocurrir a temperaturas más altas que la reacción de Maillard, que requiere tanto azúcares como aminoácidos."
+      }
+    }
   },
   {
     "id": "food-078",
@@ -802,7 +1904,21 @@
     "tags": [
       "food-science",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le pain lève parce qu'un champignon respire.",
+        "fact": "La levure est un champignon vivant unicellulaire qui fait fermenter les sucres de la pâte, libérant du dioxyde de carbone et de l'alcool. C'est le dioxyde de carbone emprisonné qui fait gonfler et lever la pâte à pain."
+      },
+      "nl": {
+        "hook": "Brood rijst omdat een schimmel uitademt.",
+        "fact": "Gist is een levende, eencellige schimmel die suikers in het deeg laat fermenteren, waarbij koolstofdioxide en alcohol vrijkomen. Het opgesloten koolstofdioxide zorgt ervoor dat het brooddeeg uitzet en rijst."
+      },
+      "es": {
+        "hook": "El pan sube porque un hongo está exhalando.",
+        "fact": "La levadura es un hongo vivo unicelular que fermenta los azúcares de la masa, liberando dióxido de carbono y alcohol. Es el dióxido de carbono atrapado lo que hace que la masa del pan se expanda y suba."
+      }
+    }
   },
   {
     "id": "food-079",
@@ -812,7 +1928,21 @@
     "tags": [
       "food-science",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'acidité du levain vient de micro-organismes sauvages, pas d'un sachet de levure.",
+        "fact": "Le pain au levain repose sur des levures sauvages et des bactéries lactiques naturellement présentes dans la farine et l'air ambiant, plutôt que sur de la levure de boulanger industrielle, ce qui lui donne sa saveur acidulée caractéristique."
+      },
+      "nl": {
+        "hook": "De frisse zuurdesmaak komt van wilde microben, niet van een zakje gist.",
+        "fact": "Zuurdesembrood is afhankelijk van wilde gisten en melkzuurbacteriën die van nature aanwezig zijn in bloem en de omringende lucht, in plaats van commerciële bakkersgist, en dat geeft het zijn kenmerkende zure smaak."
+      },
+      "es": {
+        "hook": "El toque ácido de la masa madre viene de microbios silvestres, no de un sobre de levadura.",
+        "fact": "El pan de masa madre depende de levaduras silvestres y bacterias del ácido láctico presentes de forma natural en la harina y en el aire, en lugar de levadura comercial de panadería, lo que le da su característico sabor ácido."
+      }
+    }
   },
   {
     "id": "food-080",
@@ -822,7 +1952,21 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le sel conserve la viande en lui retirant son eau.",
+        "fact": "Le salage des aliments extrait l'eau à la fois des aliments et des cellules microbiennes présentes par osmose, créant un environnement trop sec pour permettre aux bactéries responsables de la putréfaction de survivre."
+      },
+      "nl": {
+        "hook": "Zout bewaart vlees door er water aan te onttrekken.",
+        "fact": "Het zouten van voedsel onttrekt via osmose water aan zowel het voedsel als eventuele aanwezige microbiële cellen, waardoor een omgeving ontstaat die te droog is voor de bacteriën die bederf veroorzaken."
+      },
+      "es": {
+        "hook": "La sal conserva la carne extrayéndole el agua.",
+        "fact": "Salar los alimentos extrae agua tanto del alimento como de las células microbianas presentes mediante ósmosis, creando un entorno demasiado seco para las bacterias que causan el deterioro."
+      }
+    }
   },
   {
     "id": "food-081",
@@ -832,7 +1976,21 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les cornichons se conservent de deux façons bien différentes.",
+        "fact": "La mise en saumure peut conserver les aliments soit en les immergeant dans un liquide acide comme le vinaigre, soit par lacto-fermentation dans une saumure salée ; ces deux méthodes abaissent suffisamment le pH pour empêcher les bactéries nocives de se développer."
+      },
+      "nl": {
+        "hook": "Augurken worden op twee heel verschillende manieren bewaard.",
+        "fact": "Pekelen kan voedsel conserveren door het onder te dompelen in een zure vloeistof zoals azijn, of via melkzuurfermentatie in een zoutwaterpekel; beide methodes verlagen de pH voldoende om de groei van schadelijke bacteriën te stoppen."
+      },
+      "es": {
+        "hook": "Los pepinillos se conservan de dos maneras muy distintas.",
+        "fact": "El encurtido puede conservar los alimentos sumergiéndolos en un líquido ácido como el vinagre, o mediante lactofermentación en salmuera, dos métodos que bajan el pH lo suficiente para impedir el crecimiento de bacterias dañinas."
+      }
+    }
   },
   {
     "id": "food-082",
@@ -843,7 +2001,24 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La pasteurisation a été inventée pour le vin, pas pour le lait.",
+        "fact": "Louis Pasteur a mis au point dans les années 1860 le procédé de traitement thermique qui porte son nom, afin d'empêcher le vin et la bière français de s'altérer. Ce n'est que plus tard qu'il a été largement appliqué au lait et à d'autres boissons.",
+        "whyItMatters": "La pasteurisation reste l'une des interventions de santé publique les plus importantes de l'alimentation moderne, réduisant considérablement les maladies d'origine alimentaire."
+      },
+      "nl": {
+        "hook": "Pasteurisatie werd uitgevonden voor wijn, niet voor melk.",
+        "fact": "Louis Pasteur ontwikkelde in de jaren 1860 het warmtebehandelingsproces dat zijn naam draagt, om te voorkomen dat Franse wijn en bier bedierven. Pas later werd het op grote schaal toegepast op melk en andere dranken.",
+        "whyItMatters": "Pasteurisatie blijft een van de belangrijkste volksgezondheidsmaatregelen in de moderne voedselvoorziening en vermindert voedselgerelateerde ziekten drastisch."
+      },
+      "es": {
+        "hook": "La pasteurización se inventó para el vino, no para la leche.",
+        "fact": "Louis Pasteur desarrolló en la década de 1860 el proceso de tratamiento térmico que lleva su nombre para evitar que el vino y la cerveza franceses se echaran a perder. Solo más tarde se aplicó ampliamente a la leche y otras bebidas.",
+        "whyItMatters": "La pasteurización sigue siendo una de las intervenciones de salud pública más importantes en el suministro alimentario moderno, ya que reduce drásticamente las enfermedades transmitidas por alimentos."
+      }
+    }
   },
   {
     "id": "food-083",
@@ -853,7 +2028,21 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La mayonnaise est un tour de chimie déguisé en condiment.",
+        "fact": "L'émulsification combine deux liquides qui ne se mélangent normalement pas, comme l'huile et l'eau. Dans la mayonnaise, la lécithine du jaune d'œuf agit comme émulsifiant, stabilisant de minuscules gouttelettes d'huile en suspension dans le liquide."
+      },
+      "nl": {
+        "hook": "Mayonaise is een scheikundig trucje vermomd als saus.",
+        "fact": "Emulgeren combineert twee vloeistoffen die normaal niet mengen, zoals olie en water. In mayonaise werkt lecithine uit de eidooier als emulgator, waardoor piepkleine oliedruppeltjes stabiel in de vloeistof blijven zweven."
+      },
+      "es": {
+        "hook": "La mayonesa es un truco de química disfrazado de condimento.",
+        "fact": "La emulsión combina dos líquidos que normalmente no se mezclan, como el aceite y el agua. En la mayonesa, la lecitina de la yema de huevo actúa como emulsionante, estabilizando diminutas gotas de aceite suspendidas en el líquido."
+      }
+    }
   },
   {
     "id": "food-084",
@@ -863,7 +2052,21 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le moelleux du pain vient d'un réseau de protéines que l'on construit à la main.",
+        "fact": "Le gluten se forme lorsque deux protéines de la farine de blé, la gluténine et la gliadine, se combinent au contact de l'eau. Le pétrissage renforce ce réseau élastique, donnant à la pâte à pain sa structure et son mordant."
+      },
+      "nl": {
+        "hook": "De taaie bite van brood komt van een eiwitnetwerk dat je met je handen opbouwt.",
+        "fact": "Gluten ontstaat wanneer twee eiwitten in tarwebloem, glutenine en gliadine, zich verbinden na menging met water. Kneden versterkt dit elastische netwerk, wat het deeg zijn structuur en bite geeft."
+      },
+      "es": {
+        "hook": "La elasticidad del pan viene de una red de proteínas que se forma con las manos.",
+        "fact": "El gluten se forma cuando dos proteínas de la harina de trigo, la glutenina y la gliadina, se combinan al mezclarse con agua. Amasar refuerza esta red elástica, dando a la masa su estructura y su textura elástica."
+      }
+    }
   },
   {
     "id": "food-085",
@@ -873,7 +2076,21 @@
     "tags": [
       "food-science",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La cinquième saveur de base a été identifiée en étudiant un bouillon d'algues.",
+        "fact": "L'umami a été identifié en 1908 par le chimiste japonais Kikunae Ikeda, qui a attribué la saveur savoureuse du bouillon de kombu au glutamate, l'établissant comme saveur de base aux côtés du sucré, de l'acide, du salé et de l'amer."
+      },
+      "nl": {
+        "hook": "De vijfde basissmaak werd ontdekt door zeewierbouillon te bestuderen.",
+        "fact": "Umami werd in 1908 geïdentificeerd door de Japanse chemicus Kikunae Ikeda, die de hartige smaak van kombubouillon herleidde tot glutamaat, en het zo naast zoet, zuur, zout en bitter als basissmaak vaststelde."
+      },
+      "es": {
+        "hook": "El quinto sabor básico se identificó estudiando un caldo de algas.",
+        "fact": "El umami fue identificado en 1908 por el químico japonés Kikunae Ikeda, quien atribuyó el sabor sabroso del caldo de kombu al glutamato, estableciéndolo junto al dulce, ácido, salado y amargo como sabor básico."
+      }
+    }
   },
   {
     "id": "food-086",
@@ -883,7 +2100,21 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les aliments lyophilisés évitent complètement l'eau liquide.",
+        "fact": "La lyophilisation retire l'eau des aliments par sublimation : sous vide, la glace se transforme directement en vapeur, préservant la structure de l'aliment et la plupart de ses nutriments bien mieux que le séchage à la chaleur."
+      },
+      "nl": {
+        "hook": "Vriesgedroogd voedsel slaat vloeibaar water helemaal over.",
+        "fact": "Vriesdrogen onttrekt water aan voedsel door sublimatie, waarbij ijs onder vacuüm rechtstreeks in damp verandert. Dit behoudt de structuur en het meeste van de voedingsstoffen veel beter dan drogen met warmte."
+      },
+      "es": {
+        "hook": "Los alimentos liofilizados se saltan por completo el agua líquida.",
+        "fact": "La liofilización elimina el agua de los alimentos mediante sublimación: al vacío, el hielo se convierte directamente en vapor, preservando la estructura del alimento y la mayoría de sus nutrientes mucho mejor que el secado por calor."
+      }
+    }
   },
   {
     "id": "food-087",
@@ -893,7 +2124,21 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Fumer un aliment ne fait pas que lui donner du goût.",
+        "fact": "Le fumage conserve les aliments en les asséchant et en déposant à leur surface des composés antimicrobiens et antioxydants issus de la fumée de bois, ce qui ralentit l'altération en plus de changer la saveur."
+      },
+      "nl": {
+        "hook": "Roken doet meer dan alleen smaak toevoegen.",
+        "fact": "Roken conserveert voedsel door het te drogen en er antimicrobiële en antioxidante stoffen uit houtrook op af te zetten, wat bederf helpt vertragen naast het veranderen van de smaak."
+      },
+      "es": {
+        "hook": "Ahumar los alimentos hace mucho más que darles sabor.",
+        "fact": "El ahumado conserva los alimentos secándolos y depositando en su superficie compuestos antimicrobianos y antioxidantes procedentes del humo de la madera, lo que ayuda a ralentizar su deterioro además de cambiar el sabor."
+      }
+    }
   },
   {
     "id": "food-088",
@@ -903,7 +2148,21 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une pomme coupée brunit à cause d'une réaction entre une enzyme et l'air.",
+        "fact": "Le brunissement enzymatique se produit lorsqu'une enzyme appelée polyphénol oxydase, exposée par la coupe, réagit avec l'oxygène de l'air. Ajouter un acide comme du jus de citron ou appliquer de la chaleur peut ralentir ou stopper cette réaction."
+      },
+      "nl": {
+        "hook": "Een aangesneden appel wordt bruin door een reactie tussen een enzym en de lucht.",
+        "fact": "Enzymatische bruinverkleuring ontstaat wanneer een enzym genaamd polyfenoloxidase, blootgesteld door het snijden, reageert met zuurstof uit de lucht. Een zuur zoals citroensap toevoegen of verhitten kan deze reactie vertragen of stoppen."
+      },
+      "es": {
+        "hook": "Una manzana cortada se pone marrón por una reacción entre una enzima y el aire.",
+        "fact": "El pardeamiento enzimático ocurre cuando una enzima llamada polifenol oxidasa, expuesta al cortar, reacciona con el oxígeno del aire. Añadir un ácido como zumo de limón o aplicar calor puede ralentizar o detener esta reacción."
+      }
+    }
   },
   {
     "id": "food-089",
@@ -913,7 +2172,21 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une brève plongée dans l'eau bouillante peut garder les légumes verts pendant des mois.",
+        "fact": "Le blanchiment consiste à faire bouillir brièvement les légumes puis à les plonger dans l'eau glacée, ce qui stoppe l'activité enzymatique qui provoquerait autrement une perte de couleur, de goût et de nutriments pendant la congélation ou la conservation."
+      },
+      "nl": {
+        "hook": "Een korte duik in kokend water kan groenten maandenlang groen houden.",
+        "fact": "Blancheren kookt groenten kort en dompelt ze daarna in ijswater, wat de enzymactiviteit stopt die anders tijdens invriezen of bewaren voor verlies van kleur, smaak en voedingsstoffen zou zorgen."
+      },
+      "es": {
+        "hook": "Un rápido baño en agua hirviendo puede mantener las verduras verdes durante meses.",
+        "fact": "El escaldado hierve brevemente las verduras y luego las sumerge en agua helada, lo que detiene la actividad enzimática que de otro modo causaría pérdida de color, sabor y nutrientes durante la congelación o el almacenamiento."
+      }
+    }
   },
   {
     "id": "food-090",
@@ -923,7 +2196,21 @@
     "tags": [
       "food-science",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le miso et la sauce soja doivent leur saveur à la même moisissure.",
+        "fact": "La fermentation du miso comme celle de la sauce soja repose sur une moisissure appelée Aspergillus oryzae, ou koji, qui décompose les protéines et les amidons du soja et des céréales en acides aminés et sucres savoureux."
+      },
+      "nl": {
+        "hook": "Miso en sojasaus danken hun smaak aan dezelfde schimmel.",
+        "fact": "Zowel de fermentatie van miso als die van sojasaus berust op een schimmel genaamd Aspergillus oryzae, ook wel koji, die eiwitten en zetmeel in sojabonen en granen afbreekt tot smaakvolle aminozuren en suikers."
+      },
+      "es": {
+        "hook": "El miso y la salsa de soja deben su sabor al mismo moho.",
+        "fact": "Tanto la fermentación del miso como la de la salsa de soja dependen de un moho llamado Aspergillus oryzae, conocido como koji, que descompone las proteínas y los almidones de la soja y los cereales en aminoácidos y azúcares sabrosos."
+      }
+    }
   },
   {
     "id": "food-091",
@@ -933,7 +2220,21 @@
     "tags": [
       "food-science",
       "fermentation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le yaourt épaissit parce que des bactéries acidifient discrètement le lait.",
+        "fact": "Le yaourt se forme lorsque des bactéries lactiques transforment le lactose du lait en acide lactique. L'acidité qui en résulte fait coaguler les protéines du lait appelées caséines, épaississant le liquide jusqu'à obtenir la texture caractéristique du yaourt."
+      },
+      "nl": {
+        "hook": "Yoghurt dikt in doordat bacteriën stilletjes de melk laten verzuren.",
+        "fact": "Yoghurt ontstaat wanneer melkzuurbacteriën de lactose in melk omzetten in melkzuur. Door de resulterende zuurgraad gaan melkeiwitten, caseïnen genoemd, stollen, waardoor de vloeistof indikt tot de kenmerkende textuur van yoghurt."
+      },
+      "es": {
+        "hook": "El yogur se espesa porque unas bacterias acidifican la leche en silencio.",
+        "fact": "El yogur se forma cuando las bacterias del ácido láctico fermentan la lactosa de la leche y la convierten en ácido láctico. La acidez resultante hace que las proteínas de la leche, llamadas caseínas, se coagulen, espesando el líquido hasta lograr la textura característica del yogur."
+      }
+    }
   },
   {
     "id": "food-092",
@@ -943,7 +2244,21 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La fabrication du fromage repose traditionnellement sur une enzyme extraite de l'estomac du veau.",
+        "fact": "La fabrication du fromage utilise une enzyme appelée présure, traditionnellement extraite de l'estomac du veau, pour coaguler les protéines du lait en caillé solide, qui est ensuite séparé du petit-lait liquide restant."
+      },
+      "nl": {
+        "hook": "Kaasmaken steunt van oudsher op een enzym uit de maag van een kalf.",
+        "fact": "Bij het kaasmaken wordt een enzym genaamd stremsel gebruikt, traditioneel gewonnen uit kalfsmagen, om melkeiwitten te laten stollen tot vaste wrongel, die vervolgens wordt gescheiden van de overgebleven vloeibare wei."
+      },
+      "es": {
+        "hook": "La elaboración del queso se basa tradicionalmente en una enzima del estómago del ternero.",
+        "fact": "La elaboración del queso utiliza una enzima llamada cuajo, tradicionalmente obtenida del estómago de terneros, para coagular las proteínas de la leche en cuajada sólida, que luego se separa del suero líquido restante."
+      }
+    }
   },
   {
     "id": "food-093",
@@ -953,7 +2268,21 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le bicarbonate de soude et la levure chimique ne sont pas interchangeables, même s'ils se ressemblent.",
+        "fact": "Le bicarbonate de soude est du bicarbonate de sodium pur et a besoin d'un acide ajouté pour réagir et libérer du dioxyde de carbone. La levure chimique contient déjà son propre acide et sa propre base, elle s'active donc avec simplement du liquide et de la chaleur."
+      },
+      "nl": {
+        "hook": "Baking soda en bakpoeder zijn niet inwisselbaar, ook al lijken ze op elkaar.",
+        "fact": "Baking soda is puur natriumbicarbonaat en heeft een toegevoegd zuur nodig om te reageren en koolstofdioxide vrij te geven. Bakpoeder bevat al zijn eigen zuur en base, waardoor het al met alleen vocht en warmte actief wordt."
+      },
+      "es": {
+        "hook": "El bicarbonato de sodio y la levadura química no son intercambiables, aunque se parezcan.",
+        "fact": "El bicarbonato de sodio es bicarbonato sódico puro y necesita un ácido añadido para reaccionar y liberar dióxido de carbono. La levadura química ya contiene su propio ácido y base, así que se activa solo con líquido y calor."
+      }
+    }
   },
   {
     "id": "food-094",
@@ -963,7 +2292,21 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'eau bout à une température plus basse à mesure que l'on prend de l'altitude.",
+        "fact": "Le point d'ébullition de l'eau baisse d'environ 1 degré Celsius tous les 300 mètres d'altitude gagnés, c'est pourquoi la cuisson en haute altitude nécessite souvent des temps de cuisson plus longs ou l'usage d'un autocuiseur."
+      },
+      "nl": {
+        "hook": "Water kookt bij een lagere temperatuur naarmate je hoger klimt.",
+        "fact": "Het kookpunt van water daalt met ongeveer 1 graad Celsius per 300 meter hoogtewinst, waardoor koken op grote hoogte vaak langere kooktijden of een snelkookpan vereist."
+      },
+      "es": {
+        "hook": "El agua hierve a una temperatura más baja cuanto más alto se está.",
+        "fact": "El punto de ebullición del agua baja aproximadamente 1 grado Celsius por cada 300 metros de altitud ganados, por lo que cocinar en altitud suele requerir tiempos de cocción más largos o una olla a presión."
+      }
+    }
   },
   {
     "id": "food-095",
@@ -974,7 +2317,24 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'eau n'éteint pas le feu d'un piment, mais le lait, si.",
+        "fact": "La capsaïcine, le composé qui rend les piments piquants, est liposoluble et non hydrosoluble. C'est pourquoi boire de l'eau soulage peu la brûlure, alors que le lait ou d'autres matières grasses aident à la dissoudre.",
+        "whyItMatters": "Se tourner vers un produit laitier plutôt que vers l'eau est réellement plus efficace pour calmer la bouche après avoir mangé quelque chose de trop épicé."
+      },
+      "nl": {
+        "hook": "Water blust de brand van een hete peper niet, maar melk wel.",
+        "fact": "Capsaïcine, de stof die chilipepers pittig maakt, is vetoplosbaar en niet wateroplosbaar. Daarom helpt water drinken nauwelijks tegen de brand, terwijl melk of ander vet die kan helpen oplossen.",
+        "whyItMatters": "Grijpen naar zuivel in plaats van water is echt effectiever om af te koelen na iets te pittigs."
+      },
+      "es": {
+        "hook": "El agua no apaga el picor de un chile, pero la leche sí.",
+        "fact": "La capsaicina, el compuesto que hace picantes a los chiles, es soluble en grasa y no en agua. Por eso beber agua alivia poco el ardor, mientras que la leche u otras grasas ayudan a disolverla.",
+        "whyItMatters": "Recurrir a los lácteos en lugar de al agua es una forma genuinamente más eficaz de calmar la boca tras comer algo demasiado picante."
+      }
+    }
   },
   {
     "id": "food-096",
@@ -985,7 +2345,24 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les bananes accélèrent discrètement le mûrissement de tout ce qui les entoure.",
+        "fact": "Les bananes qui mûrissent libèrent de l'éthylène, une hormone végétale qui accélère aussi le mûrissement des fruits voisins, c'est pourquoi les rayons fruits et légumes séparent souvent les bananes des fruits plus fragiles.",
+        "whyItMatters": "Comprendre la sensibilité à l'éthylène peut aider à éviter que d'autres fruits ne s'abîment plus vite dans les cuisines domestiques."
+      },
+      "nl": {
+        "hook": "Bananen versnellen ongemerkt het rijpen van alles in hun buurt.",
+        "fact": "Rijpende bananen geven ethyleengas af, een plantenhormoon dat ook het rijpen van nabijgelegen fruit versnelt, waardoor groente- en fruitafdelingen bananen vaak apart houden van kwetsbaarder fruit.",
+        "whyItMatters": "Inzicht in ethyleengevoeligheid kan helpen voorkomen dat ander fruit thuis sneller bederft."
+      },
+      "es": {
+        "hook": "Los plátanos aceleran en silencio la maduración de todo lo que los rodea.",
+        "fact": "Los plátanos al madurar liberan gas etileno, una hormona vegetal que también acelera la maduración de la fruta cercana, por eso las secciones de frutas y verduras suelen mantener los plátanos separados de las frutas más delicadas.",
+        "whyItMatters": "Entender la sensibilidad al etileno puede ayudar a evitar que otras frutas se echen a perder más rápido en casa."
+      }
+    }
   },
   {
     "id": "food-097",
@@ -996,7 +2373,24 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La mise en conserve maison peut devenir mortelle sans assez de chaleur.",
+        "fact": "Clostridium botulinum, la bactérie responsable du botulisme, prospère dans les milieux pauvres en oxygène et peu acides, comme des conserves mal stérilisées. La stérilisation sous pression est nécessaire pour les aliments peu acides, car elle atteint des températures assez élevées pour détruire ses spores.",
+        "whyItMatters": "Respecter les consignes de stérilisation sous pression pour les aliments peu acides est une véritable question de sécurité alimentaire, pas seulement une tradition."
+      },
+      "nl": {
+        "hook": "Zelf inmaken kan dodelijk aflopen zonder voldoende hitte.",
+        "fact": "Clostridium botulinum, de bacterie die botulisme veroorzaakt, gedijt in zuurstofarme, weinig zure omgevingen zoals slecht afgesloten inmaakpotten. Inmaken onder druk is vereist voor weinig zure voedingsmiddelen, omdat het temperaturen bereikt die hoog genoeg zijn om de sporen te vernietigen.",
+        "whyItMatters": "Het volgen van richtlijnen voor inmaken onder druk bij weinig zure voedingsmiddelen is een echte kwestie van voedselveiligheid, geen kwestie van traditie."
+      },
+      "es": {
+        "hook": "Enlatar en casa puede resultar mortal sin suficiente calor.",
+        "fact": "Clostridium botulinum, la bacteria que causa el botulismo, prospera en ambientes con poco oxígeno y poca acidez, como conservas mal selladas. El enlatado a presión es necesario para alimentos poco ácidos porque alcanza temperaturas lo bastante altas para destruir sus esporas.",
+        "whyItMatters": "Seguir las pautas de enlatado a presión para alimentos poco ácidos es una cuestión real de seguridad alimentaria, no solo tradición."
+      }
+    }
   },
   {
     "id": "food-098",
@@ -1006,7 +2400,21 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des archéologues ont trouvé du miel encore comestible dans des tombes égyptiennes vieilles de 3 000 ans.",
+        "fact": "La très faible teneur en eau du miel et son acidité naturelle, associées à une production infime de peroxyde d'hydrogène, le rendent extrêmement résistant à l'altération, ce qui a permis à des pots de miel scellés dans d'anciennes tombes égyptiennes de rester comestibles des millénaires plus tard."
+      },
+      "nl": {
+        "hook": "Archeologen vonden eetbare honing in 3.000 jaar oude Egyptische graftombes.",
+        "fact": "Het zeer lage vochtgehalte van honing en de natuurlijke zuurgraad, samen met een spoortje geproduceerde waterstofperoxide, maken het uiterst bestand tegen bederf, waardoor potten honing die in oude Egyptische graven werden verzegeld millennia later nog eetbaar bleven."
+      },
+      "es": {
+        "hook": "Los arqueólogos han hallado miel comestible en tumbas egipcias de 3000 años.",
+        "fact": "El bajísimo contenido de humedad de la miel y su acidez natural, junto con trazas de peróxido de hidrógeno que produce, la hacen extremadamente resistente al deterioro, lo que permitió que tarros de miel sellados en antiguas tumbas egipcias siguieran siendo comestibles milenios después."
+      }
+    }
   },
   {
     "id": "food-099",
@@ -1016,7 +2424,21 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La confiture se conserve grâce au sucre, tout comme la viande se conserve grâce au sel.",
+        "fact": "La fabrication de confitures et de gelées repose sur une forte concentration de sucre pour extraire l'eau des cellules microbiennes par osmose, créant des conditions dans lesquelles les organismes responsables de l'altération ne peuvent pas survivre, même sans réfrigération."
+      },
+      "nl": {
+        "hook": "Jam wordt met suiker geconserveerd, net zoals vlees met zout wordt geconserveerd.",
+        "fact": "Het maken van jam en gelei steunt op een hoge suikerconcentratie die via osmose water aan microbiële cellen onttrekt, waardoor bedervende organismen zelfs zonder koeling niet kunnen overleven."
+      },
+      "es": {
+        "hook": "La mermelada se conserva con azúcar igual que la carne se conserva con sal.",
+        "fact": "La elaboración de mermeladas y jaleas depende de una alta concentración de azúcar que extrae el agua de las células microbianas por ósmosis, creando condiciones en las que los organismos causantes del deterioro no pueden sobrevivir, incluso sin refrigeración."
+      }
+    }
   },
   {
     "id": "food-100",
@@ -1026,7 +2448,21 @@
     "tags": [
       "ingredient-history",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le piment oiseau de votre sauce piquante préférée n'est pas du tout originaire d'Afrique.",
+        "fact": "Les piments oiseau largement utilisés aujourd'hui dans la cuisine africaine et sud-est asiatique trouvent leurs origines génétiques dans des piments domestiqués en Amérique, diffusés dans le monde entier après l'échange colombien."
+      },
+      "nl": {
+        "hook": "Het vogeloogpepertje in je favoriete hete saus is helemaal niet oorspronkelijk Afrikaans.",
+        "fact": "Vogeloogpepers, tegenwoordig veelvuldig gebruikt in de Afrikaanse en Zuidoost-Aziatische keuken, hebben hun genetische oorsprong in pepers die in Amerika werden gedomesticeerd en zich na de Columbiaanse uitwisseling wereldwijd verspreidden."
+      },
+      "es": {
+        "hook": "El chile ojo de pájaro de tu salsa picante favorita no es originario de África en absoluto.",
+        "fact": "Los chiles ojo de pájaro, ampliamente usados hoy en la cocina africana y del sudeste asiático, tienen su origen genético en chiles domesticados en América, que se propagaron por el mundo tras el intercambio colombino."
+      }
+    }
   },
   {
     "id": "food-101",
@@ -1037,7 +2473,24 @@
     "tags": [
       "food-science",
       "africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le manioc doit être préparé avec soin, sinon il peut être toxique.",
+        "fact": "Les variétés amères de manioc contiennent des composés naturels producteurs de cyanure, qu'il faut éliminer par trempage, fermentation ou cuisson avant que la racine soit sans danger, une pratique longuement affinée par les cultures qui l'ont adoptée.",
+        "whyItMatters": "Une préparation incorrecte du manioc amer reste aujourd'hui une cause réelle d'intoxication au cyanure dans certaines régions."
+      },
+      "nl": {
+        "hook": "Cassave moet zorgvuldig worden verwerkt, anders kan het giftig zijn.",
+        "fact": "Bittere cassavesoorten bevatten van nature cyanidevormende stoffen die verwijderd moeten worden door weken, fermenteren of koken voordat de wortel veilig te eten is, een praktijk die de culturen die haar overnamen lang hebben verfijnd.",
+        "whyItMatters": "Onjuiste bereiding van bittere cassave is vandaag in sommige regio's nog steeds een echte oorzaak van cyanidevergiftiging."
+      },
+      "es": {
+        "hook": "La yuca debe procesarse con cuidado o puede ser tóxica.",
+        "fact": "Las variedades amargas de yuca contienen compuestos naturales que generan cianuro y deben eliminarse mediante remojo, fermentación o cocción antes de que la raíz sea segura para comer, una práctica perfeccionada durante generaciones por las culturas que la adoptaron.",
+        "whyItMatters": "La preparación incorrecta de la yuca amarga sigue siendo hoy una causa real de intoxicación por cianuro en algunas regiones."
+      }
+    }
   },
   {
     "id": "food-102",
@@ -1047,7 +2500,21 @@
     "tags": [
       "food-science",
       "cooking-chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La texture du tofu vient du même tour de coagulation que le fromage.",
+        "fact": "Le tofu est fabriqué en faisant coaguler du lait de soja à l'aide d'un coagulant minéral ou acide, comme le sulfate de calcium ou le nigari, ce qui fait se lier les protéines en caillé, ensuite pressé en blocs."
+      },
+      "nl": {
+        "hook": "De textuur van tofu komt van hetzelfde stollingstrucje als kaas.",
+        "fact": "Tofu wordt gemaakt door sojamelk te laten stollen met een mineraal of zuur stremmiddel, zoals calciumsulfaat of nigari, waardoor de eiwitten zich binden tot wrongel die vervolgens tot blokken wordt geperst."
+      },
+      "es": {
+        "hook": "La textura del tofu viene del mismo truco de coagulación que el queso.",
+        "fact": "El tofu se elabora coagulando leche de soja con un coagulante mineral o ácido, como el sulfato de calcio o el nigari, lo que hace que las proteínas se unan en cuajada, que luego se prensa en bloques."
+      }
+    }
   },
   {
     "id": "food-103",
@@ -1057,7 +2524,21 @@
     "tags": [
       "ingredient-history",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une soupe aigre persane a donné son nom à toute une cuisine mondiale.",
+        "fact": "Le mot « sorbet » et le mot « sirop » remontent tous deux à des termes persans et arabes désignant une boisson sucrée et glacée, un signe de la façon dont le vocabulaire culinaire persan s'est diffusé jusqu'en Europe via les réseaux commerciaux islamiques."
+      },
+      "nl": {
+        "hook": "Een Perzische zure soep gaf haar naam aan een hele wereldkeuken.",
+        "fact": "Het woord 'sorbet' en later 'siroop' gaan terug op Perzische en Arabische woorden voor een gekoelde, gezoete drank, wat laat zien hoe ver het Perzische culinaire vocabularium zich via islamitische handelsnetwerken tot in Europa verspreidde."
+      },
+      "es": {
+        "hook": "Una sopa agria persa le dio su nombre a toda una cocina global.",
+        "fact": "La palabra 'sorbete' y más tarde 'jarabe' se remontan a palabras persas y árabes que designaban una bebida fría y endulzada, lo que muestra hasta qué punto el vocabulario culinario persa se propagó por Europa a través de las redes comerciales islámicas."
+      }
+    }
   },
   {
     "id": "food-104",
@@ -1067,7 +2548,21 @@
     "tags": [
       "dish-origins",
       "north-africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le couscous est né d'un moyen de faire durer un grain rare.",
+        "fact": "Le couscous, fait de granules de semoule de blé cuites à la vapeur, est né au sein des communautés berbères d'Afrique du Nord et est devenu un aliment de base dans tout le Maghreb bien avant de se répandre dans le reste de la Méditerranée."
+      },
+      "nl": {
+        "hook": "Couscous ontstond als manier om schaars graan verder te laten strekken.",
+        "fact": "Couscous, gemaakt van gestoomde griesmeelkorreltjes van tarwe, ontstond bij Berbergemeenschappen in Noord-Afrika en werd een basisvoedsel in de hele Maghreb, lang voordat het zich verspreidde naar de rest van het Middellandse Zeegebied."
+      },
+      "es": {
+        "hook": "El cuscús surgió como una forma de hacer rendir el grano escaso.",
+        "fact": "El cuscús, hecho de gránulos de sémola de trigo cocidos al vapor, se originó entre las comunidades bereberes del norte de África y se convirtió en un alimento básico en todo el Magreb mucho antes de extenderse al resto del Mediterráneo."
+      }
+    }
   },
   {
     "id": "food-105",
@@ -1077,7 +2572,21 @@
     "tags": [
       "dish-origins",
       "south-africa"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le bunny chow sud-africain n'a rien à voir avec des lapins.",
+        "fact": "Le bunny chow est un pain évidé garni de curry, créé par la communauté indienne d'Afrique du Sud à Durban, probablement entre le début et le milieu du XXe siècle, comme moyen pratique de servir du curry sans couverts."
+      },
+      "nl": {
+        "hook": "Zuid-Afrika's bunny chow heeft niets met konijnen te maken.",
+        "fact": "Bunny chow is een uitgehold brood gevuld met curry, gecreëerd door de Indiase gemeenschap van Zuid-Afrika in Durban, vermoedelijk in het begin tot midden van de 20e eeuw, als draagbare manier om curry te serveren zonder bestek."
+      },
+      "es": {
+        "hook": "El bunny chow sudafricano no tiene nada que ver con conejos.",
+        "fact": "El bunny chow es un pan ahuecado relleno de curry, creado por la comunidad india de Sudáfrica en Durban, probablemente a principios o mediados del siglo XX, como una forma práctica de servir curry sin cubiertos."
+      }
+    }
   },
   {
     "id": "food-106",
@@ -1087,7 +2596,21 @@
     "tags": [
       "dish-origins",
       "nigeria"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les célèbres brochettes grillées du Nigeria portent l'héritage des routes commerciales haoussa.",
+        "fact": "Le suya, des brochettes de viande épicée et grillée enrobées d'un mélange épicé à base de cacahuètes moulues, est étroitement associé aux commerçants haoussa du nord du Nigeria et s'est depuis répandu dans toute l'Afrique de l'Ouest comme street food populaire."
+      },
+      "nl": {
+        "hook": "Nigeria's populaire gegrilde spiesjes dragen de erfenis van Hausa-handelsroutes.",
+        "fact": "Suya, gekruide en gegrilde vleesspiesjes bedekt met een gemalen pindaspecerijenmix, wordt nauw geassocieerd met Hausa-handelaren in Noord-Nigeria en heeft zich sindsdien over heel West-Afrika verspreid als populair straatvoedsel."
+      },
+      "es": {
+        "hook": "Los populares pinchos a la parrilla de Nigeria llevan el legado de las rutas comerciales hausa.",
+        "fact": "El suya, brochetas de carne especiada y asada cubiertas con una mezcla de especias de cacahuete molido, está estrechamente asociado con los comerciantes hausa del norte de Nigeria y desde entonces se ha extendido por todo el África Occidental como popular comida callejera."
+      }
+    }
   },
   {
     "id": "food-107",
@@ -1097,7 +2620,21 @@
     "tags": [
       "ingredient-history",
       "spice-trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La cannelle regroupe deux plantes bien différentes sous un même nom.",
+        "fact": "La vraie cannelle, ou cannelle de Ceylan, provient d'un arbre originaire du Sri Lanka, tandis que la plupart de la cannelle vendue aux États-Unis est en réalité de la cassia, une écorce apparentée mais distincte, au goût plus prononcé, originaire d'Asie du Sud-Est et de Chine."
+      },
+      "nl": {
+        "hook": "Kaneel omvat twee heel verschillende planten die onder één naam worden verkocht.",
+        "fact": "Echte kaneel, of Ceylonkaneel, komt van een boom die van oorsprong uit Sri Lanka komt, terwijl het meeste kaneel dat in de Verenigde Staten wordt verkocht eigenlijk cassia is, een verwante maar aparte bast met een sterkere smaak, afkomstig uit Zuidoost-Azië en China."
+      },
+      "es": {
+        "hook": "La canela agrupa dos plantas muy distintas bajo un mismo nombre.",
+        "fact": "La canela verdadera, o canela de Ceilán, proviene de un árbol originario de Sri Lanka, mientras que la mayor parte de la canela que se vende en Estados Unidos es en realidad casia, una corteza emparentada pero distinta, de sabor más intenso, originaria del sudeste asiático y China."
+      }
+    }
   },
   {
     "id": "food-108",
@@ -1107,7 +2644,21 @@
     "tags": [
       "ingredient-history",
       "southeast-asia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le ketchup a commencé comme une sauce de poisson fermenté en Asie du Sud-Est.",
+        "fact": "Le mot ketchup vient probablement d'une sauce de poisson fermenté appelée kê-tsiap dans un dialecte chinois, utilisée en Asie du Sud-Est. Des marchands britanniques l'ont découverte et ont rapporté l'idée en Europe, où elle a fini par évoluer vers le condiment à base de tomate que l'on connaît aujourd'hui."
+      },
+      "nl": {
+        "hook": "Ketchup begon als een gefermenteerde vissaus in Zuidoost-Azië.",
+        "fact": "Het woord ketchup is waarschijnlijk afkomstig van een gefermenteerde vissaus genaamd kê-tsiap in een Chinees dialect, gebruikt in Zuidoost-Azië. Britse handelaren maakten er kennis mee en namen het idee mee naar Europa, waar het uiteindelijk uitgroeide tot de op tomaten gebaseerde saus die we vandaag kennen."
+      },
+      "es": {
+        "hook": "El ketchup empezó como una salsa de pescado fermentado en el sudeste asiático.",
+        "fact": "La palabra ketchup probablemente proviene de una salsa de pescado fermentado llamada kê-tsiap en un dialecto chino, usada en el sudeste asiático. Comerciantes británicos la conocieron y llevaron la idea a Europa, donde con el tiempo evolucionó hasta convertirse en el condimento a base de tomate que conocemos hoy."
+      }
+    }
   },
   {
     "id": "food-109",
@@ -1117,7 +2668,21 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'osmose qui gâche une salade trop salée empêche aussi la viande de pourrir.",
+        "fact": "Le même principe osmotique qui fait flétrir une laitue salée en extrayant l'eau de ses cellules est utilisé volontairement dans le salage de la viande, où de fortes concentrations de sel déshydratent les tissus et empêchent la croissance microbienne."
+      },
+      "nl": {
+        "hook": "De osmose die een gezouten salade verpest, houdt ook vlees tegen bederf.",
+        "fact": "Hetzelfde osmotische principe dat gezouten sla laat verwelken door water aan de cellen te onttrekken, wordt bewust toegepast bij het pekelen van vlees, waarbij hoge zoutconcentraties het weefsel uitdrogen en microbiële groei voorkomen."
+      },
+      "es": {
+        "hook": "La ósmosis que arruina una ensalada salada también evita que la carne se pudra.",
+        "fact": "El mismo principio osmótico que marchita la lechuga salada al extraer agua de sus células se aprovecha deliberadamente en la curación de la carne, donde altas concentraciones de sal deshidratan el tejido e impiden el crecimiento microbiano."
+      }
+    }
   },
   {
     "id": "food-110",
@@ -1127,7 +2692,21 @@
     "tags": [
       "ingredient-history",
       "oceania"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "C'est en Papouasie-Nouvelle-Guinée, et non en Asie du Sud-Est, que les bananes du monde ont vu le jour.",
+        "fact": "Les bananes ont été domestiquées pour la première fois à partir d'espèces sauvages en Asie du Sud-Est et dans la région de la Nouvelle-Guinée il y a des milliers d'années, avant de se répandre en Afrique via les routes commerciales, puis aux Amériques."
+      },
+      "nl": {
+        "hook": "Papoea-Nieuw-Guinea, niet Zuidoost-Azië, is waar de bananen van de wereld begonnen.",
+        "fact": "Bananen werden duizenden jaren geleden voor het eerst gedomesticeerd uit wilde soorten in Zuidoost-Azië en de regio Nieuw-Guinea, en verspreidden zich later via handelsroutes naar Afrika en uiteindelijk naar Amerika."
+      },
+      "es": {
+        "hook": "Papúa Nueva Guinea, y no el sudeste asiático, es donde comenzaron los plátanos del mundo.",
+        "fact": "Los plátanos fueron domesticados por primera vez a partir de especies silvestres en el sudeste asiático y la región de Nueva Guinea hace miles de años, para luego extenderse a África a través de rutas comerciales y, finalmente, a América."
+      }
+    }
   },
   {
     "id": "food-111",
@@ -1137,7 +2716,21 @@
     "tags": [
       "ingredient-history",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le cinq-épices chinois, ce n'est pas que du goût, c'est aussi de l'équilibre.",
+        "fact": "Le cinq-épices, généralement un mélange d'anis étoilé, de clous de girofle, de cannelle, de poivre du Sichuan et de graines de fenouil, a traditionnellement été conçu pour représenter les cinq saveurs fondamentales reconnues par la philosophie culinaire chinoise : sucré, acide, amer, salé et umami."
+      },
+      "nl": {
+        "hook": "Chinees vijfkruidenpoeder draait niet alleen om smaak, maar om balans.",
+        "fact": "Vijfkruidenpoeder, doorgaans een mix van steranijs, kruidnagel, kaneel, Sichuanpeper en venkelzaad, werd van oudsher samengesteld om de vijf fundamentele smaken van de Chinese voedselfilosofie te vertegenwoordigen: zoet, zuur, bitter, zout en umami."
+      },
+      "es": {
+        "hook": "El polvo de cinco especias chino no es solo sabor, es equilibrio.",
+        "fact": "El polvo de cinco especias, generalmente una mezcla de anís estrellado, clavo, canela, pimienta de Sichuan y semillas de hinojo, se formulaba tradicionalmente para representar los cinco sabores fundamentales reconocidos en la filosofía culinaria china: dulce, ácido, amargo, salado y umami."
+      }
+    }
   },
   {
     "id": "food-112",
@@ -1147,7 +2740,21 @@
     "tags": [
       "ingredient-history",
       "oceania"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La noix de coco a traversé les océans bien avant que les humains ne les cartographient.",
+        "fact": "On pense que les cocotiers se sont répandus à travers les océans Indien et Pacifique en partie grâce aux courants marins transportant des graines flottantes et résistantes au sel, en plus d'avoir été délibérément transportés par des peuples navigateurs."
+      },
+      "nl": {
+        "hook": "De kokosnoot trok al over oceanen lang voordat mensen ze in kaart brachten.",
+        "fact": "Kokospalmen zouden zich deels over de Indische en de Grote Oceaan hebben verspreid via oceaanstromingen die drijvende, zoutbestendige zaden meevoerden, naast het bewust vervoerd worden door zeevarende volkeren."
+      },
+      "es": {
+        "hook": "El coco cruzó los océanos mucho antes de que los humanos los cartografiaran.",
+        "fact": "Se cree que las palmeras de coco se propagaron por los océanos Índico y Pacífico en parte gracias a las corrientes oceánicas que transportaban semillas flotantes y resistentes a la sal, además de ser trasladadas deliberadamente por pueblos navegantes."
+      }
+    }
   },
   {
     "id": "food-113",
@@ -1157,7 +2764,21 @@
     "tags": [
       "food-science",
       "preservation"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un seul fruit séché a donné le mot « raisin » au français comme à l'anglais.",
+        "fact": "Les raisins sont séchés en raisins secs depuis l'Antiquité au Moyen-Orient et dans le bassin méditerranéen, et le séchage au soleil fut l'une des premières méthodes simples de conservation des aliments à long terme accessibles aux marchands anciens."
+      },
+      "nl": {
+        "hook": "Eén gedroogde vrucht gaf zowel het Frans als het Engels het woord 'raisin'.",
+        "fact": "Druiven worden al sinds de oudheid in het Midden-Oosten en het Middellandse Zeegebied tot rozijnen gedroogd, en zondrogen was een van de vroegste eenvoudige methoden voor langdurig bewaren van voedsel die oude handelaars ter beschikking stonden."
+      },
+      "es": {
+        "hook": "Una sola fruta seca dio la palabra 'raisin' tanto al francés como al inglés.",
+        "fact": "Las uvas se han secado hasta convertirse en pasas desde la antigüedad en Oriente Medio y el Mediterráneo, y el secado al sol fue uno de los primeros métodos sencillos de conservación de alimentos a largo plazo disponibles para los comerciantes antiguos."
+      }
+    }
   },
   {
     "id": "food-114",
@@ -1167,7 +2788,21 @@
     "tags": [
       "ethiopia",
       "dining-etiquette"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Éthiopie, nourrir un inconnu de la main est le plus grand compliment qu'on puisse lui faire.",
+        "fact": "La tradition du gursha consiste à placer directement dans la bouche d'un autre convive un morceau d'injera roulé à la main et garni de ragoût. Elle signale un profond respect, de l'amitié ou de l'amour, et refuser un gursha peut être perçu comme impoli."
+      },
+      "nl": {
+        "hook": "In Ethiopië is een vreemde met de hand voeden het grootste compliment dat je kunt geven.",
+        "fact": "Bij de gursha-traditie wordt een met de hand gerold stukje injera met stoofpot rechtstreeks in de mond van een andere disgenoot gestopt. Het toont diep respect, vriendschap of liefde, en een gursha weigeren kan als onbeleefd worden gezien."
+      },
+      "es": {
+        "hook": "En Etiopía, dar de comer a un desconocido con la mano es el mayor cumplido que se le puede hacer.",
+        "fact": "La tradición del gursha consiste en colocar directamente en la boca de otro comensal un trozo de injera enrollado a mano con guiso. Señala profundo respeto, amistad o amor, y rechazar un gursha puede considerarse de mala educación."
+      }
+    }
   },
   {
     "id": "food-115",
@@ -1177,7 +2812,21 @@
     "tags": [
       "japan",
       "dining-etiquette"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Aspirer bruyamment ses nouilles au Japon n'est pas impoli, c'est un compliment pour le chef.",
+        "fact": "Aspirer bruyamment ses ramen ou ses soba est considéré comme un signe que le convive apprécie son repas, et l'on pense que cela refroidit aussi les nouilles et rehausse leur arôme, l'air se mêlant au bouillon."
+      },
+      "nl": {
+        "hook": "Luidruchtig noedels slurpen in Japan is niet onbeleefd, het is een compliment aan de chef.",
+        "fact": "Hoorbaar ramen of soba slurpen wordt gezien als een teken dat de eter van de maaltijd geniet, en men gelooft dat het ook de noedels afkoelt en hun aroma versterkt doordat lucht zich met de bouillon vermengt."
+      },
+      "es": {
+        "hook": "Sorber los fideos ruidosamente en Japón no es de mala educación, es un cumplido para el cocinero.",
+        "fact": "Sorber audiblemente el ramen o el soba se considera una señal de que el comensal está disfrutando la comida, y se cree que también enfría los fideos y realza su aroma al mezclarse el aire con el caldo."
+      }
+    }
   },
   {
     "id": "food-116",
@@ -1187,7 +2836,21 @@
     "tags": [
       "france",
       "meal-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En France, le repas se termine par le fromage avant le dessert, pas après.",
+        "fact": "Dans la tradition française, le plateau de fromages est servi après le plat principal mais avant le dessert sucré, ce qui laisse aux convives l'occasion de finir le vin rouge restant avant qu'il ne soit desservi."
+      },
+      "nl": {
+        "hook": "Franse maaltijden eindigen met kaas vóór het dessert, niet erna.",
+        "fact": "In de traditionele Franse eetcultuur wordt de kaas geserveerd na het hoofdgerecht maar vóór het zoete dessert, zodat de gasten de kans krijgen om de overgebleven rode wijn op te drinken voordat die wordt afgeruimd."
+      },
+      "es": {
+        "hook": "Las comidas francesas terminan con queso antes del postre, no después.",
+        "fact": "En la tradición gastronómica francesa, el queso se sirve después del plato principal pero antes del postre dulce, lo que da a los comensales la oportunidad de terminar el vino tinto que quede antes de que se retire."
+      }
+    }
   },
   {
     "id": "food-117",
@@ -1198,7 +2861,21 @@
       "china",
       "tea",
       "etiquette"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Chine, taper deux doigts sur la table est une façon silencieuse de dire merci.",
+        "fact": "Lorsque quelqu'un vous sert du thé, tapoter légèrement la table avec deux doigts pliés exprime la gratitude sans interrompre la conversation. La légende fait remonter ce geste à un empereur voyageant incognito, dont les serviteurs s'inclinaient avec leurs doigts plutôt qu'en s'agenouillant, pour ne pas révéler son identité."
+      },
+      "nl": {
+        "hook": "Twee vingers op tafel tikken is in China een stille manier om dank je wel te zeggen.",
+        "fact": "Wanneer iemand je thee inschenkt, toont een licht tikje met twee gebogen vingers op tafel dankbaarheid zonder het gesprek te onderbreken. Volgens de legende gaat het gebaar terug op een keizer die incognito reisde en wiens bedienden met hun vingers bogen in plaats van te knielen, om zijn identiteit niet te verraden."
+      },
+      "es": {
+        "hook": "Golpear la mesa con dos dedos en China es una forma silenciosa de decir gracias.",
+        "fact": "Cuando alguien te sirve té, dar unos golpecitos suaves en la mesa con dos dedos doblados muestra gratitud sin interrumpir la conversación. La leyenda remonta el gesto a un emperador que viajaba de incógnito y cuyos sirvientes se inclinaban con los dedos en lugar de arrodillarse, para no revelar su identidad."
+      }
+    }
   },
   {
     "id": "food-118",
@@ -1208,7 +2885,21 @@
     "tags": [
       "dining-etiquette",
       "middle-east"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Manger de la main gauche est tabou dans une grande partie du Moyen-Orient, de l'Afrique du Nord et de l'Asie du Sud.",
+        "fact": "La main droite est traditionnellement réservée pour manger et saluer, tandis que la main gauche est considérée comme impure car historiquement associée aux tâches d'hygiène personnelle. Cette coutume persiste lors des repas partagés, même là où des couverts sont utilisés."
+      },
+      "nl": {
+        "hook": "Eten met je linkerhand is taboe in grote delen van het Midden-Oosten, Noord-Afrika en Zuid-Azië.",
+        "fact": "De rechterhand is van oudsher voorbehouden voor eten en begroeten, terwijl de linkerhand als onrein wordt beschouwd omdat die historisch geassocieerd wordt met persoonlijke hygiënetaken. Het gebruik blijft bestaan bij gedeelde maaltijden, zelfs waar bestek wordt gebruikt."
+      },
+      "es": {
+        "hook": "Comer con la mano izquierda es tabú en gran parte de Oriente Medio, el norte de África y el sur de Asia.",
+        "fact": "La mano derecha está tradicionalmente reservada para comer y saludar, mientras que la izquierda se considera impura por su asociación histórica con tareas de higiene personal. La costumbre persiste en las comidas compartidas incluso donde se usan cubiertos."
+      }
+    }
   },
   {
     "id": "food-119",
@@ -1218,7 +2909,21 @@
     "tags": [
       "spain",
       "meal-tradition"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Espagnols ont un mot pour désigner le fait de s'attarder à table juste pour discuter.",
+        "fact": "La sobremesa désigne le temps passé à discuter à table après la fin d'un repas, parfois plus longtemps que le repas lui-même. Elle est considérée comme un moment essentiel et sans hâte de la vie sociale espagnole."
+      },
+      "nl": {
+        "hook": "Spanjaarden hebben een woord voor treuzelen aan tafel enkel om te praten.",
+        "fact": "Sobremesa verwijst naar de tijd die aan tafel wordt doorgebracht met praten nadat de maaltijd is afgelopen, soms langer dan de maaltijd zelf duurde. Het wordt gezien als een essentieel, ongehaast onderdeel van het Spaanse sociale leven."
+      },
+      "es": {
+        "hook": "En español hay una palabra para quedarse en la mesa solo para hablar.",
+        "fact": "La sobremesa se refiere al tiempo que se pasa charlando alrededor de la mesa después de terminar de comer, a veces más largo que la comida misma. Se considera una parte esencial y sin prisas de la vida social española."
+      }
+    }
   },
   {
     "id": "food-120",
@@ -1228,7 +2933,21 @@
     "tags": [
       "korea",
       "dining-etiquette"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En Corée, on laisse les aînés prendre leurs baguettes en premier.",
+        "fact": "L'étiquette traditionnelle coréenne veut que la personne la plus âgée ou la plus haut placée à table commence à manger en premier, et les convives laissent généralement les bols de riz et de soupe sur la table plutôt que de les soulever en mangeant."
+      },
+      "nl": {
+        "hook": "In Korea laat je de oudsten als eerste hun eetstokjes oppakken.",
+        "fact": "Volgens de traditionele Koreaanse tafeletiquette begint de oudste of hoogst geplaatste persoon aan tafel als eerste met eten, en laten disgenoten de rijst- en soepkommen doorgaans op tafel staan in plaats van ze tijdens het eten op te tillen."
+      },
+      "es": {
+        "hook": "En Corea, se deja que los mayores tomen primero los palillos.",
+        "fact": "La etiqueta tradicional coreana en la mesa establece que la persona de mayor edad o rango empieza a comer primero, y los comensales suelen dejar los cuencos de arroz y sopa sobre la mesa en lugar de levantarlos mientras comen."
+      }
+    }
   },
   {
     "id": "food-121",
