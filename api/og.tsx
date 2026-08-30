@@ -1,11 +1,72 @@
 import { ImageResponse } from '@vercel/og'
 
-import { DOMAIN_ACCENT, INK, PAPER, loadPreviewFact, normalizeLocale } from '../edge/preview'
-
 export const config = { runtime: 'edge' }
 
 const WIDTH = 1200
 const HEIGHT = 630
+
+/** Vercel's edge runtime exposes env vars on `process.env` but is not
+ * Node, so this declares only what actually exists. */
+declare const process: { env: Record<string, string | undefined> }
+
+const SUPABASE_URL = process.env.VITE_SUPABASE_URL
+const SUPABASE_ANON_KEY = process.env.VITE_SUPABASE_ANON_KEY
+
+const INK = '#0F0B17'
+const PAPER = '#F3EFFA'
+
+/** Mirrors DOMAIN_ACCENT in src/lib/domainTheme.ts — duplicated because
+ * edge functions can't import from src/. Keep in sync when domains change. */
+const DOMAIN_ACCENT: Record<string, string> = {
+  history: '#E7B655',
+  sports: '#D3E755',
+  food: '#90E755',
+  science: '#55E75D',
+  geography: '#55E7A1',
+  technology: '#55E7E4',
+  psychology: '#55A5E7',
+  space: '#5561E7',
+  art: '#CF55E7',
+  culture: '#E755BB',
+  language: '#E7557A',
+}
+
+interface PreviewFact {
+  hook: string
+  fact: string
+  domain: string
+}
+
+/** Self-contained by necessity — see the note in api/fact-page.ts. */
+async function loadPreviewFact(factId: string, locale: string): Promise<PreviewFact | null> {
+  if (!SUPABASE_URL || !SUPABASE_ANON_KEY) return null
+  const headers = {
+    apikey: SUPABASE_ANON_KEY,
+    Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+  }
+
+  try {
+    const res = await fetch(
+      `${SUPABASE_URL}/rest/v1/facts?id=eq.${encodeURIComponent(factId)}&select=hook,fact,domain&limit=1`,
+      { headers },
+    )
+    if (!res.ok) return null
+    const base = ((await res.json()) as PreviewFact[])[0]
+    if (!base) return null
+    if (locale === 'en') return base
+
+    const trRes = await fetch(
+      `${SUPABASE_URL}/rest/v1/fact_translations?fact_id=eq.${encodeURIComponent(factId)}` +
+        `&locale=eq.${encodeURIComponent(locale)}&select=hook,fact&limit=1`,
+      { headers },
+    )
+    if (!trRes.ok) return base
+    const tr = ((await trRes.json()) as { hook: string; fact: string }[])[0]
+    return tr ? { ...base, hook: tr.hook, fact: tr.fact } : base
+  } catch {
+    return null
+  }
+}
 
 /**
  * Fetches Bricolage Grotesque (the app's display face) as a TTF, which
@@ -41,7 +102,8 @@ function clamp(text: string, max: number): string {
 export default async function handler(request: Request) {
   const { searchParams } = new URL(request.url)
   const factId = searchParams.get('id')
-  const locale = normalizeLocale(searchParams.get('lang'))
+  const rawLang = searchParams.get('lang')
+  const locale = rawLang && ['en', 'fr', 'nl', 'es'].includes(rawLang) ? rawLang : 'en'
 
   const [fact, font] = await Promise.all([
     factId ? loadPreviewFact(factId, locale) : Promise.resolve(null),

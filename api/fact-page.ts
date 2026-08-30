@@ -1,5 +1,3 @@
-import { loadPreviewFact, normalizeLocale } from '../edge/preview'
-
 export const config = { runtime: 'edge' }
 
 /**
@@ -17,9 +15,58 @@ export const config = { runtime: 'edge' }
  * Human visitors still receive the full SPA and hydrate normally; the
  * extra tags are inert for them.
  *
- * Implemented as an edge function rather than middleware.ts because
- * Vercel's middleware bundler rejects the module graph this needs.
+ * Deliberately self-contained: Vercel's edge bundler rejected this
+ * function when it imported a shared helper from outside api/, so the
+ * small amount of Supabase-reading logic is duplicated with api/og.tsx
+ * rather than shared. Keep the two in sync.
  */
+
+/** Vercel's edge runtime exposes env vars on `process.env` but is not
+ * Node, so this declares only what actually exists. Both values are the
+ * same public credentials the browser already ships. */
+declare const process: { env: Record<string, string | undefined> }
+
+const SUPABASE_URL = process.env.VITE_SUPABASE_URL
+const SUPABASE_ANON_KEY = process.env.VITE_SUPABASE_ANON_KEY
+
+interface PreviewFact {
+  hook: string
+  fact: string
+  domain: string
+}
+
+/** Loads one fact in `locale`, falling back to the English original when
+ * no translation exists — the same rule the app applies. Returns null on
+ * any failure so the page degrades to a generic preview. */
+async function loadPreviewFact(factId: string, locale: string): Promise<PreviewFact | null> {
+  if (!SUPABASE_URL || !SUPABASE_ANON_KEY) return null
+  const headers = {
+    apikey: SUPABASE_ANON_KEY,
+    Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+  }
+
+  try {
+    const res = await fetch(
+      `${SUPABASE_URL}/rest/v1/facts?id=eq.${encodeURIComponent(factId)}&select=hook,fact,domain&limit=1`,
+      { headers },
+    )
+    if (!res.ok) return null
+    const base = ((await res.json()) as PreviewFact[])[0]
+    if (!base) return null
+    if (locale === 'en') return base
+
+    const trRes = await fetch(
+      `${SUPABASE_URL}/rest/v1/fact_translations?fact_id=eq.${encodeURIComponent(factId)}` +
+        `&locale=eq.${encodeURIComponent(locale)}&select=hook,fact&limit=1`,
+      { headers },
+    )
+    if (!trRes.ok) return base
+    const tr = ((await trRes.json()) as { hook: string; fact: string }[])[0]
+    return tr ? { ...base, hook: tr.hook, fact: tr.fact } : base
+  } catch {
+    return null
+  }
+}
 
 /** Escapes text for use inside a double-quoted HTML attribute. */
 function escapeAttr(value: string): string {
@@ -34,9 +81,7 @@ export default async function handler(request: Request): Promise<Response> {
   const url = new URL(request.url)
 
   const shell = await fetch(new URL('/index.html', url.origin))
-  if (!shell.ok) {
-    return new Response('Not found', { status: 404 })
-  }
+  if (!shell.ok) return new Response('Not found', { status: 404 })
   const html = await shell.text()
 
   const respond = (body: string) =>
@@ -53,7 +98,9 @@ export default async function handler(request: Request): Promise<Response> {
   const factId = url.searchParams.get('id')
   if (!factId) return respond(html)
 
-  const locale = normalizeLocale(url.searchParams.get('lang'))
+  const rawLang = url.searchParams.get('lang')
+  const locale = rawLang && ['en', 'fr', 'nl', 'es'].includes(rawLang) ? rawLang : 'en'
+
   const fact = await loadPreviewFact(factId, locale)
   if (!fact) return respond(html)
 

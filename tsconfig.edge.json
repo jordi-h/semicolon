@@ -13,5 +13,5 @@
     "noUnusedParameters": true,
     "types": []
   },
-  "include": ["api", "edge"]
+  "include": ["api"]
 }
