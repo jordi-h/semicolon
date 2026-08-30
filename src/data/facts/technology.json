@@ -799,7 +799,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ENIAC pesait aussi lourd qu'un bus scolaire.",
+        "fact": "Achevé en 1945, l'ENIAC utilisait environ 17 468 tubes à vide, pesait près de 30 tonnes et remplissait une immense salle — pourtant, c'était le premier ordinateur électronique à usage général, et il était en grande partie programmé par six femmes qui reconfiguraient à la main son câblage et ses interrupteurs."
+      },
+      "nl": {
+        "hook": "De ENIAC woog evenveel als een schoolbus.",
+        "fact": "De ENIAC, voltooid in 1945, gebruikte zo'n 17.468 vacuümbuizen, woog ongeveer 30 ton en vulde een grote zaal — toch was het de eerste elektronische computer voor algemeen gebruik, en werd hij grotendeels geprogrammeerd door zes vrouwen die de bekabeling en schakelaars met de hand herconfigureerden."
+      },
+      "es": {
+        "hook": "El ENIAC pesaba tanto como un autobús escolar.",
+        "fact": "Terminado en 1945, el ENIAC usaba unos 17.468 tubos de vacío, pesaba casi 30 toneladas y llenaba una sala enorme; aun así, fue el primer ordenador electrónico de propósito general, y en gran parte lo programaban seis mujeres que reconfiguraban a mano su cableado y sus interruptores."
+      }
+    }
   },
   {
     "id": "technology-035",
@@ -809,7 +823,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Royaume-Uni a caché son premier ordinateur électronique pendant 30 ans.",
+        "fact": "Colossus, construit en 1943 pour aider à percer les codes allemands à Bletchley Park, fut l'un des premiers ordinateurs numériques électroniques programmables — mais il resta classifié jusque dans les années 1970, si bien que l'histoire de l'informatique naissante l'a longtemps ignoré."
+      },
+      "nl": {
+        "hook": "Groot-Brittannië hield zijn eerste elektronische computer 30 jaar lang geheim.",
+        "fact": "Colossus, gebouwd in 1943 om Duitse codes te helpen kraken in Bletchley Park, was een van de eerste programmeerbare elektronische digitale computers — maar bleef geheim tot de jaren 1970, waardoor hij lange tijd over het hoofd werd gezien in de geschiedenis van de vroege computertechniek."
+      },
+      "es": {
+        "hook": "Gran Bretaña ocultó su primer ordenador electrónico durante 30 años.",
+        "fact": "Colossus, construido en 1943 para ayudar a descifrar los códigos alemanes en Bletchley Park, fue uno de los primeros ordenadores digitales electrónicos programables, pero permaneció clasificado hasta la década de 1970, por lo que la historia temprana de la informática lo pasó por alto durante mucho tiempo."
+      }
+    }
   },
   {
     "id": "technology-036",
@@ -819,7 +847,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un ingénieur allemand a construit un ordinateur programmable fonctionnel en 1941.",
+        "fact": "Le Z3 de Konrad Zuse, construit en grande partie dans le salon de ses parents à Berlin, est considéré comme le premier ordinateur entièrement programmable et fonctionnel — bien qu'il ait été détruit lors d'un bombardement allié en 1943 et que son importance n'ait été largement reconnue que des décennies plus tard."
+      },
+      "nl": {
+        "hook": "Een Duitse ingenieur bouwde in 1941 al een werkende programmeerbare computer.",
+        "fact": "De Z3 van Konrad Zuse, grotendeels gebouwd in de woonkamer van zijn ouders in Berlijn, geldt als de eerste volledig functionele, programmagestuurde computer — al werd hij in 1943 vernietigd bij een geallieerd bombardement en werd zijn belang pas decennia later breed erkend."
+      },
+      "es": {
+        "hook": "Un ingeniero alemán construyó un ordenador programable funcional en 1941.",
+        "fact": "La Z3 de Konrad Zuse, construida en gran parte en la sala de estar de sus padres en Berlín, se considera el primer ordenador totalmente funcional controlado por programa, aunque fue destruida en un bombardeo aliado en 1943 y su importancia no se reconoció ampliamente hasta décadas después."
+      }
+    }
   },
   {
     "id": "technology-037",
@@ -829,7 +871,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier programme informatique a été écrit avant même qu'un ordinateur n'existe pour l'exécuter.",
+        "fact": "Dans les années 1840, Ada Lovelace a rédigé un algorithme détaillé pour la machine analytique de Charles Babbage — jamais construite — décrivant comment celle-ci pourrait calculer les nombres de Bernoulli, faisant de son travail un candidat sérieux au titre de premier programme informatique publié."
+      },
+      "nl": {
+        "hook": "Het eerste computerprogramma werd geschreven voordat er een computer bestond om het uit te voeren.",
+        "fact": "In de jaren 1840 schreef Ada Lovelace een gedetailleerd algoritme voor de nooit gebouwde Analytical Engine van Charles Babbage, waarin ze beschreef hoe die Bernoulli-getallen zou kunnen berekenen — waardoor haar werk geldt als een van de eerste gepubliceerde computerprogramma's."
+      },
+      "es": {
+        "hook": "El primer programa informático se escribió antes de que existiera un ordenador para ejecutarlo.",
+        "fact": "En la década de 1840, Ada Lovelace escribió un algoritmo detallado para la máquina analítica de Charles Babbage, que nunca llegó a construirse, describiendo cómo podría calcular los números de Bernoulli, lo que convierte su trabajo en un candidato al primer programa informático publicado."
+      }
+    }
   },
   {
     "id": "technology-038",
@@ -839,7 +895,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le schéma théorique de tous les ordinateurs vient d'un article de mathématiques de 1936.",
+        "fact": "Le concept de « machine de Turing » d'Alan Turing — un simple dispositif abstrait lisant et écrivant des symboles sur un ruban infini — a défini ce que signifie « calculable », et cela précède de près d'une décennie le premier ordinateur électronique."
+      },
+      "nl": {
+        "hook": "De theoretische blauwdruk voor elke computer komt uit een wiskundig artikel uit 1936.",
+        "fact": "Alan Turings concept van een 'Turingmachine' — een eenvoudig abstract apparaat dat symbolen leest en schrijft op een oneindige band — definieerde wat het betekent voor een probleem om berekenbaar te zijn, en dateert van bijna tien jaar vóór de eerste elektronische computer."
+      },
+      "es": {
+        "hook": "El plano teórico de todos los ordenadores proviene de un artículo matemático de 1936.",
+        "fact": "El concepto de 'máquina de Turing' de Alan Turing — un simple dispositivo abstracto que lee y escribe símbolos en una cinta infinita — definió qué significa que un problema sea computable, y es casi una década anterior a cualquier ordenador electrónico."
+      }
+    }
   },
   {
     "id": "technology-039",
@@ -850,7 +920,21 @@
       "computing",
       "history",
       "cybersecurity"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Percer Enigma a nécessité l'invention d'un des premiers ordinateurs.",
+        "fact": "Pour casser les codes militaires allemands durant la Seconde Guerre mondiale, Alan Turing et ses collègues de Bletchley Park ont conçu des machines électromécaniques appelées « bombes », qui automatisaient la recherche des réglages d'Enigma et accéléraient considérablement le décryptage."
+      },
+      "nl": {
+        "hook": "Het kraken van Enigma vereiste de uitvinding van een vroege computer.",
+        "fact": "Om Duitse militaire codes te kraken tijdens de Tweede Wereldoorlog ontwierpen Alan Turing en collega's in Bletchley Park elektromechanische machines genaamd 'bombes', die de zoektocht naar Enigma-instellingen automatiseerden en het codekraken enorm versnelden."
+      },
+      "es": {
+        "hook": "Descifrar Enigma exigió inventar un ordenador temprano.",
+        "fact": "Para romper los códigos militares alemanes en la Segunda Guerra Mundial, Alan Turing y sus colegas en Bletchley Park diseñaron máquinas electromecánicas llamadas 'bombas', que automatizaban la búsqueda de los ajustes de Enigma y aceleraban enormemente el descifrado."
+      }
+    }
   },
   {
     "id": "technology-040",
@@ -860,7 +944,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Presque tous les ordinateurs actuels reposent sur une note de 1945.",
+        "fact": "La description par John von Neumann du stockage des instructions d'un programme et de ses données dans la même mémoire — l'architecture dite « à programme enregistré » — est devenue le schéma de base que suivent encore presque tous les ordinateurs modernes."
+      },
+      "nl": {
+        "hook": "Bijna elke computer vandaag draait nog op een memo uit 1945.",
+        "fact": "John von Neumanns beschrijving van het samen opslaan van zowel de instructies van een programma als de bijbehorende gegevens in hetzelfde geheugen — de 'stored-program'-architectuur — werd de basisblauwdruk die vrijwel alle moderne computers nog altijd volgen."
+      },
+      "es": {
+        "hook": "Casi todos los ordenadores actuales funcionan según un memorando de 1945.",
+        "fact": "La descripción de John von Neumann sobre almacenar tanto las instrucciones de un programa como sus datos en la misma memoria — la arquitectura de 'programa almacenado' — se convirtió en el plano básico que casi todos los ordenadores modernos siguen todavía."
+      }
+    }
   },
   {
     "id": "technology-041",
@@ -870,7 +968,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un ordinateur a prédit correctement une élection présidentielle alors que les experts refusaient d'y croire.",
+        "fact": "En 1952, l'ordinateur UNIVAC I a prédit une victoire écrasante de Dwight Eisenhower à la présidentielle en se basant sur les premiers résultats, mais les statisticiens de CBS, méfiants, ont retardé la diffusion — la prédiction s'est finalement révélée exacte."
+      },
+      "nl": {
+        "hook": "Een computer voorspelde correct een presidentsverkiezing, terwijl experts het niet wilden geloven.",
+        "fact": "In 1952 voorspelde de UNIVAC I-computer op basis van de eerste uitslagen dat Dwight Eisenhower met een ruime meerderheid het presidentschap zou winnen, maar statistici van CBS vertrouwden het resultaat niet en stelden de uitzending uit — de voorspelling bleek achteraf accuraat."
+      },
+      "es": {
+        "hook": "Un ordenador predijo correctamente unas elecciones presidenciales mientras los expertos se negaban a creerlo.",
+        "fact": "En 1952, el ordenador UNIVAC I predijo, a partir de los primeros resultados, que Dwight Eisenhower ganaría la presidencia por goleada, pero los estadísticos de CBS desconfiaron y retrasaron su emisión; la predicción resultó ser acertada."
+      }
+    }
   },
   {
     "id": "technology-042",
@@ -880,7 +992,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les programmeuses qui faisaient réellement fonctionner l'ENIAC sont restées non reconnues pendant des décennies.",
+        "fact": "Six femmes — dont Kathleen McNulty, Jean Bartik et Betty Holberton — programmaient l'ENIAC en recâblant physiquement ses panneaux, mais pendant des années elles furent absentes des photos et des récits officiels, tout le mérite revenant à la machine elle-même."
+      },
+      "nl": {
+        "hook": "De programmeurs die de ENIAC écht lieten werken, kregen decennialang geen erkenning.",
+        "fact": "Zes vrouwen — onder wie Kathleen McNulty, Jean Bartik en Betty Holberton — programmeerden de ENIAC door de panelen fysiek te herbedraden, maar jarenlang bleven ze buiten beeld op officiële foto's en in geschiedschrijving, terwijl alle eer naar de hardware ging."
+      },
+      "es": {
+        "hook": "Las programadoras que realmente hacían funcionar el ENIAC no fueron reconocidas durante décadas.",
+        "fact": "Seis mujeres — entre ellas Kathleen McNulty, Jean Bartik y Betty Holberton — programaban el ENIAC recableando físicamente sus paneles, pero durante años quedaron fuera de las fotos y los relatos oficiales, mientras todo el mérito se atribuía al hardware."
+      }
+    }
   },
   {
     "id": "technology-043",
@@ -890,7 +1016,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les cartes perforées des ordinateurs viennent à l'origine de l'industrie textile.",
+        "fact": "Les cartes perforées ont d'abord servi à contrôler les motifs de tissage des métiers Jacquard en 1801 ; près d'un siècle plus tard, Herman Hollerith a adapté l'idée pour dépouiller le recensement américain de 1890, et son entreprise est finalement devenue IBM."
+      },
+      "nl": {
+        "hook": "Computerponskaarten zijn ontstaan in de textielindustrie.",
+        "fact": "Ponskaarten werden in 1801 voor het eerst gebruikt om weefpatronen aan te sturen in jacquardweefgetouwen; bijna een eeuw later paste Herman Hollerith het idee toe om de Amerikaanse volkstelling van 1890 te verwerken, en zijn bedrijf groeide uiteindelijk uit tot IBM."
+      },
+      "es": {
+        "hook": "Las tarjetas perforadas de los ordenadores empezaron en la industria textil.",
+        "fact": "Las tarjetas perforadas se usaron por primera vez para controlar los patrones de tejido en los telares Jacquard en 1801; casi un siglo después, Herman Hollerith adaptó la idea para tabular el censo de EE. UU. de 1890, y su empresa acabó convirtiéndose en IBM."
+      }
+    }
   },
   {
     "id": "technology-044",
@@ -900,7 +1040,21 @@
     "tags": [
       "computing",
       "language"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mot « byte » a été mal orthographié exprès.",
+        "fact": "L'ingénieur IBM Werner Buchholz a inventé le terme « byte » en 1956 pour désigner un groupe de bits, en l'orthographiant délibérément avec un « y » au lieu de « bite » afin d'éviter toute confusion avec « bit » à l'écrit."
+      },
+      "nl": {
+        "hook": "Het woord 'byte' werd expres verkeerd gespeld.",
+        "fact": "IBM-ingenieur Werner Buchholz bedacht 'byte' in 1956 om een groep bits aan te duiden, en spelde het bewust met een 'y' in plaats van 'bite' zodat het geschreven niet verward zou worden met 'bit'."
+      },
+      "es": {
+        "hook": "La palabra 'byte' se escribió mal a propósito.",
+        "fact": "El ingeniero de IBM Werner Buchholz acuñó el término 'byte' en 1956 para describir un grupo de bits, escribiéndolo deliberadamente con 'y' en lugar de 'bite' para que no se confundiera por escrito con 'bit'."
+      }
+    }
   },
   {
     "id": "technology-045",
@@ -911,7 +1065,24 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La « loi de Moore » n'est pas vraiment une loi de la physique.",
+        "fact": "En 1965, Gordon Moore, cofondateur d'Intel, a observé que le nombre de transistors sur une puce semblait doubler environ tous les un à deux ans, et cette tendance s'est maintenue pendant des décennies — mais il s'agissait toujours d'une tendance industrielle et d'un objectif commercial, pas d'une loi physique.",
+        "whyItMatters": "Les fabricants de puces ont ouvertement utilisé la loi de Moore comme feuille de route pour planifier leurs investissements, ce qui explique en grande partie pourquoi la prédiction s'est réalisée si longtemps."
+      },
+      "nl": {
+        "hook": "'De wet van Moore' is eigenlijk geen natuurkundige wet.",
+        "fact": "In 1965 merkte Intel-medeoprichter Gordon Moore op dat het aantal transistors op een chip ongeveer elk jaar of twee jaar leek te verdubbelen, en die trend hield decennialang stand — maar het was altijd een patroon uit de industrie en een zakelijk streefdoel, geen natuurwet.",
+        "whyItMatters": "Chipfabrikanten gebruikten de wet van Moore openlijk als routekaart om investeringen te plannen, wat een belangrijke reden is waarom de voorspelling zo lang bleef uitkomen."
+      },
+      "es": {
+        "hook": "La 'ley de Moore' en realidad no es una ley de la física.",
+        "fact": "En 1965, el cofundador de Intel Gordon Moore observó que el número de transistores en un chip parecía duplicarse aproximadamente cada uno o dos años, y la tendencia se mantuvo durante décadas, pero siempre fue un patrón de la industria y un objetivo comercial, no una ley física.",
+        "whyItMatters": "Los fabricantes de chips usaron abiertamente la ley de Moore como hoja de ruta para planificar inversiones, lo que es una gran razón por la que la predicción se siguió cumpliendo durante tanto tiempo."
+      }
+    }
   },
   {
     "id": "technology-046",
@@ -921,7 +1092,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier disque dur avait la taille de deux réfrigérateurs et contenait moins qu'un album photo de smartphone moderne.",
+        "fact": "Le RAMAC 350 d'IBM, sorti en 1956, stockait environ 5 mégaoctets répartis sur cinquante disques rotatifs de 24 pouces, et les entreprises ne pouvaient que le louer — pas l'acheter — pour environ 3 200 dollars par mois."
+      },
+      "nl": {
+        "hook": "De eerste harde schijf was zo groot als twee koelkasten en bevatte minder dan een moderne fotogalerij op je telefoon.",
+        "fact": "IBM's RAMAC 350 uit 1956 sloeg ongeveer 5 megabyte op, verdeeld over vijftig draaiende schijven van 24 inch, en bedrijven konden hem alleen huren — niet kopen — voor zo'n 3.200 dollar per maand."
+      },
+      "es": {
+        "hook": "El primer disco duro tenía el tamaño de dos frigoríficos y almacenaba menos que un álbum de fotos de un móvil actual.",
+        "fact": "El RAMAC 350 de IBM, de 1956, almacenaba unos 5 megabytes repartidos en cincuenta discos giratorios de 24 pulgadas, y las empresas solo podían alquilarlo, no comprarlo, por unos 3.200 dólares al mes."
+      }
+    }
   },
   {
     "id": "technology-047",
@@ -931,7 +1116,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La personne qui a écrit le premier compilateur a aussi popularisé le terme « débogage ».",
+        "fact": "Grace Hopper a développé le système A-0 en 1952, l'un des premiers compilateurs capables de traduire du code lisible par l'humain en instructions machine, posant les bases qui mèneront plus tard à COBOL."
+      },
+      "nl": {
+        "hook": "Dezelfde persoon die de eerste compiler schreef, maakte ook de term 'debuggen' populair.",
+        "fact": "Grace Hopper ontwikkelde in 1952 het A-0 System, een van de eerste compilers die voor mensen leesbare code omzette in machine-instructies, en legde daarmee de basis die later tot COBOL leidde."
+      },
+      "es": {
+        "hook": "La misma persona que escribió el primer compilador también popularizó el término 'depurar' (debugging).",
+        "fact": "Grace Hopper desarrolló el A-0 System en 1952, uno de los primeros compiladores capaces de traducir código legible por humanos a instrucciones de máquina, sentando las bases que más tarde llevarían a COBOL."
+      }
+    }
   },
   {
     "id": "technology-048",
@@ -941,7 +1140,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'informatique a son propre prix Nobel.",
+        "fact": "Le prix Turing, créé en 1966 par l'Association for Computing Machinery et nommé en l'honneur d'Alan Turing, est largement considéré comme la plus haute distinction en informatique."
+      },
+      "nl": {
+        "hook": "De informatica heeft haar eigen Nobelprijs.",
+        "fact": "De Turing Award, in 1966 ingesteld door de Association for Computing Machinery en vernoemd naar Alan Turing, wordt algemeen beschouwd als de hoogste onderscheiding in de informatica."
+      },
+      "es": {
+        "hook": "La informática tiene su propio Premio Nobel.",
+        "fact": "El Premio Turing, creado en 1966 por la Association for Computing Machinery y nombrado en honor a Alan Turing, está ampliamente considerado el máximo galardón en informática."
+      }
+    }
   },
   {
     "id": "technology-049",
@@ -951,7 +1164,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un langage de programmation de 1957 a pratiquement lancé toute l'industrie.",
+        "fact": "Fortran, développé chez IBM et sorti en 1957, fut le premier langage de programmation de haut niveau largement adopté, permettant aux scientifiques d'écrire des formules dans une notation proche des mathématiques plutôt qu'en code machine brut."
+      },
+      "nl": {
+        "hook": "Eén programmeertaal uit 1957 luidde in feite het begin van de hele industrie in.",
+        "fact": "Fortran, ontwikkeld bij IBM en uitgebracht in 1957, was de eerste breed toegepaste programmeertaal op hoog niveau, waarmee wetenschappers formules konden schrijven in een notatie die dicht bij wiskunde stond, in plaats van rechtstreeks in machinecode."
+      },
+      "es": {
+        "hook": "Un lenguaje de programación de 1957 prácticamente dio origen a toda la industria.",
+        "fact": "Fortran, desarrollado en IBM y lanzado en 1957, fue el primer lenguaje de programación de alto nivel ampliamente adoptado, y permitía a los científicos escribir fórmulas en una notación cercana a la matemática en lugar de código máquina puro."
+      }
+    }
   },
   {
     "id": "technology-050",
@@ -962,7 +1189,24 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un langage de programmation de 1959 fait encore discrètement tourner une grande partie du système bancaire mondial.",
+        "fact": "COBOL fut conçu en 1959 pour le traitement des données commerciales, et des décennies plus tard, il gère encore une grande part des transactions financières quotidiennes dans le monde, tournant sur des mainframes que beaucoup d'institutions rechignent à remplacer.",
+        "whyItMatters": "Comme très peu de programmeurs apprennent encore le COBOL, banques et gouvernements ont eu du mal à répétition à trouver des développeurs capables de maintenir ces systèmes vieillissants qui font tourner des services essentiels."
+      },
+      "nl": {
+        "hook": "Een programmeertaal uit 1959 draait nog steeds stilletjes een groot deel van het wereldwijde banksysteem.",
+        "fact": "COBOL werd in 1959 ontworpen voor zakelijke gegevensverwerking, en decennia later verwerkt de taal nog altijd een groot deel van de dagelijkse financiële transacties wereldwijd, draaiend op mainframes die veel instellingen liever niet vervangen.",
+        "whyItMatters": "Omdat nog maar weinig programmeurs COBOL leren, hebben banken en overheden herhaaldelijk moeite gehad om ontwikkelaars te vinden die verouderde systemen kunnen onderhouden waar essentiële diensten op draaien."
+      },
+      "es": {
+        "hook": "Un lenguaje de programación de 1959 sigue haciendo funcionar en silencio buena parte del sistema bancario mundial.",
+        "fact": "COBOL se diseñó en 1959 para el procesamiento de datos empresariales, y décadas después sigue gestionando una gran parte de las transacciones financieras diarias en todo el mundo, ejecutándose en mainframes que muchas instituciones se resisten a reemplazar.",
+        "whyItMatters": "Como cada vez menos programadores aprenden COBOL, bancos y gobiernos han tenido dificultades repetidas para encontrar desarrolladores que mantengan sistemas antiguos de los que dependen servicios esenciales."
+      }
+    }
   },
   {
     "id": "technology-051",
@@ -972,7 +1216,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'un des plus anciens langages de programmation est encore activement utilisé aujourd'hui.",
+        "fact": "Lisp, créé par John McCarthy en 1958, est le deuxième plus ancien langage de programmation de haut niveau encore largement utilisé, et il a introduit des concepts comme la récursivité et le ramassage automatique des ordures, devenus depuis des standards de la programmation."
+      },
+      "nl": {
+        "hook": "Een van de oudste programmeertalen wordt vandaag nog steeds actief gebruikt.",
+        "fact": "Lisp, gemaakt door John McCarthy in 1958, is de op één na oudste hogere programmeertaal die nog volop wordt gebruikt, en introduceerde ideeën zoals recursie en automatische garbage collection die later standaard werden in de programmeerwereld."
+      },
+      "es": {
+        "hook": "Uno de los lenguajes de programación más antiguos todavía se usa activamente hoy.",
+        "fact": "Lisp, creado por John McCarthy en 1958, es el segundo lenguaje de programación de alto nivel más antiguo aún en uso extendido, e introdujo ideas como la recursividad y la recolección automática de basura que más tarde se convirtieron en estándares de la programación."
+      }
+    }
   },
   {
     "id": "technology-052",
@@ -982,7 +1240,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le langage qui a construit Unix a été créé pour réécrire Unix lui-même.",
+        "fact": "Dennis Ritchie a développé le langage de programmation C aux Bell Labs au début des années 1970, en grande partie pour permettre de réécrire Unix — initialement en assembleur — dans un langage plus portable ; le C a ensuite influencé d'innombrables langages ultérieurs."
+      },
+      "nl": {
+        "hook": "De taal waarmee Unix werd gebouwd, is gemaakt om Unix zelf te herschrijven.",
+        "fact": "Dennis Ritchie ontwikkelde de programmeertaal C bij Bell Labs in het begin van de jaren 1970, grotendeels zodat Unix — oorspronkelijk geschreven in assembly — herschreven kon worden in iets draagbaarders; C beïnvloedde daarna talloze latere talen."
+      },
+      "es": {
+        "hook": "El lenguaje que construyó Unix se creó para reescribir el propio Unix.",
+        "fact": "Dennis Ritchie desarrolló el lenguaje de programación C en los Bell Labs a principios de los años setenta, en gran parte para que Unix, escrito originalmente en ensamblador, pudiera reescribirse en algo más portable; C acabó influyendo en innumerables lenguajes posteriores."
+      }
+    }
   },
   {
     "id": "technology-053",
@@ -992,7 +1264,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Unix doit son nom à une plaisanterie sur un projet plus grand et plus ambitieux.",
+        "fact": "Développé aux Bell Labs en 1969, Unix a été nommé comme un jeu de mots sur « Multics », le projet de système d'exploitation tentaculaire et trop ambitieux dont il devait être une alternative plus simple et plus modeste."
+      },
+      "nl": {
+        "hook": "Unix kreeg zijn naam als grap over een groter, ambitieuzer project.",
+        "fact": "Unix werd in 1969 bij Bell Labs ontwikkeld en vernoemd als woordspeling op 'Multics', het weidse, te ambitieuze besturingssysteemproject waarvoor het als kleiner en eenvoudiger alternatief bedoeld was."
+      },
+      "es": {
+        "hook": "Unix recibió su nombre como broma sobre un proyecto más grande y ambicioso.",
+        "fact": "Desarrollado en los Bell Labs en 1969, Unix se llamó así como un juego de palabras con 'Multics', el sistema operativo enorme y demasiado ambicioso al que pretendía ser una alternativa más pequeña y sencilla."
+      }
+    }
   },
   {
     "id": "technology-054",
@@ -1002,7 +1288,21 @@
     "tags": [
       "software",
       "language"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Python ne doit pas son nom au serpent.",
+        "fact": "Son créateur, Guido van Rossum, a nommé le langage Python d'après la troupe comique britannique Monty Python, et non le reptile — il lisait des scripts de « Monty Python's Flying Circus » au moment de démarrer le projet en 1989."
+      },
+      "nl": {
+        "hook": "Python is niet vernoemd naar de slang.",
+        "fact": "Bedenker Guido van Rossum noemde de taal Python naar de Britse komediegroep Monty Python, niet naar het reptiel — hij was scripts van 'Monty Python's Flying Circus' aan het lezen toen hij het project in 1989 startte."
+      },
+      "es": {
+        "hook": "Python no debe su nombre a la serpiente.",
+        "fact": "Su creador, Guido van Rossum, bautizó el lenguaje Python en honor al grupo cómico británico Monty Python, no al reptil; estaba leyendo guiones de 'Monty Python's Flying Circus' cuando empezó el proyecto en 1989."
+      }
+    }
   },
   {
     "id": "technology-055",
@@ -1013,7 +1313,21 @@
       "software",
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'un des langages les plus utilisés du web a été écrit en dix jours.",
+        "fact": "Brendan Eich a créé la première version de JavaScript en environ dix jours en 1995, alors qu'il travaillait chez Netscape, sous pression pour livrer un langage de script avant la sortie d'une version majeure du navigateur."
+      },
+      "nl": {
+        "hook": "Een van de meestgebruikte talen op het web werd in tien dagen geschreven.",
+        "fact": "Brendan Eich schreef de eerste versie van JavaScript in ongeveer tien dagen in 1995 bij Netscape, onder druk om een scripttaal klaar te hebben vóór de release van een grote browserversie."
+      },
+      "es": {
+        "hook": "Uno de los lenguajes más usados de la web se escribió en diez días.",
+        "fact": "Brendan Eich creó la primera versión de JavaScript en unos diez días en 1995, mientras trabajaba en Netscape, bajo presión para lanzar un lenguaje de scripting antes del estreno de una versión importante del navegador."
+      }
+    }
   },
   {
     "id": "technology-056",
@@ -1023,7 +1337,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Java portait à l'origine le nom d'un arbre devant le bureau de son créateur.",
+        "fact": "Le projet de langage de Sun Microsystems s'appelait d'abord « Oak », d'après un chêne visible depuis la fenêtre d'un développeur, mais le nom était déjà déposé, alors l'équipe l'a renommé Java — apparemment inspiré par leur consommation de café."
+      },
+      "nl": {
+        "hook": "Java heette oorspronkelijk naar een boom voor het raam van de bedenker.",
+        "fact": "Het taalproject van Sun Microsystems heette eerst 'Oak', naar een eik zichtbaar vanuit het raam van een ontwikkelaar, maar die naam was al als merk geregistreerd, dus doopte het team het om tot Java — naar verluidt geïnspireerd door hun koffieverbruik."
+      },
+      "es": {
+        "hook": "Java originalmente se llamaba como un árbol frente a la oficina de su creador.",
+        "fact": "El proyecto de lenguaje de Sun Microsystems se llamó primero 'Oak', por un roble visible desde la ventana de un desarrollador, pero el nombre ya estaba registrado como marca, así que el equipo lo rebautizó como Java, al parecer inspirados por su consumo de café."
+      }
+    }
   },
   {
     "id": "technology-057",
@@ -1033,7 +1361,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un langage conçu pour les débutants est né dans un département de mathématiques de Dartmouth.",
+        "fact": "BASIC fut conçu en 1964 par John Kemeny et Thomas Kurtz au Dartmouth College spécifiquement pour permettre à des étudiants non spécialistes d'écrire des programmes simples, et il devint plus tard le langage préinstallé sur de nombreux premiers ordinateurs personnels."
+      },
+      "nl": {
+        "hook": "Een taal voor beginners ontstond bij de wiskundeafdeling van Dartmouth.",
+        "fact": "BASIC werd in 1964 ontworpen door John Kemeny en Thomas Kurtz aan Dartmouth College, specifiek om niet-gespecialiseerde studenten eenvoudige programma's te laten schrijven, en werd later de taal die standaard op veel vroege thuiscomputers stond geïnstalleerd."
+      },
+      "es": {
+        "hook": "Un lenguaje pensado para principiantes nació en el departamento de matemáticas de Dartmouth.",
+        "fact": "BASIC fue diseñado en 1964 por John Kemeny y Thomas Kurtz en Dartmouth College específicamente para que estudiantes no especializados pudieran escribir programas sencillos, y más tarde se convirtió en el lenguaje preinstalado en muchos de los primeros ordenadores domésticos."
+      }
+    }
   },
   {
     "id": "technology-058",
@@ -1043,7 +1385,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le web n'était pas au départ pensé pour naviguer, mais pour résoudre un problème de classement.",
+        "fact": "Tim Berners-Lee a proposé le World Wide Web en 1989 au CERN comme moyen d'aider les chercheurs à relier et partager des documents plus facilement, et dès 1991, il avait construit le premier navigateur et le premier serveur pour le faire fonctionner."
+      },
+      "nl": {
+        "hook": "Het web ging oorspronkelijk niet om surfen, maar om een archiveringsprobleem.",
+        "fact": "Tim Berners-Lee stelde het World Wide Web in 1989 voor bij CERN als manier om onderzoekers documenten gemakkelijker te laten koppelen en delen, en in 1991 had hij al de eerste webbrowser en -server gebouwd om het te laten werken."
+      },
+      "es": {
+        "hook": "La web al principio no trataba de navegar por páginas, sino de un problema de organización de archivos.",
+        "fact": "Tim Berners-Lee propuso la World Wide Web en 1989 en el CERN como una forma de ayudar a los investigadores a enlazar y compartir documentos con más facilidad, y en 1991 ya había construido el primer navegador y servidor para hacerla funcionar."
+      }
+    }
   },
   {
     "id": "technology-059",
@@ -1053,7 +1409,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les quatre premiers ordinateurs d'Internet ne pouvaient communiquer qu'avec quatre endroits.",
+        "fact": "ARPANET, l'ancêtre d'Internet, a connecté ses quatre premiers nœuds en 1969 — l'UCLA, le Stanford Research Institute, l'UC Santa Barbara et l'université de l'Utah."
+      },
+      "nl": {
+        "hook": "De eerste vier computers van het internet konden slechts met vier plekken praten.",
+        "fact": "ARPANET, de voorloper van het internet, verbond in 1969 zijn eerste vier knooppunten — UCLA, Stanford Research Institute, UC Santa Barbara en de University of Utah."
+      },
+      "es": {
+        "hook": "Los primeros cuatro ordenadores de internet solo podían hablar con cuatro lugares.",
+        "fact": "ARPANET, el predecesor de internet, conectó sus primeros cuatro nodos en 1969: UCLA, el Stanford Research Institute, UC Santa Barbara y la Universidad de Utah."
+      }
+    }
   },
   {
     "id": "technology-060",
@@ -1063,7 +1433,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Deux ingénieurs ont conçu les règles qui permettent à tous les réseaux du monde de communiquer entre eux.",
+        "fact": "Vint Cerf et Bob Kahn ont publié en 1974 la conception du protocole TCP/IP, créant l'ensemble de règles communes permettant à des réseaux informatiques différents et incompatibles de se connecter en un seul internet unifié."
+      },
+      "nl": {
+        "hook": "Twee ingenieurs ontwierpen de regels waarmee elk netwerk ter wereld met elkaar kan praten.",
+        "fact": "Vint Cerf en Bob Kahn publiceerden in 1974 het ontwerp van TCP/IP, waarmee ze de gemeenschappelijke regels creëerden die verschillende, onderling incompatibele computernetwerken lieten samensmelten tot één verenigd internet."
+      },
+      "es": {
+        "hook": "Dos ingenieros diseñaron las reglas que permiten que cada red del planeta se comunique con las demás.",
+        "fact": "Vint Cerf y Bob Kahn publicaron en 1974 el diseño de TCP/IP, creando el conjunto común de reglas que permitió que redes informáticas distintas e incompatibles se conectaran en un único internet unificado."
+      }
+    }
   },
   {
     "id": "technology-061",
@@ -1073,7 +1457,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il existait autrefois une seule liste maîtresse de tous les ordinateurs d'Internet.",
+        "fact": "Avant l'introduction du système de noms de domaine (DNS) en 1983, chaque ordinateur connecté à ARPANET dépendait d'un fichier texte mis à jour manuellement, appelé HOSTS.TXT, maintenu par Stanford, pour traduire les noms en adresses."
+      },
+      "nl": {
+        "hook": "Er bestond ooit één enkele masterlijst van elke computer op het internet.",
+        "fact": "Voordat het Domain Name System in 1983 werd ingevoerd, vertrouwde elke computer die met ARPANET verbonden was op een handmatig bijgewerkt tekstbestand genaamd HOSTS.TXT, beheerd door Stanford, om namen naar adressen te vertalen."
+      },
+      "es": {
+        "hook": "Antes existía una única lista maestra de todos los ordenadores de internet.",
+        "fact": "Antes de que se introdujera el Sistema de Nombres de Dominio en 1983, cada ordenador conectado a ARPANET dependía de un archivo de texto actualizado a mano llamado HOSTS.TXT, mantenido por Stanford, para traducir nombres en direcciones."
+      }
+    }
   },
   {
     "id": "technology-062",
@@ -1083,7 +1481,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un navigateur lancé en 1993 a transformé le web, d'outil de niche en phénomène de masse.",
+        "fact": "Mosaic, lancé en 1993, fut le premier navigateur à afficher des images intégrées au texte dans une interface graphique simple, rendant le web accessible au grand public et non plus seulement aux chercheurs — ses créateurs fondèrent plus tard Netscape."
+      },
+      "nl": {
+        "hook": "Eén browser uit 1993 maakte van het web een fenomeen in plaats van een niche-tool.",
+        "fact": "Mosaic, uitgebracht in 1993, was de eerste browser die afbeeldingen tussen tekst weergaf in een toegankelijke grafische interface, en maakte het web toegankelijk voor gewone mensen in plaats van alleen onderzoekers — de makers richtten later Netscape op."
+      },
+      "es": {
+        "hook": "Un navegador lanzado en 1993 convirtió la web de herramienta de nicho en un fenómeno de masas.",
+        "fact": "Mosaic, lanzado en 1993, fue el primer navegador en mostrar imágenes integradas con el texto en una interfaz gráfica sencilla, y hizo la web accesible a la gente corriente y no solo a los investigadores; sus creadores fundaron más tarde Netscape."
+      }
+    }
   },
   {
     "id": "technology-063",
@@ -1093,7 +1505,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'entrée en bourse d'un fabricant de navigateur a contribué à déclencher la bulle Internet.",
+        "fact": "Lors de l'introduction en bourse de Netscape en 1995, le cours de l'action a plus que doublé dès le premier jour de cotation, alors que l'entreprise n'était pas encore rentable — de quoi déclencher une vague d'enthousiasme des investisseurs pour les start-ups Internet."
+      },
+      "nl": {
+        "hook": "De beursgang van een browserbedrijf hielp de dotcomzeepbel op gang brengen.",
+        "fact": "Toen Netscape in 1995 naar de beurs ging, verdubbelde de aandelenkoers ruimschoots op de eerste handelsdag, ondanks dat het bedrijf nog geen winst maakte — een golf van beleggersenthousiasme voor internetstartups was het gevolg."
+      },
+      "es": {
+        "hook": "El debut bursátil de una empresa de navegadores ayudó a desencadenar la burbuja puntocom.",
+        "fact": "Cuando Netscape salió a bolsa en 1995, el precio de sus acciones se más que duplicó el primer día de cotización pese a que la empresa aún no era rentable, lo que ayudó a desatar una ola de entusiasmo inversor por las startups de internet."
+      }
+    }
   },
   {
     "id": "technology-064",
@@ -1104,7 +1530,24 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le CERN aurait pu faire payer des royalties sur le World Wide Web — et a choisi de ne pas le faire.",
+        "fact": "En 1993, le CERN a placé la technologie du World Wide Web dans le domaine public, sans frais ni redevances, une décision largement créditée d'avoir permis au web de se répandre et d'être adopté aussi rapidement dans le monde entier.",
+        "whyItMatters": "Si le CERN avait breveté et concédé le web sous licence, les systèmes hypertextes propriétaires concurrents de l'époque auraient pu fragmenter l'information en ligne au lieu de laisser émerger un web unique et ouvert."
+      },
+      "nl": {
+        "hook": "CERN had royalty's kunnen heffen op het World Wide Web — en koos ervoor dat niet te doen.",
+        "fact": "In 1993 plaatste CERN de World Wide Web-technologie in het publieke domein, zonder kosten of royalty's, een besluit dat algemeen wordt gezien als de reden dat het web zich zo snel wereldwijd kon verspreiden en ingang kon vinden.",
+        "whyItMatters": "Had CERN het web gepatenteerd en in licentie gegeven, dan hadden concurrerende, proprietaire hypertekstsystemen van die tijd online informatie mogelijk versnipperd in plaats van dat er één open web ontstond."
+      },
+      "es": {
+        "hook": "El CERN podría haber cobrado regalías por la World Wide Web, y decidió no hacerlo.",
+        "fact": "En 1993, el CERN puso la tecnología de la World Wide Web en el dominio público, sin cuotas ni regalías, una decisión a la que ampliamente se atribuye haber permitido que la web se difundiera y adoptara tan rápido en todo el mundo.",
+        "whyItMatters": "Si el CERN hubiera patentado y licenciado la web, los sistemas de hipertexto propietarios y competidores de la época podrían haber fragmentado la información en línea en lugar de imponerse una única web abierta."
+      }
+    }
   },
   {
     "id": "technology-065",
@@ -1114,7 +1557,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'un des tout premiers achats en ligne fut un CD de musique.",
+        "fact": "En août 1994, NetMarket a permis la vente d'un album de Sting en utilisant le chiffrement pour protéger la transaction par carte bancaire, un événement souvent cité comme le premier achat de détail sécurisé effectué sur Internet."
+      },
+      "nl": {
+        "hook": "Een van de allereerste online aankopen was een muziek-cd.",
+        "fact": "In augustus 1994 faciliteerde NetMarket de verkoop van een album van Sting, met encryptie om de creditcardtransactie te beschermen — een gebeurtenis die vaak wordt aangehaald als de eerste beveiligde online detailhandelsaankoop."
+      },
+      "es": {
+        "hook": "Una de las primeras compras hechas por internet fue un CD de música.",
+        "fact": "En agosto de 1994, NetMarket facilitó la venta de un álbum de Sting usando cifrado para proteger la transacción con tarjeta de crédito, un hecho que suele citarse como la primera compra minorista segura realizada por internet."
+      }
+    }
   },
   {
     "id": "technology-066",
@@ -1125,7 +1582,21 @@
       "internet",
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le nom d'origine de Google évoquait plutôt une appli de chiropracteur.",
+        "fact": "Avant de s'appeler Google, le projet de recherche de Larry Page et Sergey Brin à Stanford, analysant les liens entre pages web, s'appelait « BackRub »."
+      },
+      "nl": {
+        "hook": "Googles oorspronkelijke naam klonk als een chiropractie-app.",
+        "fact": "Voordat het Google heette, droeg het Stanford-onderzoeksproject van Larry Page en Sergey Brin, dat links tussen webpagina's analyseerde, de naam 'BackRub'."
+      },
+      "es": {
+        "hook": "El nombre original de Google sonaba a aplicación de quiropráctica.",
+        "fact": "Antes de llamarse Google, el proyecto de investigación de Larry Page y Sergey Brin en Stanford, que analizaba los enlaces entre páginas web, se llamaba 'BackRub'."
+      }
+    }
   },
   {
     "id": "technology-067",
@@ -1135,7 +1606,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Amazon a démarré comme une librairie tenue depuis un garage.",
+        "fact": "Jeff Bezos a fondé Amazon en 1994 pour vendre exclusivement des livres en ligne, choisissant ce secteur en partie parce que leur immense catalogue et leur format standardisé les rendaient bien adaptés à une entreprise de vente par correspondance sur Internet."
+      },
+      "nl": {
+        "hook": "Amazon begon als een boekhandel gerund vanuit een garage.",
+        "fact": "Jeff Bezos richtte Amazon in 1994 op om uitsluitend boeken online te verkopen, deels omdat hun enorme catalogus en gestandaardiseerde formaat ze bijzonder geschikt maakten voor een postorderbedrijf op internet."
+      },
+      "es": {
+        "hook": "Amazon empezó como una librería dirigida desde un garaje.",
+        "fact": "Jeff Bezos fundó Amazon en 1994 para vender libros exclusivamente por internet, eligiendo ese sector en parte porque su enorme catálogo y su formato estandarizado lo hacían muy adecuado para un negocio de venta por correo en internet."
+      }
+    }
   },
   {
     "id": "technology-068",
@@ -1145,7 +1630,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le nom d'origine de Yahoo ressemblait à une simple liste de tâches.",
+        "fact": "Quand Jerry Yang et David Filo ont lancé leur répertoire web en 1994, il s'appelait « Jerry and David's Guide to the World Wide Web » avant d'être renommé Yahoo!"
+      },
+      "nl": {
+        "hook": "Yahoo's oorspronkelijke naam was in feite gewoon een omschrijving van een to-dolijstje.",
+        "fact": "Toen Jerry Yang en David Filo in 1994 hun webgids begonnen, heette die 'Jerry and David's Guide to the World Wide Web', voordat hij werd omgedoopt tot Yahoo!"
+      },
+      "es": {
+        "hook": "El nombre original de Yahoo era básicamente la descripción de una lista de tareas.",
+        "fact": "Cuando Jerry Yang y David Filo empezaron su directorio web en 1994, se llamaba 'Jerry and David's Guide to the World Wide Web' antes de que lo rebautizaran como Yahoo!"
+      }
+    }
   },
   {
     "id": "technology-069",
@@ -1155,7 +1654,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Wikipédia était à l'origine le plan de secours d'une encyclopédie bien plus lente.",
+        "fact": "Wikipédia a été lancée en 2001 comme un projet annexe rapide et ouvert de Nupedia, une encyclopédie en ligne qui reposait sur un processus lent de relecture par des experts — en un an, ce projet parallèle bien plus libre avait largement dépassé son projet d'origine."
+      },
+      "nl": {
+        "hook": "Wikipedia was oorspronkelijk het back-upplan van een veel tragere encyclopedie.",
+        "fact": "Wikipedia werd in 2001 gelanceerd als een snel, open nevenproject van Nupedia, een online encyclopedie die leunde op een traag peer-reviewproces door experts — binnen een jaar was het losse zijproject zijn ouderproject ver ontgroeid."
+      },
+      "es": {
+        "hook": "Wikipedia empezó siendo el plan de respaldo de una enciclopedia mucho más lenta.",
+        "fact": "Wikipedia se lanzó en 2001 como un proyecto paralelo rápido y abierto de Nupedia, una enciclopedia en línea que dependía de un lento proceso de revisión por expertos; en apenas un año, el proyecto secundario y desenfadado había superado con creces a su predecesor."
+      }
+    }
   },
   {
     "id": "technology-070",
@@ -1165,7 +1678,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des milliers de milliards de dollars de valeur boursière se sont volatilisés en quelques années.",
+        "fact": "La bulle Internet, alimentée par des investissements spéculatifs dans des start-ups non rentables, a culminé début 2000 avant de s'effondrer, effaçant une grande part de la valeur des actions technologiques et fermant des milliers d'entreprises durant les deux années suivantes."
+      },
+      "nl": {
+        "hook": "Duizenden miljarden dollars aan beurswaarde verdampten in een paar jaar tijd.",
+        "fact": "De dotcomzeepbel, aangewakkerd door speculatieve investeringen in onrendabele internetstartups, bereikte begin 2000 haar piek voordat ze instortte, waarbij een groot deel van de waarde van techaandelen verdampte en duizenden bedrijven in de daaropvolgende twee jaar verdwenen."
+      },
+      "es": {
+        "hook": "Billones de dólares en valor de mercado se esfumaron en un par de años.",
+        "fact": "La burbuja puntocom, alimentada por inversiones especulativas en startups de internet no rentables, alcanzó su punto máximo a principios de 2000 antes de desplomarse, borrando buena parte del valor de las acciones tecnológicas y cerrando miles de empresas en los dos años siguientes."
+      }
+    }
   },
   {
     "id": "technology-071",
@@ -1175,7 +1702,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'émoticône souriante a une date de naissance documentée.",
+        "fact": "L'informaticien Scott Fahlman a proposé d'utiliser :-) pour signaler les blagues dans les messages en ligne sur un forum de Carnegie Mellon en septembre 1982, un moment souvent considéré comme l'invention de l'émoticône."
+      },
+      "nl": {
+        "hook": "Het lachende smiley-emoticon heeft een gedocumenteerde geboortedag.",
+        "fact": "Computerwetenschapper Scott Fahlman stelde in september 1982 op een prikbord van Carnegie Mellon voor om :-) te gebruiken om grappen in online berichten te markeren — een moment dat vaak wordt gezien als de uitvinding van het emoticon."
+      },
+      "es": {
+        "hook": "El emoticono de la sonrisa tiene una fecha de nacimiento documentada.",
+        "fact": "El científico informático Scott Fahlman propuso usar :-) para marcar bromas en los mensajes en línea de un tablón de anuncios de Carnegie Mellon en septiembre de 1982, un momento a menudo considerado como la invención del emoticono."
+      }
+    }
   },
   {
     "id": "technology-072",
@@ -1185,7 +1726,21 @@
     "tags": [
       "internet",
       "trivia"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La célèbre histoire de la « salle 404 du CERN » est un mythe.",
+        "fact": "Une légende populaire prétend que le code d'erreur 404 vient d'une salle réellement numérotée 404 au CERN — le CERN lui-même a démenti cette histoire. Le code fait simplement partie de la plage standard 4xx de HTTP pour les erreurs côté client, définie lors de la rédaction du standard."
+      },
+      "nl": {
+        "hook": "Het beroemde verhaal over 'kamer 404 bij CERN' is een fabeltje.",
+        "fact": "Een populaire legende beweert dat de foutcode 404 afkomstig is van een fysieke kamer met nummer 404 bij CERN — CERN zelf heeft dit ontkend. De code is gewoon onderdeel van HTTP's standaard 4xx-reeks voor clientfouten, vastgelegd toen de standaard werd geschreven."
+      },
+      "es": {
+        "hook": "La famosa historia de la 'sala 404 del CERN' es un mito.",
+        "fact": "Una leyenda popular afirma que el código de error 404 proviene de una sala física con el número 404 en el CERN; el propio CERN lo ha desmentido. El código simplemente forma parte del rango estándar 4xx de HTTP para errores del cliente, establecido al redactarse el estándar."
+      }
+    }
   },
   {
     "id": "technology-073",
@@ -1195,7 +1750,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier produit de Microsoft n'était pas Windows.",
+        "fact": "Fondée en 1975 par Bill Gates et Paul Allen, Microsoft a d'abord commercialisé une version du langage de programmation BASIC pour l'Altair 8800, l'un des tout premiers kits d'ordinateur personnel."
+      },
+      "nl": {
+        "hook": "Microsofts eerste product was niet Windows.",
+        "fact": "Microsoft, opgericht in 1975 door Bill Gates en Paul Allen, bracht als eerste product een versie van de programmeertaal BASIC uit voor de Altair 8800, een van de vroegste personal computer-kits."
+      },
+      "es": {
+        "hook": "El primer producto de Microsoft no fue Windows.",
+        "fact": "Fundada en 1975 por Bill Gates y Paul Allen, el primer producto de Microsoft fue una versión del lenguaje de programación BASIC para el Altair 8800, uno de los primeros kits de ordenador personal."
+      }
+    }
   },
   {
     "id": "technology-074",
@@ -1205,7 +1774,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier ordinateur Apple ne comportait ni boîtier, ni clavier, ni écran.",
+        "fact": "L'Apple I de 1976 était vendu sous forme de simple carte électronique assemblée pour 666,66 dollars — les acheteurs devaient fournir eux-mêmes clavier, écran, boîtier et alimentation pour le rendre utilisable."
+      },
+      "nl": {
+        "hook": "De eerste Apple-computer kwam zonder behuizing, toetsenbord of monitor.",
+        "fact": "De Apple I uit 1976 werd verkocht als een kaal, gemonteerd printplaatje voor $666,66 — kopers moesten zelf hun toetsenbord, scherm, behuizing en voeding regelen om er iets bruikbaars van te maken."
+      },
+      "es": {
+        "hook": "El primer ordenador Apple no venía con carcasa, teclado ni monitor.",
+        "fact": "El Apple I de 1976 se vendía como una simple placa de circuito ya montada por 666,66 dólares; los compradores tenían que aportar su propio teclado, pantalla, carcasa y fuente de alimentación para poder usarlo."
+      }
+    }
   },
   {
     "id": "technology-075",
@@ -1215,7 +1798,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La décision d'IBM de garder son PC ouvert s'est spectaculairement retournée contre elle.",
+        "fact": "Lorsqu'IBM a lancé son PC en 1981, il utilisait des composants disponibles dans le commerce et publiait ses spécifications techniques, rendant sa conception facile à cloner — des concurrents ont rapidement fabriqué des machines compatibles moins chères qui ont grignoté la domination d'IBM sur son propre marché."
+      },
+      "nl": {
+        "hook": "IBM's beslissing om zijn pc-ontwerp open te houden, keerde zich spectaculair tegen het bedrijf.",
+        "fact": "Toen IBM in 1981 zijn pc lanceerde, gebruikte het standaardonderdelen en publiceerde het de technische specificaties, waardoor het ontwerp makkelijk te kopiëren was — concurrenten bouwden al snel goedkopere compatibele machines die IBM's eigen marktdominantie ondermijnden."
+      },
+      "es": {
+        "hook": "La decisión de IBM de mantener abierto el diseño de su PC le salió terriblemente cara.",
+        "fact": "Cuando IBM lanzó su PC en 1981, usó componentes disponibles en el mercado y publicó las especificaciones técnicas, lo que hizo el diseño fácil de clonar; los competidores enseguida fabricaron máquinas compatibles más baratas que erosionaron el propio dominio de mercado de IBM."
+      }
+    }
   },
   {
     "id": "technology-076",
@@ -1225,7 +1822,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le système d'exploitation qui a fait la fortune de Microsoft a été acheté pour une fraction de sa valeur future.",
+        "fact": "Microsoft a acquis les droits d'un système d'exploitation surnommé QDOS (« Quick and Dirty Operating System ») auprès de Seattle Computer Products pour environ 75 000 dollars, avant d'en concéder une version modifiée sous licence à IBM sous le nom de MS-DOS."
+      },
+      "nl": {
+        "hook": "Het besturingssysteem dat Microsoft maakte, werd gekocht voor een fractie van zijn toekomstige waarde.",
+        "fact": "Microsoft verwierf de rechten op een besturingssysteem met de bijnaam QDOS ('Quick and Dirty Operating System') van Seattle Computer Products voor ongeveer 75.000 dollar, en gaf vervolgens een aangepaste versie in licentie aan IBM als MS-DOS."
+      },
+      "es": {
+        "hook": "El sistema operativo que hizo grande a Microsoft se compró por una fracción de su valor futuro.",
+        "fact": "Microsoft adquirió los derechos de un sistema operativo apodado QDOS ('Quick and Dirty Operating System') a Seattle Computer Products por unos 75.000 dólares, y luego licenció una versión modificada a IBM con el nombre de MS-DOS."
+      }
+    }
   },
   {
     "id": "technology-077",
@@ -1235,7 +1846,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Linux a commencé comme le projet de loisir d'un étudiant qui ne pensait pas qu'il compterait vraiment.",
+        "fact": "En 1991, l'étudiant finlandais Linus Torvalds a posté sur un groupe Usenet qu'il écrivait « un système d'exploitation (libre) (juste un hobby, ne sera pas grand ni professionnel) » — ce hobby est devenu Linux, qui fait aujourd'hui tourner la majorité des serveurs du monde."
+      },
+      "nl": {
+        "hook": "Linux begon als een hobbyproject van een student die niet dacht dat het iets zou worden.",
+        "fact": "In 1991 postte de Finse student Linus Torvalds op een Usenet-nieuwsgroep dat hij 'een (gratis) besturingssysteem (gewoon een hobby, wordt niet groot en professioneel)' aan het schrijven was — die hobby werd Linux, dat nu de meeste servers ter wereld draait."
+      },
+      "es": {
+        "hook": "Linux empezó como el proyecto de afición de un estudiante que no esperaba que llegara a importar.",
+        "fact": "En 1991, el estudiante finlandés Linus Torvalds publicó en un grupo de Usenet que estaba escribiendo 'un sistema operativo (gratuito) (solo un hobby, no será grande ni profesional)'; esa afición se convirtió en Linux, que hoy hace funcionar la mayoría de los servidores del mundo."
+      }
+    }
   },
   {
     "id": "technology-078",
@@ -1245,7 +1870,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le mouvement du logiciel libre est né de la frustration d'un programmeur face à une imprimante.",
+        "fact": "Richard Stallman a lancé le projet GNU en 1983 pour construire un système d'exploitation semblable à Unix, entièrement libre, motivé en partie par sa colère de ne pas pouvoir modifier le pilote propriétaire d'une imprimante."
+      },
+      "nl": {
+        "hook": "De vrije-softwarebeweging begon met de frustratie van één programmeur over een printer.",
+        "fact": "Richard Stallman lanceerde in 1983 het GNU-project om een volledig vrij Unix-achtig besturingssysteem te bouwen, deels gedreven door zijn woede dat hij de propriëtaire printerdriver niet mocht aanpassen."
+      },
+      "es": {
+        "hook": "El movimiento del software libre empezó con la frustración de un programador por una impresora.",
+        "fact": "Richard Stallman lanzó el Proyecto GNU en 1983 para construir un sistema operativo similar a Unix completamente libre, motivado en parte por su enfado al no poder modificar el software propietario del controlador de una impresora."
+      }
+    }
   },
   {
     "id": "technology-079",
@@ -1255,7 +1894,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Photoshop a commencé sa vie comme un simple visualiseur d'images en noir et blanc.",
+        "fact": "Thomas Knoll a écrit ce programme à l'origine en 1987 pour afficher des images en niveaux de gris sur un Macintosh ; avec son frère John, il l'a transformé en logiciel complet de retouche d'images, qu'Adobe a acquis sous licence et lancé sous le nom de Photoshop en 1990."
+      },
+      "nl": {
+        "hook": "Photoshop begon als een eenvoudige zwart-witbeeldviewer.",
+        "fact": "Thomas Knoll schreef het programma oorspronkelijk in 1987 om grijswaardenafbeeldingen op een Macintosh weer te geven; samen met zijn broer John breidde hij het uit tot volwaardige beeldbewerkingssoftware, die Adobe in licentie nam en in 1990 als Photoshop uitbracht."
+      },
+      "es": {
+        "hook": "Photoshop nació como un simple visor de imágenes en blanco y negro.",
+        "fact": "Thomas Knoll escribió originalmente el programa en 1987 para mostrar imágenes en escala de grises en un Macintosh; junto con su hermano John, lo convirtió en un software completo de edición de imágenes que Adobe licenció y lanzó como Photoshop en 1990."
+      }
+    }
   },
   {
     "id": "technology-080",
@@ -1266,7 +1919,21 @@
       "software",
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une application de partage de fichiers créée par un étudiant en décrochage a bouleversé toute l'industrie musicale.",
+        "fact": "Napster, lancé en 1999 par Shawn Fanning, permettait aux utilisateurs de partager librement des fichiers MP3 et a atteint des dizaines de millions d'utilisateurs en deux ans, avant que des poursuites judiciaires des maisons de disques ne le contraignent à fermer en 2001."
+      },
+      "nl": {
+        "hook": "Een filesharing-app van een studieafhaker gooide de hele muziekindustrie overhoop.",
+        "fact": "Napster, in 1999 gelanceerd door Shawn Fanning, liet gebruikers vrij MP3-bestanden delen en groeide binnen twee jaar naar tientallen miljoenen gebruikers, tot rechtszaken van platenmaatschappijen de dienst in 2001 dwongen te sluiten."
+      },
+      "es": {
+        "hook": "Una aplicación para compartir archivos creada por un estudiante que dejó la universidad trastocó toda la industria musical.",
+        "fact": "Napster, lanzado en 1999 por Shawn Fanning, permitía a los usuarios compartir libremente archivos MP3 y llegó a decenas de millones de usuarios en dos años, antes de que las demandas de las discográficas la obligaran a cerrar en 2001."
+      }
+    }
   },
   {
     "id": "technology-081",
@@ -1276,7 +1943,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'interface informatique moderne à pointer-cliquer a été inventée par une entreprise qui ne l'a jamais commercialisée.",
+        "fact": "L'Alto de Xerox, construit en 1973 dans son laboratoire de recherche PARC, proposait fenêtres, icônes et une interface pilotée par la souris des années avant Apple ou Microsoft — mais Xerox n'en a jamais fait un produit commercial, laissant ses concurrents en emprunter les idées."
+      },
+      "nl": {
+        "hook": "De moderne klik-en-wijs-computerinterface werd uitgevonden door een bedrijf dat hem nooit verkocht heeft.",
+        "fact": "Xerox' Alto, gebouwd in 1973 in het PARC-onderzoekslab, had vensters, iconen en een muisgestuurde interface, jaren vóór Apple of Microsoft — maar Xerox maakte er nooit een commercieel product van, en concurrenten leenden de ideeën in plaats daarvan."
+      },
+      "es": {
+        "hook": "La moderna interfaz de apuntar y hacer clic la inventó una empresa que nunca la vendió.",
+        "fact": "El Alto de Xerox, construido en 1973 en su laboratorio de investigación PARC, incluía ventanas, iconos y una interfaz manejada con ratón años antes que Apple o Microsoft, pero Xerox nunca lo convirtió en un producto comercial, y fueron los rivales quienes tomaron prestadas las ideas."
+      }
+    }
   },
   {
     "id": "technology-082",
@@ -1286,7 +1967,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Redémarrer un ordinateur a été conçu, exprès, pour nécessiter les deux mains.",
+        "fact": "L'ingénieur IBM David Bradley a créé la combinaison de touches Ctrl+Alt+Suppr au début des années 1980 précisément parce qu'elle nécessitait les deux mains pour être pressée, la rendant peu susceptible d'être déclenchée par accident en tapant normalement."
+      },
+      "nl": {
+        "hook": "Een computer herstarten werd expres zo ontworpen dat je er twee handen voor nodig had.",
+        "fact": "IBM-ingenieur David Bradley bedacht de toetsencombinatie Ctrl+Alt+Delete in het begin van de jaren 1980, juist omdat er twee handen nodig waren om hem in te drukken, waardoor je hem niet snel per ongeluk activeert tijdens gewoon typen."
+      },
+      "es": {
+        "hook": "Reiniciar un ordenador se diseñó a propósito para requerir las dos manos.",
+        "fact": "El ingeniero de IBM David Bradley creó la combinación de teclas Ctrl+Alt+Supr a principios de los años ochenta específicamente porque exigía usar ambas manos para pulsarla, lo que hacía improbable activarla por accidente al escribir normalmente."
+      }
+    }
   },
   {
     "id": "technology-083",
@@ -1297,7 +1992,21 @@
       "internet",
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les cookies ont été inventés pour résoudre un problème très simple : le panier d'achat.",
+        "fact": "Le programmeur de Netscape Lou Montulli a créé le cookie web en 1994 pour permettre aux sites de se souvenir d'informations d'une visite à l'autre, comme les articles qu'un acheteur avait déjà ajoutés à son panier."
+      },
+      "nl": {
+        "hook": "Cookies werden uitgevonden om een heel eenvoudig probleem op te lossen: winkelwagentjes.",
+        "fact": "Netscape-programmeur Lou Montulli bedacht de webcookie in 1994, zodat websites informatie konden onthouden tussen paginabezoeken door, zoals artikelen die een shopper al aan een winkelwagentje had toegevoegd."
+      },
+      "es": {
+        "hook": "Las cookies se inventaron para resolver un problema muy sencillo: los carritos de la compra.",
+        "fact": "El programador de Netscape Lou Montulli creó la cookie web en 1994 para que los sitios pudieran recordar información entre visitas a sus páginas, como los artículos que un comprador ya había añadido a su carrito."
+      }
+    }
   },
   {
     "id": "technology-084",
@@ -1308,7 +2017,21 @@
       "internet",
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'icône du cadenas de votre navigateur remonte à 1994.",
+        "fact": "Netscape a introduit SSL (Secure Sockets Layer) en 1994 pour chiffrer les données échangées entre navigateurs et sites web, posant les bases techniques du HTTPS dont dépend aujourd'hui la majeure partie du web."
+      },
+      "nl": {
+        "hook": "Het hangslotje in je browser dateert al van 1994.",
+        "fact": "Netscape introduceerde in 1994 SSL (Secure Sockets Layer) om gegevens tussen browsers en websites te versleutelen, en legde daarmee de technische basis voor de HTTPS-beveiliging waar het grootste deel van het web tegenwoordig op steunt."
+      },
+      "es": {
+        "hook": "El icono del candado de tu navegador se remonta a 1994.",
+        "fact": "Netscape introdujo SSL (Secure Sockets Layer) en 1994 para cifrar los datos enviados entre navegadores y sitios web, sentando la base técnica de la seguridad HTTPS de la que depende hoy la mayor parte de la web."
+      }
+    }
   },
   {
     "id": "technology-085",
@@ -1319,7 +2042,21 @@
       "internet",
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un navigateur que la plupart des gens ont oublié vit encore aujourd'hui dans Firefox.",
+        "fact": "Après avoir perdu la « guerre des navigateurs » face à Internet Explorer, Netscape a rendu son code source public en 1998 ; cette base de code a fini par évoluer en projet Mozilla, puis, plus tard, en Firefox."
+      },
+      "nl": {
+        "hook": "Een browser die de meeste mensen vergeten zijn, leeft vandaag voort binnen Firefox.",
+        "fact": "Nadat Netscape de 'browseroorlog' had verloren van Internet Explorer, maakte het bedrijf zijn broncode in 1998 openbaar; die codebasis groeide uiteindelijk uit tot het Mozilla-project en later Firefox."
+      },
+      "es": {
+        "hook": "Un navegador que casi todo el mundo ha olvidado sigue vivo hoy dentro de Firefox.",
+        "fact": "Tras perder la 'guerra de navegadores' frente a Internet Explorer, Netscape publicó su código fuente en 1998; ese código acabó evolucionando hasta convertirse en el proyecto Mozilla y, más tarde, en Firefox."
+      }
+    }
   },
   {
     "id": "technology-086",
@@ -1330,7 +2067,21 @@
       "internet",
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Microsoft a été poursuivi par le gouvernement américain pour la façon dont il regroupait un navigateur web.",
+        "fact": "Dans un important procès antitrust débuté en 1998, les régulateurs américains ont soutenu que Microsoft utilisait illégalement son monopole sur Windows pour intégrer Internet Explorer et évincer son rival Netscape."
+      },
+      "nl": {
+        "hook": "Microsoft werd door de Amerikaanse overheid aangeklaagd om de manier waarop het een webbrowser bundelde.",
+        "fact": "In een grote antitrustzaak die in 1998 begon, betoogden Amerikaanse toezichthouders dat Microsoft zijn Windows-monopolie illegaal gebruikte om Internet Explorer te bundelen en zo concurrent Netscape onderuit te halen."
+      },
+      "es": {
+        "hook": "El gobierno de EE. UU. demandó a Microsoft por cómo integraba un navegador web.",
+        "fact": "En un importante caso antimonopolio iniciado en 1998, los reguladores estadounidenses argumentaron que Microsoft usaba ilegalmente su monopolio de Windows para incluir Internet Explorer y así perjudicar a su rival Netscape."
+      }
+    }
   },
   {
     "id": "technology-087",
@@ -1340,7 +2091,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'expression « intelligence artificielle » a été inventée lors d'un atelier de recherche estival.",
+        "fact": "L'expression « intelligence artificielle » a été introduite par John McCarthy pour un atelier de l'été 1956 au Dartmouth College, où des chercheurs proposaient avec optimisme que l'intelligence machine pourrait être considérablement avancée en seulement quelques mois."
+      },
+      "nl": {
+        "hook": "De term 'kunstmatige intelligentie' werd bedacht tijdens een zomerworkshop.",
+        "fact": "De term 'artificial intelligence' werd geïntroduceerd door John McCarthy voor een zomerworkshop van 1956 aan Dartmouth College, waar onderzoekers optimistisch stelden dat machine-intelligentie in slechts een paar maanden aanzienlijk vooruit kon worden geholpen."
+      },
+      "es": {
+        "hook": "El término 'inteligencia artificial' se acuñó en un taller de investigación de verano.",
+        "fact": "La expresión 'inteligencia artificial' la introdujo John McCarthy para un taller de verano de 1956 en Dartmouth College, donde los investigadores plantearon con optimismo que la inteligencia de las máquinas podría avanzar significativamente en solo un par de meses."
+      }
+    }
   },
   {
     "id": "technology-088",
@@ -1350,7 +2115,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un chatbot de 1966 a fait croire aux gens qu'il les comprenait.",
+        "fact": "Le programme ELIZA de Joseph Weizenbaum simulait un psychothérapeute en repérant des mots-clés et en reformulant les phrases des utilisateurs sous forme de questions — et malgré une absence totale de compréhension réelle, certains utilisateurs se sont convaincus qu'il saisissait vraiment leurs sentiments."
+      },
+      "nl": {
+        "hook": "Een chatbot uit 1966 liet mensen geloven dat hij hen begreep.",
+        "fact": "Het ELIZA-programma van Joseph Weizenbaum simuleerde een psychotherapeut door trefwoorden te herkennen en de uitspraken van gebruikers als vragen te herformuleren — ondanks dat het geen enkel echt begrip had, raakten sommige gebruikers ervan overtuigd dat het hun gevoelens echt aanvoelde."
+      },
+      "es": {
+        "hook": "Un chatbot de 1966 engañó a la gente haciéndole creer que la entendía.",
+        "fact": "El programa ELIZA de Joseph Weizenbaum simulaba a un psicoterapeuta detectando palabras clave y reformulando las frases de los usuarios como preguntas; a pesar de no tener ninguna comprensión real, algunos usuarios se convencieron de que de verdad captaba sus sentimientos."
+      }
+    }
   },
   {
     "id": "technology-089",
@@ -1360,7 +2139,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La question « les machines peuvent-elles penser ? » a une origine précise, en 1950.",
+        "fact": "Alan Turing a proposé son fameux « jeu de l'imitation » — aujourd'hui appelé test de Turing — dans un article de 1950, suggérant qu'une machine pourrait être considérée comme intelligente si sa conversation était indiscernable de celle d'un humain."
+      },
+      "nl": {
+        "hook": "De vraag 'kunnen machines denken?' heeft een specifieke oorsprong in 1950.",
+        "fact": "Alan Turing stelde zijn beroemde imitatiespel — nu bekend als de Turingtest — voor in een paper uit 1950, waarin hij opperde dat een machine als intelligent kon gelden als haar gesprek niet te onderscheiden was van dat van een mens."
+      },
+      "es": {
+        "hook": "La pregunta '¿pueden pensar las máquinas?' tiene un origen concreto en 1950.",
+        "fact": "Alan Turing propuso su famoso 'juego de la imitación' — hoy conocido como el test de Turing — en un artículo de 1950, sugiriendo que una máquina podría considerarse inteligente si su conversación resultaba indistinguible de la de un humano."
+      }
+    }
   },
   {
     "id": "technology-090",
@@ -1370,7 +2163,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un des premiers réseaux de neurones a été présenté par la presse comme une machine qui allait bientôt marcher et parler.",
+        "fact": "Le Perceptron de Frank Rosenblatt, présenté en 1958, fut l'un des tout premiers réseaux de neurones artificiels, et les journaux de l'époque ont largement exagéré ses capacités — la déception qui a suivi a nourri le scepticisme envers les réseaux de neurones pendant des décennies."
+      },
+      "nl": {
+        "hook": "Een vroeg neuraal netwerk werd door de pers gehypet als een machine die binnenkort zou lopen en praten.",
+        "fact": "De Perceptron van Frank Rosenblatt, geïntroduceerd in 1958, was een van de vroegste kunstmatige neurale netwerken, en kranten uit die tijd overdreven zijn capaciteiten wild — de daaropvolgende teleurstelling voedde decennialang scepsis over neurale netwerken."
+      },
+      "es": {
+        "hook": "Un temprano modelo de red neuronal fue presentado por la prensa como una máquina que pronto caminaría y hablaría.",
+        "fact": "El Perceptrón de Frank Rosenblatt, presentado en 1958, fue una de las primeras redes neuronales artificiales, y los periódicos de la época exageraron enormemente sus capacidades; la decepción resultante alimentó el escepticismo hacia las redes neuronales durante décadas."
+      }
+    }
   },
   {
     "id": "technology-091",
@@ -1380,7 +2187,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La recherche en IA a failli s'éteindre — deux fois.",
+        "fact": "Les périodes appelées « hivers de l'IA », grosso modo au milieu des années 1970 puis à nouveau à la fin des années 1980 et au début des années 1990, ont vu le financement et l'intérêt pour l'intelligence artificielle s'effondrer après que le battage médiatique précédent n'ait pas tenu ses promesses."
+      },
+      "nl": {
+        "hook": "AI-onderzoek stierf bijna uit — twee keer.",
+        "fact": "Periodes bekend als 'AI-winters', ruwweg halverwege de jaren 1970 en opnieuw eind jaren 1980 en begin jaren 1990, zagen financiering en interesse in kunstmatige intelligentie instorten nadat eerdere hype geen praktische resultaten had opgeleverd."
+      },
+      "es": {
+        "hook": "La investigación en IA estuvo a punto de extinguirse, dos veces.",
+        "fact": "Los periodos conocidos como 'inviernos de la IA', aproximadamente a mediados de los años setenta y de nuevo a finales de los ochenta y principios de los noventa, vieron colapsar la financiación y el interés por la inteligencia artificial después de que las expectativas previas no se cumplieran en la práctica."
+      }
+    }
   },
   {
     "id": "technology-092",
@@ -1390,7 +2211,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Avant l'apprentissage automatique, l'IA tentait de coder l'expertise humaine sous forme de règles si-alors.",
+        "fact": "Les systèmes experts comme MYCIN, développés dans les années 1970 pour aider à diagnostiquer les infections bactériennes, fonctionnaient en codant des milliers de règles écrites à la main par des spécialistes humains, plutôt qu'en apprenant des schémas à partir des données."
+      },
+      "nl": {
+        "hook": "Vóór machine learning probeerde AI menselijke expertise vast te leggen als als-dan-regels.",
+        "fact": "Expertsystemen zoals MYCIN, ontwikkeld in de jaren 1970 om te helpen bij het diagnosticeren van bacteriële infecties, werkten door duizenden handgeschreven regels van menselijke specialisten vast te leggen, in plaats van patronen uit data te leren."
+      },
+      "es": {
+        "hook": "Antes del aprendizaje automático, la IA intentaba codificar el conocimiento humano como reglas de si-entonces.",
+        "fact": "Los sistemas expertos como MYCIN, desarrollados en los años setenta para ayudar a diagnosticar infecciones bacterianas, funcionaban codificando miles de reglas escritas a mano por especialistas humanos, en lugar de aprender patrones a partir de datos."
+      }
+    }
   },
   {
     "id": "technology-093",
@@ -1400,7 +2235,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une partie d'échecs en 1997 a marqué un tournant symbolique pour l'IA.",
+        "fact": "Deep Blue, d'IBM, a battu le champion du monde d'échecs en titre Garry Kasparov lors d'un match en six parties en 1997, la première fois qu'un ordinateur battait un champion du monde en exercice dans des conditions de tournoi standard."
+      },
+      "nl": {
+        "hook": "Een schaakpartij in 1997 markeerde een symbolisch keerpunt voor AI.",
+        "fact": "IBM's Deep Blue versloeg regerend wereldkampioen schaken Garry Kasparov in een zesdelige match in 1997 — de eerste keer dat een computer een zittende wereldkampioen versloeg onder standaard toernooicondities."
+      },
+      "es": {
+        "hook": "Una partida de ajedrez en 1997 marcó un punto de inflexión simbólico para la IA.",
+        "fact": "Deep Blue, de IBM, derrotó al campeón mundial de ajedrez en activo Garry Kasparov en un enfrentamiento a seis partidas en 1997, la primera vez que un ordenador vencía a un campeón mundial en ejercicio bajo condiciones estándar de torneo."
+      }
+    }
   },
   {
     "id": "technology-094",
@@ -1410,7 +2259,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'algorithme derrière la plupart des réseaux de neurones actuels a été popularisé en 1986.",
+        "fact": "La rétropropagation — la méthode utilisée pour entraîner les réseaux de neurones en ajustant les poids en fonction des erreurs — a été popularisée par un article influent de 1986 signé Rumelhart, Hinton et Williams, même si des versions antérieures de l'idée existaient déjà."
+      },
+      "nl": {
+        "hook": "Het algoritme achter de meeste hedendaagse neurale netwerken werd in 1986 populair gemaakt.",
+        "fact": "Backpropagation — de methode om neurale netwerken te trainen door gewichten aan te passen op basis van fouten — werd populair gemaakt door een invloedrijk artikel uit 1986 van Rumelhart, Hinton en Williams, ook al bestonden eerdere versies van het idee al eerder."
+      },
+      "es": {
+        "hook": "El algoritmo detrás de la mayoría de las redes neuronales actuales se popularizó en 1986.",
+        "fact": "La retropropagación —el método usado para entrenar redes neuronales ajustando los pesos según los errores— se popularizó gracias a un influyente artículo de 1986 de Rumelhart, Hinton y Williams, aunque versiones anteriores de la idea ya existían antes."
+      }
+    }
   },
   {
     "id": "technology-095",
@@ -1421,7 +2284,24 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un concours de reconnaissance d'images en 2012 a déclenché le boom moderne de l'IA.",
+        "fact": "Un réseau de neurones nommé AlexNet a nettement surpassé ses rivaux au concours ImageNet de 2012, un résultat largement considéré comme le moment où l'apprentissage profond est passé d'une approche de recherche marginale à la méthode dominante en IA.",
+        "whyItMatters": "Ce seul résultat de concours a déclenché une vague d'investissements industriels dans l'apprentissage profond, qui sous-tend aujourd'hui la plupart des produits d'IA utilisés au quotidien, de la reconnaissance d'image aux assistants vocaux."
+      },
+      "nl": {
+        "hook": "Eén beeldherkenningswedstrijd in 2012 luidde de moderne AI-boom in.",
+        "fact": "Een neuraal netwerk genaamd AlexNet presteerde in 2012 dramatisch beter dan concurrenten bij de ImageNet-wedstrijd, een resultaat dat algemeen wordt gezien als het moment waarop deep learning verschoof van een niche-onderzoeksbenadering naar de dominante methode in AI.",
+        "whyItMatters": "Dat ene wedstrijdresultaat ontketende een golf van industriële investeringen in deep learning, die nu ten grondslag ligt aan de meeste AI-producten die vandaag worden gebruikt, van beeldherkenning tot spraakassistenten."
+      },
+      "es": {
+        "hook": "Un concurso de reconocimiento de imágenes en 2012 dio inicio al auge moderno de la IA.",
+        "fact": "Una red neuronal llamada AlexNet superó ampliamente a sus rivales en el concurso ImageNet de 2012, un resultado visto en general como el momento en que el aprendizaje profundo pasó de ser un enfoque de investigación de nicho a convertirse en el método dominante en IA.",
+        "whyItMatters": "Ese único resultado de un concurso desencadenó una ola de inversión industrial en aprendizaje profundo, que hoy sustenta la mayoría de los productos de IA que usamos, desde el reconocimiento de imágenes hasta los asistentes de voz."
+      }
+    }
   },
   {
     "id": "technology-096",
@@ -1431,7 +2311,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un jeu de plateau longtemps jugé trop complexe pour les ordinateurs est tombé face à l'IA en 2016.",
+        "fact": "AlphaGo, de Google DeepMind, a battu le champion de go Lee Sedol en 2016, un exploit que de nombreux chercheurs n'attendaient pas avant des années, tant le nombre astronomique de positions possibles au go rendait la recherche par force brute impraticable."
+      },
+      "nl": {
+        "hook": "Een bordspel dat lang te complex werd geacht voor computers, moest in 2016 het onderspit delven tegen AI.",
+        "fact": "Google DeepMinds AlphaGo versloeg go-kampioen Lee Sedol in 2016, een mijlpaal die veel onderzoekers pas over jaren hadden verwacht, aangezien het enorme aantal mogelijke posities in go brute-force zoeken onhaalbaar maakte."
+      },
+      "es": {
+        "hook": "Un juego de mesa considerado durante mucho tiempo demasiado complejo para los ordenadores cayó ante la IA en 2016.",
+        "fact": "AlphaGo, de Google DeepMind, derrotó al campeón de go Lee Sedol en 2016, un hito que muchos investigadores no esperaban hasta dentro de años, ya que la enorme cantidad de posiciones posibles en el go hacía inviable la búsqueda por fuerza bruta."
+      }
+    }
   },
   {
     "id": "technology-097",
@@ -1442,7 +2336,24 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le titre d'un seul article de recherche de 2017 est devenu l'histoire fondatrice des chatbots modernes.",
+        "fact": "L'article de 2017 intitulé « Attention Is All You Need » a introduit l'architecture transformer, qui a remplacé les anciens modèles de traitement séquentiel et est devenue le fondement des grands modèles de langage, y compris les systèmes derrière les chatbots d'IA modernes.",
+        "whyItMatters": "Presque tous les grands modèles de langage sortis depuis ont été construits sur l'architecture transformer introduite par cet article, ce qui en fait l'un des articles d'informatique les plus marquants de la décennie."
+      },
+      "nl": {
+        "hook": "De titel van één onderzoeksartikel uit 2017 werd het ontstaansverhaal van moderne chatbots.",
+        "fact": "Het artikel 'Attention Is All You Need' uit 2017 introduceerde de transformer-architectuur, die oudere ontwerpen voor sequentieverwerking verving en de basis werd voor grote taalmodellen, waaronder de systemen achter moderne AI-chatbots.",
+        "whyItMatters": "Vrijwel elk groot taalmodel dat sindsdien is uitgebracht, is gebouwd op het transformer-ontwerp dat dat artikel introduceerde, waardoor het een van de meest invloedrijke informaticaartikelen van het decennium is."
+      },
+      "es": {
+        "hook": "El título de un único artículo de investigación de 2017 se convirtió en el origen de los chatbots modernos.",
+        "fact": "El artículo de 2017 'Attention Is All You Need' presentó la arquitectura transformer, que sustituyó a los diseños anteriores de procesamiento secuencial y se convirtió en la base de los grandes modelos de lenguaje, incluidos los sistemas que impulsan los chatbots de IA actuales.",
+        "whyItMatters": "Prácticamente todos los grandes modelos de lenguaje lanzados desde entonces se han construido sobre el diseño transformer que introdujo ese artículo, lo que lo convierte en uno de los artículos de informática más trascendentales de la década."
+      }
+    }
   },
   {
     "id": "technology-098",
@@ -1452,7 +2363,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un ordinateur a gagné à Jeopardy! contre deux de ses plus grands champions.",
+        "fact": "Watson, d'IBM, a battu les champions de Jeopardy! Ken Jennings et Brad Rutter lors d'un match télévisé en 2011, faisant découvrir au grand public une technologie précoce de question-réponse en langage naturel."
+      },
+      "nl": {
+        "hook": "Een computer versloeg twee van de grootste kampioenen ooit bij Jeopardy!",
+        "fact": "IBM's Watson versloeg Jeopardy!-kampioenen Ken Jennings en Brad Rutter in een televisieduel in 2011, en toonde daarmee vroege technologie voor het beantwoorden van natuurlijke-taalvragen aan een breed publiek."
+      },
+      "es": {
+        "hook": "Un ordenador ganó en Jeopardy! a dos de sus mayores campeones.",
+        "fact": "Watson, de IBM, derrotó a los campeones de Jeopardy! Ken Jennings y Brad Rutter en un enfrentamiento televisado en 2011, mostrando a un público masivo la tecnología incipiente de respuesta a preguntas en lenguaje natural."
+      }
+    }
   },
   {
     "id": "technology-099",
@@ -1462,7 +2387,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le terme « apprentissage automatique » vient d'un programme de jeu de dames de 1959.",
+        "fact": "L'informaticien Arthur Samuel a inventé le terme « machine learning » en 1959 pour décrire un programme de jeu de dames qu'il avait créé, capable d'améliorer ses performances en apprenant de ses parties précédentes plutôt qu'en suivant des règles fixes."
+      },
+      "nl": {
+        "hook": "De term 'machine learning' komt van een dammenprogramma uit 1959.",
+        "fact": "Computerwetenschapper Arthur Samuel bedacht de term 'machine learning' in 1959 om een damprogramma te beschrijven dat hij had gebouwd en dat zijn prestaties verbeterde door van eerdere partijen te leren in plaats van vaste regels te volgen."
+      },
+      "es": {
+        "hook": "El término 'aprendizaje automático' proviene de un programa de damas de 1959.",
+        "fact": "El científico informático Arthur Samuel acuñó el término 'machine learning' en 1959 para describir un programa de damas que había creado y que mejoraba su rendimiento aprendiendo de partidas anteriores en lugar de seguir reglas fijas."
+      }
+    }
   },
   {
     "id": "technology-100",
@@ -1472,7 +2411,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'IA a appris à générer des fausses images réalistes en s'affrontant elle-même.",
+        "fact": "Les réseaux antagonistes génératifs (GAN), introduits par Ian Goodfellow en 2014, opposent deux réseaux de neurones l'un à l'autre — l'un générant de fausses images, l'autre essayant de les détecter — une compétition qui a fait considérablement progresser la qualité de génération d'images."
+      },
+      "nl": {
+        "hook": "AI leerde realistische nepafbeeldingen te genereren door tegen zichzelf te strijden.",
+        "fact": "Generative Adversarial Networks, geïntroduceerd door Ian Goodfellow in 2014, zetten twee neurale netwerken tegen elkaar op — het ene genereert nepafbeeldingen, het andere probeert ze te ontmaskeren — een competitie die de kwaliteit van beeldgeneratie enorm vooruithielp."
+      },
+      "es": {
+        "hook": "La IA aprendió a generar imágenes falsas realistas compitiendo consigo misma.",
+        "fact": "Las Redes Generativas Antagónicas (GAN), presentadas por Ian Goodfellow en 2014, enfrentan a dos redes neuronales entre sí —una genera imágenes falsas y la otra intenta detectarlas—, una competencia que impulsó de forma drástica la calidad de la generación de imágenes."
+      }
+    }
   },
   {
     "id": "technology-101",
@@ -1482,7 +2435,21 @@
     "tags": [
       "ai",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En 2004, absolument aucune voiture autonome n'a terminé une grande compétition.",
+        "fact": "Le DARPA Grand Challenge de 2004 offrait un prix pour tout véhicule autonome capable de terminer un parcours dans le désert, mais aucun n'y est parvenu — le meilleur n'a parcouru qu'environ 11 kilomètres avant de rester bloqué ; un an plus tard, cinq véhicules ont terminé le parcours."
+      },
+      "nl": {
+        "hook": "In 2004 faalde bij een grote wedstrijd letterlijk elke zelfrijdende auto.",
+        "fact": "De DARPA Grand Challenge van 2004 loofde een prijs uit voor een autonoom voertuig dat een woestijnroute kon afleggen, maar geen enkel voertuig haalde de finish — het beste kwam slechts ongeveer 11 kilometer ver voordat het vastliep; een jaar later voltooiden vijf voertuigen het parcours."
+      },
+      "es": {
+        "hook": "En 2004, absolutamente ningún coche autónomo logró terminar una gran competición.",
+        "fact": "El DARPA Grand Challenge de 2004 ofrecía un premio a cualquier vehículo autónomo capaz de completar una ruta por el desierto, pero ninguno lo consiguió; el mejor recorrió apenas unos 11 kilómetros antes de quedarse atascado. Un año después, cinco vehículos completaron el recorrido."
+      }
+    }
   },
   {
     "id": "technology-102",
@@ -1492,7 +2459,21 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'idée d'un virus informatique existait avant même que de vrais ordinateurs puissent en héberger un.",
+        "fact": "À la fin des années 1940, le mathématicien John von Neumann a décrit des programmes auto-réplicants théoriques, posant les bases conceptuelles de ce qu'on appellera plus tard les virus informatiques, des décennies avant l'apparition du premier virus réel."
+      },
+      "nl": {
+        "hook": "Het idee van een computervirus bestond al voordat echte computers er een konden hosten.",
+        "fact": "In de late jaren 1940 beschreef wiskundige John von Neumann theoretische zelfreplicerende programma's, en legde daarmee decennia vóór het eerste echte virus verscheen al conceptueel de basis voor wat later computervirussen zou heten."
+      },
+      "es": {
+        "hook": "La idea de un virus informático existía antes de que los ordenadores reales pudieran albergar uno.",
+        "fact": "A finales de los años cuarenta, el matemático John von Neumann describió programas teóricos autorreplicantes, sentando las bases conceptuales de lo que más tarde se llamaría virus informático, décadas antes de que apareciera el primero real."
+      }
+    }
   },
   {
     "id": "technology-103",
@@ -1502,7 +2483,21 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier virus informatique affichait un message narquois et avait son propre antidote.",
+        "fact": "Creeper, écrit en 1971, se propageait entre les premiers ordinateurs d'ARPANET en affichant le message « I'M THE CREEPER: CATCH ME IF YOU CAN » — un programme baptisé Reaper fut alors créé pour le traquer et le supprimer, ce qui en fait sans doute le tout premier antivirus."
+      },
+      "nl": {
+        "hook": "Het eerste computervirus toonde een treiterend bericht en had zijn eigen tegengif.",
+        "fact": "Creeper, geschreven in 1971, verspreidde zich tussen vroege ARPANET-computers en toonde het bericht 'I'M THE CREEPER: CATCH ME IF YOU CAN' — daarop werd een programma genaamd Reaper geschreven om het op te sporen en te verwijderen, waardoor Reaper geldt als misschien wel de eerste antivirussoftware."
+      },
+      "es": {
+        "hook": "El primer virus informático mostraba un mensaje burlón y tenía su propio antídoto.",
+        "fact": "Creeper, escrito en 1971, se propagaba entre los primeros ordenadores de ARPANET mostrando el mensaje 'I'M THE CREEPER: CATCH ME IF YOU CAN'; se creó entonces un programa llamado Reaper para rastrearlo y eliminarlo, lo que convierte a Reaper posiblemente en el primer software antivirus."
+      }
+    }
   },
   {
     "id": "technology-104",
@@ -1513,7 +2508,24 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'expérience d'un étudiant a accidentellement paralysé un dixième d'Internet à ses débuts.",
+        "fact": "En 1988, Robert Tappan Morris a lâché un programme auto-réplicant conçu comme une expérience de recherche, mais une erreur de code l'a fait se propager et planter des milliers d'ordinateurs — environ 10 % d'Internet à l'époque — menant à la première condamnation pour crime en vertu de la loi américaine sur la criminalité informatique.",
+        "whyItMatters": "L'incident du ver Morris a directement conduit à la création du CERT/CC, la première équipe dédiée de réponse aux urgences informatiques, établissant le modèle que suivent aujourd'hui les organisations pour réagir aux incidents de cybersécurité."
+      },
+      "nl": {
+        "hook": "Het experiment van een student verlamde per ongeluk een tiende van het vroege internet.",
+        "fact": "In 1988 verspreidde Robert Tappan Morris een zelfreplicerend programma dat bedoeld was als onderzoeksexperiment, maar door een programmeerfout verspreidde het zich en liet het duizenden computers vastlopen — zo'n 10% van het toenmalige internet — wat leidde tot de eerste veroordeling voor een misdrijf onder de Amerikaanse computercriminaliteitswet.",
+        "whyItMatters": "Het incident met de Morris-worm leidde rechtstreeks tot de oprichting van CERT/CC, het eerste toegewijde computer-noodresponsteam, en legde daarmee de basis voor hoe organisaties vandaag omgaan met cyberveiligheidsincidenten."
+      },
+      "es": {
+        "hook": "El experimento de un estudiante paralizó por accidente una décima parte de internet en sus primeros años.",
+        "fact": "En 1988, Robert Tappan Morris liberó un programa autorreplicante pensado como experimento de investigación, pero un fallo en el código hizo que se propagara y colapsara miles de ordenadores —cerca del 10% de internet en aquel momento—, lo que llevó a la primera condena por delito grave bajo la ley estadounidense de delitos informáticos.",
+        "whyItMatters": "El incidente del gusano Morris llevó directamente a la creación del CERT/CC, el primer equipo dedicado de respuesta a emergencias informáticas, estableciendo el modelo que hoy siguen las organizaciones para responder a incidentes de ciberseguridad."
+      }
+    }
   },
   {
     "id": "technology-105",
@@ -1523,7 +2535,21 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le chiffrement à clé publique a été inventé en secret des années avant que ses créateurs célèbres n'en reçoivent le crédit.",
+        "fact": "Le chiffrement RSA, publié en 1977 par Rivest, Shamir et Adleman, est reconnu comme la percée à l'origine de la cryptographie moderne à clé publique — mais les services secrets britanniques du GCHQ avaient secrètement développé une méthode équivalente des années plus tôt, la gardant classifiée jusqu'en 1997."
+      },
+      "nl": {
+        "hook": "Publieke-sleutelencryptie werd in het geheim jaren eerder uitgevonden dan de beroemde bedenkers ervoor erkend kregen.",
+        "fact": "RSA-encryptie, gepubliceerd in 1977 door Rivest, Shamir en Adleman, geldt als de doorbraak achter moderne publieke-sleutelcryptografie — maar de Britse inlichtingendienst GCHQ had jaren eerder al in het geheim een gelijkwaardige methode ontwikkeld, die pas tot 1997 geheim bleef."
+      },
+      "es": {
+        "hook": "El cifrado de clave pública se inventó en secreto años antes de que sus famosos creadores recibieran el mérito.",
+        "fact": "El cifrado RSA, publicado en 1977 por Rivest, Shamir y Adleman, se considera el gran avance detrás de la criptografía de clave pública moderna, pero el servicio de inteligencia británico GCHQ había desarrollado en secreto un método equivalente años antes, manteniéndolo clasificado hasta 1997."
+      }
+    }
   },
   {
     "id": "technology-106",
@@ -1533,7 +2559,21 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le tout premier rançongiciel a été diffusé par courrier postal, pas par Internet.",
+        "fact": "En 1989, le « cheval de Troie SIDA » fut distribué sur des disquettes envoyées par la poste aux participants d'une conférence de l'Organisation mondiale de la santé ; une fois installé, il chiffrait les noms de fichiers et exigeait un paiement à envoyer par courrier à une boîte postale au Panama."
+      },
+      "nl": {
+        "hook": "De eerste ransomware werd per post verspreid, niet via het internet.",
+        "fact": "In 1989 werd de 'AIDS Trojan' verspreid via floppy's die per post werden verstuurd naar deelnemers van een conferentie van de Wereldgezondheidsorganisatie; eenmaal geïnstalleerd versleutelde het de bestandsnamen en eiste het betaling per post naar een postbus in Panama."
+      },
+      "es": {
+        "hook": "El primer ransomware se distribuyó por correo postal, no por internet.",
+        "fact": "En 1989, el 'AIDS Trojan' se distribuyó en disquetes enviados por correo a los asistentes de una conferencia de la Organización Mundial de la Salud; una vez instalado, cifraba los nombres de los archivos y exigía que el pago se enviara por correo a un apartado postal en Panamá."
+      }
+    }
   },
   {
     "id": "technology-107",
@@ -1543,7 +2583,21 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des programmeurs économisant quelques octets des décennies plus tôt ont provoqué une panique mondiale en l'an 2000.",
+        "fact": "De nombreux systèmes anciens stockaient les années sur seulement deux chiffres pour économiser une mémoire rare, créant la peur du « bug de l'an 2000 » selon laquelle les ordinateurs liraient à tort l'an 2000 comme 1900 — entreprises et gouvernements ont passé des années et dépensé des milliards de dollars à auditer et corriger le code avant l'échéance."
+      },
+      "nl": {
+        "hook": "Programmeurs die tientallen jaren geleden een paar bytes bespaarden, veroorzaakten tegen 2000 wereldwijde paniek.",
+        "fact": "Veel oudere systemen sloegen jaartallen op met slechts twee cijfers om schaars geheugen te sparen, wat de 'Y2K-bug'-angst veroorzaakte dat computers het jaar 2000 zouden verkeerd lezen als 1900 — bedrijven en overheden besteedden jaren en miljarden dollars aan het controleren en herstellen van code voordat de datum aanbrak."
+      },
+      "es": {
+        "hook": "Programadores que ahorraron unos pocos bytes décadas atrás provocaron una carrera global para el año 2000.",
+        "fact": "Muchos sistemas antiguos almacenaban los años usando solo dos dígitos para ahorrar memoria escasa, lo que generó el temor al 'error del año 2000': que los ordenadores leyeran mal el año 2000 como 1900. Empresas y gobiernos pasaron años y gastaron miles de millones de dólares auditando y corrigiendo código antes de que llegara la fecha."
+      }
+    }
   },
   {
     "id": "technology-108",
@@ -1553,7 +2607,21 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les mots de passe informatiques sont à peine plus anciens que la course à l'espace.",
+        "fact": "Fernando Corbató a introduit l'un des premiers systèmes de mots de passe informatiques en 1961 pour le Compatible Time-Sharing System du MIT, afin que plusieurs utilisateurs partageant un même ordinateur puissent garder leurs fichiers privés les uns des autres."
+      },
+      "nl": {
+        "hook": "Computerwachtwoorden zijn amper ouder dan de ruimtewedloop.",
+        "fact": "Fernando Corbató introduceerde in 1961 een van de eerste computerwachtwoordsystemen voor het Compatible Time-Sharing System van MIT, zodat meerdere gebruikers die één computer deelden hun bestanden privé konden houden voor elkaar."
+      },
+      "es": {
+        "hook": "Las contraseñas informáticas apenas son más antiguas que la carrera espacial.",
+        "fact": "Fernando Corbató introdujo uno de los primeros sistemas de contraseñas informáticas en 1961 para el Compatible Time-Sharing System del MIT, para que varios usuarios que compartían un mismo ordenador pudieran mantener sus archivos privados entre sí."
+      }
+    }
   },
   {
     "id": "technology-109",
@@ -1563,7 +2631,21 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un outil de piratage gouvernemental divulgué a provoqué une épidémie mondiale de rançongiciel.",
+        "fact": "L'attaque du rançongiciel WannaCry en 2017 a exploité une faille de Windows initialement développée par la NSA et divulguée en ligne, infectant environ 200 000 ordinateurs dans 150 pays, dont des parties du service de santé britannique (NHS)."
+      },
+      "nl": {
+        "hook": "Een gelekte overheidshacktool veroorzaakte een wereldwijde ransomware-uitbraak.",
+        "fact": "De WannaCry-ransomwareaanval van 2017 maakte gebruik van een Windows-kwetsbaarheid die oorspronkelijk door de NSA was ontwikkeld en online was gelekt, en infecteerde ongeveer 200.000 computers in 150 landen, waaronder delen van de Britse National Health Service."
+      },
+      "es": {
+        "hook": "Una herramienta de pirateo gubernamental filtrada provocó un brote mundial de ransomware.",
+        "fact": "El ataque de ransomware WannaCry de 2017 explotó una vulnerabilidad de Windows desarrollada originalmente por la NSA y filtrada en internet, infectando cerca de 200.000 ordenadores en 150 países, incluidas partes del Servicio Nacional de Salud del Reino Unido."
+      }
+    }
   },
   {
     "id": "technology-110",
@@ -1573,7 +2655,21 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "On pense qu'un logiciel malveillant a physiquement endommagé des équipements nucléaires sans jamais toucher directement Internet.",
+        "fact": "Stuxnet, découvert en 2010, était un ver extrêmement sophistiqué, largement considéré comme conçu pour saboter les centrifugeuses d'une installation iranienne d'enrichissement d'uranium en altérant subtilement leurs systèmes de contrôle industriel."
+      },
+      "nl": {
+        "hook": "Een stuk malware zou fysiek nucleaire apparatuur hebben beschadigd zonder het internet ooit rechtstreeks aan te raken.",
+        "fact": "Stuxnet, ontdekt in 2010, was een hooggeavanceerde worm waarvan algemeen wordt aangenomen dat hij was ontworpen om centrifuges in een Iraanse uraniumverrijkingsfaciliteit te saboteren door hun industriële besturingssystemen subtiel te manipuleren."
+      },
+      "es": {
+        "hook": "Se cree que un malware dañó físicamente equipos nucleares sin llegar a tocar internet directamente.",
+        "fact": "Stuxnet, descubierto en 2010, fue un gusano extremadamente sofisticado que ampliamente se cree diseñado para sabotear las centrifugadoras de una planta iraní de enriquecimiento de uranio alterando sutilmente sus sistemas de control industrial."
+      }
+    }
   },
   {
     "id": "technology-111",
@@ -1583,7 +2679,21 @@
     "tags": [
       "cybersecurity",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le gouvernement américain a enquêté sur un programmeur de chiffrement comme s'il avait exporté des armes.",
+        "fact": "Après que Phil Zimmermann a publié son logiciel de chiffrement gratuit PGP en 1991, la cryptographie forte a été légalement classée comme munition en vertu de la loi américaine sur les exportations, et il a fait l'objet d'une enquête fédérale pendant des années avant que l'affaire ne soit classée en 1996."
+      },
+      "nl": {
+        "hook": "De Amerikaanse overheid onderzocht ooit een encryptieprogrammeur alsof hij wapens had geëxporteerd.",
+        "fact": "Nadat Phil Zimmermann in 1991 zijn gratis encryptiesoftware PGP had uitgebracht, werd sterke cryptografie onder de Amerikaanse exportwet wettelijk geclassificeerd als munitie, en werd hij jarenlang federaal onderzocht voordat de zaak in 1996 werd geseponeerd."
+      },
+      "es": {
+        "hook": "El gobierno de EE. UU. llegó a investigar a un programador de cifrado como si hubiera exportado armas.",
+        "fact": "Después de que Phil Zimmermann publicara su software de cifrado gratuito PGP en 1991, la criptografía fuerte quedó clasificada legalmente como munición bajo la ley de exportación de EE. UU., y él se enfrentó a una investigación federal durante años antes de que el caso se archivara en 1996."
+      }
+    }
   },
   {
     "id": "technology-112",
@@ -1595,7 +2705,24 @@
       "computing",
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Le cloud » tel qu'on le connaît a commencé avec l'infrastructure excédentaire d'une librairie en ligne.",
+        "fact": "Amazon a lancé ses services de stockage S3 et de calcul EC2 en 2006, louant la capacité inutilisée de ses centres de données qu'elle avait construits pour son propre commerce de détail — ce lancement est largement crédité d'avoir amorcé l'industrie moderne du cloud computing.",
+        "whyItMatters": "Le cloud computing a supprimé la nécessité pour les start-ups d'acheter leurs propres serveurs, réduisant drastiquement le coût de lancement d'une nouvelle entreprise Internet."
+      },
+      "nl": {
+        "hook": "'De cloud' zoals we die kennen begon met overtollige infrastructuur van een online boekwinkel.",
+        "fact": "Amazon lanceerde in 2006 zijn S3-opslag- en EC2-rekendiensten, waarbij het overtollige datacentercapaciteit verhuurde die het had gebouwd voor zijn eigen retailbedrijf — deze lancering wordt algemeen gezien als de start van de moderne cloud computing-industrie.",
+        "whyItMatters": "Cloud computing maakte het overbodig voor startups om eigen servers te kopen, wat de kosten om een nieuw internetbedrijf te lanceren drastisch verlaagde."
+      },
+      "es": {
+        "hook": "'La nube' tal como la conocemos empezó con la infraestructura sobrante de una librería en línea.",
+        "fact": "Amazon lanzó sus servicios de almacenamiento S3 y de computación EC2 en 2006, alquilando la capacidad sobrante de centros de datos que había construido para su propio negocio minorista; a este lanzamiento se le atribuye ampliamente el haber puesto en marcha la industria moderna de la computación en la nube.",
+        "whyItMatters": "La computación en la nube eliminó la necesidad de que las startups compraran sus propios servidores, reduciendo drásticamente el coste de lanzar una nueva empresa de internet."
+      }
+    }
   },
   {
     "id": "technology-113",
@@ -1605,7 +2732,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "SQL a failli avoir un nom totalement différent, aujourd'hui oublié.",
+        "fact": "Le langage de requête pour bases de données SQL s'appelait à l'origine SEQUEL lorsqu'il fut développé chez IBM au début des années 1970 par Donald Chamberlin et Raymond Boyce, mais il fut raccourci en SQL après un conflit de marque avec le nom d'un produit existant."
+      },
+      "nl": {
+        "hook": "SQL had bijna een compleet andere, vergeten naam gehad.",
+        "fact": "De databasequerytaal SQL heette oorspronkelijk SEQUEL toen die begin jaren 1970 bij IBM werd ontwikkeld door Donald Chamberlin en Raymond Boyce, maar werd na een merkconflict met de naam van een bestaand product ingekort tot SQL."
+      },
+      "es": {
+        "hook": "SQL estuvo a punto de tener un nombre completamente distinto, hoy olvidado.",
+        "fact": "El lenguaje de consultas de bases de datos SQL se llamaba originalmente SEQUEL cuando fue desarrollado en IBM a principios de los años setenta por Donald Chamberlin y Raymond Boyce, pero se acortó a SQL tras un conflicto de marca con el nombre de un producto ya existente."
+      }
+    }
   },
   {
     "id": "technology-114",
@@ -1615,7 +2756,21 @@
     "tags": [
       "computing",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La technologie derrière les sauvegardes de données a une date de naissance académique précise.",
+        "fact": "Le RAID (Redundant Array of Independent Disks) a été défini dans un article de recherche de l'UC Berkeley de 1987, décrivant comment combiner plusieurs disques bon marché pouvait offrir de meilleures performances et une meilleure fiabilité qu'un seul disque coûteux."
+      },
+      "nl": {
+        "hook": "De technologie achter databack-ups heeft een specifieke academische geboortedatum.",
+        "fact": "RAID (Redundant Array of Independent Disks) werd gedefinieerd in een onderzoeksartikel van UC Berkeley uit 1987, dat beschreef hoe het combineren van meerdere goedkopere schijven betere prestaties en betrouwbaarheid kon opleveren dan één dure schijf."
+      },
+      "es": {
+        "hook": "La tecnología detrás de las copias de seguridad tiene una fecha de nacimiento académica muy concreta.",
+        "fact": "El RAID (matriz redundante de discos independientes) se definió en un artículo de investigación de la Universidad de California en Berkeley de 1987, que describía cómo combinar varios discos más baratos podía lograr mejor rendimiento y fiabilidad que un único disco caro."
+      }
+    }
   },
   {
     "id": "technology-115",
@@ -1625,7 +2780,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'idée d'une monnaie numérique décentralisée a été introduite par une personne dont la véritable identité reste inconnue.",
+        "fact": "En octobre 2008, un livre blanc décrivant le Bitcoin fut publié sous le pseudonyme Satoshi Nakamoto, proposant un système de monnaie électronique pair à pair qui ne dépendait ni des banques ni d'une autorité centrale — l'identité réelle de l'auteur n'a jamais été confirmée."
+      },
+      "nl": {
+        "hook": "Het idee van een gedecentraliseerde digitale munt werd geïntroduceerd door iemand wiens ware identiteit nog altijd onbekend is.",
+        "fact": "In oktober 2008 werd een whitepaper over Bitcoin gepubliceerd onder het pseudoniem Satoshi Nakamoto, waarin een peer-to-peer elektronisch geldsysteem werd voorgesteld dat niet afhankelijk was van banken of een centrale autoriteit — de ware identiteit van de auteur is nooit bevestigd."
+      },
+      "es": {
+        "hook": "La idea de una moneda digital descentralizada la introdujo alguien cuya verdadera identidad sigue siendo desconocida.",
+        "fact": "En octubre de 2008 se publicó, bajo el seudónimo de Satoshi Nakamoto, un documento técnico que describía Bitcoin, proponiendo un sistema de efectivo electrónico entre pares que no dependía de bancos ni de una autoridad central; la verdadera identidad del autor nunca se ha confirmado."
+      }
+    }
   },
   {
     "id": "technology-116",
@@ -1635,7 +2804,21 @@
     "tags": [
       "internet",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le tout premier e-mail de spam a été envoyé en 1978, des décennies avant que le mot « spam » ne s'impose.",
+        "fact": "Un employé marketing de Digital Equipment Corporation a envoyé une annonce commerciale non sollicitée à des centaines d'utilisateurs d'ARPANET en 1978, largement considérée comme le tout premier e-mail de spam — des années avant que le spam ne devienne une nuisance généralisée."
+      },
+      "nl": {
+        "hook": "De allereerste spam-e-mail werd al in 1978 verstuurd, decennia voordat het woord 'spam' echt ingeburgerd raakte.",
+        "fact": "Een marketingmedewerker van Digital Equipment Corporation stuurde in 1978 een ongevraagde productaankondiging naar honderden ARPANET-gebruikers, algemeen beschouwd als de eerste spam-e-mail — jaren voordat spam een wijdverbreid probleem werd."
+      },
+      "es": {
+        "hook": "El primer correo spam de la historia se envió en 1978, décadas antes de que la palabra 'spam' se popularizara.",
+        "fact": "Un empleado de marketing de Digital Equipment Corporation envió un anuncio comercial no solicitado a cientos de usuarios de ARPANET en 1978, considerado ampliamente el primer correo spam, años antes de que el spam se convirtiera en una molestia generalizada."
+      }
+    }
   },
   {
     "id": "technology-117",
@@ -1645,7 +2828,21 @@
     "tags": [
       "software",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'un des tout premiers jeux vidéo a été conçu pour tourner sur un ordinateur de la taille d'une pièce.",
+        "fact": "Spacewar!, créé en 1962 par Steve Russell et ses collègues du MIT sur un mini-ordinateur PDP-1, est largement considéré comme le premier jeu informatique numérique partagé et joué dans plusieurs institutions de recherche."
+      },
+      "nl": {
+        "hook": "Een van de vroegste videogames werd gebouwd om te draaien op een computer zo groot als een kamer.",
+        "fact": "Spacewar!, gemaakt in 1962 door Steve Russell en collega's aan het MIT op een PDP-1-minicomputer, wordt algemeen beschouwd als het eerste digitale computerspel dat werd gedeeld en gespeeld tussen meerdere onderzoeksinstellingen."
+      },
+      "es": {
+        "hook": "Uno de los primeros videojuegos se construyó para funcionar en un ordenador del tamaño de una habitación.",
+        "fact": "Spacewar!, creado en 1962 por Steve Russell y sus colegas del MIT en una minicomputadora PDP-1, está ampliamente considerado el primer videojuego digital compartido y jugado entre varias instituciones de investigación."
+      }
+    }
   },
   {
     "id": "technology-118",

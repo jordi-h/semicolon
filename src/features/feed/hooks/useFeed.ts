@@ -44,7 +44,11 @@ export function useFeed(domains: Domain[]) {
   const pool = poolQuery.data ?? []
   const [seenByFactId, setSeenByFactId] = useState<Map<string, SeenFact>>(new Map())
   const [queue, setQueue] = useState<QueuedCard[]>([])
-  const [history, setHistory] = useState<QueuedCard[]>([])
+  // Only the single most-recently-skipped card — undo goes back exactly
+  // one step ("just to see the last one"), not an open-ended stack. It's
+  // cleared the moment it's used, so undo can't be chained; advance()
+  // sets a fresh one each time, so the next skip is always undoable once.
+  const [lastSkipped, setLastSkipped] = useState<QueuedCard | null>(null)
   const [exhaustionNoticePending, setExhaustionNoticePending] = useState(false)
   const shownAtRef = useRef<number>(Date.now())
   const initializedRef = useRef(false)
@@ -52,7 +56,6 @@ export function useFeed(domains: Domain[]) {
   // not re-record a card that reappears via undo(), since
   // recordFactLearned is a plain increment, not idempotent.
   const recordedFactIdsRef = useRef<Set<string>>(new Set())
-  const MAX_HISTORY = 10
 
   // Seed local seen-map from the server/local-storage once it loads.
   useEffect(() => {
@@ -134,7 +137,7 @@ export function useFeed(domains: Domain[]) {
       return next
     })
     setQueue((q) => q.slice(1))
-    setHistory((h) => [...h.slice(-(MAX_HISTORY - 1)), current])
+    setLastSkipped(current)
 
     if (!recordedFactIdsRef.current.has(fact.id)) {
       recordedFactIdsRef.current.add(fact.id)
@@ -157,11 +160,13 @@ export function useFeed(domains: Domain[]) {
    * of advance(). This is "let me look at that again," not a database
    * undo: the seen/learned/engagement writes advance() already made are
    * left as-is (recordedFactIdsRef prevents them firing a second time if
-   * the card is skipped again after being brought back). */
+   * the card is skipped again after being brought back). Only goes back
+   * one step: lastSkipped is cleared immediately, so a second undo in a
+   * row does nothing until the next advance() sets a new one. */
   function undo() {
-    if (!user || history.length === 0) return
-    const previous = history[history.length - 1]
-    setHistory((h) => h.slice(0, -1))
+    if (!user || !lastSkipped) return
+    const previous = lastSkipped
+    setLastSkipped(null)
     setQueue((q) => [previous, ...q])
   }
 
@@ -182,7 +187,7 @@ export function useFeed(domains: Domain[]) {
     upcoming: queue.slice(1).map((c) => c.fact),
     advance,
     undo,
-    canUndo: history.length > 0,
+    canUndo: lastSkipped !== null,
     isLoading: poolQuery.isLoading || seenQuery.isLoading,
     isEmpty: ready && pool.length === 0,
     showExhaustionNotice: exhaustionNoticePending,

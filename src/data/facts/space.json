@@ -706,7 +706,21 @@
     "tags": [
       "planets",
       "mercury"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Mercure rétrécit lentement.",
+        "fact": "Le noyau en fusion de Mercure s'étant refroidi et contracté au fil des milliards d'années, la croûte de la planète s'est plissée en falaises escarpées appelées « escarpements lobés », et son rayon a diminué de plusieurs kilomètres."
+      },
+      "nl": {
+        "hook": "Mercurius krimpt langzaam.",
+        "fact": "Doordat de gesmolten kern van Mercurius miljarden jaren lang is afgekoeld en gekrompen, is de korst van de planeet geplooid tot torenhoge kliffen die 'lobate scarps' worden genoemd, en is de straal van de planeet met enkele kilometers afgenomen."
+      },
+      "es": {
+        "hook": "Mercurio se está encogiendo poco a poco.",
+        "fact": "A medida que el núcleo fundido de Mercurio se ha enfriado y contraído durante miles de millones de años, la corteza del planeta se ha arrugado formando altos acantilados llamados escarpes lobulados, y su radio se ha reducido varios kilómetros."
+      }
+    }
   },
   {
     "id": "space-032",
@@ -716,7 +730,21 @@
     "tags": [
       "planets",
       "venus"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Vénus tourne à l'envers par rapport à presque toutes les autres planètes.",
+        "fact": "Alors que la plupart des planètes tournent dans le sens antihoraire vues depuis le pôle nord du Soleil, Vénus tourne dans le sens horaire — une rotation rétrograde que les scientifiques attribuent peut-être à une ancienne collision ou aux effets de marée de son atmosphère dense."
+      },
+      "nl": {
+        "hook": "Venus draait achterstevoren vergeleken met bijna elke andere planeet.",
+        "fact": "Terwijl de meeste planeten tegen de klok in draaien wanneer je vanaf de noordpool van de zon kijkt, draait Venus met de klok mee — een retrograde rotatie die volgens wetenschappers mogelijk het gevolg is van een oude botsing of getijdeneffecten van haar dichte atmosfeer."
+      },
+      "es": {
+        "hook": "Venus gira al revés respecto a casi todos los demás planetas.",
+        "fact": "Mientras que la mayoría de los planetas rotan en sentido antihorario vistos desde el polo norte solar, Venus gira en sentido horario, una rotación retrógrada que los científicos creen que podría deberse a una antigua colisión o a efectos de marea de su densa atmósfera."
+      }
+    }
   },
   {
     "id": "space-033",
@@ -726,7 +754,21 @@
     "tags": [
       "planets",
       "venus"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Se tenir debout sur Vénus vous écraserait et vous ferait fondre instantanément.",
+        "fact": "La température de surface de Vénus atteint en moyenne environ 465 °C, assez chaud pour faire fondre le plomb, tandis que sa pression atmosphérique est environ 90 fois celle de la Terre — comparable à se trouver à près d'un kilomètre sous l'océan."
+      },
+      "nl": {
+        "hook": "Op Venus staan zou je meteen verpletteren én smelten.",
+        "fact": "De oppervlaktetemperatuur van Venus bedraagt gemiddeld zo'n 465 °C, heet genoeg om lood te smelten, terwijl de atmosferische druk er ongeveer 90 keer hoger is dan op Aarde — vergelijkbaar met bijna een kilometer diep onder de oceaan zitten."
+      },
+      "es": {
+        "hook": "Estar de pie en Venus te aplastaría y te derretiría al mismo tiempo.",
+        "fact": "La temperatura superficial de Venus ronda los 465 °C de media, suficiente para fundir plomo, mientras que su presión atmosférica es unas 90 veces la de la Tierra, similar a estar casi un kilómetro bajo el océano."
+      }
+    }
   },
   {
     "id": "space-034",
@@ -736,7 +778,21 @@
     "tags": [
       "planets",
       "uranus"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Uranus tourne autour du Soleil couchée sur le côté.",
+        "fact": "L'axe d'Uranus est incliné d'environ 98 degrés, probablement à cause d'une ancienne collision, si bien que la planète orbite pratiquement allongée sur le côté, chaque pôle pointant presque directement vers le Soleil pendant des décennies."
+      },
+      "nl": {
+        "hook": "Uranus rolt op zijn zij rond de zon.",
+        "fact": "De as van Uranus staat ongeveer 98 graden scheef, waarschijnlijk door een oude botsing, waardoor de planeet in feite op haar zij om de zon draait, met elke pool tientallen jaren lang bijna recht naar de zon gericht."
+      },
+      "es": {
+        "hook": "Urano gira alrededor del sol tumbado de lado.",
+        "fact": "El eje de Urano está inclinado unos 98 grados, probablemente a causa de una antigua colisión, por lo que el planeta orbita prácticamente tumbado de lado, con cada polo apuntando casi directamente al sol durante décadas seguidas."
+      }
+    }
   },
   {
     "id": "space-035",
@@ -746,7 +802,21 @@
     "tags": [
       "planets",
       "uranus"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les anneaux d'Uranus ont été découverts par hasard.",
+        "fact": "En 1977, des astronomes observant Uranus passer devant une étoile lointaine ont remarqué que la lumière de l'étoile clignotait plusieurs fois avant et après le passage de la planète, révélant un système d'anneaux jusqu'alors inconnu."
+      },
+      "nl": {
+        "hook": "De ringen van Uranus werden bij toeval ontdekt.",
+        "fact": "In 1977 zagen astronomen die Uranus voor een verre ster zagen langsschuiven dat het licht van de ster vóór en na de planeet meerdere keren knipperde, wat een tot dan toe onbekend ringenstelsel aan het licht bracht."
+      },
+      "es": {
+        "hook": "Los anillos de Urano se descubrieron por accidente.",
+        "fact": "En 1977, unos astrónomos que observaban a Urano pasar frente a una estrella lejana notaron que la luz de la estrella parpadeaba varias veces antes y después del paso del planeta, revelando un sistema de anillos hasta entonces desconocido."
+      }
+    }
   },
   {
     "id": "space-036",
@@ -756,7 +826,21 @@
     "tags": [
       "planets",
       "neptune"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Neptune a été trouvée par le calcul avant que quiconque ne la voie.",
+        "fact": "Des astronomes ont prédit l'existence et la position de Neptune en calculant les irrégularités de l'orbite d'Uranus, et en 1846 Johann Galle a pointé son télescope vers l'endroit prévu et a trouvé la planète à moins d'un degré près."
+      },
+      "nl": {
+        "hook": "Neptunus werd wiskundig gevonden voordat iemand hem had gezien.",
+        "fact": "Astronomen voorspelden het bestaan en de positie van Neptunus door onregelmatigheden in de baan van Uranus te berekenen, en in 1846 richtte Johann Galle zijn telescoop op de voorspelde plek en vond de planeet binnen ongeveer een graad nauwkeurig."
+      },
+      "es": {
+        "hook": "Neptuno se encontró con matemáticas antes de que nadie lo viera.",
+        "fact": "Los astrónomos predijeron la existencia y la ubicación de Neptuno calculando irregularidades en la órbita de Urano, y en 1846 Johann Galle apuntó su telescopio al punto previsto y encontró el planeta a menos de un grado de distancia."
+      }
+    }
   },
   {
     "id": "space-037",
@@ -766,7 +850,21 @@
     "tags": [
       "planets",
       "neptune"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les vents les plus rapides du système solaire soufflent sur Neptune.",
+        "fact": "Neptune abrite les vents les plus puissants du système solaire, avec des rafales mesurées à plus de 2 000 km/h — presque supersoniques — alors que la planète ne reçoit qu'une infime fraction de la lumière solaire reçue par la Terre."
+      },
+      "nl": {
+        "hook": "De snelste winden van het zonnestelsel waaien op Neptunus.",
+        "fact": "Neptunus herbergt de krachtigste winden van het zonnestelsel, met windstoten van meer dan 2.000 km/u — bijna supersoon — hoewel de planeet maar een minuscuul deel van het zonlicht ontvangt dat de Aarde krijgt."
+      },
+      "es": {
+        "hook": "Los vientos más rápidos del sistema solar soplan en Neptuno.",
+        "fact": "Neptuno alberga los vientos más potentes del sistema solar, con ráfagas medidas en más de 2.000 km/h, casi supersónicas, a pesar de que el planeta recibe solo una fracción minúscula de la luz solar que recibe la Tierra."
+      }
+    }
   },
   {
     "id": "space-038",
@@ -776,7 +874,21 @@
     "tags": [
       "moon",
       "jupiter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le télescope de Galilée a révélé quatre nouveaux mondes en un seul mois.",
+        "fact": "Lorsque Galilée observa Jupiter en janvier 1610, il repéra quatre points lumineux qui tournaient autour de la planète — Io, Europe, Ganymède et Callisto — les premières lunes jamais découvertes en orbite autour d'une planète autre que la Terre."
+      },
+      "nl": {
+        "hook": "Galileo's telescoop onthulde vier nieuwe werelden in één enkele maand.",
+        "fact": "Toen Galileo Galilei Jupiter in januari 1610 observeerde, zag hij vier lichtpuntjes eromheen draaien — Io, Europa, Ganymedes en Callisto — de eerste manen ooit ontdekt rond een andere planeet dan de Aarde."
+      },
+      "es": {
+        "hook": "El telescopio de Galileo reveló cuatro mundos nuevos en un solo mes.",
+        "fact": "Cuando Galileo Galilei observó Júpiter en enero de 1610, distinguió cuatro puntos de luz que giraban a su alrededor: Ío, Europa, Ganímedes y Calisto, las primeras lunas descubiertas orbitando un planeta que no fuera la Tierra."
+      }
+    }
   },
   {
     "id": "space-039",
@@ -786,7 +898,21 @@
     "tags": [
       "moon",
       "jupiter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Io, la lune de Jupiter, est l'endroit le plus volcaniquement actif du système solaire.",
+        "fact": "Io compte des centaines de volcans actifs alimentés par le réchauffement de marée provoqué par l'immense gravité de Jupiter, qui déforme l'intérieur de la lune et génère assez de friction pour maintenir une partie de sa surface en fusion."
+      },
+      "nl": {
+        "hook": "Jupiters maan Io is de meest vulkanisch actieve plek in het zonnestelsel.",
+        "fact": "Io telt honderden actieve vulkanen die worden aangedreven door getijdenverhitting door de immense zwaartekracht van Jupiter, die het binnenste van de maan doet buigen en genoeg wrijving opwekt om delen van haar oppervlak vloeibaar te houden."
+      },
+      "es": {
+        "hook": "Ío, la luna de Júpiter, es el lugar más volcánicamente activo del sistema solar.",
+        "fact": "Ío tiene cientos de volcanes activos alimentados por el calentamiento de marea que provoca la enorme gravedad de Júpiter, que flexiona el interior de la luna y genera fricción suficiente para mantener fundida parte de su superficie."
+      }
+    }
   },
   {
     "id": "space-040",
@@ -797,7 +923,24 @@
     "tags": [
       "moon",
       "jupiter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une des lunes de Jupiter pourrait contenir plus d'eau liquide que tous les océans terrestres réunis.",
+        "fact": "Europe est recouverte d'une épaisse coquille de glace qui cacherait un océan d'eau salée à l'échelle mondiale, ce qui en fait l'un des endroits les plus prometteurs du système solaire pour chercher la vie.",
+        "whyItMatters": "De futures missions comme Europa Clipper sont spécifiquement conçues pour évaluer si cet océan caché pourrait abriter la vie."
+      },
+      "nl": {
+        "hook": "Een van Jupiters manen bevat mogelijk meer vloeibaar water dan alle oceanen op Aarde samen.",
+        "fact": "Europa is bedekt met een dikke ijskorst waaronder vermoedelijk een wereldwijde zoutwateroceaan schuilgaat, wat het een van de meest veelbelovende plekken in het zonnestelsel maakt om naar leven te zoeken.",
+        "whyItMatters": "Toekomstige missies zoals Europa Clipper zijn speciaal ontworpen om te onderzoeken of deze verborgen oceaan leven zou kunnen ondersteunen."
+      },
+      "es": {
+        "hook": "Una de las lunas de Júpiter podría contener más agua líquida que todos los océanos de la Tierra juntos.",
+        "fact": "Europa está cubierta por una gruesa capa de hielo bajo la que se cree que se oculta un océano global de agua salada, lo que la convierte en uno de los lugares más prometedores del sistema solar para buscar vida.",
+        "whyItMatters": "Futuras misiones como Europa Clipper están diseñadas específicamente para evaluar si ese océano oculto podría albergar vida."
+      }
+    }
   },
   {
     "id": "space-041",
@@ -807,7 +950,21 @@
     "tags": [
       "moon",
       "jupiter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus grande lune du système solaire est plus grande que la planète Mercure.",
+        "fact": "Ganymède, la lune de Jupiter, mesure environ 5 268 km de diamètre, ce qui la rend plus grande que Mercure, et c'est la seule lune connue à générer son propre champ magnétique."
+      },
+      "nl": {
+        "hook": "De grootste maan van het zonnestelsel is groter dan de planeet Mercurius.",
+        "fact": "Jupiters maan Ganymedes heeft een diameter van ongeveer 5.268 km, waarmee ze groter is dan Mercurius, en het is de enige bekende maan die haar eigen magnetisch veld opwekt."
+      },
+      "es": {
+        "hook": "La luna más grande del sistema solar es más grande que el planeta Mercurio.",
+        "fact": "Ganímedes, la luna de Júpiter, tiene un diámetro de unos 5.268 km, lo que la hace más grande que Mercurio, y es la única luna conocida que genera su propio campo magnético."
+      }
+    }
   },
   {
     "id": "space-042",
@@ -817,7 +974,21 @@
     "tags": [
       "moon",
       "saturn"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus grande lune de Saturne a des rivières, des lacs et de la pluie de méthane.",
+        "fact": "Titan est la seule lune du système solaire dotée d'une atmosphère substantielle, et sa surface présente des lacs et des mers de méthane et d'éthane liquides, dans un cycle glacial qui reflète le cycle de l'eau terrestre."
+      },
+      "nl": {
+        "hook": "Saturnus' grootste maan heeft rivieren, meren en regen van methaan.",
+        "fact": "Titan is de enige maan in het zonnestelsel met een substantiële atmosfeer, en op haar oppervlak liggen meren en zeeën van vloeibaar methaan en ethaan, in een ijskoude kringloop die de watercyclus van de Aarde weerspiegelt."
+      },
+      "es": {
+        "hook": "La luna más grande de Saturno tiene ríos, lagos y lluvia de metano.",
+        "fact": "Titán es la única luna del sistema solar con una atmósfera considerable, y su superficie presenta lagos y mares de metano y etano líquidos en un gélido ciclo que refleja el ciclo del agua de la Tierra."
+      }
+    }
   },
   {
     "id": "space-043",
@@ -828,7 +999,24 @@
     "tags": [
       "moon",
       "saturn"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une petite lune de Saturne projette de l'eau dans l'espace.",
+        "fact": "Encelade émet des panaches de vapeur d'eau et de grains de glace depuis des fissures près de son pôle sud, preuve d'un océan souterrain qui en fait un candidat de choix dans la recherche de vie extraterrestre.",
+        "whyItMatters": "Des sondes ont volé directement à travers ces panaches pour analyser la chimie de l'océan sans avoir besoin de se poser ni de forer."
+      },
+      "nl": {
+        "hook": "Een kleine maan van Saturnus spuit water de ruimte in.",
+        "fact": "Enceladus stoot pluimen van waterdamp en ijskorrels uit via scheuren nabij haar zuidpool, een aanwijzing voor een oceaan onder het oppervlak die haar tot een topkandidaat maakt in de zoektocht naar buitenaards leven.",
+        "whyItMatters": "Ruimtesondes zijn recht door deze pluimen gevlogen om de chemie van de oceaan te bemonsteren, zonder te hoeven landen of boren."
+      },
+      "es": {
+        "hook": "Una pequeña luna de Saturno lanza agua al espacio.",
+        "fact": "Encélado emite penachos de vapor de agua y granos de hielo desde grietas cerca de su polo sur, evidencia de un océano subterráneo que la convierte en una de las principales candidatas en la búsqueda de vida extraterrestre.",
+        "whyItMatters": "Varias sondas han volado directamente a través de estos penachos para analizar la química del océano sin necesidad de aterrizar ni perforar."
+      }
+    }
   },
   {
     "id": "space-044",
@@ -838,7 +1026,21 @@
     "tags": [
       "moon",
       "saturn"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une des lunes de Saturne ressemble exactement à l'Étoile de la Mort.",
+        "fact": "Mimas, une lune de Saturne, possède un immense cratère d'impact appelé Herschel qui s'étend sur près d'un tiers du diamètre de la lune, lui donnant une ressemblance frappante avec l'Étoile de la Mort de Star Wars."
+      },
+      "nl": {
+        "hook": "Een van Saturnus' manen lijkt sprekend op de Death Star.",
+        "fact": "Saturnus' maan Mimas heeft een enorme inslagkrater genaamd Herschel die bijna een derde van de diameter van de maan beslaat, wat haar een treffende gelijkenis geeft met de fictieve Death Star uit Star Wars."
+      },
+      "es": {
+        "hook": "Una de las lunas de Saturno se parece exactamente a la Estrella de la Muerte.",
+        "fact": "Mimas, una luna de Saturno, tiene un enorme cráter de impacto llamado Herschel que abarca casi un tercio del diámetro de la luna, dándole un parecido asombroso con la ficticia Estrella de la Muerte de Star Wars."
+      }
+    }
   },
   {
     "id": "space-045",
@@ -848,7 +1050,21 @@
     "tags": [
       "exploration",
       "saturn"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'amerrissage en douceur le plus lointain de l'humanité a eu lieu sur une lune de Saturne.",
+        "fact": "En janvier 2005, la sonde européenne Huygens s'est détachée du vaisseau Cassini et s'est posée sur Titan, transmettant des images depuis la surface d'un monde situé à plus d'un milliard de kilomètres de la Terre."
+      },
+      "nl": {
+        "hook": "De meest verre zachte landing van de mensheid vond plaats op een maan van Saturnus.",
+        "fact": "In januari 2005 maakte de Europese sonde Huygens zich los van het ruimtevaartuig Cassini en landde op Titan, en stuurde beelden terug vanaf het oppervlak van een wereld op meer dan een miljard kilometer van de Aarde."
+      },
+      "es": {
+        "hook": "El aterrizaje suave más lejano de la humanidad ocurrió en una luna de Saturno.",
+        "fact": "En enero de 2005, la sonda europea Huygens se separó de la nave Cassini y aterrizó en Titán, transmitiendo imágenes desde la superficie de un mundo situado a más de mil millones de kilómetros de la Tierra."
+      }
+    }
   },
   {
     "id": "space-046",
@@ -858,7 +1074,21 @@
     "tags": [
       "exploration",
       "saturn"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une sonde a terminé sa mission en plongeant délibérément dans Saturne.",
+        "fact": "Après 13 ans à étudier le système de Saturne, la sonde Cassini a été intentionnellement précipitée dans l'atmosphère de la planète en septembre 2017 pour s'y consumer, écartant tout risque de contaminer des lunes potentiellement habitables comme Encelade."
+      },
+      "nl": {
+        "hook": "Een ruimtesonde beëindigde haar missie door bewust in Saturnus te duiken.",
+        "fact": "Na 13 jaar het Saturnussysteem te hebben bestudeerd, werd de Cassini-sonde in september 2017 opzettelijk de atmosfeer van de planeet in gestuurd om te verbranden, om elk risico op besmetting van mogelijk bewoonbare manen zoals Enceladus uit te sluiten."
+      },
+      "es": {
+        "hook": "Una sonda terminó su misión zambulléndose deliberadamente en Saturno.",
+        "fact": "Tras 13 años estudiando el sistema de Saturno, la sonda Cassini se sumergió intencionadamente en la atmósfera del planeta en septiembre de 2017 para desintegrarse, evitando así cualquier riesgo de contaminar lunas potencialmente habitables como Encélado."
+      }
+    }
   },
   {
     "id": "space-047",
@@ -868,7 +1098,21 @@
     "tags": [
       "moon",
       "neptune"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus grande lune de Neptune orbite à l'envers.",
+        "fact": "Triton est la seule grande lune du système solaire à orbiter dans le sens opposé à la rotation de sa planète, une preuve solide qu'il s'agissait autrefois d'un objet de la ceinture de Kuiper capturé par la gravité de Neptune."
+      },
+      "nl": {
+        "hook": "Neptunus' grootste maan draait achterstevoren.",
+        "fact": "Triton is de enige grote maan in het zonnestelsel die haar planeet omcirkelt tegen de rotatierichting van de planeet in, een sterke aanwijzing dat het ooit een Kuipergordelobject was dat door de zwaartekracht van Neptunus werd ingevangen."
+      },
+      "es": {
+        "hook": "La luna más grande de Neptuno orbita al revés.",
+        "fact": "Tritón es la única luna grande del sistema solar que orbita su planeta en sentido opuesto a la rotación de este, una fuerte evidencia de que en su día fue un objeto del cinturón de Kuiper capturado por la gravedad de Neptuno."
+      }
+    }
   },
   {
     "id": "space-048",
@@ -878,7 +1122,21 @@
     "tags": [
       "moon",
       "solar-system"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Pluton et sa plus grande lune se montrent toujours la même face.",
+        "fact": "Pluton et Charon sont verrouillées par les marées l'une envers l'autre, si bien qu'elles présentent toujours les mêmes hémisphères face à face en orbitant — se comportant davantage comme une planète double qu'une planète et sa lune."
+      },
+      "nl": {
+        "hook": "Pluto en zijn grootste maan tonen elkaar altijd dezelfde kant.",
+        "fact": "Pluto en Charon zijn getijdengebonden aan elkaar, waardoor ze tijdens hun omloop steeds dezelfde halfronden naar elkaar toe gericht houden — ze gedragen zich meer als een dubbelplaneet dan als een planeet met haar maan."
+      },
+      "es": {
+        "hook": "Plutón y su luna más grande siempre se muestran la misma cara.",
+        "fact": "Plutón y Caronte están acoplados por marea el uno al otro, de modo que mantienen siempre los mismos hemisferios enfrentados mientras orbitan, comportándose más como un planeta doble que como un planeta y su luna."
+      }
+    }
   },
   {
     "id": "space-049",
@@ -888,7 +1146,21 @@
     "tags": [
       "solar-system",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Pluton a perdu son statut de planète par un vote en 2006.",
+        "fact": "En 2006, l'Union astronomique internationale a créé une nouvelle catégorie appelée « planète naine » et y a reclassé Pluton, car contrairement aux huit planètes reconnues, elle n'avait pas fait le vide gravitationnel dans son voisinage orbital."
+      },
+      "nl": {
+        "hook": "Pluto verloor zijn planeetstatus door een stemming in 2006.",
+        "fact": "In 2006 creëerde de Internationale Astronomische Unie een nieuwe categorie genaamd 'dwergplaneet' en herclassificeerde Pluto ernaar, omdat de planeet, in tegenstelling tot de acht erkende planeten, zijn baanomgeving niet gravitationeel had 'schoongeveegd'."
+      },
+      "es": {
+        "hook": "Plutón perdió su estatus de planeta por una votación en 2006.",
+        "fact": "En 2006, la Unión Astronómica Internacional creó una nueva categoría llamada 'planeta enano' y reclasificó a Plutón dentro de ella, porque, a diferencia de los ocho planetas reconocidos, no había despejado gravitacionalmente su entorno orbital."
+      }
+    }
   },
   {
     "id": "space-050",
@@ -898,7 +1170,21 @@
     "tags": [
       "exploration",
       "solar-system"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il a fallu neuf ans pour atteindre Pluton.",
+        "fact": "La sonde New Horizons de la NASA a été lancée en 2006 et n'a survolé Pluton qu'en juillet 2015, capturant les premières images rapprochées de la plaine glacée en forme de cœur de la planète naine, Sputnik Planitia."
+      },
+      "nl": {
+        "hook": "Het duurde negen jaar om Pluto te bereiken.",
+        "fact": "NASA's New Horizons-sonde werd gelanceerd in 2006 en vloog pas in juli 2015 langs Pluto, waarbij de eerste close-upbeelden werden vastgelegd van het ijzige hartvormige vlakte van de dwergplaneet, Sputnik Planitia."
+      },
+      "es": {
+        "hook": "Tardó nueve años en llegar a Plutón.",
+        "fact": "La sonda New Horizons de la NASA se lanzó en 2006 y no sobrevoló Plutón hasta julio de 2015, captando las primeras imágenes cercanas de la helada llanura en forma de corazón del planeta enano, Sputnik Planitia."
+      }
+    }
   },
   {
     "id": "space-051",
@@ -908,7 +1194,21 @@
     "tags": [
       "exploration",
       "solar-system"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'objet le plus lointain jamais exploré de près ressemble à un bonhomme de neige.",
+        "fact": "Le jour de l'An 2019, New Horizons a survolé Arrokoth, un petit objet de la ceinture de Kuiper situé à plus de 6 milliards de kilomètres de la Terre, révélant deux lobes fusionnés formant une silhouette aplatie et rougeâtre de bonhomme de neige."
+      },
+      "nl": {
+        "hook": "Het verste object ooit van dichtbij verkend lijkt op een sneeuwpop.",
+        "fact": "Op nieuwjaarsdag 2019 vloog New Horizons langs Arrokoth, een klein Kuipergordelobject op meer dan 6 miljard kilometer van de Aarde, en onthulde twee samengesmolten kwabben in een afgeplatte, roodachtige sneeuwpopvorm."
+      },
+      "es": {
+        "hook": "El objeto más lejano explorado de cerca parece un muñeco de nieve.",
+        "fact": "El día de Año Nuevo de 2019, New Horizons sobrevoló Arrokoth, un pequeño objeto del cinturón de Kuiper situado a más de 6.000 millones de kilómetros de la Tierra, revelando dos lóbulos fusionados con una forma aplanada y rojiza de muñeco de nieve."
+      }
+    }
   },
   {
     "id": "space-052",
@@ -918,7 +1218,21 @@
     "tags": [
       "solar-system",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une planète naine nommée d'après le chaos a déclenché la déchéance de Pluton.",
+        "fact": "La découverte en 2005 d'Éris, une planète naine lointaine à peu près aussi massive que Pluton, a contraint les astronomes à définir formellement ce qui constitue une planète — un débat qui s'est conclu par la reclassification de Pluton."
+      },
+      "nl": {
+        "hook": "Een dwergplaneet vernoemd naar chaos leidde tot Pluto's degradatie.",
+        "fact": "De ontdekking in 2005 van Eris, een verre dwergplaneet ongeveer even massief als Pluto, dwong astronomen om formeel te definiëren wat als planeet telt — een debat dat eindigde met de herclassificatie van Pluto."
+      },
+      "es": {
+        "hook": "Un planeta enano llamado como el caos provocó la degradación de Plutón.",
+        "fact": "El descubrimiento en 2005 de Eris, un lejano planeta enano con una masa similar a la de Plutón, obligó a los astrónomos a definir formalmente qué cuenta como planeta, un debate que terminó con la reclasificación de Plutón."
+      }
+    }
   },
   {
     "id": "space-053",
@@ -928,7 +1242,21 @@
     "tags": [
       "exploration",
       "asteroids"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une seule sonde a orbité autour de deux mondes différents de la ceinture d'astéroïdes.",
+        "fact": "La mission Dawn de la NASA a utilisé la propulsion ionique pour visiter et orbiter autour de Vesta et Cérès, les deux plus grands corps de la ceinture d'astéroïdes, devenant la première sonde à orbiter autour de deux destinations extraterrestres."
+      },
+      "nl": {
+        "hook": "Eén ruimtesonde omcirkelde twee verschillende werelden in de asteroïdengordel.",
+        "fact": "NASA's Dawn-missie gebruikte ionenaandrijving om zowel Vesta als Ceres, de twee grootste objecten in de asteroïdengordel, te bezoeken en erin te draaien — de eerste ruimtesonde ooit die twee buitenaardse bestemmingen omcirkelde."
+      },
+      "es": {
+        "hook": "Una sola sonda orbitó dos mundos distintos en el cinturón de asteroides.",
+        "fact": "La misión Dawn de la NASA utilizó propulsión iónica para visitar y orbitar tanto Vesta como Ceres, los dos cuerpos más grandes del cinturón de asteroides, convirtiéndose en la primera sonda que orbitó dos destinos extraterrestres."
+      }
+    }
   },
   {
     "id": "space-054",
@@ -937,7 +1265,21 @@
     "fact": "Vesta, the second-most-massive object in the asteroid belt, cooled and separated into distinct internal layers like a planet, making it one of the few asteroids considered a 'protoplanet.'",
     "tags": [
       "asteroids"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un astéroïde possède son propre noyau, manteau et croûte en couches.",
+        "fact": "Vesta, le deuxième corps le plus massif de la ceinture d'astéroïdes, s'est refroidi et différencié en couches internes distinctes comme une planète, ce qui en fait l'un des rares astéroïdes considérés comme une « protoplanète »."
+      },
+      "nl": {
+        "hook": "Eén asteroïde heeft een eigen gelaagde kern, mantel en korst.",
+        "fact": "Vesta, het op één na zwaarste object in de asteroïdengordel, koelde af en scheidde zich, net als een planeet, in duidelijke interne lagen, waardoor het een van de weinige asteroïden is die als 'protoplaneet' wordt beschouwd."
+      },
+      "es": {
+        "hook": "Un asteroide tiene su propio núcleo, manto y corteza en capas.",
+        "fact": "Vesta, el segundo objeto más masivo del cinturón de asteroides, se enfrió y se separó en capas internas diferenciadas como un planeta, lo que la convierte en uno de los pocos asteroides considerados un 'protoplaneta'."
+      }
+    }
   },
   {
     "id": "space-055",
@@ -948,7 +1290,24 @@
     "tags": [
       "exploration",
       "asteroids"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La NASA a plongé un bras robotique dans un astéroïde et en a arraché un morceau.",
+        "fact": "En 2020, la sonde OSIRIS-REx de la NASA a brièvement touché l'astéroïde Bennu avec un bras robotique, a projeté de l'azote gazeux sur la surface, et a récolté des débris meubles qui ont enfoncé la sonde plus profondément que prévu par les ingénieurs.",
+        "whyItMatters": "Bennu est aussi un astéroïde géocroiseur avec une faible chance de passer près de la Terre au cours des deux prochains siècles, ce qui rend la mission utile tant pour la défense planétaire que pour la science."
+      },
+      "nl": {
+        "hook": "NASA schoot een robotarm in een asteroïde en griste er een stuk van weg.",
+        "fact": "In 2020 raakte NASA's OSIRIS-REx kortstondig de asteroïde Bennu met een robotarm, blies het oppervlak los met stikstofgas en verzamelde losse brokstukken die de sonde dieper het oppervlak in duwden dan ingenieurs hadden verwacht.",
+        "whyItMatters": "Bennu is ook een aarde-scherende asteroïde met een kleine kans op een nadering van de Aarde in de komende paar eeuwen, waardoor de missie zowel voor planetaire verdediging als voor wetenschap nuttig is."
+      },
+      "es": {
+        "hook": "La NASA disparó un brazo robótico contra un asteroide y arrancó un trozo de él.",
+        "fact": "En 2020, la sonda OSIRIS-REx de la NASA tocó brevemente el asteroide Bennu con un brazo robótico, lanzó gas nitrógeno contra la superficie y recogió escombros sueltos que hundieron la sonda en el suelo más de lo que los ingenieros esperaban.",
+        "whyItMatters": "Bennu es también un asteroide cercano a la Tierra con una pequeña probabilidad de acercarse mucho a nuestro planeta en los próximos dos siglos, lo que hace que la misión sea útil tanto para la defensa planetaria como para la ciencia."
+      }
+    }
   },
   {
     "id": "space-056",
@@ -958,7 +1317,21 @@
     "tags": [
       "exploration",
       "asteroids"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Japon a rapporté des échantillons d'un astéroïde en forme de diamant.",
+        "fact": "La mission japonaise Hayabusa2 a collecté des matériaux sur l'astéroïde Ryugu, y compris des débris projetés par un impacteur explosif tiré sur la surface, et a livré les échantillons sur Terre en 2020."
+      },
+      "nl": {
+        "hook": "Japan bracht monsters mee van een diamantvormige asteroïde.",
+        "fact": "Japans Hayabusa2-missie verzamelde materiaal van de asteroïde Ryugu, waaronder puin dat werd losgeschoten door een explosief projectiel op het oppervlak, en leverde de monsters in 2020 op Aarde af."
+      },
+      "es": {
+        "hook": "Japón trajo a casa muestras de un asteroide con forma de diamante.",
+        "fact": "La misión japonesa Hayabusa2 recogió material del asteroide Ryugu, incluidos escombros liberados por un impactador explosivo disparado contra la superficie, y entregó las muestras en la Tierra en 2020."
+      }
+    }
   },
   {
     "id": "space-057",
@@ -968,7 +1341,21 @@
     "tags": [
       "exploration",
       "asteroids"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier échantillon d'astéroïde jamais rapporté sur Terre a failli ne jamais arriver.",
+        "fact": "La mission originale japonaise Hayabusa a subi des pannes moteur, des fuites de carburant et des semaines de perte de communication, mais est revenue péniblement sur Terre en 2010 avec de minuscules grains de l'astéroïde Itokawa — le premier retour d'échantillon d'astéroïde de l'histoire."
+      },
+      "nl": {
+        "hook": "Het eerste ooit naar de Aarde teruggebrachte asteroïdemonster haalde het bijna niet.",
+        "fact": "Japans oorspronkelijke Hayabusa-missie kampte met motorstoringen, brandstoflekken en wekenlang verlies van communicatie, maar strompelde in 2010 terug naar Aarde met piepkleine korrels van de asteroïde Itokawa — de eerste teruggehaalde asteroïdemonsters in de geschiedenis."
+      },
+      "es": {
+        "hook": "La primera muestra de asteroide traída a la Tierra casi no lo logra.",
+        "fact": "La misión japonesa original Hayabusa sufrió fallos de motor, fugas de combustible y semanas sin comunicación, pero consiguió regresar a duras penas a la Tierra en 2010 con diminutos granos del asteroide Itokawa, el primer retorno de muestras de un asteroide de la historia."
+      }
+    }
   },
   {
     "id": "space-058",
@@ -979,7 +1366,24 @@
     "tags": [
       "exploration",
       "asteroids"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'humanité a délibérément écrasé une sonde contre un astéroïde juste pour le pousser.",
+        "fact": "La sonde DART de la NASA s'est écrasée sur le petit astéroïde-satellite Dimorphos en septembre 2022, raccourcissant son orbite autour de l'astéroïde plus grand Didymos et prouvant qu'un impact cinétique peut modifier de manière mesurable la trajectoire d'un astéroïde.",
+        "whyItMatters": "C'était le premier test grandeur nature d'une technique de défense planétaire qui pourrait un jour dévier un astéroïde en trajectoire de collision avec la Terre."
+      },
+      "nl": {
+        "hook": "De mensheid liet opzettelijk een ruimtesonde tegen een asteroïde botsen, alleen om hem een duwtje te geven.",
+        "fact": "NASA's DART-sonde ramde in september 2022 de kleine asteroïdemaan Dimorphos, verkortte diens baan om de grotere asteroïde Didymos en bewees zo dat een kinetische inslag de koers van een asteroïde meetbaar kan veranderen.",
+        "whyItMatters": "Het was de eerste volwaardige test van een planetaire verdedigingstechniek die ooit een asteroïde op aardse aanvaringskoers zou kunnen afbuigen."
+      },
+      "es": {
+        "hook": "La humanidad estrelló deliberadamente una sonda contra un asteroide solo para desviarlo un poco.",
+        "fact": "La sonda DART de la NASA se estrelló contra la pequeña luna del asteroide Dimorphos en septiembre de 2022, acortando su órbita alrededor del asteroide mayor Dídimo y demostrando que un impacto cinético puede alterar de forma medible la trayectoria de un asteroide.",
+        "whyItMatters": "Fue la primera prueba a gran escala de una técnica de defensa planetaria que algún día podría desviar un asteroide en curso de colisión con la Tierra."
+      }
+    }
   },
   {
     "id": "space-059",
@@ -989,7 +1393,24 @@
     "whyItMatters": "The Chicxulub impact is the reason planetary defense missions like DART are taken seriously rather than treated as science fiction.",
     "tags": [
       "asteroids"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un seul impact d'astéroïde a mis fin à l'ère des dinosaures.",
+        "fact": "Il y a environ 66 millions d'années, un astéroïde d'environ 10 km de large a frappé ce qui est aujourd'hui la péninsule du Yucatán au Mexique, déclenchant l'extinction massive qui a anéanti les dinosaures non aviaires et près des trois quarts des espèces terrestres.",
+        "whyItMatters": "L'impact de Chicxulub explique pourquoi les missions de défense planétaire comme DART sont prises au sérieux plutôt que traitées comme de la science-fiction."
+      },
+      "nl": {
+        "hook": "Eén enkele asteroïde-inslag maakte een einde aan het tijdperk van de dinosaurussen.",
+        "fact": "Ongeveer 66 miljoen jaar geleden sloeg een asteroïde van zo'n 10 km breed in op wat nu het Mexicaanse Yucatán-schiereiland is, en veroorzaakte zo de massa-extinctie die de niet-vogelachtige dinosaurussen en ongeveer driekwart van alle soorten op Aarde uitroeide.",
+        "whyItMatters": "De Chicxulub-inslag is de reden waarom planetaire verdedigingsmissies zoals DART serieus worden genomen in plaats van als sciencefiction te worden afgedaan."
+      },
+      "es": {
+        "hook": "El impacto de un solo asteroide puso fin a la era de los dinosaurios.",
+        "fact": "Hace unos 66 millones de años, un asteroide de unos 10 km de ancho impactó en lo que hoy es la península de Yucatán, en México, desencadenando la extinción masiva que acabó con los dinosaurios no avianos y con cerca de las tres cuartas partes de las especies de la Tierra.",
+        "whyItMatters": "El impacto de Chicxulub es la razón por la que misiones de defensa planetaria como DART se toman en serio en lugar de tratarse como ciencia ficción."
+      }
+    }
   },
   {
     "id": "space-060",
@@ -999,7 +1420,24 @@
     "whyItMatters": "Because it approached from the sun's direction, no telescope spotted it beforehand — a gap that has pushed agencies to fund better early-warning asteroid surveys.",
     "tags": [
       "asteroids"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un météore a explosé au-dessus de la Russie avec la force de dizaines de bombes atomiques.",
+        "fact": "En février 2013, un astéroïde d'environ 20 mètres est entré dans l'atmosphère au-dessus de Tcheliabinsk, en Russie, sans avoir été détecté à l'avance, et a explosé avec une énergie équivalente à environ 30 bombes de la taille de celle d'Hiroshima, blessant plus de 1 000 personnes, principalement à cause d'éclats de verre.",
+        "whyItMatters": "Comme il arrivait dans la direction du Soleil, aucun télescope ne l'avait repéré au préalable — une lacune qui a poussé les agences à financer de meilleurs systèmes d'alerte précoce contre les astéroïdes."
+      },
+      "nl": {
+        "hook": "Een meteoor explodeerde boven Rusland met de kracht van tientallen atoombommen.",
+        "fact": "In februari 2013 kwam een asteroïde van ongeveer 20 meter, onopgemerkt vooraf, de atmosfeer binnen boven Tsjeljabinsk, Rusland, en explodeerde met een energie gelijk aan zo'n 30 Hiroshima-bommen, waarbij meer dan 1.000 mensen gewond raakten, meestal door rondvliegend glas.",
+        "whyItMatters": "Omdat hij vanuit de richting van de zon naderde, had geen enkele telescoop hem vooraf opgemerkt — een gat dat instanties heeft aangezet om betere vroegtijdige asteroïde-waarschuwingssystemen te financieren."
+      },
+      "es": {
+        "hook": "Un meteoro explotó sobre Rusia con la fuerza de decenas de bombas atómicas.",
+        "fact": "En febrero de 2013, un asteroide de unos 20 metros entró en la atmósfera sobre Cheliábinsk, Rusia, sin ser detectado previamente, y explotó con una energía equivalente a unas 30 bombas del tamaño de la de Hiroshima, hiriendo a más de 1.000 personas, la mayoría por cristales rotos.",
+        "whyItMatters": "Como se aproximaba desde la dirección del sol, ningún telescopio lo detectó de antemano, una laguna que ha empujado a las agencias a financiar mejores sistemas de alerta temprana de asteroides."
+      }
+    }
   },
   {
     "id": "space-061",
@@ -1008,7 +1446,21 @@
     "fact": "In 1908, an object — likely a small asteroid or comet fragment that exploded in the atmosphere — flattened roughly 2,000 square kilometers of forest near Tunguska, Siberia, yet left no confirmed impact crater.",
     "tags": [
       "asteroids"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une explosion en Sibérie a couché 80 millions d'arbres, et aucun cratère n'a jamais été retrouvé.",
+        "fact": "En 1908, un objet — probablement un petit astéroïde ou un fragment de comète qui a explosé dans l'atmosphère — a couché environ 2 000 kilomètres carrés de forêt près de la Toungouska, en Sibérie, sans laisser de cratère d'impact confirmé."
+      },
+      "nl": {
+        "hook": "Een explosie in Siberië velde 80 miljoen bomen, en er is nooit een krater gevonden.",
+        "fact": "In 1908 velde een object — vermoedelijk een kleine asteroïde of komeetfragment dat in de atmosfeer explodeerde — zo'n 2.000 vierkante kilometer bos nabij Toengoeska, Siberië, zonder dat er ooit een bevestigde inslagkrater is gevonden."
+      },
+      "es": {
+        "hook": "Una explosión en Siberia arrasó 80 millones de árboles, y nunca se encontró ningún cráter.",
+        "fact": "En 1908, un objeto —probablemente un pequeño asteroide o un fragmento de cometa que explotó en la atmósfera— arrasó unos 2.000 kilómetros cuadrados de bosque cerca de Tunguska, Siberia, sin dejar ningún cráter de impacto confirmado."
+      }
+    }
   },
   {
     "id": "space-062",
@@ -1017,7 +1469,21 @@
     "fact": "Halley's Comet orbits the sun roughly every 76 years and has been recorded by astronomers since at least 240 BCE; it last appeared in 1986 and isn't due back until 2061.",
     "tags": [
       "comets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La comète la plus célèbre ne reviendra qu'en 2061.",
+        "fact": "La comète de Halley orbite autour du Soleil environ tous les 76 ans et a été observée par des astronomes depuis au moins 240 av. J.-C. ; elle est apparue pour la dernière fois en 1986 et ne reviendra pas avant 2061."
+      },
+      "nl": {
+        "hook": "De beroemdste komeet keert pas in 2061 terug.",
+        "fact": "De Komeet van Halley draait ongeveer om de 76 jaar om de zon en wordt al sinds minstens 240 v.Chr. door astronomen geregistreerd; hij verscheen voor het laatst in 1986 en wordt pas in 2061 weer verwacht."
+      },
+      "es": {
+        "hook": "El cometa más famoso no volverá hasta 2061.",
+        "fact": "El cometa Halley orbita el sol aproximadamente cada 76 años y ha sido registrado por astrónomos desde al menos el año 240 a. C.; apareció por última vez en 1986 y no se le espera de nuevo hasta 2061."
+      }
+    }
   },
   {
     "id": "space-063",
@@ -1026,7 +1492,21 @@
     "fact": "Solar wind and radiation pressure push a comet's dust and gas away from the sun regardless of which direction the comet is traveling, so its tail can actually point ahead of it when the comet is heading outward from the sun.",
     "tags": [
       "comets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La queue d'une comète ne traîne pas derrière elle — elle pointe toujours à l'opposé du Soleil.",
+        "fact": "Le vent solaire et la pression de radiation repoussent la poussière et le gaz d'une comète loin du Soleil, quelle que soit la direction dans laquelle voyage la comète, si bien que sa queue peut en fait la précéder lorsqu'elle s'éloigne du Soleil."
+      },
+      "nl": {
+        "hook": "De staart van een komeet sleept niet achter hem aan — hij wijst altijd van de zon af.",
+        "fact": "Zonnewind en stralingsdruk duwen het stof en gas van een komeet weg van de zon, ongeacht in welke richting de komeet reist, waardoor de staart hem eigenlijk kan vóórgaan wanneer de komeet van de zon wegbeweegt."
+      },
+      "es": {
+        "hook": "La cola de un cometa no va detrás de él: siempre apunta en dirección opuesta al sol.",
+        "fact": "El viento solar y la presión de la radiación empujan el polvo y el gas del cometa lejos del sol, sin importar hacia dónde viaje este, por lo que su cola puede en realidad ir por delante de él cuando el cometa se aleja del sol."
+      }
+    }
   },
   {
     "id": "space-064",
@@ -1036,7 +1516,21 @@
     "tags": [
       "exploration",
       "comets"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une sonde a poursuivi une comète pendant une décennie avant d'y poser une sonde.",
+        "fact": "La sonde Rosetta de l'Agence spatiale européenne a été lancée en 2004, a passé dix ans à rattraper la comète 67P/Tchourioumov-Guérassimenko, et a largué en 2014 l'atterrisseur Philae, réalisant le premier atterrissage contrôlé sur le noyau d'une comète."
+      },
+      "nl": {
+        "hook": "Een ruimtesonde achtervolgde een komeet tien jaar lang voordat ze er een lander op zette.",
+        "fact": "De Rosetta-sonde van het Europese ruimteagentschap werd in 2004 gelanceerd, deed er tien jaar over om de komeet 67P/Tsjoerjoemov-Gerasimenko in te halen, en liet in 2014 de lander Philae los, wat de eerste gecontroleerde landing op de kern van een komeet betekende."
+      },
+      "es": {
+        "hook": "Una sonda persiguió a un cometa durante una década antes de posar en él un módulo de aterrizaje.",
+        "fact": "La sonda Rosetta de la Agencia Espacial Europea se lanzó en 2004, pasó una década alcanzando al cometa 67P/Churiúmov-Guerasimenko, y en 2014 soltó el módulo Philae, logrando el primer aterrizaje controlado en el núcleo de un cometa."
+      }
+    }
   },
   {
     "id": "space-065",
@@ -1046,7 +1540,21 @@
     "tags": [
       "comets",
       "jupiter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des astronomes ont un jour observé une comète se briser et s'écraser sur Jupiter morceau par morceau.",
+        "fact": "En 1994, la comète Shoemaker-Levy 9, déchirée par la gravité de Jupiter en plus de 20 fragments, s'est écrasée sur la planète pendant plusieurs jours, laissant dans son atmosphère des cicatrices sombres plus grandes que la Terre."
+      },
+      "nl": {
+        "hook": "Astronomen zagen ooit hoe een komeet uiteenviel en stukje bij beetje op Jupiter neerstortte.",
+        "fact": "In 1994 werd de komeet Shoemaker-Levy 9, door de zwaartekracht van Jupiter uiteengereten in meer dan 20 fragmenten, over meerdere dagen tijd op de planeet geraakt, en liet in haar atmosfeer donkere littekens achter die groter waren dan de Aarde."
+      },
+      "es": {
+        "hook": "Los astrónomos observaron una vez cómo un cometa se rompía y se estrellaba contra Júpiter pieza por pieza.",
+        "fact": "En 1994, el cometa Shoemaker-Levy 9, desgarrado por la gravedad de Júpiter en más de 20 fragmentos, colisionó con el planeta a lo largo de varios días, dejando en su atmósfera cicatrices oscuras más grandes que la Tierra."
+      }
+    }
   },
   {
     "id": "space-066",
@@ -1056,7 +1564,21 @@
     "tags": [
       "comets",
       "solar-system"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plupart des comètes proviennent d'une coquille entourant tout le système solaire.",
+        "fact": "Le nuage d'Oort est une région sphérique théorique de débris glacés s'étendant peut-être jusqu'à une année-lumière du Soleil, considérée comme la source des comètes à longue période, qui mettent des milliers d'années à accomplir une seule orbite."
+      },
+      "nl": {
+        "hook": "De meeste kometen komen uit een schil die het hele zonnestelsel omgeeft.",
+        "fact": "De Oortwolk is een theoretische bolvormige regio van ijzig puin die zich mogelijk tot wel een lichtjaar van de zon uitstrekt, en die wordt gezien als de bron van langperiodieke kometen die duizenden jaren nodig hebben voor één enkele omloop."
+      },
+      "es": {
+        "hook": "La mayoría de los cometas provienen de una capa que rodea todo el sistema solar.",
+        "fact": "La nube de Oort es una región esférica teórica de restos helados que se extiende quizá hasta un año luz del sol, considerada el origen de los cometas de largo período, que tardan miles de años en completar una sola órbita."
+      }
+    }
   },
   {
     "id": "space-067",
@@ -1065,7 +1587,21 @@
     "fact": "The Kuiper Belt is a disc-shaped region beyond Neptune's orbit containing hundreds of thousands of icy bodies, including dwarf planets like Pluto and Makemake, left over from the solar system's formation.",
     "tags": [
       "solar-system"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Au-delà de Neptune s'étend un vaste anneau de vestiges glacés issus de la naissance du système solaire.",
+        "fact": "La ceinture de Kuiper est une région en forme de disque au-delà de l'orbite de Neptune, contenant des centaines de milliers de corps glacés, dont des planètes naines comme Pluton et Makémaké, vestiges de la formation du système solaire."
+      },
+      "nl": {
+        "hook": "Voorbij Neptunus ligt een uitgestrekte ring van ijzige overblijfselen uit de geboorte van het zonnestelsel.",
+        "fact": "De Kuipergordel is een schijfvormig gebied voorbij de baan van Neptunus met honderdduizenden ijzige objecten, waaronder dwergplaneten zoals Pluto en Makemake, overblijfselen uit de vorming van het zonnestelsel."
+      },
+      "es": {
+        "hook": "Más allá de Neptuno se extiende un vasto anillo de restos helados del nacimiento del sistema solar.",
+        "fact": "El cinturón de Kuiper es una región con forma de disco más allá de la órbita de Neptuno que contiene cientos de miles de cuerpos helados, incluidos planetas enanos como Plutón y Makemake, restos de la formación del sistema solar."
+      }
+    }
   },
   {
     "id": "space-068",
@@ -1074,7 +1610,21 @@
     "fact": "Sunspots are cooler, magnetically intense regions on the sun's surface that appear dark by contrast, and their number rises and falls in a roughly 11-year pattern known as the solar cycle.",
     "tags": [
       "sun"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le Soleil a des taches sombres qui apparaissent et disparaissent selon un cycle de 11 ans.",
+        "fact": "Les taches solaires sont des régions plus froides et magnétiquement intenses à la surface du Soleil qui paraissent sombres par contraste, et leur nombre augmente et diminue selon un cycle d'environ 11 ans appelé le cycle solaire."
+      },
+      "nl": {
+        "hook": "De zon heeft donkere vlekken die opkomen en vervagen volgens een cyclus van 11 jaar.",
+        "fact": "Zonnevlekken zijn koelere, magnetisch intense gebieden op het oppervlak van de zon die door het contrast donker lijken, en hun aantal stijgt en daalt in een patroon van ongeveer 11 jaar, bekend als de zonnecyclus."
+      },
+      "es": {
+        "hook": "El sol tiene manchas oscuras que aumentan y disminuyen en un ciclo de 11 años.",
+        "fact": "Las manchas solares son regiones más frías y magnéticamente intensas en la superficie del sol que parecen oscuras por contraste, y su número aumenta y disminuye siguiendo un patrón de aproximadamente 11 años conocido como el ciclo solar."
+      }
+    }
   },
   {
     "id": "space-069",
@@ -1083,7 +1633,21 @@
     "fact": "The sun's visible surface sits around 5,500°C, but its outer atmosphere, the corona, reaches millions of degrees — a puzzle known as the coronal heating problem that scientists still don't fully understand.",
     "tags": [
       "sun"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'atmosphère externe du Soleil est des centaines de fois plus chaude que sa surface.",
+        "fact": "La surface visible du Soleil se situe autour de 5 500 °C, mais son atmosphère externe, la couronne, atteint des millions de degrés — une énigme connue sous le nom de « problème du chauffage coronal » que les scientifiques ne comprennent toujours pas complètement."
+      },
+      "nl": {
+        "hook": "De buitenste atmosfeer van de zon is honderden keren heter dan haar oppervlak.",
+        "fact": "Het zichtbare oppervlak van de zon ligt rond de 5.500 °C, maar haar buitenste atmosfeer, de corona, bereikt miljoenen graden — een raadsel dat bekendstaat als het coronale-verhittingsprobleem en dat wetenschappers nog steeds niet volledig begrijpen."
+      },
+      "es": {
+        "hook": "La atmósfera externa del sol es cientos de veces más caliente que su superficie.",
+        "fact": "La superficie visible del sol ronda los 5.500 °C, pero su atmósfera externa, la corona, alcanza millones de grados, un misterio conocido como el problema del calentamiento coronal que los científicos aún no comprenden del todo."
+      }
+    }
   },
   {
     "id": "space-070",
@@ -1093,7 +1657,21 @@
     "tags": [
       "exploration",
       "sun"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une sonde a volé directement à travers l'atmosphère du Soleil.",
+        "fact": "La sonde Parker Solar Probe de la NASA, lancée en 2018, a traversé à plusieurs reprises la couronne du Soleil, utilisant un bouclier thermique en composite de carbone pour survivre à des températures dépassant 1 400 °C tout en collectant les mesures les plus proches jamais réalisées d'une étoile."
+      },
+      "nl": {
+        "hook": "Een ruimtesonde vloog rechtstreeks door de atmosfeer van de zon.",
+        "fact": "NASA's Parker Solar Probe, gelanceerd in 2018, is herhaaldelijk door de corona van de zon gevlogen, met een hitteschild van koolstofcomposiet om temperaturen boven de 1.400 °C te overleven terwijl ze de dichtstbijzijnde metingen ooit van een ster verzamelde."
+      },
+      "es": {
+        "hook": "Una sonda ha volado directamente a través de la atmósfera del sol.",
+        "fact": "La sonda Parker Solar Probe de la NASA, lanzada en 2018, ha atravesado repetidamente la corona solar, usando un escudo térmico de material compuesto de carbono para sobrevivir a temperaturas superiores a 1.400 °C mientras recogía las mediciones más cercanas jamás tomadas de una estrella."
+      }
+    }
   },
   {
     "id": "space-071",
@@ -1102,7 +1680,21 @@
     "fact": "The solar wind — a continuous flow of charged particles from the sun — collides with Earth's magnetic field near the poles, exciting gas molecules that glow and create the aurora borealis and aurora australis.",
     "tags": [
       "sun"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les aurores boréales existent grâce à un flux constant de particules venant du Soleil.",
+        "fact": "Le vent solaire — un flux continu de particules chargées émises par le Soleil — entre en collision avec le champ magnétique terrestre près des pôles, excitant des molécules de gaz qui s'illuminent et créent l'aurore boréale et l'aurore australe."
+      },
+      "nl": {
+        "hook": "Het noorderlicht bestaat dankzij een constante stroom deeltjes van de zon.",
+        "fact": "De zonnewind — een continue stroom geladen deeltjes van de zon — botst nabij de polen met het magnetisch veld van de Aarde, waardoor gasmoleculen oplichten en het noorderlicht en zuiderlicht ontstaan."
+      },
+      "es": {
+        "hook": "Las auroras boreales existen gracias a un flujo constante de partículas del sol.",
+        "fact": "El viento solar —un flujo continuo de partículas cargadas procedentes del sol— choca con el campo magnético terrestre cerca de los polos, excitando moléculas de gas que resplandecen y crean la aurora boreal y la aurora austral."
+      }
+    }
   },
   {
     "id": "space-072",
@@ -1112,7 +1704,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier satellite américain a découvert des ceintures de radiations invisibles entourant la Terre.",
+        "fact": "Explorer 1, le premier satellite américain lancé avec succès en 1958, transportait un compteur Geiger qui a détecté des zones de radiation piégée aujourd'hui appelées ceintures de Van Allen, une découverte inattendue devenue le principal héritage de la mission."
+      },
+      "nl": {
+        "hook": "Amerika's eerste satelliet ontdekte onzichtbare stralingsgordels rond de Aarde.",
+        "fact": "Explorer 1, de eerste succesvolle Amerikaanse satelliet, gelanceerd in 1958, droeg een geigerteller die zones met gevangen straling ontdekte die nu de Van Allen-gordels worden genoemd, een onverwachte ontdekking die de grootste erfenis van de missie werd."
+      },
+      "es": {
+        "hook": "El primer satélite estadounidense descubrió cinturones de radiación invisibles alrededor de la Tierra.",
+        "fact": "Explorer 1, el primer satélite estadounidense lanzado con éxito en 1958, llevaba un contador Geiger que detectó zonas de radiación atrapada hoy conocidas como los cinturones de Van Allen, un descubrimiento inesperado que se convirtió en el mayor legado de la misión."
+      }
+    }
   },
   {
     "id": "space-073",
@@ -1122,7 +1728,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ère spatiale a commencé avec une boule de métal bipeuse de la taille d'un ballon de plage.",
+        "fact": "Le Spoutnik 1 soviétique, lancé le 4 octobre 1957, fut le premier satellite artificiel jamais mis en orbite, et ses simples bips radio furent captés par des radioamateurs du monde entier."
+      },
+      "nl": {
+        "hook": "Het ruimtevaarttijdperk begon met een piepende metalen bol ter grootte van een strandbal.",
+        "fact": "De Sovjet-satelliet Spoetnik 1, gelanceerd op 4 oktober 1957, was de eerste kunstmatige satelliet ooit in een baan om de Aarde, en de simpele radiopiepjes werden over de hele wereld opgevangen door radioamateurs."
+      },
+      "es": {
+        "hook": "La era espacial comenzó con una bola metálica pitadora del tamaño de un balón de playa.",
+        "fact": "El Sputnik 1 soviético, lanzado el 4 de octubre de 1957, fue el primer satélite artificial puesto en órbita, y sus simples pitidos de radio fueron captados por radioaficionados de todo el mundo."
+      }
+    }
   },
   {
     "id": "space-074",
@@ -1132,7 +1752,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier voyageur en orbite terrestre fut une chienne errante de Moscou.",
+        "fact": "En novembre 1957, l'Union soviétique a lancé une chienne errante nommée Laïka à bord de Spoutnik 2, faisant d'elle le premier animal à orbiter autour de la Terre ; la technologie pour la ramener saine et sauve n'existait pas encore."
+      },
+      "nl": {
+        "hook": "De eerste reiziger die om de Aarde draaide was een zwerfhond uit Moskou.",
+        "fact": "In november 1957 lanceerde de Sovjet-Unie een zwerfhond genaamd Laika aan boord van Spoetnik 2, waarmee zij het eerste dier werd dat om de Aarde draaide; de technologie om haar veilig terug te brengen bestond toen nog niet."
+      },
+      "es": {
+        "hook": "El primer viajero en órbita terrestre fue una perra callejera de Moscú.",
+        "fact": "En noviembre de 1957, la Unión Soviética lanzó a una perra callejera llamada Laika a bordo del Sputnik 2, convirtiéndola en el primer animal en orbitar la Tierra; la tecnología para traerla de vuelta sana y salva todavía no existía."
+      }
+    }
   },
   {
     "id": "space-075",
@@ -1142,7 +1776,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier être humain à quitter la Terre a fait le tour de la planète en moins de deux heures.",
+        "fact": "Le cosmonaute soviétique Youri Gagarine est devenu le premier humain dans l'espace le 12 avril 1961, effectuant une orbite complète de la Terre à bord de Vostok 1 en 108 minutes."
+      },
+      "nl": {
+        "hook": "De eerste mens die de Aarde verliet, omcirkelde de planeet in minder dan twee uur.",
+        "fact": "De Sovjet-kosmonaut Joeri Gagarin werd op 12 april 1961 de eerste mens in de ruimte en voltooide één omloop om de Aarde aan boord van Vostok 1 in 108 minuten."
+      },
+      "es": {
+        "hook": "El primer ser humano en abandonar la Tierra orbitó el planeta en menos de dos horas.",
+        "fact": "El cosmonauta soviético Yuri Gagarin se convirtió en el primer humano en el espacio el 12 de abril de 1961, completando una sola órbita alrededor de la Tierra a bordo del Vostok 1 en 108 minutos."
+      }
+    }
   },
   {
     "id": "space-076",
@@ -1152,7 +1800,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première femme dans l'espace a volé en solo, deux ans après Gagarine.",
+        "fact": "La cosmonaute soviétique Valentina Terechkova est devenue la première femme dans l'espace en juin 1963, passant près de trois jours en orbite autour de la Terre à bord de Vostok 6 — un exploit qu'aucune autre femme n'a égalé pendant 19 ans."
+      },
+      "nl": {
+        "hook": "De eerste vrouw in de ruimte vloog solo, twee jaar na Gagarin.",
+        "fact": "De Sovjet-kosmonaut Valentina Teresjkova werd in juni 1963 de eerste vrouw in de ruimte en bracht bijna drie dagen in een baan om de Aarde door aan boord van Vostok 6 — een prestatie die pas 19 jaar later door een andere vrouw werd geëvenaard."
+      },
+      "es": {
+        "hook": "La primera mujer en el espacio voló en solitario, dos años después de Gagarin.",
+        "fact": "La cosmonauta soviética Valentina Tereshkova se convirtió en la primera mujer en el espacio en junio de 1963, pasando casi tres días orbitando la Tierra a bordo del Vostok 6, una hazaña que ninguna otra mujer igualó hasta 19 años después."
+      }
+    }
   },
   {
     "id": "space-077",
@@ -1162,7 +1824,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier homme à marcher dans l'espace a failli ne pas pouvoir rentrer.",
+        "fact": "Le cosmonaute Alexeï Leonov a réalisé la première sortie extravéhiculaire en mars 1965, mais sa combinaison s'est tellement gonflée dans le vide qu'il a dû la dégonfler partiellement pour parvenir à se glisser à nouveau dans le sas."
+      },
+      "nl": {
+        "hook": "De eerste persoon die in de ruimte liep, kon bijna niet meer naar binnen.",
+        "fact": "Kosmonaut Aleksej Leonov voerde in maart 1965 de eerste ruimtewandeling uit, maar zijn pak zwol in het vacuüm zo sterk op dat hij het gedeeltelijk moest laten leeglopen om zich weer door het luik van de sluis te wurmen."
+      },
+      "es": {
+        "hook": "El primer hombre en caminar por el espacio casi no pudo volver a entrar.",
+        "fact": "El cosmonauta Alexéi Leonov realizó el primer paseo espacial en marzo de 1965, pero su traje se hinchó tanto en el vacío que tuvo que desinflarlo parcialmente para lograr colarse de nuevo por la escotilla de la esclusa."
+      }
+    }
   },
   {
     "id": "space-078",
@@ -1172,7 +1848,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier vol spatial américain n'a duré que 15 minutes.",
+        "fact": "Alan Shepard est devenu le premier Américain dans l'espace à bord de Freedom 7 le 5 mai 1961, lors d'un bref vol suborbital d'environ 15 minutes — bien plus court que l'orbite complète de Gagarine réalisée quelques semaines plus tôt."
+      },
+      "nl": {
+        "hook": "Amerika's eerste ruimtevlucht duurde slechts 15 minuten.",
+        "fact": "Alan Shepard werd op 5 mei 1961 de eerste Amerikaan in de ruimte aan boord van Freedom 7, tijdens een korte suborbitale vlucht van ongeveer 15 minuten — veel korter dan Gagarins volledige omloop enkele weken eerder."
+      },
+      "es": {
+        "hook": "El primer vuelo espacial estadounidense duró apenas 15 minutos.",
+        "fact": "Alan Shepard se convirtió en el primer estadounidense en el espacio a bordo del Freedom 7 el 5 de mayo de 1961, en un breve vuelo suborbital de unos 15 minutos, mucho más corto que la órbita completa de Gagarin semanas antes."
+      }
+    }
   },
   {
     "id": "space-079",
@@ -1182,7 +1872,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il a fallu près d'un an à la NASA pour rattraper son retard et mettre un Américain en orbite.",
+        "fact": "John Glenn est devenu le premier Américain à orbiter autour de la Terre en février 1962 à bord de Friendship 7, faisant trois fois le tour de la planète en environ cinq heures."
+      },
+      "nl": {
+        "hook": "NASA had bijna een jaar nodig om in te halen en een Amerikaan in een baan om de Aarde te brengen.",
+        "fact": "John Glenn werd in februari 1962 de eerste Amerikaan die om de Aarde draaide, aan boord van Friendship 7, en omcirkelde de planeet drie keer in ongeveer vijf uur."
+      },
+      "es": {
+        "hook": "La NASA tardó casi un año en ponerse al día y llevar a un estadounidense a la órbita.",
+        "fact": "John Glenn se convirtió en el primer estadounidense en orbitar la Tierra en febrero de 1962 a bordo del Friendship 7, dando tres vueltas al planeta en unas cinco horas."
+      }
+    }
   },
   {
     "id": "space-080",
@@ -1192,7 +1896,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le programme Apollo de la NASA a débuté par une tragédie sur le pas de tir, pas dans l'espace.",
+        "fact": "En janvier 1967, un incendie dans la cabine lors d'une répétition de lancement a tué les astronautes Gus Grissom, Ed White et Roger Chaffee à bord d'Apollo 1, entraînant une refonte majeure du vaisseau avant qu'aucune mission Apollo habitée ne décolle."
+      },
+      "nl": {
+        "hook": "NASA's Apollo-programma begon met een tragedie op het lanceerplatform, niet in de ruimte.",
+        "fact": "In januari 1967 kostte een cabinebrand tijdens een lanceringsrepetitie aan boord van Apollo 1 het leven aan astronauten Gus Grissom, Ed White en Roger Chaffee, wat leidde tot een grote herontwerp van het ruimtevaartuig voordat er ooit een bemande Apollo-missie vloog."
+      },
+      "es": {
+        "hook": "El programa Apolo de la NASA comenzó con una tragedia en la plataforma de lanzamiento, no en el espacio.",
+        "fact": "En enero de 1967, un incendio en la cabina durante un ensayo de lanzamiento mató a los astronautas Gus Grissom, Ed White y Roger Chaffee a bordo del Apolo 1, lo que llevó a un rediseño importante de la nave antes de que volara ninguna misión Apolo tripulada."
+      }
+    }
   },
   {
     "id": "space-081",
@@ -1202,7 +1920,21 @@
     "tags": [
       "exploration",
       "moon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les premiers humains à quitter l'orbite terrestre n'ont pas atterri sur la Lune — ils l'ont simplement contournée.",
+        "fact": "Les astronautes d'Apollo 8 sont devenus les premiers humains à quitter l'orbite terrestre basse et à contourner la Lune en décembre 1968, et c'est de cette mission qu'est née la célèbre photographie « Earthrise » montrant la Terre se levant au-dessus de l'horizon lunaire."
+      },
+      "nl": {
+        "hook": "De eerste mensen die de baan om de Aarde verlieten, landden niet op de maan — ze cirkelden er alleen omheen.",
+        "fact": "De astronauten van Apollo 8 werden in december 1968 de eerste mensen die de lage baan om de Aarde verlieten en om de maan cirkelden, en uit die missie ontstond de iconische foto 'Earthrise' van de Aarde die boven de maanhorizon opkomt."
+      },
+      "es": {
+        "hook": "Los primeros humanos en abandonar la órbita terrestre no aterrizaron en la Luna, solo la rodearon.",
+        "fact": "Los astronautas del Apolo 8 se convirtieron en diciembre de 1968 en los primeros humanos en abandonar la órbita terrestre baja y rodear la Luna, y de esa misión surgió la icónica fotografía 'Earthrise', que muestra a la Tierra saliendo sobre el horizonte lunar."
+      }
+    }
   },
   {
     "id": "space-082",
@@ -1213,7 +1945,24 @@
     "tags": [
       "exploration",
       "moon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'ordinateur qui a posé des astronautes sur la Lune avait moins de puissance qu'une calculatrice basique.",
+        "fact": "L'ordinateur de guidage Apollo qui a aidé à faire atterrir le module lunaire Eagle en 1969 disposait d'environ 4 kilo-octets de RAM et fonctionnait à environ 1 MHz — une infime fraction de la puissance de calcul d'une calculatrice moderne ou d'un smartphone.",
+        "whyItMatters": "C'est un rappel favori de tout ce que les progrès du logiciel et du matériel ont accompli en seulement quelques décennies depuis les alunissages."
+      },
+      "nl": {
+        "hook": "De computer die astronauten op de maan liet landen, had minder rekenkracht dan een gewone rekenmachine.",
+        "fact": "De Apollo Guidance Computer die hielp bij het landen van de maanlander Eagle in 1969 had ongeveer 4 kilobyte RAM en draaide op ongeveer 1 MHz — een piepklein fractie van de rekenkracht van een moderne rekenmachine of smartphone.",
+        "whyItMatters": "Het is een geliefde herinnering aan hoeveel software- en hardwarevooruitgang er in slechts een paar decennia na de maanlandingen is samengeperst."
+      },
+      "es": {
+        "hook": "El ordenador que llevó a los astronautas a la Luna tenía menos potencia que una calculadora básica.",
+        "fact": "El Apollo Guidance Computer, que ayudó a alunizar el módulo lunar Eagle en 1969, tenía unos 4 kilobytes de RAM y funcionaba a aproximadamente 1 MHz, una fracción minúscula de la potencia de cálculo de una calculadora o un smartphone moderno.",
+        "whyItMatters": "Es un recordatorio muy citado de cuánto ha avanzado el software y el hardware en apenas unas décadas desde los alunizajes."
+      }
+    }
   },
   {
     "id": "space-083",
@@ -1223,7 +1972,21 @@
     "tags": [
       "exploration",
       "moon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Pendant le premier alunissage, un astronaute est resté seul en orbite, brièvement coupé de tout contact.",
+        "fact": "Tandis qu'Armstrong et Aldrin marchaient sur la Lune en 1969, le pilote du module de commande Michael Collins orbitait seul au-dessus, perdant le contact radio avec la Terre et ses coéquipiers pendant environ 48 minutes à chaque orbite, lorsqu'il passait derrière la Lune."
+      },
+      "nl": {
+        "hook": "Tijdens de eerste maanlanding cirkelde één astronaut alleen rond, tijdelijk uit contact met iedereen.",
+        "fact": "Terwijl Armstrong en Aldrin in 1969 op de maan liepen, cirkelde commandomodulepiloot Michael Collins alleen erboven, en verloor bij elke omloop ongeveer 48 minuten lang radiocontact met zowel de Aarde als zijn bemanningsgenoten wanneer hij achter de maan langs vloog."
+      },
+      "es": {
+        "hook": "Durante el primer alunizaje, un astronauta orbitó solo y quedó brevemente sin contacto con nadie.",
+        "fact": "Mientras Armstrong y Aldrin caminaban por la Luna en 1969, el piloto del módulo de mando Michael Collins orbitaba solo en lo alto, perdiendo contacto por radio con la Tierra y sus compañeros durante unos 48 minutos en cada órbita al pasar por detrás de la Luna."
+      }
+    }
   },
   {
     "id": "space-084",
@@ -1233,7 +1996,21 @@
     "tags": [
       "exploration",
       "moon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'alunissage raté d'Apollo 13 est devenu l'un des plus grands succès de la NASA.",
+        "fact": "L'explosion d'un réservoir d'oxygène a paralysé Apollo 13 en route vers la Lune en 1970, forçant l'équipage à abandonner l'alunissage et à utiliser le module lunaire comme canot de sauvetage ; les trois astronautes sont rentrés sains et saufs."
+      },
+      "nl": {
+        "hook": "Apollo 13's mislukte maanlanding werd een van NASA's grootste triomfen.",
+        "fact": "Een explosie in een zuurstoftank verlamde Apollo 13 op weg naar de maan in 1970, waardoor de bemanning de landing moest afbreken en de maanlander als reddingsboot moest gebruiken; alle drie de astronauten kwamen veilig thuis."
+      },
+      "es": {
+        "hook": "El fallido alunizaje del Apolo 13 se convirtió en uno de los mayores éxitos de la NASA.",
+        "fact": "La explosión de un tanque de oxígeno dejó al Apolo 13 sin capacidad para funcionar de camino a la Luna en 1970, obligando a la tripulación a abandonar el alunizaje y usar el módulo lunar como bote salvavidas; los tres astronautas regresaron sanos y salvos."
+      }
+    }
   },
   {
     "id": "space-085",
@@ -1243,7 +2020,21 @@
     "tags": [
       "exploration",
       "moon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Aucun humain n'a posé le pied sur la Lune depuis 1972.",
+        "fact": "Les astronautes d'Apollo 17, Eugene Cernan et Harrison Schmitt, furent les derniers humains à marcher sur la Lune, repartant en décembre 1972 ; plus de cinq décennies plus tard, personne n'y est retourné."
+      },
+      "nl": {
+        "hook": "Sinds 1972 heeft geen mens meer voet op de maan gezet.",
+        "fact": "De astronauten Eugene Cernan en Harrison Schmitt van Apollo 17 waren de laatste mensen die op de maan liepen, en vertrokken in december 1972; meer dan vijf decennia later is niemand teruggekeerd."
+      },
+      "es": {
+        "hook": "Ningún ser humano ha pisado la Luna desde 1972.",
+        "fact": "Los astronautas del Apolo 17, Eugene Cernan y Harrison Schmitt, fueron los últimos humanos en caminar por la Luna, partiendo en diciembre de 1972; más de cinco décadas después, nadie ha vuelto."
+      }
+    }
   },
   {
     "id": "space-086",
@@ -1253,7 +2044,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première station spatiale américaine est tombée du ciel au-dessus de l'Australie.",
+        "fact": "Skylab, la première station spatiale américaine, a fonctionné de 1973 à 1974, mais son orbite s'est dégradée plus vite que prévu et elle est retombée dans l'atmosphère en 1979, dispersant des débris à travers l'Australie-Occidentale — qui a plus tard infligé aux États-Unis une amende de 400 dollars pour dépôt sauvage de déchets."
+      },
+      "nl": {
+        "hook": "Amerika's eerste ruimtestation viel boven Australië uit de lucht.",
+        "fact": "Skylab, het eerste Amerikaanse ruimtestation, was actief van 1973 tot 1974, maar zijn baan verviel sneller dan verwacht en het kwam in 1979 opnieuw de atmosfeer binnen, waarbij puin over West-Australië verspreid raakte — dat de VS later een boete van 400 dollar gaf voor zwerfafval."
+      },
+      "es": {
+        "hook": "La primera estación espacial estadounidense cayó del cielo sobre Australia.",
+        "fact": "Skylab, la primera estación espacial de EE. UU., operó de 1973 a 1974, pero su órbita se degradó más rápido de lo previsto y reingresó en la atmósfera en 1979, esparciendo escombros por el oeste de Australia, que más tarde multó a Estados Unidos con 400 dólares por arrojar basura."
+      }
+    }
   },
   {
     "id": "space-087",
@@ -1263,7 +2068,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une station spatiale est restée en orbite pendant 15 ans, presque trois fois sa durée de vie prévue.",
+        "fact": "La station spatiale soviétique/russe Mir a fonctionné de 1986 à 2001 et a accueilli des missions de longue durée, dont les 437 jours consécutifs record dans l'espace du cosmonaute Valeri Poliakov."
+      },
+      "nl": {
+        "hook": "Eén ruimtestation bleef 15 jaar in een baan, bijna drie keer zo lang als gepland.",
+        "fact": "Het Sovjet/Russische ruimtestation Mir was actief van 1986 tot 2001 en herbergde langdurige missies, waaronder kosmonaut Valeri Poljakovs record van 437 aaneengesloten dagen in de ruimte."
+      },
+      "es": {
+        "hook": "Una estación espacial permaneció en órbita durante 15 años, casi el triple de su vida útil prevista.",
+        "fact": "La estación espacial soviética/rusa Mir operó de 1986 a 2001 y albergó misiones de larga duración, incluido el récord del cosmonauta Valeri Poliakov de 437 días consecutivos en el espacio."
+      }
+    }
   },
   {
     "id": "space-088",
@@ -1273,7 +2092,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des rivaux de la Guerre froide se sont serré la main en orbite en 1975.",
+        "fact": "En juillet 1975, un vaisseau américain Apollo s'est arrimé à une capsule soviétique Soyouz en orbite, et astronautes et cosmonautes se sont serré la main à travers l'écoutille ouverte — un dégel symbolique de la coopération spatiale pendant la Guerre froide."
+      },
+      "nl": {
+        "hook": "Rivalen uit de Koude Oorlog schudden elkaar in 1975 de hand in een baan om de Aarde.",
+        "fact": "In juli 1975 koppelde een Amerikaans Apollo-ruimtevaartuig aan een Sovjet Sojoez-capsule in een baan om de Aarde, en schudden astronauten en kosmonauten elkaar de hand door het open luik — een symbolische ontdooiing van de ruimtesamenwerking tijdens de Koude Oorlog."
+      },
+      "es": {
+        "hook": "Rivales de la Guerra Fría se dieron la mano en órbita en 1975.",
+        "fact": "En julio de 1975, una nave estadounidense Apolo se acopló con una cápsula soviética Soyuz en órbita, y astronautas y cosmonautas se dieron la mano a través de la escotilla abierta, un deshielo simbólico en la cooperación espacial durante la Guerra Fría."
+      }
+    }
   },
   {
     "id": "space-089",
@@ -1283,7 +2116,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un joint en caoutchouc défectueux a condamné la navette spatiale Challenger.",
+        "fact": "La navette spatiale Challenger s'est désintégrée 73 secondes après son décollage en janvier 1986 lorsqu'un joint torique défaillant a laissé du gaz brûlant s'échapper d'un propulseur à poudre, tuant les sept membres d'équipage, dont l'enseignante Christa McAuliffe."
+      },
+      "nl": {
+        "hook": "Een gebrekkige rubberen afdichting bezegelde het lot van de spaceshuttle Challenger.",
+        "fact": "De spaceshuttle Challenger viel 73 seconden na de lancering in januari 1986 uit elkaar toen een defecte O-ring hete gassen liet ontsnappen uit een vaste-brandstofraket, waarbij alle zeven bemanningsleden omkwamen, onder wie lerares Christa McAuliffe."
+      },
+      "es": {
+        "hook": "Una junta de goma defectuosa condenó al transbordador espacial Challenger.",
+        "fact": "El transbordador espacial Challenger se desintegró 73 segundos después del despegue en enero de 1986 cuando un fallo en una junta tórica permitió que gases calientes escaparan de un cohete propulsor sólido, matando a los siete tripulantes, incluida la maestra Christa McAuliffe."
+      }
+    }
   },
   {
     "id": "space-090",
@@ -1293,7 +2140,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un morceau de mousse de la taille d'une valise a causé la perte d'une navette spatiale.",
+        "fact": "En février 2003, la navette spatiale Columbia s'est désintégrée lors de sa rentrée atmosphérique après qu'un morceau de mousse isolante eut endommagé son aile au décollage, tuant les sept astronautes à bord et clouant au sol la flotte de navettes pendant plus de deux ans."
+      },
+      "nl": {
+        "hook": "Een stuk schuim ter grootte van een aktetas bracht een spaceshuttle ten val.",
+        "fact": "In februari 2003 viel de spaceshuttle Columbia tijdens de terugkeer in de atmosfeer uiteen nadat een stuk isolatieschuim tijdens de lancering de vleugel had beschadigd, waarbij alle zeven astronauten aan boord omkwamen en de shuttlevloot ruim twee jaar aan de grond werd gehouden."
+      },
+      "es": {
+        "hook": "Un trozo de espuma del tamaño de un maletín derribó a un transbordador espacial.",
+        "fact": "En febrero de 2003, el transbordador espacial Columbia se desintegró durante la reentrada después de que un trozo de espuma aislante dañara su ala durante el despegue, matando a los siete astronautas a bordo y dejando la flota de transbordadores en tierra durante más de dos años."
+      }
+    }
   },
   {
     "id": "space-091",
@@ -1303,7 +2164,21 @@
     "tags": [
       "exploration",
       "technology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le télescope spatial Hubble a été lancé avec un miroir défectueux et a eu besoin de lunettes.",
+        "fact": "Lorsque Hubble a été lancé en 1990, ses images étaient floues à cause d'un minuscule défaut de fabrication dans son miroir principal ; des astronautes lors d'une mission de maintenance en 1993 ont installé une optique corrective qui a restauré sa netteté prévue."
+      },
+      "nl": {
+        "hook": "De Hubble-ruimtetelescoop werd gelanceerd met een gebrekkige spiegel en had een bril nodig.",
+        "fact": "Toen Hubble in 1990 werd gelanceerd, waren de beelden wazig door een piepklein fabricagedefect in de hoofdspiegel; astronauten installeerden tijdens een onderhoudsmissie met de shuttle in 1993 corrigerende optiek die de bedoelde scherpte herstelde."
+      },
+      "es": {
+        "hook": "El telescopio espacial Hubble se lanzó con un espejo defectuoso y necesitó gafas.",
+        "fact": "Cuando Hubble se lanzó en 1990, sus imágenes salían borrosas debido a un diminuto defecto de fabricación en su espejo principal; unos astronautas, durante una misión de mantenimiento con el transbordador en 1993, instalaron una óptica correctiva que devolvió la nitidez prevista."
+      }
+    }
   },
   {
     "id": "space-092",
@@ -1313,7 +2188,21 @@
     "tags": [
       "exploration",
       "technology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le télescope spatial James Webb n'orbite pas du tout autour de la Terre.",
+        "fact": "Contrairement à Hubble, le télescope spatial James Webb orbite autour du Soleil près d'un point d'équilibre gravitationnel appelé L2, à environ 1,5 million de kilomètres de la Terre, où il reste aligné avec notre planète tout en étant protégé de la chaleur du Soleil."
+      },
+      "nl": {
+        "hook": "De James Webb-ruimtetelescoop draait helemaal niet om de Aarde.",
+        "fact": "In tegenstelling tot Hubble draait de James Webb-ruimtetelescoop om de zon, nabij een zwaartekrachtevenwichtspunt genaamd L2, zo'n 1,5 miljoen kilometer van de Aarde, waar hij afgeschermd van de zonnehitte in lijn blijft met onze planeet."
+      },
+      "es": {
+        "hook": "El telescopio espacial James Webb no orbita la Tierra en absoluto.",
+        "fact": "A diferencia de Hubble, el telescopio espacial James Webb orbita el sol cerca de un punto de equilibrio gravitacional llamado L2, a unos 1,5 millones de kilómetros de la Tierra, donde permanece alineado con nuestro planeta mientras queda protegido del calor solar."
+      }
+    }
   },
   {
     "id": "space-093",
@@ -1323,7 +2212,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Deux sondes quittant le système solaire transportent une mixtape destinée aux extraterrestres.",
+        "fact": "Les deux sondes Voyager transportent chacune un disque phonographique plaqué or contenant des sons, de la musique et des images destinés à représenter l'humanité et la Terre, accompagnés d'instructions symboliques pour toute intelligence extraterrestre qui pourrait un jour le trouver."
+      },
+      "nl": {
+        "hook": "Twee ruimtesondes die het zonnestelsel verlaten dragen een mixtape bedoeld voor buitenaardse wezens.",
+        "fact": "Beide Voyager-sondes dragen een verguld grammofoonplaat met geluiden, muziek en beelden die de mensheid en de Aarde vertegenwoordigen, samen met symbolische instructies voor eventuele buitenaardse intelligentie die het ooit zou vinden."
+      },
+      "es": {
+        "hook": "Dos naves que abandonan el sistema solar llevan una mixtape destinada a los extraterrestres.",
+        "fact": "Ambas sondas Voyager llevan un disco fonográfico bañado en oro con sonidos, música e imágenes que representan a la humanidad y la Tierra, junto con instrucciones simbólicas para cualquier inteligencia extraterrestre que algún día pudiera encontrarlo."
+      }
+    }
   },
   {
     "id": "space-094",
@@ -1333,7 +2236,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Avant le disque doré de Voyager, la NASA avait envoyé un message plus simple boulonné sur une sonde.",
+        "fact": "Les sondes Pioneer 10 et 11, lancées en 1972 et 1973, transportaient chacune une petite plaque en or anodisé gravée d'images d'un homme et d'une femme ainsi qu'une carte de l'emplacement de la Terre, conçue par Carl Sagan et Frank Drake."
+      },
+      "nl": {
+        "hook": "Voor Voyagers gouden schijf stuurde NASA al een eenvoudiger boodschap, vastgeschroefd op een ruimtesonde.",
+        "fact": "De sondes Pioneer 10 en 11, gelanceerd in 1972 en 1973, droegen elk een kleine goud-geanodiseerde plaquette met daarop afbeeldingen van een man en een vrouw en een kaart van de locatie van de Aarde, ontworpen door Carl Sagan en Frank Drake."
+      },
+      "es": {
+        "hook": "Antes del disco dorado de las Voyager, la NASA envió un mensaje más sencillo atornillado a una sonda.",
+        "fact": "Las sondas Pioneer 10 y 11, lanzadas en 1972 y 1973, llevaban cada una una pequeña placa de oro anodizado grabada con imágenes de un hombre y una mujer y un mapa de la ubicación de la Tierra, diseñada por Carl Sagan y Frank Drake."
+      }
+    }
   },
   {
     "id": "space-095",
@@ -1343,7 +2260,21 @@
     "tags": [
       "exploration",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une sonde a été la première à survivre à la traversée de la ceinture d'astéroïdes.",
+        "fact": "Pioneer 10, lancée en 1972, fut la première sonde à traverser la ceinture d'astéroïdes et à effectuer un survol rapproché de Jupiter, ouvrant la voie à des missions ultérieures comme Voyager et Galileo."
+      },
+      "nl": {
+        "hook": "Eén ruimtesonde was de eerste die een doortocht door de asteroïdengordel overleefde.",
+        "fact": "Pioneer 10, gelanceerd in 1972, was de eerste ruimtesonde die door de asteroïdengordel reisde en een nabije passage langs Jupiter maakte, waarmee de weg werd geëffend voor latere missies zoals Voyager en Galileo."
+      },
+      "es": {
+        "hook": "Una sonda fue la primera en sobrevivir al cruce del cinturón de asteroides.",
+        "fact": "Pioneer 10, lanzada en 1972, fue la primera sonda en atravesar el cinturón de asteroides y realizar un sobrevuelo cercano de Júpiter, allanando el camino para misiones posteriores como Voyager y Galileo."
+      }
+    }
   },
   {
     "id": "space-096",
@@ -1353,7 +2284,21 @@
     "tags": [
       "exploration",
       "jupiter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une sonde de la NASA a un jour largué une sonde directement dans l'atmosphère écrasante de Jupiter.",
+        "fact": "En 1995, la sonde Galileo a largué une petite sonde qui a plongé dans l'atmosphère de Jupiter, transmettant des données pendant environ 58 minutes avant d'être écrasée et vaporisée par l'immense pression."
+      },
+      "nl": {
+        "hook": "Een NASA-ruimtesonde liet ooit een kleine sonde recht in de verpletterende atmosfeer van Jupiter vallen.",
+        "fact": "In 1995 liet de Galileo-sonde een kleine sonde los die de atmosfeer van Jupiter in dook, en zo'n 58 minuten lang gegevens verstuurde voordat ze door de immense druk werd verpletterd en verdampte."
+      },
+      "es": {
+        "hook": "Una nave de la NASA soltó una vez una sonda directamente en la abrumadora atmósfera de Júpiter.",
+        "fact": "En 1995, la nave Galileo liberó una pequeña sonda que se sumergió en la atmósfera de Júpiter, transmitiendo datos durante unos 58 minutos antes de ser aplastada y vaporizada por la inmensa presión."
+      }
+    }
   },
   {
     "id": "space-097",
@@ -1363,7 +2308,21 @@
     "tags": [
       "exploration",
       "jupiter"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une sonde à énergie solaire orbite autour d'une planète qui reçoit à peine de lumière du Soleil.",
+        "fact": "La sonde Juno de la NASA, en orbite autour de Jupiter depuis 2016, repose sur trois immenses panneaux solaires bien que la planète ne reçoive qu'environ 4 % de la lumière solaire reçue par la Terre — ce qui en fait l'une des missions solaires les plus lointaines jamais menées."
+      },
+      "nl": {
+        "hook": "Een op zonne-energie werkende ruimtesonde draait om een planeet die nauwelijks zonlicht krijgt.",
+        "fact": "NASA's Juno-sonde, sinds 2016 in een baan om Jupiter, vertrouwt op drie enorme zonnepanelen, ook al ontvangt de planeet slechts zo'n 4% van het zonlicht dat de Aarde krijgt — waarmee het een van de verste op zonne-energie werkende missies ooit is."
+      },
+      "es": {
+        "hook": "Una sonda de energía solar orbita un planeta que apenas recibe luz solar.",
+        "fact": "La sonda Juno de la NASA, en órbita alrededor de Júpiter desde 2016, depende de tres enormes paneles solares a pesar de que el planeta recibe solo alrededor del 4% de la luz solar que recibe la Tierra, lo que la convierte en una de las misiones solares más lejanas jamás realizadas."
+      }
+    }
   },
   {
     "id": "space-098",
@@ -1373,7 +2332,21 @@
     "tags": [
       "exploration",
       "mars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les premières roues sur Mars appartenaient à un rover de la taille d'un four à micro-ondes.",
+        "fact": "Sojourner, qui faisait partie de la mission Mars Pathfinder de 1997, fut le premier rover à roues à opérer sur une autre planète — un petit véhicule à énergie solaire conçu pour durer une semaine mais qui a exploré pendant environ 83 jours."
+      },
+      "nl": {
+        "hook": "De eerste wielen op Mars behoorden toe aan een rover ter grootte van een magnetronoven.",
+        "fact": "Sojourner, onderdeel van de Mars Pathfinder-missie van 1997, was de eerste rover op wielen die op een andere planeet opereerde — een klein voertuig op zonne-energie dat was ontworpen voor een week, maar zo'n 83 dagen actief bleef."
+      },
+      "es": {
+        "hook": "Las primeras ruedas en Marte pertenecieron a un róver del tamaño de un microondas.",
+        "fact": "Sojourner, parte de la misión Mars Pathfinder de 1997, fue el primer róver con ruedas en operar en otro planeta: un pequeño vehículo de energía solar diseñado para durar una semana que acabó explorando durante unos 83 días."
+      }
+    }
   },
   {
     "id": "space-099",
@@ -1383,7 +2356,21 @@
     "tags": [
       "exploration",
       "mars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un rover martien conçu pour durer 90 jours a continué pendant près de 15 ans.",
+        "fact": "Le rover Opportunity de la NASA a atterri sur Mars en 2004 pour une mission prévue de 90 jours, mais a continué à fonctionner jusqu'en 2018, parcourant plus de 45 kilomètres avant qu'une tempête de poussière mondiale ne coupe finalement son alimentation solaire."
+      },
+      "nl": {
+        "hook": "Een Marsrover die 90 dagen moest meegaan, bleef bijna 15 jaar actief.",
+        "fact": "NASA's Opportunity-rover landde in 2004 op Mars met een geplande missie van 90 dagen, maar bleef actief tot 2018, legde meer dan 45 kilometer af voordat een wereldwijde stofstorm uiteindelijk haar zonne-energie afsneed."
+      },
+      "es": {
+        "hook": "Un róver marciano diseñado para durar 90 días siguió funcionando durante casi 15 años.",
+        "fact": "El róver Opportunity de la NASA aterrizó en Marte en 2004 con una misión prevista de 90 días, pero siguió operando hasta 2018, recorriendo más de 45 kilómetros antes de que una tormenta de polvo global finalmente cortara su energía solar."
+      }
+    }
   },
   {
     "id": "space-100",
@@ -1393,7 +2380,21 @@
     "tags": [
       "exploration",
       "mars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un rover martien fonctionne grâce à la chaleur du plutonium en décomposition, pas au Soleil.",
+        "fact": "Le rover Curiosity de la NASA fonctionne grâce à un générateur thermoélectrique à radioisotope qui convertit la chaleur du plutonium-238 en décomposition en électricité, lui offrant une alimentation stable, insensible aux tempêtes de poussière ou à la nuit martienne."
+      },
+      "nl": {
+        "hook": "Een Marsrover draait op de warmte van vervallend plutonium, niet op zonlicht.",
+        "fact": "NASA's Curiosity-rover werkt op een radioisotopen-thermo-elektrische generator die warmte van vervallend plutonium-238 omzet in elektriciteit, wat haar constante stroom geeft die niet wordt beïnvloed door stofstormen of de Marsnacht."
+      },
+      "es": {
+        "hook": "Un róver marciano funciona con el calor del plutonio en desintegración, no con luz solar.",
+        "fact": "El róver Curiosity de la NASA funciona con un generador termoeléctrico de radioisótopos que convierte en electricidad el calor del plutonio-238 en desintegración, lo que le da una energía estable, inmune a las tormentas de polvo o a la noche marciana."
+      }
+    }
   },
   {
     "id": "space-101",
@@ -1403,7 +2404,21 @@
     "tags": [
       "exploration",
       "mars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier vol motorisé sur une autre planète n'a duré que 39 secondes.",
+        "fact": "En avril 2021, l'hélicoptère Ingenuity de la NASA est devenu le premier aéronef à réaliser un vol motorisé et contrôlé sur une autre planète, planant au-dessus de Mars pendant environ 39 secondes dans une atmosphère seulement 1 % aussi dense que celle de la Terre."
+      },
+      "nl": {
+        "hook": "De eerste gemotoriseerde vlucht op een andere planeet duurde slechts 39 seconden.",
+        "fact": "In april 2021 werd NASA's Ingenuity-helikopter het eerste luchtvaartuig dat een gecontroleerde, gemotoriseerde vlucht op een andere planeet uitvoerde, en zweefde ongeveer 39 seconden boven Mars in een atmosfeer die slechts 1% zo dicht is als die van de Aarde."
+      },
+      "es": {
+        "hook": "El primer vuelo propulsado en otro planeta duró apenas 39 segundos.",
+        "fact": "En abril de 2021, el helicóptero Ingenuity de la NASA se convirtió en la primera aeronave en realizar un vuelo controlado y propulsado en otro planeta, sobrevolando Marte durante unos 39 segundos en una atmósfera solo un 1% tan densa como la de la Tierra."
+      }
+    }
   },
   {
     "id": "space-102",
@@ -1413,7 +2428,21 @@
     "tags": [
       "exploration",
       "mars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les premières photos jamais prises depuis la surface de Mars sont arrivées en 1976.",
+        "fact": "Les sondes jumelles Viking de la NASA se sont posées sur Mars durant l'été 1976, devenant les premières sondes à fonctionner avec succès à la surface martienne et à renvoyer des images et des analyses de sol."
+      },
+      "nl": {
+        "hook": "De eerste ooit vanaf het oppervlak van Mars gemaakte foto's arriveerden in 1976.",
+        "fact": "NASA's tweelingladers Viking landden in de zomer van 1976 op Mars, en werden zo de eerste ruimtesondes die succesvol op het Marsoppervlak opereerden en beelden en bodemanalyses terugstuurden."
+      },
+      "es": {
+        "hook": "Las primeras fotos tomadas desde la superficie de Marte llegaron en 1976.",
+        "fact": "Las sondas gemelas Viking de la NASA tomaron tierra en Marte en el verano de 1976, convirtiéndose en las primeras naves en operar con éxito en la superficie marciana y enviar imágenes y análisis del suelo."
+      }
+    }
   },
   {
     "id": "space-103",
@@ -1422,7 +2451,21 @@
     "fact": "Because fine dust in the Martian atmosphere scatters light differently than Earth's atmosphere does, sunsets on Mars glow with a bluish tint around the sun — the opposite of Earth's warm-colored sunsets.",
     "tags": [
       "mars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les couchers de Soleil sur Mars sont bleus, pas rouges.",
+        "fact": "Parce que la fine poussière de l'atmosphère martienne diffuse la lumière différemment de l'atmosphère terrestre, les couchers de Soleil sur Mars prennent une teinte bleutée autour du Soleil — l'opposé des couchers de Soleil aux couleurs chaudes de la Terre."
+      },
+      "nl": {
+        "hook": "Zonsondergangen op Mars zijn blauw, niet rood.",
+        "fact": "Omdat fijn stof in de Marsatmosfeer licht anders verstrooit dan de atmosfeer van de Aarde, gloeien zonsondergangen op Mars rond de zon met een blauwachtige tint — het tegenovergestelde van de warm gekleurde zonsondergangen op Aarde."
+      },
+      "es": {
+        "hook": "Las puestas de sol en Marte son azules, no rojas.",
+        "fact": "Debido a que el polvo fino de la atmósfera marciana dispersa la luz de forma distinta a la atmósfera terrestre, las puestas de sol en Marte brillan con un tono azulado alrededor del sol, todo lo contrario de las cálidas puestas de sol de la Tierra."
+      }
+    }
   },
   {
     "id": "space-104",
@@ -1432,7 +2475,21 @@
     "tags": [
       "mars",
       "moon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une des lunes de Mars spirale lentement vers sa propre destruction.",
+        "fact": "Phobos, la plus grande des deux petites lunes de Mars, se rapproche de la planète d'environ 2 centimètres par an et devrait soit s'écraser sur Mars, soit se désintégrer en un anneau dans 30 à 50 millions d'années."
+      },
+      "nl": {
+        "hook": "Een van Mars' manen spiraalt langzaam naar haar eigen ondergang.",
+        "fact": "Phobos, de grootste van Mars' twee kleine manen, komt jaarlijks ongeveer 2 centimeter dichter bij de planeet en zal naar verwachting binnen 30 tot 50 miljoen jaar ofwel op Mars neerstorten, ofwel uiteenvallen tot een ring."
+      },
+      "es": {
+        "hook": "Una de las lunas de Marte se dirige lentamente en espiral hacia su propia destrucción.",
+        "fact": "Fobos, la mayor de las dos pequeñas lunas de Marte, se acerca al planeta unos 2 centímetros al año y se espera que dentro de 30 a 50 millones de años se estrelle contra Marte o se desintegre formando un anillo."
+      }
+    }
   },
   {
     "id": "space-105",
@@ -1442,7 +2499,21 @@
     "tags": [
       "exploration",
       "venus"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La première sonde à s'être posée avec succès sur une autre planète n'a survécu que moins d'une demi-heure.",
+        "fact": "La sonde soviétique Venera 7 est devenue la première à transmettre des données depuis la surface d'une autre planète en se posant sur Vénus en 1970, mais elle n'a survécu qu'environ 23 minutes dans la chaleur et la pression écrasantes de la planète avant de tomber en panne."
+      },
+      "nl": {
+        "hook": "De eerste ruimtesonde die succesvol op een andere planeet landde, overleefde er geen half uur.",
+        "fact": "De Sovjet-sonde Venera 7 werd de eerste die gegevens verzond vanaf het oppervlak van een andere planeet toen ze in 1970 op Venus landde, maar ze overleefde slechts zo'n 23 minuten in de verpletterende hitte en druk van de planeet voordat ze uitviel."
+      },
+      "es": {
+        "hook": "La primera sonda en aterrizar con éxito en otro planeta sobrevivió menos de media hora.",
+        "fact": "La sonda soviética Venera 7 se convirtió en la primera en transmitir datos desde la superficie de otro planeta al aterrizar en Venus en 1970, pero solo sobrevivió unos 23 minutos en el calor y la presión aplastantes del planeta antes de fallar."
+      }
+    }
   },
   {
     "id": "space-106",
@@ -1452,7 +2523,21 @@
     "tags": [
       "exploration",
       "venus"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Comme les nuages cachent la surface de Vénus, la NASA a dû la cartographier au radar.",
+        "fact": "Vénus est en permanence enveloppée d'épais nuages, si bien que la sonde Magellan de la NASA a utilisé un radar pour les percer au début des années 1990, cartographiant environ 98 % de la surface de la planète avec un niveau de détail inédit."
+      },
+      "nl": {
+        "hook": "Omdat wolken het oppervlak van Venus verbergen, moest NASA het met radar in kaart brengen.",
+        "fact": "Venus is permanent gehuld in dikke wolken, dus gebruikte NASA's Magellan-sonde begin jaren 90 radar om erdoorheen te kijken, en bracht ze zo'n 98% van het planeetoppervlak in ongekend detail in kaart."
+      },
+      "es": {
+        "hook": "Como las nubes ocultan la superficie de Venus, la NASA tuvo que cartografiarla con radar.",
+        "fact": "Venus está permanentemente envuelta en densas nubes, así que la sonda Magallanes de la NASA usó radar para atravesarlas a principios de los años 90, cartografiando cerca del 98% de la superficie del planeta con un detalle sin precedentes."
+      }
+    }
   },
   {
     "id": "space-107",
@@ -1462,7 +2547,21 @@
     "tags": [
       "exploration",
       "mercury"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il a fallu plus de six ans et plusieurs survols à une sonde pour ralentir suffisamment et se mettre en orbite autour de Mercure.",
+        "fact": "La sonde MESSENGER de la NASA a été lancée en 2004 mais n'est entrée en orbite autour de Mercure qu'en 2011, utilisant des survols de la Terre, de Vénus et de Mercure elle-même pour perdre assez de vitesse et être capturée par la faible gravité de la petite planète."
+      },
+      "nl": {
+        "hook": "Het duurde meer dan zes jaar en meerdere passages voordat een ruimtesonde genoeg vaart verloor om in een baan om Mercurius te komen.",
+        "fact": "NASA's MESSENGER-sonde werd in 2004 gelanceerd, maar kwam pas in 2011 in een baan om Mercurius, waarbij ze passages langs de Aarde, Venus en Mercurius zelf gebruikte om genoeg snelheid kwijt te raken om door de zwakke zwaartekracht van de kleine planeet te worden ingevangen."
+      },
+      "es": {
+        "hook": "Una sonda tardó más de seis años y varios sobrevuelos solo para frenar lo suficiente y entrar en órbita de Mercurio.",
+        "fact": "La sonda MESSENGER de la NASA se lanzó en 2004, pero no entró en órbita alrededor de Mercurio hasta 2011, usando sobrevuelos de la Tierra, Venus y el propio Mercurio para perder suficiente velocidad y ser capturada por la débil gravedad del pequeño planeta."
+      }
+    }
   },
   {
     "id": "space-108",
@@ -1472,7 +2571,21 @@
     "tags": [
       "exploration",
       "moon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Inde est devenue le premier pays à se poser près du pôle sud de la Lune.",
+        "fact": "En août 2023, la mission indienne Chandrayaan-3 a réussi un alunissage en douceur près du pôle sud de la Lune, faisant de l'Inde le quatrième pays à réaliser un alunissage en douceur et le premier à se poser dans cette région glacée et ombragée."
+      },
+      "nl": {
+        "hook": "India werd het eerste land dat nabij de zuidpool van de maan landde.",
+        "fact": "In augustus 2023 landde de Indiase Chandrayaan-3-missie succesvol nabij de zuidpool van de maan, waarmee India het vierde land werd dat een zachte maanlanding uitvoerde en het eerste dat neerstreek in dat ijzige, beschaduwde gebied."
+      },
+      "es": {
+        "hook": "India se convirtió en el primer país en aterrizar cerca del polo sur lunar.",
+        "fact": "En agosto de 2023, la misión india Chandrayaan-3 logró un alunizaje suave cerca del polo sur de la Luna, convirtiendo a India en el cuarto país en lograr un alunizaje suave y el primero en tocar tierra en esa región helada y en sombra."
+      }
+    }
   },
   {
     "id": "space-109",
@@ -1482,7 +2595,21 @@
     "tags": [
       "exploration",
       "moon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Aucune sonde ne s'était jamais posée sur la face cachée de la Lune avant 2019.",
+        "fact": "La mission chinoise Chang'e 4 a réalisé le tout premier alunissage en douceur sur la face cachée de la Lune en janvier 2019, nécessitant un satellite relais placé au-delà de la Lune pour communiquer avec la Terre, puisque la face cachée ne fait jamais directement face à notre planète."
+      },
+      "nl": {
+        "hook": "Voor 2019 was nog nooit een sonde geland op de verre kant van de maan.",
+        "fact": "China's Chang'e 4-missie realiseerde in januari 2019 de allereerste zachte landing op de verre kant van de maan, waarvoor een relaissatelliet voorbij de maan nodig was om met de Aarde te communiceren, omdat de verre kant nooit rechtstreeks naar onze planeet gericht is."
+      },
+      "es": {
+        "hook": "Ninguna nave había aterrizado en la cara oculta de la Luna hasta 2019.",
+        "fact": "La misión china Chang'e 4 logró el primer alunizaje suave de la historia en la cara oculta de la Luna en enero de 2019, para lo cual necesitó un satélite de retransmisión situado más allá de la Luna para comunicarse con la Tierra, ya que esa cara nunca mira directamente hacia nuestro planeta."
+      }
+    }
   },
   {
     "id": "space-110",
@@ -1492,7 +2619,21 @@
     "tags": [
       "exploration",
       "mars"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Inde a atteint Mars dès sa première tentative pour un budget inférieur à celui de nombreux films hollywoodiens.",
+        "fact": "La Mission orbitale martienne de l'Inde, surnommée Mangalyaan, a atteint l'orbite de Mars en 2014 avec un budget d'environ 74 millions de dollars, faisant de l'Inde la première nation à réussir sa mission vers Mars dès sa première tentative et l'une des missions interplanétaires les moins coûteuses jamais menées."
+      },
+      "nl": {
+        "hook": "India bereikte Mars bij de eerste poging voor minder dan het budget van menige Hollywoodfilm.",
+        "fact": "India's Mars Orbiter Mission, bijgenaamd Mangalyaan, bereikte in 2014 een baan om Mars met een budget van ongeveer 74 miljoen dollar, waarmee India het eerste land werd dat bij zijn eerste poging Mars bereikte en een van de goedkoopste interplanetaire missies ooit vloog."
+      },
+      "es": {
+        "hook": "India llegó a Marte en su primer intento con un presupuesto menor que el de muchas películas de Hollywood.",
+        "fact": "La Misión Orbital a Marte de la India, apodada Mangalyaan, alcanzó la órbita de Marte en 2014 con un presupuesto de unos 74 millones de dólares, convirtiendo a India en la primera nación en tener éxito en Marte en su primer intento y en una de las misiones interplanetarias más baratas jamás realizadas."
+      }
+    }
   },
   {
     "id": "space-111",
@@ -1503,7 +2644,24 @@
     "tags": [
       "exploration",
       "technology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Pendant des décennies, les fusées étaient utilisées une fois puis jetées.",
+        "fact": "En décembre 2015, la Falcon 9 de SpaceX est devenue la première fusée de classe orbitale à lancer une charge utile dans l'espace puis à faire atterrir son premier étage à la verticale sur Terre, une étape clé vers les fusées réutilisables.",
+        "whyItMatters": "Les propulseurs réutilisables ont depuis fait baisser le coût de l'accès à l'orbite, contribuant à un essor des lancements de satellites commerciaux."
+      },
+      "nl": {
+        "hook": "Decennialang werden raketten eenmalig gebruikt en daarna weggegooid.",
+        "fact": "In december 2015 werd SpaceX' Falcon 9 de eerste raket in de orbitale klasse die een lading naar de ruimte lanceerde en vervolgens haar eerste trap rechtop op Aarde liet landen, een mijlpaal op weg naar herbruikbare raketten.",
+        "whyItMatters": "Herbruikbare boosters hebben sindsdien de kosten van een baan om de Aarde flink verlaagd, wat een boom in commerciële satellietlanceringen heeft aangewakkerd."
+      },
+      "es": {
+        "hook": "Durante décadas, los cohetes se usaban una vez y se desechaban.",
+        "fact": "En diciembre de 2015, el Falcon 9 de SpaceX se convirtió en el primer cohete de clase orbital en lanzar una carga al espacio y luego aterrizar su primera etapa en posición vertical de vuelta en la Tierra, un hito hacia la cohetería reutilizable.",
+        "whyItMatters": "Los propulsores reutilizables han reducido desde entonces el coste de llegar a órbita, ayudando a impulsar un auge de los lanzamientos comerciales de satélites."
+      }
+    }
   },
   {
     "id": "space-112",
@@ -1514,7 +2672,24 @@
     "tags": [
       "exploration",
       "technology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "En 2020, une entreprise privée a envoyé pour la première fois des astronautes de la NASA en orbite.",
+        "fact": "Le Crew Dragon de SpaceX a transporté les astronautes de la NASA Bob Behnken et Doug Hurley vers la Station spatiale internationale en mai 2020, marquant le premier vol orbital habité lancé par une entreprise commerciale plutôt que par une agence spatiale gouvernementale.",
+        "whyItMatters": "Cela a mis fin à près d'une décennie durant laquelle la NASA dépendait uniquement des fusées russes Soyouz pour atteindre l'ISS après la retraite du programme de la navette en 2011."
+      },
+      "nl": {
+        "hook": "In 2020 lanceerde een particulier bedrijf voor het eerst NASA-astronauten in een baan om de Aarde.",
+        "fact": "SpaceX' Crew Dragon bracht de NASA-astronauten Bob Behnken en Doug Hurley in mei 2020 naar het Internationale Ruimtestation, wat de eerste bemande orbitale vlucht markeerde die door een commercieel bedrijf werd gelanceerd in plaats van een overheidsruimteagentschap.",
+        "whyItMatters": "Het maakte een einde aan bijna tien jaar waarin NASA na de pensionering van het shuttleprogramma in 2011 alleen op Russische Sojoez-raketten kon vertrouwen om het ISS te bereiken."
+      },
+      "es": {
+        "hook": "En 2020, una empresa privada lanzó a astronautas de la NASA a órbita por primera vez.",
+        "fact": "El Crew Dragon de SpaceX llevó a los astronautas de la NASA Bob Behnken y Doug Hurley a la Estación Espacial Internacional en mayo de 2020, marcando el primer vuelo orbital tripulado lanzado por una empresa comercial en lugar de una agencia espacial gubernamental.",
+        "whyItMatters": "Puso fin a casi una década en la que la NASA dependía únicamente de los cohetes rusos Soyuz para llegar a la ISS tras la retirada del programa del transbordador en 2011."
+      }
+    }
   },
   {
     "id": "space-113",
@@ -1524,7 +2699,21 @@
     "tags": [
       "exploration",
       "moon"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le programme de la NASA pour ramener des astronautes sur la Lune porte le nom de la sœur jumelle d'Apollon.",
+        "fact": "Le programme Artemis de la NASA vise à faire alunir des astronautes pour la première fois depuis 1972 ; il porte le nom de la déesse grecque Artémis, sœur jumelle d'Apollon, le dieu qui a donné son nom au précédent programme lunaire."
+      },
+      "nl": {
+        "hook": "NASA's plan om astronauten terug naar de maan te brengen is vernoemd naar Apollo's tweelingzus.",
+        "fact": "NASA's Artemis-programma heeft als doel voor het eerst sinds 1972 opnieuw astronauten op het maanoppervlak te laten landen; het is vernoemd naar de Griekse godin Artemis, tweelingzus van Apollo, de god naar wie het eerdere maanprogramma werd genoemd."
+      },
+      "es": {
+        "hook": "El plan de la NASA para devolver astronautas a la Luna lleva el nombre de la hermana gemela de Apolo.",
+        "fact": "El programa Artemis de la NASA busca hacer alunizar astronautas por primera vez desde 1972; recibe su nombre de la diosa griega Artemisa, hermana gemela de Apolo, el dios que dio nombre al programa lunar anterior."
+      }
+    }
   },
   {
     "id": "space-114",
@@ -1534,7 +2723,24 @@
     "whyItMatters": "Left unmanaged, orbital debris could make some orbits too hazardous for future satellites and spacecraft to use safely.",
     "tags": [
       "technology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'orbite terrestre s'encombre de centaines de milliers de débris.",
+        "fact": "On estime que des dizaines de millions de fragments de débris — des satellites morts aux éclats de peinture — circulent autour de la Terre, et les scientifiques mettent en garde contre un scénario de « syndrome de Kessler » où les collisions s'enchaînent en cascade et génèrent encore plus de débris.",
+        "whyItMatters": "Sans gestion, les débris orbitaux pourraient rendre certaines orbites trop dangereuses pour que de futurs satellites et vaisseaux puissent les utiliser en toute sécurité."
+      },
+      "nl": {
+        "hook": "De baan om de Aarde raakt vervuild met honderdduizenden stukken afval.",
+        "fact": "Er zouden naar schatting tientallen miljoenen brokstukken — van dode satellieten tot verfschilfers — om de Aarde cirkelen, en wetenschappers waarschuwen voor een 'Kessler-syndroom'-scenario waarbij botsingen elkaar in een kettingreactie versterken en nog meer puin creëren.",
+        "whyItMatters": "Zonder beheer zou ruimteschroot sommige banen te gevaarlijk kunnen maken voor toekomstige satellieten en ruimtevaartuigen om veilig te gebruiken."
+      },
+      "es": {
+        "hook": "La órbita terrestre se está llenando de cientos de miles de trozos de basura.",
+        "fact": "Se calcula que decenas de millones de fragmentos de desechos —desde satélites muertos hasta trocitos de pintura— circulan alrededor de la Tierra, y los científicos advierten de un posible escenario de 'síndrome de Kessler' en el que las colisiones se encadenan y generan aún más residuos.",
+        "whyItMatters": "Sin gestión, la basura orbital podría hacer que algunas órbitas resultaran demasiado peligrosas para que futuros satélites y naves las usen con seguridad."
+      }
+    }
   },
   {
     "id": "space-115",
@@ -1543,7 +2749,21 @@
     "fact": "A satellite placed in geostationary orbit about 35,786 km above the equator takes exactly one day to circle Earth, matching the planet's rotation so it appears fixed over the same spot on the ground — ideal for communications and weather satellites.",
     "tags": [
       "technology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains satellites semblent rester parfaitement immobiles dans le ciel.",
+        "fact": "Un satellite placé en orbite géostationnaire à environ 35 786 km au-dessus de l'équateur met exactement un jour à faire le tour de la Terre, ce qui correspond à la rotation de la planète, de sorte qu'il paraît fixe au-dessus du même point au sol — idéal pour les satellites de communication et de météo."
+      },
+      "nl": {
+        "hook": "Sommige satellieten lijken volkomen roerloos aan de hemel te hangen.",
+        "fact": "Een satelliet in een geostationaire baan op ongeveer 35.786 km boven de evenaar doet er precies één dag over om rond de Aarde te draaien, gelijk aan de rotatie van de planeet, waardoor hij vast lijkt te hangen boven hetzelfde punt op de grond — ideaal voor communicatie- en weersatellieten."
+      },
+      "es": {
+        "hook": "Algunos satélites parecen quedarse completamente inmóviles en el cielo.",
+        "fact": "Un satélite colocado en órbita geoestacionaria a unos 35.786 km sobre el ecuador tarda exactamente un día en rodear la Tierra, coincidiendo con la rotación del planeta, por lo que parece fijo sobre el mismo punto del suelo, ideal para satélites de comunicaciones y meteorológicos."
+      }
+    }
   },
   {
     "id": "space-116",

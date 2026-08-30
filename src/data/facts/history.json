@@ -776,7 +776,24 @@
     "tags": [
       "ancient-egypt",
       "myths"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les bâtisseurs des pyramides n'étaient pas des esclaves.",
+        "fact": "Des villages d'ouvriers mis au jour près de Gizeh montrent que les pyramides ont été construites en grande partie par des travailleurs rémunérés — artisans qualifiés et paysans saisonniers — qui recevaient des rations de pain et de bière, et non par des masses d'esclaves comme on l'a longtemps cru.",
+        "whyItMatters": "Cela bouleverse une image populaire de l'Égypte antique qui a persisté pendant des siècles dans l'art et le cinéma."
+      },
+      "nl": {
+        "hook": "De piramidebouwers waren geen slaven.",
+        "fact": "Opgegraven arbeidersdorpen bij Gizeh tonen aan dat de piramides grotendeels gebouwd werden door betaalde arbeiders — vakmensen en seizoensboeren — die rantsoenen brood en bier kregen, en niet door massa's slaven zoals lang werd aangenomen.",
+        "whyItMatters": "Dit stelt een populair beeld van het oude Egypte bij dat eeuwenlang standhield in kunst en film."
+      },
+      "es": {
+        "hook": "Los constructores de las pirámides no eran esclavos.",
+        "fact": "Los poblados de trabajadores excavados cerca de Guiza muestran que las pirámides fueron construidas en gran parte por obreros remunerados —artesanos especializados y campesinos de temporada— que recibían raciones de pan y cerveza, y no por masas de esclavos como se creyó durante mucho tiempo.",
+        "whyItMatters": "Esto transforma una imagen popular del antiguo Egipto que ha persistido durante siglos en el arte y el cine."
+      }
+    }
   },
   {
     "id": "history-034",
@@ -786,7 +803,21 @@
     "tags": [
       "ancient-egypt",
       "language"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les hiéroglyphes sont restés illisibles pendant plus de 1 400 ans.",
+        "fact": "Après la disparition de l'écriture égyptienne au IVe siècle de notre ère, plus personne ne pouvait lire les hiéroglyphes, jusqu'à ce que la pierre de Rosette, découverte en 1799, donne au savant Jean-François Champollion la clé pour les déchiffrer en 1822."
+      },
+      "nl": {
+        "hook": "Hiërogliefen bleven meer dan 1.400 jaar onleesbaar.",
+        "fact": "Nadat het Egyptische schrift in de 4e eeuw na Christus in onbruik raakte, kon niemand hiërogliefen meer lezen, tot de steen van Rosetta, gevonden in 1799, geleerde Jean-François Champollion in 1822 de sleutel gaf om ze te ontcijferen."
+      },
+      "es": {
+        "hook": "Los jeroglíficos fueron ilegibles durante más de 1.400 años.",
+        "fact": "Tras la desaparición de la escritura egipcia en el siglo IV d.C., nadie pudo leer los jeroglíficos hasta que la piedra de Rosetta, hallada en 1799, le dio al erudito Jean-François Champollion la clave para descifrarlos en 1822."
+      }
+    }
   },
   {
     "id": "history-035",
@@ -796,7 +827,21 @@
     "tags": [
       "ancient-egypt",
       "games"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le plus ancien jeu de société connu a été retrouvé enterré avec des pharaons.",
+        "fact": "Le senet, un jeu de course joué sur une grille de 30 cases, apparaît dans des peintures de tombeaux égyptiens et parmi des objets funéraires datant d'environ 3100 av. J.-C., ce qui en fait l'un des plus anciens jeux connus de l'humanité."
+      },
+      "nl": {
+        "hook": "Het oudste bekende bordspel werd begraven bij farao's teruggevonden.",
+        "fact": "Senet, een renspel gespeeld op een raster van 30 vakjes, komt voor op Egyptische grafschilderingen en in grafgiften die teruggaan tot ongeveer 3100 v.Chr., wat het een van de oudste bekende spellen van de mensheid maakt."
+      },
+      "es": {
+        "hook": "El juego de mesa más antiguo conocido fue hallado enterrado junto a faraones.",
+        "fact": "El senet, un juego de carreras que se jugaba en una cuadrícula de 30 casillas, aparece en pinturas de tumbas egipcias y entre objetos funerarios que datan de alrededor del 3100 a.C., lo que lo convierte en uno de los juegos más antiguos conocidos de la humanidad."
+      }
+    }
   },
   {
     "id": "history-036",
@@ -806,7 +851,21 @@
     "tags": [
       "ancient-egypt",
       "animals"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Égyptiens momifiaient aussi leurs chats.",
+        "fact": "Les chats étaient sacrés pour la déesse Bastet dans l'Égypte antique, et les archéologues ont découvert d'immenses catacombes contenant des millions de chats momifiés offerts en ex-voto."
+      },
+      "nl": {
+        "hook": "De Egyptenaren mummificeerden ook hun katten.",
+        "fact": "Katten waren heilig voor de godin Bastet in het oude Egypte, en archeologen hebben enorme catacomben gevonden met miljoenen gemummificeerde katten die aan haar geofferd werden."
+      },
+      "es": {
+        "hook": "Los egipcios también momificaban a sus gatos.",
+        "fact": "Los gatos eran sagrados para la diosa Bastet en el antiguo Egipto, y los arqueólogos han hallado enormes catacumbas con millones de gatos momificados ofrecidos como exvotos."
+      }
+    }
   },
   {
     "id": "history-037",
@@ -816,7 +875,21 @@
     "tags": [
       "ancient-egypt",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un pharaon a tenté d'inventer le monothéisme — et cela ne lui a pas survécu.",
+        "fact": "Akhenaton a brièvement remplacé le panthéon traditionnel de l'Égypte par le culte d'un dieu solaire unique, Aton, vers 1350 av. J.-C. Après sa mort, les prêtres ont restauré les anciens dieux et se sont efforcés d'effacer son nom de l'histoire."
+      },
+      "nl": {
+        "hook": "Eén farao probeerde het monotheïsme uit te vinden — en het overleefde hem niet.",
+        "fact": "Achnaton verving rond 1350 v.Chr. kortstondig het traditionele Egyptische pantheon door de verering van één enkele zonnegod, Aton. Na zijn dood herstelden priesters de oude goden en probeerden ze zijn naam uit de geschiedenis te wissen."
+      },
+      "es": {
+        "hook": "Un faraón intentó inventar el monoteísmo, y no le sobrevivió.",
+        "fact": "Akenatón sustituyó brevemente el panteón tradicional de Egipto por la adoración de un único dios solar, Atón, hacia el 1350 a.C. Tras su muerte, los sacerdotes restauraron a los antiguos dioses y se esforzaron por borrar su nombre de la historia."
+      }
+    }
   },
   {
     "id": "history-038",
@@ -826,7 +899,21 @@
     "tags": [
       "ancient-egypt",
       "records"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Grande Pyramide a détenu un record mondial pendant près de 3 800 ans.",
+        "fact": "Achevée vers 2560 av. J.-C., la Grande Pyramide de Gizeh fut la structure la plus haute jamais construite par l'homme jusqu'à ce que la cathédrale de Lincoln, en Angleterre, la dépasse en 1311 de notre ère."
+      },
+      "nl": {
+        "hook": "De Grote Piramide hield bijna 3.800 jaar lang een wereldrecord.",
+        "fact": "De Grote Piramide van Gizeh, voltooid rond 2560 v.Chr., was het hoogste door mensen gebouwde bouwwerk ter wereld totdat de kathedraal van Lincoln in Engeland het in 1311 na Christus overtrof."
+      },
+      "es": {
+        "hook": "La Gran Pirámide mantuvo un récord mundial durante casi 3.800 años.",
+        "fact": "Terminada hacia el 2560 a.C., la Gran Pirámide de Guiza fue la estructura más alta construida por el hombre en la Tierra hasta que la catedral de Lincoln, en Inglaterra, la superó en 1311 d.C."
+      }
+    }
   },
   {
     "id": "history-039",
@@ -836,7 +923,21 @@
     "tags": [
       "ancient-egypt",
       "medicine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les médecins de l'Égypte antique pratiquaient déjà la chirurgie il y a 3 600 ans.",
+        "fact": "Le papyrus Edwin Smith, daté d'environ 1600 av. J.-C., est le plus ancien texte chirurgical connu au monde ; il décrit 48 cas de traitement de traumatismes avec un raisonnement remarquablement clinique, dénué de toute magie."
+      },
+      "nl": {
+        "hook": "Artsen in het oude Egypte voerden al 3.600 jaar geleden operaties uit.",
+        "fact": "De Edwin Smith-papyrus, gedateerd rond 1600 v.Chr., is de oudste bekende chirurgische tekst ter wereld en beschrijft 48 gevalsstudies van traumabehandeling met een opmerkelijk klinische, niet-magische redenering."
+      },
+      "es": {
+        "hook": "Los médicos del antiguo Egipto ya practicaban cirugía hace 3.600 años.",
+        "fact": "El papiro Edwin Smith, fechado hacia el 1600 a.C., es el texto quirúrgico más antiguo conocido en el mundo y describe 48 casos de tratamiento de traumatismos con un razonamiento notablemente clínico y sin magia."
+      }
+    }
   },
   {
     "id": "history-040",
@@ -846,7 +947,21 @@
     "tags": [
       "ancient-egypt",
       "art"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le visage le plus célèbre de l'Égypte antique n'est peut-être même pas fidèle à la réalité.",
+        "fact": "Le buste emblématique de la reine Néfertiti, découvert en 1912 et aujourd'hui conservé à Berlin, est devenu l'une des images les plus reproduites du monde antique — pourtant, on ne sait presque rien avec certitude de la fin de sa vie ou de son règne."
+      },
+      "nl": {
+        "hook": "Het beroemdste gezicht van het oude Egypte klopt misschien niet eens.",
+        "fact": "De iconische buste van koningin Nefertiti, ontdekt in 1912 en nu in Berlijn, is een van de meest gereproduceerde beelden uit de oude wereld geworden — toch is er vrijwel niets met zekerheid bekend over hoe haar leven of heerschappij eindigde."
+      },
+      "es": {
+        "hook": "El rostro más famoso del antiguo Egipto puede que ni siquiera sea fiel a la realidad.",
+        "fact": "El icónico busto de la reina Nefertiti, descubierto en 1912 y hoy en Berlín, se ha convertido en una de las imágenes más reproducidas del mundo antiguo, aunque casi no se sabe con certeza cómo terminaron realmente su vida o su reinado."
+      }
+    }
   },
   {
     "id": "history-041",
@@ -856,7 +971,21 @@
     "tags": [
       "mesopotamia",
       "literature"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus ancienne épopée conservée au monde contient un récit de déluge plus ancien que celui de Noé.",
+        "fact": "L'Épopée de Gilgamesh, un poème mésopotamien couché par écrit il y a plus de 4 000 ans, contient un récit de déluge étonnamment semblable à l'histoire biblique de Noé, mais qui la précède de plusieurs siècles."
+      },
+      "nl": {
+        "hook": "'s Werelds oudste bewaard gebleven epos bevat een zondvloedverhaal dat ouder is dan dat van Noach.",
+        "fact": "Het epos van Gilgamesj, een Mesopotamisch gedicht dat meer dan 4.000 jaar geleden werd opgetekend, bevat een zondvloedverhaal dat opvallend veel lijkt op het bijbelse verhaal van Noach, maar dit met eeuwen voorafgaat."
+      },
+      "es": {
+        "hook": "La epopeya más antigua que se conserva incluye un relato del diluvio anterior al de Noé.",
+        "fact": "La Epopeya de Gilgamesh, un poema mesopotámico puesto por escrito hace más de 4.000 años, contiene un relato de un gran diluvio sorprendentemente similar a la historia bíblica de Noé, pero que la precede por siglos."
+      }
+    }
   },
   {
     "id": "history-042",
@@ -866,7 +995,21 @@
     "tags": [
       "mesopotamia",
       "law"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "« Œil pour œil » provient d'un code de lois vieux de près de 4 000 ans.",
+        "fact": "Le Code d'Hammourabi, gravé vers 1754 av. J.-C. à Babylone, est l'un des plus anciens et des plus complets codes de lois écrits ; il affichait publiquement 282 lois afin que les sujets sachent exactement ce qu'on attendait d'eux."
+      },
+      "nl": {
+        "hook": "'Oog om oog' komt uit een bijna 4.000 jaar oude wetscode.",
+        "fact": "De Codex Hammurabi, rond 1754 v.Chr. gegraveerd in Babylon, is een van de vroegste en meest complete geschreven wetscodes; de 282 wetten werden publiek uitgestald zodat onderdanen precies wisten wat er van hen werd verwacht."
+      },
+      "es": {
+        "hook": "'Ojo por ojo' proviene de un código legal de casi 4.000 años de antigüedad.",
+        "fact": "El Código de Hammurabi, inscrito hacia el 1754 a.C. en Babilonia, es uno de los códigos legales escritos más antiguos y completos, y exhibía públicamente 282 leyes para que los súbditos supieran exactamente qué se esperaba de ellos."
+      }
+    }
   },
   {
     "id": "history-043",
@@ -876,7 +1019,21 @@
     "tags": [
       "mesopotamia",
       "writing"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'écriture a été inventée pour la comptabilité, pas pour la poésie.",
+        "fact": "Les Sumériens ont développé l'écriture cunéiforme vers 3200 av. J.-C., et les plus anciennes tablettes connues enregistrent des livraisons de céréales, des comptes fiscaux et des transactions commerciales, plutôt que de la littérature ou de l'histoire."
+      },
+      "nl": {
+        "hook": "Schrift werd uitgevonden voor boekhouding, niet voor poëzie.",
+        "fact": "De Sumeriërs ontwikkelden rond 3200 v.Chr. het spijkerschrift, en de vroegst bekende kleitabletten registreren graanleveringen, belastingrekeningen en handelstransacties, eerder dan literatuur of geschiedenis."
+      },
+      "es": {
+        "hook": "La escritura se inventó para llevar cuentas, no para la poesía.",
+        "fact": "Los sumerios desarrollaron la escritura cuneiforme hacia el 3200 a.C., y las tablillas más antiguas conocidas registran envíos de grano, cuentas fiscales y transacciones comerciales, en lugar de literatura o historia."
+      }
+    }
   },
   {
     "id": "history-044",
@@ -887,7 +1044,24 @@
     "tags": [
       "mesopotamia",
       "math"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La raison pour laquelle une heure compte 60 minutes remonte à l'Irak antique.",
+        "fact": "Les Sumériens utilisaient un système de numération en base 60 (sexagésimal), ce qui explique pourquoi les horloges modernes divisent les heures en 60 minutes et les cercles en 360 degrés, plus de 4 000 ans plus tard.",
+        "whyItMatters": "Un système numérique de la Mésopotamie de l'âge du bronze continue, discrètement, de structurer la façon dont le monde entier mesure le temps aujourd'hui."
+      },
+      "nl": {
+        "hook": "De reden waarom een uur 60 minuten telt, gaat terug tot het oude Irak.",
+        "fact": "De Sumeriërs gebruikten een talstelsel met grondtal 60 (sexagesimaal), waardoor moderne klokken uren nog altijd in 60 minuten verdelen en cirkels in 360 graden, meer dan 4.000 jaar later.",
+        "whyItMatters": "Een talstelsel uit het Mesopotamië van de bronstijd bepaalt vandaag nog steeds, ongemerkt, hoe de hele wereld de tijd bijhoudt."
+      },
+      "es": {
+        "hook": "La razón por la que un reloj tiene 60 minutos se remonta al antiguo Irak.",
+        "fact": "Los sumerios usaban un sistema numérico de base 60 (sexagesimal), por lo que los relojes modernos siguen dividiendo las horas en 60 minutos y los círculos en 360 grados, más de 4.000 años después.",
+        "whyItMatters": "Un sistema numérico de la Mesopotamia de la Edad de Bronce sigue estructurando, en silencio, cómo el mundo entero mide el tiempo hoy en día."
+      }
+    }
   },
   {
     "id": "history-045",
@@ -897,7 +1071,21 @@
     "tags": [
       "mesopotamia",
       "daily-life"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La bière pourrait être plus ancienne que la roue.",
+        "fact": "Les Sumériens brassaient déjà de la bière vers 4000 av. J.-C. et ont même écrit un hymne à Ninkasi, leur déesse de la bière, qui servait aussi de recette, l'une des plus anciennes connues."
+      },
+      "nl": {
+        "hook": "Bier is misschien wel ouder dan het wiel.",
+        "fact": "De Sumeriërs brouwden al rond 4000 v.Chr. bier en schreven zelfs een hymne aan Ninkasi, hun biergodin, die tevens dienstdeed als een van de oudst bekende bierrecepten."
+      },
+      "es": {
+        "hook": "La cerveza podría ser más antigua que la rueda.",
+        "fact": "Los sumerios ya elaboraban cerveza hacia el 4000 a.C. e incluso escribieron un himno a Ninkasi, su diosa de la cerveza, que funcionaba también como una de las recetas de cerveza más antiguas conocidas."
+      }
+    }
   },
   {
     "id": "history-046",
@@ -907,7 +1095,21 @@
     "tags": [
       "mesopotamia",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les temples mésopotamiens étaient construits pour s'élever vers le ciel, plate-forme après plate-forme.",
+        "fact": "Les ziggourats étaient d'immenses tours-temples à degrés construites par les Sumériens, les Babyloniens et les Assyriens, avec le sanctuaire du dieu placé au sommet — un modèle qui trouvera plus tard un écho dans le récit biblique de la tour de Babel."
+      },
+      "nl": {
+        "hook": "Mesopotamische tempels werden platform na platform opgebouwd, op weg naar de hemel.",
+        "fact": "Zikkoerats waren enorme getrapte tempeltorens, gebouwd door Sumeriërs, Babyloniërs en Assyriërs, met het heiligdom van de god op de top — een ontwerp dat later weerklonk in het bijbelse verhaal van de toren van Babel."
+      },
+      "es": {
+        "hook": "Los templos mesopotámicos se construían para alcanzar el cielo, plataforma a plataforma.",
+        "fact": "Los zigurats eran enormes torres-templo escalonadas construidas por sumerios, babilonios y asirios, con el santuario del dios ubicado en la cima, un diseño que más tarde resonaría en la historia bíblica de la Torre de Babel."
+      }
+    }
   },
   {
     "id": "history-047",
@@ -917,7 +1119,21 @@
     "tags": [
       "mesopotamia",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La roue n'a pas été inventée pour le transport.",
+        "fact": "Les premières roues connues en Mésopotamie, datant d'environ 3500 av. J.-C., servaient aux potiers à façonner l'argile — il a fallu plusieurs siècles de plus avant que quelqu'un ne songe à fixer des roues à un chariot."
+      },
+      "nl": {
+        "hook": "Het wiel werd niet uitgevonden voor transport.",
+        "fact": "De vroegste wielen in Mesopotamië, daterend van rond 3500 v.Chr., werden gebruikt door pottenbakkers om klei te vormen — het duurde nog enkele eeuwen voordat iemand op het idee kwam om wielen aan een kar te bevestigen."
+      },
+      "es": {
+        "hook": "La rueda no se inventó para el transporte.",
+        "fact": "Las ruedas más antiguas de Mesopotamia, que datan de alrededor del 3500 a.C., las usaban los alfareros para dar forma a la arcilla; pasaron varios siglos más antes de que a alguien se le ocurriera fijar ruedas a un carro."
+      }
+    }
   },
   {
     "id": "history-048",
@@ -927,7 +1143,21 @@
     "tags": [
       "ancient-greece",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une épave vieille de 2 000 ans contenait un ordinateur antique.",
+        "fact": "La machine d'Anticythère, récupérée dans l'épave d'un navire grec en 1901, est un dispositif à engrenages en bronze datant d'environ 100 av. J.-C., capable de prédire les éclipses et de suivre les cycles astronomiques — une technologie qui ne sera égalée que plus de mille ans plus tard."
+      },
+      "nl": {
+        "hook": "Een 2.000 jaar oud scheepswrak bevatte een oude computer.",
+        "fact": "Het mechanisme van Antikythera, geborgen uit een Grieks scheepswrak in 1901, is een bronzen tandwielentoestel uit ongeveer 100 v.Chr. dat verduisteringen kon voorspellen en astronomische cycli kon volgen — technologie die pas meer dan duizend jaar later opnieuw werd geëvenaard."
+      },
+      "es": {
+        "hook": "Un naufragio de hace 2.000 años contenía una computadora antigua.",
+        "fact": "El mecanismo de Anticitera, recuperado de un naufragio griego en 1901, es un dispositivo de engranajes de bronce de alrededor del 100 a.C. capaz de predecir eclipses y seguir ciclos astronómicos, una tecnología que no volvería a igualarse hasta más de mil años después."
+      }
+    }
   },
   {
     "id": "history-049",
@@ -937,7 +1167,21 @@
     "tags": [
       "ancient-greece",
       "sports"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Jeux olympiques antiques suspendaient les guerres et imposaient aux athlètes de concourir nus.",
+        "fact": "Une trêve sacrée appelée ekecheiria permettait aux athlètes et aux spectateurs de se rendre en toute sécurité à Olympie même en temps de guerre, et les concurrents disputaient traditionnellement les épreuves entièrement nus, une tradition liée aux idéaux grecs sur le corps."
+      },
+      "nl": {
+        "hook": "De antieke Olympische Spelen legden oorlogen stil en verplichtten atleten om naakt te wedstrijden.",
+        "fact": "Een heilige wapenstilstand, de ekecheiria, liet atleten en toeschouwers ook tijdens oorlogstijd veilig naar Olympia reizen, en deelnemers traden traditioneel volledig naakt aan, een gewoonte verbonden met Griekse idealen over het lichaam."
+      },
+      "es": {
+        "hook": "Los Juegos Olímpicos antiguos detenían las guerras y obligaban a los atletas a competir desnudos.",
+        "fact": "Una tregua sagrada llamada ekecheiria permitía a atletas y espectadores viajar con seguridad a Olimpia incluso en tiempos de guerra, y los competidores solían disputar las pruebas completamente desnudos, una tradición ligada a los ideales griegos sobre el cuerpo."
+      }
+    }
   },
   {
     "id": "history-050",
@@ -947,7 +1191,21 @@
     "tags": [
       "ancient-greece",
       "science"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Archimède a été tué en pleine résolution d'un problème de maths, en plein siège.",
+        "fact": "Lorsque les forces romaines mirent Syracuse à sac en 212 av. J.-C., le général avait ordonné qu'on épargne Archimède — mais un soldat le tua tout de même, apparemment parce que le mathématicien avait refusé d'interrompre un problème de géométrie qu'il traçait dans le sable."
+      },
+      "nl": {
+        "hook": "Archimedes werd gedood terwijl hij, midden in een beleg, aan het rekenen was.",
+        "fact": "Toen Romeinse troepen Syracuse in 212 v.Chr. plunderden, had de generaal bevolen Archimedes te sparen — maar een soldaat doodde hem toch, naar verluidt nadat de wiskundige weigerde te stoppen met een meetkundig probleem dat hij in het zand aan het uitwerken was."
+      },
+      "es": {
+        "hook": "Arquímedes murió resolviendo un problema de matemáticas en pleno asedio.",
+        "fact": "Cuando las fuerzas romanas saquearon Siracusa en el 212 a.C., el general había ordenado que perdonaran la vida a Arquímedes, pero un soldado lo mató de todos modos, al parecer después de que el matemático se negara a dejar de trabajar en un problema de geometría que trazaba en la arena."
+      }
+    }
   },
   {
     "id": "history-051",
@@ -957,7 +1215,21 @@
     "tags": [
       "ancient-greece",
       "philosophy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Athènes a condamné son philosophe le plus célèbre à mourir empoisonné.",
+        "fact": "En 399 av. J.-C., Socrate fut jugé et reconnu coupable de corruption de la jeunesse et d'impiété par un jury athénien, puis exécuté en buvant de la ciguë, un supplice qu'il aurait affronté avec un calme résolument philosophique."
+      },
+      "nl": {
+        "hook": "Athene veroordeelde zijn beroemdste filosoof tot de dood door vergif.",
+        "fact": "In 399 v.Chr. werd Socrates door een Atheense jury berecht en veroordeeld wegens het corrumperen van de jeugd en goddeloosheid, en geëxecuteerd door het drinken van dolle kervel, een dood die hij naar verluidt met kalme, filosofische vastberadenheid onderging."
+      },
+      "es": {
+        "hook": "Atenas condenó a su filósofo más famoso a morir envenenado.",
+        "fact": "En el 399 a.C., un jurado ateniense juzgó y condenó a Sócrates por corromper a la juventud e impiedad, y fue ejecutado bebiendo cicuta, una muerte que, según se dice, afrontó con serena resolución filosófica."
+      }
+    }
   },
   {
     "id": "history-052",
@@ -967,7 +1239,21 @@
     "tags": [
       "ancient-greece",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Grecs anciens se rendaient à flanc de montagne pour entendre une femme parler au nom des dieux.",
+        "fact": "Au temple d'Apollon à Delphes, une prêtresse appelée la Pythie prononçait des prophéties cryptiques que l'on croyait venir directement du dieu — certains géologues modernes soupçonnent qu'elle ait pu être affectée par des gaz naturels s'échappant de failles souterraines."
+      },
+      "nl": {
+        "hook": "Oude Grieken trokken naar een berghelling om een vrouw namens de goden te horen spreken.",
+        "fact": "In de tempel van Apollo in Delphi bracht een priesteres, de Pythia genaamd, cryptische voorspellingen uit die rechtstreeks van de god zouden komen — sommige moderne geologen vermoeden dat ze mogelijk beïnvloed werd door van nature vrijkomende gassen uit ondergrondse breuklijnen."
+      },
+      "es": {
+        "hook": "Los antiguos griegos viajaban hasta una ladera para escuchar a una mujer hablar en nombre de los dioses.",
+        "fact": "En el templo de Apolo en Delfos, una sacerdotisa llamada la Pitia pronunciaba profecías crípticas que se creía venían directamente del dios; algunos geólogos modernos sospechan que pudo haber estado afectada por gases naturales que se filtraban desde fallas subterráneas."
+      }
+    }
   },
   {
     "id": "history-053",
@@ -977,7 +1263,21 @@
     "tags": [
       "ancient-greece",
       "sports"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La course du marathon doit son nom à un coureur qui, selon la légende, est mort en portant une nouvelle.",
+        "fact": "Selon une tradition grecque plus tardive, un messager nommé Phidippidès aurait couru environ 42 kilomètres depuis le champ de bataille de Marathon jusqu'à Athènes pour annoncer une victoire sur les Perses en 490 av. J.-C., avant de s'effondrer et de mourir — inspirant la distance du marathon moderne."
+      },
+      "nl": {
+        "hook": "De marathon is genoemd naar een loper die, volgens de legende, stierf terwijl hij het nieuws bracht.",
+        "fact": "Volgens een latere Griekse overlevering rende een boodschapper genaamd Feidippides ongeveer 40 kilometer van het slagveld bij Marathon naar Athene om een overwinning op de Perzen in 490 v.Chr. aan te kondigen, waarna hij instortte en stierf — een verhaal dat de afstand van de moderne marathon inspireerde."
+      },
+      "es": {
+        "hook": "El maratón debe su nombre a un corredor que, según la leyenda, murió al dar la noticia.",
+        "fact": "Según una tradición griega posterior, un mensajero llamado Filípides corrió unos 40 kilómetros desde el campo de batalla de Maratón hasta Atenas para anunciar una victoria sobre los persas en el 490 a.C., y luego se desplomó y murió, lo que inspiró la distancia del maratón moderno."
+      }
+    }
   },
   {
     "id": "history-054",
@@ -988,7 +1288,24 @@
     "tags": [
       "ancient-greece",
       "governance"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le « berceau de la démocratie » n'autorisait pas la majorité de la population à voter.",
+        "fact": "Dans l'Athènes antique, seuls les citoyens hommes, libres et adultes pouvaient participer à l'assemblée — les femmes, les esclaves et les résidents étrangers, probablement majoritaires dans la population, en étaient totalement exclus.",
+        "whyItMatters": "C'est un bon rappel qui tempère l'idée que la démocratie athénienne antique ressemblait de près à une représentation universelle."
+      },
+      "nl": {
+        "hook": "De 'bakermat van de democratie' liet de meeste mensen niet stemmen.",
+        "fact": "In het oude Athene mochten alleen vrije, volwassen mannelijke burgers deelnemen aan de volksvergadering — vrouwen, slaven en buitenlandse ingezetenen, vermoedelijk de meerderheid van de bevolking, werden volledig uitgesloten.",
+        "whyItMatters": "Het is een nuttige correctie op het idee dat de Atheense democratie ook maar in de buurt kwam van universele vertegenwoordiging."
+      },
+      "es": {
+        "hook": "La 'cuna de la democracia' no dejaba votar a la mayoría de la población.",
+        "fact": "En la antigua Atenas, solo los ciudadanos varones, libres y adultos podían participar en la asamblea; las mujeres, los esclavos y los residentes extranjeros, probablemente la mayoría de la población, quedaban completamente excluidos.",
+        "whyItMatters": "Es un buen freno a la idea de que la democracia ateniense antigua se pareciera remotamente a una representación universal."
+      }
+    }
   },
   {
     "id": "history-055",
@@ -998,7 +1315,21 @@
     "tags": [
       "ancient-greece",
       "empires"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Alexandre le Grand a donné son nom à une vingtaine de villes environ.",
+        "fact": "Tandis que l'empire d'Alexandre s'étendait à travers l'Asie, il fonda une série de villes appelées Alexandrie, la plus célèbre étant celle d'Égypte, qui devint pendant des siècles un grand centre du savoir."
+      },
+      "nl": {
+        "hook": "Alexander de Grote noemde ongeveer twintig steden naar zichzelf.",
+        "fact": "Terwijl Alexanders rijk zich over Azië uitbreidde, stichtte hij een reeks steden die Alexandrië heetten, waarvan de bekendste die in Egypte is, die eeuwenlang een groot centrum van kennis werd."
+      },
+      "es": {
+        "hook": "Alejandro Magno puso su nombre a unas 20 ciudades.",
+        "fact": "A medida que el imperio de Alejandro se expandía por Asia, fundó una serie de ciudades llamadas Alejandría, la más famosa la de Egipto, que se convirtió durante siglos en un gran centro del saber."
+      }
+    }
   },
   {
     "id": "history-056",
@@ -1009,7 +1340,24 @@
     "tags": [
       "rome",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La coupole en béton d'un édifice romain a survécu à tous les empires qui l'ont construit.",
+        "fact": "La coupole du Panthéon à Rome, achevée vers 125 de notre ère sous Hadrien, reste près de 1 900 ans plus tard la plus grande coupole en béton non armé au monde, grâce à un mélange de béton à base de cendres volcaniques que les Romains avaient perfectionné.",
+        "whyItMatters": "Les ingénieurs modernes étudient encore la chimie du béton romain pour construire des structures plus durables et plus résistantes."
+      },
+      "nl": {
+        "hook": "De betonnen koepel van één Romeins gebouw heeft elk rijk overleefd dat hem bouwde.",
+        "fact": "De koepel van het Pantheon in Rome, voltooid rond 125 na Christus onder Hadrianus, is bijna 1.900 jaar later nog steeds 's werelds grootste ongewapende betonnen koepel, dankzij een mengsel van beton met vulkanische as dat de Romeinen tot in de puntjes hadden verfijnd.",
+        "whyItMatters": "Moderne ingenieurs bestuderen nog altijd de chemie van Romeins beton om duurzamere, langer meegaande constructies te bouwen."
+      },
+      "es": {
+        "hook": "La cúpula de hormigón de un edificio romano ha sobrevivido a todos los imperios que lo construyeron.",
+        "fact": "La cúpula del Panteón de Roma, terminada hacia el año 125 d.C. bajo Adriano, sigue siendo casi 1.900 años después la mayor cúpula de hormigón no armado del mundo, gracias a una mezcla de hormigón con ceniza volcánica que los romanos perfeccionaron.",
+        "whyItMatters": "Los ingenieros modernos todavía estudian la química del hormigón romano para construir estructuras más duraderas y resistentes."
+      }
+    }
   },
   {
     "id": "history-057",
@@ -1019,7 +1367,21 @@
     "tags": [
       "rome",
       "law"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier code de lois de Rome a été gravé dans la pierre et exposé au public.",
+        "fact": "La loi des Douze Tables, rédigée vers 450 av. J.-C., fut le premier code de lois écrit de Rome, affiché sur le Forum afin que les citoyens ordinaires — et pas seulement les aristocrates — puissent connaître leurs droits."
+      },
+      "nl": {
+        "hook": "Romes eerste wetboek werd in steen gebeiteld en openbaar tentoongesteld.",
+        "fact": "De Twaalf Tafelen, opgesteld rond 450 v.Chr., vormden Romes vroegste geschreven wetboek, en werden op het Forum tentoongesteld zodat gewone burgers — niet alleen aristocraten — hun rechten konden kennen."
+      },
+      "es": {
+        "hook": "El primer código legal de Roma se grabó en piedra y se expuso públicamente.",
+        "fact": "Las Doce Tablas, redactadas hacia el 450 a.C., fueron el primer código legal escrito de Roma, expuesto en el Foro para que los ciudadanos comunes —y no solo los aristócratas— pudieran conocer sus derechos."
+      }
+    }
   },
   {
     "id": "history-058",
@@ -1029,7 +1391,21 @@
     "tags": [
       "rome",
       "calendar"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le calendrier utilisé par la majeure partie du monde est né d'une réforme ordonnée par Jules César.",
+        "fact": "En 46 av. J.-C., César réforma en profondeur le calendrier chaotique de Rome avec l'aide de l'astronome Sosigène, en instaurant une année de 365 jours avec des années bissextiles — l'ancêtre direct du calendrier grégorien encore utilisé aujourd'hui dans le monde entier."
+      },
+      "nl": {
+        "hook": "De kalender die het grootste deel van de wereld gebruikt, begon als een reparatie op bevel van Julius Caesar.",
+        "fact": "In 46 v.Chr. hervormde Caesar met hulp van de astronoom Sosigenes de chaotische Romeinse kalender grondig en voerde hij een jaar van 365 dagen met schrikkeljaren in — de rechtstreekse voorloper van de gregoriaanse kalender die vandaag nog wereldwijd wordt gebruikt."
+      },
+      "es": {
+        "hook": "El calendario que usa la mayor parte del mundo comenzó como una reforma ordenada por Julio César.",
+        "fact": "En el 46 a.C., César reformó por completo el caótico calendario romano con ayuda del astrónomo Sosígenes, e introdujo un año de 365 días con años bisiestos, el antecesor directo del calendario gregoriano que aún se usa hoy en todo el mundo."
+      }
+    }
   },
   {
     "id": "history-059",
@@ -1039,7 +1415,21 @@
     "tags": [
       "rome",
       "religion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les prêtresses les plus sacrées de Rome pouvaient être enterrées vivantes si elles rompaient leurs vœux.",
+        "fact": "Les Vestales entretenaient la flamme sacrée éternelle de Rome et prononçaient des vœux de chasteté pour trente ans ; une Vestale qui rompait ce vœu pouvait être emmurée vivante en guise de châtiment, car les Romains considéraient qu'il était interdit de verser directement son sang."
+      },
+      "nl": {
+        "hook": "Romes heiligste priesteressen konden levend begraven worden als ze hun gelofte braken.",
+        "fact": "De Vestaalse maagden onderhielden Romes eeuwige heilige vlam en legden een dertigjarige kuisheidsgelofte af; een Vestaalse die deze gelofte brak, kon als straf levend ingemetseld worden, omdat de Romeinen het verboden achtten om rechtstreeks haar bloed te vergieten."
+      },
+      "es": {
+        "hook": "Las sacerdotisas más sagradas de Roma podían ser enterradas vivas por romper sus votos.",
+        "fact": "Las vírgenes vestales cuidaban la llama sagrada eterna de Roma y hacían votos de castidad por 30 años; una vestal que rompía ese voto podía ser emparedada viva como castigo, ya que los romanos consideraban prohibido derramar directamente su sangre."
+      }
+    }
   },
   {
     "id": "history-060",
@@ -1049,7 +1439,21 @@
     "tags": [
       "rome",
       "entertainment"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le stade de courses de chars de Rome éclipsait tous les stades construits depuis.",
+        "fact": "Le Circus Maximus pouvait, dit-on, accueillir jusqu'à environ 150 000 spectateurs, voire plus, ce qui en fait un stade plus grand que n'importe quel stade moderne au monde."
+      },
+      "nl": {
+        "hook": "Romes wagenrenstadion doet elk sportstadion dat sindsdien werd gebouwd verbleken.",
+        "fact": "De Circus Maximus kon naar verluidt tot ongeveer 150.000 toeschouwers of meer herbergen, waardoor hij groter was dan elk modern stadion ter wereld."
+      },
+      "es": {
+        "hook": "El estadio de carreras de carros de Roma empequeñecía a cualquier recinto deportivo construido desde entonces.",
+        "fact": "Se dice que el Circo Máximo podía albergar hasta unos 150.000 espectadores o más, lo que lo hace más grande que cualquier estadio moderno del mundo."
+      }
+    }
   },
   {
     "id": "history-061",
@@ -1059,7 +1463,21 @@
     "tags": [
       "rome",
       "leaders"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Empire romain a un jour été littéralement vendu au plus offrant.",
+        "fact": "En 193 de notre ère, après que la garde prétorienne eut tué l'empereur Pertinax, elle organisa une vente aux enchères publique pour le trône lui-même — un riche sénateur nommé Didius Julianus l'emporta, avant d'être tué à peine 66 jours après le début de son règne."
+      },
+      "nl": {
+        "hook": "Het Romeinse Rijk werd ooit letterlijk geveild aan de hoogste bieder.",
+        "fact": "In 193 na Christus, nadat de pretoriaanse garde keizer Pertinax had gedood, organiseerde ze een openbare veiling voor de troon zelf — een rijke senator, Didius Julianus, won de veiling en werd slechts 66 dagen na het begin van zijn heerschappij vermoord."
+      },
+      "es": {
+        "hook": "El Imperio romano fue literalmente subastado al mejor postor en una ocasión.",
+        "fact": "En el año 193 d.C., después de que la Guardia Pretoriana matara al emperador Pertinax, organizó una subasta pública por el trono mismo; un senador acaudalado llamado Didio Juliano la ganó, y fue asesinado apenas 66 días después de comenzar su reinado."
+      }
+    }
   },
   {
     "id": "history-062",
@@ -1069,7 +1487,21 @@
     "tags": [
       "rome",
       "math"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Rome antique a dirigé un empire sans jamais écrire le chiffre zéro.",
+        "fact": "Les chiffres romains n'avaient aucun symbole pour le zéro, si bien que les Romains recouraient à des outils séparés comme l'abaque pour des calculs que les mathématiques modernes traitent facilement grâce au zéro comme séparateur de position."
+      },
+      "nl": {
+        "hook": "Het oude Rome bestuurde een rijk zonder ooit het cijfer nul te schrijven.",
+        "fact": "Romeinse cijfers hadden geen symbool voor nul, waardoor Romeinen aparte hulpmiddelen zoals het telraam nodig hadden voor berekeningen die de moderne wiskunde met een nul als plaatshouder moeiteloos aankan."
+      },
+      "es": {
+        "hook": "La antigua Roma gobernó un imperio sin escribir jamás el número cero.",
+        "fact": "Los números romanos no tenían ningún símbolo para el cero, así que los romanos dependían de herramientas aparte, como el ábaco, para cálculos que las matemáticas modernas resuelven fácilmente gracias al cero como marcador de posición."
+      }
+    }
   },
   {
     "id": "history-063",
@@ -1079,7 +1511,21 @@
     "tags": [
       "rome",
       "rebellion"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un gladiateur a bien failli faire tomber la République romaine.",
+        "fact": "Spartacus, un gladiateur réduit en esclavage, mena de 73 à 71 av. J.-C. un immense soulèvement connu sous le nom de troisième guerre servile, battant plusieurs armées romaines avant d'être écrasé — des milliers de survivants furent crucifiés le long de la voie Appienne en guise d'avertissement."
+      },
+      "nl": {
+        "hook": "Een gladiator bracht de Romeinse Republiek bijna ten val.",
+        "fact": "Spartacus, een tot slaaf gemaakte gladiator, leidde van 73 tot 71 v.Chr. een enorme opstand die bekendstaat als de Derde Servische Oorlog, en versloeg meerdere Romeinse legers voordat hij verpletterd werd — duizenden overlevenden werden bij wijze van waarschuwing gekruisigd langs de Via Appia."
+      },
+      "es": {
+        "hook": "Un gladiador estuvo a punto de derrocar a la República romana.",
+        "fact": "Espartaco, un gladiador esclavizado, lideró entre el 73 y el 71 a.C. un enorme levantamiento conocido como la Tercera Guerra Servil, derrotando a varios ejércitos romanos antes de ser aplastado; miles de supervivientes fueron crucificados a lo largo de la Vía Apia como advertencia."
+      }
+    }
   },
   {
     "id": "history-064",
@@ -1089,7 +1535,21 @@
     "tags": [
       "china",
       "archaeology"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier empereur de Chine s'est fait construire une armée de 8 000 soldats en terre cuite grandeur nature pour le garder dans la mort.",
+        "fact": "L'armée de terre cuite, enterrée avec Qin Shi Huang vers 210 av. J.-C., est restée cachée pendant plus de deux millénaires, jusqu'à ce que des paysans en train de creuser un puits la découvrent par hasard en 1974."
+      },
+      "nl": {
+        "hook": "China's eerste keizer liet een leger van 8.000 levensgrote kleisoldaten bouwen om hem in de dood te bewaken.",
+        "fact": "Het Terracottaleger, begraven bij Qin Shi Huang rond 210 v.Chr., bleef meer dan tweeduizend jaar verborgen totdat boeren die een put groeven het in 1974 per toeval ontdekten."
+      },
+      "es": {
+        "hook": "El primer emperador de China mandó construir un ejército de 8.000 soldados de terracota a tamaño real para custodiarlo en la muerte.",
+        "fact": "El Ejército de Terracota, enterrado junto a Qin Shi Huang hacia el 210 a.C., permaneció oculto durante más de dos milenios hasta que unos campesinos que cavaban un pozo lo descubrieron por accidente en 1974."
+      }
+    }
   },
   {
     "id": "history-065",
@@ -1099,7 +1559,21 @@
     "tags": [
       "china",
       "leaders"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier empereur de Chine s'est peut-être empoisonné lui-même en cherchant l'immortalité.",
+        "fact": "Qin Shi Huang employait des alchimistes pour mettre au point des élixirs de vie éternelle, dont beaucoup contenaient du mercure — les historiens pensent que sa mort en 210 av. J.-C. fut probablement causée par les potions mêmes censées le maintenir en vie pour toujours."
+      },
+      "nl": {
+        "hook": "China's eerste keizer heeft zichzelf mogelijk vergiftigd tijdens zijn zoektocht naar onsterfelijkheid.",
+        "fact": "Qin Shi Huang zette alchemisten aan het werk om elixirs voor het eeuwige leven te ontwikkelen, waarvan er vele kwik bevatten — historici denken dat zijn dood in 210 v.Chr. waarschijnlijk veroorzaakt werd door diezelfde drankjes die hem voor altijd in leven moesten houden."
+      },
+      "es": {
+        "hook": "El primer emperador de China pudo haberse envenenado a sí mismo buscando la inmortalidad.",
+        "fact": "Qin Shi Huang empleó alquimistas para desarrollar elixires de vida eterna, muchos de los cuales contenían mercurio; los historiadores creen que su muerte en el 210 a.C. probablemente la causaron esas mismas pociones destinadas a mantenerlo vivo para siempre."
+      }
+    }
   },
   {
     "id": "history-066",
@@ -1109,7 +1583,21 @@
     "tags": [
       "china",
       "philosophy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les paroles d'un philosophe ont façonné le gouvernement chinois pendant plus de 2 000 ans.",
+        "fact": "Confucius, qui vécut aux VIe et Ve siècles av. J.-C., n'a jamais détenu de pouvoir politique durable de son vivant, et pourtant ses enseignements sur l'éthique et l'ordre social, réunis dans les Entretiens, sont devenus le fondement du gouvernement et de l'éducation en Chine pendant des millénaires."
+      },
+      "nl": {
+        "hook": "De uitspraken van één filosoof vormden meer dan 2.000 jaar lang het Chinese staatsbestuur.",
+        "fact": "Confucius, die leefde in de 6e en 5e eeuw v.Chr., bekleedde tijdens zijn leven nooit blijvende politieke macht, maar toch werden zijn leringen over ethiek en maatschappelijke orde, gebundeld in de Gesprekken, millennialang de basis van het Chinese bestuur en onderwijs."
+      },
+      "es": {
+        "hook": "Las enseñanzas de un filósofo moldearon el gobierno chino durante más de 2.000 años.",
+        "fact": "Confucio, que vivió en los siglos VI y V a.C., nunca ostentó un poder político duradero en vida, y sin embargo sus enseñanzas sobre ética y orden social, recopiladas en las Analectas, se convirtieron en el fundamento del gobierno y la educación en China durante milenios."
+      }
+    }
   },
   {
     "id": "history-067",
@@ -1120,7 +1608,24 @@
     "tags": [
       "china",
       "governance"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Chine impériale a mis en place la première méritocratie à grande échelle au monde.",
+        "fact": "Le système chinois d'examens impériaux, formalisé au VIIe siècle de notre ère, permettait aux hommes d'obtenir des postes gouvernementaux grâce à des épreuves rigoureuses plutôt que par la naissance noble, et resta en usage jusqu'à son abolition en 1905.",
+        "whyItMatters": "C'est un précurseur précoce et à grande échelle des idéaux méritocratiques que de nombreux systèmes de fonction publique modernes prétendent encore poursuivre."
+      },
+      "nl": {
+        "hook": "Het keizerlijke China voerde 's werelds eerste grootschalige meritocratie.",
+        "fact": "Het Chinese systeem van keizerlijke examens, geformaliseerd tegen de 7e eeuw na Christus, liet mannen overheidsposten verdienen via strenge examens in plaats van adellijke afkomst, en bleef in gebruik tot het in 1905 werd afgeschaft.",
+        "whyItMatters": "Het is een vroege, grootschalige voorloper van de meritocratische idealen die veel moderne ambtenarensystemen nog altijd zeggen na te streven."
+      },
+      "es": {
+        "hook": "La China imperial dirigió la primera meritocracia a gran escala del mundo.",
+        "fact": "El sistema chino de exámenes imperiales, formalizado hacia el siglo VII d.C., permitía a los hombres obtener cargos gubernamentales mediante pruebas rigurosas en lugar de por nacimiento noble, y siguió usándose hasta su abolición en 1905.",
+        "whyItMatters": "Es un precursor temprano y a gran escala de los ideales meritocráticos que muchos sistemas modernos de función pública todavía dicen perseguir."
+      }
+    }
   },
   {
     "id": "history-068",
@@ -1130,7 +1635,21 @@
     "tags": [
       "china",
       "astronomy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une « nouvelle étoile » visible en plein jour pendant des semaines a été consignée par des astronomes chinois il y a mille ans.",
+        "fact": "En 1054 de notre ère, des astronomes de la cour chinoise ont documenté une brillante « étoile invitée », assez lumineuse pour être visible en plein jour pendant environ trois semaines — les astronomes modernes l'identifient comme la supernova qui a créé la nébuleuse du Crabe."
+      },
+      "nl": {
+        "hook": "Chinese astronomen legden duizend jaar geleden een 'nieuwe ster' vast die weken bij daglicht zichtbaar was.",
+        "fact": "In 1054 na Christus documenteerden Chinese hofastronomen een schitterende 'gaststar' die zo helder was dat ze ongeveer drie weken lang overdag zichtbaar was — moderne astronomen identificeren dit als de supernova die de Krabnevel deed ontstaan."
+      },
+      "es": {
+        "hook": "Astrónomos chinos registraron hace mil años una 'nueva estrella' visible a plena luz del día durante semanas.",
+        "fact": "En el año 1054 d.C., astrónomos de la corte china documentaron una brillante 'estrella huésped' lo bastante luminosa como para verse de día durante unas tres semanas; los astrónomos modernos la identifican como la supernova que dio origen a la Nebulosa del Cangrejo."
+      }
+    }
   },
   {
     "id": "history-069",
@@ -1140,7 +1659,21 @@
     "tags": [
       "china",
       "military"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un manuel militaire vieux de 2 500 ans figure encore au programme des écoles de commerce.",
+        "fact": "L'Art de la guerre de Sun Tzu, écrit vers le Ve siècle av. J.-C., expose des principes stratégiques sur la ruse, le positionnement et l'adaptabilité, encore étudiés aujourd'hui bien au-delà du contexte militaire."
+      },
+      "nl": {
+        "hook": "Een 2.500 jaar oud militair handboek staat nog steeds op de leeslijst van businessscholen.",
+        "fact": "Sun Tzu's De kunst van het oorlogvoeren, geschreven rond de 5e eeuw v.Chr., zet strategische principes uiteen over misleiding, positionering en aanpassingsvermogen, die vandaag nog bestudeerd worden ver buiten de militaire context."
+      },
+      "es": {
+        "hook": "Un manual militar de 2.500 años sigue siendo lectura obligatoria en escuelas de negocios.",
+        "fact": "El Arte de la guerra de Sun Tzu, escrito hacia el siglo V a.C., expone principios estratégicos sobre el engaño, el posicionamiento y la adaptabilidad que todavía se estudian hoy mucho más allá del ámbito militar."
+      }
+    }
   },
   {
     "id": "history-070",
@@ -1150,7 +1683,21 @@
     "tags": [
       "china",
       "economics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le papier-monnaie était une invention chinoise, des siècles avant que l'Europe ne s'y mette.",
+        "fact": "La dynastie Song a émis le jiaozi, la première monnaie papier garantie par un gouvernement au monde, vers le XIe siècle de notre ère — l'Europe n'adoptera un usage répandu du papier-monnaie que des centaines d'années plus tard."
+      },
+      "nl": {
+        "hook": "Papiergeld was een Chinese uitvinding, eeuwen voordat Europa het overnam.",
+        "fact": "De Song-dynastie gaf rond de 11e eeuw na Christus de jiaozi uit, 's werelds eerste door de overheid gedekte papieren munteenheid — Europa zou pas honderden jaren later op grote schaal papiergeld invoeren."
+      },
+      "es": {
+        "hook": "El papel moneda fue una invención china, siglos antes de que Europa se pusiera al día.",
+        "fact": "La dinastía Song emitió el jiaozi, la primera moneda de papel respaldada por un gobierno en el mundo, hacia el siglo XI d.C.; Europa no adoptaría el papel moneda de forma generalizada hasta cientos de años después."
+      }
+    }
   },
   {
     "id": "history-071",
@@ -1161,7 +1708,24 @@
     "tags": [
       "india",
       "education"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une université indienne antique hébergeait des milliers de moines venus de toute l'Asie.",
+        "fact": "Nalanda, fondée en Inde vers le Ve siècle de notre ère, est considérée comme l'une des premières grandes universités-internats au monde, attirant des savants venus d'aussi loin que la Chine et l'Asie centrale, avant d'être détruite en 1193.",
+        "whyItMatters": "C'est un précédent frappant du modèle d'université internationale et résidentielle, bien avant l'existence des plus anciennes universités d'Europe."
+      },
+      "nl": {
+        "hook": "Eén oude Indiase universiteit huisvestte duizenden monniken uit heel Azië.",
+        "fact": "Nalanda, gesticht in India rond de 5e eeuw na Christus, wordt beschouwd als een van 's werelds eerste grote internaatsuniversiteiten, die geleerden aantrok van zo ver als China en Centraal-Azië, tot ze in 1193 werd verwoest.",
+        "whyItMatters": "Het is een opmerkelijk precedent voor het internationale, residentiële universiteitsmodel, lang voordat Europa's oudste universiteiten bestonden."
+      },
+      "es": {
+        "hook": "Una antigua universidad india albergaba a miles de monjes de toda Asia.",
+        "fact": "Nalanda, fundada en India hacia el siglo V d.C., se considera una de las primeras grandes universidades residenciales del mundo, y atraía a eruditos de lugares tan lejanos como China y Asia Central, antes de ser destruida en 1193.",
+        "whyItMatters": "Es un precedente notable del modelo de universidad internacional y residencial, mucho antes de que existieran las universidades más antiguas de Europa."
+      }
+    }
   },
   {
     "id": "history-072",
@@ -1171,7 +1735,21 @@
     "tags": [
       "india",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une civilisation de l'âge du bronze avait la plomberie intérieure avant presque tout le monde.",
+        "fact": "Les villes de la civilisation de la vallée de l'Indus, comme Mohenjo-daro, disposaient dès 2500 av. J.-C. de systèmes de drainage couverts et de canalisations d'égout en briques standardisées, l'un des systèmes d'assainissement urbain les plus avancés du monde antique."
+      },
+      "nl": {
+        "hook": "Een bronstijdbeschaving had binnenshuis sanitair vóór bijna iedereen anders.",
+        "fact": "Steden van de Indusvallei-beschaving, zoals Mohenjo-daro, hadden al rond 2500 v.Chr. overdekte afwateringssystemen en gestandaardiseerde rioolbuizen van baksteen, een van de meest geavanceerde stedelijke sanitaire systemen van de oude wereld."
+      },
+      "es": {
+        "hook": "Una civilización de la Edad de Bronce tuvo plomería interior antes que casi cualquier otra.",
+        "fact": "Las ciudades de la civilización del valle del Indo, como Mohenjo-daro, contaban ya hacia el 2500 a.C. con sistemas de drenaje cubiertos y canales de alcantarillado de ladrillo estandarizados, entre los sistemas de saneamiento urbano más avanzados del mundo antiguo."
+      }
+    }
   },
   {
     "id": "history-073",
@@ -1182,7 +1760,24 @@
     "tags": [
       "india",
       "math"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le zéro tel que nous l'utilisons a été formalisé par un mathématicien indien.",
+        "fact": "Bien que des symboles de position aient existé plus tôt ailleurs, le mathématicien indien Brahmagupta fut le premier à définir le zéro comme un nombre à part entière, doté de ses propres règles mathématiques, dans un texte de 628 de notre ère.",
+        "whyItMatters": "Cette formalisation sous-tend pratiquement toutes les mathématiques, les sciences et l'informatique modernes."
+      },
+      "nl": {
+        "hook": "Het getal nul zoals wij het gebruiken, werd geformaliseerd door een Indiase wiskundige.",
+        "fact": "Hoewel er elders al eerder plaatshoudersymbolen bestonden, was de Indiase wiskundige Brahmagupta de eerste die nul definieerde als een getal met eigen wiskundige regels, in een tekst uit 628 na Christus.",
+        "whyItMatters": "Die formalisering vormt de basis van vrijwel de gehele moderne wiskunde, wetenschap en informatica."
+      },
+      "es": {
+        "hook": "El número cero tal como lo usamos hoy fue formalizado por un matemático indio.",
+        "fact": "Aunque en otros lugares ya existían antes símbolos de posición, el matemático indio Brahmagupta fue el primero en definir el cero como un número con sus propias reglas matemáticas, en un texto del año 628 d.C.",
+        "whyItMatters": "Esa formalización sustenta prácticamente toda la matemática, la ciencia y la informática modernas."
+      }
+    }
   },
   {
     "id": "history-074",
@@ -1192,7 +1787,21 @@
     "tags": [
       "india",
       "leaders"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un empereur fut si horrifié par sa propre guerre qu'il renonça entièrement à la violence.",
+        "fact": "Après la guerre du Kalinga, d'une brutalité sanglante, vers 261 av. J.-C., l'empereur maurya Ashoka se convertit au bouddhisme et fit graver, sur des piliers et des parois rocheuses à travers tout son empire, des édits prônant la non-violence et une gouvernance morale."
+      },
+      "nl": {
+        "hook": "Een keizer was zo geschokt door zijn eigen oorlog dat hij het geweld volledig afzwoer.",
+        "fact": "Na de gruwelijk bloedige Kalinga-oorlog rond 261 v.Chr. bekeerde de Maurya-keizer Ashoka zich tot het boeddhisme en liet hij op zuilen en rotswanden door zijn hele rijk edicten uithouwen die geweldloosheid en moreel bestuur bepleitten."
+      },
+      "es": {
+        "hook": "Un emperador quedó tan horrorizado por su propia guerra que renunció por completo a la violencia.",
+        "fact": "Tras la brutal y sangrienta guerra de Kalinga hacia el 261 a.C., el emperador maurya Ashoka se convirtió al budismo y mandó grabar edictos que promovían la no violencia y el buen gobierno en pilares y paredes rocosas por todo su imperio."
+      }
+    }
   },
   {
     "id": "history-075",
@@ -1202,7 +1811,21 @@
     "tags": [
       "india",
       "games"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les échecs ont commencé comme une simulation de champ de bataille en Inde.",
+        "fact": "Le jeu de chaturanga est apparu en Inde vers le VIe siècle de notre ère, représentant quatre divisions d'une armée antique ; il se répandit ensuite en Perse et dans le monde islamique avant d'évoluer vers les échecs modernes."
+      },
+      "nl": {
+        "hook": "Schaken begon als een slagveldsimulatie in India.",
+        "fact": "Het spel chaturanga ontstond in India rond de 6e eeuw na Christus en stelde vier onderdelen van een antiek leger voor; het verspreidde zich later via Perzië en de islamitische wereld voordat het evolueerde tot het moderne schaken."
+      },
+      "es": {
+        "hook": "El ajedrez empezó como una simulación de campo de batalla en India.",
+        "fact": "El juego del chaturanga surgió en India hacia el siglo VI d.C. y representaba cuatro divisiones de un ejército antiguo; más tarde se extendió por Persia y el mundo islámico antes de evolucionar hasta convertirse en el ajedrez moderno."
+      }
+    }
   },
   {
     "id": "history-076",
@@ -1212,7 +1835,21 @@
     "tags": [
       "india",
       "invention"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'« acier de Damas » était en réalité, à l'origine, de l'acier indien.",
+        "fact": "L'acier wootz, produit dans le sud de l'Inde et au Sri Lanka à partir d'environ 300 av. J.-C., était exporté vers le Moyen-Orient, où des forgerons en tiraient des lames si renommées qu'elles finirent par être connues dans le monde entier sous le nom d'acier de Damas."
+      },
+      "nl": {
+        "hook": "'Damascusstaal' was oorspronkelijk eigenlijk Indiaas staal.",
+        "fact": "Wootzstaal, geproduceerd in Zuid-India en Sri Lanka vanaf ongeveer 300 v.Chr., werd uitgevoerd naar het Midden-Oosten, waar smeden er kling na kling van smeedden die zo befaamd werden dat ze wereldwijd bekendstonden als Damascusstaal."
+      },
+      "es": {
+        "hook": "El 'acero de Damasco' en realidad empezó siendo acero indio.",
+        "fact": "El acero wootz, producido en el sur de India y Sri Lanka desde alrededor del 300 a.C., se exportaba a Oriente Medio, donde los herreros forjaban con él hojas tan célebres que llegaron a conocerse en todo el mundo como acero de Damasco."
+      }
+    }
   },
   {
     "id": "history-077",
@@ -1222,7 +1859,21 @@
     "tags": [
       "maya",
       "astronomy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Mayas ont suivi la planète Vénus avec une précision remarquable — sans télescopes.",
+        "fact": "Les astronomes mayas ont mis au point un calendrier du Compte long et observé de près les cycles de Vénus, consignant ses mouvements dans le Codex de Dresde avec une précision qui impressionne les astronomes encore aujourd'hui."
+      },
+      "nl": {
+        "hook": "De Maya's volgden de planeet Venus met opmerkelijke precisie — zonder telescopen.",
+        "fact": "Maya-astronomen ontwikkelden een Lange Telling-kalender en observeerden de cycli van Venus nauwgezet, waarbij ze de bewegingen ervan optekenden in de Dresdencodex, met een nauwkeurigheid die astronomen ook vandaag nog verbaast."
+      },
+      "es": {
+        "hook": "Los mayas siguieron el planeta Venus con una precisión notable, sin telescopios.",
+        "fact": "Los astrónomos mayas desarrollaron un calendario de Cuenta Larga y observaron de cerca los ciclos de Venus, registrando sus movimientos en el Códice de Dresde con una precisión que sigue impresionando a los astrónomos hoy en día."
+      }
+    }
   },
   {
     "id": "history-078",
@@ -1232,7 +1883,21 @@
     "tags": [
       "inca",
       "administration"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Incas ont dirigé un empire couvrant tout un continent sans langue écrite.",
+        "fact": "Au lieu de l'écriture, les Incas enregistraient les informations numériques et administratives à l'aide de quipus — des systèmes élaborés de cordelettes nouées et colorées — pour gérer tout, des données de recensement aux registres fiscaux."
+      },
+      "nl": {
+        "hook": "De Inca's bestuurden een rijk dat een heel continent besloeg, zonder geschreven taal.",
+        "fact": "In plaats van schrift registreerden de Inca's numerieke en administratieve gegevens met quipu's — uitgebreide systemen van geknoopte, gekleurde koorden — om alles bij te houden, van volkstellingsgegevens tot belastingregisters."
+      },
+      "es": {
+        "hook": "Los incas gobernaron un imperio que abarcaba todo un continente sin lengua escrita.",
+        "fact": "En lugar de escritura, los incas registraban información numérica y administrativa mediante quipus, elaborados sistemas de cuerdas anudadas y de colores, con los que gestionaban desde datos censales hasta registros fiscales."
+      }
+    }
   },
   {
     "id": "history-079",
@@ -1242,7 +1907,21 @@
     "tags": [
       "inca",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les pierres du Machu Picchu s'emboîtent sans une seule goutte de mortier.",
+        "fact": "Les bâtisseurs incas ont taillé les blocs de pierre du Machu Picchu avec une telle précision que de nombreux murs tiennent uniquement grâce à des joints emboîtés, certains si serrés qu'on ne peut, dit-on, même pas y glisser la lame d'un couteau."
+      },
+      "nl": {
+        "hook": "De stenen van Machu Picchu passen in elkaar zonder een druppel mortel.",
+        "fact": "Inca-bouwers vormden de stenen blokken van Machu Picchu zo precies dat veel muren enkel dankzij ineensluitende voegen bijeenblijven, sommige zo strak dat er beroemd genoeg geen mesje tussen kan."
+      },
+      "es": {
+        "hook": "Las piedras de Machu Picchu encajan sin una gota de mortero.",
+        "fact": "Los constructores incas tallaron los bloques de piedra de Machu Picchu con tanta precisión que muchos muros se mantienen unidos únicamente por juntas entrelazadas, algunas tan ajustadas que, según se dice, ni siquiera cabe la hoja de un cuchillo entre ellas."
+      }
+    }
   },
   {
     "id": "history-080",
@@ -1252,7 +1931,21 @@
     "tags": [
       "aztec",
       "agriculture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Aztèques cultivaient sur des îles flottantes artificielles.",
+        "fact": "Les chinampas étaient des parcelles créées par l'homme à partir de boue et de végétation sur les lacs peu profonds autour de Tenochtitlan, formant l'un des systèmes agricoles les plus productifs du monde préindustriel."
+      },
+      "nl": {
+        "hook": "De Azteken verbouwden gewassen op kunstmatige drijvende eilanden.",
+        "fact": "Chinampa's waren door mensen aangelegde percelen, opgebouwd uit modder en plantenresten op de ondiepe meren rond Tenochtitlan, en vormden een van de meest productieve landbouwsystemen van de pre-industriële wereld."
+      },
+      "es": {
+        "hook": "Los aztecas cultivaban en islas flotantes artificiales.",
+        "fact": "Las chinampas eran parcelas creadas por el hombre a partir de barro y vegetación en los lagos poco profundos alrededor de Tenochtitlan, y formaban uno de los sistemas agrícolas más productivos del mundo preindustrial."
+      }
+    }
   },
   {
     "id": "history-081",
@@ -1262,7 +1955,21 @@
     "tags": [
       "maya",
       "math"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Mayas ont inventé le chiffre zéro de manière indépendante, sans aucun contact avec l'Inde.",
+        "fact": "En utilisant un système de numération en base 20, les mathématiciens mayas ont développé leur propre concept de zéro des siècles avant que l'idée n'atteigne l'Europe depuis l'Asie — une invention parallèle née entièrement de manière autonome."
+      },
+      "nl": {
+        "hook": "De Maya's vonden het getal nul onafhankelijk uit, zonder enig contact met India.",
+        "fact": "Met behulp van een talstelsel met grondtal 20 ontwikkelden Maya-wiskundigen hun eigen concept van nul, eeuwen voordat het idee vanuit Azië Europa bereikte — een parallelle uitvinding die volledig op zichzelf ontstond."
+      },
+      "es": {
+        "hook": "Los mayas inventaron el número cero de forma independiente, sin ningún contacto con India.",
+        "fact": "Usando un sistema numérico de base 20, los matemáticos mayas desarrollaron su propio concepto del cero siglos antes de que la idea llegara a Europa desde Asia, una invención paralela surgida de forma totalmente autónoma."
+      }
+    }
   },
   {
     "id": "history-082",
@@ -1273,7 +1980,24 @@
     "tags": [
       "pre-columbian",
       "cities"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une ville américaine précolombienne près de Saint-Louis rivalisait en taille avec Londres.",
+        "fact": "Cahokia, près de l'actuelle Saint-Louis, était vers 1100 de notre ère la plus grande agglomération au nord du Mexique, avec une population qui aurait pu rivaliser avec celle de Londres à l'époque, bâtie autour d'immenses tertres de terre.",
+        "whyItMatters": "Cela renverse l'idée reçue selon laquelle l'Amérique du Nord précolombienne n'aurait connu aucun grand centre urbain."
+      },
+      "nl": {
+        "hook": "Een precolumbiaanse Amerikaanse stad bij St. Louis kon qua omvang wedijveren met Londen.",
+        "fact": "Cahokia, nabij het huidige St. Louis, was rond 1100 na Christus de grootste nederzetting ten noorden van Mexico, met een bevolking die mogelijk die van het toenmalige Londen evenaarde, gebouwd rond enorme aarden heuvels.",
+        "whyItMatters": "Het weerlegt de aanname dat precolumbiaans Noord-Amerika geen grote stedelijke centra kende."
+      },
+      "es": {
+        "hook": "Una ciudad americana precolombina cerca de St. Louis rivalizaba en tamaño con Londres.",
+        "fact": "Cahokia, cerca de la actual St. Louis, fue hacia el año 1100 d.C. el asentamiento más grande al norte de México, con una población que quizá rivalizaba con la de la Londres de la época, construida en torno a enormes montículos de tierra.",
+        "whyItMatters": "Esto desmonta la suposición de que la América del Norte precolombina carecía de grandes centros urbanos."
+      }
+    }
   },
   {
     "id": "history-083",
@@ -1283,7 +2007,21 @@
     "tags": [
       "inca",
       "engineering"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Incas ont construit des dizaines de milliers de kilomètres de routes sans jamais utiliser la roue.",
+        "fact": "Le réseau routier du Qhapaq Ñan s'étendait sur une longueur estimée entre 25 000 et 40 000 kilomètres à travers les Andes, construit et entretenu sans animaux de trait ni chariots à roues, s'appuyant à la place sur des coureurs-relais appelés chasquis pour transmettre les messages."
+      },
+      "nl": {
+        "hook": "De Inca's bouwden tienduizenden kilometers wegen zonder ooit het wiel te gebruiken.",
+        "fact": "Het wegennet van de Qhapaq Ñan strekte zich naar schatting 25.000 tot 40.000 kilometer uit door de Andes, aangelegd en onderhouden zonder lastdieren of wielkarren, en steunde in plaats daarvan op estafetterenners, chasquis genaamd, om boodschappen over te brengen."
+      },
+      "es": {
+        "hook": "Los incas construyeron decenas de miles de kilómetros de caminos sin usar jamás la rueda.",
+        "fact": "La red vial del Qhapaq Ñan se extendía, según estimaciones, entre 25.000 y 40.000 kilómetros a través de los Andes, construida y mantenida sin animales de tiro ni carros con ruedas, apoyándose en cambio en corredores de relevos llamados chasquis para transmitir mensajes."
+      }
+    }
   },
   {
     "id": "history-084",
@@ -1293,7 +2031,21 @@
     "tags": [
       "pre-columbian",
       "sports"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Mésoaméricains pratiquaient un sport rituel avec des balles en caoutchouc 3 000 ans avant que le caoutchouc n'atteigne l'Europe.",
+        "fact": "Le jeu de balle mésoaméricain, pratiqué dans toute la région depuis les Olmèques, utilisait des balles en caoutchouc plein sur un terrain de pierre et revêtait, dans certaines cultures, une profonde signification rituelle pouvant aller jusqu'au sacrifice des joueurs."
+      },
+      "nl": {
+        "hook": "Mesoamerikanen speelden al 3.000 jaar voordat rubber Europa bereikte een rituele balsport met rubberen ballen.",
+        "fact": "Het Mesoamerikaanse balspel, gespeeld in de hele regio vanaf de Olmeken, gebruikte massieve rubberen ballen op een stenen speelveld en had in sommige culturen een diepe rituele betekenis die kon eindigen met het offeren van spelers."
+      },
+      "es": {
+        "hook": "Los mesoamericanos jugaban un deporte ritual con pelotas de goma 3.000 años antes de que la goma llegara a Europa.",
+        "fact": "El juego de pelota mesoamericano, practicado en toda la región desde los olmecas en adelante, usaba pelotas de goma maciza en una cancha de piedra y, en algunas culturas, tenía un profundo significado ritual que podía terminar en el sacrificio de los jugadores."
+      }
+    }
   },
   {
     "id": "history-085",
@@ -1304,7 +2056,24 @@
     "tags": [
       "africa",
       "mali-empire"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un roi africain a distribué tant d'or qu'il a fait s'effondrer toute une économie régionale.",
+        "fact": "Mansa Moussa, de l'Empire du Mali, souvent cité comme l'individu le plus riche de l'histoire, distribua une telle quantité d'or lors de son pèlerinage à La Mecque en 1324 qu'il aurait, selon les récits, fait chuter le prix de l'or au Caire pendant des années.",
+        "whyItMatters": "C'est l'un des premiers exemples documentés d'une seule personne dont les dépenses ont visiblement fait bouger les marchés internationaux."
+      },
+      "nl": {
+        "hook": "Eén Afrikaanse koning gaf zoveel goud weg dat hij een hele regionale economie deed instorten.",
+        "fact": "Mansa Musa van het Malinese Rijk, vaak aangeduid als de rijkste persoon uit de geschiedenis, verdeelde tijdens zijn pelgrimstocht naar Mekka in 1324 zulke enorme hoeveelheden goud dat hij naar verluidt jarenlang de goudprijs in Caïro drukte.",
+        "whyItMatters": "Het is een van de vroegste gedocumenteerde voorbeelden van de uitgaven van één persoon die zichtbaar internationale markten beïnvloedden."
+      },
+      "es": {
+        "hook": "Un rey africano regaló tanto oro que hundió toda una economía regional.",
+        "fact": "Mansa Musa, del Imperio de Malí, a menudo citado como el individuo más rico de la historia, repartió tal cantidad de oro durante su peregrinación a La Meca en 1324 que, según se cuenta, deprimió el precio del oro en El Cairo durante años.",
+        "whyItMatters": "Es uno de los primeros ejemplos documentados del gasto de una sola persona moviendo visiblemente los mercados internacionales."
+      }
+    }
   },
   {
     "id": "history-086",
@@ -1314,7 +2083,21 @@
     "tags": [
       "africa",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un royaume africain a construit d'immenses murs de pierre sans une seule goutte de mortier.",
+        "fact": "Le Grand Zimbabwe, capitale d'un puissant royaume africain médiéval, comportait des murs en pierre sèche de plus de 11 mètres de haut, assemblés avec précision sans aucun liant, tenant debout depuis des siècles."
+      },
+      "nl": {
+        "hook": "Een Afrikaans koninkrijk bouwde massieve stenen muren zonder een druppel mortel.",
+        "fact": "Great Zimbabwe, hoofdstad van een machtig middeleeuws Afrikaans koninkrijk, had droogstenen muren van meer dan 11 meter hoog, nauwkeurig ineengepast zonder enig bindmiddel, en die al eeuwenlang overeind staan."
+      },
+      "es": {
+        "hook": "Un reino africano construyó enormes muros de piedra sin una gota de mortero.",
+        "fact": "El Gran Zimbabue, capital de un poderoso reino africano medieval, tenía muros de piedra seca de más de 11 metros de altura, ensamblados con precisión sin ningún material aglutinante, que llevan siglos en pie."
+      }
+    }
   },
   {
     "id": "history-087",
@@ -1324,7 +2107,21 @@
     "tags": [
       "africa",
       "education"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une ville d'Afrique de l'Ouest abritait l'une des grandes bibliothèques du monde antique.",
+        "fact": "Tombouctou, qui faisait partie de l'Empire du Mali, abritait des centres de savoir comme Sankoré, qui conservaient des centaines de milliers de manuscrits couvrant l'astronomie, le droit, la médecine et la théologie."
+      },
+      "nl": {
+        "hook": "Een West-Afrikaanse stad herbergde een van de grote bibliotheken van de oude wereld.",
+        "fact": "Timboektoe, onderdeel van het Malinese Rijk, was de thuisbasis van kenniscentra zoals Sankore, die honderdduizenden manuscripten huisvestten over astronomie, recht, geneeskunde en theologie."
+      },
+      "es": {
+        "hook": "Una ciudad de África Occidental albergó una de las grandes bibliotecas del mundo antiguo.",
+        "fact": "Tombuctú, parte del Imperio de Malí, albergaba centros de erudición como Sankore, que reunían cientos de miles de manuscritos sobre astronomía, derecho, medicina y teología."
+      }
+    }
   },
   {
     "id": "history-088",
@@ -1334,7 +2131,21 @@
     "tags": [
       "africa",
       "aksum"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un ancien royaume d'Afrique de l'Est frappait sa propre monnaie et érigeait des monuments de pierre hauts comme des gratte-ciel.",
+        "fact": "Le royaume d'Aksoum, dans ce qui est aujourd'hui l'Éthiopie et l'Érythrée, frappait sa propre monnaie d'or, d'argent et de bronze, et sculptait d'imposants obélisques de granit, certains de plus de 20 mètres de haut, comme monuments funéraires royaux."
+      },
+      "nl": {
+        "hook": "Een oud Oost-Afrikaans koninkrijk sloeg zijn eigen munten en richtte torenhoge stenen monumenten op.",
+        "fact": "Het koninkrijk Aksum, in wat nu Ethiopië en Eritrea is, gaf eigen gouden, zilveren en bronzen munten uit en hakte imposante granieten obelisken uit, sommige meer dan 20 meter hoog, als koninklijke grafmonumenten."
+      },
+      "es": {
+        "hook": "Un antiguo reino de África Oriental acuñaba su propia moneda y erigía monumentos de piedra del tamaño de rascacielos.",
+        "fact": "El Reino de Aksum, en lo que hoy son Etiopía y Eritrea, acuñaba su propia moneda de oro, plata y bronce, y esculpía imponentes obeliscos de granito, algunos de más de 20 metros de altura, como monumentos funerarios reales."
+      }
+    }
   },
   {
     "id": "history-089",
@@ -1344,7 +2155,21 @@
     "tags": [
       "africa",
       "kush"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il y a plus de pyramides au Soudan qu'en Égypte.",
+        "fact": "L'ancien royaume de Koush, centré sur ce qui est aujourd'hui le Soudan, a construit plus de 200 pyramides — plus du double de l'Égypte — bien que de taille plus modeste et aux pentes plus abruptes."
+      },
+      "nl": {
+        "hook": "Er staan meer piramides in Soedan dan in Egypte.",
+        "fact": "Het oude koninkrijk Koesj, gecentreerd in wat nu Soedan is, bouwde meer dan 200 piramides — meer dan het dubbele van Egypte — al waren ze kleiner van schaal en met steilere zijden gebouwd."
+      },
+      "es": {
+        "hook": "Hay más pirámides en Sudán que en Egipto.",
+        "fact": "El antiguo Reino de Kush, centrado en lo que hoy es Sudán, construyó más de 200 pirámides —más del doble que Egipto—, aunque de menor tamaño y con lados más empinados."
+      }
+    }
   },
   {
     "id": "history-090",
@@ -1354,7 +2179,21 @@
     "tags": [
       "africa",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une église entière a été creusée vers le bas dans un seul bloc de roche.",
+        "fact": "Les églises rupestres éthiopiennes de Lalibela ont été creusées directement dans la roche volcanique aux XIIe et XIIIe siècles, chaque édifice — murs, toit, fenêtres et intérieur — étant taillé dans un seul et même bloc de pierre continu."
+      },
+      "nl": {
+        "hook": "Een hele kerk werd van bovenaf uit één rotsblok uitgehouwen.",
+        "fact": "De rotskerken van Lalibela in Ethiopië werden in de 12e en 13e eeuw rechtstreeks uit vulkanisch gesteente uitgegraven, waarbij elk bouwwerk — muren, dak, ramen en interieur — uit één aaneengesloten stuk steen werd gebeiteld."
+      },
+      "es": {
+        "hook": "Toda una iglesia fue excavada hacia abajo a partir de un único bloque de roca.",
+        "fact": "Las iglesias excavadas en la roca de Lalibela, en Etiopía, se tallaron directamente en el lecho volcánico durante los siglos XII y XIII, con cada estructura —muros, techo, ventanas e interior— cincelada en una sola pieza continua de piedra."
+      }
+    }
   },
   {
     "id": "history-091",
@@ -1364,7 +2203,21 @@
     "tags": [
       "africa",
       "trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un empire ouest-africain s'est enrichi en échangeant de l'or contre du sel, once pour once.",
+        "fact": "L'Empire du Ghana, prospère du VIe au XIIIe siècle environ, contrôlait des routes commerciales transsahariennes essentielles et s'enrichit considérablement en taxant l'échange de l'or venu du sud contre le sel venu du Sahara."
+      },
+      "nl": {
+        "hook": "Eén West-Afrikaans rijk werd rijk door goud te ruilen tegen zout, ons voor ons.",
+        "fact": "Het Rijk van Ghana, bloeiend van ongeveer de 6e tot de 13e eeuw, controleerde belangrijke trans-Saharaanse handelsroutes en werd enorm rijk door belasting te heffen op de ruil van goud uit het zuiden tegen zout uit de Sahara."
+      },
+      "es": {
+        "hook": "Un imperio de África Occidental se enriqueció intercambiando oro por sal, onza por onza.",
+        "fact": "El Imperio de Ghana, que floreció aproximadamente entre los siglos VI y XIII, controlaba rutas comerciales transaharianas clave y se enriqueció enormemente gravando el intercambio de oro del sur por sal del Sahara."
+      }
+    }
   },
   {
     "id": "history-092",
@@ -1374,7 +2227,21 @@
     "tags": [
       "africa",
       "art"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Au XVIe siècle, des visiteurs européens furent stupéfaits par un travail du métal africain plus avancé que le leur.",
+        "fact": "Les bronzes du Bénin — plaques et sculptures complexes en laiton et en bronze provenant du royaume du Bénin, dans l'actuel Nigéria — témoignaient d'une technique de fonte que les marchands portugais et néerlandais auraient jugée supérieure à l'artisanat européen de l'époque."
+      },
+      "nl": {
+        "hook": "Europese bezoekers in de 16e eeuw stonden versteld van Afrikaans metaalwerk dat geavanceerder was dan hun eigen werk.",
+        "fact": "De bronzen van Benin — ingewikkelde messing en bronzen platen en beelden uit het koninkrijk Benin in het huidige Nigeria — toonden een giettechniek die Portugese en Nederlandse handelaars naar verluidt superieur achtten aan het Europese vakmanschap van die tijd."
+      },
+      "es": {
+        "hook": "Los visitantes europeos del siglo XVI quedaron atónitos ante una metalurgia africana más avanzada que la suya.",
+        "fact": "Los bronces de Benín —intrincadas placas y esculturas de latón y bronce del Reino de Benín, en la actual Nigeria— mostraban una técnica de fundición que, según se dice, los comerciantes portugueses y neerlandeses consideraban superior a la artesanía europea de la época."
+      }
+    }
   },
   {
     "id": "history-093",
@@ -1384,7 +2251,21 @@
     "tags": [
       "medieval-europe",
       "plague"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une seule épidémie de peste a peut-être tué plus de la moitié de la population européenne en moins de cinq ans.",
+        "fact": "La peste noire, qui déferla sur l'Europe de 1347 à 1351, aurait tué, selon les estimations, entre 30 et 60 % de la population du continent."
+      },
+      "nl": {
+        "hook": "Eén pestepidemie doodde mogelijk meer dan de helft van de Europese bevolking in minder dan vijf jaar.",
+        "fact": "De Zwarte Dood, die van 1347 tot 1351 over Europa raasde, zou naar schatting tussen de 30 en 60 procent van de bevolking van het continent hebben gedood."
+      },
+      "es": {
+        "hook": "Una sola peste pudo haber matado a más de la mitad de la población europea en menos de cinco años.",
+        "fact": "La Peste Negra, que arrasó Europa entre 1347 y 1351, se estima que mató entre el 30 y el 60 por ciento de la población del continente."
+      }
+    }
   },
   {
     "id": "history-094",
@@ -1394,7 +2275,21 @@
     "tags": [
       "medieval-europe",
       "leaders"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'empereur qui a relancé l'éducation en Europe n'aurait pas su écrire son propre nom.",
+        "fact": "Charlemagne, couronné empereur romain germanique en 800 de notre ère, encouragea les écoles et l'alphabétisation dans tout son empire, et pourtant son biographe Éginhard écrivit que Charlemagne lui-même ne maîtrisa jamais vraiment l'écriture, malgré ses tentatives d'apprentissage tardives."
+      },
+      "nl": {
+        "hook": "De keizer die het onderwijs in Europa nieuw leven inblies, kon naar verluidt zijn eigen naam niet schrijven.",
+        "fact": "Karel de Grote, in 800 na Christus gekroond tot keizer van het Heilige Roomse Rijk, bevorderde scholen en geletterdheid in zijn hele rijk, maar toch schreef zijn biograaf Einhard dat Karel zelf het schrijven nooit volledig onder de knie kreeg, ondanks pogingen om het op latere leeftijd nog te leren."
+      },
+      "es": {
+        "hook": "El emperador que revivió la educación en Europa, según se dice, no sabía escribir ni su propio nombre.",
+        "fact": "Carlomagno, coronado emperador del Sacro Imperio Romano en el año 800 d.C., impulsó las escuelas y la alfabetización en todo su imperio, pero su biógrafo Eginardo escribió que el propio Carlomagno nunca llegó a dominar la escritura, pese a intentar aprenderla ya entrado en años."
+      }
+    }
   },
   {
     "id": "history-095",
@@ -1404,7 +2299,21 @@
     "tags": [
       "medieval-europe",
       "law"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un document de 1215 a établi que même les rois devaient rendre des comptes devant la loi.",
+        "fact": "La Magna Carta, imposée au roi Jean d'Angleterre en 1215, établit le principe selon lequel le monarque n'était pas au-dessus de la loi — une idée fondatrice qui influencera plus tard le gouvernement constitutionnel dans le monde entier."
+      },
+      "nl": {
+        "hook": "Eén document uit 1215 legde vast dat zelfs koningen verantwoording verschuldigd zijn aan de wet.",
+        "fact": "De Magna Carta, in 1215 aan koning Jan van Engeland opgelegd, legde het principe vast dat de vorst niet boven de wet stond — een grondbeginsel dat later wereldwijd het constitutionele bestuur zou beïnvloeden."
+      },
+      "es": {
+        "hook": "Un documento de 1215 estableció que hasta los reyes responden ante la ley.",
+        "fact": "La Carta Magna, impuesta al rey Juan de Inglaterra en 1215, estableció el principio de que el monarca no estaba por encima de la ley, una idea fundacional que más tarde influiría en el gobierno constitucional en todo el mundo."
+      }
+    }
   },
   {
     "id": "history-096",
@@ -1414,7 +2323,21 @@
     "tags": [
       "medieval-europe",
       "education"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plus ancienne université au monde en activité continue est antérieure à Oxford.",
+        "fact": "L'université de Bologne, fondée en 1088, est généralement considérée comme la plus ancienne université en fonctionnement continu au monde."
+      },
+      "nl": {
+        "hook": "'s Werelds oudste ononderbroken werkende universiteit is ouder dan Oxford.",
+        "fact": "De Universiteit van Bologna, opgericht in 1088, wordt algemeen beschouwd als de oudste ononderbroken werkende universiteit ter wereld."
+      },
+      "es": {
+        "hook": "La universidad más antigua del mundo en funcionamiento continuo es anterior a Oxford.",
+        "fact": "La Universidad de Bolonia, fundada en 1088, se considera generalmente la universidad más antigua del mundo en funcionamiento ininterrumpido."
+      }
+    }
   },
   {
     "id": "history-097",
@@ -1424,7 +2347,21 @@
     "tags": [
       "medieval-europe",
       "vikings"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les Vikings ont débarqué en Amérique du Nord environ 500 ans avant Colomb.",
+        "fact": "Des explorateurs nordiques établirent une colonie à L'Anse aux Meadows, à Terre-Neuve, vers l'an 1000 de notre ère, ce qui en fait la plus ancienne présence européenne confirmée dans les Amériques, des siècles avant le voyage de Colomb en 1492."
+      },
+      "nl": {
+        "hook": "Vikingen zetten ongeveer 500 jaar vóór Columbus voet aan wal in Noord-Amerika.",
+        "fact": "Noormannen stichtten rond het jaar 1000 na Christus een nederzetting bij L'Anse aux Meadows in Newfoundland, wat daarmee de vroegst bevestigde Europese aanwezigheid in de Amerika's maakt, eeuwen vóór Columbus' reis in 1492."
+      },
+      "es": {
+        "hook": "Los vikingos llegaron a Norteamérica unos 500 años antes que Colón.",
+        "fact": "Exploradores nórdicos establecieron un asentamiento en L'Anse aux Meadows, en Terranova, hacia el año 1000 d.C., lo que lo convierte en la presencia europea confirmada más antigua en América, siglos antes del viaje de Colón en 1492."
+      }
+    }
   },
   {
     "id": "history-098",
@@ -1434,7 +2371,21 @@
     "tags": [
       "byzantine-empire",
       "rome"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'Empire romain ne s'est pas vraiment terminé en 476 de notre ère.",
+        "fact": "Si l'Empire romain d'Occident tomba en 476 de notre ère, sa moitié orientale survécut sous le nom d'Empire byzantin pendant près de mille ans encore, jusqu'à la chute finale de Constantinople en 1453."
+      },
+      "nl": {
+        "hook": "Het Romeinse Rijk eindigde niet echt in 476 na Christus.",
+        "fact": "Terwijl het West-Romeinse Rijk in 476 na Christus viel, bleef de oostelijke helft nog bijna duizend jaar bestaan als het Byzantijnse Rijk, tot Constantinopel uiteindelijk in 1453 viel."
+      },
+      "es": {
+        "hook": "El Imperio romano en realidad no terminó en el año 476 d.C.",
+        "fact": "Aunque el Imperio romano de Occidente cayó en el 476 d.C., su mitad oriental sobrevivió como el Imperio bizantino durante casi mil años más, hasta que Constantinopla finalmente cayó en 1453."
+      }
+    }
   },
   {
     "id": "history-099",
@@ -1444,7 +2395,21 @@
     "tags": [
       "byzantine-empire",
       "architecture"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'une des plus grandes cathédrales de l'histoire a été construite en moins de six ans.",
+        "fact": "Sainte-Sophie de Constantinople fut construite entre 532 et 537 de notre ère sous l'empereur Justinien et resta la plus grande cathédrale du monde pendant près de mille ans."
+      },
+      "nl": {
+        "hook": "Een van de grootste kathedralen uit de geschiedenis werd in minder dan zes jaar gebouwd.",
+        "fact": "De Hagia Sophia in Constantinopel werd tussen 532 en 537 na Christus gebouwd onder keizer Justinianus en bleef bijna duizend jaar lang de grootste kathedraal ter wereld."
+      },
+      "es": {
+        "hook": "Una de las mayores catedrales de la historia se construyó en menos de seis años.",
+        "fact": "La Hagia Sofía de Constantinopla se construyó entre los años 532 y 537 d.C. bajo el emperador Justiniano y siguió siendo la catedral más grande del mundo durante casi mil años."
+      }
+    }
   },
   {
     "id": "history-100",
@@ -1454,7 +2419,21 @@
     "tags": [
       "medieval-europe",
       "administration"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un recensement de l'Angleterre vieux de 900 ans est encore parfois cité devant les tribunaux.",
+        "fact": "Le Domesday Book, commandé par Guillaume le Conquérant en 1086 pour recenser les terres et les biens de toute l'Angleterre, était si minutieux qu'il a occasionnellement été invoqué dans des litiges juridiques britanniques des siècles plus tard."
+      },
+      "nl": {
+        "hook": "Een 900 jaar oude opmeting van Engeland wordt af en toe nog steeds voor de rechtbank aangehaald.",
+        "fact": "Het Domesday Book, in 1086 door Willem de Veroveraar in opdracht gegeven om land en eigendom in heel Engeland te catalogiseren, was zo nauwgezet dat het eeuwen later af en toe nog werd aangehaald in Britse juridische geschillen."
+      },
+      "es": {
+        "hook": "Un catastro de Inglaterra de 900 años de antigüedad todavía se cita de vez en cuando en los tribunales.",
+        "fact": "El Domesday Book, encargado por Guillermo el Conquistador en 1086 para catalogar las tierras y propiedades de toda Inglaterra, fue tan meticuloso que en ocasiones se ha citado en disputas legales británicas siglos después."
+      }
+    }
   },
   {
     "id": "history-101",
@@ -1464,7 +2443,21 @@
     "tags": [
       "islamic-golden-age",
       "scholarship"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Bagdad a autrefois abrité un institut de recherche dédié à la sauvegarde du savoir du monde antique.",
+        "fact": "La Maison de la sagesse, à Bagdad, devint un grand centre du savoir où des traducteurs transposaient en arabe des textes grecs, persans et indiens, préservant ainsi des œuvres qui, sans cela, auraient pu être perdues à jamais."
+      },
+      "nl": {
+        "hook": "Bagdad huisvestte ooit een onderzoeksinstituut dat toegewijd was aan het redden van de kennis van de oude wereld.",
+        "fact": "Het Huis der Wijsheid in Bagdad werd een groot kenniscentrum waar vertalers Griekse, Perzische en Indiase teksten in het Arabisch omzetten, en zo werken bewaarden die anders mogelijk voor de geschiedenis verloren waren gegaan."
+      },
+      "es": {
+        "hook": "Bagdad albergó en su día un instituto de investigación dedicado a salvar el conocimiento del mundo antiguo.",
+        "fact": "La Casa de la Sabiduría de Bagdad se convirtió en un gran centro del saber donde traductores vertían al árabe textos griegos, persas e indios, preservando obras que de otro modo podrían haberse perdido para la historia."
+      }
+    }
   },
   {
     "id": "history-102",
@@ -1475,7 +2468,24 @@
     "tags": [
       "islamic-golden-age",
       "math"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Deux mots mathématiques du quotidien viennent du même savant de Bagdad au Moyen Âge.",
+        "fact": "Le mot « algèbre » dérive du titre d'un ouvrage du mathématicien al-Khwarizmi, tandis qu'« algorithme » provient d'une forme latinisée de son propre nom.",
+        "whyItMatters": "Deux des concepts les plus fondamentaux de l'informatique moderne remontent directement aux travaux d'un seul savant du IXe siècle."
+      },
+      "nl": {
+        "hook": "Twee alledaagse wiskundewoorden komen van dezelfde middeleeuwse geleerde uit Bagdad.",
+        "fact": "Het woord 'algebra' is afgeleid van de titel van een boek van de wiskundige al-Chwarizmi, terwijl 'algoritme' komt van een gelatiniseerde versie van zijn eigen naam.",
+        "whyItMatters": "Twee van de meest fundamentele concepten in de moderne informatica gaan rechtstreeks terug op het werk van één geleerde uit de 9e eeuw."
+      },
+      "es": {
+        "hook": "Dos palabras matemáticas de uso cotidiano provienen del mismo erudito medieval de Bagdad.",
+        "fact": "La palabra 'álgebra' deriva del título de un libro del matemático al-Juarismi, mientras que 'algoritmo' proviene de una versión latinizada de su propio nombre.",
+        "whyItMatters": "Dos de los conceptos más fundamentales de la informática moderna se remontan directamente a la obra de un solo erudito del siglo IX."
+      }
+    }
   },
   {
     "id": "history-103",
@@ -1485,7 +2495,21 @@
     "tags": [
       "islamic-golden-age",
       "medicine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un manuel de médecine est resté utilisé dans les universités européennes pendant plus de 600 ans.",
+        "fact": "Le Canon de la médecine d'Ibn Sina, rédigé au XIe siècle, fut traduit en latin et resta une référence standard dans les écoles de médecine européennes jusque tard dans le XVIIe siècle."
+      },
+      "nl": {
+        "hook": "Eén medisch handboek bleef meer dan 600 jaar in gebruik aan Europese universiteiten.",
+        "fact": "Ibn Sina's Canon van de geneeskunde, geschreven in de 11e eeuw, werd in het Latijn vertaald en bleef tot ver in de 17e eeuw een standaardreferentie aan Europese medische opleidingen."
+      },
+      "es": {
+        "hook": "Un manual de medicina se siguió usando en universidades europeas durante más de 600 años.",
+        "fact": "El Canon de medicina de Avicena, escrito en el siglo XI, se tradujo al latín y siguió siendo una referencia estándar en las escuelas de medicina europeas hasta bien entrado el siglo XVII."
+      }
+    }
   },
   {
     "id": "history-104",
@@ -1495,7 +2519,21 @@
     "tags": [
       "islamic-golden-age",
       "medicine"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les hôpitaux islamiques médiévaux soignaient les patients gratuitement, quelle que soit leur fortune.",
+        "fact": "Les hôpitaux appelés bimaristans, présents dans tout le monde islamique médiéval, soignaient les patients indépendamment de leur capacité à payer et comptaient parmi les premiers services spécifiquement dédiés au traitement des maladies mentales."
+      },
+      "nl": {
+        "hook": "Middeleeuwse islamitische ziekenhuizen behandelden patiënten gratis, ongeacht hun vermogen.",
+        "fact": "Ziekenhuizen die bekendstonden als bimaristans, verspreid over de middeleeuwse islamitische wereld, verzorgden patiënten ongeacht hun betaalvermogen en omvatten enkele van de vroegste afdelingen specifiek voor de behandeling van geestesziekten."
+      },
+      "es": {
+        "hook": "Los hospitales islámicos medievales trataban a los pacientes gratis, sin importar su fortuna.",
+        "fact": "Los hospitales conocidos como bimaristanes, presentes por todo el mundo islámico medieval, atendían a los pacientes sin importar su capacidad de pago e incluían algunas de las primeras salas dedicadas específicamente al tratamiento de enfermedades mentales."
+      }
+    }
   },
   {
     "id": "history-105",
@@ -1505,7 +2543,21 @@
     "tags": [
       "islamic-golden-age",
       "cities"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une ville espagnole médiévale avait un éclairage public quand une grande partie de l'Europe avait à peine des livres.",
+        "fact": "Au Xe siècle, Cordoue, sous domination islamique, disposait de rues pavées et éclairées et de bibliothèques renfermant des centaines de milliers de volumes, à une époque où de nombreux monastères européens ne possédaient chacun que quelques dizaines de livres."
+      },
+      "nl": {
+        "hook": "Eén middeleeuwse Spaanse stad had straatverlichting terwijl een groot deel van Europa nauwelijks boeken had.",
+        "fact": "In de 10e eeuw had Córdoba, onder islamitisch bewind, verharde, verlichte straten en bibliotheken met honderdduizenden banden, in een tijd waarin veel Europese kloosters elk maar enkele tientallen boeken bezaten."
+      },
+      "es": {
+        "hook": "Una ciudad española medieval tenía alumbrado público cuando gran parte de Europa apenas tenía libros.",
+        "fact": "En el siglo X, Córdoba, bajo dominio islámico, contaba con calles pavimentadas e iluminadas y bibliotecas con cientos de miles de volúmenes, en una época en la que muchos monasterios europeos poseían apenas unas pocas docenas de libros cada uno."
+      }
+    }
   },
   {
     "id": "history-106",
@@ -1515,7 +2567,21 @@
     "tags": [
       "islamic-golden-age",
       "exploration"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un voyageur du XIVe siècle a parcouru plus de terrain que le bien plus célèbre Marco Polo.",
+        "fact": "Ibn Battuta parcourut environ 120 000 kilomètres à travers l'Afrique, le Moyen-Orient et l'Asie sur près de trois décennies, visitant beaucoup plus de territoires que son contemporain plus connu, Marco Polo."
+      },
+      "nl": {
+        "hook": "Een 14e-eeuwse reiziger legde meer afstand af dan de veel beroemdere Marco Polo.",
+        "fact": "Ibn Battuta reisde naar schatting 120.000 kilometer door Afrika, het Midden-Oosten en Azië gedurende ongeveer drie decennia, en bezocht daarbij aanzienlijk meer gebied dan zijn bekendere tijdgenoot Marco Polo."
+      },
+      "es": {
+        "hook": "Un viajero del siglo XIV recorrió más terreno que el mucho más famoso Marco Polo.",
+        "fact": "Ibn Battuta viajó unos 120.000 kilómetros por África, Oriente Medio y Asia a lo largo de casi tres décadas, visitando muchísimo más territorio que su más conocido contemporáneo, Marco Polo."
+      }
+    }
   },
   {
     "id": "history-107",
@@ -1525,7 +2591,21 @@
     "tags": [
       "islamic-golden-age",
       "daily-life"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'histoire du café commence avec des moines cherchant à rester éveillés pour prier.",
+        "fact": "On pense que le café fut d'abord consommé par des moines soufis au Yémen et dans la Corne de l'Afrique, qui en buvaient pour rester éveillés pendant leurs dévotions nocturnes, avant qu'il ne se répande dans tout le monde islamique puis, finalement, en Europe."
+      },
+      "nl": {
+        "hook": "Het ontstaansverhaal van koffie begint met monniken die wakker probeerden te blijven om te bidden.",
+        "fact": "Koffie werd naar men aanneemt voor het eerst gedronken door soefimonniken in Jemen en de Hoorn van Afrika, die het dronken om alert te blijven tijdens hun nachtelijke gebeden, voordat het zich verspreidde over de islamitische wereld en uiteindelijk naar Europa."
+      },
+      "es": {
+        "hook": "La historia del café comienza con monjes que intentaban mantenerse despiertos para orar.",
+        "fact": "Se cree que el café lo consumieron por primera vez monjes sufíes en Yemen y el Cuerno de África, que lo bebían para mantenerse alerta durante sus devociones nocturnas, antes de que se extendiera por el mundo islámico y, finalmente, llegara a Europa."
+      }
+    }
   },
   {
     "id": "history-108",
@@ -1535,7 +2615,21 @@
     "tags": [
       "islamic-golden-age",
       "astronomy"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un instrument permettant de naviguer grâce aux étoiles a été perfectionné par les astronomes islamiques médiévaux.",
+        "fact": "Les savants islamiques ont considérablement perfectionné l'astrolabe, l'utilisant pour la navigation, la mesure du temps et le calcul de la direction de La Mecque pour les prières quotidiennes."
+      },
+      "nl": {
+        "hook": "Een instrument om op de sterren te navigeren werd door middeleeuwse islamitische astronomen tot in de puntjes verfijnd.",
+        "fact": "Islamitische geleerden verfijnden het astrolabium aanzienlijk en gebruikten het voor navigatie, tijdmeting en het berekenen van de richting van Mekka voor de dagelijkse gebeden."
+      },
+      "es": {
+        "hook": "Un instrumento para navegar guiándose por las estrellas fue perfeccionado por astrónomos islámicos medievales.",
+        "fact": "Los eruditos islámicos perfeccionaron notablemente el astrolabio, y lo usaban para la navegación, la medición del tiempo y el cálculo de la dirección de La Meca para las oraciones diarias."
+      }
+    }
   },
   {
     "id": "history-109",
@@ -1545,7 +2639,21 @@
     "tags": [
       "medieval-asia",
       "mongol-empire"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les conquêtes mongoles, malgré toute leur brutalité, ont rendu le commerce à travers l'Asie considérablement plus sûr.",
+        "fact": "La stabilité de l'Empire mongol a créé ce que les historiens appellent la « Pax Mongolica », permettant aux marchandises, aux idées et aux voyageurs de circuler le long de la route de la soie avec bien moins de risques qu'auparavant — bien que ces mêmes routes ouvertes soient également considérées comme ayant contribué à propager la peste noire vers l'ouest."
+      },
+      "nl": {
+        "hook": "De Mongoolse veroveringen maakten, ondanks al hun wreedheid, de handel doorheen Azië dramatisch veiliger.",
+        "fact": "De stabiliteit van het Mongoolse Rijk creëerde wat historici de 'Pax Mongolica' noemen, waardoor goederen, ideeën en reizigers zich met veel minder risico dan voorheen langs de Zijderoute konden verplaatsen — al wordt ook aangenomen dat diezelfde open routes hielpen om de Zwarte Dood naar het westen te verspreiden."
+      },
+      "es": {
+        "hook": "Las conquistas mongolas, pese a toda su brutalidad, hicieron que el comercio por Asia fuera muchísimo más seguro.",
+        "fact": "La estabilidad del Imperio mongol creó lo que los historiadores llaman la 'Pax Mongolica', que permitía que bienes, ideas y viajeros se movieran por la Ruta de la Seda con mucho menos riesgo que antes, aunque se cree que esas mismas rutas abiertas también ayudaron a propagar la Peste Negra hacia el oeste."
+      }
+    }
   },
   {
     "id": "history-110",
@@ -1555,7 +2663,21 @@
     "tags": [
       "medieval-asia",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La classe guerrière du Japon vivait selon un code qui ne fut, en réalité, couché par écrit que bien plus tard.",
+        "fact": "Les samouraïs du Japon médiéval suivaient des codes non écrits de loyauté, d'honneur et de discipline, qui ne furent formalisés et nommés bushido que plus tard, devenant alors centraux dans l'identité culturelle du Japon."
+      },
+      "nl": {
+        "hook": "Japans krijgersklasse leefde volgens een code die pas veel later daadwerkelijk werd opgeschreven.",
+        "fact": "Middeleeuwse Japanse samoerai volgden ongeschreven codes van loyaliteit, eer en discipline, die pas later werden geformaliseerd en bushido genoemd, en zo een centrale plaats kregen in de Japanse culturele identiteit."
+      },
+      "es": {
+        "hook": "La clase guerrera de Japón vivía según un código que, en realidad, no se puso por escrito hasta mucho después.",
+        "fact": "Los samuráis del Japón medieval seguían códigos no escritos de lealtad, honor y disciplina que solo más tarde se formalizaron y bautizaron como bushido, y que llegaron a ser centrales en la identidad cultural japonesa."
+      }
+    }
   },
   {
     "id": "history-111",
@@ -1565,7 +2687,21 @@
     "tags": [
       "medieval-asia",
       "khmer-empire"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le plus grand monument religieux de la planète ne se trouve ni en Europe ni au Moyen-Orient.",
+        "fact": "Angkor Vat, au Cambodge, construit au début du XIIe siècle par l'Empire khmer, est le plus grand monument religieux au monde, édifié à l'origine comme temple hindou avant de devenir plus tard un site bouddhiste."
+      },
+      "nl": {
+        "hook": "Het grootste religieuze monument ter wereld staat niet in Europa of het Midden-Oosten.",
+        "fact": "Angkor Wat in Cambodja, gebouwd in het begin van de 12e eeuw door het Khmer-rijk, is het grootste religieuze monument ter wereld en werd oorspronkelijk gebouwd als hindoetempel, voordat het later een boeddhistische plaats werd."
+      },
+      "es": {
+        "hook": "El monumento religioso más grande de la Tierra no está en Europa ni en Oriente Medio.",
+        "fact": "Angkor Wat, en Camboya, construido a principios del siglo XII por el Imperio jemer, es el monumento religioso más grande del mundo, erigido originalmente como templo hindú antes de convertirse más tarde en un lugar budista."
+      }
+    }
   },
   {
     "id": "history-112",
@@ -1576,7 +2712,24 @@
     "tags": [
       "medieval-asia",
       "korea"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le plus ancien livre conservé au monde imprimé avec des caractères métalliques mobiles n'est pas la Bible de Gutenberg.",
+        "fact": "Le Jikji coréen, imprimé en 1377 avec des caractères métalliques mobiles, précède la célèbre Bible de Gutenberg d'environ 78 ans et constitue le plus ancien livre connu conservé, produit selon ce procédé.",
+        "whyItMatters": "Cela remet en question l'idée reçue selon laquelle la presse de Gutenberg marquerait la véritable origine de l'imprimerie à caractères mobiles."
+      },
+      "nl": {
+        "hook": "'s Werelds oudste bewaarde boek gedrukt met beweegbare metalen letters is niet de Bijbel van Gutenberg.",
+        "fact": "Het Koreaanse Jikji, gedrukt in 1377 met beweegbare metalen letters, gaat de beroemde Bijbel van Gutenberg zo'n 78 jaar vooraf en is het oudst bekende bewaarde boek dat op deze manier werd geproduceerd.",
+        "whyItMatters": "Het daagt de gangbare aanname uit dat Gutenbergs drukpers het ware begin van het drukken met losse letters zou markeren."
+      },
+      "es": {
+        "hook": "El libro sobreviviente más antiguo del mundo impreso con tipos móviles de metal no es la Biblia de Gutenberg.",
+        "fact": "El Jikji coreano, impreso en 1377 con tipos móviles de metal, es unos 78 años anterior a la famosa Biblia de Gutenberg y es el libro sobreviviente conocido más antiguo producido de esta manera.",
+        "whyItMatters": "Esto desafía la suposición común de que la imprenta de Gutenberg marcó el verdadero origen de la impresión con tipos móviles."
+      }
+    }
   },
   {
     "id": "history-113",
@@ -1586,7 +2739,21 @@
     "tags": [
       "medieval-asia",
       "japan"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le premier roman au monde a été écrit par une noble japonaise il y a mille ans.",
+        "fact": "Murasaki Shikibu a écrit le Dit du Genji vers l'an 1000 de notre ère, à la cour impériale japonaise, et il est largement considéré par les spécialistes comme le premier roman au monde."
+      },
+      "nl": {
+        "hook": "'s Werelds eerste roman werd duizend jaar geleden geschreven door een Japanse edelvrouw.",
+        "fact": "Murasaki Shikibu schreef Het verhaal van Genji rond het jaar 1000 na Christus aan het Japanse keizerlijke hof, en het wordt door geleerden algemeen beschouwd als 's werelds eerste roman."
+      },
+      "es": {
+        "hook": "La primera novela del mundo la escribió una noble japonesa hace mil años.",
+        "fact": "Murasaki Shikibu escribió La historia de Genji hacia el año 1000 d.C. en la corte imperial japonesa, y los estudiosos la consideran ampliamente la primera novela del mundo."
+      }
+    }
   },
   {
     "id": "history-114",
@@ -1596,7 +2763,21 @@
     "tags": [
       "medieval-asia",
       "india"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un sultanat a fusionné les cultures persane, turque et indienne en une nouvelle civilisation distincte.",
+        "fact": "Le sultanat de Delhi, qui domina de vastes régions du sous-continent indien du XIIIe au XVIe siècle, mêla les traditions persanes et d'Asie centrale à la culture indienne locale dans son art, son architecture et son administration."
+      },
+      "nl": {
+        "hook": "Een sultanaat versmolt Perzische, Turkse en Indiase culturen tot een aparte nieuwe beschaving.",
+        "fact": "Het Sultanaat van Delhi, dat van de 13e tot de 16e eeuw grote delen van het Indiase subcontinent beheerste, verenigde Perzische en Centraal-Aziatische tradities met de lokale Indiase cultuur in zijn kunst, architectuur en bestuur."
+      },
+      "es": {
+        "hook": "Un sultanato fusionó las culturas persa, turca e india en una nueva civilización propia.",
+        "fact": "El Sultanato de Delhi, que gobernó grandes partes del subcontinente indio desde el siglo XIII hasta el XVI, fusionó las tradiciones persas y de Asia Central con la cultura india local en su arte, arquitectura y administración."
+      }
+    }
   },
   {
     "id": "history-115",
@@ -1606,7 +2787,21 @@
     "tags": [
       "medieval-asia",
       "trade"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un empire insulaire a taxé, pendant des siècles, presque tout le commerce entre la Chine et l'Inde.",
+        "fact": "L'Empire de Srivijaya, basé sur l'île de Sumatra, contrôla le détroit stratégique de Malacca d'environ le VIIe au XIIIe siècle, profitant de la taxation du commerce maritime qui circulait entre l'Asie de l'Est et l'Asie du Sud."
+      },
+      "nl": {
+        "hook": "Eén eilandrijk hief eeuwenlang belasting op vrijwel alle handel tussen China en India.",
+        "fact": "Het Srivijaya-rijk, gevestigd op het eiland Sumatra, beheerste van ongeveer de 7e tot de 13e eeuw de strategische Straat van Malakka, en profiteerde door belasting te heffen op de maritieme handel tussen Oost- en Zuid-Azië."
+      },
+      "es": {
+        "hook": "Un imperio insular gravó durante siglos casi todo el comercio entre China e India.",
+        "fact": "El Imperio de Srivijaya, con base en la isla de Sumatra, controló el estratégico estrecho de Malaca desde aproximadamente el siglo VII hasta el XIII, y se benefició gravando el comercio marítimo que fluía entre Asia oriental y Asia meridional."
+      }
+    }
   },
   {
     "id": "history-116",
@@ -1616,7 +2811,21 @@
     "tags": [
       "medieval-asia",
       "china"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une ville chinoise médiévale a peut-être compté plus d'un million d'habitants venus de toute l'Asie.",
+        "fact": "Chang'an, capitale de la Chine des Tang, était l'une des villes les plus cosmopolites au monde, avec une population dépassant peut-être le million d'habitants et des communautés de marchands, de moines et de diplomates étrangers."
+      },
+      "nl": {
+        "hook": "Eén middeleeuwse Chinese stad had mogelijk meer dan een miljoen inwoners uit heel Azië.",
+        "fact": "Chang'an, de hoofdstad van het Tang-dynastie-China, was een van de meest kosmopolitische steden ter wereld, met een bevolking die mogelijk meer dan een miljoen inwoners telde en gemeenschappen van buitenlandse handelaars, monniken en diplomaten."
+      },
+      "es": {
+        "hook": "Una ciudad china medieval pudo haber albergado a más de un millón de habitantes venidos de toda Asia.",
+        "fact": "Chang'an, la capital de la China de la dinastía Tang, fue una de las ciudades más cosmopolitas del mundo, con una población que posiblemente superaba el millón de habitantes y comunidades de comerciantes, monjes y diplomáticos extranjeros."
+      }
+    }
   },
   {
     "id": "history-117",

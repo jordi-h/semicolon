@@ -869,7 +869,24 @@
     "tags": [
       "physics",
       "thermodynamics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le zéro absolu est un mur qu'on peut approcher, mais jamais toucher.",
+        "fact": "Le zéro absolu, 0 kelvin (-273,15 °C), est le point théorique où toute agitation atomique cesse, mais le troisième principe de la thermodynamique fait qu'on ne peut s'en approcher que de façon asymptotique, sans jamais l'atteindre.",
+        "whyItMatters": "Les scientifiques s'en sont approchés à un milliardième de degré près en laboratoire, ce qui permet aux horloges atomiques ultra-précises et aux ordinateurs quantiques de rester stables."
+      },
+      "nl": {
+        "hook": "Het absolute nulpunt is een muur die je kunt naderen, maar nooit aanraken.",
+        "fact": "Het absolute nulpunt, 0 kelvin (-273,15 °C), is het theoretische punt waarop alle atomaire beweging stopt, maar volgens de derde hoofdwet van de thermodynamica kan het alleen asymptotisch benaderd worden, nooit volledig bereikt.",
+        "whyItMatters": "Wetenschappers zijn er in het lab tot op een miljardste graad van genaderd, en dat is precies wat ultraprecieze atoomklokken en kwantumcomputers stabiel houdt."
+      },
+      "es": {
+        "hook": "El cero absoluto es un muro que puedes acercarte a él, pero nunca tocarlo.",
+        "fact": "El cero absoluto, 0 kelvin (-273,15 °C), es el punto teórico en el que todo movimiento atómico se detiene por completo, pero la tercera ley de la termodinámica implica que solo puede aproximarse de forma asintótica, sin alcanzarse jamás del todo.",
+        "whyItMatters": "Los científicos se han acercado a una milmillonésima de grado de él en laboratorios, lo que permite que los relojes atómicos ultraprecisos y los ordenadores cuánticos se mantengan estables."
+      }
+    }
   },
   {
     "id": "science-037",
@@ -879,7 +896,21 @@
     "tags": [
       "chemistry",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le diamant et la mine de crayon sont faits exactement du même élément.",
+        "fact": "Le diamant et le graphite sont tous deux du carbone pur — seule la disposition des atomes diffère. Ceux du diamant s'organisent en un réseau 3D rigide, ce qui en fait le matériau naturel le plus dur, tandis que ceux du graphite forment des feuillets empilés qui glissent facilement les uns sur les autres."
+      },
+      "nl": {
+        "hook": "Diamant en potloodstift bestaan uit precies hetzelfde element.",
+        "fact": "Zowel diamant als grafiet zijn puur koolstof — het enige verschil is hoe de atomen gerangschikt zijn. In diamant vormen de atomen een star 3D-rooster, waardoor het het hardste natuurlijke materiaal is, terwijl grafiet losjes gestapelde lagen vormt die makkelijk van elkaar afglijden."
+      },
+      "es": {
+        "hook": "El diamante y la mina del lápiz están hechos exactamente del mismo elemento.",
+        "fact": "Tanto el diamante como el grafito son carbono puro; la única diferencia está en cómo se disponen sus átomos. Los del diamante forman una red 3D rígida, lo que lo convierte en el material natural más duro, mientras que los del grafito forman láminas apiladas sueltamente que se deslizan con facilidad."
+      }
+    }
   },
   {
     "id": "science-038",
@@ -889,7 +920,21 @@
     "tags": [
       "physics",
       "electricity"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Cette petite décharge sur la poignée de porte peut atteindre des milliers de volts.",
+        "fact": "Une étincelle d'électricité statique en touchant une poignée de porte peut atteindre plus de 10 000 volts, mais le courant qu'elle transporte est si minime et bref qu'elle ne se ressent guère plus qu'un petit choc surprenant."
+      },
+      "nl": {
+        "hook": "Dat schokje van de deurklink kan duizenden volts zijn.",
+        "fact": "Een vonk statische elektriciteit bij het aanraken van een deurklink kan meer dan 10.000 volt bevatten, maar de stroom erachter is zo minuscuul en kortstondig dat je er nauwelijks meer dan een schrikreactie van voelt."
+      },
+      "es": {
+        "hook": "Ese chispazo del pomo de la puerta podría ser de miles de voltios.",
+        "fact": "Una chispa de electricidad estática al tocar el pomo de una puerta puede alcanzar más de 10.000 voltios, pero la corriente que la acompaña es tan diminuta y breve que apenas se nota más allá de un susto."
+      }
+    }
   },
   {
     "id": "science-039",
@@ -899,7 +944,21 @@
     "tags": [
       "chemistry",
       "elements"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chaque élément plus lourd que l'uranium a été fabriqué par l'homme.",
+        "fact": "Aucun élément au-delà de l'uranium (numéro atomique 92) n'existe naturellement en quantité significative sur Terre — tout, à partir du neptunium, a été synthétisé dans des réacteurs nucléaires ou des accélérateurs de particules."
+      },
+      "nl": {
+        "hook": "Elk element zwaarder dan uranium is door mensen gemaakt.",
+        "fact": "Geen enkel element na uranium (atoomnummer 92) komt in noemenswaardige natuurlijke hoeveelheden op aarde voor — alles vanaf neptunium is gesynthetiseerd in kernreactoren of deeltjesversnellers."
+      },
+      "es": {
+        "hook": "Todo elemento más pesado que el uranio fue creado por el ser humano.",
+        "fact": "Ningún elemento posterior al uranio (número atómico 92) existe en cantidades naturales significativas en la Tierra: todo, desde el neptunio en adelante, se ha sintetizado en reactores nucleares o aceleradores de partículas."
+      }
+    }
   },
   {
     "id": "science-040",
@@ -909,7 +968,21 @@
     "tags": [
       "chemistry",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'hélium a été découvert dans le Soleil 27 ans avant de l'être sur Terre.",
+        "fact": "En 1868, des astronomes ont repéré une raie jaune inconnue dans le spectre lumineux du Soleil et ont nommé le nouvel élément d'après 'helios', le mot grec pour soleil. Il n'a été isolé sur Terre qu'en 1895."
+      },
+      "nl": {
+        "hook": "Helium werd 27 jaar eerder in de zon ontdekt dan op aarde.",
+        "fact": "In 1868 zagen astronomen een onbekende gele lijn in het lichtspectrum van de zon en noemden het nieuwe element naar 'helios', het Griekse woord voor zon. Pas in 1895 werd het op aarde geïsoleerd."
+      },
+      "es": {
+        "hook": "El helio se descubrió en el Sol 27 años antes de que se encontrara en la Tierra.",
+        "fact": "En 1868, unos astrónomos detectaron una línea amarilla desconocida en el espectro de luz del Sol y bautizaron el nuevo elemento a partir de 'helios', la palabra griega para sol. No se aisló en la Tierra hasta 1895."
+      }
+    }
   },
   {
     "id": "science-041",
@@ -919,7 +992,21 @@
     "tags": [
       "chemistry",
       "elements"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un métal est liquide à température ambiante.",
+        "fact": "Les atomes du mercure se lient si faiblement entre eux qu'ils ne peuvent former une structure solide qu'en dessous de -38,83 °C, ce qui en fait le seul métal naturellement liquide à température ambiante."
+      },
+      "nl": {
+        "hook": "Eén metaal is vloeibaar bij kamertemperatuur.",
+        "fact": "De atomen van kwik binden zo zwak aan elkaar dat ze pas onder de -38,83 °C een vaste structuur kunnen vormen, waardoor het het enige metaal is dat van nature vloeibaar is bij kamertemperatuur."
+      },
+      "es": {
+        "hook": "Hay un metal que es líquido a temperatura ambiente.",
+        "fact": "Los átomos del mercurio se enlazan tan débilmente entre sí que no pueden formar una estructura sólida hasta que la temperatura baja de -38,83 °C, lo que lo convierte en el único metal líquido de forma natural a temperatura ambiente."
+      }
+    }
   },
   {
     "id": "science-042",
@@ -929,7 +1016,21 @@
     "tags": [
       "chemistry",
       "reactions"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le sel de table est fait de deux éléments qui, séparément, vous tueraient.",
+        "fact": "Le sodium est un métal mou qui réagit violemment avec l'eau, et le chlore est un gaz toxique — combinés en chlorure de sodium, ils forment le cristal inoffensif qu'on saupoudre sur les aliments."
+      },
+      "nl": {
+        "hook": "Tafelzout is opgebouwd uit twee elementen die je apart zouden doden.",
+        "fact": "Natrium is een zacht metaal dat heftig reageert met water, en chloor is een giftig gas — samen als natriumchloride vormen ze het onschuldige kristal dat je over je eten strooit."
+      },
+      "es": {
+        "hook": "La sal de mesa está formada por dos elementos que, por separado, te matarían.",
+        "fact": "El sodio es un metal blando que reacciona violentamente con el agua, y el cloro es un gas venenoso; combinados como cloruro de sodio, forman el cristal inofensivo que espolvoreas sobre la comida."
+      }
+    }
   },
   {
     "id": "science-043",
@@ -940,7 +1041,24 @@
     "tags": [
       "physics",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains matériaux conduisent l'électricité sans aucune résistance.",
+        "fact": "Les supraconducteurs laissent circuler un courant électrique indéfiniment sans perte d'énergie sous forme de chaleur, mais seulement en dessous d'une température critique — certains nécessitent un refroidissement proche du zéro absolu, tandis que les versions dites 'à haute température' fonctionnent au-dessus de -196 °C.",
+        "whyItMatters": "Cet effet rend possibles les trains à sustentation magnétique et les puissants aimants des IRM, et le transport d'électricité sans perte est un objectif de recherche majeur."
+      },
+      "nl": {
+        "hook": "Sommige materialen geleiden elektriciteit zonder enige weerstand.",
+        "fact": "Supergeleiders laten elektrische stroom eindeloos vloeien zonder energie te verliezen als warmte, maar alleen onder een kritische temperatuur — sommige moeten bijna tot het absolute nulpunt gekoeld worden, terwijl 'hogetemperatuur'-varianten al boven -196 °C werken.",
+        "whyItMatters": "Dit effect maakt zweeftreinen en de krachtige magneten van MRI-scanners mogelijk, en verliesvrije stroomtransmissie is een belangrijk onderzoeksdoel."
+      },
+      "es": {
+        "hook": "Algunos materiales conducen la electricidad sin resistencia alguna.",
+        "fact": "Los superconductores permiten que la corriente eléctrica fluya para siempre sin perder energía en forma de calor, pero solo por debajo de una temperatura crítica; algunos requieren enfriarse cerca del cero absoluto, mientras que las versiones de 'alta temperatura' funcionan por encima de -196 °C.",
+        "whyItMatters": "Este efecto hace posibles los trenes de levitación magnética y los potentes imanes de las máquinas de resonancia magnética, y la transmisión eléctrica sin pérdidas es un objetivo importante de investigación."
+      }
+    }
   },
   {
     "id": "science-044",
@@ -950,7 +1068,21 @@
     "tags": [
       "physics",
       "mechanics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Impossible de faire un seul pas sans la troisième loi de Newton.",
+        "fact": "La marche fonctionne parce que votre pied pousse le sol vers l'arrière, et le sol vous repousse vers l'avant avec une force égale — le même principe qui propulse les fusées et les nageurs."
+      },
+      "nl": {
+        "hook": "Je kunt geen enkele stap zetten zonder Newtons derde wet.",
+        "fact": "Lopen werkt doordat je voet de grond naar achteren duwt, en de grond jou met evenveel kracht naar voren duwt — hetzelfde principe dat raketten en zwemmers voortstuwt."
+      },
+      "es": {
+        "hook": "No puedes dar ni un solo paso sin la tercera ley de Newton.",
+        "fact": "Caminar funciona porque tu pie empuja el suelo hacia atrás, y el suelo te empuja a ti hacia adelante con la misma fuerza; el mismo principio que impulsa a los cohetes y a los nadadores."
+      }
+    }
   },
   {
     "id": "science-045",
@@ -960,7 +1092,21 @@
     "tags": [
       "physics",
       "optics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un arc-en-ciel est en réalité un cercle complet.",
+        "fact": "Les arcs-en-ciel forment un anneau de lumière à 360 degrés, mais depuis le sol l'horizon masque la moitié inférieure, si bien qu'on ne voit jamais que l'arc du haut. Les pilotes et les personnes en haute montagne aperçoivent parfois le cercle entier."
+      },
+      "nl": {
+        "hook": "Een regenboog is eigenlijk een volledige cirkel.",
+        "fact": "Regenbogen vormen een volledige ring van licht van 360 graden, maar vanaf de grond blokkeert de horizon de onderste helft, waardoor we altijd alleen de bovenste boog zien. Piloten en mensen op hoge bergen zien soms de hele cirkel."
+      },
+      "es": {
+        "hook": "Un arcoíris es, en realidad, un círculo completo.",
+        "fact": "Los arcoíris forman un anillo de luz de 360 grados, pero desde el suelo el horizonte bloquea la mitad inferior, así que solo vemos el arco superior. Los pilotos y las personas en montañas altas a veces vislumbran el círculo entero."
+      }
+    }
   },
   {
     "id": "science-046",
@@ -970,7 +1116,21 @@
     "tags": [
       "physics",
       "optics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le ciel est bleu parce que l'air disperse la lumière bleue dans tous les sens.",
+        "fact": "La lumière du soleil contient toutes les couleurs, mais les minuscules molécules d'air diffusent bien plus les courtes longueurs d'onde bleues que les longues longueurs d'onde rouges — un phénomène appelé diffusion de Rayleigh — si bien que la lumière bleue nous parvient de toutes les directions."
+      },
+      "nl": {
+        "hook": "De lucht is blauw omdat lucht blauw licht alle kanten op kaatst.",
+        "fact": "Zonlicht bevat alle kleuren, maar kleine luchtmoleculen verstrooien de kortere blauwe golflengtes veel sterker dan de langere rode — een verschijnsel dat Rayleighverstrooiing heet — waardoor blauw licht ons vanuit alle richtingen bereikt."
+      },
+      "es": {
+        "hook": "El cielo es azul porque el aire dispersa la luz azul en todas direcciones.",
+        "fact": "La luz solar contiene todos los colores, pero las diminutas moléculas de aire dispersan mucho más las longitudes de onda azules, más cortas, que las rojas, más largas —un fenómeno llamado dispersión de Rayleigh—, de modo que la luz azul nos llega desde todas las direcciones."
+      }
+    }
   },
   {
     "id": "science-047",
@@ -980,7 +1140,21 @@
     "tags": [
       "physics",
       "optics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les couchers de soleil deviennent rouges pour la raison inverse du bleu du ciel.",
+        "fact": "Au coucher du soleil, la lumière doit traverser bien plus d'atmosphère selon un angle bas, dispersant presque toute la lumière bleue avant de vous atteindre et ne laissant derrière elle que des longueurs d'onde rouges et orange."
+      },
+      "nl": {
+        "hook": "Zonsondergangen worden rood om precies de tegenovergestelde reden dat de lucht blauw is.",
+        "fact": "Bij zonsondergang moet zonlicht onder een lage hoek door veel meer atmosfeer reizen, waardoor bijna al het blauwe licht wordt weggeschopt voordat het jou bereikt en vooral rode en oranje golflengtes overblijven."
+      },
+      "es": {
+        "hook": "Los atardeceres se vuelven rojos por la razón opuesta a la que el cielo es azul.",
+        "fact": "Al atardecer, la luz solar tiene que atravesar mucha más atmósfera con un ángulo bajo, dispersando casi toda la luz azul antes de llegar hasta ti y dejando principalmente longitudes de onda rojas y naranjas."
+      }
+    }
   },
   {
     "id": "science-048",
@@ -990,7 +1164,21 @@
     "tags": [
       "chemistry",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'or peut être martelé si finement qu'il devient vert.",
+        "fact": "L'or est si malléable que les orfèvres peuvent le battre en feuilles de quelques atomes d'épaisseur seulement — à cette épaisseur, il devient translucide et laisse passer la lumière verte."
+      },
+      "nl": {
+        "hook": "Goud kan zo dun geplet worden dat het groen wordt.",
+        "fact": "Goud is zo kneedbaar dat goudsmeden het kunnen uitkloppen tot bladgoud van slechts een paar atomen dik — bij die dikte wordt het doorschijnend en laat het groen licht door."
+      },
+      "es": {
+        "hook": "El oro se puede martillar tan fino que se vuelve verde.",
+        "fact": "El oro es tan maleable que los orfebres pueden batirlo en pan de oro de apenas unos átomos de grosor; a ese grosor se vuelve translúcido y deja pasar la luz verde."
+      }
+    }
   },
   {
     "id": "science-049",
@@ -1000,7 +1188,21 @@
     "tags": [
       "chemistry",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un minuscule village suédois a donné son nom à quatre éléments.",
+        "fact": "Le village d'Ytterby, en Suède, se trouve près d'une carrière où des minéraux rares ont été découverts, donnant son nom à quatre éléments distincts : l'yttrium, l'ytterbium, le terbium et l'erbium."
+      },
+      "nl": {
+        "hook": "Eén piepklein Zweeds dorpje heeft vier elementen naar zich vernoemd gekregen.",
+        "fact": "Het dorpje Ytterby in Zweden ligt bij een steengroeve waar zeldzame mineralen werden gevonden, die hun naam gaven aan vier verschillende elementen: yttrium, ytterbium, terbium en erbium."
+      },
+      "es": {
+        "hook": "Un diminuto pueblo sueco tiene cuatro elementos que llevan su nombre.",
+        "fact": "El pueblo de Ytterby, en Suecia, está junto a una cantera donde se hallaron minerales raros, que dieron nombre a cuatro elementos distintos: itrio, iterbio, terbio y erbio."
+      }
+    }
   },
   {
     "id": "science-050",
@@ -1010,7 +1212,21 @@
     "tags": [
       "chemistry",
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La plupart des enseignes 'néon' ne contiennent en fait pas de néon.",
+        "fact": "Le néon pur brille d'une teinte orangée-rouge une fois électrisé. Toutes les autres couleurs d'une enseigne néon proviennent d'autres gaz nobles, de mélanges gazeux, ou de revêtements fluorescents sur le tube de verre."
+      },
+      "nl": {
+        "hook": "De meeste 'neon'-borden bevatten helemaal geen neon.",
+        "fact": "Puur neongas gloeit roodoranje wanneer het onder stroom staat. Elke andere kleur in een neonreclame komt van andere edelgassen, gasmengsels of fluorescerende coatings op de glazen buis."
+      },
+      "es": {
+        "hook": "La mayoría de los letreros de 'neón' en realidad no contienen neón.",
+        "fact": "El neón puro brilla con un tono naranja-rojizo cuando se electrifica. Cualquier otro color en un letrero de neón proviene de otros gases nobles, mezclas de gases o recubrimientos fluorescentes sobre el tubo de vidrio."
+      }
+    }
   },
   {
     "id": "science-051",
@@ -1020,7 +1236,21 @@
     "tags": [
       "materials",
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un solide composé à 99 % d'air.",
+        "fact": "L'aérogel, surnommé 'fumée gelée', est fabriqué en retirant le liquide d'un gel et en le remplaçant par de l'air tout en préservant sa structure — le résultat est un solide si léger qu'il peut reposer sur une fleur sans l'écraser, tout en étant assez résistant pour supporter des centaines de fois son propre poids."
+      },
+      "nl": {
+        "hook": "Er bestaat een vaste stof die voor 99% uit lucht bestaat.",
+        "fact": "Aerogel, bijgenaamd 'bevroren rook', wordt gemaakt door de vloeistof uit een gel te verwijderen en te vervangen door lucht, terwijl de structuur intact blijft — het resultaat is een vaste stof zo licht dat hij op een bloem kan rusten zonder die te pletten, maar toch sterk genoeg om honderden keren zijn eigen gewicht te dragen."
+      },
+      "es": {
+        "hook": "Existe un sólido que es 99% aire.",
+        "fact": "El aerogel, apodado 'humo congelado', se fabrica extrayendo el líquido de un gel y sustituyéndolo por aire mientras se mantiene intacta su estructura; el resultado es un sólido tan ligero que puede posarse sobre una flor sin aplastarla, pero lo bastante resistente como para soportar cientos de veces su propio peso."
+      }
+    }
   },
   {
     "id": "science-052",
@@ -1030,7 +1260,21 @@
     "tags": [
       "physics",
       "optics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une paille dans un verre d'eau n'est pas vraiment pliée.",
+        "fact": "La lumière voyage à des vitesses différentes dans l'air et dans l'eau, et se courbe en passant de l'un à l'autre — un phénomène appelé réfraction — ce qui trompe vos yeux en leur faisant voir la paille comme brisée au niveau de l'eau."
+      },
+      "nl": {
+        "hook": "Een rietje in een glas water is niet echt gebroken.",
+        "fact": "Licht reist met verschillende snelheden door lucht en water en buigt af wanneer het van het ene naar het andere overgaat — een verschijnsel dat refractie heet — waardoor je ogen worden misleid en het rietje op het waterniveau gebroken lijkt."
+      },
+      "es": {
+        "hook": "Una pajita en un vaso de agua no está realmente doblada.",
+        "fact": "La luz viaja a distintas velocidades por el aire y por el agua, y se curva al pasar de uno al otro —un fenómeno llamado refracción—, lo que engaña a tus ojos haciéndote ver la pajita como rota a nivel del agua."
+      }
+    }
   },
   {
     "id": "science-053",
@@ -1039,7 +1283,21 @@
     "fact": "Dissolving salt in water lowers the temperature at which it freezes, a principle called freezing-point depression — it's the same reason antifreeze keeps a car's radiator from icing over in winter.",
     "tags": [
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Saler les routes verglacées repose sur le contournement d'une règle chimique.",
+        "fact": "Dissoudre du sel dans l'eau abaisse sa température de congélation, un principe appelé abaissement du point de congélation — c'est la même raison pour laquelle l'antigel empêche le radiateur d'une voiture de geler en hiver."
+      },
+      "nl": {
+        "hook": "Zout strooien op ijzige wegen werkt door een scheikundige regel te doorbreken.",
+        "fact": "Zout oplossen in water verlaagt de temperatuur waarbij het bevriest, een principe dat vriespuntsverlaging heet — dezelfde reden waarom antivries voorkomt dat de radiator van een auto in de winter dichtvriest."
+      },
+      "es": {
+        "hook": "Echar sal a las carreteras heladas funciona rompiendo una regla química.",
+        "fact": "Disolver sal en agua reduce la temperatura a la que se congela, un principio llamado descenso crioscópico; es la misma razón por la que el anticongelante evita que el radiador de un coche se hiele en invierno."
+      }
+    }
   },
   {
     "id": "science-054",
@@ -1048,7 +1306,21 @@
     "fact": "About 78% of the air we breathe is nitrogen gas, but the triple bond holding its two atoms together is so strong that human bodies can't break it apart — only certain bacteria and industrial processes can convert it into usable forms.",
     "tags": [
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'azote remplit vos poumons à chaque respiration, mais vous ne pouvez pas l'utiliser.",
+        "fact": "Environ 78 % de l'air que nous respirons est de l'azote gazeux, mais la triple liaison qui unit ses deux atomes est si forte que le corps humain ne peut pas la briser — seules certaines bactéries et certains procédés industriels peuvent le convertir en formes utilisables."
+      },
+      "nl": {
+        "hook": "Stikstof vult je longen bij elke ademhaling, maar je kunt er niets mee.",
+        "fact": "Ongeveer 78% van de lucht die we inademen is stikstofgas, maar de drievoudige binding die de twee atomen samenhoudt is zo sterk dat het menselijk lichaam die niet kan verbreken — alleen bepaalde bacteriën en industriële processen kunnen het omzetten in bruikbare vormen."
+      },
+      "es": {
+        "hook": "El nitrógeno llena tus pulmones en cada respiración, pero no puedes usarlo.",
+        "fact": "Cerca del 78% del aire que respiramos es nitrógeno gaseoso, pero el triple enlace que une sus dos átomos es tan fuerte que el cuerpo humano no puede romperlo; solo ciertas bacterias y procesos industriales pueden convertirlo en formas utilizables."
+      }
+    }
   },
   {
     "id": "science-055",
@@ -1059,7 +1331,24 @@
     "tags": [
       "chemistry",
       "reactions"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le système d'échappement de votre voiture dépend d'une substance qui ne s'épuise jamais.",
+        "fact": "Un pot catalytique utilise des métaux comme le platine et le palladium comme catalyseurs, accélérant les réactions qui transforment les gaz d'échappement toxiques en substances moins nocives, sans que le métal lui-même soit consommé dans le processus.",
+        "whyItMatters": "Des catalyseurs comme celui-ci ont considérablement réduit les émissions de monoxyde de carbone et d'oxydes d'azote des véhicules depuis les années 1970."
+      },
+      "nl": {
+        "hook": "Het uitlaatsysteem van je auto vertrouwt op een stof die nooit opraakt.",
+        "fact": "Een katalysator gebruikt metalen zoals platina en palladium als katalysator, die reacties versnellen die giftige uitlaatgassen omzetten in minder schadelijke stoffen, zonder dat het metaal zelf tijdens het proces wordt verbruikt.",
+        "whyItMatters": "Zulke katalysatoren hebben de uitstoot van koolmonoxide en stikstofoxiden door voertuigen sinds de jaren 70 drastisch verminderd."
+      },
+      "es": {
+        "hook": "El sistema de escape de tu coche depende de una sustancia que nunca se agota.",
+        "fact": "Un catalizador utiliza metales como el platino y el paladio como catalizadores, acelerando reacciones que convierten los gases de escape tóxicos en otros menos nocivos, sin que el metal en sí se consuma en el proceso.",
+        "whyItMatters": "Catalizadores como este han reducido drásticamente las emisiones de monóxido de carbono y óxidos de nitrógeno de los vehículos desde la década de 1970."
+      }
+    }
   },
   {
     "id": "science-056",
@@ -1068,7 +1357,21 @@
     "fact": "Plasma is a gas so energized that electrons are stripped from its atoms, leaving a charged soup of particles. It powers neon signs, lightning bolts, and the inside of fluorescent light bulbs.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un état de la matière au-delà du solide, du liquide et du gaz.",
+        "fact": "Le plasma est un gaz tellement énergisé que les électrons sont arrachés de ses atomes, laissant une soupe chargée de particules. Il alimente les enseignes au néon, les éclairs, et l'intérieur des tubes fluorescents."
+      },
+      "nl": {
+        "hook": "Er bestaat een aggregatietoestand voorbij vast, vloeibaar en gasvormig.",
+        "fact": "Plasma is een gas dat zo energiek is dat de elektronen van zijn atomen worden losgerukt, wat een geladen soep van deeltjes oplevert. Het drijft neonreclames, bliksemschichten en de binnenkant van tl-buizen aan."
+      },
+      "es": {
+        "hook": "Existe un estado de la materia más allá del sólido, el líquido y el gas.",
+        "fact": "El plasma es un gas tan energizado que los electrones se desprenden de sus átomos, dejando una sopa cargada de partículas. Alimenta los letreros de neón, los relámpagos y el interior de los tubos fluorescentes."
+      }
+    }
   },
   {
     "id": "science-057",
@@ -1078,7 +1381,21 @@
     "tags": [
       "chemistry",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un grain de sel de table a la forme d'un petit cube parfait.",
+        "fact": "Les ions sodium et chlorure s'empilent selon un motif cubique répétitif appelé réseau cristallin, ce qui explique pourquoi les cristaux de sel forment naturellement des cubes visibles même sans microscope."
+      },
+      "nl": {
+        "hook": "Een korrel tafelzout heeft de vorm van een perfect klein kubusje.",
+        "fact": "Natrium- en chloride-ionen stapelen zich in een herhalend kubisch patroon dat een kristalrooster wordt genoemd, waardoor zoutkristallen van nature kubusvormen aannemen die zelfs zonder microscoop zichtbaar zijn."
+      },
+      "es": {
+        "hook": "Un grano de sal de mesa tiene la forma de un pequeño cubo perfecto.",
+        "fact": "Los iones de sodio y cloruro se apilan en un patrón cúbico repetitivo llamado red cristalina, razón por la cual los cristales de sal forman de manera natural cubos visibles incluso sin microscopio."
+      }
+    }
   },
   {
     "id": "science-058",
@@ -1088,7 +1405,21 @@
     "tags": [
       "chemistry",
       "reactions"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La rouille, c'est essentiellement du feu au ralenti extrême.",
+        "fact": "La rouille se forme quand le fer réagit avec l'oxygène dans un processus appelé oxydation — chimiquement similaire à la combustion, mais se déroulant des milliers de fois plus lentement car elle ne libère pas d'énergie aussi rapidement."
+      },
+      "nl": {
+        "hook": "Roest is in wezen vuur in extreme slow motion.",
+        "fact": "Roest ontstaat wanneer ijzer reageert met zuurstof in een proces dat oxidatie heet — scheikundig vergelijkbaar met verbranding, maar duizenden keren trager omdat het niet zo snel energie vrijgeeft."
+      },
+      "es": {
+        "hook": "El óxido es básicamente fuego a cámara superlenta.",
+        "fact": "El óxido se forma cuando el hierro reacciona con el oxígeno en un proceso llamado oxidación, químicamente similar a la combustión, solo que ocurre miles de veces más despacio porque no libera energía tan rápido."
+      }
+    }
   },
   {
     "id": "science-059",
@@ -1098,7 +1429,21 @@
     "tags": [
       "physics",
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certains liquides deviennent solides à l'instant même où vous les frappez.",
+        "fact": "Un mélange épais de fécule de maïs et d'eau est un fluide non newtonien — il coule comme un liquide sous une pression douce mais résiste comme un solide sous une force soudaine, ce qui permet aux gens de courir sur une piscine remplie de ce mélange sans couler."
+      },
+      "nl": {
+        "hook": "Sommige vloeistoffen worden vast op het moment dat je erop slaat.",
+        "fact": "Een dik mengsel van maïzena en water is een niet-newtoniaanse vloeistof — het vloeit als een vloeistof onder zachte druk, maar biedt weerstand als een vaste stof onder plotselinge kracht, waardoor mensen beroemd genoeg over een zwembad ervan kunnen rennen zonder weg te zakken."
+      },
+      "es": {
+        "hook": "Algunos líquidos se solidifican en el instante en que los golpeas.",
+        "fact": "Una mezcla espesa de maicena y agua es un fluido no newtoniano: fluye como un líquido bajo presión suave, pero se resiste como un sólido ante una fuerza repentina, lo que permite que la gente corra sobre una piscina de esta mezcla sin hundirse."
+      }
+    }
   },
   {
     "id": "science-060",
@@ -1108,7 +1453,21 @@
     "tags": [
       "physics",
       "thermodynamics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La glace à 0 °C ne se réchauffe pas pendant qu'elle fond.",
+        "fact": "Chauffer de la glace exactement à son point de fusion n'augmente pas sa température tant que le dernier cristal n'a pas fondu — l'énergie sert plutôt à briser les liaisons moléculaires, une quantité appelée chaleur latente."
+      },
+      "nl": {
+        "hook": "Ijs op 0 °C wordt niet warmer terwijl het smelt.",
+        "fact": "Ijs verwarmen op precies zijn smeltpunt verhoogt de temperatuur helemaal niet totdat elk laatste kristal vloeibaar is geworden — de energie gaat in plaats daarvan naar het verbreken van moleculaire bindingen, een hoeveelheid die latente warmte heet."
+      },
+      "es": {
+        "hook": "El hielo a 0 °C no se calienta mientras se derrite.",
+        "fact": "Calentar hielo exactamente en su punto de fusión no eleva su temperatura en absoluto hasta que el último cristal se ha convertido en líquido; la energía se destina en cambio a romper enlaces moleculares, una cantidad llamada calor latente."
+      }
+    }
   },
   {
     "id": "science-061",
@@ -1117,7 +1476,21 @@
     "fact": "Liberty's copper skin has turned green over more than a century thanks to a slow reaction with oxygen, water, and carbon dioxide in the air, forming a protective mineral layer called patina.",
     "tags": [
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La Statue de la Liberté n'est pas verte à cause de la peinture, mais de la chimie.",
+        "fact": "La peau de cuivre de la Statue de la Liberté a viré au vert en plus d'un siècle grâce à une lente réaction avec l'oxygène, l'eau et le dioxyde de carbone de l'air, formant une couche minérale protectrice appelée patine."
+      },
+      "nl": {
+        "hook": "Het Vrijheidsbeeld is niet groen door verf, maar door scheikunde.",
+        "fact": "De koperen huid van het Vrijheidsbeeld is in ruim een eeuw groen geworden door een langzame reactie met zuurstof, water en koolstofdioxide in de lucht, waarbij een beschermende minerale laag ontstond die patina heet."
+      },
+      "es": {
+        "hook": "La Estatua de la Libertad no es verde por la pintura, sino por la química.",
+        "fact": "La piel de cobre de la Estatua de la Libertad se ha vuelto verde a lo largo de más de un siglo gracias a una lenta reacción con el oxígeno, el agua y el dióxido de carbono del aire, que forma una capa mineral protectora llamada pátina."
+      }
+    }
   },
   {
     "id": "science-062",
@@ -1127,7 +1500,21 @@
     "tags": [
       "physics",
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'eau peut devenir plus chaude que son point d'ébullition sans bouillir.",
+        "fact": "Dans un récipient très lisse et non perturbé, l'eau peut être surchauffée au-delà de 100 °C sans former de bulles — c'est pourquoi une tasse trop chauffée au micro-ondes peut soudainement bouillonner violemment dès qu'on la remue."
+      },
+      "nl": {
+        "hook": "Water kan heter worden dan zijn kookpunt zonder te koken.",
+        "fact": "In een zeer glad, onverstoord bakje kan water tot boven de 100 °C oververhit raken zonder bellen te vormen — daarom kan een mok die te lang in de magnetron heeft gestaan plotseling heftig opborrelen zodra hij bewogen wordt."
+      },
+      "es": {
+        "hook": "El agua puede alcanzar una temperatura superior a su punto de ebullición sin hervir.",
+        "fact": "En un recipiente muy liso y sin perturbaciones, el agua puede sobrecalentarse por encima de 100 °C sin formar burbujas, razón por la cual una taza sobrecalentada en el microondas puede estallar de repente en cuanto se la mueve."
+      }
+    }
   },
   {
     "id": "science-063",
@@ -1137,7 +1524,21 @@
     "tags": [
       "chemistry",
       "elements"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un élément réagit avec presque tout, y compris le verre.",
+        "fact": "Le fluor est l'élément le plus réactif du tableau périodique — il est si agressif qu'il peut corroder le verre, l'eau et même certains gaz nobles dans les bonnes conditions."
+      },
+      "nl": {
+        "hook": "Eén element reageert met bijna alles, inclusief glas.",
+        "fact": "Fluor is het meest reactieve element in het periodiek systeem — het is zo agressief dat het onder de juiste omstandigheden glas, water en zelfs sommige edelgassen kan aantasten."
+      },
+      "es": {
+        "hook": "Hay un elemento que reacciona con casi todo, incluido el vidrio.",
+        "fact": "El flúor es el elemento más reactivo de la tabla periódica: es tan agresivo que puede corroer el vidrio, el agua e incluso algunos gases nobles bajo las condiciones adecuadas."
+      }
+    }
   },
   {
     "id": "science-064",
@@ -1147,7 +1548,21 @@
     "tags": [
       "chemistry",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les gaz nobles 'inertes' se sont révélés pas si inertes que ça.",
+        "fact": "Pendant des décennies, les chimistes ont supposé que les gaz nobles comme le xénon ne pouvaient jamais former de composés. Cette hypothèse s'est effondrée en 1962 quand le chimiste Neil Bartlett a synthétisé avec succès le premier composé de gaz noble, l'hexafluoroplatinate de xénon."
+      },
+      "nl": {
+        "hook": "'Inerte' edelgassen bleken niet zo inert te zijn.",
+        "fact": "Decennialang gingen scheikundigen ervan uit dat edelgassen zoals xenon nooit verbindingen konden vormen. Die aanname sneuvelde in 1962 toen scheikundige Neil Bartlett met succes de eerste edelgasverbinding synthetiseerde, xenon-hexafluoroplatinaat."
+      },
+      "es": {
+        "hook": "Los gases nobles 'inertes' resultaron no serlo tanto.",
+        "fact": "Durante décadas, los químicos asumieron que gases nobles como el xenón jamás podrían formar compuestos. Esa suposición se derrumbó en 1962, cuando el químico Neil Bartlett sintetizó con éxito el primer compuesto de gas noble, el hexafluoroplatinato de xenón."
+      }
+    }
   },
   {
     "id": "science-065",
@@ -1158,7 +1573,24 @@
     "tags": [
       "physics",
       "electricity"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le toit métallique d'une voiture peut vous protéger de la foudre.",
+        "fact": "Une cage de Faraday fonctionne en canalisant la charge électrique autour de l'extérieur d'une coque conductrice plutôt qu'à travers l'intérieur — c'est la carrosserie métallique d'une voiture, et non ses pneus en caoutchouc, qui empêche un éclair d'atteindre les passagers.",
+        "whyItMatters": "Le même principe protège les appareils électroniques sensibles des interférences électromagnétiques, des fours à micro-ondes aux salles d'IRM."
+      },
+      "nl": {
+        "hook": "Een metalen autodak kan je beschermen tegen blikseminslag.",
+        "fact": "Een kooi van Faraday werkt door elektrische lading rond de buitenkant van een geleidende schil te leiden in plaats van erdoorheen — het is de metalen carrosserie van een auto, niet de rubberen banden, die ervoor zorgt dat een blikseminslag de inzittenden niet bereikt.",
+        "whyItMatters": "Hetzelfde principe beschermt gevoelige elektronica tegen elektromagnetische interferentie, van magnetrons tot MRI-ruimtes."
+      },
+      "es": {
+        "hook": "El techo metálico de un coche puede protegerte de un rayo.",
+        "fact": "Una jaula de Faraday funciona canalizando la carga eléctrica por el exterior de una carcasa conductora en lugar de por dentro; es la carrocería metálica de un coche, no sus neumáticos de goma, lo que impide que un rayo alcance a los pasajeros.",
+        "whyItMatters": "El mismo principio protege a la electrónica sensible de las interferencias electromagnéticas, desde los microondas hasta las salas de resonancia magnética."
+      }
+    }
   },
   {
     "id": "science-066",
@@ -1169,7 +1601,24 @@
     "tags": [
       "materials",
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le matériau le plus résistant jamais testé n'a qu'un atome d'épaisseur.",
+        "fact": "Le graphène est une couche unique d'atomes de carbone disposés en un motif hexagonal en nid d'abeille, et à poids égal, c'est le matériau le plus résistant jamais mesuré par les scientifiques — plus de 100 fois plus résistant que l'acier.",
+        "whyItMatters": "Les chercheurs l'explorent pour tout, de l'électronique flexible à la filtration de l'eau en passant par les batteries de nouvelle génération."
+      },
+      "nl": {
+        "hook": "Het sterkste materiaal ooit getest is slechts één atoom dik.",
+        "fact": "Grafeen is een enkele laag koolstofatomen gerangschikt in een zeshoekig honingraatpatroon, en per gewicht is het het sterkste materiaal dat wetenschappers ooit gemeten hebben — meer dan 100 keer sterker dan staal.",
+        "whyItMatters": "Onderzoekers verkennen het voor alles van flexibele elektronica tot waterfiltratie en batterijen van de volgende generatie."
+      },
+      "es": {
+        "hook": "El material más resistente jamás probado tiene solo un átomo de grosor.",
+        "fact": "El grafeno es una única capa de átomos de carbono dispuestos en un patrón hexagonal de panal, y, a igualdad de peso, es el material más resistente que se ha medido: más de 100 veces más fuerte que el acero.",
+        "whyItMatters": "Los investigadores lo están explorando para todo, desde electrónica flexible hasta filtración de agua y baterías de nueva generación."
+      }
+    }
   },
   {
     "id": "science-067",
@@ -1178,7 +1627,21 @@
     "fact": "Every particle has an antimatter counterpart with opposite charge; when matter and antimatter meet, they annihilate each other and convert their entire mass into energy. CERN has created and briefly trapped antihydrogen atoms.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'antimatière est réelle, et des scientifiques l'ont créée en laboratoire.",
+        "fact": "Chaque particule a une contrepartie d'antimatière de charge opposée ; quand matière et antimatière se rencontrent, elles s'annihilent et convertissent toute leur masse en énergie. Le CERN a créé et brièvement piégé des atomes d'antihydrogène."
+      },
+      "nl": {
+        "hook": "Antimaterie is echt, en wetenschappers hebben het in een lab gemaakt.",
+        "fact": "Elk deeltje heeft een antimaterie-tegenhanger met een tegengestelde lading; wanneer materie en antimaterie elkaar ontmoeten, vernietigen ze elkaar en zetten ze hun hele massa om in energie. CERN heeft antiwaterstofatomen gemaakt en kortstondig gevangen."
+      },
+      "es": {
+        "hook": "La antimateria es real, y los científicos la han creado en un laboratorio.",
+        "fact": "Cada partícula tiene una contraparte de antimateria con carga opuesta; cuando la materia y la antimateria se encuentran, se aniquilan mutuamente y convierten toda su masa en energía. El CERN ha creado y atrapado brevemente átomos de antihidrógeno."
+      }
+    }
   },
   {
     "id": "science-068",
@@ -1188,7 +1651,21 @@
     "tags": [
       "physics",
       "nuclear"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une infime quantité de masse peut libérer une énorme quantité d'énergie.",
+        "fact": "L'équation d'Einstein E=mc² montre que masse et énergie sont interchangeables, et comme la vitesse de la lumière au carré est un nombre immense, convertir ne serait-ce qu'une petite quantité de masse libère une énergie massive — exactement ce qui se produit dans un réacteur nucléaire lors de la fission."
+      },
+      "nl": {
+        "hook": "Een piepklein beetje massa kan een enorme hoeveelheid energie loslaten.",
+        "fact": "Einsteins vergelijking E=mc² laat zien dat massa en energie inwisselbaar zijn, en omdat de lichtsnelheid in het kwadraat zo'n enorm getal is, geeft het omzetten van zelfs een kleine hoeveelheid massa enorme energie vrij — precies wat er gebeurt in een kernreactor tijdens splijting."
+      },
+      "es": {
+        "hook": "Una pequeñísima cantidad de masa puede liberar una enorme cantidad de energía.",
+        "fact": "La ecuación de Einstein E=mc² muestra que masa y energía son intercambiables, y como la velocidad de la luz al cuadrado es un número tan enorme, convertir incluso una pequeña cantidad de masa libera una energía masiva; exactamente lo que ocurre dentro de un reactor nuclear durante la fisión."
+      }
+    }
   },
   {
     "id": "science-069",
@@ -1198,7 +1675,21 @@
     "tags": [
       "chemistry",
       "elements"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'uranium est l'élément le plus lourd trouvé dans la nature en quantité réelle.",
+        "fact": "Les éléments plus lourds que l'uranium n'existent que comme créations humaines, produites pendant des fractions de seconde dans des accélérateurs de particules — le plus lourd confirmé à ce jour, l'oganesson, a un numéro atomique de 118."
+      },
+      "nl": {
+        "hook": "Uranium is het zwaarste element dat in de natuur in enige echte hoeveelheid voorkomt.",
+        "fact": "Elementen zwaarder dan uranium bestaan alleen als door mensen gemaakte creaties, geproduceerd gedurende fracties van een seconde in deeltjesversnellers — het zwaarste tot nu toe bevestigde element, oganesson, heeft atoomnummer 118."
+      },
+      "es": {
+        "hook": "El uranio es el elemento más pesado que se encuentra en la naturaleza en cantidades reales.",
+        "fact": "Los elementos más pesados que el uranio solo existen como creaciones humanas, producidas durante fracciones de segundo en aceleradores de partículas; el más pesado confirmado hasta ahora, el oganesón, tiene número atómico 118."
+      }
+    }
   },
   {
     "id": "science-070",
@@ -1207,7 +1698,21 @@
     "fact": "pH is logarithmic, so each single-point drop means a tenfold increase in acidity — a substance with pH 3 isn't just a little more acidic than one with pH 5, it's 100 times more acidic.",
     "tags": [
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'échelle de pH cache à quel point les acides diffèrent réellement.",
+        "fact": "Le pH est logarithmique, donc chaque baisse d'un point signifie une acidité multipliée par dix — une substance de pH 3 n'est pas juste un peu plus acide qu'une autre de pH 5, elle l'est 100 fois plus."
+      },
+      "nl": {
+        "hook": "De pH-schaal verbergt hoe drastisch verschillend zuren echt zijn.",
+        "fact": "pH is logaritmisch, dus elke daling van één punt betekent een tienvoudige toename in zuurgraad — een stof met pH 3 is niet slechts een beetje zuurder dan een met pH 5, ze is 100 keer zo zuur."
+      },
+      "es": {
+        "hook": "La escala de pH esconde lo drásticamente diferentes que son en realidad los ácidos.",
+        "fact": "El pH es logarítmico, así que cada punto que baja implica un aumento de diez veces en acidez: una sustancia con pH 3 no es solo un poco más ácida que una con pH 5, es 100 veces más ácida."
+      }
+    }
   },
   {
     "id": "science-071",
@@ -1217,7 +1722,21 @@
     "tags": [
       "chemistry",
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La glace carbonique saute complètement l'étape liquide.",
+        "fact": "Le dioxyde de carbone solide, ou glace carbonique, ne fond pas en flaque à pression atmosphérique normale — il se sublime, passant directement de solide à gaz, ce qui produit ce spectaculaire effet de brouillard sans jamais mouiller quoi que ce soit."
+      },
+      "nl": {
+        "hook": "Droogijs slaat de vloeibare fase volledig over.",
+        "fact": "Vast koolstofdioxide, oftewel droogijs, smelt niet tot een plas bij normale atmosferische druk — het sublimeert en gaat rechtstreeks van vast naar gasvormig over, waardoor het dat dramatische mist-effect geeft zonder ooit nat te worden."
+      },
+      "es": {
+        "hook": "El hielo seco se salta por completo la fase líquida.",
+        "fact": "El dióxido de carbono sólido, o hielo seco, no se derrite formando un charco a presión atmosférica normal: sublima, pasando directamente de sólido a gas, lo cual produce ese espectacular efecto de niebla sin llegar a mojarse jamás."
+      }
+    }
   },
   {
     "id": "science-072",
@@ -1228,7 +1747,24 @@
     "tags": [
       "physics",
       "quantum"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Des particules peuvent traverser des murs qu'elles ne devraient pas pouvoir franchir.",
+        "fact": "L'effet tunnel quantique permet aux particules de traverser des barrières d'énergie que la physique classique juge infranchissables, simplement parce que leur position est décrite par une probabilité plutôt que par un point fixe.",
+        "whyItMatters": "C'est en partie ce qui rend possibles les réactions de fusion du Soleil à sa température réelle, et c'est le principe de fonctionnement des puces mémoire flash."
+      },
+      "nl": {
+        "hook": "Deeltjes kunnen door muren gaan waar ze eigenlijk niet doorheen zouden mogen kunnen.",
+        "fact": "Kwantumtunneling laat deeltjes door energiebarrières gaan die volgens de klassieke natuurkunde onmogelijk te doorbreken zijn, simpelweg omdat hun positie beschreven wordt door waarschijnlijkheid in plaats van een vast punt.",
+        "whyItMatters": "Het is deels wat de fusiereacties van de zon mogelijk maakt bij de werkelijke temperatuur van haar kern, en het is het werkingsprincipe achter flashgeheugenchips."
+      },
+      "es": {
+        "hook": "Las partículas pueden atravesar paredes que en teoría no deberían poder cruzar.",
+        "fact": "El efecto túnel cuántico permite que las partículas atraviesen barreras de energía que la física clásica considera imposibles de superar, simplemente porque su posición se describe mediante probabilidad y no un punto fijo.",
+        "whyItMatters": "Es en parte lo que hace posibles las reacciones de fusión del Sol a la temperatura real de su núcleo, y es el principio de funcionamiento de los chips de memoria flash."
+      }
+    }
   },
   {
     "id": "science-073",
@@ -1238,7 +1774,21 @@
     "tags": [
       "physics",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une scientifique a remporté des prix Nobel dans deux sciences complètement différentes.",
+        "fact": "Marie Curie reste la seule personne à avoir jamais reçu des prix Nobel dans deux domaines scientifiques différents — physique en 1903 pour ses travaux sur la radioactivité, et chimie en 1911 pour la découverte du polonium et du radium."
+      },
+      "nl": {
+        "hook": "Eén wetenschapper won Nobelprijzen in twee compleet verschillende wetenschappen.",
+        "fact": "Marie Curie blijft de enige persoon ooit die Nobelprijzen kreeg in twee verschillende wetenschappelijke vakgebieden — natuurkunde in 1903 voor haar werk over radioactiviteit, en scheikunde in 1911 voor de ontdekking van polonium en radium."
+      },
+      "es": {
+        "hook": "Una científica ganó premios Nobel en dos ciencias completamente distintas.",
+        "fact": "Marie Curie sigue siendo la única persona que ha recibido premios Nobel en dos campos científicos diferentes: física en 1903 por su trabajo sobre la radiactividad, y química en 1911 por el descubrimiento del polonio y el radio."
+      }
+    }
   },
   {
     "id": "science-074",
@@ -1247,7 +1797,21 @@
     "fact": "A sonic boom is the shockwave created continuously by an object moving faster than the speed of sound — the sound waves it generates pile up behind it, and people on the ground hear that pile-up as a single sharp crack as it passes.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un bang supersonique n'est pas le moment où un avion 'franchit' le mur du son.",
+        "fact": "Un bang supersonique est l'onde de choc créée en continu par un objet se déplaçant plus vite que le son — les ondes sonores qu'il génère s'accumulent derrière lui, et les gens au sol entendent cette accumulation comme un unique claquement sec au passage de l'avion."
+      },
+      "nl": {
+        "hook": "Een sonische knal is niet het moment waarop een vliegtuig de geluidsbarrière 'doorbreekt'.",
+        "fact": "Een sonische knal is de schokgolf die continu ontstaat door een object dat sneller dan het geluid beweegt — de geluidsgolven die het opwekt stapelen zich achter het object op, en mensen op de grond horen die opstapeling als één scherpe knal wanneer het passeert."
+      },
+      "es": {
+        "hook": "Un estampido sónico no es el momento en que un avión 'rompe' la barrera del sonido.",
+        "fact": "Un estampido sónico es la onda de choque generada continuamente por un objeto que se mueve más rápido que el sonido; las ondas sonoras que produce se van acumulando detrás de él, y la gente en tierra escucha esa acumulación como un único chasquido agudo al pasar."
+      }
+    }
   },
   {
     "id": "science-075",
@@ -1257,7 +1821,21 @@
     "tags": [
       "physics",
       "mechanics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le berceau de Newton n'est pas qu'un jouet de bureau — c'est une démonstration de la quantité de mouvement.",
+        "fact": "Quand une bille percute une rangée de billes immobiles, sa quantité de mouvement se transmet presque sans perte à travers les billes du milieu, qui bougent à peine, pour propulser la bille à l'autre extrémité à presque la même vitesse."
+      },
+      "nl": {
+        "hook": "De wieg van Newton is niet zomaar een bureauspeeltje — het is een demonstratie van impuls.",
+        "fact": "Wanneer één bal in een rij stilstaande ballen zwaait, wordt zijn impuls bijna zonder verlies doorgegeven via de middelste ballen, die nauwelijks bewegen, om de bal aan het uiteinde met bijna dezelfde snelheid te lanceren."
+      },
+      "es": {
+        "hook": "La cuna de Newton no es solo un juguete de escritorio: es una demostración del momento lineal.",
+        "fact": "Cuando una bola oscila hacia una fila de bolas en reposo, su momento se transmite casi sin pérdidas a través de las bolas del medio, que apenas se mueven, para lanzar la bola del extremo a casi la misma velocidad."
+      }
+    }
   },
   {
     "id": "science-076",
@@ -1267,7 +1845,21 @@
     "tags": [
       "physics",
       "thermodynamics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un élastique étiré se réchauffe réellement.",
+        "fact": "Étirer un élastique réorganise ses chaînes polymères d'une manière qui libère une petite quantité de chaleur, que l'on peut sentir en pressant un élastique fraîchement étiré contre sa lèvre — et il se refroidit à nouveau une fois relâché."
+      },
+      "nl": {
+        "hook": "Een uitgerekt elastiekje wordt daadwerkelijk warmer.",
+        "fact": "Een elastiekje uitrekken herschikt de polymeerketens op een manier die een kleine hoeveelheid warmte vrijgeeft, wat je kunt voelen door een net uitgerekt elastiekje tegen je lip te drukken — en het koelt weer af zodra het wordt losgelaten."
+      },
+      "es": {
+        "hook": "Una goma elástica estirada en realidad se calienta.",
+        "fact": "Estirar una goma elástica reorganiza sus cadenas de polímero de una manera que libera una pequeña cantidad de calor, que puedes sentir al presionar una goma recién estirada contra tu labio, y vuelve a enfriarse al soltarla."
+      }
+    }
   },
   {
     "id": "science-077",
@@ -1276,7 +1868,21 @@
     "fact": "The Kelvin scale is written without the word 'degrees' because it's an absolute scale starting at true zero — 0 K is absolute zero, and each step up the scale is the same size as one degree Celsius.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il n'existe pas de 'degrés Kelvin'.",
+        "fact": "L'échelle Kelvin s'écrit sans le mot 'degrés' car c'est une échelle absolue commençant au zéro véritable — 0 K est le zéro absolu, et chaque échelon vers le haut a la même taille qu'un degré Celsius."
+      },
+      "nl": {
+        "hook": "'Graden Kelvin' bestaat eigenlijk niet.",
+        "fact": "De kelvinschaal wordt geschreven zonder het woord 'graden' omdat het een absolute schaal is die bij het echte nulpunt begint — 0 K is het absolute nulpunt, en elke stap omhoog op de schaal is even groot als één graad Celsius."
+      },
+      "es": {
+        "hook": "Los 'grados Kelvin' en realidad no existen.",
+        "fact": "La escala Kelvin se escribe sin la palabra 'grados' porque es una escala absoluta que comienza en el cero verdadero: 0 K es el cero absoluto, y cada paso hacia arriba en la escala tiene el mismo tamaño que un grado Celsius."
+      }
+    }
   },
   {
     "id": "science-078",
@@ -1286,7 +1892,21 @@
     "tags": [
       "physics",
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une balle en caoutchouc plongée dans l'azote liquide se brise comme du verre.",
+        "fact": "L'azote liquide se trouve à environ -196 °C, assez froid pour figer les chaînes polymères flexibles du caoutchouc — une balle trempée dedans puis lâchée se brisera en éclats vitreux au lieu de rebondir."
+      },
+      "nl": {
+        "hook": "Een rubberen bal die in vloeibare stikstof wordt gedoopt, breekt als glas.",
+        "fact": "Vloeibare stikstof zit rond de -196 °C, koud genoeg om de flexibele polymeerketens van rubber stijf te bevriezen — een bal die erin gedoopt en daarna laten vallen wordt, breekt in glasachtige scherven in plaats van te stuiteren."
+      },
+      "es": {
+        "hook": "Una pelota de goma sumergida en nitrógeno líquido se rompe como el cristal.",
+        "fact": "El nitrógeno líquido está a unos -196 °C, lo bastante frío como para congelar y rigidizar las flexibles cadenas de polímero de la goma; una pelota sumergida en él y luego dejada caer se hará añicos como el cristal en lugar de rebotar."
+      }
+    }
   },
   {
     "id": "science-079",
@@ -1295,7 +1915,21 @@
     "fact": "An atom's identity is defined entirely by its number of protons — change that number and it becomes an entirely different element, while changing the number of neutrons just creates a different isotope of the same element.",
     "tags": [
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Ajouter ou retirer un seul proton change l'élément que vous avez.",
+        "fact": "L'identité d'un atome est entièrement définie par son nombre de protons — changez ce nombre et il devient un élément entièrement différent, tandis que changer le nombre de neutrons crée simplement un isotope différent du même élément."
+      },
+      "nl": {
+        "hook": "Eén proton toevoegen of verwijderen verandert welk element je hebt.",
+        "fact": "De identiteit van een atoom wordt volledig bepaald door het aantal protonen — verander dat aantal en het wordt een volledig ander element, terwijl het veranderen van het aantal neutronen simpelweg een andere isotoop van hetzelfde element oplevert."
+      },
+      "es": {
+        "hook": "Añadir o quitar un solo protón cambia de qué elemento se trata.",
+        "fact": "La identidad de un átomo está definida por completo por su número de protones: cambia ese número y se convierte en un elemento totalmente distinto, mientras que cambiar el número de neutrones solo crea un isótopo diferente del mismo elemento."
+      }
+    }
   },
   {
     "id": "science-080",
@@ -1306,7 +1940,24 @@
     "tags": [
       "chemistry",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un procédé chimique est crédité d'avoir nourri environ la moitié du monde.",
+        "fact": "Le procédé Haber-Bosch, développé au début des années 1900, extrait directement l'azote de l'air et le convertit en ammoniac pour la fabrication d'engrais à l'échelle industrielle.",
+        "whyItMatters": "Les historiens estiment que ce procédé soutient l'approvisionnement alimentaire d'environ la moitié de la population mondiale actuelle — bien que cette même chimie de fixation de l'azote ait aussi servi à fabriquer des explosifs pendant la Première Guerre mondiale."
+      },
+      "nl": {
+        "hook": "Eén chemisch proces krijgt de eer voor het voeden van ongeveer de helft van de wereld.",
+        "fact": "Het Haber-Bosch-proces, ontwikkeld in het begin van de jaren 1900, haalt stikstof rechtstreeks uit de lucht en zet het op industriële schaal om in ammoniak voor kunstmest.",
+        "whyItMatters": "Historici schatten dat dit proces de voedselvoorziening ondersteunt van ongeveer de helft van de huidige wereldbevolking — hoewel diezelfde stikstofbindende scheikunde tijdens de Eerste Wereldoorlog ook werd gebruikt om explosieven te maken."
+      },
+      "es": {
+        "hook": "A un proceso químico se le atribuye alimentar a casi la mitad del mundo.",
+        "fact": "El proceso Haber-Bosch, desarrollado a principios del siglo XX, extrae nitrógeno directamente del aire y lo convierte en amoniaco para fertilizantes a escala industrial.",
+        "whyItMatters": "Los historiadores estiman que este proceso sostiene el suministro de alimentos de alrededor de la mitad de la población mundial actual, aunque esa misma química de fijación de nitrógeno también se usó para fabricar explosivos durante la Primera Guerra Mundial."
+      }
+    }
   },
   {
     "id": "science-081",
@@ -1316,7 +1967,21 @@
     "tags": [
       "physics",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Chauffez suffisamment le fer et il cesse d'être magnétique.",
+        "fact": "Le fer perd son magnétisme au-dessus de son point de Curie, environ 770 °C, quand l'énergie thermique devient assez forte pour brouiller l'alignement de ses domaines magnétiques."
+      },
+      "nl": {
+        "hook": "Verhit ijzer voldoende en het stopt met magnetisch zijn.",
+        "fact": "IJzer verliest zijn magnetisme boven zijn curiepunt, rond de 770 °C, wanneer de thermische energie sterk genoeg wordt om de uitlijning van zijn magnetische domeinen te verstoren."
+      },
+      "es": {
+        "hook": "Calienta el hierro lo suficiente y deja de ser magnético.",
+        "fact": "El hierro pierde su magnetismo por encima de su punto de Curie, alrededor de 770 °C, cuando la energía térmica se vuelve lo bastante fuerte como para desordenar la alineación de sus dominios magnéticos."
+      }
+    }
   },
   {
     "id": "science-082",
@@ -1326,7 +1991,21 @@
     "tags": [
       "physics",
       "mechanics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il faut plus de force pour commencer à pousser une caisse que pour continuer à la faire glisser.",
+        "fact": "Le frottement statique, qui résiste au démarrage du mouvement d'un objet, est généralement plus fort que le frottement cinétique, qui résiste une fois qu'il glisse déjà — c'est pourquoi la caisse semble 'se libérer' et devenir plus facile à pousser."
+      },
+      "nl": {
+        "hook": "Het kost meer kracht om een kist te laten bewegen dan om hem daarna te laten glijden.",
+        "fact": "Statische wrijving, die weerstand biedt tegen het op gang komen van een voorwerp, is doorgaans sterker dan kinetische wrijving, die weerstand biedt zodra het al glijdt — daarom lijkt de kist plotseling 'los te breken' en makkelijker te duwen."
+      },
+      "es": {
+        "hook": "Cuesta más fuerza empezar a empujar una caja que mantenerla deslizándose.",
+        "fact": "La fricción estática, que se opone a que un objeto empiece a moverse, suele ser más fuerte que la fricción cinética, que se opone una vez que ya se está deslizando; por eso la caja parece 'liberarse' y volverse más fácil de empujar."
+      }
+    }
   },
   {
     "id": "science-083",
@@ -1336,7 +2015,21 @@
     "tags": [
       "physics",
       "mechanics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un navire en acier flotte pour la même raison qu'un clou en acier coule.",
+        "fact": "La flottabilité dépend du poids d'eau déplacé par un objet, pas seulement de son matériau — la forme creuse d'un navire déplace assez d'eau pour soutenir son poids, tandis qu'un clou plein est trop dense et compact pour en déplacer suffisamment."
+      },
+      "nl": {
+        "hook": "Een stalen schip drijft om precies dezelfde reden dat een stalen spijker zinkt.",
+        "fact": "Drijfvermogen hangt af van het gewicht van het water dat een voorwerp verplaatst, niet alleen van het materiaal — de holle vorm van een schip verplaatst genoeg water om zijn gewicht te dragen, terwijl een massieve spijker te dicht en compact is om voldoende water te verplaatsen."
+      },
+      "es": {
+        "hook": "Un barco de acero flota por la misma razón por la que un clavo de acero se hunde.",
+        "fact": "La flotabilidad depende del peso del agua que desplaza un objeto, no solo de su material: la forma hueca de un barco desplaza suficiente agua para sostener su peso, mientras que un clavo macizo es demasiado denso y compacto para desplazar lo suficiente."
+      }
+    }
   },
   {
     "id": "science-084",
@@ -1346,7 +2039,21 @@
     "tags": [
       "physics",
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Certaines substances brillent pendant des heures après l'extinction des lumières.",
+        "fact": "Les matériaux phosphorescents fonctionnent par phosphorescence, absorbant l'énergie lumineuse et la relâchant lentement sur des minutes ou des heures — contrairement à la fluorescence, qui réémet la lumière absorbée presque instantanément et cesse de briller dès que la source lumineuse disparaît."
+      },
+      "nl": {
+        "hook": "Sommige stoffen gloeien nog uren nadat het licht is uitgegaan.",
+        "fact": "In-het-donker-gloeiende materialen werken via fosforescentie: ze absorberen lichtenergie en geven die langzaam vrij over minuten of uren — in tegenstelling tot fluorescentie, die geabsorbeerd licht bijna direct opnieuw uitzendt en stopt met gloeien zodra de lichtbron weg is."
+      },
+      "es": {
+        "hook": "Algunas sustancias brillan durante horas después de que se apaguen las luces.",
+        "fact": "Los materiales que brillan en la oscuridad funcionan mediante fosforescencia, absorbiendo energía luminosa y liberándola lentamente durante minutos u horas, a diferencia de la fluorescencia, que reemite la luz absorbida casi al instante y deja de brillar en cuanto desaparece la fuente de luz."
+      }
+    }
   },
   {
     "id": "science-085",
@@ -1356,7 +2063,21 @@
     "tags": [
       "chemistry",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le diamant n'est pas juste 'un peu' plus dur que le minéral juste en dessous de lui.",
+        "fact": "L'échelle de dureté de Mohs classe les minéraux de 1 à 10 selon leur résistance à la rayure, mais les échelons ne sont pas égaux — le diamant (10) est environ quatre fois plus dur que le corindon (9), même s'ils sont juste côte à côte sur l'échelle."
+      },
+      "nl": {
+        "hook": "Diamant is niet zomaar 'een beetje' harder dan het mineraal één stap eronder.",
+        "fact": "De hardheidsschaal van Mohs rangschikt mineralen van 1 tot 10 op krasbestendigheid, maar de stappen zijn niet gelijk — diamant (10) is ongeveer vier keer zo hard als korund (9), ook al staan ze vlak naast elkaar op de schaal."
+      },
+      "es": {
+        "hook": "El diamante no es solo 'un poco' más duro que el mineral que está justo un escalón por debajo.",
+        "fact": "La escala de dureza de Mohs clasifica los minerales del 1 al 10 según su resistencia al rayado, pero los escalones no son iguales: el diamante (10) es aproximadamente cuatro veces más duro que el corindón (9), aunque estén justo uno al lado del otro en la escala."
+      }
+    }
   },
   {
     "id": "science-086",
@@ -1366,7 +2087,21 @@
     "tags": [
       "chemistry",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'or n'est en fait pas le meilleur conducteur d'électricité.",
+        "fact": "L'argent conduit le mieux l'électricité, suivi du cuivre — l'or se classe derrière les deux. L'électronique utilise quand même l'or pour les contacts critiques car il résiste à la corrosion, gardant les connexions fiables pendant des décennies."
+      },
+      "nl": {
+        "hook": "Goud is eigenlijk niet de beste geleider van elektriciteit.",
+        "fact": "Zilver geleidt elektriciteit het beste, gevolgd door koper — goud staat onder beide. Elektronica gebruikt toch goud voor kritieke contacten omdat het corrosiebestendig is, waardoor verbindingen decennialang betrouwbaar blijven."
+      },
+      "es": {
+        "hook": "El oro en realidad no es el mejor conductor de electricidad.",
+        "fact": "La plata conduce mejor la electricidad, seguida del cobre; el oro queda por debajo de ambos. Aun así, la electrónica usa oro en contactos críticos porque resiste la corrosión, manteniendo las conexiones fiables durante décadas."
+      }
+    }
   },
   {
     "id": "science-087",
@@ -1375,7 +2110,21 @@
     "fact": "The Leidenfrost effect happens when a surface is so hot that the bottom of a water droplet instantly vaporizes, forming a cushioning layer of steam that lets the droplet skitter around instead of boiling away immediately.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une goutte d'eau peut glisser sur une poêle brûlante au lieu de s'évaporer.",
+        "fact": "L'effet Leidenfrost se produit quand une surface est si chaude que le dessous d'une goutte d'eau se vaporise instantanément, formant une couche de vapeur qui amortit et laisse la goutte filer partout au lieu de s'évaporer immédiatement."
+      },
+      "nl": {
+        "hook": "Een druppel water kan over een hete pan schaatsen in plaats van te verdampen.",
+        "fact": "Het Leidenfrost-effect treedt op wanneer een oppervlak zo heet is dat de onderkant van een waterdruppel onmiddellijk verdampt en een kussende dampfilm vormt, waardoor de druppel rondscheert in plaats van meteen weg te koken."
+      },
+      "es": {
+        "hook": "Una gota de agua puede deslizarse sobre una sartén caliente en vez de evaporarse.",
+        "fact": "El efecto Leidenfrost ocurre cuando una superficie está tan caliente que la parte inferior de una gota de agua se vaporiza al instante, formando una capa de vapor amortiguadora que hace que la gota se deslice de un lado a otro en lugar de evaporarse de inmediato."
+      }
+    }
   },
   {
     "id": "science-088",
@@ -1385,7 +2134,21 @@
     "tags": [
       "chemistry",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'aluminium valait autrefois plus cher que l'or.",
+        "fact": "Avant qu'une méthode d'extraction efficace ne soit inventée en 1886, raffiner l'aluminium à partir du minerai était si difficile qu'il était considéré comme un métal précieux — Napoléon III aurait réservé des couverts en aluminium à ses invités les plus honorés."
+      },
+      "nl": {
+        "hook": "Aluminium was ooit meer waard dan goud.",
+        "fact": "Voordat er in 1886 een efficiënte extractiemethode werd uitgevonden, was het raffineren van aluminium uit erts zo moeilijk dat het als edelmetaal werd beschouwd — Napoleon III zou naar verluidt aluminium bestek hebben gereserveerd voor zijn meest geëerde etensgasten."
+      },
+      "es": {
+        "hook": "El aluminio antes valía más que el oro.",
+        "fact": "Antes de que en 1886 se inventara un método de extracción eficiente, refinar aluminio a partir del mineral era tan difícil que se lo consideraba un metal precioso; se dice que Napoleón III reservaba cubiertos de aluminio para sus invitados más honorables."
+      }
+    }
   },
   {
     "id": "science-089",
@@ -1396,7 +2159,24 @@
     "tags": [
       "materials",
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le titane est presque aussi résistant que l'acier pour moins de la moitié du poids.",
+        "fact": "Les alliages de titane peuvent égaler la résistance de nombreux alliages d'acier tout en pesant environ 40 à 45 % de moins, ce qui explique pourquoi ils sont prisés dans les carlingues d'avion, les composants spatiaux et les prothèses articulaires.",
+        "whyItMatters": "Ce rapport résistance/poids explique aussi pourquoi les implants en titane peuvent rester dans le corps humain pendant des décennies sans se corroder."
+      },
+      "nl": {
+        "hook": "Titanium is bijna even sterk als staal, maar weegt minder dan de helft.",
+        "fact": "Titaniumlegeringen kunnen de sterkte van veel staallegeringen evenaren terwijl ze ongeveer 40-45% minder wegen, waardoor ze gewild zijn in vliegtuigframes, ruimtevaartonderdelen en gewrichtsprotheses.",
+        "whyItMatters": "Diezelfde verhouding tussen sterkte en gewicht is ook de reden dat titanium implantaten decennialang in het menselijk lichaam kunnen blijven zonder te corroderen."
+      },
+      "es": {
+        "hook": "El titanio es casi tan resistente como el acero pesando menos de la mitad.",
+        "fact": "Las aleaciones de titanio pueden igualar la resistencia de muchas aleaciones de acero pesando aproximadamente entre un 40 y un 45% menos, razón por la cual son tan valoradas en fuselajes de aviones, componentes de naves espaciales y prótesis articulares.",
+        "whyItMatters": "Esa relación resistencia-peso también explica por qué los implantes de titanio pueden permanecer en el cuerpo humano durante décadas sin corroerse."
+      }
+    }
   },
   {
     "id": "science-090",
@@ -1406,7 +2186,21 @@
     "tags": [
       "physics",
       "optics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Mélanger des peintures et mélanger de la lumière suivent des règles opposées.",
+        "fact": "Combiner de la lumière rouge, verte et bleue produit de la lumière blanche, car le mélange de lumière est additif — mais combiner des pigments de peinture est soustractif, si bien que mélanger toutes les couleurs primaires de peinture vous rapproche du noir ou d'un brun boueux."
+      },
+      "nl": {
+        "hook": "Verf mengen en licht mengen volgen tegenovergestelde regels.",
+        "fact": "Rood, groen en blauw licht combineren geeft wit licht, want lichtmenging is additief — maar verfpigmenten combineren is subtractief, waardoor het mengen van alle primaire verfkleuren je dichter bij zwart of modderig bruin brengt."
+      },
+      "es": {
+        "hook": "Mezclar pintura y mezclar luz siguen reglas opuestas.",
+        "fact": "Combinar luz roja, verde y azul produce luz blanca, ya que la mezcla de luz es aditiva; en cambio, combinar pigmentos de pintura es sustractiva, así que mezclar todos los colores primarios de pintura te acerca al negro o a un marrón turbio."
+      }
+    }
   },
   {
     "id": "science-091",
@@ -1416,7 +2210,21 @@
     "tags": [
       "physics",
       "optics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une pomme rouge n'est pas vraiment rouge, en un sens.",
+        "fact": "La couleur apparente d'un objet vient des longueurs d'onde de lumière qu'il réfléchit, et non de celles qu'il absorbe — une pomme 'rouge' paraît rouge parce qu'elle absorbe toutes les autres couleurs et renvoie la lumière rouge vers vos yeux."
+      },
+      "nl": {
+        "hook": "Een rode appel is in zekere zin eigenlijk niet rood.",
+        "fact": "De schijnbare kleur van een voorwerp komt van de lichtgolflengtes die het reflecteert, niet die het absorbeert — een 'rode' appel ziet er rood uit omdat hij elke andere kleur absorbeert en rood licht terugkaatst naar je ogen."
+      },
+      "es": {
+        "hook": "En cierto sentido, una manzana roja en realidad no es roja.",
+        "fact": "El color aparente de un objeto proviene de las longitudes de onda de luz que refleja, no de las que absorbe; una manzana 'roja' se ve roja porque absorbe todos los demás colores y devuelve la luz roja hacia tus ojos."
+      }
+    }
   },
   {
     "id": "science-092",
@@ -1426,7 +2234,21 @@
     "tags": [
       "materials",
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Il existe un liquide qui se hérisse de pointes quand un aimant s'en approche.",
+        "fact": "Le ferrofluide est une huile chargée de particules magnétiques nanométriques qui s'alignent avec un champ magnétique proche, formant des pics spectaculaires et pointus qui se déplacent avec l'aimant."
+      },
+      "nl": {
+        "hook": "Er bestaat een vloeistof die stekels vormt zodra er een magneet in de buurt komt.",
+        "fact": "Ferrofluïde is een olie doordrenkt met nanoschaal magnetische deeltjes die zich uitlijnen met een nabijgelegen magnetisch veld, waardoor dramatische, stekelige pieken ontstaan die verschuiven als de magneet beweegt."
+      },
+      "es": {
+        "hook": "Existe un líquido que forma púas cuando acercas un imán.",
+        "fact": "El ferrofluido es un aceite impregnado de partículas magnéticas a escala nanométrica que se alinean con un campo magnético cercano, formando picos espectaculares y puntiagudos que cambian a medida que se mueve el imán."
+      }
+    }
   },
   {
     "id": "science-093",
@@ -1436,7 +2258,21 @@
     "tags": [
       "physics",
       "mechanics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un élévateur hydraulique multiplie la force grâce à une règle simple sur les liquides.",
+        "fact": "Le principe de Pascal énonce que la pression appliquée n'importe où dans un fluide confiné se transmet également dans tout le fluide — appuyez sur un petit piston, et cette pression pousse un piston bien plus grand vers le haut avec une force bien plus importante, permettant à un mécanicien de soulever une voiture d'une seule main sur la pompe."
+      },
+      "nl": {
+        "hook": "Een hydraulische autolift vermenigvuldigt kracht via een simpele regel over vloeistoffen.",
+        "fact": "Het principe van Pascal stelt dat druk die ergens in een afgesloten vloeistof wordt uitgeoefend zich gelijkmatig door de hele vloeistof verspreidt — duw op een kleine zuiger, en die druk duwt een veel grotere zuiger omhoog met veel meer kracht, waardoor een monteur een auto met één hand op de pomp kan optillen."
+      },
+      "es": {
+        "hook": "Un elevador hidráulico multiplica la fuerza gracias a una sencilla regla sobre los líquidos.",
+        "fact": "El principio de Pascal establece que la presión aplicada en cualquier punto de un fluido cerrado se transmite por igual en todas direcciones; empuja hacia abajo un pistón pequeño, y esa presión empuja hacia arriba un pistón mucho más grande con muchísima más fuerza, permitiendo que un mecánico levante un coche con una sola mano sobre la bomba."
+      }
+    }
   },
   {
     "id": "science-094",
@@ -1447,7 +2283,24 @@
     "tags": [
       "chemistry",
       "thermodynamics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'eau demande une quantité d'énergie inhabituelle pour se réchauffer.",
+        "fact": "L'eau possède l'une des plus hautes capacités thermiques massiques parmi les substances courantes, ce qui signifie qu'elle absorbe beaucoup d'énergie avant que sa température ne monte de façon notable.",
+        "whyItMatters": "C'est une raison majeure pour laquelle les grandes étendues d'eau modèrent le climat des régions côtières voisines, les gardant plus fraîches en été et plus chaudes en hiver que les terres intérieures."
+      },
+      "nl": {
+        "hook": "Water heeft een ongewoon grote hoeveelheid energie nodig om op te warmen.",
+        "fact": "Water heeft een van de hoogste soortelijke warmtes van alle veelvoorkomende stoffen, wat betekent dat het veel energie opneemt voordat de temperatuur merkbaar stijgt.",
+        "whyItMatters": "Dat is een belangrijke reden waarom grote watermassa's het klimaat van nabijgelegen kustregio's matigen, waardoor ze in de zomer koeler en in de winter warmer blijven dan gebieden landinwaarts."
+      },
+      "es": {
+        "hook": "El agua necesita una cantidad inusual de energía para calentarse.",
+        "fact": "El agua tiene una de las capacidades caloríficas específicas más altas entre las sustancias comunes, lo que significa que absorbe mucha energía antes de que su temperatura suba de forma notable.",
+        "whyItMatters": "Es una razón importante por la que las grandes masas de agua moderan el clima de las regiones costeras cercanas, manteniéndolas más frescas en verano y más cálidas en invierno que las zonas del interior."
+      }
+    }
   },
   {
     "id": "science-095",
@@ -1457,7 +2310,21 @@
     "tags": [
       "physics",
       "thermodynamics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La 'chaleur', ce ne sont en réalité que des molécules qui bougent plus vite.",
+        "fact": "La température mesure l'énergie cinétique moyenne des molécules d'une substance — les objets 'chauds' ont simplement des molécules plus rapides et plus énergiques que les objets 'froids', et la chaleur est le transfert de cette énergie entre eux."
+      },
+      "nl": {
+        "hook": "'Warmte' is eigenlijk gewoon moleculen die sneller bewegen.",
+        "fact": "Temperatuur is een maat voor de gemiddelde kinetische energie van de moleculen van een stof — 'hete' voorwerpen hebben simpelweg sneller bewegende, energiekere moleculen dan 'koude', en warmte is de overdracht van die energie tussen hen."
+      },
+      "es": {
+        "hook": "El 'calor' en realidad es solo moléculas moviéndose más rápido.",
+        "fact": "La temperatura mide la energía cinética media de las moléculas de una sustancia; los objetos 'calientes' simplemente tienen moléculas que se mueven más rápido y con más energía que los 'fríos', y el calor es la transferencia de esa energía entre ellos."
+      }
+    }
   },
   {
     "id": "science-096",
@@ -1468,7 +2335,24 @@
     "tags": [
       "physics",
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Personne ne peut prédire quand un seul atome radioactif se désintégrera.",
+        "fact": "La désintégration radioactive est véritablement aléatoire pour tout atome individuel, mais extrêmement prévisible sur un large échantillon — cette régularité statistique est ce qui définit la demi-vie d'une substance, le temps nécessaire pour que la moitié d'un échantillon se désintègre.",
+        "whyItMatters": "C'est le même principe qui rend la datation radiométrique et certains traitements contre le cancer fiablement calculables."
+      },
+      "nl": {
+        "hook": "Niemand kan voorspellen wanneer een enkel radioactief atoom vervalt.",
+        "fact": "Radioactief verval is echt willekeurig voor elk individueel atoom, maar buitengewoon voorspelbaar over een groot monster — die statistische regelmaat is wat de halveringstijd van een stof bepaalt, de tijd waarin de helft van een monster vervalt.",
+        "whyItMatters": "Het is hetzelfde principe dat radiometrische datering en bepaalde kankerbehandelingen betrouwbaar berekenbaar maakt."
+      },
+      "es": {
+        "hook": "Nadie puede predecir cuándo se desintegrará un solo átomo radiactivo.",
+        "fact": "La desintegración radiactiva es genuinamente aleatoria para cualquier átomo individual, pero enormemente predecible en una muestra grande; esa regularidad estadística es lo que define la vida media de una sustancia, el tiempo que tarda en desintegrarse la mitad de una muestra.",
+        "whyItMatters": "Es el mismo principio que hace que la datación radiométrica y ciertos tratamientos contra el cáncer sean calculables de forma fiable."
+      }
+    }
   },
   {
     "id": "science-097",
@@ -1478,7 +2362,21 @@
     "tags": [
       "chemistry",
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les archéologues peuvent dater un os vieux de 10 000 ans grâce à une horloge cachée dans ses atomes.",
+        "fact": "La datation au carbone compare le ratio de carbone-14 radioactif au carbone-12 stable dans une matière ayant été vivante ; comme le C-14 se désintègre à un rythme connu et régulier après la mort d'un organisme, ce ratio révèle approximativement depuis combien de temps il est mort."
+      },
+      "nl": {
+        "hook": "Archeologen kunnen een bot van 10.000 jaar oud dateren met een klok in zijn atomen.",
+        "fact": "Koolstofdatering vergelijkt de verhouding tussen radioactief koolstof-14 en stabiel koolstof-12 in materiaal dat ooit leefde; omdat C-14 na de dood van een organisme met een bekend, gestaag tempo vervalt, onthult de verhouding ongeveer hoe lang geleden het is gestorven."
+      },
+      "es": {
+        "hook": "Los arqueólogos pueden datar un hueso de 10.000 años usando un reloj oculto en sus átomos.",
+        "fact": "La datación por carbono compara la proporción de carbono-14 radiactivo frente al carbono-12 estable en material que estuvo vivo; como el C-14 se desintegra a un ritmo conocido y constante tras la muerte del organismo, esa proporción revela aproximadamente cuánto tiempo hace que murió."
+      }
+    }
   },
   {
     "id": "science-098",
@@ -1488,7 +2386,21 @@
     "tags": [
       "chemistry",
       "reactions"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le classique volcan au bicarbonate est de la vraie chimie, pas juste un accessoire scolaire.",
+        "fact": "Mélanger du bicarbonate de soude (une base) avec du vinaigre (un acide) déclenche une réaction qui produit du dioxyde de carbone, de l'eau et de l'acétate de sodium — l'éruption pétillante est le CO2 qui s'échappe rapidement."
+      },
+      "nl": {
+        "hook": "De klassieke bakingsoda-vulkaan is echte scheikunde, geen schoolprop.",
+        "fact": "Baking soda (een base) mengen met azijn (een zuur) veroorzaakt een reactie die koolstofdioxidegas, water en natriumacetaat oplevert — de bruisende uitbarsting is het CO2 dat snel ontsnapt."
+      },
+      "es": {
+        "hook": "El clásico volcán de bicarbonato de sodio es química de verdad, no solo un truco escolar.",
+        "fact": "Mezclar bicarbonato de sodio (una base) con vinagre (un ácido) desencadena una reacción que produce dióxido de carbono, agua y acetato de sodio; la erupción burbujeante es el CO2 escapando rápidamente."
+      }
+    }
   },
   {
     "id": "science-099",
@@ -1498,7 +2410,21 @@
     "tags": [
       "chemistry",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "L'acier n'est pas du tout un métal pur.",
+        "fact": "L'acier est un alliage — principalement du fer avec un petit pourcentage de carbone mélangé, typiquement moins de 2 % — et cet ajout minime augmente considérablement sa résistance et sa dureté par rapport au fer pur."
+      },
+      "nl": {
+        "hook": "Staal is helemaal geen zuiver metaal.",
+        "fact": "Staal is een legering — voornamelijk ijzer met een klein percentage koolstof erin gemengd, doorgaans minder dan 2% — en die kleine toevoeging verhoogt de sterkte en hardheid drastisch in vergelijking met puur ijzer."
+      },
+      "es": {
+        "hook": "El acero no es en absoluto un metal puro.",
+        "fact": "El acero es una aleación, principalmente hierro con un pequeño porcentaje de carbono mezclado, típicamente menos del 2%, y esa pequeña adición aumenta drásticamente su resistencia y dureza en comparación con el hierro puro."
+      }
+    }
   },
   {
     "id": "science-100",
@@ -1508,7 +2434,21 @@
     "tags": [
       "chemistry",
       "history"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Toute une ère de l'histoire humaine porte le nom d'un alliage.",
+        "fact": "Le bronze, obtenu en combinant du cuivre et de l'étain, était assez durable et tranchant pour transformer profondément la fabrication d'outils et la guerre, à tel point que les historiens ont nommé la période d'après lui : l'âge du bronze."
+      },
+      "nl": {
+        "hook": "Een hele periode van de menselijke geschiedenis is vernoemd naar een legering.",
+        "fact": "Brons, gemaakt door koper met tin te combineren, was duurzaam en scherp genoeg om gereedschapsmakerij en oorlogsvoering zo ingrijpend te hervormen dat historici de periode ernaar vernoemden: de bronstijd."
+      },
+      "es": {
+        "hook": "Toda una era de la historia humana lleva el nombre de una aleación.",
+        "fact": "El bronce, fabricado combinando cobre con estaño, era tan duradero y afilado que transformó por completo la fabricación de herramientas y la guerra, tanto que los historiadores bautizaron ese periodo en su honor: la Edad del Bronce."
+      }
+    }
   },
   {
     "id": "science-101",
@@ -1517,7 +2457,21 @@
     "fact": "The Doppler effect compresses sound waves as a source approaches and stretches them as it moves away, which is why a siren sounds higher-pitched coming toward you and lower-pitched as it passes.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La sirène d'une ambulance ne change pas vraiment de hauteur — c'est votre position par rapport à elle qui change.",
+        "fact": "L'effet Doppler comprime les ondes sonores quand une source s'approche et les étire quand elle s'éloigne, ce qui explique pourquoi une sirène semble plus aiguë en s'approchant de vous et plus grave après vous avoir dépassé."
+      },
+      "nl": {
+        "hook": "Een ambulancesirene verandert niet echt van toonhoogte — jouw positie ten opzichte ervan wel.",
+        "fact": "Het dopplereffect comprimeert geluidsgolven wanneer een bron nadert en rekt ze uit wanneer die zich verwijdert, waardoor een sirene hoger klinkt terwijl hij naar je toe komt en lager zodra hij voorbij is."
+      },
+      "es": {
+        "hook": "La sirena de una ambulancia en realidad no cambia de tono; lo que cambia es tu posición respecto a ella.",
+        "fact": "El efecto Doppler comprime las ondas sonoras cuando una fuente se acerca y las estira cuando se aleja, razón por la cual una sirena suena más aguda al acercarse y más grave al alejarse tras pasar."
+      }
+    }
   },
   {
     "id": "science-102",
@@ -1527,7 +2481,21 @@
     "tags": [
       "physics",
       "optics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les lunettes de soleil polarisées bloquent une direction précise de lumière, pas juste la luminosité.",
+        "fact": "L'éblouissement sur des surfaces planes comme l'eau ou les routes mouillées est surtout de la lumière vibrant dans une seule direction ; les verres polarisés contiennent un filtre qui bloque cette orientation tout en laissant passer les autres lumières, réduisant l'éblouissement sans assombrir tout uniformément."
+      },
+      "nl": {
+        "hook": "Gepolariseerde zonnebrillen blokkeren een specifieke lichtrichting, niet gewoon helderheid.",
+        "fact": "Verblinding van vlakke oppervlakken zoals water of natte wegen bestaat vooral uit licht dat in één richting trilt; gepolariseerde lenzen bevatten een filter die die oriëntatie blokkeert terwijl ander licht wordt doorgelaten, waardoor verblinding vermindert zonder alles gelijkmatig te verduisteren."
+      },
+      "es": {
+        "hook": "Las gafas de sol polarizadas bloquean una dirección específica de la luz, no solo el brillo.",
+        "fact": "El deslumbramiento en superficies planas como el agua o las carreteras mojadas es principalmente luz que vibra en una sola dirección; las lentes polarizadas contienen un filtro que bloquea esa orientación mientras deja pasar el resto de la luz, reduciendo el deslumbramiento sin oscurecerlo todo por igual."
+      }
+    }
   },
   {
     "id": "science-103",
@@ -1537,7 +2505,21 @@
     "tags": [
       "physics",
       "optics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "La lumière laser est étrangement plus 'organisée' que celle d'une ampoule.",
+        "fact": "Un laser produit une lumière cohérente, ce qui signifie que toutes ses ondes lumineuses se déplacent en phase, avec une fréquence identique, tandis qu'une ampoule ordinaire émet des ondes lumineuses dispersées aléatoirement dans d'innombrables directions et phases."
+      },
+      "nl": {
+        "hook": "Laserlicht is opvallend 'georganiseerder' dan dat van een gloeilamp.",
+        "fact": "Een laser produceert coherent licht, wat betekent dat al zijn lichtgolven synchroon bewegen met dezelfde frequentie en fase, terwijl een gewone lamp lichtgolven uitzendt die willekeurig verspreid zijn in talloze richtingen en fases."
+      },
+      "es": {
+        "hook": "La luz láser está sorprendentemente más 'organizada' que la de una bombilla.",
+        "fact": "Un láser produce luz coherente, lo que significa que todas sus ondas de luz se mueven al unísono, con la misma frecuencia y fase, mientras que una bombilla corriente emite ondas de luz dispersas aleatoriamente en innumerables direcciones y fases."
+      }
+    }
   },
   {
     "id": "science-104",
@@ -1546,7 +2528,21 @@
     "fact": "Sodium chloride doesn't melt until 801°C, because the ionic bonds holding its crystal lattice together are far stronger than the hydrogen bonds linking water molecules, which is why ice melts so much more easily.",
     "tags": [
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le sel de table fond à une température qui vaporiserait de l'eau huit fois de suite.",
+        "fact": "Le chlorure de sodium ne fond qu'à 801 °C, car les liaisons ioniques qui maintiennent son réseau cristallin sont bien plus fortes que les liaisons hydrogène reliant les molécules d'eau, ce qui explique pourquoi la glace fond tellement plus facilement."
+      },
+      "nl": {
+        "hook": "Tafelzout smelt bij een temperatuur die water acht keer zou laten verdampen.",
+        "fact": "Natriumchloride smelt pas bij 801 °C, omdat de ionaire bindingen die zijn kristalrooster bijeenhouden veel sterker zijn dan de waterstofbruggen tussen watermoleculen, wat verklaart waarom ijs zoveel makkelijker smelt."
+      },
+      "es": {
+        "hook": "La sal de mesa se funde a una temperatura que vaporizaría el agua ocho veces seguidas.",
+        "fact": "El cloruro de sodio no se funde hasta los 801 °C, porque los enlaces iónicos que mantienen unida su red cristalina son mucho más fuertes que los puentes de hidrógeno que unen las moléculas de agua, razón por la cual el hielo se derrite con tanta más facilidad."
+      }
+    }
   },
   {
     "id": "science-105",
@@ -1555,7 +2551,21 @@
     "fact": "Cutting a bar magnet in half doesn't isolate a lone north or south pole — it just creates two smaller magnets, each with its own complete north and south pole, no matter how many times you keep cutting.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les aimants ne peuvent pas être réduits à un seul pôle.",
+        "fact": "Couper un aimant en barre en deux ne permet pas d'isoler un pôle nord ou sud seul — cela crée simplement deux aimants plus petits, chacun avec son propre pôle nord et sud complets, peu importe combien de fois vous continuez à couper."
+      },
+      "nl": {
+        "hook": "Magneten kunnen niet worden opgesplitst tot één enkele pool.",
+        "fact": "Een staafmagneet doormidden knippen isoleert geen losse noord- of zuidpool — het creëert gewoon twee kleinere magneten, elk met zijn eigen complete noord- en zuidpool, hoe vaak je ook blijft knippen."
+      },
+      "es": {
+        "hook": "Los imanes no se pueden reducir a un solo polo.",
+        "fact": "Cortar un imán de barra por la mitad no aísla un polo norte o sur solitario; simplemente crea dos imanes más pequeños, cada uno con su propio polo norte y sur completos, sin importar cuántas veces sigas cortando."
+      }
+    }
   },
   {
     "id": "science-106",
@@ -1565,7 +2575,21 @@
     "tags": [
       "physics",
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les orages accumulent une charge électrique grâce à des millions de minuscules collisions.",
+        "fact": "À l'intérieur d'un nuage d'orage, des cristaux de glace ascendants entrent en collision avec du grésil (grêle molle) qui tombe, transférant des électrons et laissant le haut du nuage chargé positivement et le bas chargé négativement — quand ce déséquilibre devient assez important, il se décharge sous forme d'éclair."
+      },
+      "nl": {
+        "hook": "Onweersbuien bouwen elektrische lading op via miljoenen kleine botsingen.",
+        "fact": "Binnen in een onweerswolk botsen opstijgende ijskristallen met neervallende graupel (zachte hagel), waarbij elektronen worden overgedragen en de bovenkant van de wolk positief geladen raakt en de onderkant negatief — wanneer die onbalans groot genoeg wordt, ontlaadt hij zich als bliksem."
+      },
+      "es": {
+        "hook": "Las tormentas acumulan carga eléctrica mediante millones de colisiones diminutas.",
+        "fact": "Dentro de una nube de tormenta, los cristales de hielo ascendentes chocan con el granizo blando que cae, transfiriendo electrones y dejando la parte superior de la nube cargada positivamente y la inferior cargada negativamente; cuando ese desequilibrio se vuelve lo bastante grande, se descarga en forma de rayo."
+      }
+    }
   },
   {
     "id": "science-107",
@@ -1575,7 +2599,21 @@
     "tags": [
       "chemistry",
       "reactions"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une poche de froid instantanée fonctionne en absorbant la chaleur, pas en créant du froid.",
+        "fact": "Certaines réactions chimiques sont endothermiques, absorbant l'énergie thermique de leur environnement au lieu de la libérer — presser une poche de froid instantanée brise une petite poche d'eau intérieure qui dissout un sel comme le nitrate d'ammonium, et ce processus de dissolution absorbe la chaleur assez rapidement pour donner une sensation de froid réelle."
+      },
+      "nl": {
+        "hook": "Een instant coldpack werkt door warmte te absorberen, niet door kou te creëren.",
+        "fact": "Sommige chemische reacties zijn endotherm en onttrekken warmte-energie aan hun omgeving in plaats van die af te geven — een instant coldpack indrukken breekt een inwendig zakje water dat een zout zoals ammoniumnitraat oplost, en dat oplossingsproces absorbeert warmte snel genoeg om echt koud te voelen."
+      },
+      "es": {
+        "hook": "Una bolsa de frío instantáneo funciona absorbiendo calor, no creando frío.",
+        "fact": "Algunas reacciones químicas son endotérmicas, es decir, extraen energía térmica de su entorno en lugar de liberarla; al apretar una bolsa de frío instantáneo se rompe una bolsita interna de agua que disuelve una sal como el nitrato de amonio, y ese proceso de disolución absorbe calor lo bastante rápido como para sentirse realmente frío."
+      }
+    }
   },
   {
     "id": "science-108",
@@ -1584,7 +2622,21 @@
     "fact": "Pyrotechnicians get red from strontium compounds, blue-green from copper, green from barium, and yellow from sodium — each metal's electrons emit a distinct wavelength of light when heated in the explosion.",
     "tags": [
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les couleurs des feux d'artifice viennent d'une fiche de triche chimique à base de sels métalliques.",
+        "fact": "Les artificiers obtiennent du rouge grâce aux composés de strontium, du bleu-vert grâce au cuivre, du vert grâce au baryum, et du jaune grâce au sodium — les électrons de chaque métal émettent une longueur d'onde de lumière distincte lorsqu'ils sont chauffés dans l'explosion."
+      },
+      "nl": {
+        "hook": "Vuurwerkkleuren komen van een scheikundig spiekbriefje van metaalzouten.",
+        "fact": "Vuurwerkmakers krijgen rood uit strontiumverbindingen, blauwgroen uit koper, groen uit barium en geel uit natrium — de elektronen van elk metaal zenden een aparte lichtgolflengte uit wanneer ze in de explosie worden verhit."
+      },
+      "es": {
+        "hook": "Los colores de los fuegos artificiales vienen de una chuleta química de sales metálicas.",
+        "fact": "Los pirotécnicos obtienen el rojo de compuestos de estroncio, el verde azulado del cobre, el verde del bario y el amarillo del sodio; los electrones de cada metal emiten una longitud de onda de luz distinta al calentarse en la explosión."
+      }
+    }
   },
   {
     "id": "science-109",
@@ -1594,7 +2646,21 @@
     "tags": [
       "chemistry",
       "materials"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le graphite conduit l'électricité ; le diamant non — même élément, comportement opposé.",
+        "fact": "Dans le graphite, les atomes de carbone forment des feuillets empilés librement qui laissent certains électrons libres de circuler et de transporter le courant, tandis que chaque électron du diamant est verrouillé dans un réseau 3D rigide et entièrement lié, sans nulle part où bouger."
+      },
+      "nl": {
+        "hook": "Grafiet geleidt elektriciteit; diamant niet — hetzelfde element, tegenovergesteld gedrag.",
+        "fact": "In grafiet vormen koolstofatomen losjes gestapelde lagen die sommige elektronen vrij laten om rond te zwerven en stroom te geleiden, terwijl elk elektron in diamant vastzit in een star, volledig gebonden 3D-rooster zonder ruimte om te bewegen."
+      },
+      "es": {
+        "hook": "El grafito conduce electricidad; el diamante no — mismo elemento, comportamiento opuesto.",
+        "fact": "En el grafito, los átomos de carbono forman láminas apiladas sueltamente que dejan algunos electrones libres para moverse y transportar corriente, mientras que cada electrón del diamante está atrapado en una red 3D rígida y completamente enlazada, sin ningún lugar adonde moverse."
+      }
+    }
   },
   {
     "id": "science-110",
@@ -1604,7 +2670,21 @@
     "tags": [
       "physics",
       "quantum"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Un seul électron peut interférer avec lui-même.",
+        "fact": "Dans la célèbre expérience des fentes de Young, tirer des électrons individuels un par un à travers deux fentes construit malgré tout une figure d'interférence au fil du temps — comme si chaque électron était passé par les deux fentes à la fois et avait interféré avec lui-même, une caractéristique de la dualité onde-particule quantique."
+      },
+      "nl": {
+        "hook": "Eén enkel elektron kan met zichzelf interfereren.",
+        "fact": "In het beroemde dubbelspletenexperiment bouwt het één voor één afvuren van individuele elektronen door twee spleten toch een interferentiepatroon op over tijd — alsof elk elektron door beide spleten tegelijk ging en met zichzelf interfereerde, een kenmerk van kwantum-golf-deeltjedualiteit."
+      },
+      "es": {
+        "hook": "Un solo electrón puede interferir consigo mismo.",
+        "fact": "En el famoso experimento de la doble rendija, disparar electrones individuales uno a uno a través de dos rendijas sigue generando un patrón de interferencia con el tiempo, como si cada electrón hubiera pasado por ambas rendijas a la vez e interferido consigo mismo, un sello distintivo de la dualidad onda-partícula cuántica."
+      }
+    }
   },
   {
     "id": "science-111",
@@ -1614,7 +2694,21 @@
     "tags": [
       "physics",
       "quantum"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Vous ne pouvez jamais connaître à la fois la position exacte et la vitesse exacte d'une particule.",
+        "fact": "Le principe d'incertitude de Heisenberg énonce que plus vous mesurez précisément la position d'une particule, moins vous pouvez connaître précisément sa quantité de mouvement, et inversement — c'est une limite fondamentale de la nature, pas simplement un problème d'équipement."
+      },
+      "nl": {
+        "hook": "Je kunt nooit tegelijk de exacte positie en snelheid van een deeltje kennen.",
+        "fact": "Het onzekerheidsprincipe van Heisenberg stelt dat hoe preciezer je de positie van een deeltje meet, hoe minder precies je zijn impuls kunt kennen, en omgekeerd — het is een fundamentele grens van de natuur, niet simpelweg een apparatuurprobleem."
+      },
+      "es": {
+        "hook": "Nunca puedes conocer al mismo tiempo la posición y la velocidad exactas de una partícula.",
+        "fact": "El principio de incertidumbre de Heisenberg establece que cuanto más precisamente mides la posición de una partícula, con menos precisión puedes conocer su momento, y viceversa; es un límite fundamental de la naturaleza, no simplemente un problema de instrumentación."
+      }
+    }
   },
   {
     "id": "science-112",
@@ -1624,7 +2718,21 @@
     "tags": [
       "physics",
       "quantum"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Le chat de Schrödinger n'a jamais été une véritable expérience.",
+        "fact": "Le physicien Erwin Schrödinger a conçu le scénario du 'chat à la fois vivant et mort' comme une expérience de pensée pour souligner à quel point ce serait étrange si la superposition quantique — où une particule existe dans plusieurs états à la fois — s'appliquait aux objets du quotidien, et non comme quelque chose qu'il a réellement tenté."
+      },
+      "nl": {
+        "hook": "Schrödingers kat was nooit een echt experiment.",
+        "fact": "Natuurkundige Erwin Schrödinger bedacht het scenario van de 'levende en dode kat' als een gedachte-experiment om te laten zien hoe vreemd het zou zijn als kwantumsuperpositie — waarbij een deeltje meerdere toestanden tegelijk kan hebben — op alledaagse voorwerpen zou toepassen, niet als iets wat hij daadwerkelijk heeft geprobeerd."
+      },
+      "es": {
+        "hook": "El gato de Schrödinger nunca fue un experimento real.",
+        "fact": "El físico Erwin Schrödinger ideó el escenario del 'gato vivo y muerto' como un experimento mental para resaltar lo extraño que sería que la superposición cuántica —donde una partícula existe en varios estados a la vez— se aplicara a objetos cotidianos, no como algo que realmente llegó a intentar."
+      }
+    }
   },
   {
     "id": "science-113",
@@ -1634,7 +2742,21 @@
     "tags": [
       "physics",
       "quantum"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Refroidissez un gaz suffisamment et ses atomes perdent leur identité individuelle.",
+        "fact": "À des températures à un cheveu du zéro absolu, certains atomes peuvent former un condensat de Bose-Einstein, où ils cessent de se comporter comme des particules séparées et agissent plutôt comme une seule onde quantique collective."
+      },
+      "nl": {
+        "hook": "Koel een gas voldoende af en zijn atomen verliezen hun individuele identiteit.",
+        "fact": "Bij temperaturen op een haar na het absolute nulpunt kunnen bepaalde atomen een bose-einsteincondensaat vormen, waarbij ze stoppen zich als aparte deeltjes te gedragen en in plaats daarvan als één collectieve kwantumgolf optreden."
+      },
+      "es": {
+        "hook": "Enfría un gas lo suficiente y sus átomos pierden su identidad individual.",
+        "fact": "A temperaturas a un pelo del cero absoluto, ciertos átomos pueden formar un condensado de Bose-Einstein, en el que dejan de comportarse como partículas separadas y actúan en cambio como una única onda cuántica colectiva."
+      }
+    }
   },
   {
     "id": "science-114",
@@ -1643,7 +2765,21 @@
     "fact": "Light travels through a vacuum at about 299,792 kilometers per second, and Einstein's relativity shows that accelerating any object with mass to that speed would require infinite energy — a hard ceiling built into the universe's physics.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Rien de doté de masse ne peut jamais atteindre la vitesse de la lumière.",
+        "fact": "La lumière voyage dans le vide à environ 299 792 kilomètres par seconde, et la relativité d'Einstein montre qu'accélérer un objet doté de masse jusqu'à cette vitesse exigerait une énergie infinie — un plafond absolu inscrit dans la physique de l'univers."
+      },
+      "nl": {
+        "hook": "Niets met massa kan ooit de lichtsnelheid bereiken.",
+        "fact": "Licht reist door een vacuüm met ongeveer 299.792 kilometer per seconde, en Einsteins relativiteitstheorie laat zien dat het versnellen van elk voorwerp met massa tot die snelheid oneindige energie zou vereisen — een harde grens ingebakken in de fysica van het universum."
+      },
+      "es": {
+        "hook": "Nada que tenga masa puede llegar nunca a la velocidad de la luz.",
+        "fact": "La luz viaja por el vacío a unos 299.792 kilómetros por segundo, y la relatividad de Einstein demuestra que acelerar cualquier objeto con masa hasta esa velocidad requeriría una energía infinita: un límite absoluto integrado en la física del universo."
+      }
+    }
   },
   {
     "id": "science-115",
@@ -1653,7 +2789,24 @@
     "whyItMatters": "It's one of the few places relativity — usually thought of as an abstract theory — has direct, everyday consequences for something billions of people use.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les satellites GPS doivent corriger le fait que le temps s'écoule différemment pour eux.",
+        "fact": "Les satellites vivent le temps légèrement différemment des horloges à la surface de la Terre, à cause à la fois de leur vitesse et de la gravité plus faible en altitude — sans une correction constante de cette différence de temps relativiste, les positions GPS dériveraient de plusieurs kilomètres en une seule journée.",
+        "whyItMatters": "C'est l'un des rares endroits où la relativité — habituellement perçue comme une théorie abstraite — a des conséquences directes et quotidiennes pour quelque chose qu'utilisent des milliards de personnes."
+      },
+      "nl": {
+        "hook": "GPS-satellieten moeten corrigeren voor het feit dat tijd voor hen anders verloopt.",
+        "fact": "Satellieten ervaren de tijd enigszins anders dan klokken op het aardoppervlak, door zowel hun snelheid als de zwakkere zwaartekracht op hoogte — zonder voortdurende correctie voor dit relativistische tijdsverschil zouden GPS-posities binnen één dag mijlenver kunnen afwijken.",
+        "whyItMatters": "Het is een van de weinige plekken waar relativiteit — meestal gezien als een abstracte theorie — directe, alledaagse gevolgen heeft voor iets dat miljarden mensen gebruiken."
+      },
+      "es": {
+        "hook": "Los satélites GPS tienen que corregir el hecho de que el tiempo transcurre distinto para ellos.",
+        "fact": "Los satélites experimentan el tiempo de forma ligeramente diferente a los relojes de la superficie terrestre, debido tanto a su velocidad como a la gravedad más débil a esa altitud; sin corregir constantemente esta diferencia relativista de tiempo, las posiciones del GPS se desviarían kilómetros en un solo día.",
+        "whyItMatters": "Es uno de los pocos lugares donde la relatividad —normalmente vista como una teoría abstracta— tiene consecuencias directas y cotidianas para algo que usan miles de millones de personas."
+      }
+    }
   },
   {
     "id": "science-116",
@@ -1663,7 +2816,21 @@
     "tags": [
       "physics",
       "chemistry"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une flamme bleue est plus chaude qu'une jaune, pas plus calme.",
+        "fact": "La couleur d'une flamme révèle la température et l'exhaustivité de la combustion — les flammes bleues brûlent plus chaudement et plus complètement, tandis que les flammes orange-jaune sont généralement plus froides et contiennent des particules de suie incandescentes."
+      },
+      "nl": {
+        "hook": "Een blauwe vlam is heter dan een gele, niet kalmer.",
+        "fact": "De kleur van een vlam onthult de verbrandingstemperatuur en -volledigheid — blauwe vlammen branden heter en vollediger, terwijl oranjegele vlammen doorgaans kouder zijn en onverbrande roetdeeltjes bevatten die van hitte gloeien."
+      },
+      "es": {
+        "hook": "Una llama azul es más caliente que una amarilla, no más tranquila.",
+        "fact": "El color de la llama revela la temperatura y la completitud de la combustión: las llamas azules arden más caliente y de forma más completa, mientras que las llamas naranja-amarillas suelen ser más frías y contienen partículas de hollín sin quemar que brillan por el calor."
+      }
+    }
   },
   {
     "id": "science-117",
@@ -1673,7 +2840,21 @@
     "tags": [
       "physics",
       "mechanics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Les parachutistes cessent d'accélérer bien avant d'ouvrir leur parachute.",
+        "fact": "Quand un objet en chute prend de la vitesse, la résistance de l'air augmente jusqu'à équilibrer exactement la force de la gravité, moment où l'objet cesse d'accélérer et tombe à une vitesse constante appelée vitesse terminale — pour un être humain en position ventrale, c'est environ 200 km/h."
+      },
+      "nl": {
+        "hook": "Parachutespringers stoppen al ruim voor het openen van hun parachute met versnellen.",
+        "fact": "Naarmate een vallend voorwerp sneller wordt, neemt de luchtweerstand toe totdat die precies de zwaartekracht in evenwicht houdt, waarna het voorwerp stopt met versnellen en met een constante snelheid valt, de valsnelheid genoemd — voor een mens in buikligging is dat ongeveer 200 km/u."
+      },
+      "es": {
+        "hook": "Los paracaidistas dejan de acelerar mucho antes de abrir el paracaídas.",
+        "fact": "A medida que un objeto en caída gana velocidad, la resistencia del aire aumenta hasta equilibrar exactamente la fuerza de la gravedad, momento en el que el objeto deja de acelerar y cae a una velocidad constante llamada velocidad terminal; para una persona en posición ventral, son unos 200 km/h."
+      }
+    }
   },
   {
     "id": "science-118",
@@ -1682,7 +2863,21 @@
     "fact": "Fast-flowing water and air create a zone of lower pressure around them, described by Bernoulli's principle — the pressure difference between the curtain's two sides pulls it inward toward the shower stream.",
     "tags": [
       "physics"
-    ]
+    ],
+    "translations": {
+      "fr": {
+        "hook": "Une cortina de douche est aspirée vers vous à cause de l'eau en mouvement, pas de la magie.",
+        "fact": "L'eau et l'air qui s'écoulent rapidement créent une zone de pression plus basse autour d'eux, décrite par le principe de Bernoulli — la différence de pression entre les deux côtés du rideau l'attire vers l'intérieur, vers le jet de douche."
+      },
+      "nl": {
+        "hook": "Een douchegordijn wordt naar je toe gezogen door bewegend water, niet door magie.",
+        "fact": "Snel stromend water en lucht creëren een zone van lagere druk om zich heen, beschreven door het principe van Bernoulli — het drukverschil tussen de twee kanten van het gordijn trekt het naar binnen, richting de douchestraal."
+      },
+      "es": {
+        "hook": "Una cortina de ducha se pega hacia ti por el agua en movimiento, no por magia.",
+        "fact": "El agua y el aire que fluyen rápidamente crean una zona de menor presión a su alrededor, descrita por el principio de Bernoulli; la diferencia de presión entre los dos lados de la cortina la atrae hacia dentro, hacia el chorro de la ducha."
+      }
+    }
   },
   {
     "id": "science-119",
