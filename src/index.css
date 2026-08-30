@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 /**
- * semicolon is dark-native by design — not a light theme with a night
- * mode bolted on. See the "Semicolon Identity" design plan for the full
+ * semico is dark-native by design — not a light theme with a night
+ * mode bolted on. See the "Semico Identity" design plan for the full
  * rationale: two surfaces (Ink/Surface), two accents in deliberate
  * tension (Signal Violet/Ember), two text tones (Paper/Dust).
  */

@@ -22,7 +22,7 @@ const TEXT_ATTRIBUTES = new Set(['aria-label', 'placeholder', 'title', 'alt'])
 /** Hardcoded text that's fine as-is — the app's own brand name, which
  * is never translated by design (see src/components/Logo.tsx). Add to
  * this list only for genuine proper nouns, never to silence a real gap. */
-const ALLOWLIST = new Set(['semicolon'])
+const ALLOWLIST = new Set(['semico'])
 
 function listSourceFiles(dir: string): string[] {
   return readdirSync(dir, { recursive: true })

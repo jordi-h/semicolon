@@ -1,4 +1,4 @@
-# semicolon
+# semico
 
 A TikTok-style feed of bite-sized knowledge. Swipe, scroll, or press ↓
 through short trivia cards across twelve broad domains — Science, Technology,
@@ -260,7 +260,7 @@ buffer back instead of erroring.
 
 Every card has a share button (`src/features/share/`) that renders a
 polished, off-screen 1080×1920 graphic for that single fact — hook, fact
-text, a domain accent color, and the semicolon wordmark — using
+text, a domain accent color, and the semico wordmark — using
 `html-to-image` (`ShareCardImage.tsx` is the template, `useShareFact.ts`
 does the capture + share). On a device that supports the Web Share API
 with file attachments, it opens the native share sheet with the image
@@ -366,7 +366,7 @@ supabase/schema.sql      tables + row-level security policies
 
 ## Branding
 
-The mark — a semicolon (dot over a rounded bar) on a dark rounded-square
+The mark — a semico (dot over a rounded bar) on a dark rounded-square
 tile — has one source of truth: **`src/assets/logo-icon.svg`**
 (`src/assets/logo-icon-light.svg` is the color-inverted variant, for any
 context that needs a light tile). `src/components/Logo.tsx` renders this
@@ -408,10 +408,10 @@ icon, and splash screen at once.
 **Installable today, no store needed:** the app is a PWA (`vite-plugin-pwa`
 in `vite.config.ts`) — visiting the deployed site on a phone and choosing
 "Add to Home Screen" (iOS Safari) or the install prompt (Android Chrome)
-installs it with the semicolon icon, full-screen, no browser chrome.
+installs it with the semico icon, full-screen, no browser chrome.
 
 **Native App Store / Play Store listing:** the app is wrapped with
-[Capacitor](https://capacitorjs.com) (appId `com.semicolon.app`,
+[Capacitor](https://capacitorjs.com) (appId `com.semico.app`,
 `capacitor.config.ts`), which packages this same web build into a native
 shell without a rewrite. Both the **Android** (`android/`) and **iOS**
 (`ios/`) projects are already generated, icons and splash screens

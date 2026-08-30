@@ -34,12 +34,12 @@ export function useShareFact(fact: Fact) {
       const blob = await toBlob(node, { pixelRatio: 2 })
       if (!blob) throw new Error('Failed to render the share image')
 
-      const filename = `semicolon-${fact.id}.png`
+      const filename = `semico-${fact.id}.png`
       const file = new File([blob], filename, { type: 'image/png' })
       const shareUrl = factShareUrl(fact.id, locale)
 
       if (navigator.canShare?.({ files: [file] })) {
-        await navigator.share({ files: [file], title: 'semicolon', text: fact.hook, url: shareUrl })
+        await navigator.share({ files: [file], title: 'semico', text: fact.hook, url: shareUrl })
         setMessage(t('share.shared'))
       } else {
         downloadBlob(blob, filename)

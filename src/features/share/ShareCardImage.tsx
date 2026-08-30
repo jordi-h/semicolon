@@ -73,7 +73,7 @@ export const ShareCardImage = forwardRef<HTMLDivElement, ShareCardImageProps>(
             }}
             className="font-bold text-white"
           >
-            semicolon
+            semico
           </span>
         </div>
       </div>

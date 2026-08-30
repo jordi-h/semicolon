@@ -144,7 +144,7 @@ export default async function handler(req: NodeRequest, res: NodeResponse): Prom
 
   const tags = [
     `<meta property="og:type" content="article" />`,
-    `<meta property="og:site_name" content="semicolon" />`,
+    `<meta property="og:site_name" content="semico" />`,
     `<meta property="og:title" content="${escapeAttr(fact.hook)}" />`,
     `<meta property="og:description" content="${escapeAttr(fact.fact)}" />`,
     `<meta property="og:url" content="${escapeAttr(pageUrl)}" />`,

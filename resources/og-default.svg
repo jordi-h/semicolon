@@ -22,7 +22,7 @@
   <!-- Signal Violet glow behind the mark, echoing the app's accent. -->
   <circle cx="600" cy="315" r="210" fill="#9D6BFF" opacity="0.10"/>
 
-  <!-- The semicolon mark on its tile, matching src/assets/logo-icon.svg -->
+  <!-- The semico mark on its tile, matching src/assets/logo-icon.svg -->
   <g transform="translate(480 195)">
     <rect width="240" height="240" rx="55" fill="#16161A"/>
     <circle cx="120" cy="89" r="16" fill="#F5F4F0"/>

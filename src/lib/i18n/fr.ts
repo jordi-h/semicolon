@@ -103,8 +103,8 @@ export const fr: Record<TranslationKey, string> = {
   'share.error': 'Impossible de partager — réessayez',
 
   'sharedFact.notFound': 'Ce fait est introuvable.',
-  'sharedFact.openSemicolon': 'Ouvrir semicolon',
+  'sharedFact.openSemico': 'Ouvrir semico',
   'sharedFact.footerTagline':
     'Un fil façon TikTok de connaissances en petites bouchées — un nouveau fait à chaque glissement.',
-  'sharedFact.getSemicolon': 'Obtenir semicolon',
+  'sharedFact.getSemico': 'Obtenir semico',
 }

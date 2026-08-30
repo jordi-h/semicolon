@@ -104,9 +104,9 @@ export const en = {
   'share.error': 'Could not share — try again',
 
   'sharedFact.notFound': "This fact couldn't be found.",
-  'sharedFact.openSemicolon': 'Open semicolon',
+  'sharedFact.openSemico': 'Open semico',
   'sharedFact.footerTagline': 'A TikTok-style feed of bite-sized knowledge — a new fact every swipe.',
-  'sharedFact.getSemicolon': 'Get semicolon',
+  'sharedFact.getSemico': 'Get semico',
 } as const
 
 export type TranslationKey = keyof typeof en

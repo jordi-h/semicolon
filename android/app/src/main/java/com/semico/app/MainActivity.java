@@ -1,4 +1,4 @@
-package com.semicolon.app;
+package com.semico.app;
 
 import com.getcapacitor.BridgeActivity;
 

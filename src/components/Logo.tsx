@@ -4,7 +4,7 @@ interface LogoProps {
   /** Sizes the icon tile (e.g. "h-7 w-7"). The wordmark in the "full"
    * variant uses its own fixed, consistent lockup size regardless. */
   className?: string
-  /** 'icon' renders just the mark; 'full' adds the "semicolon" wordmark
+  /** 'icon' renders just the mark; 'full' adds the "semico" wordmark
    * next to it, for header/nav brand lockups. */
   variant?: 'icon' | 'full'
   /** Which color pairing to use — see src/assets/logo-icon(-light).svg. */
@@ -17,8 +17,12 @@ const THEME_COLORS = {
 } as const
 
 /**
- * The semicolon app mark: a dot over a rounded bar, on a rounded-square
- * tile. Source of truth is src/assets/logo-icon.svg (dark theme) /
+ * The semico app mark: a semicolon — a dot over a rounded comma — on a
+ * rounded-square tile. The name is that punctuation mark, clipped: it was
+ * "semicolon" until a French reader pointed out it parses as "semi-colon"
+ * and reads like colonialisme. The glyph stayed; the last syllable went.
+ *
+ * Source of truth is src/assets/logo-icon.svg (dark theme) /
  * logo-icon-light.svg (light theme) — every favicon, PWA icon, and
  * native iOS/Android app icon is generated from the same shape, see
  * scripts/generate-icons.mjs and resources/*.svg.
@@ -40,7 +44,7 @@ export function Logo({ className, variant = 'icon', theme = 'dark' }: LogoProps)
     <span className="inline-flex items-center gap-2">
       {icon}
       <span className="font-body text-lg font-medium" style={{ color: theme === 'dark' ? mark : tile }}>
-        semicolon
+        semico
       </span>
     </span>
   )

@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli'
 
 const config: CapacitorConfig = {
-  appId: 'com.semicolon.app',
-  appName: 'semicolon',
+  appId: 'com.semico.app',
+  appName: 'semico',
   webDir: 'dist',
 }
 

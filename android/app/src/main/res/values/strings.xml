@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">semicolon</string>
-    <string name="title_activity_main">semicolon</string>
-    <string name="package_name">com.semicolon.app</string>
-    <string name="custom_url_scheme">com.semicolon.app</string>
+    <string name="app_name">semico</string>
+    <string name="title_activity_main">semico</string>
+    <string name="package_name">com.semico.app</string>
+    <string name="custom_url_scheme">com.semico.app</string>
 </resources>

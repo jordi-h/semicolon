@@ -14,7 +14,7 @@
  * modes and can throw on quota limits.
  */
 
-const DB_NAME = 'semicolon-offline'
+const DB_NAME = 'semico-offline'
 const DB_VERSION = 1
 const STORE = 'kv'
 

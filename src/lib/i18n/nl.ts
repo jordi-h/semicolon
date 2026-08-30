@@ -102,8 +102,8 @@ export const nl: Record<TranslationKey, string> = {
   'share.error': 'Delen mislukt — probeer opnieuw',
 
   'sharedFact.notFound': 'Dit feitje kon niet worden gevonden.',
-  'sharedFact.openSemicolon': 'semicolon openen',
+  'sharedFact.openSemico': 'semico openen',
   'sharedFact.footerTagline':
     'Een TikTok-achtige feed van hapklare kennis — bij elke swipe een nieuw feitje.',
-  'sharedFact.getSemicolon': 'semicolon downloaden',
+  'sharedFact.getSemico': 'semico downloaden',
 }

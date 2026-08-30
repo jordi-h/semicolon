@@ -58,7 +58,7 @@ export function SharedFactPage() {
         <Logo className="h-14 w-14" />
         <p className="font-medium">{t('sharedFact.notFound')}</p>
         <Button asChild>
-          <Link to="/">{t('sharedFact.openSemicolon')}</Link>
+          <Link to="/">{t('sharedFact.openSemico')}</Link>
         </Button>
       </div>
     )
@@ -105,7 +105,7 @@ export function SharedFactPage() {
         <Logo variant="full" className="h-8 w-8" />
         <p className="text-body-sm text-muted-foreground">{t('sharedFact.footerTagline')}</p>
         <Button asChild className="w-full">
-          <Link to="/">{t('sharedFact.getSemicolon')}</Link>
+          <Link to="/">{t('sharedFact.getSemico')}</Link>
         </Button>
       </div>
     </div>

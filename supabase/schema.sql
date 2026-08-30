@@ -1,4 +1,4 @@
--- semicolon database schema.
+-- semico database schema.
 -- Run this once against a fresh Supabase project (SQL Editor, or `supabase db push`
 -- if you use the Supabase CLI) before running `npm run seed`.
 

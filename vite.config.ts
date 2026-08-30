@@ -18,8 +18,8 @@ export default defineConfig({
         globIgnores: ['**/local-facts-fallback-*.js'],
       },
       manifest: {
-        name: 'semicolon',
-        short_name: 'semicolon',
+        name: 'semico',
+        short_name: 'semico',
         description: 'A TikTok-style feed of bite-sized knowledge.',
         theme_color: '#0F0B17',
         background_color: '#0F0B17',

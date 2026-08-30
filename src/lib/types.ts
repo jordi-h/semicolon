@@ -1,5 +1,5 @@
 /**
- * Shared domain types for semicolon. Define types here first, build
+ * Shared domain types for semico. Define types here first, build
  * components/hooks against them — see README for the full data model.
  */
 
