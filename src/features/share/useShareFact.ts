@@ -17,7 +17,7 @@ function downloadBlob(blob: Blob, filename: string) {
 }
 
 export function useShareFact(fact: Fact) {
-  const { t } = useLocale()
+  const { locale, t } = useLocale()
   const nodeRef = useRef<HTMLDivElement>(null)
   const [status, setStatus] = useState<ShareStatus>('idle')
   const [message, setMessage] = useState<string | null>(null)
@@ -36,7 +36,7 @@ export function useShareFact(fact: Fact) {
 
       const filename = `semicolon-${fact.id}.png`
       const file = new File([blob], filename, { type: 'image/png' })
-      const shareUrl = factShareUrl(fact.id)
+      const shareUrl = factShareUrl(fact.id, locale)
 
       if (navigator.canShare?.({ files: [file] })) {
         await navigator.share({ files: [file], title: 'semicolon', text: fact.hook, url: shareUrl })
@@ -62,7 +62,7 @@ export function useShareFact(fact: Fact) {
     } finally {
       setTimeout(() => setMessage(null), 2200)
     }
-  }, [fact, status, t])
+  }, [fact, locale, status, t])
 
   return { nodeRef, share, status, message }
 }
