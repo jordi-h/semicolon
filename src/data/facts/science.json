@@ -111,7 +111,7 @@
     "id": "science-005",
     "domain": "science",
     "hook": "You share about 60% of your DNA with a banana.",
-    "fact": "Because so much of DNA codes for basic cellular machinery shared across all life, humans and bananas overlap significantly at the genetic level despite looking nothing alike.",
+    "fact": "About 60% of human genes have a recognisable counterpart in the banana genome, because so much of DNA codes for the basic cellular machinery shared across all life.",
     "whyItMatters": "It's a reminder that DNA similarity measures shared ancient biology, not overall likeness.",
     "tags": [
       "biology",
@@ -120,17 +120,17 @@
     "translations": {
       "fr": {
         "hook": "Vous partagez environ 60 % de votre ADN avec une banane.",
-        "fact": "Comme une grande partie de l'ADN code pour la machinerie cellulaire de base commune à toutes les formes de vie, les humains et les bananes se ressemblent beaucoup au niveau génétique, malgré des apparences totalement différentes.",
+        "fact": "Environ 60 % des gènes humains ont un équivalent reconnaissable dans le génome de la banane, car une grande partie de l'ADN code la machinerie cellulaire de base commune à tout le vivant.",
         "whyItMatters": "C'est un rappel que la similarité de l'ADN reflète une biologie ancienne partagée, pas une ressemblance générale."
       },
       "nl": {
         "hook": "Je deelt ongeveer 60% van je DNA met een banaan.",
-        "fact": "Omdat een groot deel van het DNA codeert voor basale celmachinerie die alle levensvormen delen, overlappen mensen en bananen aanzienlijk op genetisch niveau, ondanks dat ze er totaal anders uitzien.",
+        "fact": "Ongeveer 60% van de menselijke genen heeft een herkenbare tegenhanger in het bananengenoom, omdat een groot deel van het DNA codeert voor de basale celmachinerie die al het leven deelt.",
         "whyItMatters": "Het is een herinnering dat DNA-overeenkomst gedeelde oeroude biologie meet, niet algemene gelijkenis."
       },
       "es": {
         "hook": "Compartes cerca del 60% de tu ADN con un plátano.",
-        "fact": "Como gran parte del ADN codifica la maquinaria celular básica compartida por todas las formas de vida, los humanos y los plátanos se parecen mucho a nivel genético, aunque no se parezcan en nada por fuera.",
+        "fact": "Alrededor del 60 % de los genes humanos tienen un equivalente reconocible en el genoma del plátano, porque gran parte del ADN codifica la maquinaria celular básica común a todos los seres vivos.",
         "whyItMatters": "Es un recordatorio de que la similitud del ADN mide una biología ancestral compartida, no un parecido general."
       }
     }
@@ -506,7 +506,7 @@
     "id": "science-021",
     "domain": "science",
     "hook": "Lightning strikes Earth 44 times every second.",
-    "fact": "On average, lightning strikes somewhere on the planet about 44 times per second, adding up to roughly 8 million strikes a day.",
+    "fact": "On average, lightning strikes somewhere on the planet about 44 times per second, adding up to roughly 3.8 million strikes a day.",
     "tags": [
       "weather",
       "physics"
@@ -514,15 +514,15 @@
     "translations": {
       "fr": {
         "hook": "La foudre frappe la Terre 44 fois par seconde.",
-        "fact": "En moyenne, la foudre frappe quelque part sur la planète environ 44 fois par seconde, soit près de 8 millions d'impacts par jour."
+        "fact": "En moyenne, la foudre frappe quelque part sur la planète environ 44 fois par seconde, soit près de 3,8 millions d'impacts par jour."
       },
       "nl": {
         "hook": "De bliksem slaat 44 keer per seconde in op aarde.",
-        "fact": "Gemiddeld slaat de bliksem ergens ter wereld zo'n 44 keer per seconde in, wat neerkomt op ongeveer 8 miljoen inslagen per dag."
+        "fact": "Gemiddeld slaat de bliksem ergens op aarde ongeveer 44 keer per seconde in, goed voor zo'n 3,8 miljoen inslagen per dag."
       },
       "es": {
         "hook": "Un rayo cae en la Tierra 44 veces por segundo.",
-        "fact": "En promedio, cae un rayo en algún punto del planeta unas 44 veces por segundo, lo que suma cerca de 8 millones de rayos al día."
+        "fact": "De media, un rayo cae en algún punto del planeta unas 44 veces por segundo, lo que suma cerca de 3,8 millones de impactos al día."
       }
     }
   },

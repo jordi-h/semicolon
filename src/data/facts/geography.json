@@ -798,24 +798,24 @@
   {
     "id": "geography-034",
     "domain": "geography",
-    "hook": "Water falls nearly a kilometer before it hits anything.",
-    "fact": "Venezuela's Angel Falls drops 979 meters in a single uninterrupted plunge from the edge of a flat-topped tepui mountain, making it the tallest waterfall on Earth. Much of the water evaporates or scatters into mist before reaching the bottom.",
+    "hook": "Water falls more than 800 metres before it hits anything.",
+    "fact": "Venezuela's Angel Falls has a total height of 979 metres, including a single uninterrupted plunge of 807 metres — the longest of any waterfall on Earth. Much of the water evaporates or scatters into mist before reaching the bottom.",
     "tags": [
       "south-america",
       "waterfalls"
     ],
     "translations": {
       "fr": {
-        "hook": "L'eau tombe pendant près d'un kilomètre avant de heurter quoi que ce soit.",
-        "fact": "Le Salto Ángel, au Venezuela, plonge de 979 mètres d'une seule traite depuis le rebord d'un tepuy, une montagne au sommet plat, ce qui en fait la plus haute chute d'eau du monde. Une grande partie de l'eau s'évapore ou se disperse en brume avant même d'atteindre le sol."
+        "hook": "L'eau tombe de plus de 800 mètres avant de rencontrer quoi que ce soit.",
+        "fact": "Les chutes Angel, au Venezuela, culminent à 979 mètres au total, dont une chute libre ininterrompue de 807 mètres — la plus longue au monde. Une grande partie de l'eau s'évapore ou se disperse en brume avant d'atteindre le sol."
       },
       "nl": {
-        "hook": "Het water valt bijna een kilometer voordat het iets raakt.",
-        "fact": "De Angelwatervallen in Venezuela storten 979 meter naar beneden in één ononderbroken val, vanaf de rand van een tepui, een berg met een vlakke top. Daarmee zijn het de hoogste watervallen ter wereld. Veel van het water verdampt of verwaait tot nevel voordat het de bodem bereikt."
+        "hook": "Water valt meer dan 800 meter voordat het iets raakt.",
+        "fact": "De Angelwatervallen in Venezuela zijn in totaal 979 meter hoog, met één ononderbroken val van 807 meter — de langste ter wereld. Veel van het water verdampt of verwaait tot nevel voordat het de bodem bereikt."
       },
       "es": {
-        "hook": "El agua cae casi un kilómetro antes de tocar nada.",
-        "fact": "El Salto Ángel, en Venezuela, cae 979 metros de una sola vez desde el borde de un tepuy, una montaña de cima plana, lo que lo convierte en la cascada más alta del mundo. Buena parte del agua se evapora o se dispersa en forma de neblina antes de llegar abajo."
+        "hook": "El agua cae más de 800 metros antes de golpear nada.",
+        "fact": "El Salto Ángel, en Venezuela, tiene una altura total de 979 metros, con una caída libre ininterrumpida de 807 metros, la mayor del mundo. Buena parte del agua se evapora o se dispersa en forma de bruma antes de llegar al suelo."
       }
     }
   },

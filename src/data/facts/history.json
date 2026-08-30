@@ -1362,7 +1362,7 @@
   {
     "id": "history-057",
     "domain": "history",
-    "hook": "Rome's first law code was carved in stone and put on public display.",
+    "hook": "Rome's first law code was cast in bronze and put on public display.",
     "fact": "The Twelve Tables, created around 450 BCE, were Rome's earliest written legal code, posted in the Forum so that ordinary citizens — not just aristocrats — could know their legal rights.",
     "tags": [
       "rome",
@@ -1370,15 +1370,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le premier code de lois de Rome a été gravé dans la pierre et exposé au public.",
+        "hook": "Le premier code de lois de Rome était gravé sur des tables de bronze et exposé en public.",
         "fact": "La loi des Douze Tables, rédigée vers 450 av. J.-C., fut le premier code de lois écrit de Rome, affiché sur le Forum afin que les citoyens ordinaires — et pas seulement les aristocrates — puissent connaître leurs droits."
       },
       "nl": {
-        "hook": "Romes eerste wetboek werd in steen gebeiteld en openbaar tentoongesteld.",
+        "hook": "De eerste wetscode van Rome werd in brons gegoten en openbaar tentoongesteld.",
         "fact": "De Twaalf Tafelen, opgesteld rond 450 v.Chr., vormden Romes vroegste geschreven wetboek, en werden op het Forum tentoongesteld zodat gewone burgers — niet alleen aristocraten — hun rechten konden kennen."
       },
       "es": {
-        "hook": "El primer código legal de Roma se grabó en piedra y se expuso públicamente.",
+        "hook": "El primer código legal de Roma se grabó en bronce y se expuso en público.",
         "fact": "Las Doce Tablas, redactadas hacia el 450 a.C., fueron el primer código legal escrito de Roma, expuesto en el Foro para que los ciudadanos comunes —y no solo los aristócratas— pudieran conocer sus derechos."
       }
     }
@@ -1926,7 +1926,7 @@
   {
     "id": "history-080",
     "domain": "history",
-    "hook": "The Aztecs grew crops on artificial floating islands.",
+    "hook": "The Aztecs farmed on artificial islands they built in a lake.",
     "fact": "Chinampas were human-made plots built up from mud and vegetation on the shallow lakes around Tenochtitlan, forming one of the most productive agricultural systems in the pre-industrial world.",
     "tags": [
       "aztec",
@@ -1934,15 +1934,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Les Aztèques cultivaient sur des îles flottantes artificielles.",
+        "hook": "Les Aztèques cultivaient sur des îles artificielles construites dans un lac.",
         "fact": "Les chinampas étaient des parcelles créées par l'homme à partir de boue et de végétation sur les lacs peu profonds autour de Tenochtitlan, formant l'un des systèmes agricoles les plus productifs du monde préindustriel."
       },
       "nl": {
-        "hook": "De Azteken verbouwden gewassen op kunstmatige drijvende eilanden.",
+        "hook": "De Azteken verbouwden gewassen op kunstmatige eilanden die ze in een meer aanlegden.",
         "fact": "Chinampa's waren door mensen aangelegde percelen, opgebouwd uit modder en plantenresten op de ondiepe meren rond Tenochtitlan, en vormden een van de meest productieve landbouwsystemen van de pre-industriële wereld."
       },
       "es": {
-        "hook": "Los aztecas cultivaban en islas flotantes artificiales.",
+        "hook": "Los aztecas cultivaban en islas artificiales construidas en un lago.",
         "fact": "Las chinampas eran parcelas creadas por el hombre a partir de barro y vegetación en los lagos poco profundos alrededor de Tenochtitlan, y formaban uno de los sistemas agrícolas más productivos del mundo preindustrial."
       }
     }
@@ -2198,7 +2198,7 @@
   {
     "id": "history-091",
     "domain": "history",
-    "hook": "One West African empire grew rich trading gold for salt, ounce for ounce.",
+    "hook": "One West African empire grew rich taxing the trade of gold for salt.",
     "fact": "The Ghana Empire, flourishing from around the 6th to 13th centuries, controlled key trans-Saharan trade routes and grew enormously wealthy taxing the exchange of gold from the south for salt from the Sahara.",
     "tags": [
       "africa",
@@ -2206,15 +2206,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un empire ouest-africain s'est enrichi en échangeant de l'or contre du sel, once pour once.",
+        "hook": "Un empire ouest-africain s'est enrichi en taxant le commerce de l'or contre le sel.",
         "fact": "L'Empire du Ghana, prospère du VIe au XIIIe siècle environ, contrôlait des routes commerciales transsahariennes essentielles et s'enrichit considérablement en taxant l'échange de l'or venu du sud contre le sel venu du Sahara."
       },
       "nl": {
-        "hook": "Eén West-Afrikaans rijk werd rijk door goud te ruilen tegen zout, ons voor ons.",
+        "hook": "Eén West-Afrikaans rijk werd rijk door de ruil van goud tegen zout te belasten.",
         "fact": "Het Rijk van Ghana, bloeiend van ongeveer de 6e tot de 13e eeuw, controleerde belangrijke trans-Saharaanse handelsroutes en werd enorm rijk door belasting te heffen op de ruil van goud uit het zuiden tegen zout uit de Sahara."
       },
       "es": {
-        "hook": "Un imperio de África Occidental se enriqueció intercambiando oro por sal, onza por onza.",
+        "hook": "Un imperio de África Occidental se enriqueció gravando el comercio de oro por sal.",
         "fact": "El Imperio de Ghana, que floreció aproximadamente entre los siglos VI y XIII, controlaba rutas comerciales transaharianas clave y se enriqueció enormemente gravando el intercambio de oro del sur por sal del Sahara."
       }
     }

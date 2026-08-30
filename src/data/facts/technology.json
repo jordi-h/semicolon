@@ -123,7 +123,7 @@
     "id": "technology-006",
     "domain": "technology",
     "hook": "More computing power than the moon landing sits in your pocket.",
-    "fact": "The guidance computer for Apollo 11 had roughly 4KB of RAM and a processor running at about 0.043 MHz — a modern smartphone is many millions of times more powerful.",
+    "fact": "The guidance computer for Apollo 11 had roughly 4KB of RAM and a processor running at about 1 MHz — a modern smartphone is many millions of times more powerful.",
     "tags": [
       "computing",
       "space"
@@ -131,15 +131,15 @@
     "translations": {
       "fr": {
         "hook": "Votre poche contient plus de puissance de calcul que la mission Apollo 11.",
-        "fact": "L'ordinateur de guidage d'Apollo 11 disposait d'environ 4 Ko de RAM et d'un processeur cadencé à environ 0,043 MHz — un smartphone moderne est des millions de fois plus puissant."
+        "fact": "L'ordinateur de guidage d'Apollo 11 disposait d'environ 4 Ko de mémoire vive et d'un processeur cadencé à près de 1 MHz — un smartphone moderne est des millions de fois plus puissant."
       },
       "nl": {
         "hook": "Je zak bevat meer rekenkracht dan de maanlanding.",
-        "fact": "De navigatiecomputer van Apollo 11 had ongeveer 4KB RAM en een processor die op zo'n 0,043 MHz draaide — een moderne smartphone is vele miljoenen keren krachtiger."
+        "fact": "De boordcomputer van Apollo 11 had ongeveer 4 KB RAM en een processor van zo’n 1 MHz — een moderne smartphone is vele miljoenen keren krachtiger."
       },
       "es": {
         "hook": "Tu bolsillo tiene más potencia de cálculo que el alunizaje.",
-        "fact": "El ordenador de guiado del Apolo 11 tenía unos 4KB de RAM y un procesador que funcionaba a unos 0,043 MHz — un smartphone moderno es muchos millones de veces más potente."
+        "fact": "El ordenador de guiado del Apolo 11 tenía unos 4 KB de RAM y un procesador de cerca de 1 MHz; un móvil actual es millones de veces más potente."
       }
     }
   },
@@ -843,7 +843,7 @@
     "id": "technology-036",
     "domain": "technology",
     "hook": "A German engineer built a working programmable computer in 1941.",
-    "fact": "Konrad Zuse's Z3, built largely in his parents' living room in Berlin, is considered the first fully functional program-controlled computer — though it was destroyed in an Allied bombing raid in 1943 and its significance wasn't widely recognized for decades.",
+    "fact": "Konrad Zuse's Z3, built in a small rented workshop in Berlin, is considered the first fully functional program-controlled computer — though it was destroyed in an Allied bombing raid in 1943 and its significance wasn't widely recognised for decades.",
     "tags": [
       "computing",
       "history"
@@ -851,15 +851,15 @@
     "translations": {
       "fr": {
         "hook": "Un ingénieur allemand a construit un ordinateur programmable fonctionnel en 1941.",
-        "fact": "Le Z3 de Konrad Zuse, construit en grande partie dans le salon de ses parents à Berlin, est considéré comme le premier ordinateur entièrement programmable et fonctionnel — bien qu'il ait été détruit lors d'un bombardement allié en 1943 et que son importance n'ait été largement reconnue que des décennies plus tard."
+        "fact": "Le Z3 de Konrad Zuse, construit dans un petit atelier loué à Berlin, est considéré comme le premier ordinateur entièrement fonctionnel commandé par programme — bien qu'il ait été détruit lors d'un bombardement allié en 1943 et que son importance soit restée méconnue pendant des décennies."
       },
       "nl": {
         "hook": "Een Duitse ingenieur bouwde in 1941 al een werkende programmeerbare computer.",
-        "fact": "De Z3 van Konrad Zuse, grotendeels gebouwd in de woonkamer van zijn ouders in Berlijn, geldt als de eerste volledig functionele, programmagestuurde computer — al werd hij in 1943 vernietigd bij een geallieerd bombardement en werd zijn belang pas decennia later breed erkend."
+        "fact": "De Z3 van Konrad Zuse, gebouwd in een klein gehuurd atelier in Berlijn, geldt als de eerste volledig werkende programmabestuurde computer — al werd hij in 1943 bij een geallieerd bombardement verwoest en bleef zijn belang decennialang onopgemerkt."
       },
       "es": {
         "hook": "Un ingeniero alemán construyó un ordenador programable funcional en 1941.",
-        "fact": "La Z3 de Konrad Zuse, construida en gran parte en la sala de estar de sus padres en Berlín, se considera el primer ordenador totalmente funcional controlado por programa, aunque fue destruida en un bombardeo aliado en 1943 y su importancia no se reconoció ampliamente hasta décadas después."
+        "fact": "El Z3 de Konrad Zuse, construido en un pequeño taller alquilado de Berlín, se considera la primera computadora completamente funcional controlada por programa, aunque fue destruida en un bombardeo aliado en 1943 y su importancia tardó décadas en reconocerse."
       }
     }
   },
@@ -4656,7 +4656,7 @@
     "id": "technology-192",
     "domain": "technology",
     "hook": "The Polaroid instant camera was inspired by a curious three-year-old.",
-    "fact": "Inventor Edwin Land developed the instant camera after his daughter asked in 1943 why she couldn't see a photo right away. He unveiled the first commercial Polaroid camera just four years later, in 1948.",
+    "fact": "Inventor Edwin Land developed the instant camera after his daughter asked in 1943 why she couldn’t see a photo right away. He unveiled the first commercial Polaroid camera five years later, in 1948.",
     "tags": [
       "gadgets",
       "invention"
@@ -4664,15 +4664,15 @@
     "translations": {
       "fr": {
         "hook": "Le Polaroid est né de la curiosité d'une enfant de trois ans.",
-        "fact": "L'inventeur Edwin Land a mis au point l'appareil photo instantané après que sa fille lui a demandé, en 1943, pourquoi elle ne pouvait pas voir la photo tout de suite. Il a dévoilé le premier Polaroid commercial quatre ans plus tard seulement, en 1948."
+        "fact": "L'inventeur Edwin Land a mis au point l'appareil photo instantané après que sa fille lui eut demandé, en 1943, pourquoi elle ne pouvait pas voir la photo tout de suite. Il a dévoilé le premier Polaroid commercial cinq ans plus tard, en 1948."
       },
       "nl": {
         "hook": "De Polaroid-instantcamera ontstond dankzij een nieuwsgierige driejarige.",
-        "fact": "Uitvinder Edwin Land ontwikkelde de instantcamera nadat zijn dochter in 1943 vroeg waarom ze de foto niet meteen kon zien. Slechts vier jaar later, in 1948, presenteerde hij de eerste commerciële Polaroid-camera."
+        "fact": "Uitvinder Edwin Land ontwikkelde de instantcamera nadat zijn dochter in 1943 vroeg waarom ze de foto niet meteen kon zien. Vijf jaar later, in 1948, presenteerde hij de eerste commerciële Polaroid."
       },
       "es": {
         "hook": "La cámara instantánea Polaroid nació de la curiosidad de una niña de tres años.",
-        "fact": "El inventor Edwin Land desarrolló la cámara instantánea después de que su hija le preguntara en 1943 por qué no podía ver la foto al momento. Presentó la primera Polaroid comercial apenas cuatro años más tarde, en 1948."
+        "fact": "El inventor Edwin Land desarrolló la cámara instantánea después de que su hija le preguntara, en 1943, por qué no podía ver la foto al momento. Cinco años más tarde, en 1948, presentó la primera Polaroid comercial."
       }
     }
   },

@@ -2718,7 +2718,7 @@
   {
     "id": "space-114",
     "domain": "space",
-    "hook": "Earth's orbit is getting cluttered with hundreds of thousands of pieces of junk.",
+    "hook": "Earth's orbit is getting cluttered with millions of pieces of junk.",
     "fact": "Tens of millions of debris fragments — from dead satellites to flecks of paint — are estimated to circle Earth, and scientists warn of a 'Kessler syndrome' scenario where collisions cascade and generate even more debris.",
     "whyItMatters": "Left unmanaged, orbital debris could make some orbits too hazardous for future satellites and spacecraft to use safely.",
     "tags": [
@@ -2726,17 +2726,17 @@
     ],
     "translations": {
       "fr": {
-        "hook": "L'orbite terrestre s'encombre de centaines de milliers de débris.",
+        "hook": "L'orbite terrestre s'encombre de millions de débris.",
         "fact": "On estime que des dizaines de millions de fragments de débris — des satellites morts aux éclats de peinture — circulent autour de la Terre, et les scientifiques mettent en garde contre un scénario de « syndrome de Kessler » où les collisions s'enchaînent en cascade et génèrent encore plus de débris.",
         "whyItMatters": "Sans gestion, les débris orbitaux pourraient rendre certaines orbites trop dangereuses pour que de futurs satellites et vaisseaux puissent les utiliser en toute sécurité."
       },
       "nl": {
-        "hook": "De baan om de Aarde raakt vervuild met honderdduizenden stukken afval.",
+        "hook": "De baan om de aarde raakt vervuild met miljoenen stukjes ruimteafval.",
         "fact": "Er zouden naar schatting tientallen miljoenen brokstukken — van dode satellieten tot verfschilfers — om de Aarde cirkelen, en wetenschappers waarschuwen voor een 'Kessler-syndroom'-scenario waarbij botsingen elkaar in een kettingreactie versterken en nog meer puin creëren.",
         "whyItMatters": "Zonder beheer zou ruimteschroot sommige banen te gevaarlijk kunnen maken voor toekomstige satellieten en ruimtevaartuigen om veilig te gebruiken."
       },
       "es": {
-        "hook": "La órbita terrestre se está llenando de cientos de miles de trozos de basura.",
+        "hook": "La órbita terrestre se está llenando de millones de fragmentos de basura.",
         "fact": "Se calcula que decenas de millones de fragmentos de desechos —desde satélites muertos hasta trocitos de pintura— circulan alrededor de la Tierra, y los científicos advierten de un posible escenario de 'síndrome de Kessler' en el que las colisiones se encadenan y generan aún más residuos.",
         "whyItMatters": "Sin gestión, la basura orbital podría hacer que algunas órbitas resultaran demasiado peligrosas para que futuros satélites y naves las usen con seguridad."
       }
@@ -2911,23 +2911,23 @@
   {
     "id": "space-122",
     "domain": "space",
-    "hook": "Most stars aren't loners like our Sun.",
-    "fact": "More than half of Sun-like stars exist in binary or multiple star systems, orbiting one or more companion stars rather than shining alone.",
+    "hook": "Our Sun isn't the odd one out for having no companion star.",
+    "fact": "Roughly 44% of Sun-like stars orbit in binary or multiple systems with one or more companions, which leaves a slight majority — our Sun among them — shining alone.",
     "tags": [
       "stars"
     ],
     "translations": {
       "fr": {
-        "hook": "La plupart des étoiles ne sont pas solitaires comme notre Soleil.",
-        "fact": "Plus de la moitié des étoiles semblables au Soleil appartiennent à des systèmes binaires ou multiples : elles orbitent autour d'une ou plusieurs étoiles compagnes au lieu de briller seules."
+        "hook": "Notre Soleil n'a rien d'exceptionnel à n'avoir aucune étoile compagne.",
+        "fact": "Environ 44 % des étoiles semblables au Soleil évoluent en systèmes binaires ou multiples, avec une ou plusieurs compagnes ; il reste donc une courte majorité d’étoiles solitaires, dont notre Soleil."
       },
       "nl": {
-        "hook": "De meeste sterren zijn geen einzelgängers zoals onze zon.",
-        "fact": "Meer dan de helft van de zonachtige sterren maakt deel uit van een dubbel- of meervoudig sterrenstelsel en draait rond een of meer begeleidende sterren in plaats van alleen te schijnen."
+        "hook": "Onze zon is geen uitzondering omdat ze geen begeleider heeft.",
+        "fact": "Ongeveer 44% van de zonachtige sterren draait in dubbel- of meervoudige systemen met een of meer begeleiders; daarmee blijft een kleine meerderheid — waaronder onze zon — alleen staan."
       },
       "es": {
-        "hook": "La mayoría de las estrellas no son solitarias como nuestro Sol.",
-        "fact": "Más de la mitad de las estrellas parecidas al Sol forman parte de sistemas binarios o múltiples: orbitan alrededor de una o varias estrellas compañeras en lugar de brillar en solitario."
+        "hook": "Nuestro Sol no es raro por no tener estrella compañera.",
+        "fact": "Cerca del 44 % de las estrellas parecidas al Sol forman sistemas binarios o múltiples con una o varias compañeras, de modo que una ligera mayoría, el Sol incluido, brilla en solitario."
       }
     }
   },
