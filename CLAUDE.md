@@ -6,7 +6,7 @@ change *how* to work, not *what* the code does.
 
 ## Fan-out work (bulk content generation, mass edits, migrations)
 
-This repo has 2,200 curated facts × 4 locales, so "translate everything"
+This repo has 2,400 curated facts × 4 locales, so "translate everything"
 and "generate N facts per domain" style tasks come up. They are run by
 fanning work out to subagents. Follow this protocol — it was learned the
 expensive way (see "Why", below).

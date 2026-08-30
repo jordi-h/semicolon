@@ -1,11 +1,12 @@
 # semicolon
 
 A TikTok-style feed of bite-sized knowledge. Swipe, scroll, or press ↓
-through short trivia cards across eleven broad domains — Science, Technology,
+through short trivia cards across twelve broad domains — Science, Technology,
 History, Geography, Culture & Society, Space & Universe, Language &
-Etymology, Psychology & the Mind, Art & Design, Food & Cuisine, and Sports &
-Fitness — save the ones you like, and build a daily streak. The seed dataset
-holds 200 curated facts per domain (2,200 total); see "Adding new facts or a
+Etymology, Psychology & the Mind, Art & Design, Food & Cuisine, Sports &
+Fitness, and Law & Politics — save the ones you like, and build a daily
+streak. The seed dataset holds 200 curated facts per domain (2,400 total),
+each translated into French, Dutch and Spanish; see "Adding new facts or a
 new domain" below for how to keep extending it.
 
 ## Stack
@@ -113,17 +114,41 @@ new facts to Supabase (it's an upsert, so it's safe to re-run any time).
 1. Add the domain's slug to `DOMAINS` in `src/lib/types.ts`, plus a label
    in `DOMAIN_LABELS` (every locale in `LOCALES`, not just English) and an
    emoji in `DOMAIN_EMOJI`.
-2. Add a gradient and accent color for it to `DOMAIN_GRADIENTS` and
-   `DOMAIN_ACCENT` in `src/lib/domainTheme.ts`.
-3. Create `src/data/facts/<domain>.json` (aim for ~200 facts, broad
-   umbrella coverage — see the existing files for the convention) and add
-   it to the spread in `src/data/facts/index.ts`.
-4. Run `npm run seed`.
+2. Add an accent color to `DOMAIN_ACCENT` in `src/lib/domainTheme.ts`.
+   The card gradient is derived from it by `domainGradient()`, so there's
+   nothing else to pick. Read the comment above the map first: the hues
+   are a matched set on one formula, and the ring is getting crowded.
+3. Create `src/data/facts/<domain>.json` and add it to the spread in
+   `src/data/facts/index.ts`. An empty `[]` compiles, so you can wire the
+   domain up and typecheck before any content exists.
+4. Write ~200 facts, then translate them into every locale — a domain
+   with English-only facts will show English cards to French, Dutch and
+   Spanish users, since `localizeFact` falls back to the original.
+5. Run `npm run seed`.
 
-No other code changes are needed — the domain picker, feed selection,
-weighting, resurfacing, and exhaustion-fallback logic all read from
-`DOMAINS`/`preferences.domains` generically and don't hardcode which or
-how many domains exist.
+Steps 1–3 are typed, so `tsc -b` tells you what's missing — every
+per-domain map is `Record<Domain, …>`. No other code changes are needed:
+the domain picker, feed selection, weighting, resurfacing, and
+exhaustion-fallback logic all read from `DOMAINS`/`preferences.domains`
+generically and don't hardcode which or how many domains exist.
+
+**Generating content at volume** is a fan-out job — see `CLAUDE.md` for
+the batching protocol. Three things that cost real time when the `law`
+domain was added:
+
+- **Independent writers converge.** Assigning each agent a topic slice is
+  not enough; they still produced three separate Althing facts and two
+  Miranda cards. Budget a surplus (267 candidates for 200 slots) so
+  duplicates can be dropped rather than kept for want of alternatives.
+- **Dedupe against the existing corpus too**, not just within the batch.
+  A Jaccard-style similarity check catches most of it, but the threshold
+  is a blunt instrument — the Twelve Tables duplicated an existing
+  `history` fact at 0.29, under the 0.33 cutoff, and was only caught by
+  reading the near-misses. Compare replacement candidates against the
+  records you just *dropped* as well as the ones you kept.
+- **Audit before translating.** A correction found in English costs one
+  edit; the same correction after translation costs the edit plus three
+  re-translations.
 
 ## Language
 
