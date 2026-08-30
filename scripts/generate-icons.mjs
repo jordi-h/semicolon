@@ -63,6 +63,11 @@ for (const size of [192, 512]) {
   console.log(`wrote ${out}`)
 }
 
+// The link-preview image used for shared fact pages (see
+// api/fact-page.ts). 1200x630 is the standard Open Graph size.
+await sharp('resources/og-default.svg').resize(1200, 630).png().toFile('public/og-default.png')
+console.log('wrote public/og-default.png')
+
 // favicon.ico: a multi-resolution ICO built from the same source.
 const icoSizes = [16, 32, 48]
 const icoBuffers = await Promise.all(

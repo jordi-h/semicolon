@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!--
+    Fallback link-preview image for shared fact pages (api/fact-page.ts).
+
+    Deliberately wordless: this is rasterised by sharp/librsvg during
+    `npm run generate:icons`, which has no access to the app's webfonts,
+    so any <text> here renders in whatever fallback the build machine
+    happens to have (serif, monospace...) — off-brand and unpredictable.
+    The mark carries the identity instead, and the fact's own words reach
+    the preview through og:title / og:description.
+  -->
+  <defs>
+    <linearGradient id="og-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2A2140"/>
+      <stop offset="55%" stop-color="#140F1E"/>
+      <stop offset="100%" stop-color="#0F0B17"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#og-bg)"/>
+
+  <!-- Signal Violet glow behind the mark, echoing the app's accent. -->
+  <circle cx="600" cy="315" r="210" fill="#9D6BFF" opacity="0.10"/>
+
+  <!-- The semicolon mark on its tile, matching src/assets/logo-icon.svg -->
+  <g transform="translate(480 195)">
+    <rect width="240" height="240" rx="55" fill="#16161A"/>
+    <circle cx="120" cy="89" r="16" fill="#F5F4F0"/>
+    <rect x="105" y="133" width="30" height="55" rx="15" fill="#F5F4F0"/>
+  </g>
+</svg>
