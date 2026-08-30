@@ -1021,7 +1021,7 @@
   {
     "id": "sports-043",
     "domain": "sports",
-    "hook": "Curling stones were sliding across Scottish ponds before the printing press was common.",
+    "hook": "Curling is older than Shakespeare.",
     "fact": "Curling originated in 16th-century Scotland, where players slid stones across frozen ponds and lochs. Archaeological and documentary evidence dates the game to at least the 1540s.",
     "tags": [
       "curling",
@@ -1029,15 +1029,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Les pierres de curling glissaient déjà sur les étangs écossais avant que l'imprimerie ne se généralise.",
+        "hook": "Le curling est plus ancien que Shakespeare.",
         "fact": "Le curling est né en Écosse au XVIe siècle, où les joueurs faisaient glisser des pierres sur des étangs et des lochs gelés. Des preuves archéologiques et documentaires font remonter le jeu à au moins les années 1540."
       },
       "nl": {
-        "hook": "Curlingstenen gleden al over Schotse vijvers voordat de boekdrukkunst gemeengoed was.",
+        "hook": "Curling is ouder dan Shakespeare.",
         "fact": "Curling ontstond in het 16e-eeuwse Schotland, waar spelers stenen over bevroren vijvers en meren lieten glijden. Archeologisch en documentair bewijs dateert het spel tot minstens de jaren 1540."
       },
       "es": {
-        "hook": "Las piedras de curling ya se deslizaban por los estanques escoceses antes de que la imprenta se generalizara.",
+        "hook": "El curling es más antiguo que Shakespeare.",
         "fact": "El curling se originó en la Escocia del siglo XVI, donde los jugadores deslizaban piedras sobre estanques y lagos helados. Las pruebas arqueológicas y documentales sitúan el juego, como mínimo, en la década de 1540."
       }
     }
@@ -1069,7 +1069,7 @@
   {
     "id": "sports-045",
     "domain": "sports",
-    "hook": "Alpine skiing didn't join the Winter Olympics until its twelfth edition.",
+    "hook": "Alpine skiing didn't join the Winter Olympics until its fourth edition.",
     "fact": "Downhill and slalom skiing made their Winter Olympic debut only in 1936 in Garmisch-Partenkirchen, Germany, even though cross-country skiing had been part of the Games since they began in 1924.",
     "tags": [
       "skiing",
@@ -1077,15 +1077,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Le ski alpin n'a rejoint les Jeux olympiques d'hiver qu'à leur douzième édition.",
+        "hook": "Le ski alpin n'a rejoint les Jeux olympiques d'hiver qu'à leur quatrième édition.",
         "fact": "Le ski alpin, avec la descente et le slalom, n'a fait ses débuts olympiques d'hiver qu'en 1936 à Garmisch-Partenkirchen, en Allemagne, alors que le ski de fond faisait partie des Jeux depuis leurs débuts en 1924."
       },
       "nl": {
-        "hook": "Alpineskiën werd pas bij de twaalfde editie in de Olympische Winterspelen opgenomen.",
+        "hook": "Alpineskiën kwam pas bij de vierde editie van de Olympische Winterspelen.",
         "fact": "Afdaling en slalom maakten pas in 1936 in Garmisch-Partenkirchen, Duitsland, hun Olympische winterdebuut, hoewel langlaufen al sinds het begin van de Spelen in 1924 op het programma stond."
       },
       "es": {
-        "hook": "El esquí alpino no entró en los Juegos Olímpicos de Invierno hasta su duodécima edición.",
+        "hook": "El esquí alpino no llegó a los Juegos Olímpicos de Invierno hasta su cuarta edición.",
         "fact": "El descenso y el eslalon debutaron en los Juegos Olímpicos de Invierno recién en 1936, en Garmisch-Partenkirchen, Alemania, aunque el esquí de fondo formaba parte de los Juegos desde su inicio en 1924."
       }
     }
@@ -1769,7 +1769,7 @@
   {
     "id": "sports-074",
     "domain": "sports",
-    "hook": "The fastest human sprint times ever recorded came from one race in Berlin.",
+    "hook": "The fastest human sprint times ever recorded came from a single championships in Berlin.",
     "fact": "Usain Bolt set the still-standing world records in both the 100 meters (9.58 seconds) and 200 meters (19.19 seconds) at the 2009 World Championships in Berlin.",
     "tags": [
       "track-and-field",
@@ -1777,15 +1777,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Les temps de sprint humains les plus rapides jamais enregistrés proviennent d'une seule course à Berlin.",
+        "hook": "Les temps de sprint les plus rapides jamais enregistrés viennent d'un seul championnat, à Berlin.",
         "fact": "Usain Bolt a établi les records du monde toujours en vigueur du 100 mètres (9,58 secondes) et du 200 mètres (19,19 secondes) aux Championnats du monde 2009 à Berlin."
       },
       "nl": {
-        "hook": "De snelste sprinttijden ooit geregistreerd kwamen uit één race in Berlijn.",
+        "hook": "De snelste sprinttijden ooit gelopen komen van één kampioenschap in Berlijn.",
         "fact": "Usain Bolt vestigde de nog altijd geldende wereldrecords op zowel de 100 meter (9,58 seconden) als de 200 meter (19,19 seconden) op de wereldkampioenschappen van 2009 in Berlijn."
       },
       "es": {
-        "hook": "Los tiempos de esprint humano más rápidos jamás registrados salieron de una sola carrera en Berlín.",
+        "hook": "Los tiempos de esprint más rápidos jamás registrados salieron de un solo campeonato, en Berlín.",
         "fact": "Usain Bolt estableció los récords mundiales aún vigentes tanto en los 100 metros (9,58 segundos) como en los 200 metros (19,19 segundos) en los Campeonatos del Mundo de 2009 en Berlín."
       }
     }
@@ -2421,7 +2421,7 @@
   {
     "id": "sports-101",
     "domain": "sports",
-    "hook": "One boxer's Olympic career was cut short by his own sport's amateur rules.",
+    "hook": "Olympic boxing was once banned outright by the host country's own law.",
     "fact": "Boxing has been part of the Olympic program since 1904 (excluding the 1912 Stockholm Games, where it was banned under Swedish law), producing a long line of future professional champions who first fought as amateurs.",
     "tags": [
       "boxing",
@@ -2429,15 +2429,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La carrière olympique d'un boxeur a été écourtée par les propres règles amateurs de son sport.",
+        "hook": "La boxe olympique a déjà été interdite par la loi du pays hôte lui-même.",
         "fact": "La boxe fait partie du programme olympique depuis 1904 (à l'exception des Jeux de Stockholm en 1912, où elle fut interdite en vertu de la loi suédoise), produisant une longue lignée de futurs champions professionnels qui ont d'abord combattu en amateurs."
       },
       "nl": {
-        "hook": "De olympische carrière van één bokser werd afgebroken door de eigen amateurregels van zijn sport.",
+        "hook": "Olympisch boksen werd ooit verboden door de wet van het gastland zelf.",
         "fact": "Boksen maakt sinds 1904 deel uit van het olympisch programma (met uitzondering van de Spelen van Stockholm in 1912, waar het onder de Zweedse wet verboden was), en bracht een lange reeks toekomstige profkampioenen voort die eerst als amateur vochten."
       },
       "es": {
-        "hook": "La carrera olímpica de un boxeador se truncó por las propias normas amateurs de su deporte.",
+        "hook": "El boxeo olímpico llegó a estar prohibido por la propia ley del país anfitrión.",
         "fact": "El boxeo forma parte del programa olímpico desde 1904 (excepto en los Juegos de Estocolmo de 1912, donde estuvo prohibido por la ley sueca), produciendo una larga lista de futuros campeones profesionales que primero combatieron como amateurs."
       }
     }
@@ -2445,7 +2445,7 @@
   {
     "id": "sports-102",
     "domain": "sports",
-    "hook": "The first organized marathon race wasn't run in Greece at all.",
+    "hook": "The marathon is a modern invention, not an ancient Greek event.",
     "fact": "Although inspired by the ancient Greek legend of Pheidippides, the marathon as an organized athletic event was actually created for the first modern Olympics in Athens in 1896, based on a suggestion from a French classicist.",
     "tags": [
       "marathon",
@@ -2453,15 +2453,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "La première course de marathon organisée ne s'est pas du tout déroulée en Grèce.",
+        "hook": "Le marathon est une invention moderne, pas une épreuve de la Grèce antique.",
         "fact": "Bien qu'inspiré par la légende grecque antique de Phidippidès, le marathon en tant qu'épreuve sportive organisée a en réalité été créé pour les premiers Jeux olympiques modernes à Athènes en 1896, à partir d'une suggestion d'un helléniste français."
       },
       "nl": {
-        "hook": "De eerste georganiseerde marathon werd helemaal niet in Griekenland gelopen.",
+        "hook": "De marathon is een moderne uitvinding, geen onderdeel uit de Griekse oudheid.",
         "fact": "Hoewel geïnspireerd door de antieke Griekse legende van Pheidippides, werd de marathon als georganiseerd sportevenement in werkelijkheid gecreëerd voor de eerste moderne Olympische Spelen in Athene in 1896, naar aanleiding van een suggestie van een Franse classicus."
       },
       "es": {
-        "hook": "La primera carrera de maratón organizada no se corrió en Grecia.",
+        "hook": "El maratón es un invento moderno, no una prueba de la Grecia antigua.",
         "fact": "Aunque se inspiró en la antigua leyenda griega de Fidípides, el maratón como prueba atlética organizada se creó en realidad para los primeros Juegos Olímpicos modernos en Atenas en 1896, a partir de una sugerencia de un helenista francés."
       }
     }
@@ -2541,7 +2541,7 @@
   {
     "id": "sports-106",
     "domain": "sports",
-    "hook": "One of the first codified sets of soccer rules banned tripping but allowed shin-kicking.",
+    "hook": "An argument about kicking people in the shins split soccer and rugby apart.",
     "fact": "Early drafts of the Football Association's 1863 rules debated whether to allow 'hacking,' or kicking an opponent's shins. Clubs that wanted to keep hacking split off and eventually helped form rugby football instead.",
     "tags": [
       "soccer",
@@ -2549,15 +2549,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "L'un des premiers règlements codifiés du football interdisait le croc-en-jambe mais autorisait les coups de pied dans les tibias.",
+        "hook": "Une querelle sur les coups de pied dans les tibias a séparé le football du rugby.",
         "fact": "Les premières versions du règlement de 1863 de la Football Association débattaient de l'autorisation du « hacking », c'est-à-dire donner des coups de pied dans les tibias de l'adversaire. Les clubs qui voulaient conserver le hacking firent sécession et contribuèrent finalement à fonder le rugby."
       },
       "nl": {
-        "hook": "Een van de eerste gecodificeerde voetbalregelsets verbood struikelen maar stond schoppen tegen de schenen toe.",
+        "hook": "Een ruzie over het schoppen tegen schenen deed voetbal en rugby uit elkaar gaan.",
         "fact": "Vroege ontwerpen van de regels van de Football Association uit 1863 bediscussieerden of 'hacking', oftewel het schoppen tegen de schenen van een tegenstander, toegestaan moest blijven. Clubs die hacking wilden behouden, splitsten zich af en hielpen uiteindelijk mee aan de oprichting van rugbyvoetbal."
       },
       "es": {
-        "hook": "Uno de los primeros reglamentos codificados del fútbol prohibía las zancadillas pero permitía las patadas en las espinillas.",
+        "hook": "Una discusión sobre las patadas en las espinillas separó el fútbol del rugby.",
         "fact": "Los primeros borradores del reglamento de 1863 de la Football Association debatían si permitir el 'hacking', es decir, dar patadas en las espinillas del rival. Los clubes que querían conservar el hacking se separaron y acabaron ayudando a fundar el rugby."
       }
     }
@@ -2637,24 +2637,24 @@
   {
     "id": "sports-110",
     "domain": "sports",
-    "hook": "Modern fencing's three weapons all evolved from different real duels.",
-    "fact": "Olympic fencing's three disciplines, foil, épée, and sabre, each trace back to different historical combat traditions: dueling swords, military cavalry sabers, and lightweight practice blades used to train young noblemen.",
+    "hook": "Modern fencing's three weapons come from three different fighting traditions.",
+    "fact": "Olympic fencing's three disciplines, foil, épée, and sabre, each trace back to a different historical tradition: the lightweight blades used to train young noblemen, the dueling swords of civilian honor culture, and the sabres of military cavalry.",
     "tags": [
       "fencing",
       "invention"
     ],
     "translations": {
       "fr": {
-        "hook": "Les trois armes de l'escrime moderne ont chacune évolué à partir de duels réels différents.",
-        "fact": "Les trois disciplines de l'escrime olympique, le fleuret, l'épée et le sabre, remontent chacune à une tradition de combat historique différente : épées de duel, sabres de cavalerie militaire, et lames légères d'entraînement utilisées pour former les jeunes nobles."
+        "hook": "Les trois armes de l'escrime moderne viennent de trois traditions de combat différentes.",
+        "fact": "Les trois disciplines de l'escrime olympique, le fleuret, l'épée et le sabre, remontent chacune à une tradition différente : les lames légères servant à entraîner les jeunes nobles, les épées de duel de la culture de l'honneur, et les sabres de la cavalerie militaire."
       },
       "nl": {
-        "hook": "De drie wapens van het moderne schermen evolueerden elk uit andere echte duels.",
-        "fact": "De drie olympische schermdisciplines, floret, degen en sabel, gaan elk terug op een andere historische gevechtstraditie: duelleerdegens, militaire cavaleriesabels en lichte oefenwapens waarmee jonge edelen werden getraind."
+        "hook": "De drie wapens van het moderne schermen komen uit drie verschillende gevechtstradities.",
+        "fact": "De drie olympische schermdisciplines, floret, degen en sabel, gaan elk terug op een andere traditie: de lichte klingen waarmee jonge edelen werden getraind, de duelleerdegens van de erecultuur, en de sabels van de militaire cavalerie."
       },
       "es": {
-        "hook": "Las tres armas de la esgrima moderna evolucionaron cada una a partir de duelos reales distintos.",
-        "fact": "Las tres disciplinas de la esgrima olímpica, florete, espada y sable, se remontan cada una a una tradición de combate histórica distinta: espadas de duelo, sables de caballería militar y hojas de práctica ligeras usadas para entrenar a jóvenes nobles."
+        "hook": "Las tres armas de la esgrima moderna vienen de tres tradiciones de combate distintas.",
+        "fact": "Las tres disciplinas de la esgrima olímpica, florete, espada y sable, proceden cada una de una tradición distinta: las hojas ligeras con las que se entrenaba a los jóvenes nobles, las espadas de duelo de la cultura del honor y los sables de la caballería militar."
       }
     }
   },

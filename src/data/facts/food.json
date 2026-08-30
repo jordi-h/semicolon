@@ -2519,7 +2519,7 @@
   {
     "id": "food-103",
     "domain": "food",
-    "hook": "A Persian sour soup gave its name to a whole global cuisine.",
+    "hook": "Sorbet and syrup started out as the same word.",
     "fact": "The word 'sherbet,' and later 'sorbet' and 'syrup,' trace back to Persian and Arabic words for a chilled, sweetened drink, showing how far Persian culinary vocabulary spread through Islamic trade networks into Europe.",
     "tags": [
       "ingredient-history",
@@ -2527,15 +2527,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Une soupe aigre persane a donné son nom à toute une cuisine mondiale.",
+        "hook": "« Sorbet » et « sirop » étaient à l'origine le même mot.",
         "fact": "Le mot « sorbet » et le mot « sirop » remontent tous deux à des termes persans et arabes désignant une boisson sucrée et glacée, un signe de la façon dont le vocabulaire culinaire persan s'est diffusé jusqu'en Europe via les réseaux commerciaux islamiques."
       },
       "nl": {
-        "hook": "Een Perzische zure soep gaf haar naam aan een hele wereldkeuken.",
+        "hook": "'Sorbet' en 'siroop' waren ooit hetzelfde woord.",
         "fact": "Het woord 'sorbet' en later 'siroop' gaan terug op Perzische en Arabische woorden voor een gekoelde, gezoete drank, wat laat zien hoe ver het Perzische culinaire vocabularium zich via islamitische handelsnetwerken tot in Europa verspreidde."
       },
       "es": {
-        "hook": "Una sopa agria persa le dio su nombre a toda una cocina global.",
+        "hook": "«Sorbete» y «jarabe» empezaron siendo la misma palabra.",
         "fact": "La palabra 'sorbete' y más tarde 'jarabe' se remontan a palabras persas y árabes que designaban una bebida fría y endulzada, lo que muestra hasta qué punto el vocabulario culinario persa se propagó por Europa a través de las redes comerciales islámicas."
       }
     }
@@ -2687,7 +2687,7 @@
   {
     "id": "food-110",
     "domain": "food",
-    "hook": "Papua New Guinea, not Southeast Asia, is where the world's bananas began.",
+    "hook": "Bananas are native to neither Africa nor the Americas.",
     "fact": "Bananas were first domesticated from wild species in Southeast Asia and the New Guinea region thousands of years ago, later spreading to Africa via trade routes and eventually to the Americas.",
     "tags": [
       "ingredient-history",
@@ -2695,15 +2695,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "C'est en Papouasie-Nouvelle-Guinée, et non en Asie du Sud-Est, que les bananes du monde ont vu le jour.",
+        "hook": "La banane n'est originaire ni d'Afrique ni d'Amérique.",
         "fact": "Les bananes ont été domestiquées pour la première fois à partir d'espèces sauvages en Asie du Sud-Est et dans la région de la Nouvelle-Guinée il y a des milliers d'années, avant de se répandre en Afrique via les routes commerciales, puis aux Amériques."
       },
       "nl": {
-        "hook": "Papoea-Nieuw-Guinea, niet Zuidoost-Azië, is waar de bananen van de wereld begonnen.",
+        "hook": "De banaan komt oorspronkelijk niet uit Afrika of Amerika.",
         "fact": "Bananen werden duizenden jaren geleden voor het eerst gedomesticeerd uit wilde soorten in Zuidoost-Azië en de regio Nieuw-Guinea, en verspreidden zich later via handelsroutes naar Afrika en uiteindelijk naar Amerika."
       },
       "es": {
-        "hook": "Papúa Nueva Guinea, y no el sudeste asiático, es donde comenzaron los plátanos del mundo.",
+        "hook": "El plátano no es originario ni de África ni de América.",
         "fact": "Los plátanos fueron domesticados por primera vez a partir de especies silvestres en el sudeste asiático y la región de Nueva Guinea hace miles de años, para luego extenderse a África a través de rutas comerciales y, finalmente, a América."
       }
     }
@@ -4141,7 +4141,7 @@
     "id": "food-170",
     "domain": "food",
     "hook": "Port wine gets its sweetness from having its fermentation deliberately interrupted.",
-    "fact": "Grape brandy is added partway through fermentation, killing off the yeast before all the sugar converts to alcohol. This leaves residual sweetness and boosts the alcohol content, a technique called fortification, named after the city of Porto, Portugal.",
+    "fact": "Grape brandy is added partway through fermentation, killing off the yeast before all the sugar converts to alcohol. This leaves residual sweetness and boosts the alcohol content, a technique called fortification. The wine itself takes its name from Porto, the Portuguese city its barrels shipped from.",
     "tags": [
       "port-wine",
       "portugal"
@@ -4149,15 +4149,15 @@
     "translations": {
       "fr": {
         "hook": "Le porto doit sa douceur à une fermentation volontairement interrompue.",
-        "fact": "De l'eau-de-vie de raisin est ajoutée en cours de fermentation, tuant les levures avant que tout le sucre ne se transforme en alcool. Cela laisse un sucre résiduel et augmente la teneur en alcool, une technique appelée fortification (ou mutage), nommée d'après la ville de Porto, au Portugal."
+        "fact": "De l'eau-de-vie de raisin est ajoutée en cours de fermentation, ce qui tue les levures avant que tout le sucre ne se transforme en alcool. Il reste ainsi une douceur résiduelle et le degré d'alcool augmente : c'est le mutage. Le vin, lui, tient son nom de Porto, la ville portugaise d'où partaient ses fûts."
       },
       "nl": {
         "hook": "Portwijn dankt zijn zoetheid aan een doelbewust onderbroken gisting.",
-        "fact": "Druivenbrandewijn wordt tijdens de gisting toegevoegd, waardoor de gist afsterft voordat alle suiker in alcohol is omgezet. Dit laat restsuiker achter en verhoogt het alcoholpercentage, een techniek die fortificatie wordt genoemd, vernoemd naar de stad Porto in Portugal."
+        "fact": "Halverwege de gisting wordt druivenbrandewijn toegevoegd, waardoor de gist afsterft voordat alle suiker in alcohol is omgezet. Zo blijft er restzoetheid over en stijgt het alcoholpercentage, een techniek die versterking heet. De wijn zelf dankt zijn naam aan Porto, de Portugese stad waaruit zijn vaten werden verscheept."
       },
       "es": {
         "hook": "El vino de Oporto debe su dulzor a una fermentación interrumpida deliberadamente.",
-        "fact": "Se añade aguardiente de uva a mitad de la fermentación, lo que mata la levadura antes de que todo el azúcar se convierta en alcohol. Esto deja azúcar residual y aumenta el contenido de alcohol, una técnica llamada fortificación, llamada así por la ciudad de Oporto, Portugal."
+        "fact": "Se añade aguardiente de uva a mitad de la fermentación, lo que mata la levadura antes de que todo el azúcar se convierta en alcohol. Así queda dulzor residual y sube la graduación: es el encabezado. El vino, en cambio, debe su nombre a Oporto, la ciudad portuguesa desde la que se enviaban sus barricas."
       }
     }
   },

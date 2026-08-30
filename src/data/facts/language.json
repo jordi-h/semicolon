@@ -3253,7 +3253,7 @@
   {
     "id": "language-133",
     "domain": "language",
-    "hook": "The same word can mean opposite things in Japanese and Chinese.",
+    "hook": "The same written word can mean wildly different things in Japanese and Chinese.",
     "fact": "Kanji borrowed from Chinese characters can carry very different meanings in Japanese than in modern Chinese; for instance, 手紙 means \"letter\" (as in mail) in Japanese but means \"toilet paper\" in Chinese, a classic false friend between the two writing systems.",
     "tags": [
       "false-friends",
@@ -3262,15 +3262,15 @@
     ],
     "translations": {
       "fr": {
-        "hook": "Un même mot peut vouloir dire deux choses opposées en japonais et en chinois.",
+        "hook": "Un même mot écrit peut vouloir dire des choses très différentes en japonais et en chinois.",
         "fact": "Les kanjis empruntés aux caractères chinois peuvent avoir un sens très différent en japonais et en chinois moderne : ainsi, 手紙 signifie « lettre » (au sens du courrier) en japonais, mais « papier toilette » en chinois, un exemple classique de faux ami entre les deux systèmes d'écriture."
       },
       "nl": {
-        "hook": "Hetzelfde woord kan in het Japans en het Chinees tegenovergestelde dingen betekenen.",
+        "hook": "Hetzelfde geschreven woord kan in het Japans en het Chinees heel iets anders betekenen.",
         "fact": "Kanji die zijn overgenomen uit Chinese karakters kunnen in het Japans een heel andere betekenis hebben dan in het moderne Chinees; zo betekent 手紙 in het Japans \"brief\" (als in post), maar in het Chinees \"toiletpapier\", een klassiek voorbeeld van een false friend tussen de twee schriftsystemen."
       },
       "es": {
-        "hook": "La misma palabra puede significar cosas opuestas en japonés y en chino.",
+        "hook": "La misma palabra escrita puede significar cosas muy distintas en japonés y en chino.",
         "fact": "Los kanji tomados de los caracteres chinos pueden tener significados muy distintos en japonés y en el chino moderno; por ejemplo, 手紙 significa \"carta\" (de correo) en japonés, pero \"papel higiénico\" en chino, un clásico falso amigo entre los dos sistemas de escritura."
       }
     }
