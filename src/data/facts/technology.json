@@ -3948,7 +3948,7 @@
     "id": "technology-163",
     "domain": "technology",
     "hook": "GPS satellites run on clocks corrected for Einstein's relativity.",
-    "fact": "GPS satellite clocks tick faster than clocks on Earth due to weaker gravity and orbital speed effects predicted by relativity. The system applies constant corrections, or positioning errors would accumulate by miles per day.",
+    "fact": "GPS satellite clocks tick faster than clocks on Earth: weaker gravity speeds them up by about 45 microseconds a day, while their orbital speed drags them back by about 7, for a net gain of 38. The system corrects for both constantly, or positioning errors would accumulate by miles per day.",
     "whyItMatters": "Without that relativistic correction, every GPS device on Earth would drift wildly inaccurate within hours.",
     "tags": [
       "transportation",
@@ -3957,17 +3957,17 @@
     "translations": {
       "fr": {
         "hook": "Les satellites GPS tournent avec des horloges corrigées par la relativité d'Einstein.",
-        "fact": "Les horloges des satellites GPS avancent plus vite que celles restées sur Terre, à cause de la gravité plus faible et de la vitesse orbitale, deux effets prédits par la relativité. Le système applique des corrections permanentes, sans quoi les erreurs de position s'accumuleraient de plusieurs kilomètres par jour.",
+        "fact": "Les horloges des satellites GPS avancent par rapport à celles de la Terre : la gravité plus faible les accélère d'environ 45 microsecondes par jour, tandis que leur vitesse orbitale les retarde d'environ 7, soit un gain net de 38. Le système corrige les deux en permanence, sans quoi les erreurs de position s'accumuleraient de plusieurs kilomètres par jour.",
         "whyItMatters": "Sans cette correction relativiste, chaque appareil GPS sur Terre deviendrait totalement imprécis en quelques heures."
       },
       "nl": {
         "hook": "GPS-satellieten draaien op klokken die gecorrigeerd zijn voor Einsteins relativiteit.",
-        "fact": "De klokken in GPS-satellieten lopen sneller dan klokken op aarde door de zwakkere zwaartekracht en de baansnelheid, effecten die de relativiteitstheorie voorspelt. Het systeem corrigeert daar voortdurend voor; anders zouden positiefouten per dag tot kilometers oplopen.",
+        "fact": "Klokken in GPS-satellieten lopen sneller dan op aarde: de zwakkere zwaartekracht versnelt ze met zo'n 45 microseconden per dag, terwijl hun baansnelheid ze juist zo'n 7 vertraagt — netto 38 vooruit. Het systeem corrigeert voortdurend voor beide, anders zouden positiefouten per dag kilometers oplopen.",
         "whyItMatters": "Zonder die relativistische correctie zou elk gps-apparaat op aarde binnen enkele uren hopeloos de mist in gaan."
       },
       "es": {
         "hook": "Los satélites GPS funcionan con relojes corregidos por la relatividad de Einstein.",
-        "fact": "Los relojes de los satélites GPS van más rápido que los de la Tierra por la menor gravedad y la velocidad orbital, efectos predichos por la relatividad. El sistema aplica correcciones constantes; de lo contrario, los errores de posición se acumularían en kilómetros al día.",
+        "fact": "Los relojes de los satélites GPS adelantan respecto a los terrestres: la gravedad más débil los acelera unos 45 microsegundos al día, mientras que su velocidad orbital los retrasa unos 7, con una ganancia neta de 38. El sistema corrige ambos efectos de forma continua; si no, los errores de posición se acumularían en kilómetros cada día.",
         "whyItMatters": "Sin esa corrección relativista, cualquier dispositivo GPS del planeta se volvería tremendamente impreciso en cuestión de horas."
       }
     }
@@ -3975,24 +3975,24 @@
   {
     "id": "technology-164",
     "domain": "technology",
-    "hook": "Modern tires exist because a vet wanted a smoother bicycle ride.",
-    "fact": "John Boyd Dunlop, a Scottish veterinarian, developed a practical pneumatic (air-filled) rubber tire in 1888 to give his son's bicycle a smoother ride. The design was quickly adapted for the growing automobile industry.",
+    "hook": "Modern tires exist because a vet wanted a smoother ride for his son's tricycle.",
+    "fact": "John Boyd Dunlop, a Scottish veterinarian, developed a practical pneumatic (air-filled) rubber tire in 1888 to give his son's tricycle a smoother ride. The design was quickly adapted for the growing automobile industry.",
     "tags": [
       "transportation",
       "invention"
     ],
     "translations": {
       "fr": {
-        "hook": "Le pneu moderne existe parce qu'un vétérinaire voulait un vélo plus confortable.",
-        "fact": "John Boyd Dunlop, vétérinaire écossais, a mis au point en 1888 un pneu en caoutchouc gonflable réellement utilisable pour adoucir les trajets à vélo de son fils. Le principe a très vite été repris par l'industrie automobile naissante."
+        "hook": "Les pneus modernes existent parce qu'un vétérinaire voulait adoucir les trajets du tricycle de son fils.",
+        "fact": "John Boyd Dunlop, vétérinaire écossais, met au point en 1888 un pneu en caoutchouc gonflable réellement utilisable, pour adoucir les trajets du tricycle de son fils. Le principe est rapidement repris par l'industrie automobile naissante."
       },
       "nl": {
-        "hook": "Moderne banden bestaan omdat een dierenarts zijn zoon comfortabeler wilde laten fietsen.",
-        "fact": "De Schotse dierenarts John Boyd Dunlop ontwikkelde in 1888 een bruikbare luchtband van rubber om de fiets van zijn zoon soepeler te laten rijden. Het ontwerp werd al snel overgenomen door de opkomende auto-industrie."
+        "hook": "Moderne banden bestaan omdat een dierenarts de driewieler van zijn zoon comfortabeler wilde maken.",
+        "fact": "De Schotse dierenarts John Boyd Dunlop ontwikkelde in 1888 een bruikbare luchtband van rubber om de driewieler van zijn zoon comfortabeler te maken. Het ontwerp werd al snel overgenomen door de opkomende auto-industrie."
       },
       "es": {
-        "hook": "Los neumáticos modernos existen porque un veterinario quería una bici más cómoda.",
-        "fact": "John Boyd Dunlop, veterinario escocés, creó en 1888 un neumático de caucho lleno de aire realmente práctico para que su hijo fuera más cómodo en bicicleta. El diseño pasó enseguida a la incipiente industria del automóvil."
+        "hook": "Los neumáticos modernos existen porque un veterinario quiso suavizar los paseos del triciclo de su hijo.",
+        "fact": "John Boyd Dunlop, veterinario escocés, desarrolló en 1888 un neumático de caucho lleno de aire realmente práctico para suavizar los paseos del triciclo de su hijo. El diseño se adaptó enseguida a la naciente industria del automóvil."
       }
     }
   },
