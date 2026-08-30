@@ -8,8 +8,7 @@ export type { TranslationKey } from '@/lib/i18n/en'
 
 export const dictionaries: Record<Locale, Record<TranslationKey, string>> = { en, fr, nl, es }
 
-// Prefix predates the rename to "semico"; see src/lib/api/localKeys.ts.
-const GUEST_LOCALE_KEY = 'semicolon:locale'
+const GUEST_LOCALE_KEY = 'semico:locale'
 
 function isLocale(value: string): value is Locale {
   return (LOCALES as readonly string[]).includes(value)

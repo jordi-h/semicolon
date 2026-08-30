@@ -27,8 +27,7 @@ export function removeLocal(key: string): void {
   }
 }
 
-// Prefix predates the rename to "semico"; see src/lib/api/localKeys.ts.
-const GUEST_ID_KEY = 'semicolon:guest-id'
+const GUEST_ID_KEY = 'semico:guest-id'
 
 /** Stable per-browser id used to namespace local data when no one is
  * signed in via Supabase (i.e. Supabase isn't configured yet). */

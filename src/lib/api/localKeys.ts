@@ -7,18 +7,13 @@
  * would drift silently: the reset would report success while leaving
  * state behind, which is worse than failing loudly.
  */
-/** The `semicolon:` prefix predates the rename to "semico" and stays.
- * These namespace real user data in the local-dev fallback — preferences,
- * saved facts, stats — so renaming them would silently orphan it on every
- * existing browser. The strings never reach a user's eyes; the cost of
- * changing them is real and the benefit is zero. */
 export const localKeys = {
-  seenFacts: (userId: string) => `semicolon:seen-facts:${userId}`,
-  domainAffinity: (userId: string) => `semicolon:domain-affinity:${userId}`,
-  tagAffinity: (userId: string) => `semicolon:tag-affinity:${userId}`,
-  stats: (userId: string) => `semicolon:stats:${userId}`,
-  savedFacts: (userId: string) => `semicolon:saved-facts:${userId}`,
+  seenFacts: (userId: string) => `semico:seen-facts:${userId}`,
+  domainAffinity: (userId: string) => `semico:domain-affinity:${userId}`,
+  tagAffinity: (userId: string) => `semico:tag-affinity:${userId}`,
+  stats: (userId: string) => `semico:stats:${userId}`,
+  savedFacts: (userId: string) => `semico:saved-facts:${userId}`,
   /** Topics + language. Deliberately NOT cleared by any reset scope:
    * it's configuration, not progress. */
-  preferences: (userId: string) => `semicolon:preferences:${userId}`,
+  preferences: (userId: string) => `semico:preferences:${userId}`,
 } as const
