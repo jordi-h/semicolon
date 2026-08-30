@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Bulk translation staging (scripts/translation-stage.mjs) — intermediate
+.translation-work
